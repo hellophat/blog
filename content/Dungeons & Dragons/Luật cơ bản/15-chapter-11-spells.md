@@ -2,17 +2,19 @@
 title: Chương 11 - Các phép
 ---
 
-# Chương 11: Các phép
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 86-108.
 
-![Một sơ đồ vòng tròn ma thuật](https://commons.wikimedia.org/wiki/Special:Redirect/file/Ding%27s%20Magic%20circle.jpg?width=1000)
+![Nam đại pháp sư mở sách phép giữa thư viện ma thuật](assets/chapter-11-spells-cover.png)
 
-*Sơ đồ vòng tròn ma thuật của Ding Yidong — Gisling, phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Ding%27s_Magic_circle.jpg).*
+*Kho phép thuật trải từ những mẹo phép nhỏ đến sức mạnh có thể làm thay đổi cả chiến trường và thế giới. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Chương này mô tả những phép thường gặp nhất trong các thế giới Dungeons & Dragons. Chương bắt đầu bằng những danh sách phép được tuyển chọn cho các lớp thi triển phép thường gặp nhất. Phần còn lại chứa mô tả phép, xếp theo thứ tự chữ cái của tên tiếng Anh.
 
 ## Phép Giáo sĩ (Cleric Spells)
+
+![Nam giáo sĩ chữa lành đồng minh và xua lùi bóng tối bằng ánh sáng thiêng](assets/chapter-11-cleric-spells.png)
+
+*Phép giáo sĩ thiên về bảo hộ, chữa trị, dẫn dắt và vận dụng sức mạnh thiêng liêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 ### Phép sơ cấp (bậc 0)
 
@@ -103,6 +105,10 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 - Phục sinh đích thực (True Resurrection)
 
 ## Phép Pháp sư (Wizard Spells)
+
+![Nam pháp sư điều khiển nhiều dạng ma thuật từ sách phép](assets/chapter-11-wizard-spells.png)
+
+*Phép pháp sư trải rộng từ nguyên tố và phòng hộ đến ảo thuật, dịch chuyển và biến đổi thực tại. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 ### Phép sơ cấp (bậc 0)
 
@@ -211,6 +217,10 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 
 ## Mô tả phép (Spell Descriptions)
 
+![Nam học giả phép thuật so sánh nhiều hiệu ứng trong xưởng nghiên cứu](assets/chapter-11-spell-descriptions.png)
+
+*Mỗi mô tả phép xác định cách thi triển, phạm vi, thời lượng, mục tiêu và kết quả của phép. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Các phép được trình bày theo thứ tự chữ cái của tên tiếng Anh.
 
 ### Tạt axit (Acid Splash)
@@ -228,6 +238,10 @@ Sát thương của phép tăng thêm 1d6 khi bạn đạt cấp 5 (2d6), cấp 
 
 ### Tiếp sức (Aid)
 
+![Nam thầy thuốc phép thuật hồi phục và tiếp sức cho đoàn lữ hành](assets/chapter-11-healing-blessing.png)
+
+*Các phép chữa trị, tiếp sức và phục hồi giúp đồng đội vượt qua thương tích, kiệt sức và hiệu ứng bất lợi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Phòng hộ bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -240,6 +254,10 @@ Phép tăng sự dẻo dai và quyết tâm của đồng minh. Chọn tối đa
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 3 trở lên, điểm sinh lực của mục tiêu tăng thêm 5 cho mỗi bậc ô vượt bậc 2.
 
 ### Trường phản ma thuật (Antimagic Field)
+
+![Nam tiên tri quan sát tương lai sau nhiều lớp phòng hộ huyền thuật](assets/chapter-11-protection-divination.png)
+
+*Phòng hộ và tiên tri giúp người dùng phép ngăn chặn nguy hiểm, phát hiện điều ẩn giấu và chuẩn bị cho khả năng sắp tới. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Phòng hộ bậc 8*
 
@@ -297,6 +315,10 @@ Bạn chạm cửa ra vào, cửa sổ, cổng, rương hoặc lối vào khác 
 Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơn; DC để phá đồ vật hoặc cạy bất kỳ ổ khóa nào trên nó tăng 10.
 
 ### Xuất hồn Astral (Astral Projection)
+
+![Nam lữ khách cõi giới đưa linh thể xuyên qua những cánh cổng giữa các thế giới](assets/chapter-11-planar-travel.png)
+
+*Phép du hành cõi giới mở đường qua không gian, chiều không gian và những tầng tồn tại xa lạ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Tử linh bậc 9*
 
@@ -387,6 +409,10 @@ Cơ thể bạn trở nên mờ nhòe, dịch chuyển và chập chờn trong m
 
 ### Bàn tay bốc lửa (Burning Hands)
 
+![Nam pháp sư lửa trình diễn nhiều hình thái hỏa thuật trên thao trường](assets/chapter-11-fire-magic.png)
+
+*Hỏa thuật có thể tạo tia lửa, quạt lửa, quả cầu, bức tường hoặc cơn bão hủy diệt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -402,6 +428,10 @@ Lửa đốt cháy đồ vật dễ cháy trong vùng không được mặc ho�
 
 ### Sét dây chuyền (Chain Lightning)
 
+![Nam pháp sư nguyên tố đồng thời điều khiển sét axit và băng giá](assets/chapter-11-elemental-magic.png)
+
+*Các loại năng lượng khác nhau tạo ra cách tấn công, phạm vi và tác động riêng biệt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Gọi năng lượng bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -416,6 +446,10 @@ Mục tiêu phải cứu nguy Khéo léo. Thất bại chịu 10d8 sát thương
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 7 trở lên, thêm một tia nhảy từ mục tiêu đầu đến mục tiêu khác cho mỗi bậc ô vượt bậc 6.
 
 ### Mê hoặc người (Charm Person)
+
+![Nam thuật sĩ tạo ảo ảnh và tác động tinh tế đến triều đình](assets/chapter-11-illusion-enchantment.png)
+
+*Ảo thuật và mê hoặc thay đổi nhận thức, cảm xúc hoặc quyết định thay vì trực tiếp gây thương tổn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Mê hoặc bậc 1*
 
@@ -524,6 +558,10 @@ Sinh vật bạn chạm hồi điểm sinh lực bằng 1d8 + hệ số thuộc 
 
 ### Ánh sáng nhảy múa (Dancing Lights)
 
+![Nam giáo sĩ dùng ánh sáng thiêng đẩy lùi một vùng bóng tối siêu nhiên](assets/chapter-11-light-darkness.png)
+
+*Ánh sáng và bóng tối có thể soi đường, che khuất, bảo vệ hoặc áp đảo những hiệu ứng đối nghịch. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Phép sơ cấp Gọi năng lượng*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -585,6 +623,10 @@ Lửa làm hư đồ vật trong vùng và đốt đồ dễ cháy không đư�
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 8 trở lên, sát thương cơ bản tăng 1d6 cho mỗi bậc ô vượt bậc 7.
 
 ### Phát hiện ma thuật (Detect Magic)
+
+![Nam điều tra viên huyền thuật khám phá hào quang lối đi và ổ khóa bí mật](assets/chapter-11-utility-investigation.png)
+
+*Phép tiện ích giúp tìm đường, hiểu dấu vết, nhận diện vật phẩm và vượt qua chướng ngại không cần giao chiến. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Tiên tri bậc 1 (nghi thức)*
 
@@ -731,6 +773,10 @@ Nếu có bộ phận cơ thể, lọn tóc, móng cắt hoặc phần tương t
 
 ### Động đất (Earthquake)
 
+![Nam địa thuật sư dựng đá phá đất và điều khiển bão cùng mạng phép](assets/chapter-11-earth-storm-web.png)
+
+*Những phép này biến đổi địa hình và thời tiết, khiến chính môi trường trở thành sức mạnh của người thi triển. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Gọi năng lượng bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -800,6 +846,10 @@ Mỗi đồ vật trong khối lập phương cạnh 20 feet trong tầm đượ
 Mọi lần tung tấn công vào sinh vật hoặc đồ vật chịu phép có lợi thế nếu kẻ tấn công nhìn thấy nó; sinh vật hoặc đồ vật không được hưởng lợi từ vô hình.
 
 ### Ngón tay tử vong (Finger of Death)
+
+![Nam tư tế đứng giữa sức mạnh tử vong và phép hồi sinh một chiến binh](assets/chapter-11-death-resurrection.png)
+
+*Ma thuật tử sinh có thể gây hại, thao túng sự sống hoặc đưa một linh hồn trở lại thân xác. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Tử linh bậc 7*
 
@@ -885,6 +935,10 @@ Khi di chuyển cầu, có thể cho nó vượt rào cao tối đa 5 feet và n
 
 ### Bay (Fly)
 
+![Nam kiếm sĩ phép thuật bay lơ lửng tăng tốc và bước qua cổng sương](assets/chapter-11-movement-teleportation.png)
+
+*Phép di chuyển thay đổi tốc độ, độ cao và khoảng cách, thậm chí bỏ qua không gian ở giữa. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Biến đổi bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
@@ -897,6 +951,10 @@ Bạn chạm sinh vật sẵn lòng. Mục tiêu có tốc độ bay 60 feet su�
 **Ở bậc cao hơn.** Khi dùng ô bậc 4 trở lên, nhắm thêm một sinh vật cho mỗi bậc ô vượt bậc 3.
 
 ### Thấy trước (Foresight)
+
+![Nam pháp sư thời gian đứng giữa khoảnh khắc đóng băng và nhiều tương lai khả dĩ](assets/chapter-11-time-foresight.png)
+
+*Tiên kiến và thao túng thời gian cho phép nhận biết nguy cơ trước khi nó xảy ra hoặc tạm vượt khỏi dòng thời gian. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Tiên tri bậc 9*
 
@@ -940,6 +998,10 @@ Thần và những người cai trị cõi khác có thể ngăn cổng của ph
 Khi thi triển, có thể nói tên một sinh vật cụ thể; bí danh, danh hiệu hoặc biệt danh không được. Nếu nó ở cõi khác bạn, cổng mở ngay gần nó và kéo nó qua đến không gian trống gần nhất ở phía bạn. Bạn không có quyền năng đặc biệt với sinh vật; nó tự do hành động theo DM quyết định, có thể bỏ đi, tấn công hoặc giúp bạn.
 
 ### Cầu bất khả xâm phạm (Globe of Invulnerability)
+
+![Nam pháp sư phòng hộ dựng khiên mái vòm rào lưỡi kiếm và phản phép](assets/chapter-11-barriers-counterspells.png)
+
+*Phép phòng hộ tạo vật cản, vô hiệu hóa phép đối phương và bảo vệ đồng minh trước nguy hiểm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Phòng hộ bậc 6*
 
@@ -1425,6 +1487,10 @@ Mục tiêu có thể dùng hành động thử thoát, kiểm tra Trí tuệ DC
 Khi phép kết thúc, mục tiêu xuất hiện lại ở không gian đã rời, hoặc không gian trống gần nhất nếu nơi đó bị chiếm.
 
 ### Mưa thiên thạch (Meteor Swarm)
+
+![Nam đại tư tế pháp sư bảo vệ và chữa lành một đạo quân dưới mưa thiên thạch](assets/chapter-11-epic-magic.png)
+
+*Phép cấp cao có thể tác động đến nhiều sinh vật và làm thay đổi cả một vùng rộng lớn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Gọi năng lượng bậc 9*
 

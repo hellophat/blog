@@ -2,13 +2,11 @@
 title: Chương 12 - Quái vật
 ---
 
-# Chương 12: Quái vật
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 110-164.
 
-![Hình rồng trong một sách quái vật thời trung cổ](https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20dragon%20ca.%201270%20Hugh%20of%20Fouilloy%27s%20Bestiary.jpg?width=1200)
+![Nữ học giả dragonborn khảo cứu các sinh vật trong một thư viện kỳ ảo](assets/chapter-12-monsters-cover.png)
 
-*Hình rồng trong sách quái vật của Hugh of Fouilloy, khoảng năm 1270 — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:A_dragon_ca._1270_Hugh_of_Fouilloy%27s_Bestiary.jpg).*
+*Muôn hình sinh vật của thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Là Quản trò (DM), bạn có rất nhiều tài nguyên để khiến trò chơi thú vị và vui vẻ với người chơi—và quái vật đứng đầu danh sách. Quái vật được định nghĩa là bất kỳ sinh vật nào có thể tương tác và có khả năng bị chiến đấu, giết chết. Ngay cả thứ vô hại như ếch hay nhân từ như kỳ lân cũng là quái vật theo định nghĩa này. Thuật ngữ cũng áp dụng cho con người, elf, dwarf và những dân tộc khác có thể là bạn bè hoặc đối thủ của nhân vật người chơi.
 
@@ -16,9 +14,17 @@ Chương này trình bày nhiều quái vật sẵn dùng—một phần những
 
 ## Thông số (Statistics)
 
+![Một học giả dwarf phân tích khối thông số của nhiều sinh vật](assets/chapter-12-statistics.png)
+
+*Khối thông số tập hợp các dữ kiện cần thiết để điều khiển một sinh vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Thông số quái vật, đôi khi gọi là khối thông số (stat block), cung cấp thông tin thiết yếu để bạn điều khiển quái vật.
 
 ### Kích cỡ (Size)
+
+![Nữ tự nhiên học elf so sánh kích cỡ và loại của nhiều sinh vật](assets/chapter-12-size-types.png)
+
+*Kích cỡ và loại giúp xác định bản chất cùng không gian mà sinh vật chiếm giữ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Quái vật có thể Rất nhỏ (Tiny), Nhỏ (Small), Trung bình (Medium), Lớn (Large), Khổng lồ (Huge) hoặc Cực đại (Gargantuan). Xem Chương 9 để biết thêm về kích cỡ và không gian sinh vật.
 
@@ -155,6 +161,10 @@ Một số sinh vật dễ tổn thương, kháng hoặc miễn nhiễm một s�
 
 ### Giác quan (Senses)
 
+![Kiểm lâm tiefling dùng ánh sáng và dấu vết để nhận biết sinh vật](assets/chapter-12-senses-languages.png)
+
+*Giác quan và ngôn ngữ quyết định cách sinh vật cảm nhận, giao tiếp và phản ứng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Mục Giác quan ghi điểm Minh triết (Nhận biết) thụ động và các giác quan đặc biệt nếu có. Các giác quan đặc biệt được mô tả dưới đây.
 
 **Thị giác mù (Blindsight).** Quái vật nhận biết xung quanh không dựa vào thị giác trong bán kính nhất định. Sinh vật không mắt như grimlock và gray ooze thường có giác quan này, cũng như sinh vật định vị bằng tiếng vang hoặc có giác quan tăng cường, như dơi và rồng thực thụ. Nếu bẩm sinh mù, quái vật có ghi chú trong ngoặc nêu điều đó; bán kính thị giác mù là tầm nhận biết tối đa.
@@ -178,6 +188,10 @@ Quái vật không cần thấy sinh vật được liên hệ và có thể k�
 Sinh vật trong vùng *Trường phản ma thuật (antimagic field)* hoặc nơi khác ma thuật không hoạt động không thể gửi hoặc nhận thông điệp thần giao cách cảm.
 
 ### Thách thức (Challenge)
+
+![Nữ chiến thuật gia đánh giá mức đe dọa của nhiều quái vật](assets/chapter-12-challenge-traits.png)
+
+*Chỉ số thách thức giúp DM ước lượng mức nguy hiểm của một cuộc chạm trán. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mức thách thức cho biết quái vật nguy hiểm đến đâu theo hướng dẫn xây dựng cuộc chạm trán ở Chương 13. Hướng dẫn nêu số nhà phiêu lưu ở cấp nhất định nên có thể đánh bại quái vật ở mức thách thức nhất định mà không ai chết.
 
@@ -239,6 +253,10 @@ Bạn có thể thay phép đã biết/chuẩn bị bằng phép khác cùng b�
 
 ### Hành động (Actions)
 
+![Nữ chiến binh half-orc minh họa các loại hành động chiến đấu](assets/chapter-12-actions.png)
+
+*Hành động, phản ứng và khả năng giới hạn tạo nên cách sinh vật hoạt động trong giao tranh. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Khi hành động, quái vật chọn mục trong phần Hành động của khối thông số hoặc hành động mọi sinh vật có, như Chạy nước rút hay Ẩn nấp, theo Chương 9.
 
 #### Tấn công cận chiến và tầm xa
@@ -289,6 +307,10 @@ Nếu quái vật thi triển phép cần thành phần vật chất, coi nó c�
 
 ## Sinh vật huyền thoại (Legendary Creatures)
 
+![Vị hiền giả đối diện sinh vật huyền thoại trong hang ổ cổ đại](assets/chapter-12-legendary-lairs.png)
+
+*Sinh vật huyền thoại có thể chi phối cả chiến trường lẫn hang ổ quanh mình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Sinh vật huyền thoại làm được điều sinh vật thường không thể. Nó có thể hành động đặc biệt ngoài lượt và tác động ma thuật lên vùng xung quanh nhiều mile. Sinh vật nhận dạng của sinh vật huyền thoại, chẳng hạn bằng phép, không nhận hành động huyền thoại, hành động hang ổ hoặc hiệu ứng khu vực của dạng đó.
 
 ### Hành động huyền thoại (Legendary Actions)
@@ -310,6 +332,10 @@ Chỉ sự hiện diện của sinh vật huyền thoại có thể gây hiệu 
 ## Khối thông số quái vật (Monster Stat Blocks)
 
 ### Rồng đỏ trưởng thành (Adult Red Dragon)
+
+![Nữ hiệp sĩ dragonborn đối đầu rồng đỏ trưởng thành](assets/chapter-12-red-dragon.png)
+
+*Rồng đỏ trưởng thành kết hợp sức mạnh thể chất, hơi thở lửa và uy thế khủng khiếp. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Khổng lồ rồng, hỗn loạn ác*
 
@@ -378,6 +404,10 @@ Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 
 ### Nguyên tố khí (Air Elemental)
 
+![Pháp sư elf điều hòa các nguyên tố khí đất lửa và nước](assets/chapter-12-elementals.png)
+
+*Các nguyên tố hiện thân cho sức mạnh nguyên sơ của khí, đất, lửa và nước. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Lớn nguyên tố, trung lập*
 
 **AC:** 15.  
@@ -409,6 +439,10 @@ Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ h
 
 ### Khủng long Allosaurus (Allosaurus)
 
+![Nữ kiểm lâm quan sát nhiều loài khủng long trong thung lũng tiền sử](assets/chapter-12-dinosaurs.png)
+
+*Khủng long bao gồm nhiều hình thái săn mồi và ăn cỏ với kích cỡ rất khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Lớn thú, không khuynh hướng*
 
 **AC:** 13 (giáp tự nhiên).  
@@ -435,6 +469,10 @@ Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ h
 Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi kịp gần như mọi con mồi trên đất trống, vồ kéo sinh vật xuống bằng vuốt hiểm độc.
 
 ### Giáp sống (Animated Armor)
+
+![Nghệ nhân dwarf kiểm tra giáp sống và các cấu thể ma thuật](assets/chapter-12-constructs.png)
+
+*Cấu thể là những sinh vật được chế tác rồi trao chuyển động bằng phép thuật hoặc kỹ nghệ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Trung bình cấu thể, không khuynh hướng*
 
@@ -487,6 +525,10 @@ Bộ giáp tấm được ma thuật ban chuyển động kêu rầm rĩ khi đi
 Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trước thú săn mồi bằng đuôi có chùy tung cú đánh hủy diệt.
 
 ### Vượn (Ape)
+
+![Nữ druid halfling giữa các loài thú trong rừng cổ](assets/chapter-12-beasts.png)
+
+*Thú là một phần của hệ sinh thái tự nhiên, từ động vật nhỏ đến những loài săn mồi lớn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Trung bình thú, không khuynh hướng*
 
@@ -631,6 +673,10 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 ### Nữ yêu than khóc (Banshee)
 
+![Tu sĩ nam dựng ánh sáng bảo hộ trước nhiều dạng bất tử](assets/chapter-12-undead.png)
+
+*Sinh vật bất tử tồn tại dưới nhiều hình thái, từ linh hồn vất vưởng đến xác chết chuyển động. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Trung bình xác sống, hỗn loạn ác*
 
 **AC:** 12.  
@@ -688,6 +734,10 @@ Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên.
 
 ### Basilisk (Basilisk)
+
+![Thợ săn tiefling lần theo dấu vết của nhiều quái thú dị hình](assets/chapter-12-monstrosities.png)
+
+*Những quái thú dị hình kết hợp đặc điểm kỳ lạ, bản năng săn mồi và năng lực siêu nhiên. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Trung bình quái thể, không khuynh hướng*
 
@@ -1072,6 +1122,10 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 12). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và cá sấu không thể Cắn mục tiêu khác.
 
 ### Khổng nhân một mắt (Cyclops)
+
+![Nữ chiến binh orc đối diện các giống khổng nhân ở đèo núi](assets/chapter-12-giants.png)
+
+*Khổng nhân có văn hóa, trang bị và môi trường sống khác nhau nhưng đều sở hữu tầm vóc áp đảo. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Khổng lồ khổng nhân, hỗn loạn trung lập*
 
@@ -2040,6 +2094,10 @@ Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nh�
 
 ### Bạch tuộc khổng lồ (Giant Octopus)
 
+![Thủy thủ thám hiểm tàn tích cùng các sinh vật biển](assets/chapter-12-aquatic.png)
+
+*Môi trường dưới nước chứa những sinh vật với cách di chuyển và săn mồi rất khác trên cạn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Lớn thú, không khuynh hướng*
 
 **AC:** 11.  
@@ -2429,6 +2487,10 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 **Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d4 + 1) sát thương đập.
 
 ### Goblin (Goblin)
+
+![Nữ sứ giả elf điều đình giữa nhiều cộng đồng hình người](assets/chapter-12-humanoids.png)
+
+*Các cộng đồng hình người có tổ chức, tập quán và động cơ riêng trong thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Nhỏ nhân dạng (goblinoid), trung lập ác*
 
@@ -4605,6 +4667,10 @@ Xảo quyệt và phản trắc nhất trong rồng thực thụ, rồng xanh l�
 Zombie xác sống đi giật cục, không đều. Chúng mặc đồ mốc từng mặc khi an táng và mang mùi thối rữa.
 
 ## Nhân vật không phải người chơi (Nonplayer Characters)
+
+![Đội trưởng điều phối nhiều nhân vật trong quảng trường thị trấn](assets/chapter-12-npcs.png)
+
+*Các khối thông số NPC giúp DM nhanh chóng đưa đồng minh, đối thủ và cư dân vào cuộc chơi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Phần này chứa thông số các nhân vật không phải người chơi (NPC) nhân dạng mà nhà phiêu lưu có thể gặp trong chiến dịch D&D. Khối thông số dùng được cho NPC con người và các chủng khác.
 

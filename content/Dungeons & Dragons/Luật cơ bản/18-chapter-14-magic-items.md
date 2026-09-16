@@ -2,17 +2,19 @@
 title: Chương 14 - Vật phẩm ma thuật
 ---
 
-# Chương 14: Vật phẩm ma thuật
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 168-170.
 
-![Thanh kiếm Excalibur được nâng lên khỏi mặt nước](https://commons.wikimedia.org/wiki/Special:Redirect/file/Excalibur%20the%20Sword%2C%20Howard%20Pyle%201902.jpg?width=1000)
+![Nữ học giả khám phá kho vật phẩm ma thuật](assets/chapter-14-magic-items-cover.png)
 
-*Excalibur, minh họa của Howard Pyle, 1902 — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Excalibur_the_Sword%2C_Howard_Pyle_1902.jpg).*
+*Vật phẩm ma thuật mở ra những năng lực kỳ diệu nhưng phải được tìm hiểu và sử dụng cẩn trọng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mỗi cuộc phiêu lưu đều hứa hẹn—nhưng không bảo đảm—tìm được một hoặc nhiều vật phẩm ma thuật. Chương này giới thiệu một số vật phẩm, gợi mở sự đa dạng lớn hơn đang chờ được tìm thấy trong các thế giới D&D. Xem *Dungeon Master's Guide* để biết nhiều vật phẩm hơn.
 
 ## Sử dụng vật phẩm ma thuật (Using a Magic Item)
+
+![Pháp sư elf tìm hiểu và hòa hợp với một vật phẩm ma thuật](assets/chapter-14-attunement.png)
+
+*Nhận diện và hòa hợp giúp nhân vật khám phá, kết nối và kích hoạt đặc tính của vật phẩm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mô tả vật phẩm ma thuật giải thích cách nó hoạt động. Chỉ cần cầm nắm vật phẩm cũng đủ để nhân vật cảm thấy nó có điều phi thường.
 
@@ -30,6 +32,10 @@ Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện 
 
 ### Bùa sức khỏe (Amulet of Health)
 
+![Nữ hộ vệ dwarf đeo bùa sức khỏe cùng bộ giáp được phù phép](assets/chapter-14-amulet-armor.png)
+
+*Bùa và giáp ma thuật có thể tăng cường sức bền cùng khả năng phòng thủ của người sử dụng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Vật phẩm kỳ diệu (wondrous item), hiếm (rare), cần hòa hợp*
 
 Điểm Thể chất của bạn là 19 khi đeo bùa. Không tác dụng nếu Thể chất của bạn đã từ 19 trở lên khi không đeo.
@@ -41,6 +47,10 @@ Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện 
 Bạn nhận thưởng AC khi mặc giáp này. Thưởng được quyết định bởi độ hiếm.
 
 ### Túi chứa đồ (Bag of Holding)
+
+![Nhà thám hiểm halfling lấy trang bị từ túi chứa đồ và dùng đôi ủng ma thuật](assets/chapter-14-bag-boots.png)
+
+*Túi chứa đồ và ủng ma thuật giúp nhà phiêu lưu mang hành trang và vượt địa hình thuận lợi hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon)*
 
@@ -58,11 +68,19 @@ Khi mang ủng, tốc độ đi bộ thành 30 feet, trừ khi vốn cao hơn; t
 
 ### Áo choàng elf (Cloak of Elvenkind)
 
+![Nữ trinh sát elf dùng áo choàng ngụy trang và kính nhìn đêm](assets/chapter-14-cloak-goggles.png)
+
+*Áo choàng và kính ma thuật hỗ trợ ẩn nấp, quan sát và di chuyển trong bóng tối. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
 Khi mặc áo và trùm mũ, kiểm tra Minh triết (Nhận biết) để thấy bạn có bất lợi; bạn có lợi thế kiểm tra Khéo léo (Ẩn nấp) để ẩn mình, vì màu áo đổi để ngụy trang. Trùm hoặc hạ mũ cần một hành động.
 
 ### Găng giáp sức mạnh ogre (Gauntlets of Ogre Power)
+
+![Vận động viên orc dùng găng ma thuật để nâng vật nặng leo vách và bơi](assets/chapter-14-gauntlets-gloves.png)
+
+*Những đôi găng được phù phép có thể tăng sức mạnh hoặc hỗ trợ bơi và leo. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
@@ -82,6 +100,10 @@ Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 60
 
 ### Băng trán trí tuệ (Headband of Intellect)
 
+![Dược sư dwarf dùng băng trán trí tuệ và thuốc mỡ chữa trị đồng đội](assets/chapter-14-headband-ointment.png)
+
+*Trí tuệ sắc bén và thuốc mỡ hồi phục đều hữu ích khi nhóm phải xử lý thương tích hay chất độc. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
 Điểm Trí tuệ của bạn là 19 khi đeo. Không tác dụng nếu Trí tuệ đã từ 19 trở lên khi không đeo.
@@ -95,6 +117,10 @@ Lọ thủy tinh đường kính 3 inch chứa 1d4 + 1 liều hỗn hợp đặc
 Dùng một hành động để nuốt hoặc bôi một liều lên da. Sinh vật nhận thuốc hồi 2d8 + 2 HP, hết trúng độc và được chữa mọi bệnh.
 
 ### Thuốc bay (Potion of Flying)
+
+![Nữ nhà giả kim so sánh thuốc bay thuốc vô hình và thuốc sinh lực](assets/chapter-14-potions.png)
+
+*Màu sắc, chuyển động và độ trong của chất lỏng thường gợi ra công dụng của thuốc ma thuật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Thuốc (potion), rất hiếm (very rare)*
 
@@ -113,6 +139,10 @@ Bình trông rỗng nhưng cảm giác như chứa chất lỏng. Khi uống, b�
 Khi uống, thuốc xóa mọi kiệt sức và chữa mọi bệnh hoặc độc ảnh hưởng bạn. Trong 24 giờ tiếp theo, bạn hồi HP tối đa với mỗi Xúc xắc Sinh lực tiêu dùng. Chất lỏng đỏ thẫm đều đặn phát ánh mờ theo nhịp, gợi nhịp tim.
 
 ### Nhẫn né tránh (Ring of Evasion)
+
+![Kẻ trộm dragonborn vận dụng nhẫn né tránh bảo hộ và kháng nguyên tố](assets/chapter-14-rings.png)
+
+*Nhẫn ma thuật có thể giúp né hiểm nguy, tăng phòng thủ hoặc chống lại một loại sát thương. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Nhẫn (ring), hiếm (rare), cần hòa hợp*
 
@@ -145,6 +175,10 @@ Bạn kháng một loại sát thương khi đeo. Đá quý trên nhẫn thể h
 
 ### Cuộn phép (Spell Scroll)
 
+![Nữ pháp sư tiefling thi triển phép từ một cuộn phép](assets/chapter-14-spell-scroll.png)
+
+*Cuộn phép lưu giữ một phép duy nhất và thường bị tiêu hủy sau khi được sử dụng hoặc sao chép. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Cuộn (scroll), độ hiếm thay đổi*
 
 Cuộn phép chứa lời của một phép duy nhất, viết bằng mật mã huyền bí. Nếu phép thuộc danh sách phép lớp của bạn, bạn đọc cuộn và thi triển không cần thành phần vật chất. Nếu không, cuộn không thể hiểu được. Thi triển bằng cách đọc cuộn cần thời gian thi triển bình thường của phép. Sau khi thi triển, chữ mờ đi và cuộn vỡ thành bụi. Nếu thi triển bị gián đoạn, không mất cuộn.
@@ -174,6 +208,10 @@ Phép pháp sư trên cuộn có thể được chép giống phép trong sách 
 
 ### Đũa phát hiện ma thuật (Wand of Magic Detection)
 
+![Pháp sư dùng đũa phát hiện ma thuật và đũa phi tiêu ma thuật](assets/chapter-14-wands.png)
+
+*Mỗi cây đũa dự trữ số lượt tích năng hữu hạn để tạo ra hiệu ứng riêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 *Đũa (wand), ít gặp (uncommon)*
 
 Đũa có 3 lượt tích năng. Khi cầm, dùng một hành động tiêu hao 1 lượt để thi triển Phát hiện ma thuật (*detect magic*) từ đũa. Hồi 1d3 lượt đã dùng mỗi ngày lúc bình minh.
@@ -187,6 +225,10 @@ Khi cầm, dùng một hành động tiêu hao 1 đến 3 trong 7 lượt tích 
 Đũa hồi 1d6 + 1 lượt đã dùng mỗi ngày lúc bình minh. Tuy nhiên, nếu dùng lượt cuối, tung d20; ra 1 khiến đũa vỡ thành tro và bị phá hủy.
 
 ### Vũ khí +1, +2 hoặc +3 (Weapon, +1, +2, or +3)
+
+![Nữ thợ rèn orc giới thiệu nhiều vũ khí đã được phù phép](assets/chapter-14-weapons.png)
+
+*Vũ khí ma thuật được chế tác dưới nhiều hình thức và mức độ uy lực khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Vũ khí (bất kỳ), ít gặp (uncommon; +1), hiếm (rare; +2) hoặc rất hiếm (very rare; +3)*
 

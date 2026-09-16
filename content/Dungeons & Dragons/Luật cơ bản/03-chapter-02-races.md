@@ -1,12 +1,8 @@
 ---
-title: Chương 2 - Chủng tộc
+title: Chương 02 - Chủng tộc
 ---
 
-# Chương 2: Chủng tộc
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 13-21.
-
-[Mục lục](00-index.md) · [Chương trước](02-chapter-01-character-creation.md)
 
 ![Bốn nhà phiêu lưu thuộc các dân tộc khác nhau cùng xem bản đồ](assets/chapter-02-races-cover.png)
 

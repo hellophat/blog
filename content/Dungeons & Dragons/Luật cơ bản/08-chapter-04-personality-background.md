@@ -1,12 +1,8 @@
 ---
-title: Chương 4 - Tính cách và xuất thân
+title: Chương 04 - Tính cách và xuất thân
 ---
 
-# Chương 4: Tính cách và xuất thân
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 35-44.
-
-
 
 ![Những nhà phiêu lưu có tính cách và xuất thân khác nhau gặp nhau trong quán trọ](assets/chapter-04-personality-background-cover.png)
 

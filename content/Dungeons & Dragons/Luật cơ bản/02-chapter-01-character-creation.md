@@ -1,14 +1,10 @@
 ---
-title: Chương 1 - Tạo nhân vật từng bước
+title: Chương 01 - Tạo nhân vật từng bước
 ---
-
-# Chương 1: Tạo nhân vật từng bước
 
 **Phần 1: Tạo nhân vật**
 
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 8-12.
-
-[Mục lục](00-index.md) · [Phần trước](01-introduction.md) · [Chương tiếp theo](03-chapter-02-races.md)
 
 ![Một nhà phiêu lưu mới đứng trước nhiều con đường dẫn vào thế giới rộng lớn](assets/chapter-01-character-creation-cover.png)
 

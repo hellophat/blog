@@ -2,17 +2,19 @@
 title: Chương 13 - Xây dựng cuộc chạm trán chiến đấu
 ---
 
-# Chương 13: Xây dựng cuộc chạm trán chiến đấu
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 165-167.
 
-![Một trận chiến giữa các hiệp sĩ](https://commons.wikimedia.org/wiki/Special:Redirect/file/Knight%20battle%20%28SM%20sg1740z%29.png?width=1200)
+![Nữ Quản trò xây dựng một cuộc chạm trán trên sa bàn kỳ ảo](assets/chapter-13-encounters-cover.png)
 
-*Trận chiến giữa các hiệp sĩ, Victor Müller — Public Domain Mark. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Knight_battle_%28SM_sg1740z%29.png).*
+*Thiết kế cuộc chạm trán kết hợp trí tưởng tượng, thử thách và niềm vui của cả nhóm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi tạo cuộc chạm trán chiến đấu, hãy để trí tưởng tượng tự do và xây dựng điều người chơi sẽ thích. Sau khi xác định các chi tiết, dùng phần này để điều chỉnh độ khó cuộc chạm trán.
 
 ## Độ khó cuộc chạm trán chiến đấu (Combat Encounter Difficulty)
+
+![Nhà chiến thuật dwarf so sánh bốn mức độ khó của cuộc chạm trán](assets/chapter-13-difficulty.png)
+
+*Bốn mức độ khó thể hiện mức tài nguyên và hiểm nguy mà nhóm có thể phải đối mặt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Có bốn mức độ khó.
 
@@ -51,6 +53,10 @@ Có bốn mức độ khó.
 
 ## Đánh giá độ khó cuộc chạm trán (Evaluating Encounter Difficulty)
 
+![Nữ chiến lược gia tiefling cân nhắc sức mạnh của nhóm và quái vật](assets/chapter-13-evaluating.png)
+
+*Đánh giá cuộc chạm trán đòi hỏi so sánh ngưỡng của cả nhóm với tổng XP đã điều chỉnh của đối thủ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Dùng phương pháp sau để ước lượng độ khó bất kỳ cuộc chạm trán chiến đấu nào.
 
 1. **Xác định ngưỡng XP.** Trước hết, xác định ngưỡng điểm kinh nghiệm (XP) cho mỗi nhân vật trong nhóm. Bảng Ngưỡng XP theo cấp nhân vật có bốn ngưỡng cho mỗi cấp, mỗi ngưỡng ứng với một mức độ khó. Dùng cấp nhân vật xác định ngưỡng của họ. Lặp lại cho mọi nhân vật trong nhóm.
@@ -78,6 +84,10 @@ Dùng phương pháp sau để ước lượng độ khó bất kỳ cuộc ch�
 
 ### Hệ số nhân cuộc chạm trán (Encounter Multipliers)
 
+![Pháp sư phân tích áp lực tăng dần từ số lượng quái vật](assets/chapter-13-multipliers.png)
+
+*Nhiều quái vật tạo ra nhiều hành động hơn và làm mức đe dọa tăng nhanh. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 | Số quái vật | Hệ số nhân |
 | --- | --- |
 | 1 | × 1 |
@@ -103,6 +113,10 @@ Nhóm không thể hưởng lợi từ nghỉ ngắn giữa các phần, nên kh
 
 ## Xây dựng cuộc chạm trán theo ngân sách (Building Encounters on a Budget)
 
+![Nữ Quản trò dragonborn lựa chọn quái vật theo ngân sách cuộc chạm trán](assets/chapter-13-budget.png)
+
+*Ngân sách XP giúp lựa chọn một đối thủ lớn hoặc nhiều đối thủ nhỏ cho cùng mức thử thách. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Bạn có thể xây dựng cuộc chạm trán khi biết độ khó mong muốn. Ngưỡng XP của nhóm cho ngân sách XP để chi cho quái vật, tạo cuộc chạm trán dễ, trung bình, khó và chết chóc. Nhớ rằng nhóm quái vật tiêu tốn nhiều ngân sách hơn giá trị XP cơ bản cho thấy (xem bước 4).
 
 Ví dụ, với nhóm ở bước 2, bạn tạo cuộc chạm trán trung bình bằng cách bảo đảm XP điều chỉnh ít nhất 550 (ngưỡng trung bình) và không quá 825 (ngưỡng khó). Một quái vật thách thức 3, như manticore hoặc gấu cú (owlbear), đáng 700 XP nên là một lựa chọn. Nếu muốn hai quái vật, mỗi con tính bằng 1,5 lần XP cơ bản. Hai sói hung (dire wolf), mỗi con 200 XP, có XP điều chỉnh 600, cũng là cuộc chạm trán trung bình cho nhóm.
@@ -110,6 +124,10 @@ Ví dụ, với nhóm ở bước 2, bạn tạo cuộc chạm trán trung bình
 Để hỗ trợ cách này, Phụ lục B của *Dungeon Master's Guide* liệt kê mọi quái vật trong *Monster Manual* theo mức thách thức. Xem “Quái vật theo mức thách thức” ở cuối chương để có danh sách theo CR của các quái vật trong tài liệu này.
 
 ## Ngày phiêu lưu (The Adventuring Day)
+
+![Kiểm lâm halfling dẫn nhóm vượt qua nhiều cuộc chạm trán trong một ngày](assets/chapter-13-adventuring-day.png)
+
+*Một ngày phiêu lưu tiêu hao dần sinh lực, phép thuật và các tài nguyên khác của nhóm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Với điều kiện phiêu lưu điển hình và vận may trung bình, phần lớn nhóm xử lý được khoảng sáu đến tám cuộc chạm trán trung bình hoặc khó mỗi ngày. Nhiều cuộc chạm trán dễ thì xử lý được nhiều hơn; nhiều cuộc chạm trán chết chóc thì ít hơn.
 
@@ -134,9 +152,17 @@ Với mỗi nhân vật, dùng bảng XP ngày phiêu lưu để ước tính XP
 
 ### Nghỉ ngắn (Short Rests)
 
+![Nữ tu sĩ dwarf chăm sóc đồng đội trong giờ nghỉ ngắn](assets/chapter-13-short-rests.png)
+
+*Nghỉ ngắn cho phép nhóm hồi phục một phần trước khi tiếp tục hành trình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Nhìn chung, trong một ngày phiêu lưu trọn vẹn, nhóm có thể cần hai lần nghỉ ngắn, khoảng khi đi qua một phần ba và hai phần ba ngày.
 
 ## Điều chỉnh độ khó cuộc chạm trán (Modifying Encounter Difficulty)
+
+![Trinh sát đánh giá ảnh hưởng của địa hình và vị trí phòng thủ](assets/chapter-13-modifying-difficulty.png)
+
+*Địa hình, tầm nhìn, bất ngờ và che chắn có thể thay đổi đáng kể độ khó thực tế. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Địa điểm và tình huống có thể khiến cuộc chạm trán dễ hoặc khó hơn.
 
@@ -154,6 +180,10 @@ Lợi thế tình huống tương tự bất lợi, nhưng mang lợi cho nhân 
 
 ## Cuộc chạm trán chiến đấu thú vị (Fun Combat Encounters)
 
+![Nữ chiến binh orc chiến đấu linh hoạt giữa nhiều hiểm họa địa hình](assets/chapter-13-fun-encounters.png)
+
+*Địa hình có chuyển động, độ cao và rủi ro chung khiến chiến đấu sinh động hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Các yếu tố sau tăng thú vị và hồi hộp:
 
 - Địa hình vốn gây rủi ro cho cả nhân vật và kẻ địch, như cầu dây sờn và vũng chất nhầy xanh.
@@ -166,6 +196,10 @@ Các yếu tố sau tăng thú vị và hồi hộp:
 > Khi xây dựng cuộc chạm trán hoặc cuộc phiêu lưu, đặc biệt ở cấp thấp, hãy thận trọng với quái vật có mức thách thức cao hơn cấp trung bình nhóm. Sinh vật ấy có thể gây đủ sát thương chỉ trong một hành động để loại nhà phiêu lưu cấp thấp hơn. Ví dụ, ogre có thách thức 2 nhưng có thể giết pháp sư cấp 1 bằng một cú đánh.
 
 ## Quái vật theo mức thách thức (Monsters by Challenge Rating)
+
+![Học giả elf sắp xếp sinh vật theo quy mô và mức đe dọa](assets/chapter-13-challenge-ratings.png)
+
+*Mức thách thức giúp DM nhanh chóng tìm sinh vật phù hợp với cuộc phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách thức.
 

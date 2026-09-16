@@ -2,19 +2,21 @@
 title: Chương 10 - Thi triển phép
 ---
 
-# Chương 10: Thi triển phép
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 82-85.
 
-![Một người sử dụng phép thuật đứng trong vòng tròn ma thuật](https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20magic%20circle%2C%20by%20John%20William%20Waterhouse.jpg?width=1000)
+![Những người thi triển phép phối hợp nhiều dạng ma thuật trong đài quan sát](assets/chapter-10-spellcasting-cover.png)
 
-*The Magic Circle, John William Waterhouse, 1886 — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:The_magic_circle,_by_John_William_Waterhouse.jpg).*
+*Thi triển phép biến năng lượng ma thuật thành những hiệu ứng có hình thức, mục tiêu và giới hạn rõ ràng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Ma thuật thấm khắp các thế giới D&D và thường xuất hiện dưới dạng phép.
 
 Chương này cung cấp quy tắc thi triển phép. Các lớp nhân vật khác nhau có cách học và chuẩn bị phép riêng, còn quái vật dùng phép theo những cách độc đáo. Bất kể nguồn gốc, phép đều tuân theo những quy tắc ở đây.
 
 ## Phép là gì? (What Is a Spell?)
+
+![Pháp sư rút một cấu trúc phép có kiểm soát từ mạng lưới ma thuật rộng lớn](assets/chapter-10-what-is-spell.png)
+
+*Một phép là sự định hình có chủ ý của năng lượng ma thuật thành một hiệu ứng cụ thể. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Một phép là một hiệu ứng ma thuật riêng biệt: một lần định hình năng lượng ma thuật tràn ngập đa vũ trụ thành biểu hiện cụ thể, có giới hạn. Khi thi triển phép, nhân vật cẩn thận gảy những sợi ma thuật thô vô hình thấm khắp thế giới, cố định chúng theo một mẫu nhất định, khiến chúng rung theo cách cụ thể, rồi thả ra để giải phóng hiệu ứng mong muốn; trong phần lớn trường hợp, tất cả diễn ra chỉ trong vài giây.
 
@@ -24,11 +26,19 @@ Vô số nghìn phép đã được tạo ra trong lịch sử đa vũ trụ, v�
 
 ### Bậc phép (Spell Level)
 
+![Người học phép tiến qua những tầng ma thuật ngày càng phức tạp cùng nguồn năng lượng hữu hạn](assets/chapter-10-levels-slots.png)
+
+*Bậc phép biểu thị độ mạnh và phức tạp, còn ô phép là nguồn lực dùng để thi triển chúng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Mọi phép có bậc từ 0 đến 9. Bậc phép cho biết khái quát sức mạnh của phép, từ *magic missile* nhỏ bé nhưng vẫn ấn tượng ở bậc 1 đến *time stop* phi thường ở bậc 9. Phép sơ cấp (cantrip), những phép đơn giản nhưng mạnh mẽ mà nhân vật có thể thi triển gần như theo thói quen đã thuộc lòng, có bậc 0. Bậc phép càng cao, người thi triển phải có cấp càng cao để dùng phép đó.
 
 Bậc phép và cấp nhân vật không tương ứng trực tiếp. Thông thường, nhân vật phải ít nhất cấp 17, không phải cấp 9, để thi triển phép bậc 9.
 
 ### Phép đã biết và đã chuẩn bị (Known and Prepared Spells)
+
+![Hai người dùng phép chuẩn bị bằng nghiên cứu và bằng vốn phép đã thành thạo](assets/chapter-10-known-prepared.png)
+
+*Các lớp nhân vật tiếp cận phép đã biết và phép chuẩn bị theo những cách khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Trước khi dùng phép, người thi triển phải ghi nhớ vững chắc phép ấy, hoặc có thể tiếp cận phép trong một vật phẩm ma thuật. Thành viên của một số lớp có danh sách hạn chế những phép đã biết luôn được ghi nhớ trong tâm trí. Nhiều quái vật dùng ma thuật cũng vậy. Những người thi triển khác, như giáo sĩ và pháp sư, trải qua quá trình chuẩn bị phép. Quá trình này khác nhau giữa các lớp, như trình bày chi tiết trong mô tả lớp.
 
@@ -52,6 +62,10 @@ Một số phép, như *magic missile* và *cure wounds*, có hiệu ứng mạn
 
 ### Phép sơ cấp (Cantrips)
 
+![Một pháp sư dùng phép nhỏ lặp lại trong khi nhóm khác tiến hành nghi thức dài](assets/chapter-10-cantrips-rituals.png)
+
+*Phép sơ cấp có thể dùng thường xuyên, còn nghi thức đổi thời gian lấy việc không tiêu hao ô phép. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Phép sơ cấp là phép có thể thi triển tùy ý, không dùng ô phép và không cần chuẩn bị trước. Việc luyện tập lặp lại đã khắc sâu phép vào tâm trí người thi triển, đồng thời truyền cho họ ma thuật cần để tạo hiệu ứng hết lần này đến lần khác. Bậc của phép sơ cấp là 0.
 
 ### Nghi thức (Rituals)
@@ -67,6 +81,10 @@ Khi nhân vật thi triển bất kỳ phép nào, cùng những quy tắc cơ b
 Mỗi mô tả phép ở chương 11 bắt đầu bằng khối thông tin gồm tên phép, bậc, trường phái ma thuật, thời gian thi triển, tầm, thành phần và thời lượng. Phần còn lại của mục phép mô tả hiệu ứng của nó.
 
 ### Thời gian thi triển (Casting Time)
+
+![Ba người thi triển phép tức thời phản ứng bảo vệ và duy trì nghi lễ dài](assets/chapter-10-casting-time.png)
+
+*Thời gian thi triển xác định phép cần một hành động, hành động phụ, phản ứng hay quá trình dài hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Phần lớn phép cần một hành động để thi triển, nhưng một số cần hành động phụ, phản ứng hoặc thời gian dài hơn nhiều.
 
@@ -84,6 +102,10 @@ Một số phép, gồm các phép thi triển dưới dạng nghi thức, cần
 
 ### Tầm (Range)
 
+![Phép thuật được hướng tới các mục tiêu ở nhiều khoảng cách trong khi một người mặc giáp cố thi triển](assets/chapter-10-range-armor.png)
+
+*Tầm xác định nơi hiệu ứng có thể bắt đầu; giáp cũng có thể cản trở người chưa thành thạo thi triển phép. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Mục tiêu phải nằm trong tầm của phép. Với phép như *magic missile*, mục tiêu là sinh vật. Với phép như *fireball*, mục tiêu là điểm trong không gian nơi quả cầu lửa bùng nổ.
 
 Phần lớn phép có tầm tính bằng feet. Một số chỉ có thể chọn sinh vật bạn chạm vào, gồm cả bạn, làm mục tiêu. Những phép khác, như *shield*, chỉ ảnh hưởng đến bạn. Các phép này có tầm bản thân (self).
@@ -97,6 +119,10 @@ Sau khi phép được thi triển, hiệu ứng của nó không bị giới h�
 Do thi triển phép đòi hỏi tập trung tinh thần và cử chỉ chính xác, bạn phải thành thạo loại giáp đang mặc để thi triển. Nếu không, giáp khiến bạn quá phân tâm và cản trở thể chất để thi triển phép.
 
 ### Thành phần (Components)
+
+![Người thi triển kết hợp lời nói cử chỉ và vật liệu để tạo phép](assets/chapter-10-components.png)
+
+*Lời nói, cử chỉ và vật chất là những thành phần có thể cần để hoàn thành một phép. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Thành phần của phép là những yêu cầu về thể chất bạn phải đáp ứng để thi triển. Mô tả mỗi phép cho biết nó cần thành phần lời nói (V), cử chỉ (S) hay vật chất (M). Nếu không cung cấp được một hoặc nhiều thành phần của phép, bạn không thể thi triển phép đó.
 
@@ -117,6 +143,10 @@ Nếu phép nói một thành phần vật chất bị tiêu thụ bởi phép, 
 Người thi triển phải có một tay trống để lấy các thành phần hoặc cầm tiêu điểm thi triển phép, nhưng có thể dùng cùng tay ấy để thực hiện thành phần cử chỉ.
 
 ### Thời lượng (Duration)
+
+![Pháp sư tập trung giữ mái vòm bảo vệ giữa những tác động gây xao nhãng](assets/chapter-10-duration-concentration.png)
+
+*Thời lượng cho biết hiệu ứng tồn tại bao lâu, và một số phép cần tập trung để duy trì. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Thời lượng là khoảng thời gian phép tồn tại. Thời lượng có thể tính bằng vòng, phút, giờ hoặc thậm chí năm. Một số phép quy định hiệu ứng kéo dài cho đến khi phép bị giải trừ hoặc phá hủy.
 
@@ -140,6 +170,10 @@ DM cũng có thể quyết định một số hiện tượng môi trường, nh
 
 ### Mục tiêu (Targets)
 
+![Phép bị bức tường chặn trong khi người thi triển chọn các mục tiêu có đường thông rõ ràng](assets/chapter-10-targets.png)
+
+*Phép cần mục tiêu hợp lệ và thường cần một đường thông không bị vật cản che kín. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Phép điển hình yêu cầu chọn một hoặc nhiều mục tiêu chịu ảnh hưởng ma thuật. Mô tả phép cho biết nó nhắm sinh vật, đồ vật hay điểm xuất phát của vùng hiệu ứng, được mô tả bên dưới.
 
 Trừ khi phép có hiệu ứng nhận biết được, sinh vật có thể hoàn toàn không biết mình bị phép nhắm đến. Hiệu ứng như sét nổ lách tách rất rõ ràng, nhưng hiệu ứng tinh tế hơn, như nỗ lực đọc suy nghĩ sinh vật, thường không bị nhận ra, trừ khi phép quy định khác.
@@ -155,6 +189,10 @@ Nếu đặt vùng hiệu ứng tại điểm không nhìn thấy và có chư�
 Nếu phép nhắm một sinh vật do bạn chọn, bạn có thể chọn bản thân, trừ khi sinh vật phải thù địch hoặc được quy định cụ thể là sinh vật khác bạn. Nếu ở trong vùng hiệu ứng của phép mình thi triển, bạn có thể nhắm bản thân.
 
 ### Vùng hiệu ứng (Areas of Effect)
+
+![Các phép tạo vùng hình nón khối lập phương hình trụ đường thẳng và hình cầu](assets/chapter-10-areas-of-effect.png)
+
+*Vùng hiệu ứng xác định không gian và các sinh vật mà một phép có thể tác động. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Các phép như *burning hands* và *cone of cold* bao phủ một khu vực, cho phép ảnh hưởng nhiều sinh vật cùng lúc.
 
@@ -194,6 +232,10 @@ Bạn chọn điểm xuất phát của hình cầu, rồi hình cầu mở rộ
 
 ### Cứu nguy (Saving Throws)
 
+![Một pháp sư nhắm tia phép trong khi nhiều mục tiêu chống lại một làn sóng ma thuật](assets/chapter-10-saves-attacks.png)
+
+*Phép có thể yêu cầu mục tiêu tung cứu nguy hoặc yêu cầu người thi triển thực hiện tung tấn công. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Nhiều phép quy định mục tiêu có thể tung cứu nguy để tránh một phần hoặc toàn bộ hiệu ứng. Phép quy định thuộc tính mục tiêu dùng khi cứu nguy và điều xảy ra khi thành công hoặc thất bại.
 
 DC để chống một phép của bạn bằng:
@@ -210,11 +252,19 @@ Phần lớn phép yêu cầu tung tấn công dùng đòn tấn công tầm xa.
 
 ### Kết hợp hiệu ứng ma thuật (Combining Magical Effects)
 
+![Các hiệu ứng ma thuật khác nhau cùng tăng cường cho một chiến binh](assets/chapter-10-combining-effects.png)
+
+*Hiệu ứng phép khác nhau có thể kết hợp, còn các hiệu ứng cùng tên thường không cộng dồn sức mạnh. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Hiệu ứng của các phép khác nhau cộng với nhau trong thời gian thời lượng của chúng chồng lấn. Tuy nhiên, hiệu ứng của cùng một phép được thi triển nhiều lần không kết hợp. Thay vào đó, hiệu ứng mạnh nhất, như khoản thưởng cao nhất, trong những lần thi triển ấy áp dụng khi thời lượng chồng lấn. Hoặc hiệu ứng mới nhất áp dụng nếu các lần thi triển mạnh ngang nhau và thời lượng chồng lấn.
 
 Ví dụ, nếu hai giáo sĩ thi triển *bless* lên cùng mục tiêu, nhân vật đó chỉ nhận lợi ích một lần; nhân vật không được tung hai xúc xắc thưởng.
 
 ## Các trường phái ma thuật (The Schools of Magic)
+
+![Tám giảng viên trình diễn những ngành ma thuật khác nhau trong học viện](assets/chapter-10-schools-of-magic.png)
+
+*Tám trường phái phân loại phép theo bản chất và cách chúng làm thay đổi thế giới. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Các học viện ma thuật chia phép thành tám nhóm gọi là trường phái ma thuật. Học giả, đặc biệt pháp sư, áp dụng những nhóm này cho mọi phép, tin rằng mọi ma thuật vận hành về cơ bản theo cùng một cách, dù bắt nguồn từ nghiên cứu nghiêm ngặt hay được thần linh ban tặng.
 
@@ -239,6 +289,10 @@ Tạo xác sống bằng phép Tử linh như *animate dead* không phải hành
 **Biến đổi (Transmutation)** thay đổi đặc tính của sinh vật, đồ vật hoặc môi trường. Chúng có thể biến kẻ địch thành sinh vật vô hại, tăng sức mạnh đồng minh, khiến đồ vật chuyển động theo lệnh người thi triển hoặc tăng khả năng tự chữa lành bẩm sinh của sinh vật để hồi phục thương tích nhanh chóng.
 
 ## Mạng dệt ma thuật (The Weave of Magic)
+
+![Mạng lưới ánh sáng kết nối thế giới sự sống các vì sao và mọi người dùng phép](assets/chapter-10-weave.png)
+
+*Mạng Dệt là cấu trúc mà người thi triển tiếp cận để định hình năng lượng ma thuật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Các thế giới trong đa vũ trụ D&D là những nơi đầy ma thuật. Toàn bộ sự tồn tại thấm đẫm quyền năng ma thuật, và năng lượng tiềm tàng chưa được khai thác nằm trong mọi tảng đá, dòng suối, sinh vật sống, thậm chí trong chính không khí. Ma thuật thô là chất liệu của sự sáng tạo, ý chí câm lặng và không có tâm trí của sự tồn tại, thấm khắp mọi mảnh vật chất và hiện diện trong mọi biểu hiện năng lượng trên toàn đa vũ trụ.
 

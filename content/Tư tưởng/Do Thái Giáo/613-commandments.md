@@ -369,6 +369,366 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Bối cảnh và ý nghĩa:** Cây đèn bảy nhánh của Đền Thờ — [*menorah*](./glossary#menorah) — về sau trở thành một trong những biểu tượng Do Thái dễ nhận biết nhất. Hình menorah xuất hiện trên tiền Hasmonean cuối thế kỷ I TCN, trong nghệ thuật Do Thái thời La Mã và trên phù điêu Khải hoàn môn Titus sau khi Đền Thờ bị cướp phá.[^menorah] Không nên đồng nhất menorah bảy nhánh của Đền Thờ với [*hanukkiah*](./glossary#hanukkiah) chín nhánh dùng trong lễ [Hanukkah](./glossary#hanukkah).
 
+### P26 — Các tư tế chúc phúc cho Israel
+
+**English:** For the priests to bless Israel.
+
+**Hebrew (Maimonides):** לְבָרֵךְ הַכֹּהֲנִים אֶת יִשְׂרָאֵל
+
+**Nguồn Torah:** Dân Số 6:23–27 — Aaron và các con được truyền phải chúc phúc cho Israel bằng công thức bắt đầu: “Xin YHWH chúc phúc và gìn giữ ngươi…”
+
+**Ngữ nghĩa và cách dịch:** Nghi thức này được gọi là [**Birkat Kohanim**](./glossary#birkat-kohanim), “lời chúc phúc của các tư tế”. Chủ thể ban phúc cuối cùng vẫn là YHWH: các kohanim đọc công thức và “đặt Danh” trên dân, rồi chính Thiên Chúa tuyên bố “Ta sẽ chúc phúc cho họ”.
+
+**Bối cảnh và ý nghĩa:** Ba câu chúc tăng dần về độ dài, cầu xin sự bảo vệ, ân huệ, sự đoái nhìn và bình an. Hai cuộn bạc nhỏ từ Ketef Hinnom tại Jerusalem, niên đại cuối thế kỷ VII–đầu thế kỷ VI TCN, chứa dạng văn bản gần với lời chúc này và thuộc những chứng tích Kinh Thánh cổ nhất hiện biết.[^ketef-hinnom] Sau khi Đền Thờ bị phá hủy, lời chúc tư tế vẫn được bảo tồn trong phụng vụ hội đường; tần suất và nghi thức cụ thể khác nhau giữa các cộng đồng Do Thái.
+
+### P27 — Đặt bánh tiến và nhũ hương trước YHWH mỗi Sabbath
+
+**English:** To arrange the showbread and frankincense before God every Sabbath.
+
+**Hebrew (Maimonides):** לְהַסְדִּיר לֶחֶם וּלְבוֹנָה לִפְנֵי יְיָ בְּכָל שַׁבָּת
+
+**Nguồn Torah:** Xuất Hành 25:30 truyền phải luôn đặt “bánh của Sự Hiện Diện” trên bàn trước YHWH; Lêvi 24:5–9 quy định mười hai ổ bánh, nhũ hương và việc thay bánh mỗi Sabbath.
+
+**Ngữ nghĩa và cách dịch:** **לֶחֶם הַפָּנִים** (*leḥem haPanim*) có nghĩa đen gần với “bánh của khuôn mặt/sự hiện diện”, thường được gọi là [bánh tiến hoặc bánh Trưng Bày](./glossary#showbread). **לְבוֹנָה** (*levonah*) là nhũ hương, một loại nhựa thơm được đốt, không phải men bánh.
+
+**Bối cảnh và ý nghĩa:** Mười hai ổ bánh thường được liên hệ với mười hai chi tộc Israel và được đặt trong gian thánh như một lễ vật thường trực. Sau một tuần, các tư tế ăn bánh trong khu vực thánh. “Bánh cho thần” trong nhiều đền thờ cổ có thể gợi ý thức nuôi dưỡng thần linh; Torah và cách giải thích Do Thái không xem YHWH cần thức ăn để tồn tại. Bánh hoạt động trong hệ thống lễ vật, ký ức và sự hiện diện giao ước.
+
+### P28 — Đốt hương thơm hai lần mỗi ngày
+
+**English:** To burn the incense offering twice each day.
+
+**Hebrew (Maimonides):** לְהַקְטִיר קְטֹרֶת פַּעֲמַיִם בַּיּוֹם
+
+**Nguồn Torah:** Xuất Hành 30:7–8 — Aaron phải đốt hương thơm trên bàn thờ hương khi chuẩn bị đèn vào buổi sáng và khi thắp đèn vào lúc chạng vạng.
+
+**Ngữ nghĩa và cách dịch:** [**Ketoret**](./glossary#ketoret) là hỗn hợp hương dành riêng cho nghi lễ Đền Thờ. Xuất Hành 30:34–38 nêu các thành phần và cấm pha hỗn hợp cùng công thức để dùng như nước hoa cá nhân. Vì vậy, dịch chung thành “thắp nhang” dễ gợi sai hình thức và bối cảnh văn hóa Việt Nam.
+
+**Bối cảnh và ý nghĩa:** Đốt chất thơm là thực hành phổ biến trong nhiều nền văn hóa Cận Đông và Địa Trung Hải cổ đại. Khói và hương tạo nên không gian nghi lễ đa giác quan, đồng thời hương liệu là hàng hóa có giá trị đi qua các tuyến thương mại xa. Trong Torah, hương Đền Thờ có bàn thờ, công thức, người thực hiện và thời điểm riêng; sự tương đồng khu vực không làm mất tính đặc thù của hệ thống này.
+
+### P29 — Giữ lửa cháy thường xuyên trên bàn thờ
+
+**English:** To keep a fire burning continually on the altar.
+
+**Hebrew (Maimonides):** לַעֲרֹךְ אֵשׁ בְּמִזְבַּח הָעוֹלָה תָּמִיד
+
+**Nguồn Torah:** Lêvi 6:5–6 theo cách đánh số Hebrew, tương ứng khoảng 6:12–13 trong một số bản dịch khác — lửa trên bàn thờ phải được duy trì và không được để tắt.
+
+**Ngữ nghĩa và cách dịch:** [**Mizbeach**](./glossary#altar) là bàn thờ, theo gốc từ liên quan đến giết mổ lễ vật. **Tamid** có nghĩa liên tục, thường xuyên hoặc theo nhịp cố định; trong bối cảnh này, các tư tế thêm củi mỗi sáng để duy trì ngọn lửa của bàn thờ lễ thiêu.
+
+**Bối cảnh và ý nghĩa:** Lửa biến lễ vật thành khói trong nghi lễ hiến tế và biểu thị tính liên tục của việc phục vụ Đền Thờ. Đây là lửa tại bàn thờ ngoài sân, không phải các ngọn đèn menorah trong gian thánh và cũng không phải “ngọn lửa vĩnh cửu” trong mọi hội đường hiện đại. Mitzvah phụ thuộc một Đền Thờ cùng bàn thờ đang hoạt động.
+
+### P30 — Dọn tro khỏi bàn thờ mỗi ngày
+
+**English:** To remove the ashes from the altar each day.
+
+**Hebrew (Maimonides):** לְהָרִים הַדֶּשֶׁן מֵעַל הַמִּזְבֵּחַ בְּכָל יוֹם
+
+**Nguồn Torah:** Lêvi 6:3–4 theo cách đánh số Hebrew, tương ứng khoảng 6:10–11 trong một số bản dịch — tư tế mặc phẩm phục bằng vải gai, nhấc tro lên và đưa tro ra ngoài trại đến một nơi thanh sạch.
+
+**Ngữ nghĩa và cách dịch:** Nghi thức được gọi là [**Terumat HaDeshen**](./glossary#terumat-hadeshen), nghĩa đen là “nhấc phần tro”. Động từ không chỉ nói đến việc quét dọn vệ sinh; việc lấy một phần tro là hành vi nghi lễ mở đầu công việc hằng ngày tại bàn thờ.
+
+**Bối cảnh và ý nghĩa:** Tro là phần còn lại của việc phục vụ ngày trước. Loại bỏ nó vừa duy trì khả năng hoạt động của bàn thờ vừa đánh dấu nhịp chuyển sang ngày nghi lễ mới. Trang phục, địa điểm đặt tro và trạng thái thanh sạch đều được quy định, cho thấy ranh giới giữa công việc vật chất và phụng vụ không giống cách phân chia lao động “thiêng” và “phàm” hiện đại.
+
+### P31 — Đưa người đang ô uế nghi lễ ra khỏi trại của Sự Hiện Diện
+
+**English:** To send ritually impure persons out of the camp of the Divine Presence.
+
+**Hebrew (Maimonides):** לְשַׁלֵּחַ טְמֵאִים מִמַּחֲנֵה שְׁכִינָה שֶׁהוּא הַמִּקְדָּשׁ
+
+**Nguồn Torah:** Dân Số 5:2–4 — người Israel phải đưa ra ngoài trại những người mắc *tzaraat*, người có tiết dịch gây ô uế và người ô uế do tiếp xúc xác chết, để họ không làm ô uế trại nơi YHWH ngự giữa dân.
+
+**Ngữ nghĩa và cách dịch:** **Shekhinah** là cách gọi rabbi về [Sự Hiện Diện của Thiên Chúa](./glossary#shekhinah). Maimonides đồng nhất “trại của Shekhinah” trong mô hình hoang mạc với khu vực Đền Thờ. “Đưa ra ngoài” không phải một hình phạt đạo đức áp dụng giống nhau cho mọi trạng thái: phạm vi bị hạn chế phụ thuộc loại ô uế và cấp độ không gian thánh.
+
+**Bối cảnh và ý nghĩa:** Trạng thái ô uế ở đây không đồng nghĩa người đó xấu, có tội hay thiếu vệ sinh. Sinh sản, bệnh trạng và tiếp xúc người chết đều là phần của đời sống, nhưng chúng giới hạn việc bước vào những vùng thánh trong một thời gian. Hệ thống tổ chức không gian theo các vòng đồng tâm quanh nơi thánh; khi chuyển sang Đền Thờ Jerusalem, halakhah ánh xạ các “trại” trong Dân Số lên những khu vực khác nhau của thành và Đền Thờ.
+
+### P32 — Tôn trọng dòng tư tế Aaron
+
+**English:** To honor the descendants of Aaron in matters of holiness.
+
+**Hebrew (Maimonides):** לַחֲלֹק כָּבוֹד לְזַרְעוֹ שֶׁל אַהֲרֹן וּלְהַקְדִּימוֹ לְכָל דָּבָר שֶׁבִּקְדֻשָּׁה
+
+**Nguồn Torah:** Lêvi 21:8 — “Ngươi phải xem người ấy là thánh, vì người ấy dâng thức ăn của Thiên Chúa ngươi; người ấy phải là thánh đối với ngươi.”
+
+**Ngữ nghĩa và cách dịch:** “Dòng Aaron” là các kohanim, không phải mọi rabbi hay mọi người Lêvi. Maimonides diễn giải sự tôn trọng bằng việc dành cho kohen quyền ưu tiên trong những việc thánh, chẳng hạn đọc Torah trước hoặc dẫn đầu lời chúc sau bữa ăn trong các điều kiện được halakhah quy định.
+
+**Bối cảnh và ý nghĩa:** Trong hệ thống tư tế cổ, địa vị đi theo dòng cha và gắn với quyền cùng giới hạn đặc thù về nghi lễ, hôn nhân và ô uế. Sau khi Đền Thờ không còn, một số dấu hiệu ưu tiên vẫn tồn tại trong hội đường và đời sống cộng đồng. Đây là địa vị nghi lễ, không nên tự động hiểu như một giai cấp có quyền lực chính trị tuyệt đối hoặc phẩm giá con người cao hơn người khác.
+
+### P33 — Mặc phẩm phục tư tế khi phục vụ Đền Thờ
+
+**English:** For the priests to wear the priestly garments during Temple service.
+
+**Hebrew (Maimonides):** לְהַלְבִּישׁ הַכֹּהֲנִים לָעֲבוֹדָה בִּגְדֵי כְהֻנָּה
+
+**Nguồn Torah:** Xuất Hành 28:2–43 mô tả phẩm phục “để biểu thị vinh quang và vẻ đẹp” cho Aaron và các con khi phục vụ.
+
+**Ngữ nghĩa và cách dịch:** [**Bigdei Kehunah**](./glossary#priestly-garments) là phẩm phục tư tế. Tư tế thông thường mặc bốn món chính; Thượng tế có thêm bốn món đặc thù. Đây không phải áo lễ của giáo sĩ Do Thái hiện đại và không nên được minh họa bằng phẩm phục linh mục Công giáo.
+
+**Bối cảnh và ý nghĩa:** Vật liệu, màu sắc và các biểu tượng trên trang phục đánh dấu vai trò của người mặc trong nghi lễ. Phẩm phục không chỉ trang trí: thiếu hoặc dùng sai trang phục ảnh hưởng tính hợp lệ của việc phục vụ theo halakhah. Các mô tả Kinh Thánh rất chi tiết, nhưng việc phục dựng chính xác hình dáng vẫn đòi hỏi diễn giải vì không còn bộ phẩm phục Đền Thờ nào được xác nhận khảo cổ.
+
+### P34 — Khi di chuyển, khiêng Hòm Giao Ước trên vai
+
+**English:** To carry the Ark of the Covenant on the shoulders when it is transported.
+
+**Hebrew (Maimonides):** לָשֵׂאת הָאָרוֹן עַל הַכָּתֵף כְּשֶׁנּוֹשְׂאִין אוֹתוֹ
+
+**Nguồn Torah:** Dân Số 7:9 — các con của Kehath không nhận xe chở vì họ phụ trách các vật cực thánh và phải khiêng trên vai. Xem thêm Xuất Hành 25:12–15 về các đòn khiêng của Hòm.
+
+**Ngữ nghĩa và cách dịch:** [**Hòm Giao Ước**](./glossary#ark-of-covenant), *Aron HaBrit*, là chiếc hòm thánh được mô tả chứa các bảng chứng ước. Không nên nhầm với “hòm Torah” trong hội đường ngày nay, là tủ giữ các cuộn Torah và cũng thường được gọi ngắn là *aron*.
+
+**Bối cảnh và ý nghĩa:** Hòm là tâm điểm của nơi cực thánh trong Mishkan và được trình bày như ngai hay bệ biểu tượng của sự hiện diện YHWH, nhưng Torah không gọi nó là tượng của Thiên Chúa. Quy định khiêng bằng đòn trên vai giới hạn việc chạm trực tiếp và nhấn mạnh tính thánh. Số phận lịch sử của Hòm sau thời Đền Thờ thứ nhất không được biết chắc; các tuyên bố hiện đại đã “tìm thấy Hòm” không có đồng thuận khảo cổ.
+
+### P35 — Xức dầu cho [Thượng tế](./glossary#high-priest) và nhà vua
+
+**English:** To anoint High Priests and kings with the sacred anointing oil.
+
+**Hebrew (Maimonides):** לִמְשֹׁחַ כֹּהֲנִים גְּדוֹלִים וּמְלָכִים בְּשֶׁמֶן הַמִּשְׁחָה
+
+**Nguồn Torah:** Xuất Hành 30:22–33 quy định [dầu xức thánh](./glossary#anointing-oil) và việc xức cho Aaron cùng các con; các trình thuật lịch sử mô tả việc xức dầu cho vua, còn Maimonides hệ thống hóa phạm vi áp dụng đối với Thượng tế và vương quyền David.
+
+**Ngữ nghĩa và cách dịch:** Động từ **מָשַׁח** (*mashaḥ*) nghĩa là xức dầu. [**Mashiach**](./glossary#messiah), “người được xức dầu”, cùng gốc và đi qua tiếng Hy Lạp thành “Christos”. Trong bối cảnh Kinh Thánh, từ này có thể chỉ một vua hoặc tư tế được tấn phong; không phải mọi lần xuất hiện đều trực tiếp mang toàn bộ ý nghĩa cứu thế học về sau.
+
+**Bối cảnh và ý nghĩa:** Dầu thơm đánh dấu việc một người được biệt riêng cho chức vụ. Công thức ở Xuất Hành được dành cho nơi thánh và bị cấm sao chép để sử dụng thông thường. Theo truyền thống rabbi, dầu xức nguyên thủy về sau không còn; việc kế nhiệm Thượng tế trong thời Đền Thờ thứ hai có thể được xác lập bằng phẩm phục thay vì xức dầu. Mitzvah này vì thế không phải giấy phép hiện đại để bất kỳ lãnh đạo tôn giáo hay chính trị nào tự xưng là “được xức dầu”.
+
+### P36 — Các tư tế phục vụ theo phiên và cùng phục vụ trong các kỳ lễ
+
+**English:** For the priests to serve in assigned watches, and together during the festivals.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַכֹּהֲנִים עוֹבְדִין בַּמִּקְדָּשׁ מִשְׁמָרוֹת מִשְׁמָרוֹת; וּבַמּוֹעֲדִים עוֹבְדִין כְּאֶחָד
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 18:6–8 cho phép một người Lêvi từ bất kỳ thành nào đến nơi YHWH chọn và phục vụ nhân danh YHWH, đồng thời nhận phần ăn như anh em mình, ngoài tài sản gia đình.
+
+**Ngữ nghĩa và cách dịch:** [**Mishmarot**](./glossary#priestly-watches) là các phiên trực tư tế. Mỗi nhóm phục vụ theo lịch; vào các kỳ hành hương, các tư tế đủ điều kiện có thể tham gia những công việc và lễ vật gắn với kỳ lễ, thay vì mọi đặc quyền thuộc riêng phiên đang trực.
+
+**Bối cảnh và ý nghĩa:** Khi số tư tế đông hơn nhu cầu hằng ngày, phân ca giúp duy trì việc phục vụ liên tục và phân phối trách nhiệm cùng phần lễ vật. Sách Sử Biên mô tả việc chia tư tế thành hai mươi bốn ban, còn halakhah về sau hệ thống hóa lịch phiên. Đây là cơ cấu lao động của Đền Thờ, không phải lịch trực của rabbi trong hội đường hiện đại.
+
+### P37 — Tư tế để mình nhiễm ô uế và để tang thân nhân gần
+
+**English:** For priests to become ritually impure for close relatives and to mourn them.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַכֹּהֲנִים מִטַּמְּאִין לִקְרוֹבֵיהֶם וּמִתְאַבְּלִין עֲלֵיהֶן כִּשְׁאָר יִשְׂרָאֵל שֶׁהֵן מְצֻוִּין לְהִתְאַבֵּל עַל מֵתֵיהֶן
+
+**Nguồn Torah:** Lêvi 21:1–3 thường cấm tư tế làm mình ô uế do người chết, nhưng cho phép đối với mẹ, cha, con trai, con gái, anh em và người chị em chưa kết hôn sống gần mình.
+
+**Ngữ nghĩa và cách dịch:** Maimonides không chỉ đọc câu **לָהּ יִטַּמָּא** (*lah yittama*) là “người ấy được phép trở nên ô uế vì nàng”, mà là một nghĩa vụ phải lo tang cho thân nhân gần. [Tang chế Do Thái](./glossary#jewish-mourning) có các giai đoạn và thực hành pháp lý; không nên thu gọn thành một cảm xúc buồn riêng tư.
+
+**Bối cảnh và ý nghĩa:** Quy định tạo sự cân bằng giữa sự thanh sạch đặc biệt của tư tế và nghĩa vụ gia đình. Tiếp xúc với người chết gây ô uế nghi lễ nhưng không mang nghĩa đạo đức rằng thi thể hoặc người để tang là xấu. Thượng tế chịu giới hạn nghiêm hơn tư tế thông thường và không làm mình ô uế ngay cả cho cha mẹ theo Lêvi 21:10–12.
+
+### P38 — Thượng tế kết hôn với một trinh nữ
+
+**English:** For the High Priest to marry a virgin.
+
+**Hebrew (Maimonides):** לִהְיוֹת כֹּהֵן גָּדוֹל נוֹשֵׂא בְּתוּלָה
+
+**Nguồn Torah:** Lêvi 21:13–14 — Thượng tế phải lấy một phụ nữ còn trinh thuộc dân mình và không được lấy góa phụ, người đã ly dị, người bị ô nhục hoặc gái mại dâm.
+
+**Ngữ nghĩa và cách dịch:** **בְּתוּלָה** (*betulah*) thường được dịch là “trinh nữ”; trong halakhah, phạm vi pháp lý của từ được xác định chi tiết hơn nghĩa đời thường. Đây là quy định hôn nhân riêng của chức [Thượng tế](./glossary#high-priest), không phải một mệnh lệnh bắt mọi đàn ông Do Thái phải chọn vợ theo cùng tiêu chuẩn.
+
+**Bối cảnh và ý nghĩa:** Hôn nhân của tư tế trong Lêvi gắn với quan niệm dòng dõi, tính toàn vẹn nghi lễ và việc truyền chức theo cha. Ngôn ngữ này phản ánh một xã hội phụ hệ cổ đại và không nên được dùng mà không giải thích để đánh giá phẩm giá của phụ nữ hiện đại dựa trên tình trạng hôn nhân hoặc lịch sử tình dục. Mitzvah mô tả điều kiện của một chức vụ Đền Thờ không còn hoạt động.
+
+### P39 — Dâng lễ vật *tamid* mỗi ngày
+
+**English:** To offer the two daily tamid offerings.
+
+**Hebrew (Maimonides):** לְהַקְרִיב תְּמִידִין בְּכָל יוֹם
+
+**Nguồn Torah:** Dân Số 28:3–8 — mỗi ngày dâng hai chiên đực một tuổi không tì vết: một con vào buổi sáng và một con vào lúc chạng vạng, cùng lễ phẩm bột và rượu.
+
+**Ngữ nghĩa và cách dịch:** [**Korban tamid**](./glossary#tamid) là “lễ vật thường xuyên/liên tục”. Số ít *tamid* có thể chỉ toàn bộ chế độ lễ vật hằng ngày; Maimonides dùng số nhiều để nói đến các lễ vật được dâng đều đặn. **Korban** là lễ vật được đưa đến gần nơi thánh, không nên mặc nhiên dịch mọi trường hợp là “vật tế để xoa dịu cơn giận”.
+
+**Bối cảnh và ý nghĩa:** Hai lễ vật đánh dấu nhịp mở và khép của ngày phục vụ Đền Thờ; các lễ vật khác được sắp quanh khung thời gian này. Sau năm 70 CN, Do Thái giáo rabbi liên hệ các giờ cầu nguyện hằng ngày với nhịp của *tamid*, nhưng cầu nguyện không phải một sự tái diễn việc giết và đốt lễ vật theo nghĩa vật chất.
+
+### P40 — Thượng tế dâng lễ phẩm bột mỗi ngày
+
+**English:** For the High Priest to offer a grain offering each day.
+
+**Hebrew (Maimonides):** לְהַקְרִיב כֹּהֵן גָּדוֹל מִנְחָה בְּכָל יוֹם
+
+**Nguồn Torah:** Lêvi 6:13–16 theo cách đánh số Hebrew, tương ứng khoảng 6:20–23 trong nhiều bản dịch — Aaron và các người kế vị dâng một phần mười *ephah* bột mịn, một nửa buổi sáng và một nửa buổi chiều.
+
+**Ngữ nghĩa và cách dịch:** [**Minchah**](./glossary#minchah) có thể nghĩa chung là quà/lễ phẩm, nhưng trong luật lễ vật thường chỉ lễ phẩm từ bột, dầu và nhũ hương. Tên buổi cầu nguyện chiều *Minchah* về sau gắn với thời điểm lễ vật buổi chiều; hai cách dùng liên hệ nhưng không đồng nhất vật chất.
+
+**Bối cảnh và ý nghĩa:** Lễ phẩm do Thượng tế tự dâng hằng ngày nhấn mạnh rằng người đứng đầu nghi lễ cũng có nghĩa vụ riêng, không chỉ nhận lễ vật từ dân. Lễ phẩm được đốt trọn, không trở thành phần ăn của tư tế. Đơn vị *ephah* là đơn vị đo dung tích cổ; mọi quy đổi sang lít hiện đại chỉ là ước tính.
+
+### P41 — Dâng lễ vật bổ sung vào mỗi Sabbath
+
+**English:** To offer an additional sacrifice every Sabbath.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן אַחֵר בְּכָל שַׁבָּת
+
+**Nguồn Torah:** Dân Số 28:9–10 — vào ngày Sabbath dâng thêm hai chiên đực một tuổi cùng lễ phẩm bột và rượu, ngoài lễ vật *tamid* hằng ngày.
+
+**Ngữ nghĩa và cách dịch:** Lễ vật “bổ sung” được gọi là [**korban musaf**](./glossary#musaf). Tên này được bảo tồn trong buổi cầu nguyện *Musaf* của Sabbath và các ngày lễ. Cầu nguyện Musaf tưởng nhớ và sắp xếp đời sống phụng vụ theo lễ vật cổ, nhưng không phải một lễ hiến tế động vật trong hội đường.
+
+**Bối cảnh và ý nghĩa:** Sabbath không thay thế nhịp lễ vật hằng ngày mà thêm một lớp lễ vật cộng đồng. Điều này tạo nên mô hình lịch phụng vụ: nền hằng ngày, rồi các lớp bổ sung theo tuần, tháng và năm. P41 chỉ có thể thực hiện theo nghĩa Đền Thờ khi có bàn thờ và tư tế phục vụ.
+
+### P42 — Dâng lễ vật bổ sung vào đầu mỗi tháng
+
+**English:** To offer an additional sacrifice on every new moon.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּכָל רֹאשׁ חֹדֶשׁ וְחֹדֶשׁ
+
+**Nguồn Torah:** Dân Số 28:11–15 quy định lễ vật cộng đồng “vào những ngày đầu tháng”, gồm bò, chiên, dê và các lễ phẩm đi kèm.
+
+**Ngữ nghĩa và cách dịch:** [**Rosh Chodesh**](./glossary#rosh-chodesh) nghĩa đen là “đầu tháng”, gắn với trăng mới trong lịch Hebrew âm–dương. “Mỗi trăng mới” không có nghĩa một lễ hội dân gian thờ Mặt Trăng: thiên thể dùng để xác định lịch, còn lễ vật được dâng cho YHWH.
+
+**Bối cảnh và ý nghĩa:** Trước lịch tính toán cố định, tháng mới được xác lập qua quan sát và quyết định của tòa án, vì vậy lịch tôn giáo cũng là một thiết chế cộng đồng. Rosh Chodesh vẫn được đánh dấu bằng kinh nguyện và đọc Torah đặc biệt dù lễ vật Đền Thờ không còn.
+
+### P43 — Dâng lễ vật bổ sung trong bảy ngày Pesach
+
+**English:** To offer an additional sacrifice on each of the seven days of Passover.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּחַג הַפֶּסַח
+
+**Nguồn Torah:** Lêvi 23:8 nói phải dâng lễ vật bằng lửa trong bảy ngày; Dân Số 28:19–24 liệt kê lễ vật bổ sung mỗi ngày của lễ Bánh Không Men.
+
+**Ngữ nghĩa và cách dịch:** [**Pesach**](./glossary#pesach) có thể chỉ lễ Vượt Qua, lễ vật Vượt Qua hoặc cả mùa lễ tùy ngữ cảnh. P43 là lễ vật **musaf** của bảy ngày, không phải mitzvah riêng về giết con chiên Pesach vào ngày 14 tháng Nisan.
+
+**Đối chiếu lỗi nguồn:** Một số bản in và bảng trực tuyến dẫn Lêvi 23:36, nhưng câu đó thuộc phần Sukkot/Shemini Atzeret. Chabad cũng ghi nhận vấn đề văn bản này; câu tương ứng về bảy ngày Pesach là Lêvi 23:8, còn chi tiết lễ vật nằm ở Dân Số 28. Đây là lý do bài không sao chép máy móc mọi tham chiếu từ danh sách thứ cấp.
+
+### P44 — Dâng lễ phẩm *omer* vào ngày thứ hai của Pesach
+
+**English:** To bring the omer grain offering with a lamb after the first day of Passover.
+
+**Hebrew (Maimonides):** לְהַקְרִיב מִנְחַת הָעֹמֶר מִמָּחֳרָת רִאשׁוֹן שֶׁל פֶּסַח עִם כֶּבֶשׂ אֶחָד
+
+**Nguồn Torah:** Lêvi 23:10–14 — khi vào đất và gặt mùa, Israel mang *omer* đầu mùa đến tư tế để làm nghi thức đưa qua lại, cùng một chiên đực, lễ phẩm bột và rượu; không ăn ngũ cốc mới trước nghi thức ấy.
+
+**Ngữ nghĩa và cách dịch:** [**Omer**](./glossary#omer) trước hết là một đơn vị đo khô và ở đây chỉ lượng lúa mạch đầu mùa được dâng. “Đếm Omer” là mitzvah khác, nói đến bốn mươi chín ngày từ lễ phẩm này đến Shavuot; không nên nhầm hành vi đếm với chính lễ phẩm P44.
+
+**Bối cảnh và ý nghĩa:** Nghi thức gắn lịch lễ hội với chu kỳ nông nghiệp của vùng đất Israel. Việc dâng phần đầu mùa trước khi ăn ngũ cốc mới thừa nhận mùa gặt không chỉ là thành quả cá nhân. Không có Đền Thờ, lễ phẩm không được dâng; việc đếm Omer và một số quy định về ngũ cốc mới vẫn tiếp tục theo halakhah với những khác biệt thực hành.
+
+### P45 — Dâng lễ vật bổ sung vào Shavuot
+
+**English:** To offer an additional sacrifice on Shavuot.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּיוֹם עֲצֶרֶת
+
+**Nguồn Torah:** Dân Số 28:26–31 quy định lễ vật bổ sung vào “ngày hoa quả đầu mùa”, khi dâng lễ phẩm ngũ cốc mới; Lêvi 23:15–21 liên hệ ngày này với việc hoàn tất bảy tuần tính từ *omer*.
+
+**Ngữ nghĩa và cách dịch:** [**Shavuot**](./glossary#shavuot) nghĩa là “các tuần”; Maimonides dùng tên **Atzeret**, tên rabbi thường gặp cho ngày lễ này. P45 nói đến lễ vật musaf được liệt kê trong Dân Số, phân biệt với hai ổ bánh lúa mì và các lễ vật đi kèm ở Lêvi, được đếm trong mitzvah tiếp theo.
+
+**Bối cảnh và ý nghĩa:** Trong Torah, Shavuot mang tính nông nghiệp rõ rệt: kết thúc phép đếm tuần và đánh dấu lễ đầu mùa lúa mì. Truyền thống rabbi về sau nhấn mạnh Shavuot là thời điểm ban Torah tại Sinai. Hai lớp ý nghĩa cùng tồn tại, nhưng bài sẽ không chèn ý nghĩa Sinai vào như thể Dân Số 28 trực tiếp nói điều đó.
+
+### P46 — Dâng hai ổ bánh và các lễ vật đi kèm vào Shavuot
+
+**English:** To bring the two loaves and their accompanying sacrifices on Shavuot.
+
+**Hebrew (Maimonides):** לְהָבִיא שְׁתֵּי הַלֶּחֶם עִם הַקָּרְבָּנוֹת הַקְּרֵבִין בִּגְלַל הַלֶּחֶם בְּיוֹם עֲצֶרֶת
+
+**Nguồn Torah:** Lêvi 23:17–20 — từ nơi cư trú, Israel mang hai ổ bánh làm lễ phẩm đưa qua lại, làm từ bột mịn và có men, cùng các lễ vật động vật được quy định.
+
+**Ngữ nghĩa và cách dịch:** [**Shtei HaLechem**](./glossary#two-loaves) nghĩa là “hai ổ bánh”. Chúng khác bánh không men của Pesach: văn bản yêu cầu bánh Shavuot được nướng **có men**. “Đưa qua lại” (*tenufah*) chỉ một động tác trình lễ phẩm trước YHWH, không có nghĩa ném hoặc phát bánh cho đám đông.
+
+**Bối cảnh và ý nghĩa:** Hai ổ bánh làm từ lúa mì mới đánh dấu giai đoạn khác của mùa gặt so với lễ phẩm lúa mạch Omer. P46 khác P45: P45 là lễ vật musaf của ngày lễ trong Dân Số 28, còn P46 là bánh đầu mùa cùng nhóm lễ vật riêng trong Lêvi 23. Không có Đền Thờ, nghi thức này không được thực hiện.
+
+### P47 — Dâng lễ vật bổ sung vào Rosh Hashanah
+
+**English:** To offer an additional sacrifice on Rosh Hashanah.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּרֹאשׁ הַשָּׁנָה
+
+**Nguồn Torah:** Dân Số 29:1–6 quy định lễ vật vào ngày đầu tháng thứ bảy, một ngày hội thánh và tiếng kèn, ngoài lễ vật đầu tháng cùng lễ vật hằng ngày.
+
+**Ngữ nghĩa và cách dịch:** [**Rosh Hashanah**](./glossary#rosh-hashanah) nghĩa là “đầu năm”, nhưng Torah gọi ngày này là ngày tiếng kèn/tưởng niệm tiếng kèn và đặt nó vào đầu **tháng thứ bảy**. Năm Do Thái có nhiều mốc “đầu năm” cho các mục đích khác nhau; đây không phải mâu thuẫn đơn giản với việc Nisan là tháng thứ nhất.
+
+**Bối cảnh và ý nghĩa:** P47 chỉ lễ vật musaf, không phải mitzvah thổi *shofar*, vốn được đếm riêng. Sau khi Đền Thờ bị phá hủy, kinh Musaf của Rosh Hashanah bảo tồn ký ức về lễ vật nhưng phát triển thành một cấu trúc phụng vụ riêng về vương quyền, sự ghi nhớ và tiếng shofar.
+
+### P48 — Dâng lễ vật bổ sung vào Yom Kippur
+
+**English:** To offer an additional sacrifice on Yom Kippur.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּיוֹם הַצּוֹם
+
+**Nguồn Torah:** Dân Số 29:7–11 quy định lễ vật bổ sung vào ngày mồng mười tháng thứ bảy, ngày cộng đồng tự hạ mình và ngừng công việc.
+
+**Ngữ nghĩa và cách dịch:** [**Yom Kippur**](./glossary#yom-kippur) nghĩa là Ngày Xá Tội/Chuộc Tội. Maimonides gọi nó **yom ha-tzom**, “ngày ăn chay”, nhưng “tự hạ mình” trong halakhah rộng hơn chỉ nhịn thức ăn. P48 là lễ vật musaf của Dân Số, phân biệt với toàn bộ nghi lễ đặc biệt P49.
+
+**Bối cảnh và ý nghĩa:** Cùng một ngày có nhiều lớp nghĩa vụ: ngừng việc, tự hạ mình, lễ vật bổ sung và nghi lễ thanh tẩy Đền Thờ. Việc Maimonides đếm riêng cho thấy không nên gom mọi hành vi diễn ra trong một lễ thành một mitzvah duy nhất.
+
+### P49 — Thực hiện nghi lễ đặc biệt của Yom Kippur
+
+**English:** To perform the prescribed Yom Kippur service.
+
+**Hebrew (Maimonides):** לַעֲשׂוֹת עֲבוֹדַת הַיּוֹם בְּיוֹם הַצּוֹם
+
+**Nguồn Torah:** Lêvi 16 mô tả việc Thượng tế tắm, thay phẩm phục, dâng bò và dê, đưa hương vào Nơi Cực Thánh, rảy máu, thanh tẩy nơi thánh và gửi con dê mang tội lỗi vào hoang địa.
+
+**Ngữ nghĩa và cách dịch:** [**Avodat Yom HaKippurim**](./glossary#yom-kippur-service) là “công việc/nghi lễ của Ngày Xá Tội”. “Con dê gánh tội” thường được gọi là *scapegoat*, nhưng Hebrew **Azazel** có cách hiểu gây tranh luận; không nên khẳng định chắc chắn đó là tên quỷ, địa danh hay chỉ đặc tính của con dê mà không nêu vấn đề.
+
+**Bối cảnh và ý nghĩa:** Nghi lễ thanh tẩy cả nơi thánh, bàn thờ, tư tế và cộng đồng khỏi sự ô uế cùng vi phạm tích tụ. Chỉ Thượng tế được vào Nơi Cực Thánh, và chỉ trong trình tự của ngày này. Phụng vụ Yom Kippur hiện nay tưởng niệm *Avodah* bằng lời đọc và cầu nguyện; không tái hiện việc dâng vật hay đưa dê vào hoang địa.
+
+### P50 — Dâng lễ vật bổ sung trong Sukkot
+
+**English:** To offer the additional sacrifices on Sukkot.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּחַג הַסֻּכּוֹת
+
+**Nguồn Torah:** Dân Số 29:12–34 liệt kê lễ vật cho bảy ngày Sukkot; số bò giảm dần từ mười ba trong ngày đầu xuống bảy trong ngày thứ bảy.
+
+**Ngữ nghĩa và cách dịch:** P50 nói đến các lễ vật **musaf**, không phải nghĩa vụ cư ngụ trong *sukkah* hay cầm bốn loài thực vật, vốn là các mitzvot riêng. Tổng cộng bảy mươi con bò trong bảy ngày được truyền thống rabbi về sau liên hệ với bảy mươi dân tộc, nhưng đó là lớp giải thích, không phải lời giải thích trực tiếp trong Dân Số 29.
+
+**Bối cảnh và ý nghĩa:** Sukkot kết hợp hành hương, mùa thu hoạch và ký ức về đời sống trong lều tạm. Quy mô lễ vật cho thấy đây là một trong các cao điểm của lịch Đền Thờ. Sau năm 70 CN, các thực hành tại gia và hội đường trở thành phương tiện chính bảo tồn lễ.
+
+### P51 — Dâng lễ vật bổ sung vào Shemini Atzeret
+
+**English:** To offer an additional sacrifice on Shemini Atzeret.
+
+**Hebrew (Maimonides):** לְהוֹסִיף קָרְבָּן בְּיוֹם שְׁמִינִי עֲצֶרֶת שֶׁיּוֹם זֶה רֶגֶל בִּפְנֵי עַצְמוֹ הוּא
+
+**Nguồn Torah:** Dân Số 29:35–38 — ngày thứ tám là một cuộc hội họp long trọng, không làm việc thường nhật và có nhóm lễ vật riêng.
+
+**Ngữ nghĩa và cách dịch:** [**Shemini Atzeret**](./glossary#shemini-atzeret) nghĩa gần với “cuộc hội họp/ngày lưu lại thứ tám”. Nó nối ngay sau bảy ngày Sukkot nhưng được halakhah xem là một ngày lễ có địa vị riêng ở nhiều phương diện. Ngoài vùng Israel, việc phân bổ ngày với Simchat Torah tạo thêm khác biệt lịch phụng vụ.
+
+**Bối cảnh và ý nghĩa:** Số lễ vật thay đổi rõ so với mô hình bảy ngày trước, hỗ trợ việc phân biệt ngày thứ tám. Không nên gọi đơn giản đây là “ngày thứ tám của Sukkot” rồi giả định mọi luật của sukkah và bốn loài vẫn áp dụng y hệt.
+
+### P52 — Hành hương và dâng lễ vật trong ba kỳ lễ
+
+**English:** To celebrate the three pilgrimage festivals with a festival offering.
+
+**Hebrew (Maimonides):** לָחֹג בָּרְגָלִים
+
+**Nguồn Torah:** Xuất Hành 23:14 — “Ba lần trong năm, ngươi phải cử hành lễ cho Ta”; Phục Truyền 16:16 gọi tên Bánh Không Men, lễ Các Tuần và lễ Lều Tạm.
+
+**Ngữ nghĩa và cách dịch:** [**Shalosh Regalim**](./glossary#pilgrimage-festivals) là ba kỳ hành hương. Trong cách đếm của Maimonides, P52 gắn với lễ vật *chagigah*, không chỉ cảm giác “ăn mừng”. Gốc *ḥ-g-g* liên hệ việc cử hành lễ và hành hương.
+
+**Bối cảnh và ý nghĩa:** Hành hương tập trung cộng đồng tại nơi thánh, đồng thời đòi hỏi thời gian, đường đi, an ninh và nguồn lực. Người nghèo, ngoại kiều, người Lêvi và các thành viên gia đình xuất hiện trong lý tưởng vui lễ của Phục Truyền, cho thấy lễ hội không chỉ là nghi thức của giới tinh hoa.
+
+### P53 — Xuất hiện trước YHWH trong ba kỳ hành hương
+
+**English:** To appear before God at the Temple on the pilgrimage festivals.
+
+**Hebrew (Maimonides):** לְהֵרָאוֹת בָּרְגָלִים
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 16:16–17 — ba lần mỗi năm, mọi nam giới phải xuất hiện trước YHWH tại nơi Người chọn và không được đến tay không.
+
+**Ngữ nghĩa và cách dịch:** Mitzvah này gọi là **re'iyah**, “sự xuất hiện/được thấy”, và gắn với một lễ vật toàn thiêu cùng tên. Nó khác P52 (*chagigah*) và P54 (vui lễ), dù cả ba diễn ra trong cùng những kỳ hành hương.
+
+**Bối cảnh và ý nghĩa:** Ngôn ngữ nam giới phản ánh trách nhiệm hành hương pháp lý trong xã hội cổ; điều đó không có nghĩa phụ nữ và trẻ em không bao giờ dự lễ. Các trình thuật và Phục Truyền hình dung hộ gia đình rộng hơn cùng vui lễ, trong khi halakhah phân biệt ai bắt buộc và ai được miễn.
+
+### P54 — Vui mừng trong các kỳ lễ
+
+**English:** To rejoice on the pilgrimage festivals.
+
+**Hebrew (Maimonides):** לִשְׂמֹחַ בָּרְגָלִים
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 16:14 — phải vui trong ngày lễ cùng con trai, con gái, tôi tớ, người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ trong thành.
+
+**Ngữ nghĩa và cách dịch:** [**Simchat Yom Tov**](./glossary#festival-rejoicing) là niềm vui của ngày lễ được biểu hiện bằng hành vi cụ thể, không phải mệnh lệnh phải luôn có một cảm xúc hưng phấn. Trong thời Đền Thờ, Maimonides liên hệ nghĩa vụ với lễ vật bình an; các hình thức vui lễ sau đó gồm ăn uống, quần áo và chăm lo người dễ bị bỏ quên.
+
+**Bối cảnh và ý nghĩa:** Câu Torah phân phối niềm vui ra ngoài gia đình hạt nhân và chủ hộ. Người không có đất hay mạng lưới bảo trợ phải được đưa vào bữa lễ. Vì vậy, “vui lễ” có chiều kích kinh tế và cộng đồng, không chỉ là trạng thái tâm lý hoặc giải trí cá nhân.
+
+### P55 — Giết lễ vật Pesach vào thời điểm quy định
+
+**English:** To slaughter the Passover offering at its appointed time.
+
+**Hebrew (Maimonides):** לִשְׁחֹט כֶּבֶשׂ הַפֶּסַח
+
+**Nguồn Torah:** Xuất Hành 12:6 quy định cộng đồng giết con vật Pesach vào lúc chạng vạng ngày 14 của tháng; Phục Truyền 16 đặt lễ vật tại nơi YHWH chọn.
+
+**Ngữ nghĩa và cách dịch:** [**Korban Pesach**](./glossary#korban-pesach) là lễ vật Vượt Qua, có thể là chiên hoặc dê theo Xuất Hành 12:5. Vì vậy, cách gọi quen thuộc “chiên Vượt Qua” không nên khiến người đọc nghĩ chỉ cừu mới hợp lệ trong văn bản. P55 là việc giết lễ vật; ăn thịt lễ vật vào đêm sau được tính là P56.
+
+**Bối cảnh và ý nghĩa:** Trong trình thuật Xuất Hành, máu đánh dấu nhà Israel trong đêm tai họa đầu lòng và bữa ăn diễn ra trong tư thế sẵn sàng lên đường. Khi việc thờ phượng được tập trung hóa, lễ vật gắn với Đền Thờ Jerusalem và các nhóm hành hương. Bữa Seder hiện đại tưởng nhớ Pesach nhưng không có thịt korban Pesach, vì không có Đền Thờ và bàn thờ hoạt động.
+
 ---
 
 ## Nguồn chính và quy ước trích dẫn
@@ -381,9 +741,13 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 - [Tefillin và mezuzot trong Kho bản thảo Biển Chết của Cơ quan Cổ vật Israel](https://www.deadseascrolls.org.il/learn-about-the-scrolls/scrolls-content?locale=en_US)
 - [Danh mục các mitzvot tích cực trong *Mishneh Torah*](https://www.sefaria.org/Mishneh_Torah%2C_Positive_Mitzvot?lang=bi)
 - [Khảo luận của Metropolitan Museum về menorah như biểu tượng Do Thái](https://resources.metmuseum.org/resources/metpublications/pdf/Age_of_Transition_Byzantine_Culture_in_the_Islamic_World.pdf)
+- [Các phiến bạc Ketef Hinnom tại Israel Museum](https://www.imj.org.il/en/exhibitions/i-will-lift-mine-eyes)
+- [Ghi chú văn bản về mitzvah P43 của Maimonides](https://www.chabad.org/library/article_cdo/aid/961441/jewish/Positive-Commandment-43.htm)
 
 Các bản tiếng Việt trong bài là bản dịch phục vụ việc giải thích, không phải bản dịch phụng vụ chính thức. Danh xưng **YHWH** được giữ trong phần trích dẫn phân tích để người đọc nhận ra Tên riêng trong văn bản Hebrew; từ **Thiên Chúa** được dùng trong phần diễn giải tiếng Việt.
 
 [^qumran]: Cơ quan Cổ vật Israel cho biết khoảng hai chục mảnh *tefillin* được tìm thấy tại Qumran, cùng các mẫu khác ở sa mạc Judea; tám *mezuzot* được tìm thấy trong các hang Qumran và một mẫu tại Wadi Murabba'at. Một số *tefillin* Qumran chứa những đoạn văn bổ sung, nên hiện chưa thể kết luận các đặc điểm riêng ấy phổ biến đến mức nào ngoài cộng đồng đã để lại chúng.
 
 [^menorah]: Một hình menorah khắc trên vữa từ thế kỷ I TCN đã được tìm thấy tại Khu phố Do Thái ở Jerusalem; hình tượng này cũng xuất hiện trên tiền, đồ tùy táng và nhiều hiện vật Do Thái thời cổ đại. Phù điêu trên Khải hoàn môn Titus tại Rome mô tả menorah trong đoàn chiến lợi phẩm sau khi quân La Mã phá hủy Jerusalem năm 70 CN.
+
+[^ketef-hinnom]: Hai phiến bạc cuộn lại được tìm thấy trong một ngôi mộ tại Ketef Hinnom, Jerusalem. Israel Museum định niên đại chúng vào cuối thế kỷ VII–đầu thế kỷ VI TCN và mô tả đây là những mảnh văn bản Kinh Thánh cổ nhất hiện biết. Văn bản không hoàn toàn đồng nhất từng chữ với [bản Masoretic](./glossary#masoretic-text) về sau, nhưng có dạng của lời chúc tư tế trong Dân Số 6.

@@ -2,9 +2,11 @@
 title: Phụ lục A - Trạng thái
 ---
 
-# Phụ lục A: Trạng thái
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 171-172 (phần Trạng thái trên trang 172).
+
+![Nữ trị liệu đánh giá nhiều trạng thái ảnh hưởng đến nhóm phiêu lưu](assets/appendix-a-conditions-cover.png)
+
+*Trạng thái có thể thay đổi khả năng cảm nhận, hành động, di chuyển và sinh tồn của một sinh vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Trạng thái thay đổi khả năng của sinh vật theo nhiều cách, có thể phát sinh từ phép, đặc tính lớp, đòn tấn công quái vật hoặc hiệu ứng khác. Phần lớn trạng thái, như mù, gây suy giảm; một số, như vô hình, có thể có lợi.
 
@@ -16,10 +18,18 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 
 ## Mù (Blinded)
 
+![Trinh sát elf ứng phó với trạng thái mù và điếc](assets/appendix-a-sensory-conditions.png)
+
+*Mù và điếc khiến sinh vật mất khả năng dựa vào thị giác hoặc thính giác. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 - Không thể thấy và tự động thất bại mọi kiểm tra thuộc tính cần thị giác.
 - Tung tấn công vào sinh vật có lợi thế; tung tấn công của sinh vật có bất lợi.
 
 ## Mê hoặc (Charmed)
+
+![Nữ hiệp sĩ tiefling chống lại mê hoặc và hoảng sợ](assets/appendix-a-mental-conditions.png)
+
+*Mê hoặc và hoảng sợ tác động đến lựa chọn mục tiêu, hành động và hướng di chuyển. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 - Không thể tấn công kẻ mê hoặc mình hoặc nhắm kẻ đó bằng khả năng gây hại hay hiệu ứng ma thuật gây hại.
 - Kẻ mê hoặc có lợi thế mọi kiểm tra thuộc tính để tương tác xã hội với sinh vật.
@@ -35,6 +45,10 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 
 ## Bị vật lộn (Grappled)
 
+![Chiến binh orc minh họa vật lộn ngã sấp và kiềm giữ](assets/appendix-a-movement-conditions.png)
+
+*Vật lộn, ngã sấp và kiềm giữ hạn chế khả năng di chuyển hoặc chiến đấu hiệu quả. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 - Tốc độ thành 0 và không hưởng bất kỳ thưởng tốc độ nào.
 - Trạng thái kết thúc nếu kẻ vật lộn mất năng lực hành động (xem trạng thái đó).
 - Cũng kết thúc nếu hiệu ứng đưa sinh vật ra khỏi tầm với kẻ vật lộn hoặc hiệu ứng vật lộn, như bị phép Sóng sấm (*thunderwave*) hất đi.
@@ -49,6 +63,10 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 - Tung tấn công vào sinh vật có bất lợi; tung tấn công của sinh vật có lợi thế.
 
 ## Tê liệt (Paralyzed)
+
+![Nữ hộ vệ dwarf trải qua các trạng thái làm mất khả năng hành động](assets/appendix-a-incapacitating-conditions.png)
+
+*Tê liệt, hóa đá, choáng và bất tỉnh đều có thể khiến sinh vật gần như không thể tự bảo vệ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 - Mất năng lực hành động (xem trạng thái đó), không thể di chuyển hoặc nói.
 - Tự động thất bại cứu nguy Sức mạnh và Khéo léo.
@@ -95,6 +113,10 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 - Mọi đòn trúng là chí mạng nếu kẻ tấn công trong 5 feet của sinh vật.
 
 ## Kiệt sức (Exhaustion)
+
+![Người dẫn đường halfling suy kiệt dần qua môi trường khắc nghiệt](assets/appendix-a-exhaustion.png)
+
+*Kiệt sức tích lũy theo từng mức và ngày càng làm suy giảm khả năng của sinh vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Một số khả năng đặc biệt và hiểm họa môi trường, như đói hoặc tác động lâu dài của nhiệt độ đóng băng/nóng bỏng, có thể gây trạng thái đặc biệt gọi là kiệt sức. Kiệt sức có sáu mức. Hiệu ứng có thể cho sinh vật một hoặc nhiều mức theo mô tả.
 

@@ -31,7 +31,6 @@ Bản dịch được thực hiện trên Codex với model GPT-5.6 Sol Light
 - [Phụ lục B - Các vị thần trong đa vũ trụ](20-appendix-b-gods-of-the-multiverse.md) — trang 172-173; .
 - [Phụ lục C - Năm phe phái](21-appendix-c-five-factions.md) — trang 174-176; .
 - [Bảng thuật ngữ](99-glossary.md)
-- [Rà soát độ đầy đủ](98-completeness-review.md)
 
 ## Quy ước dịch
 

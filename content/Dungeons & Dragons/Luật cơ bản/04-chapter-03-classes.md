@@ -1,12 +1,8 @@
 ---
-title: Chương 3 - Lớp nhân vật
+title: Chương 03 - Lớp nhân vật
 ---
 
-# Chương 3: Lớp nhân vật
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 22-34. Cả bốn lớp trong chương được gộp trong tệp này.
-
-
 
 ![Bốn nhà phiêu lưu đại diện cho giáo sĩ, chiến binh, đạo tặc và pháp sư](assets/chapter-03-classes-cover.png)
 

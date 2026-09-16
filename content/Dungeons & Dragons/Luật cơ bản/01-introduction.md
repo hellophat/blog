@@ -2,11 +2,7 @@
 title: Chương 00 - Giới thiệu
 ---
 
-# Giới thiệu
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 3-6.
-
-[Mục lục](00-index.md) · [Chương tiếp theo](02-chapter-01-character-creation.md)
 
 Trò chơi nhập vai **Dungeons & Dragons** xoay quanh việc kể chuyện trong những thế giới của kiếm và phép thuật. Trò chơi có nhiều nét tương đồng với những trò giả tưởng thời thơ ấu. Cũng như những trò chơi ấy, D&D được dẫn dắt bởi trí tưởng tượng: bạn hình dung một tòa lâu đài cao vút dưới bầu trời đêm giông bão, rồi tưởng tượng một nhà phiêu lưu trong thế giới kỳ ảo sẽ phản ứng thế nào trước những thử thách mà khung cảnh ấy đặt ra.
 

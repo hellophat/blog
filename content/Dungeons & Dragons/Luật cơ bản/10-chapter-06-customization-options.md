@@ -1,20 +1,22 @@
 ---
-title: Chương 6 - Các lựa chọn tùy chỉnh
+title: Chương 06 - Các lựa chọn tùy chỉnh
 ---
-
-# Chương 6: Các lựa chọn tùy chỉnh
 
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 58.
 
-![Hercules đứng trước những lựa chọn ở ngã rẽ](https://commons.wikimedia.org/wiki/Special:Redirect/file/Hunerbein%20Hercules%20at%20the%20crossroads.jpg?width=1000)
+![Một nhà phiêu lưu đứng trước nhiều con đường rèn luyện khác nhau](assets/chapter-06-customization-cover.png)
 
-*Hercules ở ngã rẽ, một hình ảnh về lựa chọn và con đường phát triển — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Hunerbein_Hercules_at_the_crossroads.jpg).*
+*Các lựa chọn tùy chỉnh cho phép nhân vật phát triển theo con đường phù hợp với câu chuyện và lối chơi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Sự kết hợp giữa điểm thuộc tính, chủng tộc, lớp và xuất thân xác định khả năng của nhân vật trong trò chơi; những chi tiết cá nhân bạn tạo phân biệt nhân vật ấy với mọi nhân vật khác. Ngay trong lớp và chủng tộc của mình, bạn vẫn có các lựa chọn để tinh chỉnh những gì nhân vật làm được. Nhưng một số người chơi, với sự cho phép của DM, muốn tiến thêm một bước.
 
 Chương 6 của *Player’s Handbook* quy định hai bộ quy tắc tùy chọn để tùy chỉnh nhân vật: đa lớp và chiến công (feat). Đa lớp cho phép kết hợp các lớp; chiến công là những lựa chọn đặc biệt có thể chọn thay cho tăng điểm thuộc tính khi lên cấp. DM quyết định liệu chiến dịch có cho phép các lựa chọn này hay không.
 
 ## Đa lớp (Multiclassing)
+
+![Một chiến binh học cách kết hợp kiếm thuật với phép thuật dưới sự hướng dẫn của hai người thầy](assets/chapter-06-multiclassing.png)
+
+*Đa lớp kết hợp năng lực của nhiều lớp nhân vật, đổi sự chuyên sâu lấy tính linh hoạt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Đa lớp cho phép bạn có cấp độ trong nhiều lớp. Nhờ đó, bạn kết hợp khả năng của các lớp để hiện thực hóa ý tưởng nhân vật mà một lớp tiêu chuẩn có thể không thể hiện được.
 
@@ -49,6 +51,10 @@ Khi nhận cấp trong một lớp khác lớp đầu tiên, bạn chỉ nhận 
 Khi nhận cấp mới trong một lớp, bạn nhận các đặc tính dành cho cấp ấy. Tuy nhiên, một số đặc tính có quy tắc bổ sung khi đa lớp. Xem Chương 6 của *Player’s Handbook* để biết thêm.
 
 ## Chiến công (Feats)
+
+![Những nhà phiêu lưu biểu diễn các tài năng đặc biệt trong sân tập](assets/chapter-06-feats.png)
+
+*Chiến công thể hiện một năng khiếu hoặc kỹ thuật đặc biệt được nhân vật rèn luyện đến mức nổi bật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Chiến công thể hiện một tài năng hoặc lĩnh vực chuyên môn đem lại khả năng đặc biệt cho nhân vật. Nó bao hàm đào tạo, kinh nghiệm và khả năng vượt ngoài những gì lớp cung cấp. Xem Chương 6 của *Player’s Handbook* để biết thêm.
 

@@ -1,20 +1,22 @@
 ---
-title: Chương 9 - Chiến đấu
+title: Chương 09 - Chiến đấu
 ---
-
-# Chương 9: Chiến đấu
 
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 72-80.
 
-![Các hiệp sĩ giao chiến trong một bản thảo trung cổ](https://commons.wikimedia.org/wiki/Special:Redirect/file/Knights%20in%20Combat%2001.jpg?width=1200)
+![Nhóm nhà thám hiểm phối hợp chiến đấu trong một pháo đài đổ nát](assets/chapter-09-combat-cover.png)
 
-*Các hiệp sĩ giao chiến, minh họa bản thảo thế kỷ 14 — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Knights_in_Combat_01.jpg).*
+*Chiến đấu kết hợp vị trí, thời điểm, hành động và phối hợp để tạo nên những cuộc đối đầu kịch tính. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Tiếng kiếm va vào khiên chan chát. Tiếng xé rách kinh hoàng khi móng vuốt quái vật cào xuyên giáp. Ánh sáng chói lòa khi quả cầu lửa nở bung từ phép của pháp sư. Mùi máu sắc nồng trong không khí, xuyên qua mùi hôi của quái vật ghê tởm. Tiếng gầm giận dữ, tiếng reo chiến thắng, tiếng kêu đau đớn. Chiến đấu trong D&D có thể hỗn loạn, chết chóc và đầy phấn khích.
 
 Chương này cung cấp những quy tắc cần thiết để nhân vật và quái vật tham gia chiến đấu, dù là cuộc giao tranh ngắn hay xung đột kéo dài trong hầm ngục hoặc trên chiến trường. Xuyên suốt chương, quy tắc nói trực tiếp với bạn, người chơi hoặc Dungeon Master. Dungeon Master điều khiển tất cả quái vật và nhân vật không do người chơi điều khiển tham gia chiến đấu; mỗi người chơi khác điều khiển một nhà phiêu lưu. “Bạn” cũng có thể chỉ nhân vật hoặc quái vật mà bạn điều khiển.
 
 ## Trình tự chiến đấu (The Order of Combat)
+
+![Hai phe nhận biết nhau và triển khai trên chiến trường](assets/chapter-09-order-of-combat.png)
+
+*Trình tự chiến đấu chia cuộc đối đầu thành các vòng và lượt có thứ tự rõ ràng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Một cuộc chạm trán chiến đấu điển hình là cuộc đụng độ giữa hai phe, với những đợt vung vũ khí, đòn nghi binh, đỡ đòn, di chuyển chân và thi triển phép. Trò chơi tổ chức sự hỗn loạn ấy thành chu kỳ gồm **vòng (round)** và **lượt (turn)**. Một vòng tương đương khoảng 6 giây trong thế giới trò chơi. Trong một vòng, mỗi bên tham gia trận chiến có một lượt. Thứ tự lượt được xác định khi cuộc chạm trán bắt đầu, lúc mọi người tung sáng kiến. Sau khi mọi người đã có lượt, trận chiến tiếp tục sang vòng sau nếu chưa phe nào đánh bại phe kia.
 
@@ -27,6 +29,10 @@ Một cuộc chạm trán chiến đấu điển hình là cuộc đụng độ 
 5. **Bắt đầu vòng tiếp theo.** Khi mọi người tham gia chiến đấu đã có một lượt, vòng kết thúc. Lặp lại bước 4 cho đến khi ngừng giao chiến.
 
 ### Bất ngờ (Surprise)
+
+![Những kẻ phục kích xuất hiện khi các nhà thám hiểm phản ứng với tốc độ khác nhau](assets/chapter-09-surprise-initiative.png)
+
+*Nhận biết mối đe dọa quyết định ai bị bất ngờ và ai sẵn sàng hành động khi giao tranh bắt đầu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Một nhóm nhà phiêu lưu lén đến trại cướp, lao từ trong cây ra tấn công. Một khối gelatinous cube trượt dọc lối đi hầm ngục mà nhà phiêu lưu không nhận ra cho đến khi nó nuốt chửng một người trong nhóm. Trong những tình huống này, một phe khiến phe kia bị bất ngờ.
 
@@ -43,6 +49,10 @@ DM xếp người tham chiến từ người có tổng kiểm tra Khéo léo ca
 Nếu hòa, DM quyết định thứ tự giữa các sinh vật do DM điều khiển có kết quả hòa, còn người chơi quyết định thứ tự giữa những nhân vật của họ có kết quả hòa. DM có thể quyết định thứ tự nếu hòa giữa quái vật và nhân vật người chơi. Theo lựa chọn của DM, mỗi nhân vật và quái vật hòa nhau có thể tung một d20 để xác định thứ tự; kết quả cao nhất đi trước.
 
 ### Lượt của bạn (Your Turn)
+
+![Các chiến binh di chuyển hành động và phản ứng trong cùng một cuộc giao tranh](assets/chapter-09-turn-reactions.png)
+
+*Trong lượt, nhân vật kết hợp di chuyển và hành động; phản ứng có thể xảy ra khi một điều kiện thích hợp xuất hiện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Trong lượt, bạn có thể **di chuyển** quãng đường tối đa bằng tốc độ của mình và thực hiện **một hành động**. Bạn quyết định di chuyển trước hay hành động trước. Tốc độ, đôi khi được gọi là tốc độ đi bộ, được ghi trên phiếu nhân vật.
 
@@ -106,6 +116,10 @@ Khi thực hiện phản ứng, bạn không thể thực hiện phản ứng kh
 
 ## Di chuyển và vị trí (Movement and Position)
 
+![Nhóm phiêu lưu chọn đường đi và vị trí giữa cột đá và quân địch](assets/chapter-09-movement-position.png)
+
+*Di chuyển và vị trí quyết định nhân vật có thể tiếp cận, né tránh hoặc kiểm soát phần nào của chiến trường. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Trong chiến đấu, nhân vật và quái vật liên tục di chuyển, thường dùng sự di chuyển và vị trí để giành thế thượng phong.
 
 Trong lượt, bạn có thể di chuyển quãng đường tối đa bằng tốc độ của mình. Bạn có thể dùng nhiều hay ít tốc độ tùy ý, theo các quy tắc ở đây.
@@ -130,6 +144,10 @@ Ví dụ, nếu có tốc độ 30 và tốc độ bay 60 vì pháp sư thi tri�
 
 ### Địa hình khó đi (Difficult Terrain)
 
+![Một chiến binh đứng dậy giữa bùn lầy và đống đổ nát](assets/chapter-09-difficult-terrain-prone.png)
+
+*Địa hình khó đi và trạng thái ngã sấp làm thay đổi tốc độ cũng như lựa chọn chiến thuật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Chiến đấu hiếm khi diễn ra trong phòng trống hoặc đồng bằng không có đặc điểm gì. Hang động đầy đá tảng, rừng rậm gai góc, cầu thang hiểm trở — bối cảnh của trận chiến điển hình có địa hình khó đi.
 
 Mỗi foot di chuyển trong địa hình khó đi tiêu tốn thêm 1 foot. Quy tắc này vẫn đúng ngay cả khi nhiều yếu tố trong cùng một không gian được coi là địa hình khó đi.
@@ -153,6 +171,10 @@ Dù sinh vật là bạn hay địch, bạn không thể chủ động kết th�
 Nếu rời tầm với của sinh vật thù địch trong lúc di chuyển, bạn kích hoạt đánh cơ hội, như giải thích ở phía sau chương này.
 
 ### Di chuyển bay (Flying Movement)
+
+![Sinh vật bay và các chiến binh nhiều kích cỡ giao tranh quanh lối đi hẹp](assets/chapter-09-flying-size-space.png)
+
+*Bay, kích cỡ và không gian của sinh vật ảnh hưởng trực tiếp đến cách chúng chiếm chỗ và di chuyển. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Sinh vật bay có nhiều lợi ích về khả năng cơ động nhưng cũng phải đối mặt nguy cơ rơi. Nếu sinh vật đang bay bị đánh ngã sấp, bị giảm tốc độ xuống 0 hoặc bị tước khả năng di chuyển theo cách khác, nó rơi, trừ khi có khả năng lơ lửng (hover) hoặc được ma thuật giữ trên không, như phép *fly*.
 
@@ -185,6 +207,10 @@ Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn
 
 ### Quy tắc tùy chọn: Chơi trên lưới ô vuông (Variant: Playing on a Grid)
 
+![Hai phe bố trí trên nền đá lát ô vuông của một ngôi đền](assets/chapter-09-grid-tactics.png)
+
+*Lưới ô vuông giúp thể hiện khoảng cách, đường đi, tầm với và vật cản một cách trực quan. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Nếu diễn chiến đấu bằng lưới ô vuông cùng mô hình thu nhỏ hoặc quân đại diện khác, hãy dùng các quy tắc này.
 
 **Ô vuông (Squares).** Mỗi ô trên lưới đại diện 5 feet.
@@ -202,6 +228,10 @@ Nếu một ô tiêu tốn thêm di chuyển, như ô địa hình khó đi, b�
 **Tầm (Ranges).** Để xác định tầm trên lưới giữa hai thứ, dù sinh vật hay đồ vật, bắt đầu đếm ô từ một ô liền kề một bên và dừng trong không gian của bên kia. Đếm theo đường ngắn nhất.
 
 ## Hành động trong chiến đấu (Actions in Combat)
+
+![Các nhà thám hiểm tấn công thi triển phép chạy né giúp đỡ và ẩn nấp](assets/chapter-09-actions.png)
+
+*Mỗi hành động chiến đấu mở ra một cách khác nhau để gây ảnh hưởng đến cuộc đối đầu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi thực hiện hành động trong lượt, bạn có thể chọn một hành động trình bày ở đây, một hành động nhận từ lớp hoặc đặc tính đặc biệt, hoặc hành động tự ứng biến. Nhiều quái vật có những lựa chọn hành động riêng trong khối thông số.
 
@@ -269,6 +299,10 @@ Khi mô tả hành động không được quy tắc trình bày chi tiết ở 
 
 ## Thực hiện đòn tấn công (Making an Attack)
 
+![Kiếm sĩ căn thời điểm và khoảng cách để đánh vào phòng thủ của đối phương](assets/chapter-09-making-attack.png)
+
+*Một đòn tấn công cần xác định mục tiêu, tung tấn công và giải quyết kết quả trúng hoặc trượt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Dù đánh bằng vũ khí cận chiến, bắn vũ khí tầm xa hay tung tấn công trong một phép, đòn tấn công có cấu trúc đơn giản.
 
 1. **Chọn mục tiêu.** Chọn mục tiêu trong tầm của đòn tấn công: sinh vật, đồ vật hoặc địa điểm.
@@ -301,6 +335,10 @@ Nếu d20 của lần tung tấn công ra 1, đòn trượt bất kể điều c
 
 ### Kẻ tấn công và mục tiêu không bị nhìn thấy (Unseen Attackers and Targets)
 
+![Nhà thám hiểm dò tìm những kẻ địch ẩn trong bóng tối và màn khói](assets/chapter-09-unseen-attackers.png)
+
+*Ẩn nấp, bóng tối và che khuất làm thay đổi khả năng nhận biết kẻ tấn công hoặc mục tiêu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Người tham chiến thường cố tránh bị kẻ địch nhận ra bằng cách ẩn nấp, thi triển *invisibility* hoặc nấp trong bóng tối.
 
 Khi tấn công mục tiêu không nhìn thấy, bạn có bất lợi trong lần tung tấn công. Điều này đúng dù đoán vị trí mục tiêu hay nhắm một sinh vật nghe thấy nhưng không nhìn thấy. Nếu mục tiêu không ở vị trí bạn nhắm, bạn tự động trượt; tuy nhiên, DM thường chỉ nói đòn trượt, không nói bạn có đoán đúng vị trí mục tiêu hay không.
@@ -310,6 +348,10 @@ Khi sinh vật không nhìn thấy bạn, bạn có lợi thế trong các lần
 Nếu đang ẩn nấp, tức không bị nhìn thấy và nghe thấy, khi thực hiện đòn tấn công, bạn để lộ vị trí khi đòn trúng hoặc trượt.
 
 ### Tấn công tầm xa (Ranged Attacks)
+
+![Cung thủ bắn mục tiêu ở xa trong khi một đồng đội bị áp sát](assets/chapter-09-ranged-attacks.png)
+
+*Tầm bắn và sự hiện diện của kẻ địch ở cự ly gần ảnh hưởng đến tấn công tầm xa. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi thực hiện đòn tấn công tầm xa, bạn bắn cung hoặc nỏ, ném rìu tay hoặc phóng vật theo cách khác để đánh kẻ địch từ xa. Quái vật có thể bắn gai từ đuôi. Nhiều phép cũng có đòn tấn công tầm xa.
 
@@ -326,6 +368,10 @@ Một số đòn tấn công tầm xa, như bằng cung dài hoặc cung ngắn,
 Ngắm đòn tấn công tầm xa khó hơn khi kẻ địch ở cạnh bạn. Khi tấn công tầm xa bằng vũ khí, phép hoặc cách khác, bạn có bất lợi trong lần tung tấn công nếu ở trong 5 feet của một sinh vật thù địch có thể nhìn thấy bạn và không mất năng lực hành động.
 
 ### Tấn công cận chiến (Melee Attacks)
+
+![Các chiến binh đánh cận chiến bằng đòn cơ hội hai vũ khí vật lộn và xô đẩy](assets/chapter-09-melee-attacks.png)
+
+*Chiến đấu cận chiến bao gồm nhiều lựa chọn ngoài một đòn đánh thông thường. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Được dùng khi đánh giáp lá cà, tấn công cận chiến cho phép đánh kẻ địch trong tầm với. Đòn cận chiến thường dùng vũ khí cầm tay như kiếm, búa chiến hoặc rìu. Quái vật điển hình tấn công cận chiến bằng móng vuốt, sừng, răng, xúc tu hoặc bộ phận cơ thể khác. Một số phép cũng có đòn tấn công cận chiến.
 
@@ -369,6 +415,10 @@ Mục tiêu bị xô không được lớn hơn bạn quá một bậc kích c�
 
 ## Che chắn (Cover)
 
+![Những người phòng thủ tận dụng tường cột và lỗ châu mai trước hỏa lực](assets/chapter-09-cover.png)
+
+*Che chắn giúp mục tiêu tránh đòn tấn công bằng cách đặt vật cản giữa họ và kẻ tấn công. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Tường, cây, sinh vật và chướng ngại khác có thể che chắn trong chiến đấu, khiến mục tiêu khó bị tổn hại hơn. Mục tiêu chỉ có thể hưởng lợi từ che chắn khi đòn tấn công hoặc hiệu ứng khác xuất phát từ phía bên kia vật che chắn.
 
 Có ba mức che chắn. Nếu mục tiêu ở sau nhiều nguồn che chắn, chỉ áp dụng mức bảo vệ tốt nhất; các mức không cộng với nhau. Ví dụ, nếu mục tiêu ở sau một sinh vật cho che chắn một nửa và thân cây cho che chắn ba phần tư, mục tiêu có che chắn ba phần tư.
@@ -380,6 +430,10 @@ Mục tiêu có **che chắn ba phần tư (three-quarters cover)** nhận thư�
 Mục tiêu có **che chắn toàn bộ (total cover)** không thể được chọn trực tiếp làm mục tiêu đòn tấn công hoặc phép, dù một số phép có thể tác động bằng cách bao gồm nó trong vùng hiệu ứng. Mục tiêu có mức này nếu được chướng ngại che hoàn toàn.
 
 ## Sát thương và chữa lành (Damage and Healing)
+
+![Đồng đội bảo vệ người gục ngã trong khi người chữa trị hồi phục một chiến binh](assets/chapter-09-damage-healing.png)
+
+*Sát thương làm giảm điểm sinh lực, còn chữa lành và ổn định giúp nhân vật tiếp tục sống sót. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Thương tích và nguy cơ tử vong luôn đi cùng những người khám phá thế giới D&D. Cú đâm kiếm, mũi tên bắn chuẩn hoặc luồng lửa từ phép *fireball* đều có thể gây tổn hại, thậm chí giết chết sinh vật dẻo dai nhất.
 
@@ -517,6 +571,10 @@ Trừ khi đặc tính cho điểm sinh lực tạm thời có thời lượng, 
 
 ## Chiến đấu trên thú cưỡi (Mounted Combat)
 
+![Các nhà thám hiểm điều khiển thú cưỡi và giao chiến trên đường rừng](assets/chapter-09-mounted-combat.png)
+
+*Chiến đấu trên thú cưỡi kết hợp khả năng di chuyển của vật cưỡi với hành động của người điều khiển. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Hiệp sĩ xông vào trận trên ngựa chiến, pháp sư thi triển phép từ lưng griffon hoặc giáo sĩ bay qua bầu trời trên pegasus đều hưởng tốc độ và sự cơ động mà thú cưỡi có thể cung cấp.
 
 Một sinh vật sẵn lòng, lớn hơn bạn ít nhất một bậc kích cỡ và có cấu tạo cơ thể phù hợp, có thể làm thú cưỡi theo các quy tắc sau.
@@ -540,6 +598,10 @@ Thú cưỡi độc lập giữ vị trí trong thứ tự sáng kiến. Chở n
 Trong cả hai trường hợp, nếu thú cưỡi kích hoạt đánh cơ hội khi bạn đang cưỡi, kẻ tấn công có thể nhắm bạn hoặc thú cưỡi.
 
 ## Chiến đấu dưới nước (Underwater Combat)
+
+![Nhóm phiêu lưu giao chiến giữa phế tích chìm dưới nước](assets/chapter-09-underwater-combat.png)
+
+*Nước cản trở chuyển động và khiến nhiều loại vũ khí hoạt động khác với trên mặt đất. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi nhà phiêu lưu đuổi sahuagin về nơi ở dưới biển, chống cá mập trong xác tàu cổ hoặc ở trong phòng hầm ngục bị ngập, họ phải chiến đấu trong môi trường đầy thử thách. Dưới nước, các quy tắc sau áp dụng.
 

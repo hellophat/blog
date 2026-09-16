@@ -172,12 +172,122 @@ Bản chép tay toàn bộ năm sách Torah trên da thuộc, do ký lục chuy�
 
 Chuỗi lời chúc tụng đọc sau bữa ăn có bánh mì, phát triển từ Phục Truyền 8:10. Trọng tâm là cảm tạ Thiên Chúa về thức ăn, đất đai, giao ước và Jerusalem. Đây là lời nguyện **sau** bữa ăn; không nên nhầm với các lời chúc ngắn đọc trước khi ăn từng loại thực phẩm.
 
+<a id="birkat-kohanim"></a>
+### Birkat Kohanim / lời chúc tư tế — בִּרְכַּת כֹּהֲנִים
+
+Công thức chúc phúc ba câu trong Dân Số 6:24–26, bắt đầu “Xin YHWH chúc phúc và gìn giữ ngươi”. Các kohanim đọc lời chúc với cử chỉ tay đặc trưng; Thiên Chúa, chứ không phải bản thân tư tế, được hiểu là nguồn ban phúc. Nghi thức vẫn tồn tại trong hội đường sau khi Đền Thờ bị phá hủy, nhưng tần suất khác nhau giữa truyền thống Sephardi, nhiều cộng đồng tại Israel và các cộng đồng Ashkenazi ở hải ngoại.
+
+<a id="priestly-watches"></a>
+### Mishmarot / các phiên tư tế — מִשְׁמָרוֹת
+
+Các nhóm kohanim luân phiên phục vụ trong Đền Thờ theo lịch. Truyền thống mô tả hai mươi bốn phiên, mỗi phiên gồm nhiều gia đình và có thời gian trực riêng; vào các kỳ hành hương, việc phục vụ được mở rộng cho các tư tế khác theo quy định. Đây là cách tổ chức nhân lực của Đền Thờ, không phải “ca trực” của rabbi trong hội đường.
+
+<a id="jewish-mourning"></a>
+### Tang chế Do Thái — אֲבֵלוּת (*avelut*)
+
+Hệ thống nghĩa vụ và giai đoạn để tang sau khi thân nhân gần qua đời. Các thực hành có thể gồm lo chôn cất sớm, xé áo, ngồi *shivah* trong bảy ngày, các giai đoạn ba mươi ngày hoặc dài hơn và đọc *Kaddish*. Chi tiết thay đổi theo quan hệ, cộng đồng và hoàn cảnh. Ô uế do tiếp xúc người chết trong Torah là trạng thái nghi lễ, không phải dấu hiệu người chết hay người để tang có tội.
+
+<a id="showbread"></a>
+### Leḥem HaPanim / bánh của Sự Hiện Diện — לֶחֶם הַפָּנִים
+
+Mười hai ổ bánh được đặt trên bàn trong gian thánh và thay vào mỗi Shabbat, thường dịch là “bánh tiến”, “bánh trưng bày” hoặc tiếng Anh *showbread*. Nhũ hương được đặt cùng bánh và các tư tế ăn bánh cũ trong nơi thánh. Tên gọi không liên quan đến bánh chưng Việt Nam; “trưng bày” ở đây chỉ việc bánh thường xuyên hiện diện trước YHWH.
+
+<a id="ketoret"></a>
+### Ketoret / hương Đền Thờ — קְטֹרֶת
+
+Hỗn hợp chất thơm được đốt trên bàn thờ hương trong Đền Thờ, vào buổi sáng và chạng vạng. Torah dành riêng công thức này cho nghi lễ và cấm sao chép để dùng cá nhân. Dịch là “hương” thuận tiếng Việt hơn, nhưng *ketoret* không phải que nhang cắm trong bát hương, không gắn với thờ cúng tổ tiên và không được thực hiện bởi mọi tín hữu tại nhà.
+
+<a id="altar"></a>
+### Mizbeach / bàn thờ — מִזְבֵּחַ
+
+Cấu trúc dành cho lễ vật. Mishkan và Đền Thờ có bàn thờ lớn ngoài sân cho lễ vật động vật, ngũ cốc và rượu, cùng một bàn thờ hương nhỏ hơn trong gian thánh. “Bàn thờ” ở đây không giống bàn thờ gia tiên trong nhà Việt Nam: khác địa điểm, người được phép phục vụ, loại lễ vật và quan niệm về sự hiện diện thiêng.
+
+<a id="terumat-hadeshen"></a>
+### Terumat HaDeshen — תְּרוּמַת הַדֶּשֶׁן
+
+Nghi thức tư tế nhấc một phần tro khỏi bàn thờ lễ thiêu vào đầu chu kỳ phục vụ mỗi ngày. Nghĩa đen gần với “nhấc phần tro”, không chỉ là quét dọn. Phần tro còn lại cũng được dọn theo quy định, nhưng Maimonides phân biệt hành vi mitzvah mang tính nghi lễ với công việc duy trì bàn thờ nói chung.
+
+<a id="tamid"></a>
+### Korban tamid / lễ vật thường xuyên — קָרְבַּן תָּמִיד
+
+Lễ vật cộng đồng được dâng đều đặn mỗi sáng và chạng vạng tại Đền Thờ, gồm chiên cùng phần bột, dầu và rượu. **Korban** là vật được mang đến gần nơi thánh; **tamid** nghĩa là thường xuyên hoặc liên tục. Từ “hy sinh” trong tiếng Việt có thể gợi sự từ bỏ lợi ích cá nhân, nhưng *korban* ở đây trước hết là một phạm trù nghi lễ cụ thể.
+
+<a id="minchah"></a>
+### Minchah — מִנְחָה
+
+Trong luật lễ vật, *minchah* thường là lễ phẩm từ bột hoặc ngũ cốc, thường đi cùng dầu và đôi khi nhũ hương; không phải lễ vật động vật. *Minchah* cũng là tên buổi cầu nguyện chiều của Do Thái giáo, được liên hệ với thời điểm lễ vật chiều. Phải dựa vào ngữ cảnh để biết từ đang chỉ lễ phẩm hay buổi cầu nguyện.
+
+<a id="musaf"></a>
+### Musaf / lễ vật bổ sung — מוּסָף
+
+Lễ vật cộng đồng được **thêm** vào korban tamid trong Shabbat, đầu tháng và các lễ hội. Sau khi Đền Thờ bị phá hủy, tên *Musaf* tiếp tục được dùng cho một buổi cầu nguyện bổ sung vào các ngày ấy. Cầu nguyện Musaf tưởng niệm và tổ chức thời gian theo chế độ lễ vật cổ, nhưng không phải hiến tế động vật trong hội đường.
+
 ## Lịch và các cuộc tập hợp
 
 <a id="shemittah"></a>
 ### Shemittah — שְׁמִטָּה
 
 Năm thứ bảy trong chu kỳ nông nghiệp của Torah, thường gọi là năm nghỉ của đất hay năm sabbatical. Đất tại vùng Israel được để nghỉ theo những quy định nhất định; sản vật có địa vị đặc biệt và Phục Truyền còn quy định việc xóa/giải phóng các khoản nợ. Chi tiết áp dụng hiện đại phức tạp và khác nhau giữa các thẩm quyền halakhah.
+
+<a id="rosh-chodesh"></a>
+### Rosh Chodesh — רֹאשׁ חֹדֶשׁ
+
+Ngày đầu tháng trong lịch Hebrew âm–dương, nghĩa đen là “đầu tháng”. Tháng cổ được liên hệ với việc quan sát trăng mới và xác nhận của tòa án; lịch Do Thái hiện dùng hệ thống tính toán cố định. Rosh Chodesh được đánh dấu bằng các phần cầu nguyện và đọc Torah đặc biệt. Đây không phải lễ thờ Mặt Trăng.
+
+<a id="pesach"></a>
+### Pesach / lễ Vượt Qua — פֶּסַח
+
+Lễ mùa xuân tưởng nhớ cuộc Xuất Hành khỏi Ai Cập. *Pesach* có thể chỉ toàn mùa lễ, bữa ăn nghi lễ, hoặc lễ vật Pesach tùy câu; lễ Bánh Không Men bảy ngày gắn rất chặt với nó. Ngoài vùng Israel, nhiều cộng đồng giữ tám ngày lễ theo lịch hải ngoại. “Vượt Qua” diễn tả trình thuật YHWH bỏ qua/bảo vệ các nhà Israel, không phải hành động vượt biên giới địa lý.
+
+<a id="omer"></a>
+### Omer — עֹמֶר
+
+Một đơn vị đo khô cổ và cũng là tên lượng lúa mạch đầu mùa được dâng tại Đền Thờ vào mùa Pesach. “Đếm Omer” là đếm bốn mươi chín ngày từ lễ phẩm này đến Shavuot. Một *omer* trong Kinh Thánh không phải “bó lúa” có kích thước cố định theo cách đo hiện đại; các quy đổi dung tích chỉ mang tính ước lượng.
+
+<a id="shavuot"></a>
+### Shavuot / lễ Các Tuần — שָׁבוּעוֹת
+
+Lễ hành hương diễn ra sau bảy tuần đếm từ Omer, gắn với hoa quả đầu mùa và vụ lúa mì trong Torah. Truyền thống rabbi cũng cử hành đây là thời điểm ban Torah tại Sinai. Tên **Atzeret** thường được các rabbi dùng cho Shavuot, nhưng không nên nhầm với *Shemini Atzeret*, ngày lễ sau Sukkot.
+
+<a id="two-loaves"></a>
+### Shtei HaLechem / hai ổ bánh Shavuot — שְׁתֵּי הַלֶּחֶם
+
+Hai ổ bánh làm từ lúa mì mới, được nướng có men và trình tại Đền Thờ trong Shavuot cùng các lễ vật đi kèm. Chúng khác lễ phẩm Omer bằng lúa mạch và khác bánh không men của Pesach. “Lễ phẩm đưa qua lại” mô tả một động tác trình lễ phẩm theo nghi thức, không có nghĩa ném bánh.
+
+<a id="rosh-hashanah"></a>
+### Rosh Hashanah — רֹאשׁ הַשָּׁנָה
+
+“Đầu năm”, ngày mồng một tháng Tishrei trong lịch Hebrew, được Torah mô tả là ngày nghỉ và tưởng niệm bằng tiếng kèn. Do Thái giáo dùng nhiều mốc đầu năm cho các chu kỳ khác nhau; vì vậy Tishrei là tháng thứ bảy khi đếm từ Nisan nhưng vẫn mở đầu năm dân sự/phụng vụ theo cách dùng phổ biến. Các chủ đề nổi bật về sau gồm vương quyền Thiên Chúa, phán xét, ghi nhớ và tiếng shofar.
+
+<a id="yom-kippur"></a>
+### Yom Kippur / Ngày Xá Tội — יוֹם כִּפּוּר
+
+Ngày mồng mười tháng Tishrei, ngày trang nghiêm nhất của lịch Do Thái. Torah yêu cầu ngừng việc và “tự hạ mình”; halakhah cụ thể hóa thành kiêng ăn uống cùng một số tiện nghi thân thể. Trong thời Đền Thờ, Thượng tế thực hiện nghi lễ thanh tẩy đặc biệt. “Chuộc tội” không có nghĩa nghi thức tự động xóa mọi thiệt hại đối với người khác; truyền thống nhấn mạnh phải sửa sai và xin tha thứ.
+
+<a id="yom-kippur-service"></a>
+### Avodat Yom HaKippurim — עֲבוֹדַת יוֹם הַכִּפּוּרִים
+
+Trình tự phục vụ đặc biệt của Thượng tế trong Lêvi 16: tắm và thay trang phục, dâng lễ vật, dùng hương, vào Nơi Cực Thánh, rảy máu, thanh tẩy nơi thánh và xử lý hai con dê. Nghi thức chỉ có thể thực hiện tại Đền Thờ. Phần *Avodah* trong kinh Yom Kippur ngày nay thuật lại và tưởng niệm trình tự này bằng lời.
+
+<a id="shemini-atzeret"></a>
+### Shemini Atzeret — שְׁמִינִי עֲצֶרֶת
+
+Ngày lễ ngay sau bảy ngày Sukkot, nghĩa gần với “cuộc hội họp thứ tám”. Dù kề sát Sukkot, nó có địa vị lễ riêng trong nhiều phương diện halakhah. Tại vùng Israel, Simchat Torah được cử hành cùng ngày; ở nhiều cộng đồng hải ngoại, Simchat Torah rơi vào ngày tiếp theo.
+
+<a id="pilgrimage-festivals"></a>
+### Shalosh Regalim / ba kỳ hành hương — שָׁלֹשׁ רְגָלִים
+
+Pesach, Shavuot và Sukkot, ba lễ mà Torah yêu cầu hành hương đến nơi YHWH chọn. Maimonides phân biệt ít nhất ba nghĩa vụ liên quan: dâng lễ vật lễ hội (*chagigah*), xuất hiện trước YHWH (*re'iyah*) và vui lễ (*simchah*). Sau khi Đền Thờ bị phá hủy, lễ vẫn được cử hành nhưng nghĩa vụ hành hương và lễ vật không thể thực hiện theo hình thức cổ.
+
+<a id="festival-rejoicing"></a>
+### Simchat Yom Tov / niềm vui ngày lễ — שִׂמְחַת יוֹם טוֹב
+
+Nghĩa vụ biểu hiện niềm vui trong ngày lễ bằng các hình thức vật chất và cộng đồng. Trong thời Đền Thờ, nó gắn với lễ vật bình an; halakhah về sau nói đến ăn uống, trang phục và những điều phù hợp với từng thành viên gia đình. Torah đặc biệt kể cả người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ, nên niềm vui lễ hội bao hàm việc chia sẻ với người dễ bị bỏ quên.
+
+<a id="korban-pesach"></a>
+### Korban Pesach / lễ vật Vượt Qua — קָרְבַּן פֶּסַח
+
+Con chiên hoặc dê được giết vào chiều ngày 14 Nisan và ăn theo nhóm trong đêm mở đầu Pesach khi Đền Thờ còn hoạt động. Nó không phải mọi món thịt dùng trong bữa Seder và cũng không đồng nhất với toàn bộ lễ Pesach. Sau khi Đền Thờ bị phá hủy, người Do Thái không dâng korban Pesach; xương ống trên đĩa Seder chỉ mang tính tưởng niệm trong nhiều truyền thống.
 
 <a id="sukkot"></a>
 ### Sukkot / lễ Lều Tạm — סֻכּוֹת
@@ -196,6 +306,11 @@ Lễ hành hương kéo dài bảy ngày vào mùa thu, theo sau bởi ngày l�
 
 Nơi thánh di động được mô tả trong Xuất Hành, dựng bằng khung, vải và da để đồng hành cùng Israel trong hoang mạc. *Mishkan* nghĩa gần với “nơi cư ngụ”. Nó là tiền thân văn chương và nghi lễ của Đền Thờ Jerusalem, nhưng không phải cùng một tòa nhà.
 
+<a id="shekhinah"></a>
+### Shekhinah / Sự Hiện Diện — שְׁכִינָה
+
+Thuật ngữ rabbi chỉ sự hiện diện ngự trị của Thiên Chúa, từ gốc Hebrew mang nghĩa “ở/ngự”. Từ *Shekhinah* không xuất hiện như một danh từ riêng trong Torah, dù được xây dựng từ ngôn ngữ Kinh Thánh về việc YHWH ngự giữa Israel. Nó không phải một nữ thần độc lập hay một vật thể nằm trong Đền Thờ.
+
 <a id="temple"></a>
 ### Đền Thờ Jerusalem / Đền Thánh — בֵּית הַמִּקְדָּשׁ
 
@@ -210,6 +325,36 @@ Khu nền cao tại Jerusalem nơi các Đền Thờ từng tọa lạc theo tru
 ### Thanh sạch và ô uế nghi lễ — טָהֳרָה / טֻמְאָה
 
 Trạng thái pháp lý–nghi lễ ảnh hưởng đến việc tiếp cận nơi thánh, lễ vật hoặc một số hoạt động. Ô uế nghi lễ có thể phát sinh từ những sự kiện bình thường như sinh nở, kinh nguyệt, xuất tinh, tiếp xúc xác chết hoặc một số bệnh trạng. Nó không tự động có nghĩa bẩn về vệ sinh, phạm tội đạo đức hay bị Thiên Chúa ghét bỏ. Nước và thời gian có vai trò trong nhiều quy trình chuyển trạng thái.
+
+<a id="high-priest"></a>
+### Kohen Gadol / Thượng tế — כֹּהֵן גָּדוֹל
+
+Người đứng đầu hàng tư tế, theo nghĩa đen là “tư tế lớn”. Thượng tế có phẩm phục, quy định hôn nhân và nhiệm vụ riêng; chỉ ông được vào Nơi Cực Thánh trong nghi lễ Yom Kippur thời Đền Thờ. Chức vụ này không tương đương giáo hoàng: không đứng đầu mọi cộng đồng Do Thái toàn cầu theo mô hình tập quyền và không phải nguồn duy nhất của việc giải thích Torah.
+
+<a id="priestly-garments"></a>
+### Bigdei Kehunah / phẩm phục tư tế — בִּגְדֵי כְהֻנָּה
+
+Trang phục bắt buộc khi kohanim phục vụ trong Đền Thờ. Tư tế thông thường có áo dài, quần, đai và khăn đội đầu; Thượng tế có thêm áo choàng, ephod, túi ngực và tấm vàng trên trán theo mô tả Xuất Hành 28. Chúng không phải trang phục hằng ngày của rabbi và cũng không phải áo lễ Công giáo.
+
+<a id="ark-of-covenant"></a>
+### Aron HaBrit / Hòm Giao Ước — אֲרוֹן הַבְּרִית
+
+Chiếc hòm bọc vàng được mô tả trong Xuất Hành, chứa các bảng chứng ước và được đặt trong Nơi Cực Thánh. Hòm được khiêng bằng đòn, không được chạm trực tiếp trong lúc vận chuyển. Không nên nhầm với **aron kodesh**, tủ giữ các cuộn Torah trong hội đường. Không có đồng thuận lịch sử hay khảo cổ về nơi Hòm Giao Ước đã đi sau thời Đền Thờ thứ nhất.
+
+<a id="messiah"></a>
+### Mashiach / người được xức dầu — מָשִׁיחַ
+
+*Mashiach* nghĩa đen là người được xức dầu để nhận chức vụ, đặc biệt là vua và đôi khi là tư tế. Từ này đi qua tiếng Hy Lạp thành *Christos* và tiếng Việt Kitô giáo thành “Đấng Kitô”. Trong Tanakh, không phải mọi người được gọi là *mashiach* đều là nhân vật cứu thế thời cuối cùng; chẳng hạn Cyrus của Ba Tư được gọi là người được YHWH xức dầu trong Isaiah 45:1. Khái niệm Đấng Messiah tương lai phát triển từ nhiều văn bản và truyền thống về sau.
+
+<a id="anointing-oil"></a>
+### Shemen HaMishchah / dầu xức thánh — שֶׁמֶן הַמִּשְׁחָה
+
+Dầu thơm có công thức được nêu trong Xuất Hành 30, dùng để thánh hiến Mishkan, vật dụng, Aaron và các tư tế; truyền thống cũng liên hệ nó với việc tấn phong vua. Torah cấm pha cùng công thức để dùng thông thường. Đây không phải mọi loại dầu được dùng trong cầu nguyện hay chăm sóc cơ thể, và việc một người hiện đại được xức dầu không tự động trao cho họ vương quyền hay chức tư tế Kinh Thánh.
+
+<a id="masoretic-text"></a>
+### Văn bản Masoretic
+
+Dạng văn bản Hebrew của Tanakh được các học giả Masorete truyền lại, chuẩn hóa hệ thống nguyên âm và dấu đọc trong thời trung đại. Đây là nền tảng của nhiều ấn bản Kinh Thánh Hebrew hiện nay. Các bản thảo cổ hơn như bản thảo Biển Chết hoặc hai phiến bạc Ketef Hinnom đôi khi khác về chính tả hay câu chữ; khác biệt không tự động có nghĩa một bên là giả mạo.
 
 <a id="menorah"></a>
 ### Menorah — מְנוֹרָה

@@ -1,14 +1,12 @@
 ---
-title: Chương 7 - Sử dụng điểm thuộc tính
+title: Chương 07 - Sử dụng điểm thuộc tính
 ---
-
-# Chương 7: Sử dụng điểm thuộc tính
 
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 60-65.
 
-![Một viên xúc xắc hai mươi mặt màu vàng](https://commons.wikimedia.org/wiki/Special:Redirect/file/D20pic.jpg?width=800)
+![Nhóm nhà thám hiểm vận dụng nhiều năng lực để vượt qua phế tích](assets/chapter-07-ability-scores-cover.png)
 
-*Xúc xắc d20 — Wohlerbear, phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:D20pic.jpg).*
+*Các thuộc tính khác nhau cùng góp phần quyết định cách nhân vật vượt qua thử thách. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Sáu thuộc tính mô tả ngắn gọn các đặc điểm thể chất và tinh thần của mọi sinh vật:
 
@@ -26,6 +24,10 @@ Ba loại lần tung chính trong trò chơi — kiểm tra thuộc tính, tung 
 Chương này tập trung vào cách dùng kiểm tra thuộc tính và tung cứu nguy, bao quát những hoạt động cơ bản mà sinh vật thực hiện trong trò chơi. Quy tắc về tung tấn công nằm ở chương 9.
 
 ## Điểm thuộc tính và hệ số (Ability Scores and Modifiers)
+
+![Sáu khía cạnh năng lực được thể hiện qua các cách giải quyết thử thách](assets/chapter-07-scores-modifiers.png)
+
+*Điểm thuộc tính và hệ số biến năng lực tự nhiên của nhân vật thành con số dùng trong luật chơi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mỗi thuộc tính của một sinh vật có một điểm số, tức con số xác định mức độ của thuộc tính ấy. Điểm thuộc tính không chỉ đo khả năng bẩm sinh mà còn bao hàm việc huấn luyện và năng lực của sinh vật trong những hoạt động liên quan đến thuộc tính đó.
 
@@ -60,6 +62,10 @@ Vì hệ số thuộc tính ảnh hưởng đến gần như mọi lần tung t�
 
 ## Lợi thế và bất lợi (Advantage and Disadvantage)
 
+![Hai diễn biến thuận lợi và bất lợi của cùng một thử thách](assets/chapter-07-advantage-disadvantage.png)
+
+*Hoàn cảnh thuận lợi hoặc bất lợi có thể làm thay đổi đáng kể cơ hội thành công. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Đôi khi một khả năng đặc biệt hoặc phép cho biết bạn có lợi thế hoặc bất lợi trong một kiểm tra thuộc tính, lần tung cứu nguy hoặc lần tung tấn công. Khi đó, bạn tung thêm một d20 khi thực hiện lần tung ấy. Dùng kết quả cao hơn trong hai lần tung nếu có lợi thế, và kết quả thấp hơn nếu có bất lợi. Ví dụ, nếu có bất lợi và tung được 17 cùng 5, bạn dùng 5. Nếu thay vào đó có lợi thế và tung được hai số ấy, bạn dùng 17.
 
 Nếu nhiều tình huống ảnh hưởng đến một lần tung và mỗi tình huống đều cho lợi thế hoặc gây bất lợi, bạn không tung thêm quá một d20. Chẳng hạn, nếu hai tình huống thuận lợi cùng cho lợi thế, bạn vẫn chỉ tung thêm một d20.
@@ -72,6 +78,10 @@ Bạn thường nhận lợi thế hoặc bất lợi thông qua việc dùng kh
 
 ## Thưởng thành thạo (Proficiency Bonus)
 
+![Nhà thám hiểm sử dụng kỹ năng đã được rèn luyện](assets/chapter-07-proficiency.png)
+
+*Thưởng thành thạo phản ánh kinh nghiệm huấn luyện mà nhân vật áp dụng vào nhiệm vụ phù hợp. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Nhân vật có thưởng thành thạo được xác định theo cấp, như trình bày chi tiết ở chương 1. Quái vật cũng có thưởng này, được tính sẵn trong khối thông số của chúng. Thưởng này được dùng trong các quy tắc về kiểm tra thuộc tính, tung cứu nguy và tung tấn công.
 
 Không được cộng thưởng thành thạo của bạn nhiều hơn một lần vào cùng một lần tung xúc xắc hoặc một con số khác. Ví dụ, nếu hai quy tắc khác nhau đều cho biết bạn có thể cộng thưởng thành thạo vào một lần tung cứu nguy Minh triết, bạn vẫn chỉ cộng thưởng ấy một lần khi tung cứu nguy.
@@ -83,6 +93,10 @@ Tương tự, nếu một đặc tính hoặc hiệu ứng cho phép nhân thư�
 Thông thường, bạn không nhân thưởng thành thạo cho các lần tung tấn công hoặc cứu nguy. Nếu một đặc tính hoặc hiệu ứng cho phép làm vậy, các quy tắc tương tự ở trên vẫn áp dụng.
 
 ## Kiểm tra thuộc tính (Ability Checks)
+
+![Nhóm phiêu lưu đánh giá tình huống trước khi hành động](assets/chapter-07-ability-checks.png)
+
+*Kiểm tra thuộc tính xác định nhân vật có vượt qua một thử thách chưa chắc chắn hay không. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Kiểm tra thuộc tính kiểm nghiệm tài năng bẩm sinh và sự rèn luyện của nhân vật hoặc quái vật trong nỗ lực vượt qua một thử thách. DM yêu cầu kiểm tra thuộc tính khi nhân vật hoặc quái vật thử thực hiện một hành động, ngoài tấn công, có khả năng thất bại. Khi kết quả chưa chắc chắn, xúc xắc quyết định kết quả.
 
@@ -176,6 +190,10 @@ Quy tắc ẩn nấp trong phần “Khéo léo” bên dưới dựa vào kiể
 
 ### Phối hợp (Working Together)
 
+![Các nhà thám hiểm phối hợp để vượt qua cổng thành và địa hình hiểm trở](assets/chapter-07-skills-teamwork.png)
+
+*Phối hợp cho phép các nhân vật kết hợp thế mạnh để cùng hoàn thành một nhiệm vụ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Đôi khi hai hoặc nhiều nhân vật hợp sức để thử thực hiện một nhiệm vụ. Nhân vật dẫn dắt nỗ lực ấy, hoặc nhân vật có hệ số thuộc tính cao nhất, có thể thực hiện kiểm tra thuộc tính với lợi thế, phản ánh sự trợ giúp của các nhân vật khác. Trong chiến đấu, việc này đòi hỏi hành động Trợ giúp (Help), xem chương 9.
 
 Nhân vật chỉ có thể trợ giúp nếu đó là nhiệm vụ mà bản thân có thể tự thử làm. Ví dụ, cố mở khóa đòi hỏi thành thạo dụng cụ kẻ trộm, nên nhân vật không có sự thành thạo ấy không thể giúp một nhân vật khác thực hiện nhiệm vụ đó. Hơn nữa, nhân vật chỉ có thể giúp khi hai hoặc nhiều cá nhân cùng làm thực sự mang lại hiệu quả. Một số nhiệm vụ, như xỏ chỉ qua lỗ kim, không dễ hơn khi được trợ giúp.
@@ -193,6 +211,10 @@ Kiểm tra nhóm không xuất hiện thường xuyên và hữu ích nhất khi
 Mọi nhiệm vụ mà nhân vật hoặc quái vật có thể thử làm trong trò chơi đều thuộc phạm vi của một trong sáu thuộc tính. Phần này giải thích chi tiết hơn ý nghĩa các thuộc tính ấy và những cách dùng chúng trong trò chơi.
 
 ### Sức mạnh (Strength)
+
+![Chiến binh dùng sức nâng cổng sắt cho đồng đội đi qua](assets/chapter-07-strength.png)
+
+*Sức mạnh chi phối khả năng nâng, đẩy, kéo, phá và vận động bằng cơ bắp. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Sức mạnh đo sức lực cơ thể, sự rèn luyện thể thao và mức độ bạn có thể vận dụng sức lực thể chất thuần túy.
 
@@ -238,6 +260,10 @@ Nếu mang khối lượng vượt quá 5 lần điểm Sức mạnh, bạn bị
 Nếu mang khối lượng vượt quá 10 lần điểm Sức mạnh, đến mức sức mang tối đa, thay vào đó bạn bị **quá tải nặng (heavily encumbered)**, nghĩa là tốc độ giảm 20 feet và bạn có bất lợi trong các kiểm tra thuộc tính, lần tung tấn công và lần tung cứu nguy dùng Sức mạnh, Khéo léo hoặc Thể chất.
 
 ### Khéo léo (Dexterity)
+
+![Trinh sát giữ thăng bằng, tránh bẫy và mở khóa trong phế tích](assets/chapter-07-dexterity.png)
+
+*Khéo léo thể hiện sự nhanh nhẹn, phản xạ, thăng bằng và độ chính xác. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khéo léo đo sự nhanh nhẹn, phản xạ và khả năng giữ thăng bằng.
 
@@ -290,6 +316,10 @@ Khi bắt đầu mỗi trận chiến, bạn tung sáng kiến bằng cách th�
 
 ### Thể chất (Constitution)
 
+![Nhà thám hiểm bền bỉ tiến bước giữa bão tuyết](assets/chapter-07-constitution.png)
+
+*Thể chất đo sức khỏe, sức chịu đựng và khả năng chống lại gian khổ kéo dài. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Thể chất đo sức khỏe, sức chịu đựng và sinh lực.
 
 #### Kiểm tra Thể chất (Constitution Checks)
@@ -311,6 +341,10 @@ Hệ số Thể chất góp phần xác định điểm sinh lực của bạn. 
 Nếu hệ số Thể chất thay đổi, điểm sinh lực tối đa cũng thay đổi, như thể bạn đã có hệ số mới từ cấp 1. Ví dụ, nếu tăng điểm Thể chất khi đạt cấp 4 và hệ số Thể chất tăng từ +1 lên +2, bạn điều chỉnh điểm sinh lực tối đa như thể hệ số luôn là +2. Vì vậy, bạn cộng thêm 3 điểm sinh lực cho ba cấp đầu, rồi tung điểm sinh lực cho cấp 4 bằng hệ số mới. Hoặc nếu đang ở cấp 7 và một hiệu ứng làm giảm điểm Thể chất khiến hệ số Thể chất giảm 1, điểm sinh lực tối đa giảm 7.
 
 ### Trí tuệ (Intelligence)
+
+![Học giả giải mã bản đồ cơ quan và ký hiệu cổ](assets/chapter-07-intelligence.png)
+
+*Trí tuệ thể hiện khả năng ghi nhớ, suy luận, điều tra và vận dụng kiến thức. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Trí tuệ đo sự nhạy bén tinh thần, độ chính xác của trí nhớ và khả năng suy luận.
 
@@ -342,6 +376,10 @@ Kiểm tra Trí tuệ được dùng khi bạn cần vận dụng logic, kiến 
 Pháp sư dùng Trí tuệ làm thuộc tính thi triển phép; thuộc tính này góp phần xác định DC cứu nguy của các phép họ thi triển.
 
 ### Minh triết (Wisdom)
+
+![Người dẫn đường nhận ra dấu vết và cuộc phục kích trong rừng](assets/chapter-07-wisdom.png)
+
+*Minh triết giúp nhân vật quan sát, cảm nhận ý định và nhận biết nguy hiểm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Minh triết phản ánh mức độ hòa nhịp của bạn với thế giới xung quanh, thể hiện khả năng nhận biết và trực giác.
 
@@ -376,6 +414,10 @@ Giáo sĩ dùng Minh triết làm thuộc tính thi triển phép; thuộc tính
 
 ### Sức hút (Charisma)
 
+![Nhà thám hiểm thuyết phục và truyền cảm hứng cho một nhóm người](assets/chapter-07-charisma.png)
+
+*Sức hút thể hiện năng lực gây ảnh hưởng, thuyết phục, biểu diễn và dẫn dắt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Sức hút đo khả năng tương tác hiệu quả với người khác. Nó bao gồm các yếu tố như sự tự tin và tài ăn nói, và có thể thể hiện một tính cách duyên dáng hoặc đầy uy quyền.
 
 #### Kiểm tra Sức hút (Charisma Checks)
@@ -400,6 +442,10 @@ Kiểm tra Sức hút có thể xuất hiện khi bạn cố tác động hoặc
 Thi sĩ, thánh kỵ sĩ, sorcerer và warlock dùng Sức hút làm thuộc tính thi triển phép; thuộc tính này góp phần xác định DC cứu nguy của các phép họ thi triển.
 
 ## Tung cứu nguy (Saving Throws)
+
+![Nhóm phiêu lưu phản ứng theo nhiều cách trước thảm họa ma thuật](assets/chapter-07-saving-throws.png)
+
+*Tung cứu nguy thể hiện phản ứng phòng vệ trước phép thuật, độc tố, bẫy và những hiểm họa bất ngờ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Một lần tung cứu nguy, cũng gọi ngắn gọn là cứu nguy (save), thể hiện nỗ lực chống lại một phép, bẫy, chất độc, bệnh hoặc mối đe dọa tương tự. Thông thường bạn không tự quyết định tung cứu nguy; bạn bị buộc phải tung vì nhân vật hoặc quái vật của mình có nguy cơ chịu tổn hại.
 

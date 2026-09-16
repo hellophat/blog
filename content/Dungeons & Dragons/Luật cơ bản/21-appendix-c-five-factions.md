@@ -2,13 +2,19 @@
 title: Phụ lục C - Năm phe phái
 ---
 
-# Phụ lục C: Năm phe phái
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 174-176.
+
+![Nhà biên niên sử gặp đại diện năm phe phái quanh bản đồ Faerûn](assets/appendix-c-factions-cover.png)
+
+*Năm phe phái có mục tiêu và phương pháp khác nhau nhưng có thể hợp tác trước mối đe dọa chung. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Nhiều nhân vật trong bối cảnh Forgotten Realms, đặc biệt cho hoạt động chơi D&D có tổ chức, thuộc một trong năm phe nổi bật ở Faerûn. Mỗi phe có động cơ, mục tiêu và triết lý riêng. Một số anh hùng hơn số khác, nhưng tất cả liên kết khi gặp khó để giải quyết mối đe dọa lớn.
 
 ## Harpers
+
+![Nữ đặc vụ elf thu thập tình báo và bảo vệ bí mật nguy hiểm](assets/appendix-c-harpers.png)
+
+*Harpers hoạt động kín đáo, coi tri thức và sự tự chủ là công cụ chống áp bức. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mạng lưới bí mật người thi triển phép và gián điệp gọi là Harpers tìm cách nghiêng cán cân về người vô tội, yếu và nghèo. Đặc vụ Harper tự hào là người bảo vệ điều thiện không thể bị tha hóa, không bao giờ ngần ngại giúp người bị áp bức. Ưa hoạt động hậu trường, họ hiếm khi được chú ý trong lúc ngăn bạo chúa, phế người cai trị và chặn lực lượng đang lớn mạnh bị cho là có ý đồ ác. Phe nắm nhịp quyền lực trong Realms; thành viên làm không mệt để cân bằng cơ hội cho người bị chà đạp.
 
@@ -28,6 +34,10 @@ Liên kết giữa Harpers mạnh, tình bạn gần như không thể phá. H�
 
 ## Hội Găng giáp (Order of the Gauntlet)
 
+![Thánh kỵ sĩ dwarf cầu nguyện trước khi bảo vệ dân làng](assets/appendix-c-order-gauntlet.png)
+
+*Hội Găng giáp kết hợp kỷ luật nội tâm, đức tin và hành động trực diện chống cái ác. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Hội Găng giáp là tổ chức khá mới, tận tụy đánh tan cái ác bất cứ nơi nào ẩn náu, không do dự. Thành viên hiểu cái ác mang nhiều vỏ bọc, bày trò và lừa người để nhanh lan rộng. Vì vậy họ hành động theo thẩm quyền của mình, nhận diện và loại bỏ mối đe dọa trước khi nó phát huy toàn bộ khả năng.
 
 Vì mầm ác được nuôi trong bóng tối, Hội tiến đến ngục nguy hiểm nhất, hang tối nhất và hố ô uế nhất để nhổ kẻ làm điều sai. Dù vậy, thành viên biết rõ mầm ác trong mỗi người chờ cơ hội bén rễ vào linh hồn. Thánh kỵ sĩ, võ tăng và giáo sĩ của hội dành hàng giờ cầu nguyện sâu, giữ con mắt bên trong cảnh giác, tập trung vào suy nghĩ/cảm xúc của mình. Nhờ vậy họ thanh lọc từ bên trong trước khi cầm kiếm làm sạch thế giới.
@@ -43,6 +53,10 @@ Với xác tín sùng đạo ấy, thành viên là nguồn sức mạnh đáng 
 > —Kajiso Steelhand
 
 ## Hội Ngọc lục bảo (Emerald Enclave)
+
+![Nữ druid orc giữ cân bằng giữa làng mạc và rừng hoang](assets/appendix-c-emerald-enclave.png)
+
+*Hội Ngọc lục bảo bảo vệ trật tự tự nhiên và giúp văn minh chung sống với hoang dã. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Hội Ngọc lục bảo là nhóm hoạt động rộng, chống mối đe dọa thế giới tự nhiên và giúp người khác sống trong hoang dã. Chi nhánh rải khắp Faerûn, thường hoạt động tách biệt. Đời sống ấy khiến thành viên tự lực quyết liệt và tinh thông một số kỹ năng chiến đấu/sinh tồn. Kiểm lâm của hội có thể được thuê dẫn đoàn xe qua đèo hiểm hoặc lãnh nguyên đóng băng Icewind Dale. Druid có thể tình nguyện giúp làng chuẩn bị mùa đông dài khắc nghiệt. Barbarian và druid sống ẩn sĩ có thể bất ngờ xuất hiện giúp bảo vệ thị trấn khỏi orc cướp phá.
 
@@ -60,6 +74,10 @@ Thành viên biết sống sót và, quan trọng hơn, giúp người khác là
 
 ## Liên minh Lãnh chúa (Lords’ Alliance)
 
+![Nhà ngoại giao điều phối đại diện nhiều thành phố cùng phòng thủ](assets/appendix-c-lords-alliance.png)
+
+*Liên minh Lãnh chúa dùng ngoại giao, tình báo và sức mạnh chung để bảo vệ các khu định cư. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Liên minh Lãnh chúa là liên kết người cai trị các thành phố/thị trấn khắp Faerûn (chủ yếu miền Bắc), tin đoàn kết cần thiết để chặn cái ác. Người cai trị Waterdeep, Silverymoon, Neverwinter và các thành phố tự do khác chi phối liên minh; mọi lãnh chúa chủ yếu làm vì vận mệnh và thịnh vượng khu định cư của mình.
 
 Đặc vụ gồm bard tinh tế, thánh kỵ sĩ nhiệt thành, pháp sư tài năng và chiến binh dạn dày. Được chọn chủ yếu vì trung thành, họ giỏi quan sát, ẩn nấp, nói bóng gió và chiến đấu. Có người giàu/quyền quý hậu thuẫn, họ mang trang bị tốt (thường cải dạng trông bình thường), gồm nhiều cuộn ghi phép giao tiếp.
@@ -73,6 +91,10 @@ Liên minh Lãnh chúa là liên kết người cai trị các thành phố/th�
 > —Rameel Jos
 
 ## Zhentarim
+
+![Nữ môi giới tiefling tổ chức đoàn lính đánh thuê và thương vụ mạo hiểm](assets/appendix-c-zhentarim.png)
+
+*Zhentarim theo đuổi ảnh hưởng, của cải và cơ hội thông qua mạng lưới đầy tham vọng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Zhentarim, còn gọi Mạng lưới Đen (Black Network), là tổ chức lính đánh thuê huấn luyện tốt, rogue sành sỏi và warlock mưu trí muốn mở ảnh hưởng/quyền lực khắp Faerûn. Đặc vụ tin nếu theo quy tắc thì chẳng làm được gì. Cuối cùng họ muốn đặt quy tắc—và đôi trường hợp đã làm. Họ giữ ranh giới cẩn thận khi tuân chữ nghĩa luật pháp, không ngại thỉnh thoảng giao dịch mờ ám hoặc làm trái luật để đạt điều muốn.
 

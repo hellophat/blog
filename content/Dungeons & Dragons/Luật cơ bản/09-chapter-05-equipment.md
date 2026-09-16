@@ -1,12 +1,8 @@
 ---
-title: Chương 5 - Trang bị
+title: Chương 05 - Trang bị
 ---
 
-# Chương 5: Trang bị
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 45-57.
-
-
 
 ![Một nhóm nhà phiêu lưu chọn trang bị trong cửa hàng lớn](assets/chapter-05-equipment-cover.png)
 

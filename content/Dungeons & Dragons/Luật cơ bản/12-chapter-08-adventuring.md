@@ -1,14 +1,12 @@
 ---
-title: Chương 8 - Phiêu lưu
+title: Chương 08 - Phiêu lưu
 ---
-
-# Chương 8: Phiêu lưu
 
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 66-71.
 
-![Những lữ khách đi trên con đường xuyên rừng](https://commons.wikimedia.org/wiki/Special:Redirect/file/Jacob%20van%20Ruisdael%20-%20Travelers%20on%20a%20Forest%20Road.jpg?width=1200)
+![Nhóm nhà thám hiểm lên đường về phía thành phố và những miền đất xa](assets/chapter-08-adventuring-cover.png)
 
-*Những lữ khách trên đường xuyên rừng, Jacob van Ruisdael — phạm vi công cộng. [Nguồn ảnh](https://commons.wikimedia.org/wiki/File:Jacob_van_Ruisdael_-_Travelers_on_a_Forest_Road.jpg).*
+*Phiêu lưu là hành trình qua những miền đất mới, nơi thời gian, địa hình, hiểm họa và con người đều định hình câu chuyện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Thám hiểm Tomb of Horrors cổ xưa, lẻn qua những ngõ hẻm phía sau của Waterdeep, phát quang một lối đi mới xuyên rừng rậm trên Isle of Dread — đó là những điều tạo nên các cuộc phiêu lưu trong Dungeons & Dragons. Nhân vật của bạn có thể khám phá những phế tích bị lãng quên và vùng đất chưa được lập bản đồ, vạch trần bí mật đen tối và âm mưu hiểm độc, tiêu diệt những quái vật ghê tởm. Và nếu mọi chuyện thuận lợi, nhân vật sẽ sống sót để nhận những phần thưởng hậu hĩnh trước khi lên đường cho một cuộc phiêu lưu mới.
 
@@ -24,6 +22,10 @@ Thông thường, DM dùng bản đồ làm khung cho cuộc phiêu lưu, theo d
 
 ## Thời gian (Time)
 
+![Một hành trình được quan sát từ bình minh qua ban ngày đến đêm sao](assets/chapter-08-time.png)
+
+*Thời gian giúp đo độ dài hành động, hành trình và những thay đổi trong thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Trong những tình huống cần theo dõi thời gian trôi qua, DM xác định một nhiệm vụ đòi hỏi bao nhiêu thời gian. DM có thể dùng thang thời gian khác nhau tùy bối cảnh của tình huống trước mắt. Trong môi trường hầm ngục, việc di chuyển của nhà phiêu lưu diễn ra theo thang **phút**. Họ mất khoảng một phút để rón rén đi hết hành lang dài, thêm một phút để kiểm tra bẫy trên cánh cửa ở cuối hành lang, và khoảng mười phút để lục tìm những thứ thú vị hoặc có giá trị trong căn phòng phía sau cửa.
 
 Trong thành phố hoặc vùng hoang dã, thang **giờ** thường thích hợp hơn. Các nhà phiêu lưu háo hức đến tòa tháp đơn độc giữa rừng vội vượt quãng đường mười lăm mile trong chưa đầy bốn giờ.
@@ -33,6 +35,10 @@ Với hành trình dài, thang **ngày** thích hợp nhất. Đi theo con đư�
 Trong chiến đấu và những tình huống diễn ra nhanh khác, trò chơi dùng **vòng (round)**, khoảng thời gian 6 giây được mô tả ở chương 9.
 
 ## Di chuyển (Movement)
+
+![Đoàn lữ hành tiến qua đường núi với nhiều nhịp độ khác nhau](assets/chapter-08-movement-travel-pace.png)
+
+*Tốc độ và nhịp hành trình quyết định quãng đường nhóm có thể vượt qua. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Bơi qua dòng sông chảy xiết, lén đi dọc hành lang hầm ngục, leo lên sườn núi hiểm trở — mọi kiểu di chuyển đều đóng vai trò quan trọng trong các cuộc phiêu lưu D&D.
 
@@ -70,11 +76,19 @@ Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương
 
 ### Địa hình khó đi (Difficult Terrain)
 
+![Nhóm lữ hành giúp nhau vượt bùn lầy đá vụn và cây đổ](assets/chapter-08-difficult-terrain.png)
+
+*Địa hình khó đi làm chậm bước chân và buộc cả nhóm phải thận trọng hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Tốc độ hành trình trong bảng Nhịp hành trình giả định địa hình tương đối dễ đi: đường sá, đồng bằng thoáng hoặc hành lang hầm ngục không có vật cản. Nhưng nhà phiêu lưu thường gặp rừng rậm, đầm lầy sâu, phế tích đầy gạch đá vụn, núi dốc và mặt đất phủ băng — tất cả đều được coi là địa hình khó đi.
 
 Bạn di chuyển với nửa tốc độ trong địa hình khó đi: đi 1 foot trong địa hình khó đi tiêu tốn 2 feet tốc độ. Vì vậy, bạn chỉ đi được một nửa khoảng cách thông thường trong một phút, một giờ hoặc một ngày.
 
 ### Các kiểu di chuyển đặc biệt (Special Types of Movement)
+
+![Những nhà thám hiểm leo trèo bơi lội bò và nhảy qua phế tích](assets/chapter-08-special-movement.png)
+
+*Leo, bơi, bò và nhảy mở ra những con đường vượt ngoài việc đi bộ thông thường. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Di chuyển qua hầm ngục nguy hiểm hoặc vùng hoang dã thường không chỉ đơn thuần là đi bộ. Nhà phiêu lưu có thể phải leo, bò, bơi hoặc nhảy để đến nơi cần đến.
 
@@ -97,6 +111,10 @@ Khi tiếp đất trong địa hình khó đi, bạn phải thành công kiểm 
 Trong cú nhảy, bạn có thể vươn tay lên cao hơn mình một khoảng bằng nửa chiều cao cơ thể. Vì vậy, bạn có thể với lên khoảng cách bằng độ cao cú nhảy cộng 1½ lần chiều cao của mình.
 
 ### Hoạt động khi đi đường (Activity While Traveling)
+
+![Nhóm phiêu lưu trinh sát định hướng kiếm thức ăn và giữ đội hình](assets/chapter-08-travel-activities.png)
+
+*Mỗi nhân vật có thể nhận một vai trò khi đi đường, từ dẫn đường đến cảnh giới và kiếm thức ăn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi đi qua hầm ngục hoặc vùng hoang dã, nhà phiêu lưu cần cảnh giác với nguy hiểm, và một số nhân vật có thể làm nhiệm vụ khác để giúp hành trình của nhóm.
 
@@ -142,6 +160,10 @@ Nhân vật chuyển sự chú ý sang nhiệm vụ khác trong lúc nhóm đi �
 
 ## Môi trường (The Environment)
 
+![Các nhà thám hiểm đối mặt nguy cơ rơi và ngạt thở](assets/chapter-08-environmental-hazards.png)
+
+*Môi trường có thể gây nguy hiểm trực tiếp qua độ cao, nước sâu, khói và không khí cạn kiệt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Bản chất của phiêu lưu là thám hiểm những nơi tối tăm, nguy hiểm và đầy bí ẩn chờ khám phá. Quy tắc trong phần này bao quát một số cách quan trọng nhất mà nhà phiêu lưu tương tác với môi trường ở những nơi ấy. *Dungeon Master’s Guide* có quy tắc cho các tình huống khác thường hơn.
 
 ### Rơi (Falling)
@@ -159,6 +181,10 @@ Khi sinh vật hết hơi hoặc bị nghẹt thở, nó có thể sống sót t
 Ví dụ, sinh vật có Thể chất 14 có thể nín thở 3 phút. Nếu bắt đầu ngạt thở, nó có 2 vòng để tiếp cận không khí trước khi giảm xuống 0 điểm sinh lực.
 
 ### Thị giác và ánh sáng (Vision and Light)
+
+![Đoàn thám hiểm quan sát một phế tích từ vùng sáng đến bóng tối](assets/chapter-08-vision-light.png)
+
+*Ánh sáng và các dạng thị giác quyết định nhân vật có thể nhận biết điều gì trong bóng tối. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Những nhiệm vụ cơ bản nhất của phiêu lưu — nhận ra nguy hiểm, tìm đồ vật bị giấu, đánh trúng kẻ địch trong chiến đấu và chọn mục tiêu cho phép, chỉ kể vài ví dụ — phụ thuộc nhiều vào khả năng nhìn của nhân vật. Bóng tối và các hiệu ứng khác che khuất thị giác có thể gây cản trở đáng kể.
 
@@ -188,6 +214,10 @@ Trong phạm vi cụ thể, sinh vật có chân thị có thể nhìn trong bó
 
 ### Thức ăn và nước (Food and Water)
 
+![Nhóm lữ hành chia khẩu phần và đón người kiếm thức ăn trở về](assets/chapter-08-food-water.png)
+
+*Thức ăn và nước là nguồn lực thiết yếu trong những hành trình kéo dài. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Nhân vật không ăn hoặc uống chịu các ảnh hưởng của kiệt sức, xem phụ lục A. Kiệt sức do thiếu thức ăn hoặc nước không thể được loại bỏ cho đến khi nhân vật ăn và uống đủ toàn bộ lượng cần thiết.
 
 #### Thức ăn (Food)
@@ -206,6 +236,10 @@ Nếu nhân vật đã có một hoặc nhiều mức kiệt sức, nhân vật 
 
 ### Tương tác với đồ vật (Interacting with Objects)
 
+![Các nhà thám hiểm mở cửa kiểm tra rương và vận hành cơ quan cổ](assets/chapter-08-objects.png)
+
+*Tương tác với đồ vật biến môi trường thành một phần chủ động của cuộc phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Tương tác của nhân vật với đồ vật trong môi trường thường được giải quyết đơn giản trong trò chơi. Người chơi nói với DM rằng nhân vật đang làm gì đó, như di chuyển một cần gạt, và DM mô tả chuyện xảy ra, nếu có.
 
 Ví dụ, nhân vật có thể quyết định kéo cần gạt, từ đó nâng cửa lưới chắn, khiến phòng ngập nước hoặc mở cửa bí mật trên bức tường gần đó. Tuy nhiên, nếu cần gạt bị gỉ kẹt tại chỗ, nhân vật có thể phải dùng sức. Trong tình huống như vậy, DM có thể yêu cầu kiểm tra Sức mạnh để xem nhân vật có giật cần gạt về đúng vị trí hay không. DM đặt DC cho các kiểm tra như vậy dựa trên độ khó của nhiệm vụ.
@@ -216,6 +250,10 @@ Nhân vật cũng có thể thử kiểm tra Sức mạnh để phá một đồ
 
 ## Tương tác xã hội (Social Interaction)
 
+![Những nhà thám hiểm thương lượng với các thủ lĩnh địa phương](assets/chapter-08-social-interaction.png)
+
+*Tương tác xã hội phụ thuộc vào lời nói, thái độ, mục tiêu và phản ứng của những người tham gia. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Khám phá hầm ngục, vượt chướng ngại và tiêu diệt quái vật là những phần quan trọng của các cuộc phiêu lưu D&D. Nhưng tương tác xã hội giữa nhà phiêu lưu và những cư dân khác của thế giới cũng quan trọng không kém.
 
 Tương tác có nhiều hình thức. Bạn có thể cần thuyết phục một tên trộm vô lương tâm thú nhận việc làm sai trái, hoặc cố tâng bốc một con rồng để nó tha mạng. DM đóng vai mọi nhân vật tham gia tương tác mà không thuộc về người chơi khác tại bàn. Những nhân vật như vậy được gọi là **nhân vật không do người chơi điều khiển (nonplayer character, NPC)**.
@@ -225,6 +263,10 @@ Nhìn chung, thái độ của NPC đối với bạn được mô tả là **th
 Tương tác xã hội có hai khía cạnh chính: nhập vai và kiểm tra thuộc tính.
 
 ### Nhập vai (Roleplaying)
+
+![Những nhà thám hiểm kể chuyện trình bày kế hoạch và thể hiện nhân vật](assets/chapter-08-roleplaying.png)
+
+*Nhập vai cho phép người chơi mô tả hoặc trực tiếp diễn lời nói và hành động của nhân vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Nhập vai, theo nghĩa đen, là diễn một vai. Trong trường hợp này, bạn với tư cách người chơi quyết định nhân vật suy nghĩ, hành động và nói chuyện thế nào.
 
@@ -278,6 +320,10 @@ Hãy chú ý sự thành thạo kỹ năng của mình khi nghĩ cách tương t
 
 ## Nghỉ ngơi (Resting)
 
+![Nhóm phiêu lưu chăm sóc vết thương ban ngày và ngủ dưới sự canh gác ban đêm](assets/chapter-08-resting.png)
+
+*Nghỉ ngắn và nghỉ dài giúp nhân vật hồi phục sức lực theo những nhịp thời gian khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Dù anh hùng đến đâu, nhà phiêu lưu cũng không thể dành mọi giờ trong ngày để liên tục khám phá, tương tác xã hội và chiến đấu. Họ cần nghỉ: thời gian ngủ và ăn, chăm sóc vết thương, làm mới tâm trí và tinh thần để thi triển phép, chuẩn bị cho những cuộc phiêu lưu tiếp theo.
 
 Nhà phiêu lưu, cũng như các sinh vật khác, có thể nghỉ ngắn giữa ngày và nghỉ dài để kết thúc ngày.
@@ -298,6 +344,10 @@ Nhân vật không thể nhận lợi ích từ nhiều hơn một lần nghỉ 
 
 ## Giữa những cuộc phiêu lưu (Between Adventures)
 
+![Đoàn phiêu lưu trở về thị trấn để nghỉ trọ sửa trang bị và gặp gỡ](assets/chapter-08-between-adventures.png)
+
+*Khoảng thời gian giữa các chuyến đi cho phép nhân vật sống, chi tiêu và chuẩn bị cho hành trình kế tiếp. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Giữa những chuyến vào hầm ngục và trận chiến chống cái ác cổ xưa, nhà phiêu lưu cần thời gian nghỉ, hồi phục và chuẩn bị cho cuộc phiêu lưu tiếp theo. Nhiều nhà phiêu lưu cũng dùng thời gian này cho việc khác, như chế tạo vũ khí và giáp, nghiên cứu hoặc tiêu số vàng vất vả kiếm được.
 
 Trong một số trường hợp, thời gian trôi qua mà không có nhiều nhấn mạnh hoặc mô tả. Khi bắt đầu cuộc phiêu lưu mới, DM có thể chỉ tuyên bố một khoảng thời gian đã trôi qua và cho phép bạn mô tả khái quát nhân vật đã làm gì. Lúc khác, DM có thể muốn theo dõi chính xác thời gian trôi qua khi những sự kiện nằm ngoài nhận biết của bạn vẫn tiếp diễn.
@@ -309,6 +359,10 @@ Giữa các cuộc phiêu lưu, bạn chọn một chất lượng sống cụ t
 Một lối sống cụ thể không tác động quá lớn đến nhân vật, nhưng có thể ảnh hưởng cách cá nhân và nhóm khác phản ứng với bạn. Ví dụ, khi sống theo lối sống quý tộc, bạn có thể dễ tác động đến quý tộc thành phố hơn so với khi sống trong nghèo khó.
 
 ### Hoạt động trong thời gian nghỉ giữa các cuộc phiêu lưu (Downtime Activities)
+
+![Các nhà thám hiểm chế tạo nghiên cứu hồi phục và luyện tập](assets/chapter-08-downtime.png)
+
+*Hoạt động thời gian nghỉ gồm chế tạo, hành nghề, hồi phục, nghiên cứu và huấn luyện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Giữa các cuộc phiêu lưu, DM có thể hỏi nhân vật làm gì trong thời gian nghỉ. Những khoảng nghỉ này có độ dài khác nhau, nhưng mỗi hoạt động đòi hỏi số ngày nhất định để hoàn thành trước khi bạn nhận được lợi ích; mỗi ngày phải dành ít nhất 8 giờ cho hoạt động ấy thì ngày đó mới được tính. Các ngày không cần liên tiếp. Nếu có nhiều ngày hơn mức tối thiểu, bạn có thể tiếp tục cùng hoạt động lâu hơn hoặc chuyển sang hoạt động mới.
 

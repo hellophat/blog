@@ -2,9 +2,11 @@
 title: Phụ lục B - Các vị thần trong đa vũ trụ
 ---
 
-# Phụ lục B: Các vị thần trong đa vũ trụ
-
 Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 172-173 (phần Các vị thần trên trang 172).
+
+![Nữ giáo sĩ chiêm nghiệm nhiều lãnh địa thần thánh trong đa vũ trụ](assets/appendix-b-gods-cover.png)
+
+*Tín ngưỡng trong thế giới fantasy phản ánh nhiều mặt của tự nhiên, xã hội và số phận. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Tôn giáo là phần quan trọng của đời sống trong các thế giới đa vũ trụ D&D. Khi thần đi trên thế giới, giáo sĩ dẫn truyền quyền năng thần thánh, tà giáo hiến tế tối tăm trong hang ổ dưới đất và thánh kỵ sĩ rạng ngời đứng như hải đăng chống bóng tối, khó có thể thờ ơ với thần linh và phủ nhận họ tồn tại.
 
@@ -14,6 +16,10 @@ DM quyết định thần nào, nếu có, được thờ trong chiến dịch. 
 
 ## Các hệ thần D&D (D&D Pantheons)
 
+![Học giả dragonborn nghiên cứu các hệ thần của nhiều thế giới](assets/appendix-b-pantheons.png)
+
+*Mỗi thế giới có thể có hệ thần, truyền thống thờ phụng và cách diễn giải thần tính riêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Mỗi thế giới trong đa vũ trụ D&D có các hệ thần riêng. Phụ lục này xét một hệ: Forgotten Realms.
 
 ### Forgotten Realms
@@ -22,11 +28,19 @@ Hàng chục thần được tôn kính, thờ phụng và kính sợ khắp For
 
 ### Thần của các chủng ngoài loài người (Nonhuman Deities)
 
+![Nữ tư tế dwarf cùng nhiều dân tộc tưởng niệm truyền thống thần linh riêng](assets/appendix-b-nonhuman-deities.png)
+
+*Các dân tộc fantasy thường duy trì hệ thần và nghi lễ gắn với lịch sử cộng đồng của mình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+
 Một số thần gắn chặt với chủng ngoài loài người được tôn kính trên nhiều thế giới, dù không luôn cùng cách. Các chủng ngoài loài người ở Forgotten Realms và Greyhawk cùng thờ những vị ấy.
 
 Các chủng thường có cả hệ thần riêng. Ví dụ, ngoài Moradin, thần dwarf gồm vợ ông, Berronar Truesilver, và các thần được coi là con/cháu: Abbathor, Clangeddin Silverbeard, Dugmaren Brightmantle, Dumathoin, Gorm Gulthyn, Haela Brightaxe, Marthammor Duin, Sharindlar, Thard Harr và Vergadain. Từng thị tộc/vương quốc dwarf có thể tôn kính một số, tất cả hoặc không vị nào; một số có thần khác người ngoài không biết (hoặc biết bằng tên khác).
 
 ## Các vị thần Forgotten Realms (Deities of the Forgotten Realms)
+
+![Học giả elf sắp xếp những lãnh địa thần thánh trong kho lưu trữ](assets/appendix-b-divine-domains.png)
+
+*Các vị thần được phân biệt qua khuynh hướng, lãnh địa và biểu tượng trong truyền thống thờ phụng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Ký hiệu khuynh hướng trong bảng: LG = trật tự thiện; NG = trung lập thiện; CG = hỗn loạn thiện; LN = trật tự trung lập; N = trung lập; CN = hỗn loạn trung lập; LE = trật tự ác; NE = trung lập ác; CE = hỗn loạn ác. Đây là phần giải thích ký hiệu của bản dịch.*
 
