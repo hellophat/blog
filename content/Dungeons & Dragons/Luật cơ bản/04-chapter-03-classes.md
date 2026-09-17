@@ -132,9 +132,9 @@ Cấp 2, bạn trực tiếp dẫn năng lượng thần từ thần linh để 
 
 Khi dùng Dẫn truyền thần tính, chọn hiệu ứng. Sau đó phải [nghỉ ngắn](99-glossary.md#short-rest) hoặc nghỉ dài trước khi dùng lại. Hiệu ứng đòi hỏi cứu nguy dùng DC cứu nguy phép giáo sĩ. Từ cấp 6, dùng hai lần giữa các lần nghỉ; từ cấp 18, ba lần. Hoàn thành nghỉ ngắn hoặc dài sẽ hồi các lần đã dùng.
 
-**Dẫn truyền thần tính: Xua đuổi xác sống.** Bằng một hành động, trình thánh vật và đọc lời cầu nguyện khiển trách xác sống. Mỗi xác sống nhìn hoặc nghe thấy bạn trong **30 [feet](99-glossary.md#feet)** phải tung cứu nguy Minh triết. Nếu thất bại, nó bị **xua đuổi (turned)** trong 1 phút hoặc đến khi chịu bất kỳ sát thương nào.
+**Dẫn truyền thần tính: Xua đuổi xác sống.** Bằng một hành động, trình thánh vật và đọc lời cầu nguyện khiển trách xác sống. Mỗi xác sống nhìn hoặc nghe thấy bạn trong **9 m (30 [feet](99-glossary.md#feet))** phải tung cứu nguy Minh triết. Nếu thất bại, nó bị **xua đuổi (turned)** trong 1 phút hoặc đến khi chịu bất kỳ sát thương nào.
 
-Sinh vật bị xua đuổi phải dùng lượt để cố đi xa bạn nhất có thể, không được tự ý đi vào không gian trong 30 feet của bạn và không thể phản ứng. Nó chỉ có thể dùng hành động **Chạy nước rút (Dash)** hoặc cố thoát hiệu ứng ngăn di chuyển. Nếu không có nơi đi, nó có thể dùng hành động **Phòng thủ (Dodge)**.
+Sinh vật bị xua đuổi phải dùng lượt để cố đi xa bạn nhất có thể, không được tự ý đi vào không gian trong 9 m (30 feet) của bạn và không thể phản ứng. Nó chỉ có thể dùng hành động **Chạy nước rút (Dash)** hoặc cố thoát hiệu ứng ngăn di chuyển. Nếu không có nơi đi, nó có thể dùng hành động **Phòng thủ (Dodge)**.
 
 ### Cải thiện điểm thuộc tính (Ability Score Improvement)
 
@@ -180,7 +180,7 @@ Lãnh địa Sự sống tập trung năng lượng tích cực, sống động,
 
 **Môn đồ Sự sống (Disciple of Life).** Cũng từ cấp 1, phép chữa lành hiệu quả hơn. Bất cứ khi nào dùng phép bậc 1 trở lên hồi HP cho sinh vật, nó hồi thêm HP bằng **2 + bậc phép**.
 
-**Dẫn truyền thần tính: Bảo toàn sự sống (Preserve Life).** Cấp 2, dùng Dẫn truyền thần tính để chữa người bị thương nặng. Bằng hành động, trình thánh vật và gọi năng lượng chữa lành hồi tổng HP bằng **5 × cấp giáo sĩ**. Chọn bất kỳ sinh vật trong 30 feet, chia lượng HP này giữa chúng. Đặc tính chỉ hồi một sinh vật tối đa đến **một nửa HP tối đa**. Không dùng cho xác sống hoặc [cấu thể](99-glossary.md#construct) (construct).
+**Dẫn truyền thần tính: Bảo toàn sự sống (Preserve Life).** Cấp 2, dùng Dẫn truyền thần tính để chữa người bị thương nặng. Bằng hành động, trình thánh vật và gọi năng lượng chữa lành hồi tổng HP bằng **5 × cấp giáo sĩ**. Chọn bất kỳ sinh vật trong 9 m (30 feet), chia lượng HP này giữa chúng. Đặc tính chỉ hồi một sinh vật tối đa đến **một nửa HP tối đa**. Không dùng cho xác sống hoặc [cấu thể](99-glossary.md#construct) (construct).
 
 **Người chữa lành được ban phước (Blessed Healer).** Từ cấp 6, phép chữa người khác cũng chữa bạn. Khi dùng phép bậc 1 trở lên hồi HP cho sinh vật khác bạn, bạn hồi HP bằng **2 + bậc phép**.
 
@@ -273,7 +273,7 @@ Chọn một phong cách làm chuyên môn. Không thể chọn cùng lựa ch�
 - **Phòng thủ (Defense):** Khi đang mặc giáp, +1 AC.
 - **Đấu kiếm (Dueling):** Khi cầm vũ khí cận chiến bằng một tay và không cầm vũ khí khác, +2 vào lần tung sát thương bằng vũ khí đó.
 - **Đánh vũ khí lớn (Great Weapon Fighting):** Khi tung 1 hoặc 2 trên xúc xắc sát thương của đòn tấn công cận chiến dùng vũ khí mà bạn đang cầm bằng hai tay, có thể tung lại và phải dùng kết quả mới, kể cả vẫn là 1 hay 2. Vũ khí phải có tính chất Hai tay (two-handed) hoặc Đa dụng ([versatile](99-glossary.md#versatile)) để nhận lợi ích.
-- **Bảo vệ (Protection):** Khi sinh vật bạn thấy tấn công mục tiêu khác bạn trong 5 feet, có thể dùng phản ứng áp bất lợi cho lần tung tấn công. Phải đang dùng khiên.
+- **Bảo vệ (Protection):** Khi sinh vật bạn thấy tấn công mục tiêu khác bạn trong 1,5 m (5 feet), có thể dùng phản ứng áp bất lợi cho lần tung tấn công. Phải đang dùng khiên.
 - **Đánh hai vũ khí (Two-Weapon Fighting):** Khi đánh hai vũ khí, được cộng [hệ số thuộc tính](99-glossary.md#modifier) vào sát thương của đòn tấn công thứ hai.
 
 ### Hơi thở thứ hai (Second Wind)
@@ -310,7 +310,7 @@ Nhà vô địch nguyên mẫu tập trung phát triển sức mạnh thể ch�
 
 **Chí mạng cải thiện (Improved Critical):** Cấp 3, đòn tấn công vũ khí gây **[đòn chí mạng](99-glossary.md#critical-hit) (critical hit)** khi tung **19 hoặc 20**.
 
-**Vận động viên đáng nể (Remarkable Athlete):** Cấp 7, cộng **một nửa [thưởng thành thạo](99-glossary.md#proficiency), làm tròn lên**, vào bất kỳ kiểm tra Sức mạnh, Khéo léo hoặc Thể chất nào chưa dùng thưởng thành thạo. Khi nhảy xa có đà, quãng nhảy tăng số feet bằng hệ số Sức mạnh.
+**Vận động viên đáng nể (Remarkable Athlete):** Cấp 7, cộng **một nửa [thưởng thành thạo](99-glossary.md#proficiency), làm tròn lên**, vào bất kỳ kiểm tra Sức mạnh, Khéo léo hoặc Thể chất nào chưa dùng thưởng thành thạo. Khi nhảy xa có đà, quãng nhảy tăng số mét bằng **0,3 × hệ số Sức mạnh** (số feet bằng hệ số Sức mạnh).
 
 **Phong cách chiến đấu bổ sung:** Cấp 10, chọn lựa chọn thứ hai trong đặc tính Phong cách chiến đấu.
 
@@ -403,7 +403,7 @@ Cấp 1, chọn hai kỹ năng thành thạo, hoặc một kỹ năng thành th�
 
 Từ cấp 1, bạn biết cách đánh một cách tinh tế và khai thác sự phân tâm của kẻ địch. Mỗi lượt một lần, bạn gây thêm **1d6 sát thương** cho một sinh vật đánh trúng nếu có lợi thế ở lần tung tấn công. Đòn phải dùng vũ khí Tinh xảo (finesse) hoặc tầm xa.
 
-Không cần lợi thế nếu một kẻ địch khác của mục tiêu ở trong **5 feet** của nó, kẻ địch ấy không mất năng lực hành động, và bạn không có bất lợi trong lần tung tấn công. Sát thương thêm tăng theo cột Tấn công lén trong bảng.
+Không cần lợi thế nếu một kẻ địch khác của mục tiêu ở trong **1,5 m (5 feet)** của nó, kẻ địch ấy không mất năng lực hành động, và bạn không có bất lợi trong lần tung tấn công. Sát thương thêm tăng theo cột Tấn công lén trong bảng.
 
 ### Tiếng lóng kẻ trộm (Thieves’ Cant)
 
@@ -437,7 +437,7 @@ Từ cấp 7, khi chịu hiệu ứng cho phép tung cứu nguy Khéo léo để
 
 ### Cảm nhận mù (Blindsense)
 
-Cấp 14, nếu nghe được, bạn nhận biết vị trí mọi sinh vật ẩn hoặc vô hình trong **10 feet**.
+Cấp 14, nếu nghe được, bạn nhận biết vị trí mọi sinh vật ẩn hoặc vô hình trong **3 m (10 feet)**.
 
 ### Tâm trí khó nắm bắt (Slippery Mind)
 
@@ -461,7 +461,7 @@ Bạn rèn kỹ năng trộm cắp. Kẻ đột nhập, cướp đường, móc 
 
 **Bàn tay nhanh (Fast Hands):** Cấp 3, dùng hành động phụ từ Hành động xảo quyệt để thực hiện kiểm tra Khéo léo (Khéo tay), dùng dụng cụ kẻ trộm tháo bẫy hay mở khóa, hoặc dùng hành động Sử dụng đồ vật (Use an Object).
 
-**Nghề leo tầng hai (Second-Story Work):** Cấp 3, leo không còn tốn di chuyển thêm. Khi nhảy có đà, quãng nhảy tăng số feet bằng hệ số Khéo léo.
+**Nghề leo tầng hai (Second-Story Work):** Cấp 3, leo không còn tốn di chuyển thêm. Khi nhảy có đà, quãng nhảy tăng số mét bằng **0,3 × hệ số Khéo léo** (số feet bằng hệ số Khéo léo).
 
 **Lén lút tối thượng (Supreme Sneak):** Cấp 9, có lợi thế trong kiểm tra Khéo léo (Lén lút) nếu trong lượt đó di chuyển không quá nửa tốc độ.
 

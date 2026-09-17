@@ -245,9 +245,9 @@ Bạn cộng hệ số Sức mạnh vào lần tung tấn công và lần tung s
 
 Điểm Sức mạnh xác định khối lượng bạn có thể mang. Các thuật ngữ sau xác định những gì bạn có thể nâng hoặc mang.
 
-**Sức mang (Carrying Capacity).** Sức mang bằng điểm Sức mạnh nhân 15. Đây là khối lượng, tính bằng [pound](99-glossary.md#feet), bạn có thể mang; mức này đủ cao để phần lớn nhân vật thường không phải lo về nó.
+**Sức mang (Carrying Capacity).** Sức mang bằng điểm Sức mạnh nhân 15. Đây là khối lượng, tương đương **6,75 kg × điểm Sức mạnh (15 pound × điểm Sức mạnh)**, bạn có thể mang; mức này đủ cao để phần lớn nhân vật thường không phải lo về nó.
 
-**Đẩy, kéo hoặc nâng (Push, Drag, or Lift).** Bạn có thể đẩy, kéo hoặc nâng khối lượng tính bằng pound tối đa bằng hai lần sức mang, tức 30 lần điểm Sức mạnh. Khi đẩy hoặc kéo khối lượng vượt sức mang, tốc độ của bạn giảm xuống còn 5 feet.
+**Đẩy, kéo hoặc nâng (Push, Drag, or Lift).** Bạn có thể đẩy, kéo hoặc nâng khối lượng tối đa bằng hai lần sức mang, tức **13,5 kg × điểm Sức mạnh (30 pound × điểm Sức mạnh)**. Khi đẩy hoặc kéo khối lượng vượt sức mang, tốc độ của bạn giảm xuống còn 1,5 m (5 feet).
 
 **Kích cỡ và Sức mạnh (Size and Strength).** Sinh vật lớn hơn có thể mang khối lượng lớn hơn, còn sinh vật Tí hon (Tiny) mang ít hơn. Với mỗi bậc kích cỡ lớn hơn Trung bình (Medium), nhân đôi sức mang của sinh vật và khối lượng nó có thể đẩy, kéo hoặc nâng. Với sinh vật Tí hon, chia đôi các khối lượng này.
 
@@ -255,9 +255,9 @@ Bạn cộng hệ số Sức mạnh vào lần tung tấn công và lần tung s
 
 Quy tắc nâng và mang được chủ ý giữ đơn giản. Dưới đây là quy tắc tùy chọn nếu bạn muốn có quy định chi tiết hơn để xác định khối lượng trang bị cản trở nhân vật như thế nào. Khi dùng quy tắc tùy chọn này, bỏ qua cột Sức mạnh của bảng Giáp ở chương 5.
 
-Nếu mang khối lượng vượt quá 5 lần điểm Sức mạnh, bạn bị **quá tải (encumbered)**, nghĩa là tốc độ giảm 10 feet.
+Nếu mang khối lượng vượt quá 5 lần điểm Sức mạnh, bạn bị **quá tải (encumbered)**, nghĩa là tốc độ giảm 3 m (10 feet).
 
-Nếu mang khối lượng vượt quá 10 lần điểm Sức mạnh, đến mức sức mang tối đa, thay vào đó bạn bị **quá tải nặng (heavily encumbered)**, nghĩa là tốc độ giảm 20 feet và bạn có bất lợi trong các kiểm tra thuộc tính, lần tung tấn công và lần tung cứu nguy dùng Sức mạnh, Khéo léo hoặc Thể chất.
+Nếu mang khối lượng vượt quá 10 lần điểm Sức mạnh, đến mức sức mang tối đa, thay vào đó bạn bị **quá tải nặng (heavily encumbered)**, nghĩa là tốc độ giảm 6 m (20 feet) và bạn có bất lợi trong các kiểm tra thuộc tính, lần tung tấn công và lần tung cứu nguy dùng Sức mạnh, Khéo léo hoặc Thể chất.
 
 ### Khéo léo (Dexterity)
 

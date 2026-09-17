@@ -46,7 +46,7 @@ Phần lớn chủng tộc thiên về một số khuynh hướng được mô t
 
 ### Kích cỡ (Size)
 
-Phần lớn chủng tộc có kích cỡ **Trung bình (Medium)**, nhóm gồm những sinh vật cao khoảng **4-8 [feet](99-glossary.md#feet)**. Một vài chủng tộc có kích cỡ **Nhỏ (Small)**, cao **2-4 feet**, nên chịu tác động khác của một số quy tắc. Quan trọng nhất là nhân vật Nhỏ gặp khó khi dùng vũ khí nặng, như giải thích ở chương 5.
+Phần lớn chủng tộc có kích cỡ **Trung bình (Medium)**, nhóm gồm những sinh vật cao khoảng **1,2–2,4 m (4–8 [feet](99-glossary.md#feet))**. Một vài chủng tộc có kích cỡ **Nhỏ (Small)**, cao **0,6–1,2 m (2–4 feet)**, nên chịu tác động khác của một số quy tắc. Quan trọng nhất là nhân vật Nhỏ gặp khó khi dùng vũ khí nặng, như giải thích ở chương 5.
 
 ### Tốc độ (Speed)
 
@@ -74,7 +74,7 @@ Những vương quốc mang vẻ tráng lệ cổ xưa, đại sảnh đục và
 
 ### Thấp và vạm vỡ (Short and Stout)
 
-Gan dạ và bền bỉ, người lùn nổi tiếng là chiến binh, thợ mỏ, thợ đá và thợ kim loại tài giỏi. Dù chiều cao thấp hơn nhiều so với 5 feet, cơ thể họ rộng và chắc đến mức có thể nặng bằng một người cao hơn gần 2 feet. Lòng can đảm và sức chịu đựng cũng dễ dàng sánh với các dân tộc cao lớn hơn.
+Gan dạ và bền bỉ, người lùn nổi tiếng là chiến binh, thợ mỏ, thợ đá và thợ kim loại tài giỏi. Dù chiều cao thấp hơn nhiều so với 1,5 m (5 feet), cơ thể họ rộng và chắc đến mức có thể nặng bằng một người cao hơn gần 0,6 m (2 feet). Lòng can đảm và sức chịu đựng cũng dễ dàng sánh với các dân tộc cao lớn hơn.
 
 Da người lùn từ nâu sẫm đến nhạt pha đỏ, nhưng phổ biến nhất là nâu nhạt hoặc nâu rám đậm, giống những sắc đất. Tóc thường đen, xám hoặc nâu, để dài nhưng theo kiểu đơn giản; người lùn da nhạt thường có tóc đỏ. Nam giới rất coi trọng bộ râu và chăm chút cẩn thận.
 
@@ -125,9 +125,9 @@ Nhân vật người lùn có các năng lực bẩm sinh sau, vốn là một p
 - **Tăng điểm thuộc tính:** Thể chất tăng **2**.
 - **Tuổi:** Trưởng thành về cơ thể cùng tốc độ với con người, nhưng vẫn được coi là trẻ cho đến **50 tuổi**. Tuổi thọ trung bình khoảng **350 năm**.
 - **Khuynh hướng đạo đức:** Phần lớn trọng luật, tin vào lợi ích của xã hội có trật tự. Họ cũng thiên về thiện, có tinh thần công bằng mạnh và tin mọi người xứng đáng chia sẻ lợi ích của trật tự công chính.
-- **Kích cỡ:** Cao **4-5 feet**, nặng trung bình khoảng **150 pounds**. Kích cỡ **Trung bình (Medium)**.
-- **Tốc độ:** Tốc độ đi bộ cơ bản **25 feet**. Mặc giáp nặng không làm giảm tốc độ của bạn.
-- **[Thị giác bóng tối](99-glossary.md#darkvision) (Darkvision):** Quen sống dưới đất, bạn nhìn tốt trong điều kiện tối và ánh sáng yếu. Trong phạm vi **60 feet**, bạn nhìn trong ánh sáng yếu như ánh sáng rõ, và trong bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy các sắc xám, không phân biệt màu.
+- **Kích cỡ:** Cao **1,2–1,5 m (4–5 feet)**, nặng trung bình khoảng **67,5 kg (150 pounds)**. Kích cỡ **Trung bình (Medium)**.
+- **Tốc độ:** Tốc độ đi bộ cơ bản **7,5 m (25 feet)**. Mặc giáp nặng không làm giảm tốc độ của bạn.
+- **[Thị giác bóng tối](99-glossary.md#darkvision) (Darkvision):** Quen sống dưới đất, bạn nhìn tốt trong điều kiện tối và ánh sáng yếu. Trong phạm vi **18 m (60 feet)**, bạn nhìn trong ánh sáng yếu như ánh sáng rõ, và trong bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy các sắc xám, không phân biệt màu.
 - **Sức chịu đựng người lùn (Dwarven Resilience):** Có **[lợi thế](99-glossary.md#advantage)** khi [tung cứu nguy](99-glossary.md#saving-throw) chống độc, và có **[kháng sát thương](99-glossary.md#resistance-immunity) độc (resistance to poison damage)**; xem chương 9.
 - **Huấn luyện chiến đấu người lùn (Dwarven Combat Training):** Thành thạo **rìu chiến, rìu tay, búa nhẹ (light hammer) và búa chiến (warhammer)**.
 - **Thành thạo công cụ (Tool Proficiency):** Chọn thành thạo một bộ công cụ thủ công: **dụng cụ thợ rèn (smith’s tools), dụng cụ nấu bia (brewer’s supplies)** hoặc **dụng cụ thợ xây đá (mason’s tools)**.
@@ -177,7 +177,7 @@ Elf là dân tộc mang phép thuật và vẻ thanh nhã siêu phàm, sống tr
 
 ### Thanh mảnh và duyên dáng (Slender and Graceful)
 
-Với vẻ thanh nhã siêu phàm và đường nét tinh tế, elf đẹp đến ám ảnh trong mắt con người và nhiều chủng tộc. Trung bình họ thấp hơn con người một chút, cao từ thấp hơn nhiều so với **5 feet** đến nhỉnh hơn **6 feet**. Họ thanh mảnh hơn, chỉ nặng **100-145 pounds**. Nam và nữ cao gần như nhau; nam chỉ nặng hơn chút ít.
+Với vẻ thanh nhã siêu phàm và đường nét tinh tế, elf đẹp đến ám ảnh trong mắt con người và nhiều chủng tộc. Trung bình họ thấp hơn con người một chút, cao từ thấp hơn nhiều so với **1,5 m (5 feet)** đến nhỉnh hơn **1,8 m (6 feet)**. Họ thanh mảnh hơn, chỉ nặng **45–65,25 kg (100–145 pound)**. Nam và nữ cao gần như nhau; nam chỉ nặng hơn chút ít.
 
 Màu da, tóc, mắt của elf bao gồm phạm vi thường thấy ở con người, thêm da màu đồng đỏ, đồng thiếc hoặc trắng gần ngả xanh, tóc xanh lá hay xanh dương, mắt như những hồ vàng hoặc bạc lỏng. Họ không có râu và ít lông cơ thể. Họ thích trang phục thanh lịch, màu tươi, và trang sức đơn giản nhưng đẹp.
 
@@ -228,9 +228,9 @@ Nhân vật elf có các năng lực tự nhiên, kết quả của hàng nghìn
 - **Tăng điểm thuộc tính:** [Khéo léo](99-glossary.md#dexterity) tăng **2**.
 - **Tuổi:** Trưởng thành về thể chất gần cùng tuổi với con người, nhưng khái niệm trưởng thành của elf còn gồm kinh nghiệm sống. Elf thường tự nhận trưởng thành, chọn tên người lớn vào khoảng **100 tuổi**, và có thể sống tới **750 tuổi**.
 - **Khuynh hướng đạo đức:** Yêu tự do, đa dạng và tự thể hiện nên thiên mạnh về khía cạnh ôn hòa của hỗn loạn. Họ coi trọng, bảo vệ tự do người khác như của mình và thường thiên thiện.
-- **Kích cỡ:** Cao từ dưới **5** đến trên **6 feet**, thân hình mảnh. Kích cỡ **Trung bình**.
-- **Tốc độ:** Tốc độ đi bộ cơ bản **30 feet**.
-- **Thị giác bóng tối (Darkvision):** Quen rừng chạng vạng và trời đêm, bạn nhìn tốt trong bóng tối, ánh sáng yếu. Trong **60 feet**, nhìn ánh sáng yếu như ánh sáng rõ, bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy sắc xám, không phân biệt màu.
+- **Kích cỡ:** Cao từ dưới **5** đến trên **1,8 m (6 feet)**, thân hình mảnh. Kích cỡ **Trung bình**.
+- **Tốc độ:** Tốc độ đi bộ cơ bản **9 m (30 feet)**.
+- **Thị giác bóng tối (Darkvision):** Quen rừng chạng vạng và trời đêm, bạn nhìn tốt trong bóng tối, ánh sáng yếu. Trong **18 m (60 feet)**, nhìn ánh sáng yếu như ánh sáng rõ, bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy sắc xám, không phân biệt màu.
 - **Giác quan nhạy bén (Keen Senses):** Thành thạo kỹ năng **Tri giác (Perception)**.
 - **Dòng dõi [Fey](99-glossary.md#fey) (Fey Ancestry):** Có **lợi thế** khi tung cứu nguy chống bị **mê hoặc (charmed)**; phép thuật không thể làm bạn ngủ.
 - **Thiền định (Trance):** Elf không cần ngủ. Thay vào đó, họ thiền sâu, vẫn giữ một phần ý thức, **4 giờ mỗi ngày**. Tiếng Chung gọi cách thiền này là “trance”. Khi thiền, bạn có thể mơ theo một cách riêng; thực chất đó là bài tập tinh thần đã thành phản xạ sau nhiều năm luyện tập. Nghỉ như vậy cho lợi ích tương đương **8 giờ ngủ của con người**.
@@ -264,7 +264,7 @@ Da thường màu đồng đỏ, đôi khi pha xanh lá. Tóc thường nâu, đ
 
 - **Tăng điểm thuộc tính:** Minh triết tăng **1**.
 - **Huấn luyện vũ khí elf:** Thành thạo **kiếm dài, kiếm ngắn, cung ngắn và cung dài**.
-- **Chân nhanh (Fleet of Foot):** Tốc độ đi bộ cơ bản tăng thành **35 feet**.
+- **Chân nhanh (Fleet of Foot):** Tốc độ đi bộ cơ bản tăng thành **10,5 m (35 feet)**.
 - **Ẩn mình trong thiên nhiên (Mask of the Wild):** Có thể thử ẩn nấp ngay cả khi chỉ bị **che khuất nhẹ (lightly obscured)** bởi tán lá, mưa lớn, tuyết rơi, sương mù hoặc hiện tượng tự nhiên khác.
 
 > **Bóng tối của drow (The Darkness of the Drow)**
@@ -279,7 +279,7 @@ Da thường màu đồng đỏ, đôi khi pha xanh lá. Tóc thường nâu, đ
 
 *Halfling trân trọng mái ấm, lòng tốt và cơ hội khám phá. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-> Regis, halfling duy nhất trong phạm vi hàng trăm dặm mọi hướng, đan ngón tay sau đầu, ngả lưng vào lớp rêu phủ thân cây. Regis thấp ngay cả theo chuẩn chủng tộc nhỏ bé của mình; mái tóc nâu xoăn bông chỉ vừa chạm mốc ba feet. Nhưng bụng anh khá đầy đặn vì thích một bữa ngon, hoặc nhiều bữa khi có dịp. Chiếc que cong dùng làm cần câu vươn phía trên, kẹp giữa hai ngón chân, chìa ra mặt hồ yên lặng và được phản chiếu hoàn hảo trên mặt nước như gương của Maer Dualdon.
+> Regis, halfling duy nhất trong phạm vi hàng trăm dặm mọi hướng, đan ngón tay sau đầu, ngả lưng vào lớp rêu phủ thân cây. Regis thấp ngay cả theo chuẩn chủng tộc nhỏ bé của mình; mái tóc nâu xoăn bông chỉ vừa chạm mốc 0,9 m (3 feet). Nhưng bụng anh khá đầy đặn vì thích một bữa ngon, hoặc nhiều bữa khi có dịp. Chiếc que cong dùng làm cần câu vươn phía trên, kẹp giữa hai ngón chân, chìa ra mặt hồ yên lặng và được phản chiếu hoàn hảo trên mặt nước như gương của Maer Dualdon.
 >
 > — R. A. Salvatore, *The Crystal Shard*
 
@@ -287,7 +287,7 @@ Sự ấm cúng của mái nhà là mục tiêu đời sống của phần lớn
 
 ### Nhỏ bé và thực tế (Small and Practical)
 
-Halfling sống sót giữa thế giới đầy sinh vật lớn bằng cách tránh bị chú ý, hoặc nếu không được thì tránh gây mất lòng. Cao khoảng **3 feet**, họ có vẻ vô hại nên tồn tại nhiều thế kỷ trong bóng các đế quốc, bên rìa chiến tranh và xung đột chính trị. Họ thường đẫy đà, nặng **40-45 pounds**.
+Halfling sống sót giữa thế giới đầy sinh vật lớn bằng cách tránh bị chú ý, hoặc nếu không được thì tránh gây mất lòng. Cao khoảng **0,9 m (3 feet)**, họ có vẻ vô hại nên tồn tại nhiều thế kỷ trong bóng các đế quốc, bên rìa chiến tranh và xung đột chính trị. Họ thường đẫy đà, nặng **18–20,25 kg (40–45 pound)**.
 
 Da từ rám nắng đến nhạt pha hồng; tóc thường nâu hoặc nâu cát, gợn sóng. Mắt nâu hoặc nâu lục. Nam thường có tóc mai dài, nhưng râu hiếm, ria còn hiếm hơn. Họ thích quần áo đơn giản, thoải mái, thực dụng, ưu tiên màu tươi.
 
@@ -342,8 +342,8 @@ Nhân vật của bạn có các đặc điểm chung của halfling.
 - **Tăng điểm thuộc tính:** Khéo léo tăng **2**.
 - **Tuổi:** Trưởng thành ở **20 tuổi**, thường sống đến khoảng giữa thế kỷ thứ hai của đời mình.
 - **Khuynh hướng đạo đức:** Phần lớn **thiện, trọng luật**. Thường nhân hậu, tốt bụng, ghét thấy người khác đau khổ và không dung thứ áp bức. Họ cũng có trật tự, giữ truyền thống, dựa nhiều vào hỗ trợ cộng đồng và sự an tâm từ nếp sống cũ.
-- **Kích cỡ:** Cao trung bình **3 feet**, nặng khoảng **40 pounds**. Kích cỡ **Nhỏ (Small)**.
-- **Tốc độ:** Tốc độ đi bộ cơ bản **25 feet**.
+- **Kích cỡ:** Cao trung bình **0,9 m (3 feet)**, nặng khoảng **18 kg (40 pounds)**. Kích cỡ **Nhỏ (Small)**.
+- **Tốc độ:** Tốc độ đi bộ cơ bản **7,5 m (25 feet)**.
 - **May mắn (Lucky):** Khi tung [d20](99-glossary.md#dice-notation) ra **1** cho tấn công, kiểm tra thuộc tính hoặc cứu nguy, bạn có thể **tung lại viên đó và phải dùng kết quả mới**.
 - **Can đảm (Brave):** Có **lợi thế** khi tung cứu nguy chống bị **hoảng sợ (frightened)**.
 - **Sự lanh lẹ halfling (Halfling Nimbleness):** Có thể đi xuyên qua không gian của bất kỳ sinh vật nào có kích cỡ lớn hơn mình.
@@ -390,7 +390,7 @@ Theo cách tính của phần lớn thế giới, con người là chủng tộc
 
 ### Một phổ rộng (A Broad Spectrum)
 
-Vì thích di cư, chinh phục, con người đa dạng về thể chất hơn các chủng tộc phổ biến khác. Không có hình mẫu con người điển hình. Một người có thể cao **5 đến nhỉnh hơn 6 feet**, nặng **125-250 pounds**. Da từ gần đen đến rất nhạt, tóc từ đen đến vàng, xoăn lọn, xoăn tít hoặc thẳng; nam có thể có râu thưa hay rậm. Nhiều người mang chút huyết thống phi nhân, để lộ nét elf, orc hoặc dòng dõi khác. Họ trưởng thành vào cuối tuổi thiếu niên, hiếm sống tới một thế kỷ.
+Vì thích di cư, chinh phục, con người đa dạng về thể chất hơn các chủng tộc phổ biến khác. Không có hình mẫu con người điển hình. Một người có thể cao **5 đến nhỉnh hơn 1,8 m (6 feet)**, nặng **56,25–112,5 kg (125–250 pound)**. Da từ gần đen đến rất nhạt, tóc từ đen đến vàng, xoăn lọn, xoăn tít hoặc thẳng; nam có thể có râu thưa hay rậm. Nhiều người mang chút huyết thống phi nhân, để lộ nét elf, orc hoặc dòng dõi khác. Họ trưởng thành vào cuối tuổi thiếu niên, hiếm sống tới một thế kỷ.
 
 ### Đa dạng trong mọi thứ (Variety in All Things)
 
@@ -523,8 +523,8 @@ Khó khái quát về con người, nhưng nhân vật của bạn có những �
 - **Tăng điểm thuộc tính:** **Mỗi điểm trong sáu thuộc tính tăng 1**.
 - **Tuổi:** Trưởng thành vào cuối tuổi thiếu niên, sống dưới một thế kỷ.
 - **Khuynh hướng đạo đức:** Không thiên về khuynh hướng cụ thể. Có cả người tốt nhất và xấu nhất.
-- **Kích cỡ:** Chiều cao, vóc dáng đa dạng, từ vừa **5 feet** đến hơn nhiều so với **6 feet**. Bất kể nằm ở đâu trong khoảng này, kích cỡ là **Trung bình**.
-- **Tốc độ:** Tốc độ đi bộ cơ bản **30 feet**.
+- **Kích cỡ:** Chiều cao, vóc dáng đa dạng, từ vừa **1,5 m (5 feet)** đến hơn nhiều so với **1,8 m (6 feet)**. Bất kể nằm ở đâu trong khoảng này, kích cỡ là **Trung bình**.
+- **Tốc độ:** Tốc độ đi bộ cơ bản **9 m (30 feet)**.
 - **Ngôn ngữ:** Nói, đọc, viết **Tiếng Chung** và **một ngôn ngữ bổ sung tùy chọn**. Con người thường học tiếng các dân tộc giao tiếp cùng, kể cả phương ngữ ít biết. Họ thích xen từ mượn: lời chửi tiếng Orc, cách diễn đạt âm nhạc tiếng Elf, cụm quân sự tiếng Người lùn, v.v.
 
 > **Biến thể đặc điểm con người (Variant Human Traits)**

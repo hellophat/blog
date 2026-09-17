@@ -505,9 +505,9 @@ Các loại nỏ fantasy dựa trên vũ khí cơ khí bắn tên ngắn; “tay
 Đơn vị tiền quy ước của trò chơi. Giá trị không quy đổi trực tiếp sang tiền Việt hay giá vàng ngoài đời.
 
 <a id="feet"></a>
-### Feet và pound trong luật
+### Đơn vị hệ mét và đơn vị gốc
 
-Bản luật dùng đơn vị Anh–Mỹ: 1 foot = 0,3048 m; 1 pound ≈ 0,454 kg. Trên bàn chơi, 5 feet thường tương ứng một ô vuông.
+Bản dịch đặt đơn vị hệ mét trước và giữ đơn vị Anh–Mỹ của luật gốc trong ngoặc. Để các khoảng cách trên lưới dễ dùng, quy ước **0,3 m (1 foot)** và **1,5 m (5 feet)** cho một ô vuông. Các quy đổi thông dụng khác gồm **1,6 km (1 mile)**, **0,45 kg (1 pound)**, **2,5 cm (1 inch)**, **3,8 lít (1 gallon)** và **0,47 lít (1 pint)**. Các giá trị hệ mét được làm tròn để chơi thuận tiện; khi cần phân xử chính xác, trị số gốc trong ngoặc được ưu tiên.
 
 ## Phiêu lưu và chiến đấu
 
@@ -533,7 +533,7 @@ Thứ tự các nhân vật di chuyển trong hành lang hoặc đường hẹp,
 <a id="difficult-terrain"></a>
 ### Địa hình khó (difficult terrain)
 
-Địa hình làm mỗi foot di chuyển tốn thêm một foot; không nhất thiết yêu cầu phép kiểm tra.
+Địa hình làm mỗi 0,3 m (1 foot) di chuyển tốn thêm 0,3 m (1 foot); không nhất thiết yêu cầu phép kiểm tra.
 
 <a id="initiative"></a>
 ### Sáng kiến chiến đấu (initiative)

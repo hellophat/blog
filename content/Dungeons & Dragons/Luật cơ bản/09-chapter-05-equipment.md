@@ -35,7 +35,7 @@ Của cải có thể là tiền, đá quý, hàng trao đổi, tác phẩm ngh�
 
 Tiền xu thông dụng có nhiều mệnh giá tùy giá trị tương đối của kim loại đúc tiền. Ba loại phổ biến nhất là đồng vàng (**gp**), đồng bạc (**sp**) và đồng đồng (**cp**).
 
-Một đồng vàng mua được túi ngủ, 50 [feet](99-glossary.md#feet) dây thừng tốt hoặc một con dê. Thợ thủ công lành nghề nhưng không xuất chúng kiếm được một đồng vàng mỗi ngày. Đồng vàng là đơn vị tiêu chuẩn đo của cải, ngay cả khi bản thân tiền vàng không thường được dùng. Khi thương nhân bàn những giao dịch hàng hóa hoặc dịch vụ trị giá hàng trăm hay hàng nghìn đồng vàng, thường không có việc trao từng đồng xu. Vàng là đơn vị đo giá trị; vật được trao thực tế là thỏi vàng, thư tín dụng hoặc hàng hóa có giá.
+Một đồng vàng mua được túi ngủ, 15 m (50 [feet](99-glossary.md#feet)) dây thừng tốt hoặc một con dê. Thợ thủ công lành nghề nhưng không xuất chúng kiếm được một đồng vàng mỗi ngày. Đồng vàng là đơn vị tiêu chuẩn đo của cải, ngay cả khi bản thân tiền vàng không thường được dùng. Khi thương nhân bàn những giao dịch hàng hóa hoặc dịch vụ trị giá hàng trăm hay hàng nghìn đồng vàng, thường không có việc trao từng đồng xu. Vàng là đơn vị đo giá trị; vật được trao thực tế là thỏi vàng, thư tín dụng hoặc hàng hóa có giá.
 
 Một đồng vàng bằng mười đồng bạc, loại tiền phổ biến nhất trong dân thường. Một đồng bạc trả được nửa ngày lao động, một bình dầu đèn hoặc một đêm nghỉ tại quán trọ nghèo.
 
@@ -43,15 +43,15 @@ Một đồng bạc bằng mười đồng đồng, thông dụng trong giới l
 
 Ngoài ra, những loại tiền hiếm bằng kim loại quý khác đôi khi xuất hiện trong kho báu. Đồng electrum (**ep**) và bạch kim (**pp**) bắt nguồn từ những đế chế đã sụp đổ và vương quốc thất lạc; dùng chúng giao dịch đôi khi gây nghi ngờ và hoài nghi. Một đồng electrum bằng năm đồng bạc; một đồng bạch kim bằng mười đồng vàng.
 
-Một đồng xu tiêu chuẩn nặng khoảng một phần ba ounce, nên 50 đồng nặng một pound.
+Một đồng xu tiêu chuẩn nặng khoảng 9 g (một phần ba ounce), nên 50 đồng nặng 0,45 kg (1 pound).
 
 | Đồng | cp | sp | ep | gp | pp |
-| --- | --- | --- | --- | --- |
+| --- | ---: | ---: | ---: | ---: | ---: |
 | Đồng (cp) | 1 | 1/10 | 1/50 | 1/100 | 1/1.000 |
 | Bạc (sp) | 10 | 1 | 1/5 | 1/10 | 1/100 |
 | Electrum (ep) | 50 | 5 | 1 | 1/2 | 1/20 |
 | Vàng (gp) | 100 | 10 | 2 | 1 | 1/10 |
-| Platinum (pp) | 1.000 | 100 | 20 | 10 | 1 |
+| Bạch kim (pp) | 1.000 | 100 | 20 | 10 | 1 |
 
 ### Bán kho báu (Selling Treasure)
 
@@ -77,7 +77,7 @@ Các thế giới D&D là một tấm thảm rộng lớn dệt từ nhiều n�
 
 **Lớp Giáp ([Armor Class](99-glossary.md#armor-class), AC).** Giáp bảo vệ người mặc trước tấn công. Giáp và khiên bạn dùng xác định AC cơ sở.
 
-**Giáp nặng (Heavy Armor).** Giáp nặng cản trở khả năng di chuyển nhanh, lén lút và tự do. Nếu cột Sức mạnh ghi Str 13 hoặc Str 15, giáp giảm tốc độ người mặc 10 feet, trừ khi điểm Sức mạnh ít nhất bằng số ghi trong bảng.
+**Giáp nặng (Heavy Armor).** Giáp nặng cản trở khả năng di chuyển nhanh, lén lút và tự do. Nếu cột Sức mạnh ghi Str 13 hoặc Str 15, giáp giảm tốc độ người mặc 3 m (10 feet), trừ khi điểm Sức mạnh ít nhất bằng số ghi trong bảng.
 
 **Lén lút (Stealth).** Nếu cột Lén lút ghi Bất lợi, người mặc có bất lợi khi kiểm tra Khéo léo (Lén lút).
 
@@ -86,21 +86,21 @@ Các thế giới D&D là một tấm thảm rộng lớn dệt từ nhiều n�
 | Giáp | Giá | AC | Str | Lén lút | Nặng |
 | --- | --- | --- | --- | --- | --- |
 | **Nhẹ** ||||||
-| Đệm (padded) | 5 gp | 11 + Dex | - | Bất lợi | 8 lb. |
-| Da | 10 gp | 11 + Dex | - | - | 10 lb. |
-| Da đinh tán | 45 gp | 12 + Dex | - | - | 13 lb. |
+| Đệm (padded) | 5 gp | 11 + Dex | - | Bất lợi | 3,6 kg (8 lb.) |
+| Da | 10 gp | 11 + Dex | - | - | 4,5 kg (10 lb.) |
+| Da đinh tán | 45 gp | 12 + Dex | - | - | 5,85 kg (13 lb.) |
 | **Trung bình** ||||||
-| Da thú | 10 gp | 12 + Dex, tối đa 2 | - | - | 12 lb. |
-| Áo xích | 50 gp | 13 + Dex, tối đa 2 | - | - | 20 lb. |
-| Giáp vảy | 50 gp | 14 + Dex, tối đa 2 | - | Bất lợi | 45 lb. |
-| Giáp ngực | 400 gp | 14 + Dex, tối đa 2 | - | - | 20 lb. |
-| Nửa giáp tấm | 750 gp | 15 + Dex, tối đa 2 | - | Bất lợi | 40 lb. |
+| Da thú | 10 gp | 12 + Dex, tối đa 2 | - | - | 5,4 kg (12 lb.) |
+| Áo xích | 50 gp | 13 + Dex, tối đa 2 | - | - | 9 kg (20 lb.) |
+| Giáp vảy | 50 gp | 14 + Dex, tối đa 2 | - | Bất lợi | 20,25 kg (45 lb.) |
+| Giáp ngực | 400 gp | 14 + Dex, tối đa 2 | - | - | 9 kg (20 lb.) |
+| Nửa giáp tấm | 750 gp | 15 + Dex, tối đa 2 | - | Bất lợi | 18 kg (40 lb.) |
 | **Nặng** ||||||
-| Giáp vòng | 30 gp | 14 | - | Bất lợi | 40 lb. |
-| Giáp xích | 75 gp | 16 | 13 | Bất lợi | 55 lb. |
-| Giáp mảnh | 200 gp | 17 | 15 | Bất lợi | 60 lb. |
-| Giáp tấm | 1.500 gp | 18 | 15 | Bất lợi | 65 lb. |
-| Khiên | 10 gp | +2 | - | - | 6 lb. |
+| Giáp vòng | 30 gp | 14 | - | Bất lợi | 18 kg (40 lb.) |
+| Giáp xích | 75 gp | 16 | 13 | Bất lợi | 24,75 kg (55 lb.) |
+| Giáp mảnh | 200 gp | 17 | 15 | Bất lợi | 27 kg (60 lb.) |
+| Giáp tấm | 1.500 gp | 18 | 15 | Bất lợi | 29,25 kg (65 lb.) |
+| Khiên | 10 gp | +2 | - | - | 2,7 kg (6 lb.) |
 
 ### Giáp nhẹ (Light Armor)
 
@@ -165,7 +165,7 @@ Theo biến thể này, khi tìm thấy giáp, quần áo và những vật tư�
 
 Lớp của bạn cho thành thạo một số vũ khí, phản ánh trọng tâm của lớp và những công cụ bạn thường dùng nhất. Dù thích kiếm dài hay cung dài, vũ khí cùng khả năng sử dụng hiệu quả có thể quyết định sống chết khi phiêu lưu.
 
-Bảng Vũ khí liệt kê những vũ khí thông dụng nhất trong thế giới D&D, giá, khối lượng, sát thương khi đánh trúng và các thuộc tính đặc biệt. Mọi vũ khí được xếp là cận chiến hoặc tầm xa. Vũ khí cận chiến dùng tấn công mục tiêu trong 5 feet; vũ khí tầm xa dùng tấn công mục tiêu ở xa.
+Bảng Vũ khí liệt kê những vũ khí thông dụng nhất trong thế giới D&D, giá, khối lượng, sát thương khi đánh trúng và các thuộc tính đặc biệt. Mọi vũ khí được xếp là cận chiến hoặc tầm xa. Vũ khí cận chiến dùng tấn công mục tiêu trong 1,5 m (5 feet); vũ khí tầm xa dùng tấn công mục tiêu ở xa.
 
 ### Thành thạo vũ khí (Weapon Proficiency)
 
@@ -176,46 +176,46 @@ Thành thạo vũ khí cho phép cộng [thưởng thành thạo](99-glossary.md
 | Vũ khí | Giá | Sát thương | Nặng | Thuộc tính |
 | --- | --- | --- | --- | --- |
 | **Đơn giản, cận chiến** |||||
-| Gậy | 1 sp | 1d4 đập | 2 lb. | nhẹ |
-| Dao găm | 2 gp | 1d4 đâm | 1 lb. | tinh xảo, nhẹ, ném 20/60 |
-| Đại chùy | 2 sp | 1d8 đập | 10 lb. | hai tay |
-| Rìu tay | 5 gp | 1d6 chém | 2 lb. | nhẹ, ném 20/60 |
-| Lao | 5 sp | 1d6 đâm | 2 lb. | ném 30/120 |
-| Búa nhẹ | 2 gp | 1d4 đập | 2 lb. | nhẹ, ném 20/60 |
-| Chùy | 5 gp | 1d6 đập | 4 lb. | - |
-| Gậy dài | 2 sp | 1d6 đập | 4 lb. | đa dụng (1d8) |
-| Liềm | 1 gp | 1d4 chém | 2 lb. | nhẹ |
-| Lao dài | 1 gp | 1d6 đâm | 3 lb. | ném 20/60, đa dụng (1d8) |
+| Gậy | 1 sp | 1d4 đập | 0,9 kg (2 lb.) | nhẹ |
+| Dao găm | 2 gp | 1d4 đâm | 0,45 kg (1 lb.) | tinh xảo, nhẹ, ném 6/18 m (20/60 feet) |
+| Đại chùy | 2 sp | 1d8 đập | 4,5 kg (10 lb.) | hai tay |
+| Rìu tay | 5 gp | 1d6 chém | 0,9 kg (2 lb.) | nhẹ, ném 6/18 m (20/60 feet) |
+| Lao | 5 sp | 1d6 đâm | 0,9 kg (2 lb.) | ném 9/36 m (30/120 feet) |
+| Búa nhẹ | 2 gp | 1d4 đập | 0,9 kg (2 lb.) | nhẹ, ném 6/18 m (20/60 feet) |
+| Chùy | 5 gp | 1d6 đập | 1,8 kg (4 lb.) | - |
+| Gậy dài | 2 sp | 1d6 đập | 1,8 kg (4 lb.) | đa dụng (1d8) |
+| Liềm | 1 gp | 1d4 chém | 0,9 kg (2 lb.) | nhẹ |
+| Lao dài | 1 gp | 1d6 đâm | 1,35 kg (3 lb.) | ném 6/18 m (20/60 feet), đa dụng (1d8) |
 | **Đơn giản, tầm xa** |||||
-| Nỏ nhẹ | 25 gp | 1d8 đâm | 5 lb. | đạn 80/320, nạp, hai tay |
-| Phi tiêu | 5 cp | 1d4 đâm | 1/4 lb. | tinh xảo, ném 20/60 |
-| Cung ngắn | 25 gp | 1d6 đâm | 2 lb. | đạn 80/320, hai tay |
+| Nỏ nhẹ | 25 gp | 1d8 đâm | 2,25 kg (5 lb.) | đạn 80/320, nạp, hai tay |
+| Phi tiêu | 5 cp | 1d4 đâm | 0,11 kg (1/4 lb.) | tinh xảo, ném 6/18 m (20/60 feet) |
+| Cung ngắn | 25 gp | 1d6 đâm | 0,9 kg (2 lb.) | đạn 80/320, hai tay |
 | Ná | 1 sp | 1d4 đập | - | đạn 30/120 |
 | **Võ thuật, cận chiến** |||||
-| Rìu chiến | 10 gp | 1d8 chém | 4 lb. | đa dụng (1d10) |
-| Chùy xích | 10 gp | 1d8 đập | 2 lb. | - |
-| Glaive | 20 gp | 1d10 chém | 6 lb. | nặng, với, hai tay |
-| Đại rìu | 30 gp | 1d12 chém | 7 lb. | nặng, hai tay |
-| Đại kiếm | 50 gp | 2d6 chém | 6 lb. | nặng, hai tay |
-| Halberd | 20 gp | 1d10 chém | 6 lb. | nặng, với, hai tay |
-| Thương kỵ | 10 gp | 1d12 đâm | 6 lb. | với, đặc biệt |
-| Kiếm dài | 15 gp | 1d8 chém | 3 lb. | đa dụng (1d10) |
-| Búa tạ | 10 gp | 2d6 đập | 10 lb. | nặng, hai tay |
-| Chùy gai | 15 gp | 1d8 đâm | 4 lb. | - |
-| Giáo dài | 5 gp | 1d10 đâm | 18 lb. | nặng, với, hai tay |
-| Rapier | 25 gp | 1d8 đâm | 2 lb. | tinh xảo |
-| Scimitar | 25 gp | 1d6 chém | 3 lb. | tinh xảo, nhẹ |
-| Kiếm ngắn | 10 gp | 1d6 đâm | 2 lb. | tinh xảo, nhẹ |
-| Đinh ba | 5 gp | 1d6 đâm | 4 lb. | ném 20/60, đa dụng (1d8) |
-| Cuốc chiến | 5 gp | 1d8 đâm | 2 lb. | - |
-| Búa chiến | 15 gp | 1d8 đập | 2 lb. | đa dụng (1d10) |
-| Roi | 2 gp | 1d4 chém | 3 lb. | tinh xảo, với |
+| Rìu chiến | 10 gp | 1d8 chém | 1,8 kg (4 lb.) | đa dụng (1d10) |
+| Chùy xích | 10 gp | 1d8 đập | 0,9 kg (2 lb.) | - |
+| Glaive | 20 gp | 1d10 chém | 2,7 kg (6 lb.) | nặng, với, hai tay |
+| Đại rìu | 30 gp | 1d12 chém | 3,15 kg (7 lb.) | nặng, hai tay |
+| Đại kiếm | 50 gp | 2d6 chém | 2,7 kg (6 lb.) | nặng, hai tay |
+| Halberd | 20 gp | 1d10 chém | 2,7 kg (6 lb.) | nặng, với, hai tay |
+| Thương kỵ | 10 gp | 1d12 đâm | 2,7 kg (6 lb.) | với, đặc biệt |
+| Kiếm dài | 15 gp | 1d8 chém | 1,35 kg (3 lb.) | đa dụng (1d10) |
+| Búa tạ | 10 gp | 2d6 đập | 4,5 kg (10 lb.) | nặng, hai tay |
+| Chùy gai | 15 gp | 1d8 đâm | 1,8 kg (4 lb.) | - |
+| Giáo dài | 5 gp | 1d10 đâm | 8,1 kg (18 lb.) | nặng, với, hai tay |
+| Rapier | 25 gp | 1d8 đâm | 0,9 kg (2 lb.) | tinh xảo |
+| Scimitar | 25 gp | 1d6 chém | 1,35 kg (3 lb.) | tinh xảo, nhẹ |
+| Kiếm ngắn | 10 gp | 1d6 đâm | 0,9 kg (2 lb.) | tinh xảo, nhẹ |
+| Đinh ba | 5 gp | 1d6 đâm | 1,8 kg (4 lb.) | ném 6/18 m (20/60 feet), đa dụng (1d8) |
+| Cuốc chiến | 5 gp | 1d8 đâm | 0,9 kg (2 lb.) | - |
+| Búa chiến | 15 gp | 1d8 đập | 0,9 kg (2 lb.) | đa dụng (1d10) |
+| Roi | 2 gp | 1d4 chém | 1,35 kg (3 lb.) | tinh xảo, với |
 | **Võ thuật, tầm xa** |||||
-| Ống thổi | 10 gp | 1 đâm | 1 lb. | đạn 25/100, nạp |
-| Nỏ tay | 75 gp | 1d6 đâm | 3 lb. | đạn 30/120, nhẹ, nạp |
-| Nỏ nặng | 50 gp | 1d10 đâm | 18 lb. | đạn 100/400, nặng, nạp, hai tay |
-| Cung dài | 50 gp | 1d8 đâm | 2 lb. | đạn 150/600, nặng, hai tay |
-| Lưới | 1 gp | - | 3 lb. | đặc biệt, ném 5/15 |
+| Ống thổi | 10 gp | 1 đâm | 0,45 kg (1 lb.) | đạn 25/100, nạp |
+| Nỏ tay | 75 gp | 1d6 đâm | 1,35 kg (3 lb.) | đạn 30/120, nhẹ, nạp |
+| Nỏ nặng | 50 gp | 1d10 đâm | 8,1 kg (18 lb.) | đạn 100/400, nặng, nạp, hai tay |
+| Cung dài | 50 gp | 1d8 đâm | 0,9 kg (2 lb.) | đạn 150/600, nặng, hai tay |
+| Lưới | 1 gp | - | 1,35 kg (3 lb.) | đặc biệt, ném 1,5/4,5 m (5/15 feet) |
 
 ### Thuộc tính vũ khí (Weapon Properties)
 
@@ -231,9 +231,9 @@ Nhiều vũ khí có những thuộc tính đặc biệt liên quan đến cách
 
 **Nạp (Loading).** Vì thời gian nạp, bạn chỉ có thể bắn một viên đạn khi dùng hành động, [hành động phụ](99-glossary.md#action) hoặc phản ứng để bắn vũ khí này, bất kể bình thường được tấn công bao nhiêu lần.
 
-**Tầm (Range).** Vũ khí dùng tấn công tầm xa có tầm ghi trong ngoặc sau thuộc tính đạn dược hoặc ném. Số thứ nhất là tầm thường tính bằng feet, số thứ hai là tầm xa. Tấn công mục tiêu ngoài tầm thường có bất lợi khi tung tấn công. Không thể tấn công mục tiêu ngoài tầm xa.
+**Tầm (Range).** Vũ khí dùng tấn công tầm xa có tầm ghi trong ngoặc sau thuộc tính đạn dược hoặc ném. Số thứ nhất là tầm thường tính bằng mét, số thứ hai là tầm xa; trị số feet gốc được giữ trong ngoặc. Tấn công mục tiêu ngoài tầm thường có bất lợi khi tung tấn công. Không thể tấn công mục tiêu ngoài tầm xa.
 
-**Tầm với (Reach).** Vũ khí tăng [tầm với](99-glossary.md#reach) của bạn thêm 5 feet khi tấn công bằng nó, và khi xác định tầm với cho đòn [tấn công cơ hội](99-glossary.md#opportunity-attack) bằng nó (xem Chương 9).
+**Tầm với (Reach).** Vũ khí tăng [tầm với](99-glossary.md#reach) của bạn thêm 1,5 m (5 feet) khi tấn công bằng nó, và khi xác định tầm với cho đòn [tấn công cơ hội](99-glossary.md#opportunity-attack) bằng nó (xem Chương 9).
 
 **Đặc biệt (Special).** Vũ khí có những quy tắc sử dụng khác thường, giải thích trong mô tả của nó ở mục Vũ khí đặc biệt bên dưới.
 
@@ -249,7 +249,7 @@ Nhiều vũ khí có những thuộc tính đặc biệt liên quan đến cách
 
 Trong nhiều trường hợp, vật ứng biến giống một vũ khí thật và có thể được coi như vũ khí ấy. Ví dụ, chân bàn giống gậy. Theo quyết định của DM, nhân vật thành thạo một vũ khí có thể dùng vật tương tự như vũ khí ấy và cộng thưởng thành thạo.
 
-Vật không giống vũ khí nào gây 1d4 sát thương; DM chọn loại sát thương phù hợp. Dùng vũ khí tầm xa tấn công cận chiến hoặc ném vũ khí cận chiến không có thuộc tính ném cũng gây 1d4 sát thương. Vũ khí ứng biến ném có tầm thường 20 feet, tầm xa 60 feet.
+Vật không giống vũ khí nào gây 1d4 sát thương; DM chọn loại sát thương phù hợp. Dùng vũ khí tầm xa tấn công cận chiến hoặc ném vũ khí cận chiến không có thuộc tính ném cũng gây 1d4 sát thương. Vũ khí ứng biến ném có tầm thường 6 m (20 feet), tầm xa 18 m (60 feet).
 
 ### Vũ khí mạ bạc (Silvered Weapons)
 
@@ -259,7 +259,7 @@ Một số quái vật miễn nhiễm hoặc kháng vũ khí phi ma thuật lạ
 
 Những vũ khí có quy tắc riêng được mô tả ở đây.
 
-**Thương kỵ (Lance).** Bạn có bất lợi khi dùng thương kỵ tấn công mục tiêu trong 5 feet. Khi không cưỡi thú, cần hai tay để sử dụng.
+**Thương kỵ (Lance).** Bạn có bất lợi khi dùng thương kỵ tấn công mục tiêu trong 1,5 m (5 feet). Khi không cưỡi thú, cần hai tay để sử dụng.
 
 **Lưới (Net).** Sinh vật Lớn hoặc nhỏ hơn bị lưới đánh trúng sẽ bị kiềm chế đến khi được giải thoát. Lưới không tác dụng với sinh vật không có hình dạng hoặc sinh vật Khổng lồ (Huge) trở lên. Sinh vật có thể dùng hành động kiểm tra Sức mạnh [DC](99-glossary.md#difficulty-class) 10; thành công giải thoát bản thân hoặc sinh vật khác trong tầm với. Gây 5 [sát thương chém](99-glossary.md#damage-types) vào lưới (AC 10) cũng giải thoát sinh vật mà không làm hại nó, chấm dứt hiệu ứng và phá hủy lưới. Khi dùng hành động, hành động phụ hoặc phản ứng để tấn công bằng lưới, bạn chỉ được thực hiện một đòn, bất kể bình thường được tấn công bao nhiêu lần.
 
@@ -269,129 +269,129 @@ Những vũ khí có quy tắc riêng được mô tả ở đây.
 
 *Dụng cụ, ánh sáng, lương thực và vật tư thường quyết định một đoàn thám hiểm có thể đi xa đến đâu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên từ nguồn; khối lượng dùng pound (lb.), chiều dài dùng feet.
+Giá và khối lượng dựa trên bảng gốc ở trang 50. Dấu — giữ nguyên từ nguồn; khối lượng được trình bày bằng kilôgam trước pound (lb.), còn chiều dài được trình bày bằng mét trước feet.
 
 | Vật phẩm | Giá | Khối lượng |
 | --- | --- | --- |
-| Bàn tính (Abacus) | 2 gp | 2 lb. |
-| Axit (lọ) | 25 gp | 1 lb. |
-| Lửa giả kim (bình) | 50 gp | 1 lb. |
+| Bàn tính (Abacus) | 2 gp | 0,9 kg (2 lb.) |
+| Axit (lọ) | 25 gp | 0,45 kg (1 lb.) |
+| Lửa giả kim (bình) | 50 gp | 0,45 kg (1 lb.) |
 | **Đạn dược** | | |
-| Mũi tên (20) | 1 gp | 1 lb. |
-| Kim ống thổi (50) | 1 gp | 1 lb. |
-| Tên nỏ (20) | 1 gp | 1½ lb. |
-| Đạn ná (20) | 4 cp | 1½ lb. |
+| Mũi tên (20) | 1 gp | 0,45 kg (1 lb.) |
+| Kim ống thổi (50) | 1 gp | 0,45 kg (1 lb.) |
+| Tên nỏ (20) | 1 gp | 0,68 kg (1½ lb.) |
+| Đạn ná (20) | 4 cp | 0,68 kg (1½ lb.) |
 | Thuốc chống độc (lọ) | 50 gp | — |
 | **Vật hội tụ [huyền thuật](99-glossary.md#arcane-divine)** | | |
-| Pha lê | 10 gp | 1 lb. |
-| Quả cầu | 20 gp | 3 lb. |
-| Đoản trượng (Rod) | 10 gp | 2 lb. |
-| Trượng (Staff) | 5 gp | 4 lb. |
-| Đũa phép (Wand) | 10 gp | 1 lb. |
-| Ba lô | 2 gp | 5 lb. |
-| Bi sắt (túi 1.000 viên) | 1 gp | 2 lb. |
-| Thùng phuy | 2 gp | 70 lb. |
-| Giỏ | 4 sp | 2 lb. |
-| Túi ngủ | 1 gp | 7 lb. |
+| Pha lê | 10 gp | 0,45 kg (1 lb.) |
+| Quả cầu | 20 gp | 1,35 kg (3 lb.) |
+| Đoản trượng (Rod) | 10 gp | 0,9 kg (2 lb.) |
+| Trượng (Staff) | 5 gp | 1,8 kg (4 lb.) |
+| Đũa phép (Wand) | 10 gp | 0,45 kg (1 lb.) |
+| Ba lô | 2 gp | 2,25 kg (5 lb.) |
+| Bi sắt (túi 1.000 viên) | 1 gp | 0,9 kg (2 lb.) |
+| Thùng phuy | 2 gp | 31,5 kg (70 lb.) |
+| Giỏ | 4 sp | 0,9 kg (2 lb.) |
+| Túi ngủ | 1 gp | 3,15 kg (7 lb.) |
 | Chuông | 1 gp | — |
-| Chăn | 5 sp | 3 lb. |
-| Bộ ròng rọc | 1 gp | 5 lb. |
-| Sách | 25 gp | 5 lb. |
-| Chai thủy tinh | 2 gp | 2 lb. |
-| Xô | 5 cp | 2 lb. |
-| Chông sắt (túi 20 chiếc) | 1 gp | 2 lb. |
+| Chăn | 5 sp | 1,35 kg (3 lb.) |
+| Bộ ròng rọc | 1 gp | 2,25 kg (5 lb.) |
+| Sách | 25 gp | 2,25 kg (5 lb.) |
+| Chai thủy tinh | 2 gp | 0,9 kg (2 lb.) |
+| Xô | 5 cp | 0,9 kg (2 lb.) |
+| Chông sắt (túi 20 chiếc) | 1 gp | 0,9 kg (2 lb.) |
 | Nến | 1 cp | — |
-| Hộp đựng tên nỏ | 1 gp | 1 lb. |
-| Ống đựng bản đồ hoặc cuộn giấy | 1 gp | 1 lb. |
-| Xích (10 feet) | 5 gp | 10 lb. |
+| Hộp đựng tên nỏ | 1 gp | 0,45 kg (1 lb.) |
+| Ống đựng bản đồ hoặc cuộn giấy | 1 gp | 0,45 kg (1 lb.) |
+| Xích (3 m (10 feet)) | 5 gp | 4,5 kg (10 lb.) |
 | Phấn (1 viên) | 1 cp | — |
-| Rương | 5 gp | 25 lb. |
-| Bộ dụng cụ leo trèo | 25 gp | 12 lb. |
-| Quần áo thường | 5 sp | 3 lb. |
-| Trang phục hóa trang | 5 gp | 4 lb. |
-| Quần áo sang trọng | 15 gp | 6 lb. |
-| Quần áo lữ hành | 2 gp | 4 lb. |
-| Túi thành phần phép | 25 gp | 2 lb. |
-| Xà beng | 2 gp | 5 lb. |
+| Rương | 5 gp | 11,25 kg (25 lb.) |
+| Bộ dụng cụ leo trèo | 25 gp | 5,4 kg (12 lb.) |
+| Quần áo thường | 5 sp | 1,35 kg (3 lb.) |
+| Trang phục hóa trang | 5 gp | 1,8 kg (4 lb.) |
+| Quần áo sang trọng | 15 gp | 2,7 kg (6 lb.) |
+| Quần áo lữ hành | 2 gp | 1,8 kg (4 lb.) |
+| Túi thành phần phép | 25 gp | 0,9 kg (2 lb.) |
+| Xà beng | 2 gp | 2,25 kg (5 lb.) |
 | **Vật hội tụ [druid](99-glossary.md#druid)** | | |
 | Nhánh tầm gửi | 1 gp | — |
 | Vật tổ | 1 gp | — |
-| Trượng gỗ | 5 gp | 4 lb. |
-| Đũa phép gỗ thủy tùng | 10 gp | 1 lb. |
-| Bộ đồ câu cá | 1 gp | 4 lb. |
-| Bình hoặc ca uống | 2 cp | 1 lb. |
-| Móc leo | 2 gp | 4 lb. |
-| Búa | 1 gp | 3 lb. |
-| Búa tạ | 2 gp | 10 lb. |
-| Bộ dụng cụ chữa trị | 5 gp | 3 lb. |
+| Trượng gỗ | 5 gp | 1,8 kg (4 lb.) |
+| Đũa phép gỗ thủy tùng | 10 gp | 0,45 kg (1 lb.) |
+| Bộ đồ câu cá | 1 gp | 1,8 kg (4 lb.) |
+| Bình hoặc ca uống | 2 cp | 0,45 kg (1 lb.) |
+| Móc leo | 2 gp | 1,8 kg (4 lb.) |
+| Búa | 1 gp | 1,35 kg (3 lb.) |
+| Búa tạ | 2 gp | 4,5 kg (10 lb.) |
+| Bộ dụng cụ chữa trị | 5 gp | 1,35 kg (3 lb.) |
 | **Thánh biểu** | | |
-| Bùa đeo | 5 gp | 1 lb. |
+| Bùa đeo | 5 gp | 0,45 kg (1 lb.) |
 | Biểu tượng | 5 gp | — |
-| Hộp thánh tích | 5 gp | 2 lb. |
-| Nước thánh (bình) | 25 gp | 1 lb. |
-| Đồng hồ cát | 25 gp | 1 lb. |
-| Bẫy săn | 5 gp | 25 lb. |
-| Mực (chai 1 ounce) | 10 gp | — |
+| Hộp thánh tích | 5 gp | 0,9 kg (2 lb.) |
+| Nước thánh (bình) | 25 gp | 0,45 kg (1 lb.) |
+| Đồng hồ cát | 25 gp | 0,45 kg (1 lb.) |
+| Bẫy săn | 5 gp | 11,25 kg (25 lb.) |
+| Mực (chai 30 ml (1 fluid ounce)) | 10 gp | — |
 | Bút mực | 2 cp | — |
-| Bình hoặc vò rót | 2 cp | 4 lb. |
-| Thang (10 feet) | 1 sp | 25 lb. |
-| Đèn dầu | 5 sp | 1 lb. |
-| Đèn lồng chiếu điểm | 10 gp | 2 lb. |
-| Đèn lồng có chụp | 5 gp | 2 lb. |
-| Khóa | 10 gp | 1 lb. |
+| Bình hoặc vò rót | 2 cp | 1,8 kg (4 lb.) |
+| Thang (3 m (10 feet)) | 1 sp | 11,25 kg (25 lb.) |
+| Đèn dầu | 5 sp | 0,45 kg (1 lb.) |
+| Đèn lồng chiếu điểm | 10 gp | 0,9 kg (2 lb.) |
+| Đèn lồng có chụp | 5 gp | 0,9 kg (2 lb.) |
+| Khóa | 10 gp | 0,45 kg (1 lb.) |
 | Kính lúp | 100 gp | — |
-| Còng | 2 gp | 6 lb. |
-| Bộ đồ ăn | 2 sp | 1 lb. |
-| Gương thép | 5 gp | ½ lb. |
-| Dầu (bình) | 1 sp | 1 lb. |
+| Còng | 2 gp | 2,7 kg (6 lb.) |
+| Bộ đồ ăn | 2 sp | 0,45 kg (1 lb.) |
+| Gương thép | 5 gp | 0,22 kg (½ lb.) |
+| Dầu (bình) | 1 sp | 0,45 kg (1 lb.) |
 | Giấy (1 tờ) | 2 sp | — |
 | Giấy da (1 tờ) | 1 sp | — |
 | Nước hoa (lọ) | 5 gp | — |
-| Cuốc thợ mỏ | 2 gp | 10 lb. |
-| Đinh leo núi | 5 cp | ¼ lb. |
+| Cuốc thợ mỏ | 2 gp | 4,5 kg (10 lb.) |
+| Đinh leo núi | 5 cp | 0,11 kg (¼ lb.) |
 | Độc cơ bản (lọ) | 100 gp | — |
-| Sào (10 feet) | 5 cp | 7 lb. |
-| Nồi sắt | 2 gp | 10 lb. |
-| Thuốc chữa lành | 50 gp | ½ lb. |
-| Túi nhỏ | 5 sp | 1 lb. |
-| Bao tên | 1 gp | 1 lb. |
-| Đòn phá cửa di động | 4 gp | 35 lb. |
-| Khẩu phần (1 ngày) | 5 sp | 2 lb. |
-| Áo choàng dài | 1 gp | 4 lb. |
-| Dây thừng gai dầu (50 feet) | 1 gp | 10 lb. |
-| Dây thừng lụa (50 feet) | 10 gp | 5 lb. |
-| Bao tải | 1 cp | ½ lb. |
-| Cân thương nhân | 5 gp | 3 lb. |
+| Sào (3 m (10 feet)) | 5 cp | 3,15 kg (7 lb.) |
+| Nồi sắt | 2 gp | 4,5 kg (10 lb.) |
+| Thuốc chữa lành | 50 gp | 0,22 kg (½ lb.) |
+| Túi nhỏ | 5 sp | 0,45 kg (1 lb.) |
+| Bao tên | 1 gp | 0,45 kg (1 lb.) |
+| Đòn phá cửa di động | 4 gp | 15,75 kg (35 lb.) |
+| Khẩu phần (1 ngày) | 5 sp | 0,9 kg (2 lb.) |
+| Áo choàng dài | 1 gp | 1,8 kg (4 lb.) |
+| Dây thừng gai dầu (15 m (50 feet)) | 1 gp | 4,5 kg (10 lb.) |
+| Dây thừng lụa (15 m (50 feet)) | 10 gp | 2,25 kg (5 lb.) |
+| Bao tải | 1 cp | 0,22 kg (½ lb.) |
+| Cân thương nhân | 5 gp | 1,35 kg (3 lb.) |
 | Sáp niêm phong | 5 sp | — |
-| Xẻng | 2 gp | 5 lb. |
+| Xẻng | 2 gp | 2,25 kg (5 lb.) |
 | Còi hiệu | 5 cp | — |
 | Nhẫn ấn | 5 gp | — |
 | Xà phòng | 2 cp | — |
-| [Sách phép](99-glossary.md#spellbook) | 50 gp | 3 lb. |
-| Cọc sắt (10) | 1 gp | 5 lb. |
-| Kính viễn vọng | 1.000 gp | 1 lb. |
-| Lều hai người | 2 gp | 20 lb. |
-| Hộp nhóm lửa | 5 sp | 1 lb. |
-| Đuốc | 1 cp | 1 lb. |
+| [Sách phép](99-glossary.md#spellbook) | 50 gp | 1,35 kg (3 lb.) |
+| Cọc sắt (10) | 1 gp | 2,25 kg (5 lb.) |
+| Kính viễn vọng | 1.000 gp | 0,45 kg (1 lb.) |
+| Lều hai người | 2 gp | 9 kg (20 lb.) |
+| Hộp nhóm lửa | 5 sp | 0,45 kg (1 lb.) |
+| Đuốc | 1 cp | 0,45 kg (1 lb.) |
 | Lọ nhỏ | 1 gp | — |
-| Túi da đựng nước | 2 sp | 5 lb. (đầy) |
-| Đá mài | 1 cp | 1 lb. |
+| Túi da đựng nước | 2 sp | 2,25 kg (5 lb.) (đầy) |
+| Đá mài | 1 cp | 0,45 kg (1 lb.) |
 
 ### Đồ phiêu lưu: quy tắc đặc biệt
 
-- **Axit:** Bằng một hành động, bạn có thể té chất trong lọ lên một sinh vật hoặc đồ vật trong 5 feet, hoặc ném lọ đến tối đa 20 feet để lọ vỡ khi va chạm. Trong cả hai trường hợp, thực hiện một đòn tấn công tầm xa vào sinh vật hoặc đồ vật mục tiêu, coi axit là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 2d6 sát thương axit.
-- **Lửa giả kim (Alchemist’s Fire):** Chất lỏng dính này bốc cháy khi tiếp xúc không khí. Bằng một hành động, bạn có thể ném bình tối đa 20 feet; bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống một sinh vật hoặc vật thể, coi lửa giả kim là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 1d4 sát thương lửa vào đầu mỗi lượt của mình. Sinh vật có thể chấm dứt sát thương bằng cách dùng hành động kiểm tra Khéo léo DC 10 để dập lửa.
+- **Axit:** Bằng một hành động, bạn có thể té chất trong lọ lên một sinh vật hoặc đồ vật trong 1,5 m (5 feet), hoặc ném lọ đến tối đa 6 m (20 feet) để lọ vỡ khi va chạm. Trong cả hai trường hợp, thực hiện một đòn tấn công tầm xa vào sinh vật hoặc đồ vật mục tiêu, coi axit là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 2d6 sát thương axit.
+- **Lửa giả kim (Alchemist’s Fire):** Chất lỏng dính này bốc cháy khi tiếp xúc không khí. Bằng một hành động, bạn có thể ném bình tối đa 6 m (20 feet); bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống một sinh vật hoặc vật thể, coi lửa giả kim là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 1d4 sát thương lửa vào đầu mỗi lượt của mình. Sinh vật có thể chấm dứt sát thương bằng cách dùng hành động kiểm tra Khéo léo DC 10 để dập lửa.
 - **Thuốc chống độc:** uống để có [lợi thế](99-glossary.md#advantage) cứu nguy chống độc trong 1 giờ; không lợi cho [xác sống](99-glossary.md#undead)/[cấu thể](99-glossary.md#construct).
 - **Tiêu điểm huyền thuật:** Đây là một vật phẩm đặc biệt — quả cầu, tinh thể, quyền trượng, gậy được chế tạo đặc biệt, vật bằng gỗ dài như đũa phép hoặc vật tương tự — được thiết kế để dẫn truyền quyền năng của phép huyền thuật. Sorcerer, [warlock](99-glossary.md#warlock) hoặc wizard có thể dùng vật này làm [tiêu điểm thi triển phép](99-glossary.md#spellcasting-focus), như mô tả ở chương 10.
-- **Bi kim loại:** Bằng một hành động, bạn có thể đổ những viên bi kim loại nhỏ khỏi túi, phủ một khu vực vuông bằng phẳng có cạnh 10 feet. Sinh vật đi qua khu vực ấy phải thành công cứu nguy Khéo léo DC 10 hoặc ngã sấp. Sinh vật đi qua với nửa tốc độ không cần thực hiện cứu nguy.
+- **Bi kim loại:** Bằng một hành động, bạn có thể đổ những viên bi kim loại nhỏ khỏi túi, phủ một khu vực vuông bằng phẳng có cạnh 3 m (10 feet). Sinh vật đi qua khu vực ấy phải thành công cứu nguy Khéo léo DC 10 hoặc ngã sấp. Sinh vật đi qua với nửa tốc độ không cần thực hiện cứu nguy.
 - **Bộ ròng rọc:** Gồm các ròng rọc có dây cáp luồn qua và móc để gắn vào vật, bộ này cho phép bạn kéo nâng khối lượng tối đa bằng bốn lần khối lượng bình thường mình nâng được.
 - **Sách:** Sách có thể chứa thơ, tường thuật lịch sử, thông tin về một lĩnh vực tri thức, sơ đồ và ghi chú về những máy móc của gnome, hoặc gần như bất kỳ điều gì có thể biểu đạt bằng chữ hay hình. Sách ghi phép là sách phép, được mô tả ở phần sau.
-- **Caltrop:** hành động rải một túi phủ ô 5 feet; sinh vật vào phải cứu nguy Dex DC 15, thất bại dừng và chịu 1 đâm. Đến khi hồi ít nhất 1 [HP](99-glossary.md#hit-points), tốc độ đi bộ giảm 10 feet. Đi nửa tốc độ không cần tung.
-- **Nến:** 1 giờ, sáng rõ 5 feet và sáng yếu thêm 5 feet.
+- **Caltrop:** hành động rải một túi phủ ô 1,5 m (5 feet); sinh vật vào phải cứu nguy Dex DC 15, thất bại dừng và chịu 1 đâm. Đến khi hồi ít nhất 1 [HP](99-glossary.md#hit-points), tốc độ đi bộ giảm 3 m (10 feet). Đi nửa tốc độ không cần tung.
+- **Nến:** 1 giờ, sáng rõ 1,5 m (5 feet) và sáng yếu thêm 1,5 m (5 feet).
 - **Hộp đựng tên nỏ:** Hộp gỗ này chứa được tối đa 20 tên nỏ.
 - **Ống đựng bản đồ hoặc cuộn giấy:** Ống da hình trụ này chứa được tối đa 10 tờ giấy cuộn hoặc 5 tờ giấy da cuộn.
 - **Xích:** 10 HP; kiểm tra Str DC 20 để bứt.
-- **Bộ leo núi:** gồm đinh leo núi, đinh gắn giày, găng tay và đai an toàn. Bạn có thể dùng bộ này bằng một hành động để neo bản thân; khi làm vậy, bạn không thể rơi quá 25 feet tính từ điểm neo, và không thể leo ra xa điểm ấy quá 25 feet nếu chưa tháo neo.
+- **Bộ leo núi:** gồm đinh leo núi, đinh gắn giày, găng tay và đai an toàn. Bạn có thể dùng bộ này bằng một hành động để neo bản thân; khi làm vậy, bạn không thể rơi quá 7,5 m (25 feet) tính từ điểm neo, và không thể leo ra xa điểm ấy quá 7,5 m (25 feet) nếu chưa tháo neo.
 
 ### Đồ phiêu lưu: mô tả tiếp theo
 
@@ -407,15 +407,15 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Thánh vật:** Vật đại diện cho một vị thần hoặc điện thần. Nó có thể là bùa mang biểu tượng đại diện cho vị thần, biểu tượng ấy được khắc hoặc khảm cẩn thận làm huy hiệu trên khiên, hoặc một hộp nhỏ chứa mảnh thánh tích. *Player’s Handbook* liệt kê nhiều vị thần trong [đa vũ trụ](99-glossary.md#multiverse) cùng các biểu tượng điển hình của họ. Giáo sĩ hoặc [thánh kỵ sĩ](99-glossary.md#paladin) có thể dùng thánh vật làm tiêu điểm thi triển phép, như mô tả ở chương 10. Để dùng theo cách này, người thi triển phải cầm nó trong tay, đeo nó ở nơi nhìn thấy rõ, hoặc mang nó trên khiên.
 
-**Nước thánh:** hành động té trong 5 feet hoặc ném 20 feet; tấn công tầm xa như vũ khí ứng biến. Fiend hoặc xác sống bị trúng chịu **2d6 sát thương quang năng**. Giáo sĩ/thánh kỵ sĩ tạo bằng [nghi thức](99-glossary.md#ritual) 1 giờ, bột bạc giá 25 gp và một [ô phép](99-glossary.md#spell-slot) bậc 1.
+**Nước thánh:** hành động té trong 1,5 m (5 feet) hoặc ném 6 m (20 feet); tấn công tầm xa như vũ khí ứng biến. Fiend hoặc xác sống bị trúng chịu **2d6 sát thương quang năng**. Giáo sĩ/thánh kỵ sĩ tạo bằng [nghi thức](99-glossary.md#ritual) 1 giờ, bột bạc giá 25 gp và một [ô phép](99-glossary.md#spell-slot) bậc 1.
 
-**Bẫy săn:** Khi bạn dùng một hành động để đặt bẫy, nó tạo thành vòng thép có răng cưa, sập lại khi một sinh vật giẫm lên bàn áp lực ở giữa. Bẫy được buộc bằng xích nặng vào một vật không di chuyển được, như cây hoặc cọc đóng xuống đất. Sinh vật giẫm lên bàn áp lực phải thành công cứu nguy Khéo léo DC 13, nếu không sẽ chịu 1d4 sát thương đâm và ngừng di chuyển. Từ đó đến khi thoát bẫy, di chuyển của nó bị giới hạn bởi chiều dài xích, thường là 3 feet. Một sinh vật có thể dùng hành động để thực hiện kiểm tra Sức mạnh DC 13; nếu thành công, nó giải thoát bản thân hoặc một sinh vật khác trong tầm với. Mỗi lần kiểm tra thất bại gây 1 sát thương đâm cho sinh vật mắc bẫy.
+**Bẫy săn:** Khi bạn dùng một hành động để đặt bẫy, nó tạo thành vòng thép có răng cưa, sập lại khi một sinh vật giẫm lên bàn áp lực ở giữa. Bẫy được buộc bằng xích nặng vào một vật không di chuyển được, như cây hoặc cọc đóng xuống đất. Sinh vật giẫm lên bàn áp lực phải thành công cứu nguy Khéo léo DC 13, nếu không sẽ chịu 1d4 sát thương đâm và ngừng di chuyển. Từ đó đến khi thoát bẫy, di chuyển của nó bị giới hạn bởi chiều dài xích, thường là 0,9 m (3 feet). Một sinh vật có thể dùng hành động để thực hiện kiểm tra Sức mạnh DC 13; nếu thành công, nó giải thoát bản thân hoặc một sinh vật khác trong tầm với. Mỗi lần kiểm tra thất bại gây 1 sát thương đâm cho sinh vật mắc bẫy.
 
-**Đèn dầu:** Đèn chiếu sáng rõ trong bán kính 15 feet và sáng yếu thêm 30 feet. Sau khi thắp, đèn cháy 6 giờ với một lọ dầu (1 pint).
+**Đèn dầu:** Đèn chiếu sáng rõ trong bán kính 4,5 m (15 feet) và sáng yếu thêm 9 m (30 feet). Sau khi thắp, đèn cháy 6 giờ với một lọ dầu 0,47 lít (1 pint).
 
-**Đèn chụp:** Đèn chiếu sáng rõ trong bán kính 30 feet và sáng yếu thêm 30 feet. Sau khi thắp, đèn cháy 6 giờ với một lọ dầu (1 pint). Bằng một hành động, bạn có thể hạ chụp, khiến đèn chỉ còn chiếu sáng yếu trong bán kính 5 feet.
+**Đèn chụp:** Đèn chiếu sáng rõ trong bán kính 9 m (30 feet) và sáng yếu thêm 9 m (30 feet). Sau khi thắp, đèn cháy 6 giờ với một lọ dầu 0,47 lít (1 pint). Bằng một hành động, bạn có thể hạ chụp, khiến đèn chỉ còn chiếu sáng yếu trong bán kính 1,5 m (5 feet).
 
-**Đèn hội tụ:** Đèn chiếu sáng rõ theo hình nón dài 60 feet và sáng yếu thêm 60 feet. Sau khi thắp, đèn cháy 6 giờ với một lọ dầu (1 pint).
+**Đèn hội tụ:** Đèn chiếu sáng rõ theo hình nón dài 18 m (60 feet) và sáng yếu thêm 18 m (60 feet). Sau khi thắp, đèn cháy 6 giờ với một lọ dầu 0,47 lít (1 pint).
 
 **Khóa:** Khóa đi kèm chìa. Không có chìa, sinh vật thành thạo dụng cụ kẻ trộm có thể mở khóa bằng kiểm tra Khéo léo DC 15 thành công. DM có thể quyết định rằng có các loại khóa tốt hơn với giá cao hơn.
 
@@ -423,7 +423,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Còng:** Vật trói kim loại này có thể giữ một sinh vật Nhỏ hoặc Trung bình. Thoát còng cần kiểm tra Khéo léo DC 20 thành công; phá còng cần kiểm tra Sức mạnh DC 20 thành công. Mỗi bộ đi kèm một chìa. Không có chìa, sinh vật thành thạo dụng cụ kẻ trộm có thể mở khóa còng bằng kiểm tra Khéo léo DC 15 thành công. Còng có 15 điểm sinh lực.
 
-**Dầu (Oil).** Dầu thường đựng trong bình đất sét chứa một pint. Bằng một hành động, bạn có thể té dầu lên sinh vật trong 5 feet hoặc ném bình tối đa 20 feet; bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống sinh vật hoặc vật thể, coi dầu là vũ khí ứng biến. Nếu trúng, mục tiêu bị phủ dầu. Nếu chịu sát thương lửa trước khi dầu khô sau một phút, mục tiêu chịu thêm 5 sát thương lửa từ dầu cháy. Bạn cũng có thể đổ bình dầu xuống mặt đất để phủ khu vực vuông cạnh 5 feet nếu mặt phẳng bằng. Khi đốt, dầu cháy hai vòng, gây 5 sát thương lửa cho sinh vật vào khu vực hoặc kết thúc lượt tại đó. Mỗi sinh vật chỉ chịu sát thương này một lần mỗi lượt.
+**Dầu (Oil).** Dầu thường đựng trong bình đất sét chứa 0,47 lít (một pint). Bằng một hành động, bạn có thể té dầu lên sinh vật trong 1,5 m (5 feet) hoặc ném bình tối đa 6 m (20 feet); bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống sinh vật hoặc vật thể, coi dầu là vũ khí ứng biến. Nếu trúng, mục tiêu bị phủ dầu. Nếu chịu sát thương lửa trước khi dầu khô sau một phút, mục tiêu chịu thêm 5 sát thương lửa từ dầu cháy. Bạn cũng có thể đổ bình dầu xuống mặt đất để phủ khu vực vuông cạnh 1,5 m (5 feet) nếu mặt phẳng bằng. Khi đốt, dầu cháy hai vòng, gây 5 sát thương lửa cho sinh vật vào khu vực hoặc kết thúc lượt tại đó. Mỗi sinh vật chỉ chịu sát thương này một lần mỗi lượt.
 
 **Độc cơ bản (Poison, Basic).** Độc trong lọ phủ được một vũ khí chém hoặc đâm, hoặc tối đa ba viên đạn. Bôi độc cần một hành động. Sinh vật bị vũ khí hoặc đạn tẩm độc đánh trúng phải cứu nguy [Thể chất](99-glossary.md#constitution) DC 10 hoặc chịu 1d4 sát thương độc. Sau khi bôi, độc còn hiệu lực một phút trước khi khô.
 
@@ -437,19 +437,19 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 | Đồ đựng | Sức chứa |
 | --- | --- |
-| Ba lô* | 1 foot khối / 30 pound trang bị |
-| Thùng phuy | 40 gallon chất lỏng, 4 foot khối chất rắn |
-| Giỏ | 2 foot khối / 40 pound trang bị |
-| Chai | 1½ pint chất lỏng |
-| Xô | 3 gallon chất lỏng, ½ foot khối chất rắn |
-| Rương | 12 foot khối / 300 pound trang bị |
-| Bình hoặc ca uống | 1 pint chất lỏng |
-| Bình hoặc vò rót | 1 gallon chất lỏng |
-| Nồi sắt | 1 gallon chất lỏng |
-| Túi nhỏ | ⅕ foot khối / 6 pound trang bị |
-| Bao tải | 1 foot khối / 30 pound trang bị |
-| Lọ nhỏ | 4 ounce chất lỏng |
-| Túi da đựng nước | 4 pint chất lỏng |
+| Ba lô* | 28,3 lít (1 foot khối) / 13,5 kg (30 pound) trang bị |
+| Thùng phuy | 152 lít (40 gallon) chất lỏng, 113,2 lít (4 foot khối) chất rắn |
+| Giỏ | 56,6 lít (2 foot khối) / 18 kg (40 pound) trang bị |
+| Chai | 0,7 lít (1½ pint) chất lỏng |
+| Xô | 11,4 lít (3 gallon) chất lỏng, 14,2 lít (½ foot khối) chất rắn |
+| Rương | 339,6 lít (12 foot khối) / 135 kg (300 pound) trang bị |
+| Bình hoặc ca uống | 0,47 lít (1 pint) chất lỏng |
+| Bình hoặc vò rót | 3,8 lít (1 gallon) chất lỏng |
+| Nồi sắt | 3,8 lít (1 gallon) chất lỏng |
+| Túi nhỏ | 5,7 lít (⅕ foot khối) / 2,7 kg (6 pound) trang bị |
+| Bao tải | 28,3 lít (1 foot khối) / 13,5 kg (30 pound) trang bị |
+| Lọ nhỏ | 120 ml (4 fluid ounce) chất lỏng |
+| Túi da đựng nước | 1,88 lít (4 pint) chất lỏng |
 
 *Bạn cũng có thể buộc những vật như túi ngủ hoặc cuộn dây thừng vào bên ngoài ba lô.*
 
@@ -461,7 +461,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Khẩu phần (Rations).** Khẩu phần gồm những thực phẩm khô thích hợp cho chuyến đi dài, kể cả thịt khô, trái cây khô, bánh quy khô cứng và các loại hạt.
 
-**Cân thương nhân (Scale, Merchant’s).** Một bộ cân gồm đòn cân nhỏ, đĩa cân và một bộ quả cân phù hợp lên đến 2 pound. Nó cho phép đo chính xác khối lượng những vật nhỏ như kim loại quý thô hoặc hàng trao đổi để giúp xác định giá trị.
+**Cân thương nhân (Scale, Merchant’s).** Một bộ cân gồm đòn cân nhỏ, đĩa cân và một bộ quả cân phù hợp lên đến 0,9 kg (2 pound). Nó cho phép đo chính xác khối lượng những vật nhỏ như kim loại quý thô hoặc hàng trao đổi để giúp xác định giá trị.
 
 **Đòn phá cửa di động (Ram, Portable).** Có thể dùng để phá cửa, nhận +4 vào kiểm tra Sức mạnh khi làm vậy. Một nhân vật khác có thể giúp dùng đòn phá cửa, cho bạn lợi thế ở kiểm tra này.
 
@@ -475,7 +475,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Hộp nhóm lửa (Tinderbox).** Hộp nhỏ chứa đá lửa, thép đánh lửa và mồi lửa, thường là vải khô thấm dầu nhẹ. Dùng nó thắp đuốc, hoặc bất kỳ thứ gì có nhiều nhiên liệu lộ ra, cần một hành động. Nhóm bất kỳ loại lửa khác cần một phút.
 
-**Đuốc (Torch).** Đuốc cháy một giờ, cho ánh sáng rõ bán kính 20 feet và ánh sáng yếu thêm 20 feet. Nếu tấn công cận chiến bằng đuốc đang cháy và đánh trúng, gây 1 sát thương lửa.
+**Đuốc (Torch).** Đuốc cháy một giờ, cho ánh sáng rõ bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet). Nếu tấn công cận chiến bằng đuốc đang cháy và đánh trúng, gây 1 sát thương lửa.
 
 ## Gói trang bị
 
@@ -487,11 +487,11 @@ Trang bị khởi đầu từ lớp của bạn có một bộ những đồ phi
 
 | Gói | Giá | Nội dung |
 | --- | --- | --- |
-| Kẻ trộm | 16 gp | Ba lô, một túi 1.000 bi kim loại, dây 10 feet, chuông, 5 nến, xà beng, búa, 10 piton, đèn chụp, 2 lọ dầu, lương khô cho 5 ngày, hộp đánh lửa, túi nước; thêm dây thừng gai dầu dài 50 feet buộc bên ngoài gói |
+| Kẻ trộm | 16 gp | Ba lô, một túi 1.000 bi kim loại, dây 3 m (10 feet), chuông, 5 nến, xà beng, búa, 10 piton, đèn chụp, 2 lọ dầu, lương khô cho 5 ngày, hộp đánh lửa, túi nước; thêm dây thừng gai dầu dài 15 m (50 feet) buộc bên ngoài gói |
 | Nhà ngoại giao | 39 gp | Rương, 2 ống đựng bản đồ và cuộn giấy, một bộ quần áo tốt, một lọ mực, bút mực, đèn dầu, 2 lọ dầu, 5 tờ giấy, một lọ nước hoa, sáp niêm và xà phòng |
-| Thám hiểm hầm ngục | 12 gp | Ba lô, xà beng, búa, 10 piton, 10 đuốc, hộp đánh lửa, lương khô cho 10 ngày, túi nước; thêm dây thừng gai dầu dài 50 feet buộc bên ngoài gói |
+| Thám hiểm hầm ngục | 12 gp | Ba lô, xà beng, búa, 10 piton, 10 đuốc, hộp đánh lửa, lương khô cho 10 ngày, túi nước; thêm dây thừng gai dầu dài 15 m (50 feet) buộc bên ngoài gói |
 | Nghệ sĩ | 40 gp | Ba lô, chăn cuộn, 2 trang phục, 5 nến, 5 ngày lương khô, túi nước, bộ cải trang |
-| Thám hiểm | 10 gp | Ba lô, chăn cuộn, bộ đồ ăn, hộp đánh lửa, 10 đuốc, lương khô cho 10 ngày, túi nước; thêm dây thừng gai dầu dài 50 feet buộc bên ngoài gói |
+| Thám hiểm | 10 gp | Ba lô, chăn cuộn, bộ đồ ăn, hộp đánh lửa, 10 đuốc, lương khô cho 10 ngày, túi nước; thêm dây thừng gai dầu dài 15 m (50 feet) buộc bên ngoài gói |
 | Linh mục | 19 gp | Ba lô, chăn, 10 nến, hộp đánh lửa, hộp xin bố thí, 2 khối hương, lư hương, lễ phục, lương khô cho 2 ngày và túi nước |
 | Học giả | 40 gp | Ba lô, sách tri thức, một lọ mực, bút mực, 10 tờ giấy da, một túi cát nhỏ và dao nhỏ |
 
@@ -506,45 +506,45 @@ Công cụ giúp bạn làm những việc mà nếu thiếu nó bạn không th
 | Vật phẩm | Giá | Khối lượng |
 | --- | --- | --- |
 | **Công cụ thủ công** | | |
-| Bộ đồ giả kim | 50 gp | 8 lb. |
-| Bộ đồ nấu bia | 20 gp | 9 lb. |
-| Bộ đồ thư pháp | 10 gp | 5 lb. |
-| Dụng cụ thợ mộc | 8 gp | 6 lb. |
-| Dụng cụ vẽ bản đồ | 15 gp | 6 lb. |
-| Dụng cụ thợ giày | 5 gp | 5 lb. |
-| Đồ dùng nấu ăn | 1 gp | 8 lb. |
-| Dụng cụ thổi thủy tinh | 30 gp | 5 lb. |
-| Dụng cụ thợ kim hoàn | 25 gp | 2 lb. |
-| Dụng cụ làm đồ da | 5 gp | 5 lb. |
-| Dụng cụ thợ xây đá | 10 gp | 8 lb. |
-| Bộ đồ hội họa | 10 gp | 5 lb. |
-| Dụng cụ làm gốm | 10 gp | 3 lb. |
-| Dụng cụ thợ rèn | 20 gp | 8 lb. |
-| Dụng cụ sửa đồ (Tinker’s tools) | 50 gp | 10 lb. |
-| Dụng cụ dệt | 1 gp | 5 lb. |
-| Dụng cụ chạm gỗ | 1 gp | 5 lb. |
-| Bộ cải trang | 25 gp | 3 lb. |
-| Bộ làm giả giấy tờ | 15 gp | 5 lb. |
+| Bộ đồ giả kim | 50 gp | 3,6 kg (8 lb.) |
+| Bộ đồ nấu bia | 20 gp | 4,05 kg (9 lb.) |
+| Bộ đồ thư pháp | 10 gp | 2,25 kg (5 lb.) |
+| Dụng cụ thợ mộc | 8 gp | 2,7 kg (6 lb.) |
+| Dụng cụ vẽ bản đồ | 15 gp | 2,7 kg (6 lb.) |
+| Dụng cụ thợ giày | 5 gp | 2,25 kg (5 lb.) |
+| Đồ dùng nấu ăn | 1 gp | 3,6 kg (8 lb.) |
+| Dụng cụ thổi thủy tinh | 30 gp | 2,25 kg (5 lb.) |
+| Dụng cụ thợ kim hoàn | 25 gp | 0,9 kg (2 lb.) |
+| Dụng cụ làm đồ da | 5 gp | 2,25 kg (5 lb.) |
+| Dụng cụ thợ xây đá | 10 gp | 3,6 kg (8 lb.) |
+| Bộ đồ hội họa | 10 gp | 2,25 kg (5 lb.) |
+| Dụng cụ làm gốm | 10 gp | 1,35 kg (3 lb.) |
+| Dụng cụ thợ rèn | 20 gp | 3,6 kg (8 lb.) |
+| Dụng cụ sửa đồ (Tinker’s tools) | 50 gp | 4,5 kg (10 lb.) |
+| Dụng cụ dệt | 1 gp | 2,25 kg (5 lb.) |
+| Dụng cụ chạm gỗ | 1 gp | 2,25 kg (5 lb.) |
+| Bộ cải trang | 25 gp | 1,35 kg (3 lb.) |
+| Bộ làm giả giấy tờ | 15 gp | 2,25 kg (5 lb.) |
 | **Bộ trò chơi** | | |
 | Bộ xúc xắc | 1 sp | — |
-| Bộ cờ [rồng](99-glossary.md#dragon) (Dragonchess) | 1 gp | ½ lb. |
+| Bộ cờ [rồng](99-glossary.md#dragon) (Dragonchess) | 1 gp | 0,22 kg (½ lb.) |
 | Bộ bài | 5 sp | — |
 | Bộ Three-Dragon Ante | 1 gp | — |
-| Bộ thảo dược | 5 gp | 3 lb. |
+| Bộ thảo dược | 5 gp | 1,35 kg (3 lb.) |
 | **Nhạc cụ** | | |
-| Kèn túi (Bagpipes) | 30 gp | 6 lb. |
-| Trống | 6 gp | 3 lb. |
-| Đàn dulcimer | 25 gp | 10 lb. |
-| Sáo | 2 gp | 1 lb. |
-| Đàn lute | 35 gp | 2 lb. |
-| Đàn lyre | 30 gp | 2 lb. |
-| Tù và | 3 gp | 2 lb. |
-| Sáo pan | 12 gp | 2 lb. |
-| Kèn shawm | 2 gp | 1 lb. |
-| Đàn viol | 30 gp | 1 lb. |
-| Dụng cụ hàng hải | 25 gp | 2 lb. |
-| Bộ chế độc | 50 gp | 2 lb. |
-| Dụng cụ kẻ trộm | 25 gp | 1 lb. |
+| Kèn túi (Bagpipes) | 30 gp | 2,7 kg (6 lb.) |
+| Trống | 6 gp | 1,35 kg (3 lb.) |
+| Đàn dulcimer | 25 gp | 4,5 kg (10 lb.) |
+| Sáo | 2 gp | 0,45 kg (1 lb.) |
+| Đàn lute | 35 gp | 0,9 kg (2 lb.) |
+| Đàn lyre | 30 gp | 0,9 kg (2 lb.) |
+| Tù và | 3 gp | 0,9 kg (2 lb.) |
+| Sáo pan | 12 gp | 0,9 kg (2 lb.) |
+| Kèn shawm | 2 gp | 0,45 kg (1 lb.) |
+| Đàn viol | 30 gp | 0,45 kg (1 lb.) |
+| Dụng cụ hàng hải | 25 gp | 0,9 kg (2 lb.) |
+| Bộ chế độc | 50 gp | 0,9 kg (2 lb.) |
+| Dụng cụ kẻ trộm | 25 gp | 0,45 kg (1 lb.) |
 | Phương tiện (đường bộ hoặc đường thủy) | * | * |
 
 *Xem mục “Thú cưỡi và phương tiện”.*
@@ -610,22 +610,22 @@ Các thế giới D&D còn có thú cưỡi ngoài những loại liệt kê ở
 | Vật phẩm | Giá | Khối lượng |
 | --- | --- | --- |
 | Giáp thú (Barding) | ×4 | ×2 |
-| Hàm thiếc và dây cương | 2 gp | 1 lb. |
-| Xe ngựa (Carriage) | 100 gp | 600 lb. |
-| Xe kéo (Cart) | 15 gp | 200 lb. |
-| Chiến xa (Chariot) | 250 gp | 100 lb. |
-| Thức ăn thú (mỗi ngày) | 5 cp | 10 lb. |
+| Hàm thiếc và dây cương | 2 gp | 0,45 kg (1 lb.) |
+| Xe ngựa (Carriage) | 100 gp | 270 kg (600 lb.) |
+| Xe kéo (Cart) | 15 gp | 90 kg (200 lb.) |
+| Chiến xa (Chariot) | 250 gp | 45 kg (100 lb.) |
+| Thức ăn thú (mỗi ngày) | 5 cp | 4,5 kg (10 lb.) |
 | **Yên** | | |
-| Yên ngoại lai (Exotic) | 60 gp | 40 lb. |
-| Yên quân đội | 20 gp | 30 lb. |
-| Yên chở hàng | 5 gp | 15 lb. |
-| Yên cưỡi | 10 gp | 25 lb. |
-| Túi yên | 4 gp | 8 lb. |
-| Xe trượt | 20 gp | 300 lb. |
+| Yên ngoại lai (Exotic) | 60 gp | 18 kg (40 lb.) |
+| Yên quân đội | 20 gp | 13,5 kg (30 lb.) |
+| Yên chở hàng | 5 gp | 6,75 kg (15 lb.) |
+| Yên cưỡi | 10 gp | 11,25 kg (25 lb.) |
+| Túi yên | 4 gp | 3,6 kg (8 lb.) |
+| Xe trượt | 20 gp | 135 kg (300 lb.) |
 | Thuê chuồng (mỗi ngày) | 5 sp | — |
-| Xe hàng (Wagon) | 35 gp | 400 lb. |
+| Xe hàng (Wagon) | 35 gp | 180 kg (400 lb.) |
 
-**Thuyền chèo (Rowed Vessels).** Thuyền keelboat và thuyền chèo được dùng trên hồ và sông. Nếu xuôi dòng, cộng tốc độ dòng chảy (thường là 3 mile mỗi giờ) vào tốc độ phương tiện. Không thể chèo những thuyền này ngược dòng chảy mạnh đáng kể, nhưng có thể dùng thú kéo trên bờ kéo chúng ngược dòng. Một thuyền chèo nặng 100 pound, trong trường hợp nhà phiêu lưu mang nó qua đường bộ.
+**Thuyền chèo (Rowed Vessels).** Thuyền keelboat và thuyền chèo được dùng trên hồ và sông. Nếu xuôi dòng, cộng tốc độ dòng chảy (thường là 4,8 km (3 mile) mỗi giờ) vào tốc độ phương tiện. Không thể chèo những thuyền này ngược dòng chảy mạnh đáng kể, nhưng có thể dùng thú kéo trên bờ kéo chúng ngược dòng. Một thuyền chèo nặng 45 kg (100 pound), trong trường hợp nhà phiêu lưu mang nó qua đường bộ.
 
 ## Hàng trao đổi, chi phí, dịch vụ
 
@@ -641,19 +641,19 @@ Các hội nghề, quý tộc và hoàng gia điều tiết thương mại. Nh�
 
 | Giá | Hàng hóa |
 | --- | --- |
-| 1 cp | 1 lb. lúa mì |
-| 2 cp | 1 lb. bột mì hoặc một con gà |
-| 5 cp | 1 lb. muối |
-| 1 sp | 1 lb. sắt hoặc 1 yard vuông vải bạt |
-| 5 sp | 1 lb. đồng hoặc 1 yard vuông vải cotton |
-| 1 gp | 1 lb. gừng hoặc một con dê |
-| 2 gp | 1 lb. quế hoặc tiêu, hoặc một con cừu |
-| 3 gp | 1 lb. đinh hương hoặc một con lợn |
-| 5 gp | 1 lb. bạc hoặc 1 yard vuông vải lanh |
-| 10 gp | 1 yard vuông lụa hoặc một con bò |
-| 15 gp | 1 lb. nghệ tây hoặc một con bò kéo |
-| 50 gp | 1 lb. vàng |
-| 500 gp | 1 lb. bạch kim |
+| 1 cp | 0,45 kg (1 lb.) lúa mì |
+| 2 cp | 0,45 kg (1 lb.) bột mì hoặc một con gà |
+| 5 cp | 0,45 kg (1 lb.) muối |
+| 1 sp | 0,45 kg (1 lb.) sắt hoặc 0,84 m² (1 yard vuông) vải bạt |
+| 5 sp | 0,45 kg (1 lb.) đồng hoặc 0,84 m² (1 yard vuông) vải cotton |
+| 1 gp | 0,45 kg (1 lb.) gừng hoặc một con dê |
+| 2 gp | 0,45 kg (1 lb.) quế hoặc tiêu, hoặc một con cừu |
+| 3 gp | 0,45 kg (1 lb.) đinh hương hoặc một con lợn |
+| 5 gp | 0,45 kg (1 lb.) bạc hoặc 0,84 m² (1 yard vuông) vải lanh |
+| 10 gp | 0,84 m² (1 yard vuông) lụa hoặc một con bò |
+| 15 gp | 0,45 kg (1 lb.) nghệ tây hoặc một con bò kéo |
+| 50 gp | 0,45 kg (1 lb.) vàng |
+| 500 gp | 0,45 kg (1 lb.) bạch kim |
 
 ### Chi phí (Expenses)
 
@@ -702,7 +702,7 @@ Bảng này cho biết giá từng món ăn và một đêm trọ. Các khoản 
 | Vật phẩm | Giá |
 | --- | --- |
 | **Bia** | |
-| Một gallon | 2 sp |
+| 3,8 lít (một gallon) | 2 sp |
 | Một cốc | 4 cp |
 | Tiệc (mỗi người) | 10 gp |
 | Bánh mì (một ổ) | 2 cp |
@@ -740,13 +740,13 @@ Những người khác cung cấp dịch vụ chuyên môn cao hoặc nguy hiể
 
 | Dịch vụ | Giá |
 | --- | --- |
-| Xe thuê giữa thị trấn | 3 cp/mile |
+| Xe thuê giữa thị trấn | 3 cp mỗi 1,6 km (1 mile) |
 | Xe thuê trong thành phố | 1 cp |
 | Người thuê có kỹ năng | 2 gp/ngày |
 | Người thuê không kỹ năng | 2 sp/ngày |
-| Người đưa thư | 2 cp/mile |
+| Người đưa thư | 2 cp mỗi 1,6 km (1 mile) |
 | Phí đường/cổng | 1 cp |
-| Vé tàu | 1 sp/mile |
+| Vé tàu | 1 sp mỗi 1,6 km (1 mile) |
 
 Người làm thuê có kỹ năng là bất kỳ ai được thuê cung cấp dịch vụ cần sự thành thạo (vũ khí, công cụ hoặc kỹ năng), chẳng hạn lính đánh thuê, thợ thủ công hoặc người chép sách. Giá trong bảng là mức tối thiểu; một số chuyên gia đòi cao hơn. Người không có kỹ năng được thuê làm việc tay chân không cần kỹ năng đặc biệt, như lao động, phu khuân vác, người giúp việc và những công việc tương tự.
 
@@ -782,7 +782,7 @@ Khi tạo nhân vật, bạn có thể tung d100 một lần trên bảng Đồ 
 | 08 | Tượng nhỏ sinh vật ác mộng gây giấc mơ bất an khi ngủ gần |
 | 09 | Vòng cổ dây với bốn ngón tay elf ướp xác |
 | 10 | Giấy chủ quyền đất ở cõi bạn không biết |
-| 11 | Khối 1 ounce bằng vật liệu lạ |
+| 11 | khối 28 g (1 ounce) bằng vật liệu lạ |
 | 12 | Búp bê vải nhỏ bị xiên kim |
 | 13 | Răng thú lạ |
 | 14 | Vảy khổng lồ, có lẽ của rồng |
@@ -839,7 +839,7 @@ Khi tạo nhân vật, bạn có thể tung d100 một lần trên bảng Đồ 
 | 65 | Mũ ngủ đội vào có mơ đẹp |
 | 66 | Một caltrop bằng xương |
 | 67 | Gọng kính một mắt vàng thiếu thấu kính |
-| 68 | Một khối lập phương cạnh 1 inch, mỗi mặt được sơn một màu khác nhau |
+| 68 | Một khối lập phương cạnh 2,5 cm (1 inch), mỗi mặt được sơn một màu khác nhau |
 | 69 | Núm cửa pha lê |
 | 70 | Gói nhỏ đầy bụi hồng |
 | 71 | Mảnh bài hát đẹp viết nốt nhạc trên hai tờ giấy da |

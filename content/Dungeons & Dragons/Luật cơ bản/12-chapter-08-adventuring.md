@@ -28,7 +28,7 @@ Thông thường, DM dùng bản đồ làm khung cho cuộc phiêu lưu, theo d
 
 Trong những tình huống cần theo dõi thời gian trôi qua, DM xác định một nhiệm vụ đòi hỏi bao nhiêu thời gian. DM có thể dùng thang thời gian khác nhau tùy bối cảnh của tình huống trước mắt. Trong môi trường hầm ngục, việc di chuyển của nhà phiêu lưu diễn ra theo thang **phút**. Họ mất khoảng một phút để rón rén đi hết hành lang dài, thêm một phút để kiểm tra bẫy trên cánh cửa ở cuối hành lang, và khoảng mười phút để lục tìm những thứ thú vị hoặc có giá trị trong căn phòng phía sau cửa.
 
-Trong thành phố hoặc vùng hoang dã, thang **giờ** thường thích hợp hơn. Các nhà phiêu lưu háo hức đến tòa tháp đơn độc giữa rừng vội vượt quãng đường mười lăm mile trong chưa đầy bốn giờ.
+Trong thành phố hoặc vùng hoang dã, thang **giờ** thường thích hợp hơn. Các nhà phiêu lưu háo hức đến tòa tháp đơn độc giữa rừng vội vượt quãng đường 24 km (15 mile) trong chưa đầy bốn giờ.
 
 Với hành trình dài, thang **ngày** thích hợp nhất. Đi theo con đường từ Baldur’s Gate đến Waterdeep, các nhà phiêu lưu trải qua bốn ngày bình yên trước khi một cuộc phục kích của [goblin](99-glossary.md#goblin) làm gián đoạn hành trình.
 
@@ -42,13 +42,13 @@ Trong chiến đấu và những tình huống diễn ra nhanh khác, trò chơi
 
 Bơi qua dòng sông chảy xiết, lén đi dọc hành lang hầm ngục, leo lên sườn núi hiểm trở — mọi kiểu di chuyển đều đóng vai trò quan trọng trong các cuộc phiêu lưu D&D.
 
-DM có thể tóm tắt việc di chuyển của nhà phiêu lưu mà không tính khoảng cách hoặc thời gian hành trình chính xác: “Các bạn đi qua khu rừng và tìm thấy cửa vào hầm ngục vào cuối buổi tối ngày thứ ba.” Ngay cả trong hầm ngục, đặc biệt là hầm ngục lớn hoặc mạng lưới hang động, DM cũng có thể tóm tắt việc di chuyển giữa các [cuộc chạm trán](99-glossary.md#encounter): “Sau khi giết kẻ canh giữ lối vào thành trì cổ của [người lùn](99-glossary.md#dwarf), các bạn xem bản đồ; nó dẫn các bạn qua nhiều mile hành lang vang vọng đến một vực sâu có vòm cầu đá hẹp bắc qua.”
+DM có thể tóm tắt việc di chuyển của nhà phiêu lưu mà không tính khoảng cách hoặc thời gian hành trình chính xác: “Các bạn đi qua khu rừng và tìm thấy cửa vào hầm ngục vào cuối buổi tối ngày thứ ba.” Ngay cả trong hầm ngục, đặc biệt là hầm ngục lớn hoặc mạng lưới hang động, DM cũng có thể tóm tắt việc di chuyển giữa các [cuộc chạm trán](99-glossary.md#encounter): “Sau khi giết kẻ canh giữ lối vào thành trì cổ của [người lùn](99-glossary.md#dwarf), các bạn xem bản đồ; nó dẫn các bạn qua nhiều kilômét (nhiều mile trong luật gốc) hành lang vang vọng đến một vực sâu có vòm cầu đá hẹp bắc qua.”
 
 Tuy nhiên, đôi khi cần biết mất bao lâu để đi từ nơi này đến nơi khác, dù câu trả lời tính bằng ngày, giờ hay phút. Quy tắc xác định thời gian hành trình phụ thuộc vào hai yếu tố: tốc độ và nhịp hành trình của những sinh vật đang di chuyển, cùng địa hình họ đi qua.
 
 ### Tốc độ (Speed)
 
-Mọi nhân vật và quái vật đều có một tốc độ, là khoảng cách tính bằng [feet](99-glossary.md#feet) mà nhân vật hoặc quái vật có thể đi bộ trong 1 vòng. Con số này giả định những đợt di chuyển mạnh mẽ, ngắn ngủi trong tình huống đe dọa tính mạng.
+Mọi nhân vật và quái vật đều có một tốc độ, là khoảng cách tính bằng mét (feet trong luật gốc) mà nhân vật hoặc quái vật có thể đi bộ trong 1 vòng. Con số này giả định những đợt di chuyển mạnh mẽ, ngắn ngủi trong tình huống đe dọa tính mạng.
 
 Các quy tắc sau xác định nhân vật hoặc quái vật có thể đi bao xa trong một phút, một giờ hoặc một ngày.
 
@@ -60,7 +60,7 @@ Khi đi đường, một nhóm nhà phiêu lưu có thể di chuyển với nh�
 
 Với mỗi giờ đi thêm sau 8 giờ, nhân vật đi được khoảng cách ghi ở cột Giờ ứng với nhịp của mình, và mỗi nhân vật phải [tung cứu nguy](99-glossary.md#saving-throw) [Thể chất](99-glossary.md#constitution) vào cuối giờ ấy. [DC](99-glossary.md#difficulty-class) bằng 10 + 1 cho mỗi giờ vượt quá 8 giờ. Nếu cứu nguy thất bại, nhân vật chịu một mức kiệt sức (exhaustion), xem phụ lục A.
 
-**Thú cưỡi và phương tiện (Mounts and Vehicles).** Trong khoảng thời gian ngắn, tối đa một giờ, nhiều động vật di chuyển nhanh hơn sinh vật dạng người rất nhiều. Nhân vật đang cưỡi có thể cho thú cưỡi phi nước đại khoảng một giờ, đi được gấp đôi khoảng cách thông thường của nhịp nhanh. Nếu cứ mỗi 8 đến 10 mile lại có thú cưỡi còn sung sức để thay, nhân vật có thể đi quãng đường dài hơn với nhịp này; tuy nhiên, điều đó rất hiếm ngoài các vùng đông dân.
+**Thú cưỡi và phương tiện (Mounts and Vehicles).** Trong khoảng thời gian ngắn, tối đa một giờ, nhiều động vật di chuyển nhanh hơn sinh vật dạng người rất nhiều. Nhân vật đang cưỡi có thể cho thú cưỡi phi nước đại khoảng một giờ, đi được gấp đôi khoảng cách thông thường của nhịp nhanh. Nếu cứ mỗi 12,8 đến 16 km (8 đến 16 km (10 mile)) lại có thú cưỡi còn sung sức để thay, nhân vật có thể đi quãng đường dài hơn với nhịp này; tuy nhiên, điều đó rất hiếm ngoài các vùng đông dân.
 
 Nhân vật đi xe chở hàng, xe ngựa hoặc phương tiện đường bộ khác chọn nhịp như bình thường. Nhân vật trên phương tiện đường thủy bị giới hạn bởi tốc độ phương tiện, xem chương 5; họ không chịu phạt của nhịp nhanh hoặc nhận lợi ích của nhịp chậm. Tùy phương tiện và số lượng thủy thủ, tàu có thể đi đến 24 giờ mỗi ngày.
 
@@ -70,9 +70,9 @@ Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương
 
 | Nhịp | Khoảng cách mỗi phút | Khoảng cách mỗi giờ | Khoảng cách mỗi ngày | Ảnh hưởng |
 | --- | --- | --- | --- | --- |
-| Nhanh | 400 feet | 4 mile | 30 mile | Phạt -5 vào điểm [Minh triết](99-glossary.md#wisdom) (Tri giác) thụ động |
-| Bình thường | 300 feet | 3 mile | 24 mile | — |
-| Chậm | 200 feet | 2 mile | 18 mile | Có thể dùng Lén lút |
+| Nhanh | 120 m (400 feet) | 6,4 km (4 mile) | 48 km (30 mile) | Phạt -5 vào điểm [Minh triết](99-glossary.md#wisdom) (Tri giác) thụ động |
+| Bình thường | 90 m (300 feet) | 4,8 km (3 mile) | 38,4 km (24 mile) | — |
+| Chậm | 60 m (200 feet) | 3,2 km (2 mile) | 28,8 km (18 mile) | Có thể dùng Lén lút |
 
 ### Địa hình khó đi (Difficult Terrain)
 
@@ -82,7 +82,7 @@ Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương
 
 Tốc độ hành trình trong bảng Nhịp hành trình giả định địa hình tương đối dễ đi: đường sá, đồng bằng thoáng hoặc hành lang hầm ngục không có vật cản. Nhưng nhà phiêu lưu thường gặp rừng rậm, đầm lầy sâu, phế tích đầy gạch đá vụn, núi dốc và mặt đất phủ băng — tất cả đều được coi là [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
-Bạn di chuyển với nửa tốc độ trong địa hình khó đi: đi 1 foot trong địa hình khó đi tiêu tốn 2 feet tốc độ. Vì vậy, bạn chỉ đi được một nửa khoảng cách thông thường trong một phút, một giờ hoặc một ngày.
+Bạn di chuyển với nửa tốc độ trong địa hình khó đi: đi 0,3 m (1 foot) trong địa hình khó đi tiêu tốn 0,6 m (2 feet) tốc độ. Vì vậy, bạn chỉ đi được một nửa khoảng cách thông thường trong một phút, một giờ hoặc một ngày.
 
 ### Các kiểu di chuyển đặc biệt (Special Types of Movement)
 
@@ -94,19 +94,19 @@ Di chuyển qua hầm ngục nguy hiểm hoặc vùng hoang dã thường không
 
 #### Leo, bơi và bò (Climbing, Swimming, and Crawling)
 
-Khi leo, bơi hoặc bò, mỗi foot di chuyển tiêu tốn thêm 1 foot, hoặc thêm 2 feet trong địa hình khó đi. Bạn bỏ qua phần tiêu tốn thêm này nếu có tốc độ leo và dùng nó để leo, hoặc có tốc độ bơi và dùng nó để bơi. Theo quyết định của DM, leo một bề mặt thẳng đứng trơn trượt hoặc có ít chỗ bám đòi hỏi kiểm tra [Sức mạnh](99-glossary.md#strength) (Điền kinh) thành công. Tương tự, để tiến được bất kỳ khoảng cách nào trong vùng nước dữ, bạn có thể phải thành công kiểm tra Sức mạnh (Điền kinh).
+Khi leo, bơi hoặc bò, mỗi 0,3 m (1 foot) di chuyển tiêu tốn thêm 0,3 m (1 foot), hoặc thêm 0,6 m (2 feet) trong địa hình khó đi. Bạn bỏ qua phần tiêu tốn thêm này nếu có tốc độ leo và dùng nó để leo, hoặc có tốc độ bơi và dùng nó để bơi. Theo quyết định của DM, leo một bề mặt thẳng đứng trơn trượt hoặc có ít chỗ bám đòi hỏi kiểm tra [Sức mạnh](99-glossary.md#strength) (Điền kinh) thành công. Tương tự, để tiến được bất kỳ khoảng cách nào trong vùng nước dữ, bạn có thể phải thành công kiểm tra Sức mạnh (Điền kinh).
 
 #### Nhảy (Jumping)
 
 Sức mạnh xác định bạn có thể nhảy xa đến đâu.
 
-**Nhảy xa (Long Jump).** Khi nhảy xa, bạn vượt được số feet tối đa bằng điểm Sức mạnh nếu ngay trước cú nhảy bạn đã di chuyển ít nhất 10 feet bằng chân. Khi nhảy xa tại chỗ, bạn chỉ nhảy được một nửa khoảng cách đó. Trong cả hai trường hợp, mỗi foot vượt qua trong cú nhảy tiêu tốn một foot di chuyển.
+**Nhảy xa (Long Jump).** Khi nhảy xa, bạn vượt được số mét tối đa bằng **0,3 × điểm Sức mạnh** (số feet bằng điểm Sức mạnh) nếu ngay trước cú nhảy bạn đã di chuyển ít nhất 3 m (10 feet) bằng chân. Khi nhảy xa tại chỗ, bạn chỉ nhảy được một nửa khoảng cách đó. Trong cả hai trường hợp, mỗi 0,3 m (1 foot) vượt qua trong cú nhảy tiêu tốn 0,3 m (1 foot) di chuyển.
 
 Quy tắc này giả định độ cao cú nhảy không quan trọng, như khi nhảy qua suối hoặc vực sâu. Theo quyết định của DM, bạn phải thành công kiểm tra Sức mạnh (Điền kinh) DC 10 để vượt một chướng ngại thấp, không cao hơn một phần tư khoảng cách cú nhảy, như hàng rào cây hoặc tường thấp. Nếu không, bạn va vào chướng ngại ấy.
 
 Khi tiếp đất trong địa hình khó đi, bạn phải thành công kiểm tra [Khéo léo](99-glossary.md#dexterity) (Nhào lộn) DC 10 để đứng vững khi tiếp đất. Nếu không, bạn tiếp đất trong tư thế ngã sấp (prone).
 
-**Nhảy cao (High Jump).** Khi nhảy cao, bạn bật lên số feet bằng 3 + hệ số Sức mạnh, tối thiểu 0 feet, nếu ngay trước cú nhảy bạn đã di chuyển ít nhất 10 feet bằng chân. Khi nhảy cao tại chỗ, bạn chỉ nhảy được một nửa khoảng cách đó. Trong cả hai trường hợp, mỗi foot vượt qua trong cú nhảy tiêu tốn một foot di chuyển. Trong một số hoàn cảnh, DM có thể cho phép thực hiện kiểm tra Sức mạnh (Điền kinh) để nhảy cao hơn mức thông thường.
+**Nhảy cao (High Jump).** Khi nhảy cao, bạn bật lên số mét bằng **0,3 × (3 + hệ số Sức mạnh)**, tương ứng số feet bằng 3 + hệ số Sức mạnh, tối thiểu 0 m (0 feet), nếu ngay trước cú nhảy bạn đã di chuyển ít nhất 3 m (10 feet) bằng chân. Khi nhảy cao tại chỗ, bạn chỉ nhảy được một nửa khoảng cách đó. Trong cả hai trường hợp, mỗi 0,3 m (1 foot) vượt qua trong cú nhảy tiêu tốn 0,3 m (1 foot) di chuyển. Trong một số hoàn cảnh, DM có thể cho phép thực hiện kiểm tra Sức mạnh (Điền kinh) để nhảy cao hơn mức thông thường.
 
 Trong cú nhảy, bạn có thể vươn tay lên cao hơn mình một khoảng bằng nửa chiều cao cơ thể. Vì vậy, bạn có thể với lên khoảng cách bằng độ cao cú nhảy cộng 1½ lần chiều cao của mình.
 
@@ -170,7 +170,7 @@ Bản chất của phiêu lưu là thám hiểm những nơi tối tăm, nguy hi
 
 Rơi từ độ cao lớn là một trong những hiểm họa thường gặp nhất đối với nhà phiêu lưu.
 
-Khi kết thúc cú rơi, sinh vật chịu 1d6 sát thương đập (bludgeoning) cho mỗi 10 feet đã rơi, tối đa 20d6. Sinh vật tiếp đất trong tư thế ngã sấp, trừ khi tránh được việc chịu sát thương từ cú rơi.
+Khi kết thúc cú rơi, sinh vật chịu 1d6 sát thương đập (bludgeoning) cho mỗi 3 m (10 feet) đã rơi, tối đa 20d6. Sinh vật tiếp đất trong tư thế ngã sấp, trừ khi tránh được việc chịu sát thương từ cú rơi.
 
 ### Ngạt thở (Suffocating)
 
@@ -222,7 +222,7 @@ Nhân vật không ăn hoặc uống chịu các ảnh hưởng của kiệt s�
 
 #### Thức ăn (Food)
 
-Nhân vật cần một pound thức ăn mỗi ngày và có thể kéo dài thời gian dùng thức ăn bằng cách sống với nửa khẩu phần. Ăn nửa pound thức ăn trong một ngày được tính là nửa ngày không có thức ăn.
+Nhân vật cần 0,45 kg (1 pound) thức ăn mỗi ngày và có thể kéo dài thời gian dùng thức ăn bằng cách sống với nửa khẩu phần. Ăn 0,23 kg (nửa pound) thức ăn trong một ngày được tính là nửa ngày không có thức ăn.
 
 Nhân vật có thể không ăn trong số ngày bằng 3 + hệ số Thể chất, tối thiểu 1 ngày. Vào cuối mỗi ngày vượt quá giới hạn ấy, nhân vật tự động chịu một mức kiệt sức.
 
@@ -230,7 +230,7 @@ Một ngày ăn uống với lượng thức ăn bình thường đặt lại s�
 
 #### Nước (Water)
 
-Nhân vật cần một gallon nước mỗi ngày, hoặc hai gallon mỗi ngày nếu thời tiết nóng. Nhân vật chỉ uống một nửa lượng nước ấy phải thành công cứu nguy Thể chất DC 15, nếu không sẽ chịu một mức kiệt sức vào cuối ngày. Nhân vật có lượng nước ít hơn nữa tự động chịu một mức kiệt sức vào cuối ngày.
+Nhân vật cần 3,8 lít (1 gallon) nước mỗi ngày, hoặc 7,6 lít (2 gallon) mỗi ngày nếu thời tiết nóng. Nhân vật chỉ uống một nửa lượng nước ấy phải thành công cứu nguy Thể chất DC 15, nếu không sẽ chịu một mức kiệt sức vào cuối ngày. Nhân vật có lượng nước ít hơn nữa tự động chịu một mức kiệt sức vào cuối ngày.
 
 Nếu nhân vật đã có một hoặc nhiều mức kiệt sức, nhân vật chịu hai mức trong cả hai trường hợp.
 

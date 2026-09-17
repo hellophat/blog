@@ -105,7 +105,7 @@ Hệ số [Thể chất](99-glossary.md#constitution) cũng ảnh hưởng đi�
 
 Tốc độ cho biết quái vật đi được bao xa trong lượt. Xem Chương 8 và 9.
 
-Mọi sinh vật có tốc độ đi bộ, thường gọi đơn giản là tốc độ. Sinh vật không có cách di chuyển trên mặt đất có tốc độ đi bộ 0 [feet](99-glossary.md#feet).
+Mọi sinh vật có tốc độ đi bộ, thường gọi đơn giản là tốc độ. Sinh vật không có cách di chuyển trên mặt đất có tốc độ đi bộ 0 m (0 [feet](99-glossary.md#feet)).
 
 Một số sinh vật có thêm một hoặc nhiều cách di chuyển sau.
 
@@ -311,7 +311,7 @@ Nếu quái vật thi triển phép cần [thành phần vật chất](99-glossa
 
 *Sinh vật huyền thoại có thể chi phối cả chiến trường lẫn hang ổ quanh mình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Sinh vật huyền thoại làm được điều sinh vật thường không thể. Nó có thể hành động đặc biệt ngoài lượt và tác động ma thuật lên vùng xung quanh nhiều mile. Sinh vật nhận dạng của sinh vật huyền thoại, chẳng hạn bằng phép, không nhận [hành động huyền thoại](99-glossary.md#legendary-actions), [hành động hang ổ](99-glossary.md#lair-actions) hoặc hiệu ứng khu vực của dạng đó.
+Sinh vật huyền thoại làm được điều sinh vật thường không thể. Nó có thể hành động đặc biệt ngoài lượt và tác động ma thuật lên vùng xung quanh nhiều kilômét (nhiều mile trong luật gốc). Sinh vật nhận dạng của sinh vật huyền thoại, chẳng hạn bằng phép, không nhận [hành động huyền thoại](99-glossary.md#legendary-actions), [hành động hang ổ](99-glossary.md#lair-actions) hoặc hiệu ứng khu vực của dạng đó.
 
 ### Hành động huyền thoại (Legendary Actions)
 
@@ -341,7 +341,7 @@ Chỉ sự hiện diện của sinh vật huyền thoại có thể gây hiệu 
 
 **AC:** 19 (giáp tự nhiên).  
 **HP:** 256 (19d12 + 133).  
-**Tốc độ:** 40 feet, leo 40 feet, bay 80 feet.  
+**Tốc độ:** 12 m (40 feet), leo 12 m (40 feet), bay 24 m (80 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -350,7 +350,7 @@ Chỉ sự hiện diện của sinh vật huyền thoại có thể gây hiệu 
 **Cứu nguy:** Dex +6, Con +13, Wis +7, Cha +11.  
 **Kỹ năng:** Nhận biết +13, Ẩn nấp +6.  
 **Miễn nhiễm sát thương:** lửa.  
-**Giác quan:** thị giác mù 60 feet, thị giác bóng tối 120 feet, Nhận biết thụ động 23.  
+**Giác quan:** thị giác mù 18 m (60 feet), thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 23.  
 **Ngôn ngữ:** Common, Draconic.  
 **Thách thức:** 17 (18,000 XP).
 
@@ -360,15 +360,15 @@ Chỉ sự hiện diện của sinh vật huyền thoại có thể gây hiệu 
 
 **Đa đòn (Multiattack).** Rồng có thể dùng Hiện diện đáng sợ, rồi thực hiện ba đòn: một Cắn và hai Vuốt.
 
-**Cắn (Bite).** Tấn công [vũ khí cận chiến](99-glossary.md#melee-ranged): +14 để trúng, [tầm với](99-glossary.md#reach) 10 feet, một mục tiêu. Trúng: 19 (2d10 + 8) sát thương xuyên cộng 7 (2d6) sát thương lửa.
+**Cắn (Bite).** Tấn công [vũ khí cận chiến](99-glossary.md#melee-ranged): +14 để trúng, [tầm với](99-glossary.md#reach) 3 m (10 feet), một mục tiêu. Trúng: 19 (2d10 + 8) sát thương xuyên cộng 7 (2d6) sát thương lửa.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 15 (2d6 + 8) [sát thương chém](99-glossary.md#damage-types).
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 15 (2d6 + 8) [sát thương chém](99-glossary.md#damage-types).
 
-**Đuôi (Tail).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 15 feet, một mục tiêu. Trúng: 17 (2d8 + 8) sát thương đập.
+**Đuôi (Tail).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 4,5 m (15 feet), một mục tiêu. Trúng: 17 (2d8 + 8) sát thương đập.
 
-**Hiện diện đáng sợ (Frightful Presence).** Mỗi sinh vật rồng chọn trong 120 feet, nhận biết rồng, phải thành công cứu nguy Minh triết DC 19 hoặc hoảng sợ 1 phút. Có thể cứu nguy lại cuối mỗi lượt của mình, thành công chấm dứt hiệu ứng trên bản thân. Nếu cứu nguy thành công hoặc hiệu ứng kết thúc, sinh vật miễn nhiễm Hiện diện đáng sợ của rồng trong 24 giờ tiếp theo.
+**Hiện diện đáng sợ (Frightful Presence).** Mỗi sinh vật rồng chọn trong 36 m (120 feet), nhận biết rồng, phải thành công cứu nguy Minh triết DC 19 hoặc hoảng sợ 1 phút. Có thể cứu nguy lại cuối mỗi lượt của mình, thành công chấm dứt hiệu ứng trên bản thân. Nếu cứu nguy thành công hoặc hiệu ứng kết thúc, sinh vật miễn nhiễm Hiện diện đáng sợ của rồng trong 24 giờ tiếp theo.
 
-**Hơi thở lửa (Fire Breath; Hồi 5-6).** Rồng phun lửa hình nón 60 feet. Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 21, chịu 63 (18d6) sát thương lửa khi thất bại, hoặc nửa khi thành công.
+**Hơi thở lửa (Fire Breath; Hồi 5-6).** Rồng phun lửa hình nón 18 m (60 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 21, chịu 63 (18d6) sát thương lửa khi thất bại, hoặc nửa khi thành công.
 
 #### Hành động huyền thoại
 
@@ -376,7 +376,7 @@ Rồng có 3 hành động huyền thoại, chọn các mục dưới. Mỗi l�
 
 - **Phát hiện (Detect).** Rồng kiểm tra Minh triết (Nhận biết).
 - **Đánh đuôi (Tail Attack).** Rồng thực hiện đòn Đuôi.
-- **Đập cánh (Wing Attack; tốn 2 hành động).** Rồng đập cánh. Mỗi sinh vật trong 10 feet phải thành công cứu nguy Khéo léo DC 22 hoặc chịu 15 (2d6 + 8) sát thương đập và bị đánh ngã sấp. Sau đó rồng có thể bay tối đa nửa tốc độ bay.
+- **Đập cánh (Wing Attack; tốn 2 hành động).** Rồng đập cánh. Mỗi sinh vật trong 3 m (10 feet) phải thành công cứu nguy Khéo léo DC 22 hoặc chịu 15 (2d6 + 8) sát thương đập và bị đánh ngã sấp. Sau đó rồng có thể bay tối đa nửa tốc độ bay.
 
 Mùi lưu huỳnh và đá bọt bao quanh rồng đỏ; cặp sừng vuốt ngược cùng diềm gai sống lưng tạo hình bóng đặc trưng. Mõm dạng mỏ luôn tỏa khói; mắt nó nhảy múa lửa khi tức giận.
 
@@ -390,15 +390,15 @@ Khắp quần thể hang ổ, tôi tớ dựng tượng đài quyền lực rồ
 
 **Hành động hang ổ.** Ở mốc sáng kiến 20 (thua khi hòa), rồng tạo một hiệu ứng sau; không dùng cùng hiệu ứng hai vòng liên tiếp:
 
-- Magma phun từ điểm trên đất rồng thấy trong 120 feet, tạo vòi phun cao 20 feet, bán kính 5 feet. Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 15, chịu 21 (6d6) sát thương lửa khi thất bại, nửa khi thành công.
-- Rung chấn lay ổ trong bán kính 60 feet quanh rồng. Mỗi sinh vật trên đất trong vùng, trừ rồng, phải thành công cứu nguy Khéo léo DC 15 hoặc ngã sấp.
-- Khí núi lửa tạo mây hình cầu bán kính 20 feet quanh điểm rồng thấy trong 120 feet. Cầu lan quanh góc, vùng bị che khuất nhẹ, tồn tại đến mốc sáng kiến 20 vòng sau. Sinh vật bắt đầu lượt trong mây phải thành công cứu nguy Thể chất DC 13 hoặc trúng độc đến cuối lượt đó; khi trúng độc theo cách này, nó mất năng lực hành động.
+- Magma phun từ điểm trên đất rồng thấy trong 36 m (120 feet), tạo vòi phun cao 6 m (20 feet), bán kính 1,5 m (5 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 15, chịu 21 (6d6) sát thương lửa khi thất bại, nửa khi thành công.
+- Rung chấn lay ổ trong bán kính 18 m (60 feet) quanh rồng. Mỗi sinh vật trên đất trong vùng, trừ rồng, phải thành công cứu nguy Khéo léo DC 15 hoặc ngã sấp.
+- Khí núi lửa tạo mây hình cầu bán kính 6 m (20 feet) quanh điểm rồng thấy trong 36 m (120 feet). Cầu lan quanh góc, vùng bị che khuất nhẹ, tồn tại đến mốc sáng kiến 20 vòng sau. Sinh vật bắt đầu lượt trong mây phải thành công cứu nguy Thể chất DC 13 hoặc trúng độc đến cuối lượt đó; khi trúng độc theo cách này, nó mất năng lực hành động.
 
 **Hiệu ứng khu vực.** Vùng chứa ổ rồng đỏ huyền thoại bị ma thuật nó biến đổi, tạo một hoặc nhiều hiệu ứng:
 
-- Động đất nhỏ thường xảy ra trong 6 mile quanh ổ.
-- Nguồn nước trong 1 mile quanh ổ nóng siêu nhiên và nhiễm lưu huỳnh.
-- Khe đá trong 1 mile quanh ổ tạo cổng đến Cõi Nguyên tố Lửa, cho sinh vật nguyên tố lửa vào thế giới và cư ngụ gần đó.
+- Động đất nhỏ thường xảy ra trong 9,6 km (6 mile) quanh ổ.
+- Nguồn nước trong 1,6 km (1 mile) quanh ổ nóng siêu nhiên và nhiễm lưu huỳnh.
+- Khe đá trong 1,6 km (1 mile) quanh ổ tạo cổng đến Cõi Nguyên tố Lửa, cho sinh vật nguyên tố lửa vào thế giới và cư ngụ gần đó.
 
 Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 
@@ -412,7 +412,7 @@ Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 
 **AC:** 15.  
 **HP:** 90 (12d10 + 24).  
-**Tốc độ:** 0 feet, bay 90 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 27 m (90 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -421,19 +421,19 @@ Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 **Kháng sát thương:** sét, sấm; đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, [bị vật lộn](99-glossary.md#grappled), tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ, bất tỉnh.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Auran.  
 **Thách thức:** 5 (1,800 XP).
 
-**Dạng khí (Air Form).** Có thể vào không gian sinh vật thù địch và dừng ở đó; đi qua khe hẹp chỉ 1 inch mà không phải chen ép.
+**Dạng khí (Air Form).** Có thể vào không gian sinh vật thù địch và dừng ở đó; đi qua khe hẹp chỉ 2,5 cm (1 inch) mà không phải chen ép.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Thực hiện hai đòn Đập.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
 
-**Lốc xoáy (Whirlwind; Hồi 4-6).** Mỗi sinh vật trong không gian nguyên tố cứu nguy Sức mạnh DC 13. Thất bại: chịu 15 (3d8 + 2) sát thương đập, bị hất xa tối đa 20 feet theo hướng ngẫu nhiên và ngã sấp. Nếu đập vào đồ vật như tường/sàn, chịu 3 (1d6) sát thương đập cho mỗi 10 feet bị hất. Nếu bị hất vào sinh vật khác, sinh vật ấy phải thành công cứu nguy Khéo léo DC 13 hoặc chịu cùng sát thương và ngã sấp. Thành công cứu nguy ban đầu: chịu nửa sát thương đập, không bị hất hoặc ngã.
+**Lốc xoáy (Whirlwind; Hồi 4-6).** Mỗi sinh vật trong không gian nguyên tố cứu nguy Sức mạnh DC 13. Thất bại: chịu 15 (3d8 + 2) sát thương đập, bị hất xa tối đa 6 m (20 feet) theo hướng ngẫu nhiên và ngã sấp. Nếu đập vào đồ vật như tường/sàn, chịu 3 (1d6) sát thương đập cho mỗi 3 m (10 feet) bị hất. Nếu bị hất vào sinh vật khác, sinh vật ấy phải thành công cứu nguy Khéo léo DC 13 hoặc chịu cùng sát thương và ngã sấp. Thành công cứu nguy ban đầu: chịu nửa sát thương đập, không bị hất hoặc ngã.
 
 Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ hồ. Nó có thể thành cơn lốc gào thét, tạo gió xoáy vừa đánh sinh vật vừa hất chúng đi.
 
@@ -447,7 +447,7 @@ Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ h
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 51 (6d10 + 18).  
-**Tốc độ:** 60 feet.  
+**Tốc độ:** 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -458,13 +458,13 @@ Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ h
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 30 feet về sinh vật rồi trúng nó bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu mục tiêu ngã sấp, allosaurus có thể Cắn một lần bằng [hành động phụ](99-glossary.md#action).
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 9 m (30 feet) về sinh vật rồi trúng nó bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu mục tiêu ngã sấp, allosaurus có thể Cắn một lần bằng [hành động phụ](99-glossary.md#action).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 15 (2d10 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 15 (2d10 + 4) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (1d8 + 4) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (1d8 + 4) sát thương chém.
 
 Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi kịp gần như mọi con mồi trên đất trống, vồ kéo sinh vật xuống bằng vuốt hiểm độc.
 
@@ -478,7 +478,7 @@ Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi k
 
 **AC:** 18 (giáp tự nhiên).  
 **HP:** 33 (6d8 + 6).  
-**Tốc độ:** 25 feet.  
+**Tốc độ:** 7,5 m (25 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -486,7 +486,7 @@ Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi k
 
 **Miễn nhiễm sát thương:** độc, tâm linh.  
 **Miễn nhiễm trạng thái:** mù, mê hoặc, điếc, kiệt sức, hoảng sợ, tê liệt, hóa đá, trúng độc.  
-**Giác quan:** thị giác mù 60 feet (mù ngoài bán kính này), Nhận biết thụ động 6.  
+**Giác quan:** thị giác mù 18 m (60 feet) (mù ngoài bán kính này), Nhận biết thụ động 6.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
@@ -498,7 +498,7 @@ Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi k
 
 **Đa đòn (Multiattack).** Giáp thực hiện hai đòn cận chiến.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương đập.
 
 Bộ [giáp tấm](99-glossary.md#plate-armor) được ma thuật ban chuyển động kêu rầm rĩ khi đi, va đập và nghiến như linh hồn báo thù của hiệp sĩ tử trận.
 
@@ -508,7 +508,7 @@ Bộ [giáp tấm](99-glossary.md#plate-armor) được ma thuật ban chuyển 
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 68 (8d12 + 16).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -520,7 +520,7 @@ Bộ [giáp tấm](99-glossary.md#plate-armor) được ma thuật ban chuyển 
 
 #### Hành động
 
-**Đuôi (Tail).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 18 (4d6 + 4) sát thương đập. Nếu mục tiêu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
+**Đuôi (Tail).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 18 (4d6 + 4) sát thương đập. Nếu mục tiêu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
 
 Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trước thú săn mồi bằng đuôi có chùy tung cú đánh hủy diệt.
 
@@ -534,7 +534,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 12.  
 **HP:** 19 (3d8 + 6).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -549,9 +549,9 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **Đa đòn (Multiattack).** Vượn thực hiện hai đòn Đấm.
 
-**Đấm (Fist).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
+**Đấm (Fist).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 25/50 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 7,5/15 m (25/50 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
 
 ### Bụi cây thức tỉnh (Awakened Shrub)
 
@@ -559,7 +559,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 9.  
 **HP:** 10 (3d6).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -575,7 +575,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 #### Hành động
 
-**Cào (Rake).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 (1d4 - 1) sát thương chém.
+**Cào (Rake).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 (1d4 - 1) sát thương chém.
 
 Đây là bụi cây bình thường được ma thuật ban ý thức và khả năng di chuyển.
 
@@ -585,7 +585,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 59 (7d12 + 14).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -601,7 +601,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 #### Hành động
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 14 (3d6 + 4) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 14 (3d6 + 4) sát thương đập.
 
 Đây là cây bình thường được ma thuật ban ý thức và khả năng di chuyển.
 
@@ -611,7 +611,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 11.  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -623,7 +623,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 #### Hành động
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương chém.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương chém.
 
 Đây là chim cao không bay được, chân khỏe, mỏ hình nêm và tính tình khó chịu.
 
@@ -633,7 +633,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 12.  
 **HP:** 3 (1d6).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -643,11 +643,11 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có [lợi thế](99-glossary.md#advantage) khi tung tấn công sinh vật nếu ít nhất một đồng minh của khỉ trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có [lợi thế](99-glossary.md#advantage) khi tung tấn công sinh vật nếu ít nhất một đồng minh của khỉ trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 (1d4 - 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 (1d4 - 1) sát thương xuyên.
 
 ### Lửng (Badger)
 
@@ -655,13 +655,13 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 10.  
 **HP:** 3 (1d4 + 1).  
-**Tốc độ:** 20 feet, đào 5 feet.  
+**Tốc độ:** 6 m (20 feet), đào 1,5 m (5 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -669,7 +669,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 ### [Nữ yêu than khóc](99-glossary.md#banshee) (Banshee)
 
@@ -681,7 +681,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **AC:** 12.  
 **HP:** 58 (13d8).  
-**Tốc độ:** 0 feet, bay 40 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 12 m (40 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -691,21 +691,21 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 **Kháng sát thương:** axit, lửa, sét, sấm; đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** lạnh, hoại tử, độc.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, hoảng sợ, bị vật lộn, tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Common, Elvish.  
 **Thách thức:** 4 (1,100 XP).
 
-**Phát hiện sự sống (Detect Life).** Cảm nhận bằng ma thuật sự hiện diện sinh vật không phải xác sống/cấu thể trong tối đa 5 mile. Biết hướng chung, không biết vị trí chính xác.
+**Phát hiện sự sống (Detect Life).** Cảm nhận bằng ma thuật sự hiện diện sinh vật không phải xác sống/cấu thể trong tối đa 8 km (5 mile). Biết hướng chung, không biết vị trí chính xác.
 
 **Di chuyển phi thể xác (Incorporeal Movement).** Đi xuyên sinh vật và đồ vật như [địa hình khó](99-glossary.md#difficult-terrain) đi. Chịu 5 (1d10) sát thương lực nếu kết thúc lượt trong đồ vật.
 
 #### Hành động
 
-**Chạm suy đồi (Corrupting Touch).** Tấn công phép cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 12 (3d6 + 2) sát thương hoại tử.
+**Chạm suy đồi (Corrupting Touch).** Tấn công phép cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 12 (3d6 + 2) sát thương hoại tử.
 
-**Diện mạo kinh hoàng (Horrifying Visage).** Mỗi sinh vật không phải xác sống trong 60 feet thấy banshee phải thành công cứu nguy Minh triết DC 13 hoặc hoảng sợ 1 phút. Mục tiêu hoảng sợ cứu nguy lại cuối mỗi lượt, có bất lợi nếu banshee trong đường nhìn; thành công chấm dứt hiệu ứng. Cứu nguy thành công hoặc hiệu ứng kết thúc cho mục tiêu khiến nó miễn nhiễm Diện mạo kinh hoàng của banshee trong 24 giờ tiếp theo.
+**Diện mạo kinh hoàng (Horrifying Visage).** Mỗi sinh vật không phải xác sống trong 18 m (60 feet) thấy banshee phải thành công cứu nguy Minh triết DC 13 hoặc hoảng sợ 1 phút. Mục tiêu hoảng sợ cứu nguy lại cuối mỗi lượt, có bất lợi nếu banshee trong đường nhìn; thành công chấm dứt hiệu ứng. Cứu nguy thành công hoặc hiệu ứng kết thúc cho mục tiêu khiến nó miễn nhiễm Diện mạo kinh hoàng của banshee trong 24 giờ tiếp theo.
 
-**Than khóc (Wail; 1/ngày).** Nếu không ở ánh nắng, banshee phát tiếng than thê lương, không tác dụng cấu thể/xác sống. Mọi sinh vật khác trong 30 feet nghe được cứu nguy Thể chất DC 13. Thất bại: xuống 0 HP. Thành công: chịu 10 (3d6) sát thương tâm linh.
+**Than khóc (Wail; 1/ngày).** Nếu không ở ánh nắng, banshee phát tiếng than thê lương, không tác dụng cấu thể/xác sống. Mọi sinh vật khác trong 9 m (30 feet) nghe được cứu nguy Thể chất DC 13. Thất bại: xuống 0 HP. Thành công: chịu 10 (3d6) sát thương tâm linh.
 
 Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf nữ. Mặt phủ tóc rối hoang dại, thân khoác giẻ mỏng phấp phới, kéo dài quanh mình.
 
@@ -715,13 +715,13 @@ Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf
 
 **AC:** 12.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 5 feet, bay 30 feet.  
+**Tốc độ:** 1,5 m (5 feet), bay 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
-**Giác quan:** thị giác mù 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác mù 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -731,7 +731,7 @@ Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 1 sát thương xuyên.
 
 ### [Basilisk](99-glossary.md#basilisk) (Basilisk)
 
@@ -743,25 +743,25 @@ Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 52 (8d8 + 16).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 3 (700 XP).
 
-**Ánh nhìn hóa đá (Petrifying Gaze).** Nếu sinh vật bắt đầu lượt trong 30 feet và hai bên thấy nhau, basilisk không mất năng lực hành động có thể buộc nó cứu nguy Thể chất DC 12. Thất bại: bắt đầu hóa đá bằng ma thuật và bị kiềm giữ. Phải cứu nguy lại cuối lượt tiếp theo: thành công chấm dứt hiệu ứng, thất bại hóa đá đến khi được *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
+**Ánh nhìn hóa đá (Petrifying Gaze).** Nếu sinh vật bắt đầu lượt trong 9 m (30 feet) và hai bên thấy nhau, basilisk không mất năng lực hành động có thể buộc nó cứu nguy Thể chất DC 12. Thất bại: bắt đầu hóa đá bằng ma thuật và bị kiềm giữ. Phải cứu nguy lại cuối lượt tiếp theo: thành công chấm dứt hiệu ứng, thất bại hóa đá đến khi được *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
 
 Sinh vật không bị bất ngờ có thể tránh mắt để không cứu nguy đầu lượt. Khi vậy không thấy basilisk đến đầu lượt tiếp theo, lúc có thể tiếp tục tránh mắt. Nếu nhìn basilisk trong thời gian đó, phải cứu nguy ngay.
 
-Nếu thấy ảnh phản chiếu của mình trong 30 feet dưới ánh sáng mạnh, basilisk tưởng là đối thủ và nhắm chính mình bằng ánh nhìn.
+Nếu thấy ảnh phản chiếu của mình trong 9 m (30 feet) dưới ánh sáng mạnh, basilisk tưởng là đối thủ và nhắm chính mình bằng ánh nhìn.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên cộng 7 (2d6) sát thương độc.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên cộng 7 (2d6) sát thương độc.
 
 Basilisk là nỗi kinh hoàng bò sát nhiều chân; ánh nhìn chết chóc biến nạn nhân thành đá xốp. Hàm mạnh cho nó ăn đá này, vốn trở lại dạng hữu cơ trong cổ họng nó.
 
@@ -771,7 +771,7 @@ Basilisk là nỗi kinh hoàng bò sát nhiều chân; ánh nhìn chết chóc b
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 19 (3d8 + 6).  
-**Tốc độ:** 40 feet, leo 30 feet.  
+**Tốc độ:** 12 m (40 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -788,9 +788,9 @@ Basilisk là nỗi kinh hoàng bò sát nhiều chân; ánh nhìn chết chóc b
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn và một Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (2d4 + 2) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (2d4 + 2) sát thương chém.
 
 ### Chó chớp biến (Blink Dog)
 
@@ -798,7 +798,7 @@ Basilisk là nỗi kinh hoàng bò sát nhiều chân; ánh nhìn chết chóc b
 
 **AC:** 13.  
 **HP:** 22 (4d8 + 4).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -813,9 +813,9 @@ Basilisk là nỗi kinh hoàng bò sát nhiều chân; ánh nhìn chết chóc b
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên.
 
-**Dịch chuyển tức thời (Teleport; Hồi 4-6).** Chó dịch chuyển bằng ma thuật cùng mọi trang bị đang mặc/mang, tối đa 40 feet đến không gian trống nó thấy. Trước hoặc sau dịch chuyển, có thể Cắn một lần.
+**Dịch chuyển tức thời (Teleport; Hồi 4-6).** Chó dịch chuyển bằng ma thuật cùng mọi trang bị đang mặc/mang, tối đa 12 m (40 feet) đến không gian trống nó thấy. Trước hoặc sau dịch chuyển, có thể Cắn một lần.
 
 Tên chó chớp biến đến từ khả năng chớp vào/ra khỏi sự tồn tại, dùng hỗ trợ tấn công và tránh tổn hại.
 
@@ -825,7 +825,7 @@ Tên chó chớp biến đến từ khả năng chớp vào/ra khỏi sự tồn
 
 **AC:** 12.  
 **HP:** 7 (2d6).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -838,11 +838,11 @@ Tên chó chớp biến đến từ khả năng chớp vào/ra khỏi sự tồn
 
 **Thị giác nhạy (Keen Sight).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nhìn.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của diều hâu trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của diều hâu trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
 
 Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâu máu tấn công không sợ hãi bằng mỏ như dao găm.
 
@@ -852,7 +852,7 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -862,13 +862,13 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Nanh cùng lượt, mục tiêu chịu thêm 3 (1d6) sát thương chém. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Nanh cùng lượt, mục tiêu chịu thêm 3 (1d6) sát thương chém. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
 
 **Bền bỉ (Relentless; hồi sau nghỉ ngắn hoặc dài).** Nếu chịu 7 sát thương trở xuống khiến xuống 0 HP, lợn rừng xuống 1 HP thay thế.
 
 #### Hành động
 
-**Nanh (Tusk).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương chém.
+**Nanh (Tusk).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương chém.
 
 ### Gấu nâu (Brown Bear)
 
@@ -876,7 +876,7 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 34 (4d10 + 12).  
-**Tốc độ:** 40 feet, leo 30 feet.  
+**Tốc độ:** 12 m (40 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -893,9 +893,9 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn và một Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (1d8 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (1d8 + 4) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
 
 ### Bugbear (Bugbear)
 
@@ -903,14 +903,14 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 
 **AC:** 16 (giáp da thú, khiên).  
 **HP:** 27 (5d8 + 5).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
 **Kỹ năng:** Ẩn nấp +6, Sinh tồn +2.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Common, Goblin.  
 **Thách thức:** 1 (200 XP).
 
@@ -920,9 +920,9 @@ Tên gọi đến từ lông đỏ thẫm và bản tính hung hăng; diều hâ
 
 #### Hành động
 
-**Chùy gai (Morningstar).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d8 + 2) sát thương xuyên.
+**Chùy gai (Morningstar).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d8 + 2) sát thương xuyên.
 
-**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 5 feet hoặc tầm 30/120 feet, một mục tiêu. Trúng: 9 (2d6 + 2) sát thương xuyên khi cận chiến, hoặc 5 (1d6 + 2) khi tầm xa.
+**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 9 (2d6 + 2) sát thương xuyên khi cận chiến, hoặc 5 (1d6 + 2) khi tầm xa.
 
 Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn loạn. Chúng sống bằng cướp phá và săn bắn, thích phục kích và bỏ chạy khi yếu thế.
 
@@ -932,7 +932,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 **AC:** 9.  
 **HP:** 15 (2d10 + 4).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -944,7 +944,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d4) sát thương đập.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d4) sát thương đập.
 
 ### Mèo (Cat)
 
@@ -952,7 +952,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 **AC:** 12.  
 **HP:** 2 (1d4).  
-**Tốc độ:** 40 feet, leo 30 feet.  
+**Tốc độ:** 12 m (40 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -967,7 +967,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 #### Hành động
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương chém.
 
 ### Nhân mã (Centaur)
 
@@ -975,7 +975,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 **AC:** 12.  
 **HP:** 45 (6d10 + 12).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -986,17 +986,17 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 **Ngôn ngữ:** Elvish, Sylvan.  
 **Thách thức:** 2 (450 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 30 feet về mục tiêu rồi trúng bằng Giáo dài cùng lượt, mục tiêu chịu thêm 10 (3d6) sát thương xuyên.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 9 m (30 feet) về mục tiêu rồi trúng bằng Giáo dài cùng lượt, mục tiêu chịu thêm 10 (3d6) sát thương xuyên.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn: một Giáo dài và một Móng guốc, hoặc hai Cung dài.
 
-**Giáo dài (Pike).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 9 (1d10 + 4) sát thương xuyên.
+**Giáo dài (Pike).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 9 (1d10 + 4) sát thương xuyên.
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
 
-**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 150/600 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
+**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 45/180 m (150/600 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
 
 Nhân mã có thân ngựa lớn với phần thân trên, đầu và tay của nhân dạng. Là kẻ lang thang ẩn dật, chúng tránh xung đột nhưng chiến đấu dữ dội khi bị ép.
 
@@ -1006,14 +1006,14 @@ Nhân mã có thân ngựa lớn với phần thân trên, đầu và tay của 
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 114 (12d10 + 48).  
-**Tốc độ:** 30 feet, bay 60 feet.  
+**Tốc độ:** 9 m (30 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |
 
 **Kỹ năng:** Nhận biết +8.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 18.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 18.  
 **Ngôn ngữ:** hiểu Draconic nhưng không nói được.  
 **Thách thức:** 6 (2,300 XP).
 
@@ -1021,13 +1021,13 @@ Nhân mã có thân ngựa lớn với phần thân trên, đầu và tay của 
 
 **Đa đòn (Multiattack).** Ba đòn: một Cắn, một Sừng, một Vuốt. Khi Hơi thở lửa dùng được, có thể dùng thay Cắn hoặc Sừng.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên.
 
-**Sừng (Horns).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (1d12 + 4) sát thương đập.
+**Sừng (Horns).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (1d12 + 4) sát thương đập.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
 
-**Hơi thở lửa (Fire Breath; Hồi 5-6).** Đầu rồng phun lửa hình nón 15 feet. Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 15, chịu 31 (7d8) sát thương lửa khi thất bại, nửa khi thành công.
+**Hơi thở lửa (Fire Breath; Hồi 5-6).** Đầu rồng phun lửa hình nón 4,5 m (15 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 15, chịu 31 (7d8) sát thương lửa khi thất bại, nửa khi thành công.
 
 Chimera là tổ hợp ghê tởm của dê, sư tử và rồng, có đầu cả ba. Nó thích bổ nhào từ trời và nuốt con mồi trong hơi thở lửa trước khi đáp xuống tấn công.
 
@@ -1037,19 +1037,19 @@ Chimera là tổ hợp ghê tởm của dê, sư tử và rồng, có đầu c�
 
 **AC:** 11.  
 **HP:** 27 (6d6 + 6).  
-**Tốc độ:** 20 feet, bay 40 feet.  
+**Tốc độ:** 6 m (20 feet), bay 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-3) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một sinh vật. Trúng: 3 (1d4 + 1) sát thương xuyên; mục tiêu phải thành công cứu nguy Thể chất DC 11 chống hóa đá bằng ma thuật. Thất bại: bắt đầu thành đá và bị kiềm giữ, cứu nguy lại cuối lượt tiếp theo. Thành công chấm dứt hiệu ứng; thất bại hóa đá 24 giờ.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 3 (1d4 + 1) sát thương xuyên; mục tiêu phải thành công cứu nguy Thể chất DC 11 chống hóa đá bằng ma thuật. Thất bại: bắt đầu thành đá và bị kiềm giữ, cứu nguy lại cuối lượt tiếp theo. Thành công chấm dứt hiệu ứng; thất bại hóa đá 24 giờ.
 
 Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét tiếng vì biến thịt thành đá.
 
@@ -1059,21 +1059,21 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 **AC:** 12.  
 **HP:** 13 (2d10 + 2).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Siết (Constrict).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 6 (1d8 + 2) sát thương đập; mục tiêu bị vật lộn (DC thoát 14). Đến khi vật lộn kết thúc, sinh vật bị kiềm giữ và trăn không thể Siết mục tiêu khác.
+**Siết (Constrict).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 6 (1d8 + 2) sát thương đập; mục tiêu bị vật lộn (DC thoát 14). Đến khi vật lộn kết thúc, sinh vật bị kiềm giữ và trăn không thể Siết mục tiêu khác.
 
 ### Cua (Crab)
 
@@ -1081,14 +1081,14 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 2 (1d4).  
-**Tốc độ:** 20 feet, bơi 20 feet.  
+**Tốc độ:** 6 m (20 feet), bơi 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Kỹ năng:** Ẩn nấp +2.  
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -1096,7 +1096,7 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 #### Hành động
 
-**Càng (Claw).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương đập.
+**Càng (Claw).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương đập.
 
 ### Cá sấu (Crocodile)
 
@@ -1104,7 +1104,7 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 20 feet, bơi 30 feet.  
+**Tốc độ:** 6 m (20 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1119,7 +1119,7 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 12). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và cá sấu không thể Cắn mục tiêu khác.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 12). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và cá sấu không thể Cắn mục tiêu khác.
 
 ### Khổng nhân một mắt (Cyclops)
 
@@ -1131,7 +1131,7 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 138 (12d12 + 60).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1141,15 +1141,15 @@ Cockatrice giống lai kinh tởm của thằn lằn, chim và dơi. Nó khét t
 **Ngôn ngữ:** Giant.  
 **Thách thức:** 6 (2,300 XP).
 
-**Ước lượng chiều sâu kém (Poor Depth Perception).** Có bất lợi mọi tung tấn công vào mục tiêu xa hơn 30 feet.
+**Ước lượng chiều sâu kém (Poor Depth Perception).** Có bất lợi mọi tung tấn công vào mục tiêu xa hơn 9 m (30 feet).
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn Chùy lớn.
 
-**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 19 (3d8 + 6) sát thương đập.
+**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 19 (3d8 + 6) sát thương đập.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 30/120 feet, một mục tiêu. Trúng: 28 (4d10 + 6) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 28 (4d10 + 6) sát thương đập.
 
 Cyclops là khổng nhân một mắt sống chật vật ở vùng hoang dã. Kích cỡ và sức mạnh khiến chúng đáng sợ trong chiến đấu, nhưng kẻ thù thông minh thường lừa được chúng.
 
@@ -1159,14 +1159,14 @@ Cyclops là khổng nhân một mắt sống chật vật ở vùng hoang dã. K
 
 **AC:** 12.  
 **HP:** 39 (6d8 + 12).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4) | 13 (+1) | 6 (-2) |
 
 **Kỹ năng:** Nhận biết +5, Ẩn nấp +4.  
-**Giác quan:** thị giác bóng tối 120 feet, Nhận biết thụ động 15.  
+**Giác quan:** thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 15.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
@@ -1176,7 +1176,7 @@ Cyclops là khổng nhân một mắt sống chật vật ở vùng hoang dã. K
 
 **Đa đòn (Multiattack).** Hai đòn Cắn.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Thể chất DC 12 chống bệnh hoặc trúng độc đến khi chữa bệnh. Mỗi 24 giờ qua đi, cứu nguy lại, thất bại giảm HP tối đa 5 (1d10). Giảm này tồn tại đến khi chữa bệnh. Sinh vật chết nếu bệnh giảm HP tối đa xuống 0.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Thể chất DC 12 chống bệnh hoặc trúng độc đến khi chữa bệnh. Mỗi 24 giờ qua đi, cứu nguy lại, thất bại giảm HP tối đa 5 (1d10). Giảm này tồn tại đến khi chữa bệnh. Sinh vật chết nếu bệnh giảm HP tối đa xuống 0.
 
 Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, sa mạc và Underdark.
 
@@ -1186,7 +1186,7 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **AC:** 13.  
 **HP:** 4 (1d8).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1198,7 +1198,7 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d4) sát thương xuyên.
 
 ### Sói hung (Dire Wolf)
 
@@ -1206,7 +1206,7 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 37 (5d10 + 10).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1219,11 +1219,11 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **Thính giác và khứu giác nhạy (Keen Hearing and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nghe hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
 
 ### Kẻ giả dạng (Doppelganger)
 
@@ -1231,7 +1231,7 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **AC:** 14.  
 **HP:** 52 (8d8 + 16).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1239,7 +1239,7 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **Kỹ năng:** Lừa dối +6, Thấu hiểu +3.  
 **Miễn nhiễm trạng thái:** mê hoặc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** Common.  
 **Thách thức:** 3 (700 XP).
 
@@ -1253,9 +1253,9 @@ Chó tử thần là chó săn hai đầu xấu xí lang thang đồng bằng, s
 
 **Đa đòn (Multiattack).** Hai đòn cận chiến.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d6 + 4) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d6 + 4) sát thương đập.
 
-**Đọc suy nghĩ (Read Thoughts).** Đọc bằng ma thuật suy nghĩ bề mặt một sinh vật trong 60 feet. Xuyên rào chắn, nhưng bị chặn bởi 3 feet gỗ/đất, 2 feet đá, 2 inch kim loại hoặc lá chì mỏng. Khi mục tiêu trong tầm, có thể tiếp tục đọc miễn tập trung không bị phá (như tập trung phép). Khi đọc tâm trí mục tiêu, có lợi thế kiểm tra Minh triết (Thấu hiểu) và Sức hút (Lừa dối, Đe dọa, Thuyết phục) chống mục tiêu.
+**Đọc suy nghĩ (Read Thoughts).** Đọc bằng ma thuật suy nghĩ bề mặt một sinh vật trong 18 m (60 feet). Xuyên rào chắn, nhưng bị chặn bởi 0,9 m (3 feet) gỗ/đất, 0,6 m (2 feet) đá, 5 cm (2 inch) kim loại hoặc lá chì mỏng. Khi mục tiêu trong tầm, có thể tiếp tục đọc miễn tập trung không bị phá (như tập trung phép). Khi đọc tâm trí mục tiêu, có lợi thế kiểm tra Minh triết (Thấu hiểu) và Sức hút (Lừa dối, Đe dọa, Thuyết phục) chống mục tiêu.
 
 Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạng khác để cắt đuôi truy đuổi hoặc lừa nạn nhân vào chỗ chết bằng đánh lạc hướng và cải trang.
 
@@ -1265,7 +1265,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 **AC:** 10.  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1277,7 +1277,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (2d4 + 4) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (2d4 + 4) sát thương đập.
 
 ### Đại bàng (Eagle)
 
@@ -1285,7 +1285,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 **AC:** 12.  
 **HP:** 3 (1d6).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1300,7 +1300,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 #### Hành động
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương chém.
 
 ### Nguyên tố đất (Earth Elemental)
 
@@ -1308,7 +1308,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 **AC:** 17 (giáp tự nhiên).  
 **HP:** 126 (12d10 + 60).  
-**Tốc độ:** 30 feet, đào 30 feet.  
+**Tốc độ:** 9 m (30 feet), đào 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1318,7 +1318,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 **Kháng sát thương:** đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, tê liệt, hóa đá, trúng độc, bất tỉnh.  
-**Giác quan:** thị giác bóng tối 60 feet, cảm rung 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), cảm rung 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Terran.  
 **Thách thức:** 5 (1,800 XP).
 
@@ -1330,7 +1330,7 @@ Doppelganger là kẻ đổi dạng xảo quyệt nhận vẻ ngoài nhân dạn
 
 **Đa đòn (Multiattack).** Hai đòn Đập.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
 
 Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm chởm như chùy đung đưa hai bên. Đầu và thân là đất/đá, đôi khi gắn khối kim loại, đá quý và khoáng vật sáng.
 
@@ -1340,7 +1340,7 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 76 (8d12 + 24).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1350,13 +1350,13 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 **Ngôn ngữ:** —.  
 **Thách thức:** 4 (1,100 XP).
 
-**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 12 hoặc ngã sấp. Nếu mục tiêu ngã sấp, voi có thể Giẫm một lần bằng hành động phụ.
+**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 12 hoặc ngã sấp. Nếu mục tiêu ngã sấp, voi có thể Giẫm một lần bằng hành động phụ.
 
 #### Hành động
 
-**Húc (Gore).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 18 (3d8 + 5) sát thương xuyên.
+**Húc (Gore).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 18 (3d8 + 5) sát thương xuyên.
 
-**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 5 feet, một sinh vật ngã sấp. Trúng: 21 (3d10 + 5) sát thương đập.
+**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 1,5 m (5 feet), một sinh vật ngã sấp. Trúng: 21 (3d10 + 5) sát thương đập.
 
 ### Nai sừng lớn (Elk)
 
@@ -1364,7 +1364,7 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 
 **AC:** 10.  
 **HP:** 13 (2d10 + 2).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1374,13 +1374,13 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, mục tiêu chịu thêm 7 (2d6) sát thương. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, mục tiêu chịu thêm 7 (2d6) sát thương. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương đập.
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một sinh vật ngã sấp. Trúng: 8 (2d4 + 3) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một sinh vật ngã sấp. Trúng: 8 (2d4 + 3) sát thương đập.
 
 ### Nguyên tố lửa (Fire Elemental)
 
@@ -1388,7 +1388,7 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 
 **AC:** 13.  
 **HP:** 102 (12d10 + 36).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1397,21 +1397,21 @@ Nguyên tố đất bước nặng nề như đồi biết đi, tay đá lởm c
 **Kháng sát thương:** đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** lửa, độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, bị vật lộn, tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ, bất tỉnh.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Ignan.  
 **Thách thức:** 5 (1,800 XP).
 
-**Dạng lửa (Fire Form).** Đi qua khe chỉ 1 inch không cần chen ép. Sinh vật chạm nguyên tố hoặc đánh trúng nó bằng đòn cận chiến khi trong 5 feet chịu 5 (1d10) sát thương lửa. Nguyên tố còn có thể vào không gian sinh vật thù địch và dừng ở đó. Lần đầu vào không gian sinh vật trong một lượt, sinh vật ấy chịu 5 (1d10) sát thương lửa và bốc cháy; đến khi ai đó dùng hành động dập lửa, chịu 5 (1d10) sát thương lửa đầu mỗi lượt mình.
+**Dạng lửa (Fire Form).** Đi qua khe chỉ 2,5 cm (1 inch) không cần chen ép. Sinh vật chạm nguyên tố hoặc đánh trúng nó bằng đòn cận chiến khi trong 1,5 m (5 feet) chịu 5 (1d10) sát thương lửa. Nguyên tố còn có thể vào không gian sinh vật thù địch và dừng ở đó. Lần đầu vào không gian sinh vật trong một lượt, sinh vật ấy chịu 5 (1d10) sát thương lửa và bốc cháy; đến khi ai đó dùng hành động dập lửa, chịu 5 (1d10) sát thương lửa đầu mỗi lượt mình.
 
-**Chiếu sáng (Illumination).** Ánh sáng mạnh bán kính 30 feet, ánh sáng yếu thêm 30 feet.
+**Chiếu sáng (Illumination).** Ánh sáng mạnh bán kính 9 m (30 feet), ánh sáng yếu thêm 9 m (30 feet).
 
-**Dễ bị nước (Water Susceptibility).** Mỗi 5 feet đi trong nước hoặc mỗi gallon nước tạt lên, chịu 1 sát thương lạnh.
+**Dễ bị nước (Water Susceptibility).** Mỗi 1,5 m (5 feet) đi trong nước hoặc mỗi 3,8 lít (1 gallon) nước tạt lên, chịu 1 sát thương lạnh.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn Chạm.
 
-**Chạm (Touch).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương lửa. Nếu là sinh vật hoặc đồ vật dễ cháy, mục tiêu bốc cháy. Đến khi sinh vật dùng hành động dập lửa, mục tiêu chịu 5 (1d10) sát thương lửa đầu mỗi lượt mình.
+**Chạm (Touch).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương lửa. Nếu là sinh vật hoặc đồ vật dễ cháy, mục tiêu bốc cháy. Đến khi sinh vật dùng hành động dập lửa, mục tiêu chịu 5 (1d10) sát thương lửa đầu mỗi lượt mình.
 
 Hình nhân dạng mờ xuất hiện trong sự tàn phá thất thường của nguyên tố lửa. Nó đi đâu đốt cháy xung quanh đó, biến thế giới thành tro, khói và than.
 
@@ -1421,7 +1421,7 @@ Hình nhân dạng mờ xuất hiện trong sự tàn phá thất thường củ
 
 **AC:** 18 (giáp tấm).  
 **HP:** 162 (13d12 + 78).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1438,9 +1438,9 @@ Hình nhân dạng mờ xuất hiện trong sự tàn phá thất thường củ
 
 **Đa đòn (Multiattack).** Hai đòn Kiếm lớn.
 
-**Kiếm lớn (Greatsword).** Tấn công vũ khí cận chiến: +11 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 28 (6d6 + 7) sát thương chém.
+**Kiếm lớn (Greatsword).** Tấn công vũ khí cận chiến: +11 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 28 (6d6 + 7) sát thương chém.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +11 để trúng, tầm 60/240 feet, một mục tiêu. Trúng: 29 (4d10 + 7) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +11 để trúng, tầm 18/72 m (60/240 feet), một mục tiêu. Trúng: 29 (4d10 + 7) sát thương đập.
 
 Da sẫm và tóc đỏ rực, khổng nhân lửa nổi tiếng đáng sợ là lính và kẻ chinh phục. Chúng sống giữa núi lửa, dòng dung nham và núi đá, nổi danh khả năng thiêu đốt, cướp bóc và hủy diệt.
 
@@ -1450,7 +1450,7 @@ Da sẫm và tóc đỏ rực, khổng nhân lửa nổi tiếng đáng sợ là
 
 **AC:** 13.  
 **HP:** 40 (9d4 + 18).  
-**Tốc độ:** 0 feet, bay 40 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 12 m (40 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1460,11 +1460,11 @@ Da sẫm và tóc đỏ rực, khổng nhân lửa nổi tiếng đáng sợ là
 **Kháng sát thương:** sét, hoại tử, xuyên.  
 **Miễn nhiễm sát thương:** lạnh, lửa, độc.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, tê liệt, trúng độc, ngã sấp.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** Common.  
 **Thách thức:** 4 (1,100 XP).
 
-**Chiếu sáng (Illumination).** Tỏa ánh sáng yếu bán kính 15 feet, hoặc ánh sáng mạnh bán kính 15 feet và yếu thêm 15 feet; dùng hành động đổi lựa chọn.
+**Chiếu sáng (Illumination).** Tỏa ánh sáng yếu bán kính 4,5 m (15 feet), hoặc ánh sáng mạnh bán kính 4,5 m (15 feet) và yếu thêm 4,5 m (15 feet); dùng hành động đổi lựa chọn.
 
 **Kháng ma thuật (Magic Resistance).** Có lợi thế cứu nguy chống phép và hiệu ứng ma thuật khác.
 
@@ -1481,7 +1481,7 @@ Da sẫm và tóc đỏ rực, khổng nhân lửa nổi tiếng đáng sợ là
 
 **Đa đòn (Multiattack).** Dùng Tia lửa hai lần.
 
-**Tia lửa (Fire Ray).** Tấn công phép tầm xa: +5 để trúng, tầm 30 feet, một mục tiêu. Trúng: 10 (3d6) sát thương lửa.
+**Tia lửa (Fire Ray).** Tấn công phép tầm xa: +5 để trúng, tầm 9 m (30 feet), một mục tiêu. Trúng: 10 (3d6) sát thương lửa.
 
 Lửa xanh rực và tiếng cười điên vọng quanh sọ lửa xác sống. Chiếc sọ không thân bắn tia lửa từ mắt và những phép đáng sợ gọi từ góc tối ký ức vào kẻ thù.
 
@@ -1491,7 +1491,7 @@ Lửa xanh rực và tiếng cười điên vọng quanh sọ lửa xác sống.
 
 **AC:** 9.  
 **HP:** 93 (11d8 + 44).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1499,13 +1499,13 @@ Lửa xanh rực và tiếng cười điên vọng quanh sọ lửa xác sống.
 
 **Miễn nhiễm sát thương:** sét, độc; đập, xuyên, và chém từ đòn tấn công không ma thuật không dùng vũ khí adamantine.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, hoảng sợ, tê liệt, hóa đá, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** hiểu các ngôn ngữ người tạo biết nhưng không nói được.  
 **Thách thức:** 5 (1,800 XP).
 
 **Cuồng loạn (Berserk).** Mỗi khi bắt đầu lượt với 40 HP trở xuống, tung d6; ra 6 thì cuồng loạn. Mỗi lượt cuồng loạn, đánh sinh vật gần nhất nhìn thấy. Nếu không sinh vật nào đủ gần để đi tới đánh, đánh đồ vật, ưu tiên đồ nhỏ hơn mình. Tiếp tục cuồng loạn đến khi bị phá hoặc hồi toàn bộ HP.
 
-Người tạo trong 60 feet có thể cố trấn an bằng lời chắc chắn, thuyết phục. Golem phải nghe được; người tạo dùng hành động kiểm tra Sức hút (Thuyết phục) DC 15. Thành công chấm dứt cuồng loạn. Nếu chịu sát thương khi vẫn có 40 HP trở xuống, golem có thể lại cuồng loạn.
+Người tạo trong 18 m (60 feet) có thể cố trấn an bằng lời chắc chắn, thuyết phục. Golem phải nghe được; người tạo dùng hành động kiểm tra Sức hút (Thuyết phục) DC 15. Thành công chấm dứt cuồng loạn. Nếu chịu sát thương khi vẫn có 40 HP trở xuống, golem có thể lại cuồng loạn.
 
 **Sợ lửa (Aversion of Fire).** Nếu chịu sát thương lửa, có bất lợi tung tấn công và kiểm tra thuộc tính đến cuối lượt tiếp theo.
 
@@ -1521,7 +1521,7 @@ Người tạo trong 60 feet có thể cố trấn an bằng lời chắc chắn
 
 **Đa đòn (Multiattack).** Hai đòn Đập.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
 
 Golem thịt là tổ hợp ghê rợn bộ phận nhân dạng khâu và bắt chốt thành kẻ vũ phu cơ bắp có sức mạnh đáng gờm. Mê thuật mạnh bảo vệ nó, đẩy lệch phép và mọi vũ khí trừ loại mạnh nhất.
 
@@ -1531,13 +1531,13 @@ Golem thịt là tổ hợp ghê rợn bộ phận nhân dạng khâu và bắt 
 
 **AC:** 14.  
 **HP:** 5 (2d4).  
-**Tốc độ:** 30 feet, bay 60 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bay 18 m (60 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 18 (+4) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
@@ -1545,7 +1545,7 @@ Golem thịt là tổ hợp ghê rợn bộ phận nhân dạng khâu và bắt 
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên cộng 7 (3d4) sát thương độc.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên cộng 7 (3d4) sát thương độc.
 
 Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 
@@ -1555,7 +1555,7 @@ Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 
 **AC:** 17 (giáp tự nhiên).  
 **HP:** 17 (5d6).  
-**Tốc độ:** 0 feet, bay 50 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 15 m (50 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1564,7 +1564,7 @@ Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 **Cứu nguy:** Dex +4.  
 **Miễn nhiễm sát thương:** độc, tâm linh.  
 **Miễn nhiễm trạng thái:** mù, mê hoặc, điếc, hoảng sợ, tê liệt, hóa đá, trúng độc.  
-**Giác quan:** thị giác mù 60 feet (mù ngoài bán kính này), Nhận biết thụ động 7.  
+**Giác quan:** thị giác mù 18 m (60 feet) (mù ngoài bán kính này), Nhận biết thụ động 7.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -1574,7 +1574,7 @@ Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 
 #### Hành động
 
-**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương chém.
+**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d8 + 1) sát thương chém.
 
 Kiếm bay được ma thuật ban chuyển động múa qua không trung, chiến đấu như [chiến binh](99-glossary.md#fighter) không thể bị thương.
 
@@ -1584,20 +1584,20 @@ Kiếm bay được ma thuật ban chuyển động múa qua không trung, chi�
 
 **AC:** 11.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 20 feet, bơi 20 feet.  
+**Tốc độ:** 6 m (20 feet), bơi 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Kỹ năng:** Nhận biết +1, Ẩn nấp +3.  
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (0 XP).
 
 **Lưỡng cư (Amphibious).** Thở không khí và nước.
 
-**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 10 feet, nhảy cao tối đa 5 feet, có hoặc không chạy đà.
+**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 3 m (10 feet), nhảy cao tối đa 1,5 m (5 feet), có hoặc không chạy đà.
 
 Ếch không có đòn tấn công hiệu quả. Ăn côn trùng nhỏ và thường sống gần nước, trên cây hoặc dưới đất.
 
@@ -1607,7 +1607,7 @@ Kiếm bay được ma thuật ban chuyển động múa qua không trung, chi�
 
 **AC:** 15 (giáp chắp vá).  
 **HP:** 138 (12d12 + 60).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1624,9 +1624,9 @@ Kiếm bay được ma thuật ban chuyển động múa qua không trung, chi�
 
 **Đa đòn (Multiattack).** Hai đòn Rìu lớn.
 
-**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 25 (3d12 + 6) sát thương chém.
+**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 25 (3d12 + 6) sát thương chém.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 60/240 feet, một mục tiêu. Trúng: 28 (4d10 + 6) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 18/72 m (60/240 feet), một mục tiêu. Trúng: 28 (4d10 + 6) sát thương đập.
 
 Khổng nhân băng giá là sinh vật băng tuyết, tóc/râu trắng nhạt hoặc xanh nhạt, da xanh như băng sông băng. Chúng chỉ tôn trọng vũ lực và kỹ năng chiến đấu.
 
@@ -1636,7 +1636,7 @@ Khổng nhân băng giá là sinh vật băng tuyết, tóc/râu trắng nhạt 
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 52 (7d8 + 21).  
-**Tốc độ:** 30 feet, bay 60 feet.  
+**Tốc độ:** 9 m (30 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1645,7 +1645,7 @@ Khổng nhân băng giá là sinh vật băng tuyết, tóc/râu trắng nhạt 
 **Kháng sát thương:** đập, xuyên, và chém từ đòn tấn công không ma thuật không dùng vũ khí adamantine.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, hóa đá, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Terran.  
 **Thách thức:** 2 (450 XP).
 
@@ -1655,9 +1655,9 @@ Khổng nhân băng giá là sinh vật băng tuyết, tóc/râu trắng nhạt 
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn và một Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương chém.
 
 Sinh vật nguyên tố đất hiểm ác này giống tượng quỷ dị dạng. Nó ẩn giữa công trình đá và tàn tích, thích thú nỗi kinh hoàng gây ra khi rời tư thế đứng im.
 
@@ -1667,7 +1667,7 @@ Sinh vật nguyên tố đất hiểm ác này giống tượng quỷ dị dạn
 
 **AC:** 11.  
 **HP:** 45 (10d8).  
-**Tốc độ:** 0 feet, bay 40 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 12 m (40 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1676,25 +1676,25 @@ Sinh vật nguyên tố đất hiểm ác này giống tượng quỷ dị dạn
 **Kháng sát thương:** axit, lửa, sét, sấm; đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** lạnh, hoại tử, độc.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, hoảng sợ, bị vật lộn, tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** mọi ngôn ngữ từng biết khi sống.  
 **Thách thức:** 4 (1,100 XP).
 
-**Thị giác Ethereal (Ethereal Sight).** Nhìn 60 feet vào Cõi Ethereal khi ở Cõi Vật chất, và ngược lại.
+**Thị giác Ethereal (Ethereal Sight).** Nhìn 18 m (60 feet) vào Cõi Ethereal khi ở Cõi Vật chất, và ngược lại.
 
 **Di chuyển phi thể xác (Incorporeal Movement).** Đi xuyên sinh vật/đồ vật như địa hình khó đi. Chịu 5 (1d10) sát thương lực nếu kết thúc lượt trong đồ vật.
 
 #### Hành động
 
-**Chạm héo tàn (Withering Touch).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 17 (4d6 + 3) sát thương hoại tử.
+**Chạm héo tàn (Withering Touch).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 17 (4d6 + 3) sát thương hoại tử.
 
 **Hóa Ethereal (Etherealness).** Vào Cõi Ethereal từ Cõi Vật chất, hoặc ngược lại. Vẫn thấy được trên Cõi Vật chất khi ở Vùng biên Ethereal, và ngược lại, nhưng không ảnh hưởng hoặc bị ảnh hưởng bởi bất kỳ thứ gì trên cõi kia.
 
-**Diện mạo kinh hoàng (Horrifying Visage).** Mỗi sinh vật không phải xác sống trong 60 feet thấy ma phải thành công cứu nguy Minh triết DC 13 hoặc hoảng sợ 1 phút. Nếu thiếu DC ít nhất 5, còn già đi 1d4 × 10 năm. Mục tiêu hoảng sợ cứu nguy lại cuối mỗi lượt, thành công chấm dứt hoảng sợ. Cứu nguy thành công hoặc hiệu ứng kết thúc khiến mục tiêu miễn nhiễm Diện mạo kinh hoàng của ma này 24 giờ. Có thể đảo ngược lão hóa bằng *Phục hồi cao cấp (greater restoration)*, nhưng chỉ trong 24 giờ sau khi xảy ra.
+**Diện mạo kinh hoàng (Horrifying Visage).** Mỗi sinh vật không phải xác sống trong 18 m (60 feet) thấy ma phải thành công cứu nguy Minh triết DC 13 hoặc hoảng sợ 1 phút. Nếu thiếu DC ít nhất 5, còn già đi 1d4 × 10 năm. Mục tiêu hoảng sợ cứu nguy lại cuối mỗi lượt, thành công chấm dứt hoảng sợ. Cứu nguy thành công hoặc hiệu ứng kết thúc khiến mục tiêu miễn nhiễm Diện mạo kinh hoàng của ma này 24 giờ. Có thể đảo ngược lão hóa bằng *Phục hồi cao cấp (greater restoration)*, nhưng chỉ trong 24 giờ sau khi xảy ra.
 
-**Chiếm hữu (Possession; Hồi 6).** Một nhân dạng ma thấy trong 5 feet phải thành công cứu nguy Sức hút DC 13 hoặc bị ma chiếm hữu. Ma biến mất; mục tiêu mất năng lực hành động và quyền điều khiển cơ thể. Ma điều khiển cơ thể nhưng mục tiêu vẫn nhận biết. Không thể nhắm ma bằng tấn công, phép hoặc hiệu ứng khác, trừ hiệu ứng xua xác sống. Ma giữ khuynh hướng, Trí tuệ, Minh triết, Sức hút và miễn nhiễm mê hoặc/hoảng sợ; các thông số khác dùng của mục tiêu, nhưng không nhận kiến thức, đặc tính lớp hay thành thạo của nó.
+**Chiếm hữu (Possession; Hồi 6).** Một nhân dạng ma thấy trong 1,5 m (5 feet) phải thành công cứu nguy Sức hút DC 13 hoặc bị ma chiếm hữu. Ma biến mất; mục tiêu mất năng lực hành động và quyền điều khiển cơ thể. Ma điều khiển cơ thể nhưng mục tiêu vẫn nhận biết. Không thể nhắm ma bằng tấn công, phép hoặc hiệu ứng khác, trừ hiệu ứng xua xác sống. Ma giữ khuynh hướng, Trí tuệ, Minh triết, Sức hút và miễn nhiễm mê hoặc/hoảng sợ; các thông số khác dùng của mục tiêu, nhưng không nhận kiến thức, đặc tính lớp hay thành thạo của nó.
 
-Chiếm hữu tồn tại đến khi cơ thể xuống 0 HP, ma dùng hành động phụ kết thúc, hoặc bị xua/ép ra bằng hiệu ứng như *dispel evil and good*. Khi kết thúc, ma xuất hiện trong không gian trống trong 5 feet của cơ thể. Mục tiêu miễn nhiễm Chiếm hữu của ma này 24 giờ sau cứu nguy thành công hoặc chiếm hữu kết thúc.
+Chiếm hữu tồn tại đến khi cơ thể xuống 0 HP, ma dùng hành động phụ kết thúc, hoặc bị xua/ép ra bằng hiệu ứng như *dispel evil and good*. Khi kết thúc, ma xuất hiện trong không gian trống trong 1,5 m (5 feet) của cơ thể. Mục tiêu miễn nhiễm Chiếm hữu của ma này 24 giờ sau cứu nguy thành công hoặc chiếm hữu kết thúc.
 
 Ma là linh hồn sinh vật từng sống, bị ràng buộc ám địa điểm, sinh vật hoặc đồ vật từ đời mình.
 
@@ -1704,7 +1704,7 @@ Ma là linh hồn sinh vật từng sống, bị ràng buộc ám địa điểm
 
 **AC:** 12.  
 **HP:** 22 (5d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1712,15 +1712,15 @@ Ma là linh hồn sinh vật từng sống, bị ràng buộc ám địa điểm
 
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Common.  
 **Thách thức:** 1 (200 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một sinh vật. Trúng: 9 (2d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 9 (2d6 + 2) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (2d4 + 2) sát thương chém. Nếu mục tiêu là sinh vật không phải elf/xác sống, phải thành công cứu nguy Thể chất DC 10 hoặc tê liệt 1 phút. Có thể cứu nguy lại cuối mỗi lượt, thành công chấm dứt hiệu ứng trên bản thân.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (2d4 + 2) sát thương chém. Nếu mục tiêu là sinh vật không phải elf/xác sống, phải thành công cứu nguy Thể chất DC 10 hoặc tê liệt 1 phút. Có thể cứu nguy lại cuối mỗi lượt, thành công chấm dứt hiệu ứng trên bản thân.
 
 Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong đêm, bị thôi thúc bởi cơn đói thịt nhân dạng không thể thỏa mãn.
 
@@ -1730,7 +1730,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 12.  
 **HP:** 157 (15d12 + 60).  
-**Tốc độ:** 40 feet, leo 40 feet.  
+**Tốc độ:** 12 m (40 feet), leo 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1745,9 +1745,9 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **Đa đòn (Multiattack).** Hai đòn Đấm.
 
-**Đấm (Fist).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 22 (3d10 + 6) sát thương đập.
+**Đấm (Fist).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 22 (3d10 + 6) sát thương đập.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 50/100 feet, một mục tiêu. Trúng: 30 (7d6 + 6) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +9 để trúng, tầm 15/30 m (50/100 feet), một mục tiêu. Trúng: 30 (7d6 + 6) sát thương đập.
 
 ### Lửng khổng lồ (Giant Badger)
 
@@ -1755,13 +1755,13 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 10.  
 **HP:** 13 (2d8 + 4).  
-**Tốc độ:** 30 feet, đào 10 feet.  
+**Tốc độ:** 9 m (30 feet), đào 3 m (10 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 10 (+0) | 15 (+2) | 2 (-4) | 12 (+1) | 5 (-3) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -1771,9 +1771,9 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn, một Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (2d4 + 1) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (2d4 + 1) sát thương chém.
 
 ### Dơi khổng lồ (Giant Bat)
 
@@ -1781,13 +1781,13 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 13.  
 **HP:** 22 (4d10).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 16 (+3) | 11 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |
 
-**Giác quan:** thị giác mù 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác mù 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -1797,7 +1797,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
 ### Lợn rừng khổng lồ (Giant Boar)
 
@@ -1805,7 +1805,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 42 (5d10 + 15).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1815,13 +1815,13 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Nanh cùng lượt, gây thêm 7 (2d6) sát thương chém. Nếu là sinh vật, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Nanh cùng lượt, gây thêm 7 (2d6) sát thương chém. Nếu là sinh vật, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
 
 **Bền bỉ (Relentless; hồi sau nghỉ ngắn hoặc dài).** Nếu chịu 10 sát thương trở xuống khiến xuống 0 HP, xuống 1 HP thay thế.
 
 #### Hành động
 
-**Nanh (Tusk).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
+**Nanh (Tusk).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
 
 ### Rết khổng lồ (Giant Centipede)
 
@@ -1829,19 +1829,19 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 4 (1d6 + 1).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 5 (-3) | 14 (+2) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên; mục tiêu phải thành công cứu nguy Thể chất DC 11 hoặc chịu 10 (3d6) sát thương độc. Nếu sát thương độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên; mục tiêu phải thành công cứu nguy Thể chất DC 11 hoặc chịu 10 (3d6) sát thương độc. Nếu sát thương độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
 
 ### Trăn khổng lồ (Giant Constrictor Snake)
 
@@ -1849,22 +1849,22 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 12.  
 **HP:** 60 (8d12 + 8).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Kỹ năng:** Nhận biết +2.  
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên.
 
-**Siết (Constrict).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một sinh vật. Trúng: 13 (2d8 + 4) sát thương đập, mục tiêu bị vật lộn (DC thoát 16). Đến khi vật lộn kết thúc, bị kiềm giữ và trăn không thể Siết mục tiêu khác.
+**Siết (Constrict).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 13 (2d8 + 4) sát thương đập, mục tiêu bị vật lộn (DC thoát 16). Đến khi vật lộn kết thúc, bị kiềm giữ và trăn không thể Siết mục tiêu khác.
 
 ### Cua khổng lồ (Giant Crab)
 
@@ -1872,14 +1872,14 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 13 (3d8).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Kỹ năng:** Ẩn nấp +4.  
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
@@ -1887,7 +1887,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 #### Hành động
 
-**Càng (Claw).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập; mục tiêu bị vật lộn (DC thoát 11). Cua có hai càng, mỗi càng chỉ vật lộn được một mục tiêu.
+**Càng (Claw).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập; mục tiêu bị vật lộn (DC thoát 11). Cua có hai càng, mỗi càng chỉ vật lộn được một mục tiêu.
 
 ### Cá sấu khổng lồ (Giant Crocodile)
 
@@ -1895,7 +1895,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 85 (9d12 + 27).  
-**Tốc độ:** 30 feet, bơi 50 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1912,9 +1912,9 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn, một Đuôi.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 21 (3d10 + 5) sát thương xuyên, mục tiêu bị vật lộn (DC thoát 16). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và cá sấu không thể Cắn mục tiêu khác.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 21 (3d10 + 5) sát thương xuyên, mục tiêu bị vật lộn (DC thoát 16). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và cá sấu không thể Cắn mục tiêu khác.
 
-**Đuôi (Tail).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 10 feet, một mục tiêu không bị cá sấu vật lộn. Trúng: 14 (2d8 + 5) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 16 hoặc ngã sấp.
+**Đuôi (Tail).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 3 m (10 feet), một mục tiêu không bị cá sấu vật lộn. Trúng: 14 (2d8 + 5) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 16 hoặc ngã sấp.
 
 ### Đại bàng khổng lồ (Giant Eagle)
 
@@ -1922,7 +1922,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 13.  
 **HP:** 26 (4d10 + 4).  
-**Tốc độ:** 10 feet, bay 80 feet.  
+**Tốc độ:** 3 m (10 feet), bay 24 m (80 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1939,9 +1939,9 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **Đa đòn (Multiattack).** Hai đòn: một Mỏ, một Vuốt chân.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
 
 Đại bàng khổng lồ là sinh vật cao quý nói ngôn ngữ riêng và hiểu một số lời nói.
 
@@ -1951,7 +1951,7 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 42 (5d12 + 10).  
-**Tốc độ:** 60 feet.  
+**Tốc độ:** 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -1962,13 +1962,13 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 **Ngôn ngữ:** Giant Elk, hiểu Common, Elvish, và Sylvan nhưng không nói được các ngôn ngữ đó.  
 **Thách thức:** 2 (450 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 7 (2d6) sát thương. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 7 (2d6) sát thương. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một sinh vật ngã sấp. Trúng: 22 (4d8 + 4) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một sinh vật ngã sấp. Trúng: 22 (4d8 + 4) sát thương đập.
 
 ### Bọ lửa khổng lồ (Giant Fire Beetle)
 
@@ -1976,21 +1976,21 @@ Với răng bén như dao và vuốt lởm chởm, ghoul đi từng bầy trong 
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 4 (1d6 + 1).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 10 (+0) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
-**Chiếu sáng (Illumination).** Ánh sáng mạnh bán kính 10 feet, ánh sáng yếu thêm 10 feet.
+**Chiếu sáng (Illumination).** Ánh sáng mạnh bán kính 3 m (10 feet), ánh sáng yếu thêm 3 m (10 feet).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d6 - 1) sát thương chém.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d6 - 1) sát thương chém.
 
 Bọ lửa khổng lồ sống về đêm, có hai tuyến phát sáng tiếp tục tỏa sáng 1d6 ngày sau khi chết.
 
@@ -2000,28 +2000,28 @@ Bọ lửa khổng lồ sống về đêm, có hai tuyến phát sáng tiếp t�
 
 **AC:** 11.  
 **HP:** 18 (4d8).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Kỹ năng:** Nhận biết +2, Ẩn nấp +3.  
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
 **Lưỡng cư (Amphibious).** Thở không khí và nước.
 
-**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 20 feet, cao tối đa 10 feet, có hoặc không chạy đà.
+**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 6 m (20 feet), cao tối đa 3 m (10 feet), có hoặc không chạy đà.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 11). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và ếch không thể Cắn mục tiêu khác.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 11). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và ếch không thể Cắn mục tiêu khác.
 
 **Nuốt (Swallow).** Cắn một lần vào mục tiêu Nhỏ trở xuống đang bị nó vật lộn. Nếu trúng, nuốt mục tiêu và vật lộn kết thúc. Mục tiêu bị nuốt mù và kiềm giữ, có [che chắn](99-glossary.md#cover) toàn bộ trước tấn công/hiệu ứng ngoài ếch, chịu 5 (2d4) sát thương axit đầu mỗi lượt ếch. Mỗi lần chỉ chứa một mục tiêu bị nuốt.
 
-Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, có thể dùng 5 feet di chuyển thoát xác, ra ngoài ở tư thế ngã sấp.
+Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, có thể dùng 1,5 m (5 feet) di chuyển thoát xác, ra ngoài ở tư thế ngã sấp.
 
 ### Dê khổng lồ (Giant Goat)
 
@@ -2029,7 +2029,7 @@ Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, c�
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2039,13 +2039,13 @@ Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, c�
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 5 (2d4) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 5 (2d4) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
 
 **Chân vững (Sure-Footed).** Có lợi thế cứu nguy Sức mạnh/Khéo léo chống hiệu ứng gây ngã sấp.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (2d4 + 3) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (2d4 + 3) sát thương đập.
 
 ### Linh cẩu khổng lồ (Giant Hyena)
 
@@ -2053,7 +2053,7 @@ Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, c�
 
 **AC:** 12.  
 **HP:** 45 (6d10 + 12).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2068,7 +2068,7 @@ Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, c�
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên.
 
 ### Thằn lằn khổng lồ (Giant Lizard)
 
@@ -2076,19 +2076,19 @@ Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, c�
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
 
 Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nhân dạng bò sát và cư dân Underdark dùng làm thú cưỡi hoặc kéo.
 
@@ -2102,14 +2102,14 @@ Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nh�
 
 **AC:** 11.  
 **HP:** 52 (8d10 + 8).  
-**Tốc độ:** 10 feet, bơi 60 feet.  
+**Tốc độ:** 3 m (10 feet), bơi 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 13 (+1) | 13 (+1) | 4 (-3) | 10 (+0) | 4 (-3) |
 
 **Kỹ năng:** Nhận biết +4, Ẩn nấp +5.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 14.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 14.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
@@ -2121,9 +2121,9 @@ Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nh�
 
 #### Hành động
 
-**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 15 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương đập. Nếu là sinh vật, bị vật lộn (DC thoát 16). Đến khi kết thúc, mục tiêu bị kiềm giữ và bạch tuộc không thể dùng xúc tu lên mục tiêu khác.
+**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 4,5 m (15 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương đập. Nếu là sinh vật, bị vật lộn (DC thoát 16). Đến khi kết thúc, mục tiêu bị kiềm giữ và bạch tuộc không thể dùng xúc tu lên mục tiêu khác.
 
-**Mây mực (Ink Cloud; hồi sau nghỉ ngắn hoặc dài).** Nếu dưới nước, mây mực bán kính 20 feet lan mọi phía quanh bạch tuộc. Vùng bị che khuất nặng 1 phút, nhưng dòng chảy mạnh có thể phân tán mực. Sau phun mực, có thể dùng Chạy nước rút bằng hành động phụ.
+**Mây mực (Ink Cloud; hồi sau nghỉ ngắn hoặc dài).** Nếu dưới nước, mây mực bán kính 6 m (20 feet) lan mọi phía quanh bạch tuộc. Vùng bị che khuất nặng 1 phút, nhưng dòng chảy mạnh có thể phân tán mực. Sau phun mực, có thể dùng Chạy nước rút bằng hành động phụ.
 
 ### Cú khổng lồ (Giant Owl)
 
@@ -2131,14 +2131,14 @@ Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nh�
 
 **AC:** 12.  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 5 feet, bay 60 feet.  
+**Tốc độ:** 1,5 m (5 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 15 (+2) | 12 (+1) | 8 (-1) | 13 (+1) | 10 (+0) |
 
 **Kỹ năng:** Nhận biết +5, Ẩn nấp +4.  
-**Giác quan:** thị giác bóng tối 120 feet, Nhận biết thụ động 15.  
+**Giác quan:** thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 15.  
 **Ngôn ngữ:** Giant Owl, hiểu Common, Elvish, và Sylvan nhưng không nói được các ngôn ngữ đó.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -2148,7 +2148,7 @@ Thằn lằn khổng lồ là thú săn mồi đáng sợ thường được nh�
 
 #### Hành động
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (2d6 + 1) sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (2d6 + 1) sát thương chém.
 
 Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của mình.
 
@@ -2158,20 +2158,20 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 
 **AC:** 14.  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 18 (+4) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Kỹ năng:** Nhận biết +2.  
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 6 (1d4 + 4) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 10 (3d6) sát thương độc khi thất bại, nửa khi thành công.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 6 (1d4 + 4) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 10 (3d6) sát thương độc khi thất bại, nửa khi thành công.
 
 ### Chuột khổng lồ (Giant Rat)
 
@@ -2179,23 +2179,23 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 
 **AC:** 12.  
 **HP:** 7 (2d6).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
 **Khứu giác nhạy (Keen Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chuột trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chuột trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
 
 ### Bọ cạp khổng lồ (Giant Scorpion)
 
@@ -2203,13 +2203,13 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 52 (7d10 + 14).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 13 (+1) | 15 (+2) | 1 (-5) | 9 (-1) | 3 (-4) |
 
-**Giác quan:** thị giác mù 60 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác mù 18 m (60 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 3 (700 XP).
 
@@ -2217,9 +2217,9 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 
 **Đa đòn (Multiattack).** Ba đòn: hai Càng, một Chích.
 
-**Càng (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương đập; mục tiêu bị vật lộn (DC thoát 12). Hai càng, mỗi càng chỉ vật lộn được một mục tiêu.
+**Càng (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương đập; mục tiêu bị vật lộn (DC thoát 12). Hai càng, mỗi càng chỉ vật lộn được một mục tiêu.
 
-**Chích (Sting).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 12, chịu 22 (4d10) sát thương độc khi thất bại, nửa khi thành công.
+**Chích (Sting).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 12, chịu 22 (4d10) sát thương độc khi thất bại, nửa khi thành công.
 
 ### Cá ngựa khổng lồ (Giant Sea Horse)
 
@@ -2227,7 +2227,7 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 16 (3d10).  
-**Tốc độ:** 0 feet, bơi 40 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2237,13 +2237,13 @@ Cú khổng lồ là sinh vật thông minh bảo vệ lãnh địa rừng của
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 7 (2d6) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 7 (2d6) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
 
 **Thở nước (Water Breathing).** Chỉ thở được dưới nước.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập.
 
 Nhân dạng thủy sinh thường dùng cá ngựa khổng lồ làm thú cưỡi.
 
@@ -2253,14 +2253,14 @@ Nhân dạng thủy sinh thường dùng cá ngựa khổng lồ làm thú cư�
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 126 (11d12 + 55).  
-**Tốc độ:** 0 feet, bơi 50 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 23 (+6) | 11 (+0) | 21 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |
 
 **Kỹ năng:** Nhận biết +3.  
-**Giác quan:** thị giác mù 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác mù 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 5 (1,800 XP).
 
@@ -2270,9 +2270,9 @@ Nhân dạng thủy sinh thường dùng cá ngựa khổng lồ làm thú cư�
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 22 (3d10 + 6) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 22 (3d10 + 6) sát thương xuyên.
 
-Cá mập khổng lồ dài 30 feet, thường ở đại dương sâu.
+Cá mập khổng lồ dài 9 m (30 feet), thường ở đại dương sâu.
 
 ### Nhện khổng lồ (Giant Spider)
 
@@ -2280,14 +2280,14 @@ Cá mập khổng lồ dài 30 feet, thường ở đại dương sâu.
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 26 (4d10 + 4).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4) | 11 (+0) | 4 (-3) |
 
 **Kỹ năng:** Ẩn nấp +7.  
-**Giác quan:** thị giác mù 10 feet, thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác mù 3 m (10 feet), thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
@@ -2299,9 +2299,9 @@ Cá mập khổng lồ dài 30 feet, thường ở đại dương sâu.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (1d8 + 3) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 9 (2d8) sát thương độc khi thất bại, nửa khi thành công. Nếu sát thương độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 7 (1d8 + 3) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 9 (2d8) sát thương độc khi thất bại, nửa khi thành công. Nếu sát thương độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
 
-**Mạng (Web; Hồi 5-6).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 30/60 feet, một sinh vật. Trúng: bị tơ kiềm giữ. Dùng hành động kiểm tra Sức mạnh DC 12, thành công phá tơ. Có thể tấn công phá tơ (AC 10; HP 5; dễ tổn thương lửa; miễn nhiễm đập, độc, tâm linh).
+**Mạng (Web; Hồi 5-6).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 9/18 m (30/60 feet), một sinh vật. Trúng: bị tơ kiềm giữ. Dùng hành động kiểm tra Sức mạnh DC 12, thành công phá tơ. Có thể tấn công phá tơ (AC 10; HP 5; dễ tổn thương lửa; miễn nhiễm đập, độc, tâm linh).
 
 ### Cóc khổng lồ (Giant Toad)
 
@@ -2309,27 +2309,27 @@ Cá mập khổng lồ dài 30 feet, thường ở đại dương sâu.
 
 **AC:** 11.  
 **HP:** 39 (6d10 + 6).  
-**Tốc độ:** 20 feet, bơi 40 feet.  
+**Tốc độ:** 6 m (20 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
 **Lưỡng cư (Amphibious).** Thở không khí và nước.
 
-**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 20 feet, cao tối đa 10 feet, có hoặc không chạy đà.
+**Nhảy tại chỗ (Standing Leap).** Nhảy xa tối đa 6 m (20 feet), cao tối đa 3 m (10 feet), có hoặc không chạy đà.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d10 + 2) sát thương xuyên cộng 5 (1d10) sát thương độc; mục tiêu bị vật lộn (DC thoát 13). Đến khi kết thúc, bị kiềm giữ và cóc không thể Cắn mục tiêu khác.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d10 + 2) sát thương xuyên cộng 5 (1d10) sát thương độc; mục tiêu bị vật lộn (DC thoát 13). Đến khi kết thúc, bị kiềm giữ và cóc không thể Cắn mục tiêu khác.
 
 **Nuốt (Swallow).** Cắn một lần mục tiêu Trung bình trở xuống đang bị vật lộn. Trúng: nuốt mục tiêu, vật lộn kết thúc. Mục tiêu bị nuốt mù và kiềm giữ, có che chắn toàn bộ trước tấn công/hiệu ứng ngoài cóc, chịu 10 (3d6) sát thương axit đầu mỗi lượt cóc. Mỗi lần chỉ chứa một mục tiêu bị nuốt.
 
-Nếu cóc chết, sinh vật bị nuốt không còn bị nó kiềm giữ, dùng 5 feet di chuyển thoát xác, ra ngoài ở tư thế ngã sấp.
+Nếu cóc chết, sinh vật bị nuốt không còn bị nó kiềm giữ, dùng 1,5 m (5 feet) di chuyển thoát xác, ra ngoài ở tư thế ngã sấp.
 
 ### Kền kền khổng lồ (Giant Vulture)
 
@@ -2337,7 +2337,7 @@ Nếu cóc chết, sinh vật bị nuốt không còn bị nó kiềm giữ, dù
 
 **AC:** 10.  
 **HP:** 22 (3d10 + 6).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2350,15 +2350,15 @@ Nếu cóc chết, sinh vật bị nuốt không còn bị nó kiềm giữ, dù
 
 **Thị giác và khứu giác nhạy (Keen Sight and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nhìn hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kền kền trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kền kền trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn: một Mỏ, một Vuốt chân.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (2d4 + 2) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (2d4 + 2) sát thương xuyên.
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (2d6 + 2) sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (2d6 + 2) sát thương chém.
 
 Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm ác.
 
@@ -2368,7 +2368,7 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 **AC:** 12.  
 **HP:** 13 (3d8).  
-**Tốc độ:** 10 feet, bay 50 feet.  
+**Tốc độ:** 3 m (10 feet), bay 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2380,7 +2380,7 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 #### Hành động
 
-**Chích (Sting).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 10 (3d6) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
+**Chích (Sting).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 10 (3d6) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
 
 ### Chồn khổng lồ (Giant Weasel)
 
@@ -2388,14 +2388,14 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 **AC:** 13.  
 **HP:** 9 (2d8).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 11 (+0) | 16 (+3) | 10 (+0) | 4 (-3) | 12 (+1) | 5 (-3) |
 
 **Kỹ năng:** Nhận biết +3, Ẩn nấp +5.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
@@ -2403,7 +2403,7 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d4 + 3) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d4 + 3) sát thương xuyên.
 
 ### Nhện sói khổng lồ (Giant Wolf Spider)
 
@@ -2411,14 +2411,14 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 **AC:** 13.  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 40 feet, leo 40 feet.  
+**Tốc độ:** 12 m (40 feet), leo 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 12 (+1) | 16 (+3) | 13 (+1) | 3 (-4) | 12 (+1) | 4 (-3) |
 
 **Kỹ năng:** Nhận biết +3, Ẩn nấp +7.  
-**Giác quan:** thị giác mù 10 feet, thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác mù 3 m (10 feet), thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -2430,7 +2430,7 @@ Kền kền khổng lồ có trí tuệ phát triển và thiên hướng hiểm
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một sinh vật. Trúng: 4 (1d6 + 1) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 7 (2d6) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 4 (1d6 + 1) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 7 (2d6) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, mục tiêu ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
 
 Nhện sói khổng lồ săn trên đất trống hoặc nấp trong hang/khe để phục kích.
 
@@ -2440,13 +2440,13 @@ Nhện sói khổng lồ săn trên đất trống hoặc nấp trong hang/khe �
 
 **AC:** 15 (giáp da thú, khiên).  
 **HP:** 22 (5d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Gnoll.  
 **Thách thức:** 1/2 (100 XP).
 
@@ -2454,11 +2454,11 @@ Nhện sói khổng lồ săn trên đất trống hoặc nấp trong hang/khe �
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên.
 
-**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 5 feet hoặc tầm 20/60 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên, hoặc 6 (1d8 + 2) nếu dùng hai tay tấn công cận chiến.
+**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 6/18 m (20/60 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên, hoặc 6 (1d8 + 2) nếu dùng hai tay tấn công cận chiến.
 
-**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 150/600 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
+**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 45/180 m (150/600 feet), một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
 
 Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trước, tàn sát và ăn thịt nạn nhân.
 
@@ -2468,7 +2468,7 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 
 **AC:** 10.  
 **HP:** 4 (1d8).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2478,13 +2478,13 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 2 (1d4) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 10 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 2 (1d4) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 10 hoặc ngã sấp.
 
 **Chân vững (Sure-Footed).** Có lợi thế cứu nguy Sức mạnh/Khéo léo chống hiệu ứng gây ngã sấp.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d4 + 1) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 3 (1d4 + 1) sát thương đập.
 
 ### Goblin (Goblin)
 
@@ -2496,14 +2496,14 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 
 **AC:** 15 (giáp da, khiên).  
 **HP:** 7 (2d6).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |
 
 **Kỹ năng:** Ẩn nấp +6.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** Common, Goblin.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -2511,9 +2511,9 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 
 #### Hành động
 
-**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương chém.
+**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương chém.
 
-**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 80/320 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 24/96 m (80/320 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
 Goblin là nhân dạng nhỏ lòng dạ đen tối, làm ổ trong ngục bị phá và nơi ảm đạm khác. Cá thể yếu nên tụ đông để hành hạ sinh vật khác.
 
@@ -2523,14 +2523,14 @@ Goblin là nhân dạng nhỏ lòng dạ đen tối, làm ổ trong ngục bị 
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 27 (6d8).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 14 (+2) | 11 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |
 
 **Kháng sát thương:** đập, xuyên, và chém từ đòn tấn công không ma thuật.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
@@ -2540,9 +2540,9 @@ Goblin là nhân dạng nhỏ lòng dạ đen tối, làm ổ trong ngục bị 
 
 **Đa đòn (Multiattack).** Một đòn Xúc tu; nếu trúng, có thể Mỏ một lần cùng mục tiêu.
 
-**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (2d6 + 2) sát thương chém.
+**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (2d6 + 2) sát thương chém.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
 Quái thể như giun hòa vào đá hang nó trú. Khi mồi gần, xúc tu gai mở ra lộ mỏ đói ngoạm liên hồi.
 
@@ -2552,14 +2552,14 @@ Quái thể như giun hòa vào đá hang nó trú. Khi mồi gần, xúc tu gai
 
 **AC:** 12.  
 **HP:** 59 (7d10 + 21).  
-**Tốc độ:** 30 feet, bay 80 feet.  
+**Tốc độ:** 9 m (30 feet), bay 24 m (80 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |
 
 **Kỹ năng:** Nhận biết +5.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 15.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 15.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
@@ -2569,9 +2569,9 @@ Quái thể như giun hòa vào đá hang nó trú. Khi mồi gần, xúc tu gai
 
 **Đa đòn (Multiattack).** Hai đòn: một Mỏ, một Vuốt.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (1d8 + 4) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (1d8 + 4) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
 
 Sư điểu là thú ăn thịt dạng chim với thân sư tử cơ bắp, đầu, chân trước và cánh đại bàng.
 
@@ -2581,7 +2581,7 @@ Sư điểu là thú ăn thịt dạng chim với thân sư tử cơ bắp, đ�
 
 **AC:** 11.  
 **HP:** 38 (7d8 + 7).  
-**Tốc độ:** 20 feet, bay 40 feet.  
+**Tốc độ:** 6 m (20 feet), bay 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2595,13 +2595,13 @@ Sư điểu là thú ăn thịt dạng chim với thân sư tử cơ bắp, đ�
 
 **Đa đòn (Multiattack).** Hai đòn: một Vuốt, một Chùy.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (2d4 + 1) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (2d4 + 1) sát thương chém.
 
-**Chùy (Club).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d4 + 1) sát thương đập.
+**Chùy (Club).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 3 (1d4 + 1) sát thương đập.
 
-**Bài ca dụ dỗ (Luring Song).** Hát giai điệu ma thuật. Mỗi nhân dạng/khổng nhân trong 300 feet nghe được phải thành công cứu nguy Minh triết DC 11 hoặc mê hoặc đến khi bài ca hết. Harpy phải dùng hành động phụ mỗi lượt sau để tiếp tục hát, có thể dừng bất cứ lúc nào. Bài ca kết thúc nếu mất năng lực hành động.
+**Bài ca dụ dỗ (Luring Song).** Hát giai điệu ma thuật. Mỗi nhân dạng/khổng nhân trong 90 m (300 feet) nghe được phải thành công cứu nguy Minh triết DC 11 hoặc mê hoặc đến khi bài ca hết. Harpy phải dùng hành động phụ mỗi lượt sau để tiếp tục hát, có thể dừng bất cứ lúc nào. Bài ca kết thúc nếu mất năng lực hành động.
 
-Khi bị mê hoặc, mục tiêu mất năng lực hành động, bỏ qua bài ca harpy khác. Nếu xa hơn 5 feet, phải đi trong lượt mình theo đường trực tiếp nhất về harpy, cố vào 5 feet. Không tránh đánh cơ hội, nhưng trước khi vào địa hình gây sát thương như dung nham/hố, và mỗi khi chịu sát thương từ nguồn khác harpy, có thể cứu nguy lại. Mục tiêu mê hoặc cũng cứu nguy lại cuối mỗi lượt. Thành công kết thúc hiệu ứng; mục tiêu thành công miễn nhiễm bài ca harpy này 24 giờ tiếp theo.
+Khi bị mê hoặc, mục tiêu mất năng lực hành động, bỏ qua bài ca harpy khác. Nếu xa hơn 1,5 m (5 feet), phải đi trong lượt mình theo đường trực tiếp nhất về harpy, cố vào 1,5 m (5 feet). Không tránh đánh cơ hội, nhưng trước khi vào địa hình gây sát thương như dung nham/hố, và mỗi khi chịu sát thương từ nguồn khác harpy, có thể cứu nguy lại. Mục tiêu mê hoặc cũng cứu nguy lại cuối mỗi lượt. Thành công kết thúc hiệu ứng; mục tiêu thành công miễn nhiễm bài ca harpy này 24 giờ tiếp theo.
 
 Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu phụ nữ loài người. Bài ca ngọt đã dụ vô số nhà phiêu lưu đến chết.
 
@@ -2611,7 +2611,7 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 **AC:** 13.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2626,7 +2626,7 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 #### Hành động
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương chém.
 
 ### Chó săn địa ngục (Hell Hound)
 
@@ -2634,7 +2634,7 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 45 (7d8 + 14).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2642,19 +2642,19 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 **Kỹ năng:** Nhận biết +5.  
 **Miễn nhiễm sát thương:** lửa.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 15.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 15.  
 **Ngôn ngữ:** hiểu Infernal nhưng không nói được.  
 **Thách thức:** 3 (700 XP).
 
 **Thính giác và khứu giác nhạy (Keen Hearing and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nghe hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chó trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chó trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên cộng 7 (2d6) sát thương lửa.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên cộng 7 (2d6) sát thương lửa.
 
-**Hơi thở lửa (Fire Breath; Hồi 5-6).** Phun lửa hình nón 15 feet. Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 12, chịu 21 (6d6) sát thương lửa khi thất bại, nửa khi thành công.
+**Hơi thở lửa (Fire Breath; Hồi 5-6).** Phun lửa hình nón 4,5 m (15 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 12, chịu 21 (6d6) sát thương lửa khi thất bại, nửa khi thành công.
 
 Ác quỷ phun lửa dạng chó mạnh này thường phục vụ sinh vật ác dùng chúng làm thú canh và bạn đồng hành.
 
@@ -2664,7 +2664,7 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 105 (10d12 + 40).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2679,9 +2679,9 @@ Harpy kết hợp thân, chân, cánh kền kền với thân trên, tay, đầu
 
 **Đa đòn (Multiattack).** Hai đòn Chùy lớn.
 
-**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 18 (3d8 + 5) sát thương đập.
+**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 18 (3d8 + 5) sát thương đập.
 
-**Ném đá (Rock).** Tấn công vũ khí tầm xa: +8 để trúng, tầm 60/240 feet, một mục tiêu. Trúng: 21 (3d10 + 5) sát thương đập.
+**Ném đá (Rock).** Tấn công vũ khí tầm xa: +8 để trúng, tầm 18/72 m (60/240 feet), một mục tiêu. Trúng: 21 (3d10 + 5) sát thương đập.
 
 Khổng nhân đồi là kẻ vũ phu ích kỷ, đần độn, săn và cướp phá liên tục tìm thức ăn. Da rám do sống dưới nắng; vũ khí là cây bật rễ và đá kéo khỏi đất.
 
@@ -2691,7 +2691,7 @@ Khổng nhân đồi là kẻ vũ phu ích kỷ, đần độn, săn và cướp
 
 **AC:** 11.  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 40 feet, bay 60 feet.  
+**Tốc độ:** 12 m (40 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2708,9 +2708,9 @@ Khổng nhân đồi là kẻ vũ phu ích kỷ, đần độn, săn và cướp
 
 **Đa đòn (Multiattack).** Hai đòn: một Mỏ, một Vuốt.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (1d10 + 3) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (1d10 + 3) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
 
 Ưng mã là sinh vật ma thuật có cánh/chân trước đại bàng, phần thân sau ngựa và đầu kết hợp đặc điểm cả hai.
 
@@ -2720,23 +2720,23 @@ Khổng nhân đồi là kẻ vũ phu ích kỷ, đần độn, săn và cướp
 
 **AC:** 18 ([giáp xích](99-glossary.md#chain-mail), khiên).  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Common, Goblin.  
 **Thách thức:** 1/2 (100 XP).
 
-**Ưu thế võ thuật (Martial Advantage).** Một lần mỗi lượt, gây thêm 7 (2d6) sát thương cho sinh vật đánh trúng bằng vũ khí nếu sinh vật đó trong 5 feet của đồng minh hobgoblin không mất năng lực hành động.
+**Ưu thế võ thuật (Martial Advantage).** Một lần mỗi lượt, gây thêm 7 (2d6) sát thương cho sinh vật đánh trúng bằng vũ khí nếu sinh vật đó trong 1,5 m (5 feet) của đồng minh hobgoblin không mất năng lực hành động.
 
 #### Hành động
 
-**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương chém, hoặc 6 (1d10 + 1) nếu dùng hai tay.
+**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d8 + 1) sát thương chém, hoặc 6 (1d10 + 1) nếu dùng hai tay.
 
-**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 150/600 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
+**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 45/180 m (150/600 feet), một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
 
 Hobgoblin là goblinoid lớn da cam sẫm hoặc đỏ cam. Chúng đo đức hạnh bằng sức mạnh thể chất và võ nghệ, chẳng quan tâm gì ngoài kỹ năng và sự xảo quyệt trong chiến đấu.
 
@@ -2746,14 +2746,14 @@ Hobgoblin là goblinoid lớn da cam sẫm hoặc đỏ cam. Chúng đo đức h
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 45 (6d10 + 12).  
-**Tốc độ:** 0 feet, bơi 40 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 15 (+2) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Kỹ năng:** Nhận biết +2.  
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
@@ -2763,9 +2763,9 @@ Hobgoblin là goblinoid lớn da cam sẫm hoặc đỏ cam. Chúng đo đức h
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương xuyên.
 
-Cá mập săn dài 15-20 feet, thường săn một mình trong nước sâu.
+Cá mập săn dài 4,5–6 m (15–20 feet), thường săn một mình trong nước sâu.
 
 ### Hydra (Hydra)
 
@@ -2773,14 +2773,14 @@ Cá mập săn dài 15-20 feet, thường săn một mình trong nước sâu.
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 172 (15d12 + 75).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Kỹ năng:** Nhận biết +6.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 16.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 16.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 8 (3,900 XP).
 
@@ -2798,7 +2798,7 @@ Mỗi khi chịu ít nhất 25 sát thương trong một lượt, một đầu c
 
 **Đa đòn (Multiattack).** Cắn số lần bằng số đầu.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 10 (1d10 + 5) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +8 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 10 (1d10 + 5) sát thương xuyên.
 
 Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên cổ dài như rắn. Dù đầu có thể bị chặt, nó nhanh chóng mọc lại bằng ma thuật.
 
@@ -2808,7 +2808,7 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 **AC:** 11.  
 **HP:** 5 (1d8 + 1).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2819,11 +2819,11 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của linh cẩu trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của linh cẩu trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d6) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 3 (1d6) sát thương xuyên.
 
 ### Chó rừng (Jackal)
 
@@ -2831,7 +2831,7 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 **AC:** 12.  
 **HP:** 3 (1d6).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2844,11 +2844,11 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 **Thính giác và khứu giác nhạy (Keen Hearing and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nghe hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chó trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của chó trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 (1d4 - 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 (1d4 - 1) sát thương xuyên.
 
 ### Cá voi sát thủ (Killer Whale)
 
@@ -2856,14 +2856,14 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 90 (12d12 + 12).  
-**Tốc độ:** 0 feet, bơi 60 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 10 (+0) | 13 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Kỹ năng:** Nhận biết +3.  
-**Giác quan:** thị giác mù 120 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác mù 36 m (120 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 3 (700 XP).
 
@@ -2875,7 +2875,7 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 21 (5d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 21 (5d6 + 4) sát thương xuyên.
 
 ### Kobold (Kobold)
 
@@ -2883,25 +2883,25 @@ Hydra là nỗi kinh hoàng bò sát thân cá sấu và nhiều đầu trên c�
 
 **AC:** 12.  
 **HP:** 5 (2d6 - 2).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 7 (-2) | 15 (+2) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** Common, Draconic.  
 **Thách thức:** 1/8 (25 XP).
 
 **Nhạy ánh nắng (Sunlight Sensitivity).** Trong ánh nắng có bất lợi tung tấn công và kiểm tra Minh triết (Nhận biết) dựa vào nhìn.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kobold trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kobold trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Dao găm (Dagger).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
+**Dao găm (Dagger).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
 
-**Ná (Sling).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 30/120 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương đập.
+**Ná (Sling).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương đập.
 
 Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối. Chúng bù sự yếu kém thể chất bằng tài chế bẫy.
 
@@ -2911,7 +2911,7 @@ Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối.
 
 **AC:** 12.  
 **HP:** 26 (4d10 + 4).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2924,17 +2924,17 @@ Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối.
 
 **Khứu giác nhạy (Keen Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sư tử trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sư tử trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
 
-**Nhảy có đà (Running Leap).** Chạy đà 10 feet cho nhảy xa tối đa 25 feet.
+**Nhảy có đà (Running Leap).** Chạy đà 3 m (10 feet) cho nhảy xa tối đa 7,5 m (25 feet).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
 
 ### Thằn lằn (Lizard)
 
@@ -2942,19 +2942,19 @@ Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối.
 
 **AC:** 10.  
 **HP:** 2 (1d4).  
-**Tốc độ:** 20 feet, leo 20 feet.  
+**Tốc độ:** 6 m (20 feet), leo 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 ### Người thằn lằn (Lizardfolk)
 
@@ -2962,7 +2962,7 @@ Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối.
 
 **AC:** 15 (giáp tự nhiên, khiên).  
 **HP:** 22 (4d8 + 4).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -2979,13 +2979,13 @@ Kobold là nhân dạng bò sát hèn nhát thường tràn ngập ngục tối.
 
 **Đa đòn (Multiattack).** Hai đòn cận chiến, mỗi đòn dùng vũ khí khác nhau.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Chùy nặng (Heavy Club).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương đập.
+**Chùy nặng (Heavy Club).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương đập.
 
-**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 5 feet hoặc tầm 30/120 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Khiên gai (Spiked Shield).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Khiên gai (Spiked Shield).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
 Người thằn lằn là nhân dạng bò sát nguyên thủy nấp trong đầm lầy/rừng rậm. Quyết liệt giữ lãnh thổ, chúng giết khi có lợi và làm mọi điều cần để sống.
 
@@ -2995,7 +2995,7 @@ Người thằn lằn là nhân dạng bò sát nguyên thủy nấp trong đầ
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 126 (11d12 + 55).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3005,13 +3005,13 @@ Người thằn lằn là nhân dạng bò sát nguyên thủy nấp trong đầ
 **Ngôn ngữ:** —.  
 **Thách thức:** 6 (2,300 XP).
 
-**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 18 hoặc ngã sấp. Nếu ngã sấp, có thể Giẫm một lần bằng hành động phụ.
+**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 18 hoặc ngã sấp. Nếu ngã sấp, có thể Giẫm một lần bằng hành động phụ.
 
 #### Hành động
 
-**Húc (Gore).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 25 (4d8 + 7) sát thương xuyên.
+**Húc (Gore).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 25 (4d8 + 7) sát thương xuyên.
 
-**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 5 feet, một sinh vật ngã sấp. Trúng: 29 (4d10 + 7) sát thương đập.
+**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 1,5 m (5 feet), một sinh vật ngã sấp. Trúng: 29 (4d10 + 7) sát thương đập.
 
 Ma mút là sinh vật dạng voi lông dày, ngà dài.
 
@@ -3021,13 +3021,13 @@ Ma mút là sinh vật dạng voi lông dày, ngà dài.
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 68 (8d10 + 24).  
-**Tốc độ:** 30 feet, bay 50 feet.  
+**Tốc độ:** 9 m (30 feet), bay 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2) | 12 (+1) | 8 (-1) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** Common.  
 **Thách thức:** 3 (700 XP).
 
@@ -3037,11 +3037,11 @@ Ma mút là sinh vật dạng voi lông dày, ngà dài.
 
 **Đa đòn (Multiattack).** Ba đòn: một Cắn và hai Vuốt, hoặc ba Gai đuôi.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
 
-**Gai đuôi (Tail Spike).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 100/200 feet, một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
+**Gai đuôi (Tail Spike).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 30/60 m (100/200 feet), một mục tiêu. Trúng: 7 (1d8 + 3) sát thương xuyên.
 
 Manticore có đầu hơi giống nhân dạng, thân sư tử và cánh rồng. Đuôi dài kết thúc bằng chùm gai chết chóc xuyên mồi ở khoảng cách đáng kể.
 
@@ -3051,7 +3051,7 @@ Manticore có đầu hơi giống nhân dạng, thân sư tử và cánh rồng.
 
 **AC:** 12.  
 **HP:** 5 (1d8 + 1).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3066,7 +3066,7 @@ Manticore có đầu hơi giống nhân dạng, thân sư tử và cánh rồng.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
 
 Chó ngao là chó săn ấn tượng được nhân dạng quý vì trung thành và giác quan nhạy.
 
@@ -3076,32 +3076,32 @@ Chó ngao là chó săn ấn tượng được nhân dạng quý vì trung thàn
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 127 (17d8 + 51).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
 **Kỹ năng:** Lừa dối +5, Thấu hiểu +4, Nhận biết +4, Ẩn nấp +5.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 14.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 14.  
 **Ngôn ngữ:** Common.  
 **Thách thức:** 6 (2,300 XP).
 
-**Ánh nhìn hóa đá (Petrifying Gaze).** Khi sinh vật thấy mắt medusa bắt đầu lượt trong 30 feet, medusa không mất năng lực hành động và thấy nó có thể buộc cứu nguy Thể chất DC 14. Thiếu DC ít nhất 5: lập tức hóa đá. Thất bại khác: bắt đầu hóa đá và bị kiềm giữ; cứu nguy lại cuối lượt tiếp theo, thất bại hóa đá, thành công chấm dứt hiệu ứng. [Hóa đá](99-glossary.md#petrified) tồn tại đến khi *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
+**Ánh nhìn hóa đá (Petrifying Gaze).** Khi sinh vật thấy mắt medusa bắt đầu lượt trong 9 m (30 feet), medusa không mất năng lực hành động và thấy nó có thể buộc cứu nguy Thể chất DC 14. Thiếu DC ít nhất 5: lập tức hóa đá. Thất bại khác: bắt đầu hóa đá và bị kiềm giữ; cứu nguy lại cuối lượt tiếp theo, thất bại hóa đá, thành công chấm dứt hiệu ứng. [Hóa đá](99-glossary.md#petrified) tồn tại đến khi *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
 
 Trừ khi bất ngờ, sinh vật có thể tránh mắt để không cứu nguy đầu lượt; không thấy medusa đến đầu lượt tiếp theo, khi có thể tránh mắt tiếp. Nếu nhìn medusa trong thời gian đó, phải cứu nguy ngay.
 
-Nếu medusa thấy mình phản chiếu trên bề mặt đánh bóng trong 30 feet ở ánh sáng mạnh, lời nguyền khiến nó bị ánh nhìn của chính mình tác động.
+Nếu medusa thấy mình phản chiếu trên bề mặt đánh bóng trong 9 m (30 feet) ở ánh sáng mạnh, lời nguyền khiến nó bị ánh nhìn của chính mình tác động.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Ba đòn cận chiến—một Tóc rắn và hai Kiếm ngắn—hoặc hai đòn tầm xa Cung dài.
 
-**Tóc rắn (Snake Hair).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên cộng 14 (4d6) sát thương độc.
+**Tóc rắn (Snake Hair).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 4 (1d4 + 2) sát thương xuyên cộng 14 (4d6) sát thương độc.
 
-**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 150/600 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên cộng 7 (2d6) sát thương độc.
+**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 45/180 m (150/600 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên cộng 7 (2d6) sát thương độc.
 
 Nạn nhân lời nguyền khủng khiếp, medusa tóc rắn hóa đá mọi kẻ nhìn nó, biến sinh vật thành tượng đá đánh dấu sự suy đồi của mình.
 
@@ -3111,7 +3111,7 @@ Nạn nhân lời nguyền khủng khiếp, medusa tóc rắn hóa đá mọi k�
 
 **AC:** 11.  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 10 feet, bơi 40 feet.  
+**Tốc độ:** 3 m (10 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3126,7 +3126,7 @@ Nạn nhân lời nguyền khủng khiếp, medusa tóc rắn hóa đá mọi k�
 
 #### Hành động
 
-**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +2 để trúng, tầm với 5 feet hoặc tầm 20/60 feet, một mục tiêu. Trúng: 3 (1d6) sát thương xuyên, hoặc 4 (1d8) nếu dùng hai tay tấn công cận chiến.
+**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +2 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 6/18 m (20/60 feet), một mục tiêu. Trúng: 3 (1d6) sát thương xuyên, hoặc 4 (1d8) nếu dùng hai tay tấn công cận chiến.
 
 Người cá là nhân dạng thủy sinh có thân dưới cá, sống thành bộ lạc nhỏ dưới sóng.
 
@@ -3136,18 +3136,18 @@ Người cá là nhân dạng thủy sinh có thân dưới cá, sống thành b
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 76 (9d10 + 27).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 11 (+0) | 16 (+3) | 6 (-2) | 16 (+3) | 9 (-1) |
 
 **Kỹ năng:** Nhận biết +7.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 17.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 17.  
 **Ngôn ngữ:** Abyssal.  
 **Thách thức:** 3 (700 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 10 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 9 (2d8) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc bị đẩy xa tối đa 10 feet và ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 3 m (10 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 9 (2d8) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc bị đẩy xa tối đa 3 m (10 feet) và ngã sấp.
 
 **Nhớ mê cung (Labyrinthine Recall).** Nhớ hoàn hảo mọi đường từng đi.
 
@@ -3155,9 +3155,9 @@ Người cá là nhân dạng thủy sinh có thân dưới cá, sống thành b
 
 #### Hành động
 
-**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 17 (2d12 + 4) sát thương chém.
+**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 17 (2d12 + 4) sát thương chém.
 
-**Húc (Gore).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương xuyên.
+**Húc (Gore).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương xuyên.
 
 Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to lớn, tiếng gầm là chiến hô hoang dã mọi sinh vật văn minh sợ hãi.
 
@@ -3167,7 +3167,7 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 **AC:** 10.  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3183,7 +3183,7 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương đập.
 
 ### Xác ướp (Mummy)
 
@@ -3191,7 +3191,7 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 58 (9d8 + 18).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3202,7 +3202,7 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 **Kháng sát thương:** đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** hoại tử, độc.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, hoảng sợ, tê liệt, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** các ngôn ngữ từng biết khi sống.  
 **Thách thức:** 3 (700 XP).
 
@@ -3210,9 +3210,9 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 **Đa đòn (Multiattack).** Có thể dùng Ánh trừng đáng sợ và thực hiện một đòn Nắm đấm thối rữa.
 
-**Nắm đấm thối rữa (Rotting Fist).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương đập cộng 10 (3d6) sát thương hoại tử. Nếu là sinh vật, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền thối rữa xác ướp. Mục tiêu không thể hồi HP, HP tối đa giảm 10 (3d6) mỗi 24 giờ. Nếu lời nguyền giảm HP tối đa xuống 0, chết và thân thành bụi. Lời nguyền tồn tại đến khi *Gỡ lời nguyền (remove curse)* hoặc ma thuật khác gỡ bỏ.
+**Nắm đấm thối rữa (Rotting Fist).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương đập cộng 10 (3d6) sát thương hoại tử. Nếu là sinh vật, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền thối rữa xác ướp. Mục tiêu không thể hồi HP, HP tối đa giảm 10 (3d6) mỗi 24 giờ. Nếu lời nguyền giảm HP tối đa xuống 0, chết và thân thành bụi. Lời nguyền tồn tại đến khi *Gỡ lời nguyền (remove curse)* hoặc ma thuật khác gỡ bỏ.
 
-**Ánh trừng đáng sợ (Dreadful Glare).** Nhắm một sinh vật thấy trong 60 feet. Nếu thấy xác ướp, mục tiêu phải thành công cứu nguy Minh triết DC 11 chống ma thuật này hoặc hoảng sợ đến cuối lượt tiếp theo của xác ướp. Nếu thiếu DC ít nhất 5, còn tê liệt cùng thời lượng. Mục tiêu thành công miễn nhiễm Ánh trừng đáng sợ của mọi xác ướp (nhưng không phải mummy lord) trong 24 giờ tiếp theo.
+**Ánh trừng đáng sợ (Dreadful Glare).** Nhắm một sinh vật thấy trong 18 m (60 feet). Nếu thấy xác ướp, mục tiêu phải thành công cứu nguy Minh triết DC 11 chống ma thuật này hoặc hoảng sợ đến cuối lượt tiếp theo của xác ướp. Nếu thiếu DC ít nhất 5, còn tê liệt cùng thời lượng. Mục tiêu thành công miễn nhiễm Ánh trừng đáng sợ của mọi xác ướp (nhưng không phải mummy lord) trong 24 giờ tiếp theo.
 
 Được dựng dậy bằng nghi lễ tang tối tăm và vẫn quấn vải liệm, xác ướp lê khỏi đền/mộ thất lạc để giết ai quấy rối sự yên nghỉ.
 
@@ -3222,14 +3222,14 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 45 (6d8 + 18).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 16 (+3) | 16 (+3) | 13 (+1) | 10 (+0) | 8 (-1) |
 
 **Kỹ năng:** Huyền thuật +3, Thấu hiểu +4, Nhận biết +2, Ẩn nấp +5.  
-**Giác quan:** chân thị 120 feet, Nhận biết thụ động 12.  
+**Giác quan:** chân thị 36 m (120 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** Undercommon.  
 **Thách thức:** 2 (450 XP).
 
@@ -3239,11 +3239,11 @@ Lông nhuốm máu kẻ thù chết, minotaur là nhân dạng đầu bò to l�
 
 **Đa đòn (Multiattack).** Hai đòn Vuốt.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương chém.
 
-**Ánh nhìn thối rữa (Rotting Gaze).** Nhắm một sinh vật thấy trong 30 feet. Mục tiêu phải thành công cứu nguy Thể chất DC 12 chống ma thuật này hoặc chịu 10 (3d6) sát thương hoại tử.
+**Ánh nhìn thối rữa (Rotting Gaze).** Nhắm một sinh vật thấy trong 9 m (30 feet). Mục tiêu phải thành công cứu nguy Thể chất DC 12 chống ma thuật này hoặc chịu 10 (3d6) sát thương hoại tử.
 
-**Thấu hiểu kỳ dị (Weird Insight).** Nhắm một sinh vật thấy trong 30 feet. Mục tiêu đối kháng kiểm tra Sức hút (Lừa dối) với Minh triết (Thấu hiểu) của nothic. Nếu nothic thắng, nó biết bằng ma thuật một sự thật/bí mật về mục tiêu. Mục tiêu tự động thắng nếu miễn nhiễm mê hoặc.
+**Thấu hiểu kỳ dị (Weird Insight).** Nhắm một sinh vật thấy trong 9 m (30 feet). Mục tiêu đối kháng kiểm tra Sức hút (Lừa dối) với Minh triết (Thấu hiểu) của nothic. Nếu nothic thắng, nó biết bằng ma thuật một sự thật/bí mật về mục tiêu. Mục tiêu tự động thắng nếu miễn nhiễm mê hoặc.
 
 Nothic là sinh vật quái dị vuốt đáng sợ và một mắt lớn. Khi dùng bạo lực, nó dùng ánh nhìn kinh hoàng làm thịt rữa khỏi xương kẻ thù.
 
@@ -3253,7 +3253,7 @@ Nothic là sinh vật quái dị vuốt đáng sợ và một mắt lớn. Khi d
 
 **AC:** 8.  
 **HP:** 45 (6d10 + 12).  
-**Tốc độ:** 10 feet, leo 10 feet.  
+**Tốc độ:** 3 m (10 feet), leo 3 m (10 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3262,17 +3262,17 @@ Nothic là sinh vật quái dị vuốt đáng sợ và một mắt lớn. Khi d
 **Kháng sát thương:** axit.  
 **Miễn nhiễm sát thương:** sét, chém.  
 **Miễn nhiễm trạng thái:** mù, mê hoặc, điếc, kiệt sức, hoảng sợ, ngã sấp.  
-**Giác quan:** thị giác mù 60 feet (mù ngoài bán kính này), Nhận biết thụ động 8.  
+**Giác quan:** thị giác mù 18 m (60 feet) (mù ngoài bán kính này), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
-**Vô định hình (Amorphous).** Đi qua khe chỉ 1 inch không cần chen ép.
+**Vô định hình (Amorphous).** Đi qua khe chỉ 2,5 cm (1 inch) không cần chen ép.
 
 **Leo như nhện (Spider Climb).** Leo bề mặt khó, kể cả úp ngược trên trần, không cần kiểm tra thuộc tính.
 
 #### Hành động
 
-**Chân giả (Pseudopod).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (2d6 + 2) sát thương đập cộng 3 (1d6) sát thương axit.
+**Chân giả (Pseudopod).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (2d6 + 2) sát thương đập cộng 3 (1d6) sát thương axit.
 
 #### Phản ứng
 
@@ -3286,14 +3286,14 @@ Nhầy vàng đất là nhầy thể vàng nhạt trượt dưới cửa và qua
 
 **AC:** 12.  
 **HP:** 3 (1d6).  
-**Tốc độ:** 5 feet, bơi 30 feet.  
+**Tốc độ:** 1,5 m (5 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Kỹ năng:** Nhận biết +2, Ẩn nấp +4.  
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -3305,9 +3305,9 @@ Nhầy vàng đất là nhầy thể vàng nhạt trượt dưới cửa và qua
 
 #### Hành động
 
-**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương đập; mục tiêu bị vật lộn (DC thoát 10). Đến khi kết thúc, không thể dùng xúc tu lên mục tiêu khác.
+**Xúc tu (Tentacles).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương đập; mục tiêu bị vật lộn (DC thoát 10). Đến khi kết thúc, không thể dùng xúc tu lên mục tiêu khác.
 
-**Mây mực (Ink Cloud; hồi sau nghỉ ngắn hoặc dài).** Nếu dưới nước, mây mực bán kính 5 feet lan quanh bạch tuộc. Vùng bị che khuất nặng 1 phút, nhưng dòng chảy mạnh có thể phân tán. Sau phun mực, có thể Chạy nước rút bằng hành động phụ.
+**Mây mực (Ink Cloud; hồi sau nghỉ ngắn hoặc dài).** Nếu dưới nước, mây mực bán kính 1,5 m (5 feet) lan quanh bạch tuộc. Vùng bị che khuất nặng 1 phút, nhưng dòng chảy mạnh có thể phân tán. Sau phun mực, có thể Chạy nước rút bằng hành động phụ.
 
 ### Ogre (Ogre)
 
@@ -3315,21 +3315,21 @@ Nhầy vàng đất là nhầy thể vàng nhạt trượt dưới cửa và qua
 
 **AC:** 11 (giáp da thú).  
 **HP:** 59 (7d10 + 21).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** Common, Giant.  
 **Thách thức:** 2 (450 XP).
 
 #### Hành động
 
-**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
+**Chùy lớn (Greatclub).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
 
-**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +6 để trúng, tầm với 5 feet hoặc tầm 30/120 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên.
+**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +6 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên.
 
 Ogre là khổng nhân đồ sộ nổi tiếng nóng tính. Khi nổi giận, nó đánh trong cơn cáu tức đến khi hết đồ vật/sinh vật để đập.
 
@@ -3339,14 +3339,14 @@ Ogre là khổng nhân đồ sộ nổi tiếng nóng tính. Khi nổi giận, n
 
 **AC:** 13 (giáp da thú).  
 **HP:** 15 (2d8 + 6).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 11 (+0) | 10 (+0) |
 
 **Kỹ năng:** Đe dọa +2.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Common, Orc.  
 **Thách thức:** 1/2 (100 XP).
 
@@ -3354,9 +3354,9 @@ Ogre là khổng nhân đồ sộ nổi tiếng nóng tính. Khi nổi giận, n
 
 #### Hành động
 
-**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (1d12 + 3) sát thương chém.
+**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (1d12 + 3) sát thương chém.
 
-**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +5 để trúng, tầm với 5 feet hoặc tầm 30/120 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
+**Lao (Javelin).** Tấn công vũ khí cận chiến hoặc tầm xa: +5 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 9/36 m (30/120 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
 
 Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như nanh. Chúng tập hợp thành bộ lạc thỏa khát máu bằng giết mọi nhân dạng chống lại.
 
@@ -3366,14 +3366,14 @@ Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như 
 
 **AC:** 11.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 5 feet, bay 60 feet.  
+**Tốc độ:** 1,5 m (5 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Kỹ năng:** Nhận biết +3, Ẩn nấp +3.  
-**Giác quan:** thị giác bóng tối 120 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -3383,7 +3383,7 @@ Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như 
 
 #### Hành động
 
-**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương chém.
+**Vuốt chân (Talons).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương chém.
 
 ### Gấu cú (Owlbear)
 
@@ -3391,14 +3391,14 @@ Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như 
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 59 (7d10 + 21).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 20 (+5) | 12 (+1) | 17 (+3) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Kỹ năng:** Nhận biết +3.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 3 (700 XP).
 
@@ -3408,9 +3408,9 @@ Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như 
 
 **Đa đòn (Multiattack).** Hai đòn: một Mỏ, một Vuốt.
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một sinh vật. Trúng: 10 (1d10 + 5) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 10 (1d10 + 5) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 14 (2d8 + 5) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 14 (2d8 + 5) sát thương chém.
 
 Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#owlbear) nổi tiếng hung dữ, hiếu chiến nên là một trong những thú săn mồi hoang dã đáng sợ nhất.
 
@@ -3420,7 +3420,7 @@ Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#ow
 
 **AC:** 12.  
 **HP:** 13 (3d8).  
-**Tốc độ:** 50 feet, leo 40 feet.  
+**Tốc độ:** 15 m (50 feet), leo 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3433,13 +3433,13 @@ Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#ow
 
 **Khứu giác nhạy (Keen Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào mùi.
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 12 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 12 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương chém.
 
 ### Thiên mã (Pegasus)
 
@@ -3447,7 +3447,7 @@ Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#ow
 
 **AC:** 12.  
 **HP:** 59 (7d10 + 21).  
-**Tốc độ:** 60 feet, bay 90 feet.  
+**Tốc độ:** 18 m (60 feet), bay 27 m (90 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3461,7 +3461,7 @@ Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#ow
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
 
 Những ngựa trắng có cánh gọi là pegasus bay qua trời, hình ảnh duyên dáng và uy nghi.
 
@@ -3471,14 +3471,14 @@ Những ngựa trắng có cánh gọi là pegasus bay qua trời, hình ảnh d
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 32 (5d10 + 5).  
-**Tốc độ:** 30 feet, leo 30 feet.  
+**Tốc độ:** 9 m (30 feet), leo 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Kỹ năng:** Ẩn nấp +6.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 3 (700 XP).
 
@@ -3490,7 +3490,7 @@ Những ngựa trắng có cánh gọi là pegasus bay qua trời, hình ảnh d
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 18 (4d8) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 7 (1d10 + 2) sát thương xuyên; mục tiêu cứu nguy Thể chất DC 11, chịu 18 (4d8) sát thương độc khi thất bại, nửa khi thành công. Nếu độc giảm xuống 0 HP, ổn định nhưng trúng độc 1 giờ, ngay cả khi hồi HP, và tê liệt khi trúng độc theo cách này.
 
 Nhện chuyển cõi có khả năng ma thuật chuyển vào/ra Cõi Ethereal. Nó dường như xuất hiện từ hư không rồi nhanh chóng biến mất sau tấn công.
 
@@ -3500,7 +3500,7 @@ Nhện chuyển cõi có khả năng ma thuật chuyển vào/ra Cõi Ethereal. 
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 68 (8d10 + 24).  
-**Tốc độ:** 20 feet, bơi 40 feet.  
+**Tốc độ:** 6 m (20 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3515,7 +3515,7 @@ Nhện chuyển cõi có khả năng ma thuật chuyển vào/ra Cõi Ethereal. 
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 14 (3d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 14 (3d6 + 4) sát thương xuyên.
 
 Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật gặp. Cổ dài linh hoạt xoay mọi hướng để tung cú cắn mạnh.
 
@@ -3525,19 +3525,19 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 **AC:** 13.  
 **HP:** 2 (1d4).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 16 (+3) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên; mục tiêu cứu nguy Thể chất DC 10, chịu 5 (2d4) sát thương độc khi thất bại, nửa khi thành công.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên; mục tiêu cứu nguy Thể chất DC 10, chịu 5 (2d4) sát thương độc khi thất bại, nửa khi thành công.
 
 ### Gấu Bắc Cực (Polar Bear)
 
@@ -3545,7 +3545,7 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 42 (5d10 + 15).  
-**Tốc độ:** 40 feet, bơi 30 feet.  
+**Tốc độ:** 12 m (40 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3562,9 +3562,9 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn, một Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (1d8 + 5) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (1d8 + 5) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 12 (2d6 + 5) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 12 (2d6 + 5) sát thương chém.
 
 ### Ngựa nhỏ (Pony)
 
@@ -3572,7 +3572,7 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 **AC:** 10.  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3584,7 +3584,7 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (2d4 + 2) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (2d4 + 2) sát thương đập.
 
 ### Thằn lằn bay Pteranodon (Pteranodon)
 
@@ -3592,7 +3592,7 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 13 (3d8).  
-**Tốc độ:** 10 feet, bay 60 feet.  
+**Tốc độ:** 3 m (10 feet), bay 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3607,7 +3607,7 @@ Bò sát biển săn mồi, họ hàng khủng long này đánh mọi sinh vật
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (2d4 + 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (2d4 + 1) sát thương xuyên.
 
 Họ hàng bò sát bay của khủng long này không có răng, dùng mỏ sắc đâm con mồi quá lớn để nuốt một lần.
 
@@ -3617,13 +3617,13 @@ Họ hàng bò sát bay của khủng long này không có răng, dùng mỏ s�
 
 **AC:** 13.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 0 feet, bơi 40 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -3633,7 +3633,7 @@ Họ hàng bò sát bay của khủng long này không có răng, dùng mỏ s�
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 Quipper là cá ăn thịt răng sắc.
 
@@ -3643,13 +3643,13 @@ Quipper là cá ăn thịt răng sắc.
 
 **AC:** 10.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -3657,7 +3657,7 @@ Quipper là cá ăn thịt răng sắc.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 ### Quạ (Raven)
 
@@ -3665,7 +3665,7 @@ Quipper là cá ăn thịt răng sắc.
 
 **AC:** 12.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 10 feet, bay 50 feet.  
+**Tốc độ:** 3 m (10 feet), bay 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3680,7 +3680,7 @@ Quipper là cá ăn thịt răng sắc.
 
 #### Hành động
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 ### Cá mập rạn (Reef Shark)
 
@@ -3688,26 +3688,26 @@ Quipper là cá ăn thịt răng sắc.
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 22 (4d8 + 4).  
-**Tốc độ:** 0 feet, bơi 40 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Kỹ năng:** Nhận biết +2.  
-**Giác quan:** thị giác mù 30 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác mù 9 m (30 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của cá mập trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của cá mập trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 **Thở nước (Water Breathing).** Chỉ thở được dưới nước.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
 
-Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
+Cá mập rạn dài 1,8–3 m (6–10 feet), sống nước nông và rạn san hô.
 
 ### Tê giác (Rhinoceros)
 
@@ -3715,7 +3715,7 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 45 (6d10 + 12).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3725,11 +3725,11 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
-**Xung phong (Charge).** Nếu đi thẳng ít nhất 20 feet về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 9 (2d8) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 15 hoặc ngã sấp.
+**Xung phong (Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về mục tiêu rồi trúng bằng Húc cùng lượt, gây thêm 9 (2d8) sát thương đập. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 15 hoặc ngã sấp.
 
 #### Hành động
 
-**Húc (Gore).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
+**Húc (Gore).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 14 (2d8 + 5) sát thương đập.
 
 ### Ngựa cưỡi (Riding Horse)
 
@@ -3737,7 +3737,7 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 **AC:** 10.  
 **HP:** 13 (2d10 + 2).  
-**Tốc độ:** 60 feet.  
+**Tốc độ:** 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3749,7 +3749,7 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (2d4 + 3) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (2d4 + 3) sát thương đập.
 
 ### Hổ răng kiếm (Saber-Toothed Tiger)
 
@@ -3757,7 +3757,7 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 **AC:** 12.  
 **HP:** 52 (7d10 + 14).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3770,13 +3770,13 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 **Khứu giác nhạy (Keen Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào mùi.
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (1d10 + 5) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (1d10 + 5) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 12 (2d6 + 5) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 12 (2d6 + 5) sát thương chém.
 
 ### Người dê (Satyr)
 
@@ -3784,7 +3784,7 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 **AC:** 14 (giáp da).  
 **HP:** 31 (7d8).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3799,11 +3799,11 @@ Cá mập rạn dài 6-10 feet, sống nước nông và rạn san hô.
 
 #### Hành động
 
-**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (2d4 + 1) sát thương đập.
+**Húc (Ram).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (2d4 + 1) sát thương đập.
 
-**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
+**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
 
-**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 80/320 feet, một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
+**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +5 để trúng, tầm 24/96 m (80/320 feet), một mục tiêu. Trúng: 6 (1d6 + 3) sát thương xuyên.
 
 Satyr là tiên ồn ào giống đàn ông loài người chắc người với thân dưới lông và móng chẻ dê. Chúng nô đùa rừng hoang, tò mò và ham hưởng lạc ngang nhau.
 
@@ -3813,19 +3813,19 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 **AC:** 11 (giáp tự nhiên).  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 10 feet.  
+**Tốc độ:** 3 m (10 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
 
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
 #### Hành động
 
-**Chích (Sting).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên; mục tiêu cứu nguy Thể chất DC 9, chịu 4 (1d8) sát thương độc khi thất bại, nửa khi thành công.
+**Chích (Sting).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 1 sát thương xuyên; mục tiêu cứu nguy Thể chất DC 9, chịu 4 (1d8) sát thương độc khi thất bại, nửa khi thành công.
 
 ### Cá ngựa (Sea Horse)
 
@@ -3833,7 +3833,7 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 **AC:** 11.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 0 feet, bơi 20 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3851,7 +3851,7 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 **AC:** 13 (mảnh giáp).  
 **HP:** 13 (2d8 + 4).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3860,15 +3860,15 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 **Dễ tổn thương sát thương:** đập.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** hiểu mọi ngôn ngữ từng biết khi sống nhưng không nói được.  
 **Thách thức:** 1/4 (50 XP).
 
 #### Hành động
 
-**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Kiếm ngắn (Shortsword).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
-**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 80/320 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
+**Cung ngắn (Shortbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 24/96 m (80/320 feet), một mục tiêu. Trúng: 5 (1d6 + 2) sát thương xuyên.
 
 ### Kẻ quan sát (Spectator)
 
@@ -3876,7 +3876,7 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 39 (6d8 + 12).  
-**Tốc độ:** 0 feet, bay 30 feet (lơ lửng).  
+**Tốc độ:** 0 m (0 feet), bay 9 m (30 feet) (lơ lửng).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3884,15 +3884,15 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 **Kỹ năng:** Nhận biết +6.  
 **Miễn nhiễm trạng thái:** ngã sấp.  
-**Giác quan:** thị giác bóng tối 120 feet, Nhận biết thụ động 16.  
-**Ngôn ngữ:** Deep Speech, Undercommon, thần giao cách cảm 120 feet.  
+**Giác quan:** thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 16.  
+**Ngôn ngữ:** Deep Speech, Undercommon, thần giao cách cảm 36 m (120 feet).  
 **Thách thức:** 3 (700 XP).
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d6 - 1) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +1 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d6 - 1) sát thương xuyên.
 
-**Tia mắt (Eye Rays).** Bắn tối đa hai tia mắt ma thuật sau vào một hoặc hai sinh vật thấy trong 90 feet. Mỗi tia chỉ dùng một lần mỗi lượt.
+**Tia mắt (Eye Rays).** Bắn tối đa hai tia mắt ma thuật sau vào một hoặc hai sinh vật thấy trong 27 m (90 feet). Mỗi tia chỉ dùng một lần mỗi lượt.
 
 1. **Tia bối rối (Confusion Ray).** Mục tiêu phải thành công cứu nguy Minh triết DC 13 hoặc không thể phản ứng đến cuối lượt tiếp theo. Trong lượt mình, không di chuyển và dùng hành động tấn công cận chiến/tầm xa sinh vật ngẫu nhiên trong tầm. Nếu không thể tấn công, không làm gì trong lượt.
 2. **Tia tê liệt (Paralyzing Ray).** Phải thành công cứu nguy Thể chất DC 13 hoặc tê liệt 1 phút. Cứu nguy lại cuối mỗi lượt, thành công chấm dứt hiệu ứng.
@@ -3903,7 +3903,7 @@ Satyr là tiên ồn ào giống đàn ông loài người chắc người với
 
 #### Phản ứng
 
-**Phản chiếu phép (Spell Reflection).** Nếu thành công cứu nguy chống phép hoặc tấn công phép trượt nó, chọn sinh vật khác (gồm người thi triển) thấy trong 30 feet. Phép nhắm sinh vật ấy thay spectator. Nếu phép buộc cứu nguy, sinh vật ấy tự cứu nguy. Nếu là tấn công, tung lại tấn công vào sinh vật đã chọn.
+**Phản chiếu phép (Spell Reflection).** Nếu thành công cứu nguy chống phép hoặc tấn công phép trượt nó, chọn sinh vật khác (gồm người thi triển) thấy trong 9 m (30 feet). Phép nhắm sinh vật ấy thay spectator. Nếu phép buộc cứu nguy, sinh vật ấy tự cứu nguy. Nếu là tấn công, tung lại tấn công vào sinh vật đã chọn.
 
 Spectator là loại beholder cấp thấp—dị thể ghê tởm, chết chóc. Nó như cầu lơ lửng có miệng há rộng và một mắt lớn nằm giữa bốn cuống mắt bắn tia chết người.
 
@@ -3913,14 +3913,14 @@ Spectator là loại beholder cấp thấp—dị thể ghê tởm, chết chóc
 
 **AC:** 12.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 20 feet, leo 20 feet.  
+**Tốc độ:** 6 m (20 feet), leo 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Kỹ năng:** Ẩn nấp +4.  
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
@@ -3932,7 +3932,7 @@ Spectator là loại beholder cấp thấp—dị thể ghê tởm, chết chóc
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên; phải thành công cứu nguy Thể chất DC 9 hoặc chịu 2 (1d4) sát thương độc.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 1 sát thương xuyên; phải thành công cứu nguy Thể chất DC 9 hoặc chịu 2 (1d4) sát thương độc.
 
 ### [Stirge](99-glossary.md#stirge) (Stirge)
 
@@ -3940,21 +3940,21 @@ Spectator là loại beholder cấp thấp—dị thể ghê tởm, chết chóc
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 2 (1d4).  
-**Tốc độ:** 10 feet, bay 40 feet.  
+**Tốc độ:** 3 m (10 feet), bay 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 4 (-3) | 16 (+3) | 11 (+0) | 2 (-4) | 8 (-1) | 6 (-2) |
 
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 9.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 9.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/8 (25 XP).
 
 #### Hành động
 
-**Hút máu (Blood Drain).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d4 + 3) sát thương xuyên; stirge bám mục tiêu. Khi bám không tấn công; thay vào đó, đầu mỗi lượt stirge, mục tiêu mất 5 (1d4 + 3) HP do mất máu.
+**Hút máu (Blood Drain).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d4 + 3) sát thương xuyên; stirge bám mục tiêu. Khi bám không tấn công; thay vào đó, đầu mỗi lượt stirge, mục tiêu mất 5 (1d4 + 3) HP do mất máu.
 
-Stirge dùng 5 feet di chuyển để tự tách; nó làm vậy sau khi hút 10 HP máu từ mục tiêu hoặc mục tiêu chết. Sinh vật, kể cả mục tiêu, dùng hành động tách stirge.
+Stirge dùng 1,5 m (5 feet) di chuyển để tự tách; nó làm vậy sau khi hút 10 HP máu từ mục tiêu hoặc mục tiêu chết. Sinh vật, kể cả mục tiêu, dùng hành động tách stirge.
 
 Quái vật kinh tởm này như lai dơi lớn và muỗi quá khổ. Chân kết thúc bằng kìm sắc; vòi dài như kim quét không khí khi tìm máu sinh vật sống để ăn.
 
@@ -3964,7 +3964,7 @@ Quái vật kinh tởm này như lai dơi lớn và muỗi quá khổ. Chân k�
 
 **AC:** 17 (giáp tự nhiên).  
 **HP:** 178 (17d10 + 85).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -3972,7 +3972,7 @@ Quái vật kinh tởm này như lai dơi lớn và muỗi quá khổ. Chân k�
 
 **Miễn nhiễm sát thương:** độc, tâm linh; đập, xuyên, và chém từ đòn tấn công không ma thuật không dùng vũ khí adamantine.  
 **Miễn nhiễm trạng thái:** mê hoặc, kiệt sức, hoảng sợ, tê liệt, hóa đá, trúng độc.  
-**Giác quan:** thị giác bóng tối 120 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** hiểu các ngôn ngữ người tạo biết nhưng không nói được.  
 **Thách thức:** 10 (5,900 XP).
 
@@ -3986,9 +3986,9 @@ Quái vật kinh tởm này như lai dơi lớn và muỗi quá khổ. Chân k�
 
 **Đa đòn (Multiattack).** Hai đòn Đập.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 19 (3d8 + 6) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 19 (3d8 + 6) sát thương đập.
 
-**Chậm (Slow; Hồi 5-6).** Nhắm một hoặc nhiều sinh vật thấy trong 10 feet. Mỗi mục tiêu cứu nguy Minh triết DC 17 chống ma thuật này. Thất bại: không phản ứng, tốc độ chia đôi, không quá một đòn tấn công trong lượt. Ngoài ra, chỉ dùng hành động hoặc hành động phụ trong lượt, không cả hai. Hiệu ứng kéo dài 1 phút; cứu nguy lại cuối mỗi lượt, thành công chấm dứt trên bản thân.
+**Chậm (Slow; Hồi 5-6).** Nhắm một hoặc nhiều sinh vật thấy trong 3 m (10 feet). Mỗi mục tiêu cứu nguy Minh triết DC 17 chống ma thuật này. Thất bại: không phản ứng, tốc độ chia đôi, không quá một đòn tấn công trong lượt. Ngoài ra, chỉ dùng hành động hoặc hành động phụ trong lượt, không cả hai. Hiệu ứng kéo dài 1 phút; cứu nguy lại cuối mỗi lượt, thành công chấm dứt trên bản thân.
 
 Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao ấn tượng. Như golem khác, gần như không bị phép và vũ khí thường làm hại.
 
@@ -3998,7 +3998,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 12.  
 **HP:** 22 (5d8).  
-**Tốc độ:** 0 feet, bay 30 feet.  
+**Tốc độ:** 0 m (0 feet), bay 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4006,7 +4006,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **Kháng sát thương:** đập, xuyên, chém.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, bị vật lộn, tê liệt, hóa đá, ngã sấp, kiềm giữ, choáng.  
-**Giác quan:** thị giác mù 60 feet, Nhận biết thụ động 11.  
+**Giác quan:** thị giác mù 18 m (60 feet), Nhận biết thụ động 11.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -4018,7 +4018,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Cắn (Bites).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 0 feet, một sinh vật trong không gian bầy. Trúng: 5 (2d4) sát thương xuyên, hoặc 2 (1d4) nếu bầy còn nửa HP trở xuống.
+**Cắn (Bites).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 0 m (0 feet), một sinh vật trong không gian bầy. Trúng: 5 (2d4) sát thương xuyên, hoặc 2 (1d4) nếu bầy còn nửa HP trở xuống.
 
 ### Bầy côn trùng (Swarm of Insects)
 
@@ -4026,7 +4026,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 22 (5d8).  
-**Tốc độ:** 20 feet, leo 20 feet.  
+**Tốc độ:** 6 m (20 feet), leo 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4034,7 +4034,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **Kháng sát thương:** đập, xuyên, chém.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, bị vật lộn, tê liệt, hóa đá, ngã sấp, kiềm giữ, choáng.  
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
@@ -4042,7 +4042,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Cắn (Bites).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 0 feet, một mục tiêu trong không gian bầy. Trúng: 10 (4d4) sát thương xuyên, hoặc 5 (2d4) nếu bầy còn nửa HP trở xuống.
+**Cắn (Bites).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 0 m (0 feet), một mục tiêu trong không gian bầy. Trúng: 10 (4d4) sát thương xuyên, hoặc 5 (2d4) nếu bầy còn nửa HP trở xuống.
 
 ### Bầy rắn độc (Swarm of Poisonous Snakes)
 
@@ -4050,7 +4050,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 14.  
 **HP:** 36 (8d8).  
-**Tốc độ:** 30 feet, bơi 30 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4058,7 +4058,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **Kháng sát thương:** đập, xuyên, chém.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, bị vật lộn, tê liệt, hóa đá, ngã sấp, kiềm giữ, choáng.  
-**Giác quan:** thị giác mù 10 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác mù 3 m (10 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
@@ -4066,7 +4066,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Cắn (Bites).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 0 feet, một sinh vật trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống. Mục tiêu cứu nguy Thể chất DC 10, chịu 14 (4d6) sát thương độc khi thất bại, nửa khi thành công.
+**Cắn (Bites).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 0 m (0 feet), một sinh vật trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống. Mục tiêu cứu nguy Thể chất DC 10, chịu 14 (4d6) sát thương độc khi thất bại, nửa khi thành công.
 
 ### Bầy cá quipper (Swarm of Quippers)
 
@@ -4074,7 +4074,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 13.  
 **HP:** 28 (8d8 - 8).  
-**Tốc độ:** 0 feet, bơi 40 feet.  
+**Tốc độ:** 0 m (0 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4082,7 +4082,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **Kháng sát thương:** đập, xuyên, chém.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, bị vật lộn, tê liệt, hóa đá, ngã sấp, kiềm giữ, choáng.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
@@ -4094,7 +4094,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Cắn (Bites).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 0 feet, một sinh vật trong không gian bầy. Trúng: 14 (4d6) sát thương xuyên, hoặc 7 (2d6) nếu bầy còn nửa HP trở xuống.
+**Cắn (Bites).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 0 m (0 feet), một sinh vật trong không gian bầy. Trúng: 14 (4d6) sát thương xuyên, hoặc 7 (2d6) nếu bầy còn nửa HP trở xuống.
 
 ### Bầy chuột (Swarm of Rats)
 
@@ -4102,7 +4102,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 10.  
 **HP:** 24 (7d8 - 7).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4110,7 +4110,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **Kháng sát thương:** đập, xuyên, chém.  
 **Miễn nhiễm trạng thái:** mê hoặc, hoảng sợ, bị vật lộn, tê liệt, hóa đá, ngã sấp, kiềm giữ, choáng.  
-**Giác quan:** thị giác bóng tối 30 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 9 m (30 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -4120,7 +4120,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Cắn (Bites).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 0 feet, một mục tiêu trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống.
+**Cắn (Bites).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 0 m (0 feet), một mục tiêu trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống.
 
 ### Bầy quạ (Swarm of Ravens)
 
@@ -4128,7 +4128,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 12.  
 **HP:** 24 (7d8 - 7).  
-**Tốc độ:** 10 feet, bay 50 feet.  
+**Tốc độ:** 3 m (10 feet), bay 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4145,7 +4145,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 #### Hành động
 
-**Mỏ (Beaks).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống.
+**Mỏ (Beaks).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu trong không gian bầy. Trúng: 7 (2d6) sát thương xuyên, hoặc 3 (1d6) nếu bầy còn nửa HP trở xuống.
 
 ### Hổ (Tiger)
 
@@ -4153,26 +4153,26 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 12.  
 **HP:** 37 (5d10 + 10).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 17 (+3) | 15 (+2) | 14 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Kỹ năng:** Nhận biết +3, Ẩn nấp +6.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 1 (200 XP).
 
 **Khứu giác nhạy (Keen Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào mùi.
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Cắn một lần bằng hành động phụ.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 8 (1d10 + 3) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 8 (1d10 + 3) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d8 + 3) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d8 + 3) sát thương chém.
 
 ### Khủng long ba sừng (Triceratops)
 
@@ -4180,7 +4180,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 95 (10d12 + 30).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4190,13 +4190,13 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 **Ngôn ngữ:** —.  
 **Thách thức:** 5 (1,800 XP).
 
-**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Giẫm một lần bằng hành động phụ.
+**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Húc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu ngã sấp, có thể Giẫm một lần bằng hành động phụ.
 
 #### Hành động
 
-**Húc (Gore).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 24 (4d8 + 6) sát thương xuyên.
+**Húc (Gore).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 24 (4d8 + 6) sát thương xuyên.
 
-**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 5 feet, một sinh vật ngã sấp. Trúng: 22 (3d10 + 6) sát thương đập.
+**Giẫm (Stomp).** Tấn công vũ khí cận chiến: +9 để trúng, tầm với 1,5 m (5 feet), một sinh vật ngã sấp. Trúng: 22 (3d10 + 6) sát thương đập.
 
 Một trong các khủng long ăn cỏ hung hăng nhất, triceratops có sừng lớn và tốc độ đáng gờm để húc/giẫm chết thú săn mồi định tấn công.
 
@@ -4206,14 +4206,14 @@ Một trong các khủng long ăn cỏ hung hăng nhất, triceratops có sừng
 
 **AC:** 15 (giáp tự nhiên).  
 **HP:** 84 (8d10 + 40).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
 **Kỹ năng:** Nhận biết +2.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 12.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 12.  
 **Ngôn ngữ:** Giant.  
 **Thách thức:** 5 (1,800 XP).
 
@@ -4225,9 +4225,9 @@ Một trong các khủng long ăn cỏ hung hăng nhất, triceratops có sừng
 
 **Đa đòn (Multiattack).** Ba đòn: một Cắn, hai Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d6 + 4) sát thương xuyên.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
 
 Khổng nhân da xanh đáng sợ này ăn mọi thứ bắt và nuốt được. Chỉ axit/lửa ngăn tính tái sinh của thịt troll.
 
@@ -4237,7 +4237,7 @@ Khổng nhân da xanh đáng sợ này ăn mọi thứ bắt và nuốt được
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 4 (1d6 + 1).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4246,7 +4246,7 @@ Khổng nhân da xanh đáng sợ này ăn mọi thứ bắt và nuốt được
 **Kỹ năng:** Ẩn nấp +3.  
 **Dễ tổn thương sát thương:** lửa.  
 **Miễn nhiễm trạng thái:** mù, điếc.  
-**Giác quan:** thị giác mù 60 feet (mù ngoài bán kính này), Nhận biết thụ động 9.  
+**Giác quan:** thị giác mù 18 m (60 feet) (mù ngoài bán kính này), Nhận biết thụ động 9.  
 **Ngôn ngữ:** hiểu Common nhưng không nói được.  
 **Thách thức:** 1/8 (25 XP).
 
@@ -4254,7 +4254,7 @@ Khổng nhân da xanh đáng sợ này ăn mọi thứ bắt và nuốt được
 
 #### Hành động
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d4 + 1) sát thương xuyên.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 3 (1d4 + 1) sát thương xuyên.
 
 Twig blight là thực vật thức tỉnh giống bụi cây gỗ kéo rễ khỏi đất. Cành xoắn nhau thành thân giống nhân dạng có đầu và chi.
 
@@ -4264,7 +4264,7 @@ Twig blight là thực vật thức tỉnh giống bụi cây gỗ kéo rễ kh�
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 136 (13d12 + 52).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4279,9 +4279,9 @@ Twig blight là thực vật thức tỉnh giống bụi cây gỗ kéo rễ kh�
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn, một Đuôi. Không thể dùng cả hai vào cùng mục tiêu.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 33 (4d12 + 7) sát thương xuyên. Nếu là sinh vật Trung bình trở xuống, bị vật lộn (DC thoát 17). Đến khi kết thúc, mục tiêu bị kiềm giữ và tyrannosaurus không thể Cắn mục tiêu khác.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 33 (4d12 + 7) sát thương xuyên. Nếu là sinh vật Trung bình trở xuống, bị vật lộn (DC thoát 17). Đến khi kết thúc, mục tiêu bị kiềm giữ và tyrannosaurus không thể Cắn mục tiêu khác.
 
-**Đuôi (Tail).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 20 (3d8 + 7) sát thương đập.
+**Đuôi (Tail).** Tấn công vũ khí cận chiến: +10 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 20 (3d8 + 7) sát thương đập.
 
 Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật trong lãnh thổ. Nó đuổi mọi thứ nghĩ ăn được; ít sinh vật nó không thử nuốt trọn.
 
@@ -4291,7 +4291,7 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 
 **AC:** 10.  
 **HP:** 5 (1d8 + 1).  
-**Tốc độ:** 10 feet, bay 50 feet.  
+**Tốc độ:** 3 m (10 feet), bay 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4304,11 +4304,11 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 
 **Thị giác và khứu giác nhạy (Keen Sight and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nhìn hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kền kền trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của kền kền trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Mỏ (Beak).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d4) sát thương xuyên.
+**Mỏ (Beak).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d4) sát thương xuyên.
 
 ### Chiến mã (Warhorse)
 
@@ -4316,7 +4316,7 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 
 **AC:** 11.  
 **HP:** 19 (3d10 + 3).  
-**Tốc độ:** 60 feet.  
+**Tốc độ:** 18 m (60 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4326,11 +4326,11 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/2 (100 XP).
 
-**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 20 feet về sinh vật rồi trúng bằng Móng guốc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp. Nếu ngã sấp, có thể đánh thêm một lần bằng Móng guốc bằng hành động phụ.
+**Xung phong giẫm đạp (Trampling Charge).** Nếu đi thẳng ít nhất 6 m (20 feet) về sinh vật rồi trúng bằng Móng guốc cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp. Nếu ngã sấp, có thể đánh thêm một lần bằng Móng guốc bằng hành động phụ.
 
 #### Hành động
 
-**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
+**Móng guốc (Hooves).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương đập.
 
 ### Nguyên tố nước (Water Elemental)
 
@@ -4338,7 +4338,7 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 
 **AC:** 14 (giáp tự nhiên).  
 **HP:** 114 (12d10 + 48).  
-**Tốc độ:** 30 feet, bơi 90 feet.  
+**Tốc độ:** 9 m (30 feet), bơi 27 m (90 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4347,23 +4347,23 @@ Khủng long săn mồi khổng lồ này gieo kinh hoàng mọi sinh vật tron
 **Kháng sát thương:** axit; đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, bị vật lộn, tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ, bất tỉnh.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 10.  
 **Ngôn ngữ:** Aquan.  
 **Thách thức:** 5 (1,800 XP).
 
-**Dạng nước (Water Form).** Vào không gian sinh vật thù địch và dừng ở đó; đi qua khe chỉ 1 inch không cần chen ép.
+**Dạng nước (Water Form).** Vào không gian sinh vật thù địch và dừng ở đó; đi qua khe chỉ 2,5 cm (1 inch) không cần chen ép.
 
-**Đóng băng (Freeze).** Nếu chịu sát thương lạnh, đóng băng một phần; tốc độ giảm 20 feet đến cuối lượt tiếp theo.
+**Đóng băng (Freeze).** Nếu chịu sát thương lạnh, đóng băng một phần; tốc độ giảm 6 m (20 feet) đến cuối lượt tiếp theo.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn Đập.
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương đập.
 
 **Nhấn chìm (Whelm; Hồi 4-6).** Mỗi sinh vật trong không gian nguyên tố cứu nguy Sức mạnh DC 15. Thất bại: chịu 13 (2d8 + 4) sát thương đập; nếu Lớn trở xuống, còn bị vật lộn (DC thoát 14). Đến khi kết thúc, bị kiềm giữ và không thở được trừ khi thở nước. Thành công cứu nguy: bị đẩy khỏi không gian nguyên tố.
 
-Nguyên tố vật lộn được một sinh vật Lớn hoặc tối đa hai sinh vật Trung bình trở xuống cùng lúc. Đầu mỗi lượt nguyên tố, mỗi mục tiêu đang bị nó vật lộn chịu 13 (2d8 + 4) sát thương đập. Sinh vật trong 5 feet dùng hành động kéo sinh vật/đồ vật ra bằng thành công kiểm tra Sức mạnh DC 14.
+Nguyên tố vật lộn được một sinh vật Lớn hoặc tối đa hai sinh vật Trung bình trở xuống cùng lúc. Đầu mỗi lượt nguyên tố, mỗi mục tiêu đang bị nó vật lộn chịu 13 (2d8 + 4) sát thương đập. Sinh vật trong 1,5 m (5 feet) dùng hành động kéo sinh vật/đồ vật ra bằng thành công kiểm tra Sức mạnh DC 14.
 
 Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế giới, nguyên tố nước như sóng cuộn qua đất. Nó nuốt chửng sinh vật chống lại.
 
@@ -4373,7 +4373,7 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 **AC:** 13.  
 **HP:** 1 (1d4 - 1).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4388,7 +4388,7 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 1 sát thương xuyên.
 
 ### Người sói (Werewolf)
 
@@ -4396,7 +4396,7 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 **AC:** 11 trong dạng nhân dạng, 12 (giáp tự nhiên) trong dạng sói hoặc lai.  
 **HP:** 58 (9d8 + 18).  
-**Tốc độ:** 30 feet (40 feet trong dạng sói).  
+**Tốc độ:** 9 m (30 feet), hoặc 12 m (40 feet) trong dạng sói.  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4416,11 +4416,11 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 **Đa đòn (Multiattack; chỉ dạng nhân dạng hoặc lai).** Hai đòn Giáo (nhân dạng) hoặc một Cắn và một Vuốt (lai).
 
-**Cắn (Bite; chỉ dạng sói hoặc lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên. Nếu là nhân dạng, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền hóa [người sói](99-glossary.md#lycanthrope) (werewolf lycanthropy).
+**Cắn (Bite; chỉ dạng sói hoặc lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên. Nếu là nhân dạng, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền hóa [người sói](99-glossary.md#lycanthrope) (werewolf lycanthropy).
 
-**Vuốt (Claws; chỉ dạng lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (2d4 + 2) sát thương chém.
+**Vuốt (Claws; chỉ dạng lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 7 (2d4 + 2) sát thương chém.
 
-**Giáo (Spear; chỉ dạng nhân dạng).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 5 feet hoặc tầm 20/60 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên, hoặc 6 (1d8 + 2) nếu dùng hai tay tấn công cận chiến.
+**Giáo (Spear; chỉ dạng nhân dạng).** Tấn công vũ khí cận chiến hoặc tầm xa: +4 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 6/18 m (20/60 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương xuyên, hoặc 6 (1d8 + 2) nếu dùng hai tay tấn công cận chiến.
 
 Người sói là thú săn mồi hoang dã xuất hiện dạng nhân dạng, sói hoặc dạng lai đáng sợ—thân nhân dạng cơ bắp, nhiều lông với đầu sói hung đói.
 
@@ -4430,7 +4430,7 @@ Người sói là thú săn mồi hoang dã xuất hiện dạng nhân dạng, s
 
 **AC:** 14 (giáp da đinh).  
 **HP:** 45 (6d8 + 18).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4440,7 +4440,7 @@ Người sói là thú săn mồi hoang dã xuất hiện dạng nhân dạng, s
 **Kháng sát thương:** hoại tử; đập, xuyên, và chém từ đòn tấn công không ma thuật không dùng vũ khí phủ bạc.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** kiệt sức, trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** các ngôn ngữ từng biết khi sống.  
 **Thách thức:** 3 (700 XP).
 
@@ -4450,13 +4450,13 @@ Người sói là thú săn mồi hoang dã xuất hiện dạng nhân dạng, s
 
 **Đa đòn (Multiattack).** Hai đòn Kiếm dài hoặc hai Cung dài; có thể thay một Kiếm dài bằng Hút sự sống.
 
-**Hút sự sống (Life Drain).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương hoại tử. Mục tiêu phải thành công cứu nguy Thể chất DC 13 hoặc HP tối đa giảm bằng sát thương nhận, đến khi hoàn tất nghỉ dài. Chết nếu hiệu ứng giảm HP tối đa xuống 0.
+**Hút sự sống (Life Drain).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương hoại tử. Mục tiêu phải thành công cứu nguy Thể chất DC 13 hoặc HP tối đa giảm bằng sát thương nhận, đến khi hoàn tất nghỉ dài. Chết nếu hiệu ứng giảm HP tối đa xuống 0.
 
 Nhân dạng bị đòn này giết dựng dậy 24 giờ sau thành zombie dưới điều khiển wight, trừ khi được hồi sinh hoặc thân bị phá. Wight điều khiển tối đa mười hai zombie cùng lúc.
 
-**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương chém, hoặc 7 (1d10 + 2) nếu dùng hai tay.
+**Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương chém, hoặc 7 (1d10 + 2) nếu dùng hai tay.
 
-**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 150/600 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
+**Cung dài (Longbow).** Tấn công vũ khí tầm xa: +4 để trúng, tầm 45/180 m (150/600 feet), một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên.
 
 Wight là nhân dạng xác sống thông minh giống thi thể có vũ khí và giáp. Chúng không mệt khi theo đuổi mục tiêu chiến tranh vĩnh viễn với người sống.
 
@@ -4466,7 +4466,7 @@ Wight là nhân dạng xác sống thông minh giống thi thể có vũ khí v�
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 75 (10d10 + 20).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4480,15 +4480,15 @@ Wight là nhân dạng xác sống thông minh giống thi thể có vũ khí v�
 
 **Thính giác và khứu giác nhạy (Keen Hearing and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nghe hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 **Ngụy trang tuyết (Snow Camouflage).** Có lợi thế kiểm tra Khéo léo (Ẩn nấp) để ẩn trong địa hình tuyết.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 14 hoặc ngã sấp.
 
-**Hơi thở lạnh (Cold Breath; Hồi 5-6).** Phun gió băng hình nón 15 feet. Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 12, chịu 18 (4d8) sát thương lạnh khi thất bại, nửa khi thành công.
+**Hơi thở lạnh (Cold Breath; Hồi 5-6).** Phun gió băng hình nón 4,5 m (15 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo DC 12, chịu 18 (4d8) sát thương lạnh khi thất bại, nửa khi thành công.
 
 Sói mùa đông sống Bắc Cực là sinh vật ác thông minh, lông trắng tuyết và mắt xanh nhạt.
 
@@ -4498,7 +4498,7 @@ Sói mùa đông sống Bắc Cực là sinh vật ác thông minh, lông trắn
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 40 feet.  
+**Tốc độ:** 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4511,11 +4511,11 @@ Sói mùa đông sống Bắc Cực là sinh vật ác thông minh, lông trắn
 
 **Thính giác và khứu giác nhạy (Keen Hearing and Smell).** Có lợi thế kiểm tra Minh triết (Nhận biết) dựa vào nghe hoặc mùi.
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của sói trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (2d4 + 2) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (2d4 + 2) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 11 hoặc ngã sấp.
 
 ### Worg (Worg)
 
@@ -4523,14 +4523,14 @@ Sói mùa đông sống Bắc Cực là sinh vật ác thông minh, lông trắn
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 26 (4d10 + 4).  
-**Tốc độ:** 50 feet.  
+**Tốc độ:** 15 m (50 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) |
 
 **Kỹ năng:** Nhận biết +4.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 14.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 14.  
 **Ngôn ngữ:** Goblin, Worg.  
 **Thách thức:** 1/2 (100 XP).
 
@@ -4538,7 +4538,7 @@ Sói mùa đông sống Bắc Cực là sinh vật ác thông minh, lông trắn
 
 #### Hành động
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu là sinh vật, phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp.
 
 Worg là thú săn mồi quái dị như sói thích săn và ăn sinh vật yếu hơn.
 
@@ -4548,14 +4548,14 @@ Worg là thú săn mồi quái dị như sói thích săn và ăn sinh vật y�
 
 **AC:** 13 (giáp tự nhiên).  
 **HP:** 110 (13d10 + 39).  
-**Tốc độ:** 20 feet, bay 80 feet.  
+**Tốc độ:** 6 m (20 feet), bay 24 m (80 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 12 (+1) | 6 (-2) |
 
 **Kỹ năng:** Nhận biết +4.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 14.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 14.  
 **Ngôn ngữ:** —.  
 **Thách thức:** 6 (2,300 XP).
 
@@ -4563,11 +4563,11 @@ Worg là thú săn mồi quái dị như sói thích săn và ăn sinh vật y�
 
 **Đa đòn (Multiattack).** Hai đòn: một Cắn, một Ngòi chích. Khi bay, có thể thay một đòn khác bằng Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 10 feet, một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 3 m (10 feet), một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên.
 
-**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 13 (2d8 + 4) sát thương chém.
+**Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 13 (2d8 + 4) sát thương chém.
 
-**Ngòi chích (Stinger).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 10 feet, một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên. Mục tiêu cứu nguy Thể chất DC 15, chịu 24 (7d6) sát thương độc khi thất bại, nửa khi thành công.
+**Ngòi chích (Stinger).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 3 m (10 feet), một sinh vật. Trúng: 11 (2d6 + 4) sát thương xuyên. Mục tiêu cứu nguy Thể chất DC 15, chịu 24 (7d6) sát thương độc khi thất bại, nửa khi thành công.
 
 Họ hàng rồng lớn, wyvern có hai chân vảy, cánh da và đuôi gân guốc với ngòi độc giết sinh vật trong vài giây.
 
@@ -4577,7 +4577,7 @@ Họ hàng rồng lớn, wyvern có hai chân vảy, cánh da và đuôi gân gu
 
 **AC:** 12 (giáp tự nhiên).  
 **HP:** 51 (6d10 + 18).  
-**Tốc độ:** 40 feet, leo 40 feet.  
+**Tốc độ:** 12 m (40 feet), leo 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4585,7 +4585,7 @@ Họ hàng rồng lớn, wyvern có hai chân vảy, cánh da và đuôi gân gu
 
 **Kỹ năng:** Nhận biết +3, Ẩn nấp +3.  
 **Miễn nhiễm sát thương:** lạnh.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 13.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 13.  
 **Ngôn ngữ:** Yeti.  
 **Thách thức:** 3 (700 XP).
 
@@ -4599,9 +4599,9 @@ Họ hàng rồng lớn, wyvern có hai chân vảy, cánh da và đuôi gân gu
 
 **Đa đòn (Multiattack).** Có thể dùng Ánh nhìn buốt lạnh và thực hiện hai đòn Vuốt.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 7 (1d6 + 4) sát thương chém cộng 3 (1d6) sát thương lạnh.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +6 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 7 (1d6 + 4) sát thương chém cộng 3 (1d6) sát thương lạnh.
 
-**Ánh nhìn buốt lạnh (Chilling Gaze).** Nhắm một sinh vật thấy trong 30 feet. Nếu thấy yeti, mục tiêu phải thành công cứu nguy Thể chất DC 13 chống ma thuật này hoặc chịu 10 (3d6) sát thương lạnh rồi tê liệt 1 phút, trừ khi miễn nhiễm sát thương lạnh. Cứu nguy lại cuối mỗi lượt, thành công chấm dứt hiệu ứng. Cứu nguy thành công hoặc hiệu ứng kết thúc khiến mục tiêu miễn nhiễm Ánh nhìn buốt lạnh của mọi yeti (nhưng không phải abominable yeti) 1 giờ.
+**Ánh nhìn buốt lạnh (Chilling Gaze).** Nhắm một sinh vật thấy trong 9 m (30 feet). Nếu thấy yeti, mục tiêu phải thành công cứu nguy Thể chất DC 13 chống ma thuật này hoặc chịu 10 (3d6) sát thương lạnh rồi tê liệt 1 phút, trừ khi miễn nhiễm sát thương lạnh. Cứu nguy lại cuối mỗi lượt, thành công chấm dứt hiệu ứng. Cứu nguy thành công hoặc hiệu ứng kết thúc khiến mục tiêu miễn nhiễm Ánh nhìn buốt lạnh của mọi yeti (nhưng không phải abominable yeti) 1 giờ.
 
 Yeti là quái thể đồ sộ rình các đỉnh núi cao, săn thức ăn không ngừng. Lông trắng tuyết cho chúng di chuyển như ma giữa cảnh đông băng.
 
@@ -4611,7 +4611,7 @@ Yeti là quái thể đồ sộ rình các đỉnh núi cao, săn thức ăn kh�
 
 **AC:** 18 (giáp tự nhiên).  
 **HP:** 136 (16d10 + 48).  
-**Tốc độ:** 40 feet, bay 80 feet, bơi 40 feet.  
+**Tốc độ:** 12 m (40 feet), bay 24 m (80 feet), bơi 12 m (40 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4621,7 +4621,7 @@ Yeti là quái thể đồ sộ rình các đỉnh núi cao, săn thức ăn kh�
 **Kỹ năng:** Lừa dối +5, Nhận biết +7, Ẩn nấp +4.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** trúng độc.  
-**Giác quan:** thị giác mù 30 feet, thị giác bóng tối 120 feet, Nhận biết thụ động 17.  
+**Giác quan:** thị giác mù 9 m (30 feet), thị giác bóng tối 36 m (120 feet), Nhận biết thụ động 17.  
 **Ngôn ngữ:** Common, Draconic.  
 **Thách thức:** 8 (3,900 XP).
 
@@ -4631,11 +4631,11 @@ Yeti là quái thể đồ sộ rình các đỉnh núi cao, săn thức ăn kh�
 
 **Đa đòn (Multiattack).** Ba đòn: một Cắn, hai Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 15 (2d10 + 4) sát thương xuyên cộng 7 (2d6) sát thương độc.
+**Cắn (Bite).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 3 m (10 feet), một mục tiêu. Trúng: 15 (2d10 + 4) sát thương xuyên cộng 7 (2d6) sát thương độc.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 11 (2d6 + 4) sát thương chém.
 
-**Hơi thở độc (Poison Breath; Hồi 5-6).** Phun khí độc hình nón 30 feet. Mỗi sinh vật trong vùng cứu nguy Thể chất DC 14, chịu 42 (12d6) sát thương độc khi thất bại, nửa khi thành công.
+**Hơi thở độc (Poison Breath; Hồi 5-6).** Phun khí độc hình nón 9 m (30 feet). Mỗi sinh vật trong vùng cứu nguy Thể chất DC 14, chịu 42 (12d6) sát thương độc khi thất bại, nửa khi thành công.
 
 Xảo quyệt và phản trắc nhất trong rồng thực thụ, rồng xanh lá dùng đánh lạc hướng và mưu mẹo chiếm ưu thế trước kẻ thù. Nhận ra nó bằng mào bắt đầu gần mắt, chạy dọc sống lưng, cao nhất ngay sau sọ.
 
@@ -4645,7 +4645,7 @@ Xảo quyệt và phản trắc nhất trong rồng thực thụ, rồng xanh l�
 
 **AC:** 8.  
 **HP:** 22 (3d8 + 9).  
-**Tốc độ:** 20 feet.  
+**Tốc độ:** 6 m (20 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4654,7 +4654,7 @@ Xảo quyệt và phản trắc nhất trong rồng thực thụ, rồng xanh l�
 **Cứu nguy:** Wis +0.  
 **Miễn nhiễm sát thương:** độc.  
 **Miễn nhiễm trạng thái:** trúng độc.  
-**Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 8.  
+**Giác quan:** thị giác bóng tối 18 m (60 feet), Nhận biết thụ động 8.  
 **Ngôn ngữ:** hiểu các ngôn ngữ từng biết khi sống nhưng không nói được.  
 **Thách thức:** 1/4 (50 XP).
 
@@ -4662,7 +4662,7 @@ Xảo quyệt và phản trắc nhất trong rồng thực thụ, rồng xanh l�
 
 #### Hành động
 
-**Đập (Slam).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập.
+**Đập (Slam).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương đập.
 
 Zombie xác sống đi giật cục, không đều. Chúng mặc đồ mốc từng mặc khi an táng và mang mùi thối rữa.
 
@@ -4678,7 +4678,7 @@ Phần này chứa thông số các nhân vật không phải người chơi (NP
 
 Có nhiều cách dễ dàng tùy chỉnh NPC trong phụ lục này cho chiến dịch tại nhà.
 
-**Đặc tính [chủng tộc](99-glossary.md#race).** Có thể thêm đặc tính chủng cho NPC. Ví dụ, tu sĩ halfling có thể có tốc độ 25 feet và May mắn (Lucky). Thêm đặc tính chủng không đổi mức thách thức. Xem Chương 2.
+**Đặc tính [chủng tộc](99-glossary.md#race).** Có thể thêm đặc tính chủng cho NPC. Ví dụ, tu sĩ halfling có thể có tốc độ 7,5 m (25 feet) và May mắn (Lucky). Thêm đặc tính chủng không đổi mức thách thức. Xem Chương 2.
 
 **Thay phép.** Một cách tùy chỉnh NPC thi triển phép là thay một hoặc nhiều phép. Có thể thay bất kỳ phép nào trong danh sách NPC bằng phép khác cùng bậc, cùng danh sách phép. Thay theo cách này không đổi mức thách thức.
 
@@ -4692,7 +4692,7 @@ Có nhiều cách dễ dàng tùy chỉnh NPC trong phụ lục này cho chiến
 
 **AC:** 10.  
 **HP:** 9 (2d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4710,7 +4710,7 @@ Có nhiều cách dễ dàng tùy chỉnh NPC trong phụ lục này cho chiến
 
 #### Hành động
 
-**Chùy (Club).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d4) sát thương đập.
+**Chùy (Club).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d4) sát thương đập.
 
 Tu sinh là thành viên cấp thấp hàng giáo sĩ, thường chịu trách nhiệm trước tu sĩ. Họ làm nhiều việc trong đền và được thần ban quyền thi triển phép nhỏ.
 
@@ -4720,7 +4720,7 @@ Tu sinh là thành viên cấp thấp hàng giáo sĩ, thường chịu trách n
 
 **AC:** 12 (giáp da).  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4732,9 +4732,9 @@ Tu sinh là thành viên cấp thấp hàng giáo sĩ, thường chịu trách n
 
 #### Hành động
 
-**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương chém.
+**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương chém.
 
-**Nỏ nhẹ (Light Crossbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 80/320 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
+**Nỏ nhẹ (Light Crossbow).** Tấn công vũ khí tầm xa: +3 để trúng, tầm 24/96 m (80/320 feet), một mục tiêu. Trúng: 5 (1d8 + 1) sát thương xuyên.
 
 Kẻ cướp đi thành băng, đôi khi do NPC mạnh hơn, gồm người thi triển phép, dẫn đầu. Không phải tất cả đều ác. Áp bức, hạn, bệnh hoặc đói thường đẩy người vốn lương thiện vào cướp bóc.
 
@@ -4744,7 +4744,7 @@ Kẻ cướp đi thành băng, đôi khi do NPC mạnh hơn, gồm người thi 
 
 **AC:** 13 (giáp da thú).  
 **HP:** 67 (9d8 + 27).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4758,7 +4758,7 @@ Kẻ cướp đi thành băng, đôi khi do NPC mạnh hơn, gồm người thi 
 
 #### Hành động
 
-**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 9 (1d12 + 3) sát thương chém.
+**Rìu lớn (Greataxe).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 9 (1d12 + 3) sát thương chém.
 
 Đến từ vùng chưa văn minh, berserker khó đoán tập hợp thành toán chiến và tìm xung đột khắp nơi.
 
@@ -4768,7 +4768,7 @@ Kẻ cướp đi thành băng, đôi khi do NPC mạnh hơn, gồm người thi 
 
 **AC:** 10.  
 **HP:** 4 (1d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4780,7 +4780,7 @@ Kẻ cướp đi thành băng, đôi khi do NPC mạnh hơn, gồm người thi 
 
 #### Hành động
 
-**Chùy (Club).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 2 (1d4) sát thương đập.
+**Chùy (Club).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 2 (1d4) sát thương đập.
 
 Thường dân gồm nông dân, nông nô, nô lệ, người hầu, người hành hương, thương nhân, thợ thủ công và ẩn sĩ.
 
@@ -4790,7 +4790,7 @@ Thường dân gồm nông dân, nông nô, nô lệ, người hầu, người h
 
 **AC:** 12 (giáp da).  
 **HP:** 9 (2d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4805,7 +4805,7 @@ Thường dân gồm nông dân, nông nô, nô lệ, người hầu, người h
 
 #### Hành động
 
-**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một sinh vật. Trúng: 4 (1d6 + 1) sát thương chém.
+**Đao cong (Scimitar).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 4 (1d6 + 1) sát thương chém.
 
 Tín đồ tà giáo thề trung thành quyền năng tối tăm, thường thể hiện dấu hiệu điên trong tín ngưỡng và thực hành.
 
@@ -4815,7 +4815,7 @@ Tín đồ tà giáo thề trung thành quyền năng tối tăm, thường th�
 
 **AC:** 16 (áo xích, khiên).  
 **HP:** 11 (2d8 + 2).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4828,7 +4828,7 @@ Tín đồ tà giáo thề trung thành quyền năng tối tăm, thường th�
 
 #### Hành động
 
-**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +3 để trúng, tầm với 5 feet hoặc tầm 20/60 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên, hoặc 5 (1d8 + 1) nếu dùng hai tay tấn công cận chiến.
+**Giáo (Spear).** Tấn công vũ khí cận chiến hoặc tầm xa: +3 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 6/18 m (20/60 feet), một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên, hoặc 5 (1d8 + 1) nếu dùng hai tay tấn công cận chiến.
 
 Lính gác gồm đội tuần thành, lính canh thành trì/thị trấn phòng thủ, và vệ sĩ thương nhân/quý tộc.
 
@@ -4838,7 +4838,7 @@ Lính gác gồm đội tuần thành, lính canh thành trì/thị trấn phòn
 
 **AC:** 18 (giáp tấm).  
 **HP:** 52 (8d8 + 16).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4855,11 +4855,11 @@ Lính gác gồm đội tuần thành, lính canh thành trì/thị trấn phòn
 
 **Đa đòn (Multiattack).** Hai đòn cận chiến.
 
-**Kiếm lớn (Greatsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
+**Kiếm lớn (Greatsword).** Tấn công vũ khí cận chiến: +5 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 10 (2d6 + 3) sát thương chém.
 
-**Nỏ nặng (Heavy Crossbow).** Tấn công vũ khí tầm xa: +2 để trúng, tầm 100/400 feet, một mục tiêu. Trúng: 5 (1d10) sát thương xuyên.
+**Nỏ nặng (Heavy Crossbow).** Tấn công vũ khí tầm xa: +2 để trúng, tầm 30/120 m (100/400 feet), một mục tiêu. Trúng: 5 (1d10) sát thương xuyên.
 
-**Lãnh đạo (Leadership; hồi sau nghỉ ngắn hoặc dài).** Trong 1 phút, có thể nói mệnh lệnh/cảnh báo đặc biệt mỗi khi sinh vật không thù địch thấy trong 30 feet tung tấn công hoặc cứu nguy. Sinh vật cộng d4 nếu nghe và hiểu hiệp sĩ. Mỗi lần chỉ hưởng một xúc xắc Lãnh đạo. Hiệu ứng kết thúc nếu hiệp sĩ mất năng lực hành động.
+**Lãnh đạo (Leadership; hồi sau nghỉ ngắn hoặc dài).** Trong 1 phút, có thể nói mệnh lệnh/cảnh báo đặc biệt mỗi khi sinh vật không thù địch thấy trong 9 m (30 feet) tung tấn công hoặc cứu nguy. Sinh vật cộng d4 nếu nghe và hiểu hiệp sĩ. Mỗi lần chỉ hưởng một xúc xắc Lãnh đạo. Hiệu ứng kết thúc nếu hiệp sĩ mất năng lực hành động.
 
 #### Phản ứng
 
@@ -4873,7 +4873,7 @@ Hiệp sĩ là chiến binh thề phục vụ người cai trị, dòng tu hoặ
 
 **AC:** 12 (15 khi có mage armor).  
 **HP:** 40 (9d8).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4896,7 +4896,7 @@ Hiệp sĩ là chiến binh thề phục vụ người cai trị, dòng tu hoặ
 
 #### Hành động
 
-**Dao găm (Dagger).** Tấn công vũ khí cận chiến hoặc tầm xa: +5 để trúng, tầm với 5 feet hoặc tầm 20/60 feet, một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
+**Dao găm (Dagger).** Tấn công vũ khí cận chiến hoặc tầm xa: +5 để trúng, tầm với 1,5 m (5 feet) hoặc tầm 6/18 m (20/60 feet), một mục tiêu. Trúng: 4 (1d4 + 2) sát thương xuyên.
 
 Pháp sư dành cả đời nghiên cứu và thực hành ma thuật.
 
@@ -4906,7 +4906,7 @@ Pháp sư dành cả đời nghiên cứu và thực hành ma thuật.
 
 **AC:** 13 (áo xích).  
 **HP:** 27 (5d8 + 5).  
-**Tốc độ:** 25 feet.  
+**Tốc độ:** 7,5 m (25 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4928,7 +4928,7 @@ Pháp sư dành cả đời nghiên cứu và thực hành ma thuật.
 
 #### Hành động
 
-**Chùy đầu kim loại (Mace).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 3 (1d6) sát thương đập.
+**Chùy đầu kim loại (Mace).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 1,5 m (5 feet), một mục tiêu. Trúng: 3 (1d6) sát thương đập.
 
 Tu sĩ là lãnh đạo tinh thần của đền và miếu.
 
@@ -4938,7 +4938,7 @@ Tu sĩ là lãnh đạo tinh thần của đền và miếu.
 
 **AC:** 11 (giáp da).  
 **HP:** 32 (5d8 + 10).  
-**Tốc độ:** 30 feet.  
+**Tốc độ:** 9 m (30 feet).  
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -4949,15 +4949,15 @@ Tu sĩ là lãnh đạo tinh thần của đền và miếu.
 **Ngôn ngữ:** một ngôn ngữ bất kỳ (thường là Common).  
 **Thách thức:** 1/2 (100 XP).
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của côn đồ trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế tung tấn công sinh vật nếu ít nhất một đồng minh của côn đồ trong 1,5 m (5 feet) của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
 **Đa đòn (Multiattack).** Hai đòn cận chiến.
 
-**Chùy đầu kim loại (Mace).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 5 (1d6 + 2) sát thương đập.
+**Chùy đầu kim loại (Mace).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 1,5 m (5 feet), một sinh vật. Trúng: 5 (1d6 + 2) sát thương đập.
 
-**Nỏ nặng (Heavy Crossbow).** Tấn công vũ khí tầm xa: +2 để trúng, tầm 100/400 feet, một mục tiêu. Trúng: 5 (1d10) sát thương xuyên.
+**Nỏ nặng (Heavy Crossbow).** Tấn công vũ khí tầm xa: +2 để trúng, tầm 30/120 m (100/400 feet), một mục tiêu. Trúng: 5 (1d10) sát thương xuyên.
 
 Côn đồ là kẻ cưỡng chế tàn nhẫn giỏi đe dọa và bạo lực. Chúng làm vì tiền, ít đắn đo đạo đức.
 

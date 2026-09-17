@@ -32,18 +32,18 @@ Bạn không cần giới hạn mình trong khái niệm nhị nguyên về gi�
 
 Bạn có thể quyết định chiều cao, cân nặng theo mô tả chủng tộc hoặc bảng ngẫu nhiên. Hãy nghĩ [điểm thuộc tính](99-glossary.md#ability-score) nói gì về cơ thể: một nhân vật yếu nhưng nhanh nhẹn có thể gầy; một người khỏe và bền bỉ có thể cao hoặc chỉ nặng.
 
-Nếu muốn, tung ngẫu nhiên theo bảng. Kết quả cột Hệ số cao xác định số inch cộng vào chiều cao cơ sở. Cùng số ấy nhân kết quả xúc xắc, hoặc số cố định, ở cột Hệ số nặng để xác định số [pound](99-glossary.md#feet) cộng vào cân nặng cơ sở.
+Nếu muốn, tung ngẫu nhiên theo bảng. Kết quả cột Hệ số cao xác định số centimét cộng vào chiều cao cơ sở, với số inch gốc giữ trong ngoặc. Cùng số ấy nhân kết quả xúc xắc, hoặc số cố định, ở cột Hệ số nặng để xác định số kilôgam cộng vào cân nặng cơ sở; công thức pound gốc cũng được giữ để đối chiếu.
 
 | Chủng tộc | Cao cơ sở | Hệ số cao | Nặng cơ sở | Hệ số nặng |
 | --- | --- | --- | --- | --- |
-| Con người | 4'8" | +2d10 | 110 lb. | × 2d4 lb. |
-| Người lùn đồi | 3'8" | +2d4 | 115 lb. | × 2d6 lb. |
-| Người lùn núi | 4' | +2d4 | 130 lb. | × 2d6 lb. |
-| Elf bậc cao | 4'6" | +2d10 | 90 lb. | × 1d4 lb. |
-| Elf rừng | 4'6" | +2d10 | 100 lb. | × 1d4 lb. |
-| Halfling | 2'7" | +2d4 | 35 lb. | × 1 lb. |
+| Con người | 1,42 m (4'8") | +2d10 × 2,5 cm (+2d10 inch) | 49,5 kg (110 lb.) | × 2d4 × 0,45 kg (× 2d4 lb.) |
+| Người lùn đồi | 1,12 m (3'8") | +2d4 × 2,5 cm (+2d4 inch) | 51,75 kg (115 lb.) | × 2d6 × 0,45 kg (× 2d6 lb.) |
+| Người lùn núi | 1,22 m (4') | +2d4 × 2,5 cm (+2d4 inch) | 58,5 kg (130 lb.) | × 2d6 × 0,45 kg (× 2d6 lb.) |
+| Elf bậc cao | 1,37 m (4'6") | +2d10 × 2,5 cm (+2d10 inch) | 40,5 kg (90 lb.) | × 1d4 × 0,45 kg (× 1d4 lb.) |
+| Elf rừng | 1,37 m (4'6") | +2d10 × 2,5 cm (+2d10 inch) | 45 kg (100 lb.) | × 1d4 × 0,45 kg (× 1d4 lb.) |
+| Halfling | 0,79 m (2'7") | +2d4 × 2,5 cm (+2d4 inch) | 15,75 kg (35 lb.) | × 0,45 kg (× 1 lb.) |
 
-Ví dụ, Tika là con người: tung 2d10 được 12 nên cao 5'8". Tung 2d4 được 3, nên nặng thêm 12 × 3 = 36 lb.; tổng 146 lb.
+Ví dụ, Tika là con người: tung 2d10 được 12 nên cao 1,73 m (5'8"). Tung 2d4 được 3, nên nặng thêm 12 × 3 = 16,2 kg (36 lb.); tổng 65,7 kg (146 lb.)
 
 ### Các đặc điểm cơ thể khác (Other Physical Characteristics)
 

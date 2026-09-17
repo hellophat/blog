@@ -105,7 +105,7 @@ Dưới đây là một số ví dụ về những việc có thể làm cùng v
 - Áp tai vào cửa.
 - Đá một viên đá nhỏ.
 - Xoay chìa trong ổ khóa.
-- Gõ sàn bằng sào dài 10 [feet](99-glossary.md#feet).
+- Gõ sàn bằng sào dài 3 m (10 [feet](99-glossary.md#feet)).
 - Đưa một vật phẩm cho nhân vật khác.
 
 ### Phản ứng (Reactions)
@@ -130,17 +130,17 @@ Phần “Các kiểu di chuyển đặc biệt” ở chương 8 trình bày ch
 
 ### Chia nhỏ di chuyển (Breaking Up Your Move)
 
-Bạn có thể chia nhỏ việc di chuyển trong lượt, dùng một phần tốc độ trước và sau hành động. Ví dụ, nếu có tốc độ 30 feet, bạn có thể đi 10 feet, thực hiện hành động, rồi đi 20 feet.
+Bạn có thể chia nhỏ việc di chuyển trong lượt, dùng một phần tốc độ trước và sau hành động. Ví dụ, nếu có tốc độ 9 m (30 feet), bạn có thể đi 3 m (10 feet), thực hiện hành động, rồi đi 6 m (20 feet).
 
 #### Di chuyển giữa các đòn tấn công (Moving between Attacks)
 
-Nếu thực hiện hành động gồm nhiều hơn một đòn tấn công bằng vũ khí, bạn có thể chia nhỏ di chuyển hơn nữa bằng cách di chuyển giữa những đòn ấy. Ví dụ, [chiến binh](99-glossary.md#fighter) có thể thực hiện hai đòn nhờ đặc tính Tấn công thêm (Extra Attack), với tốc độ 25 feet, có thể đi 10 feet, tấn công, đi 15 feet, rồi tấn công lần nữa.
+Nếu thực hiện hành động gồm nhiều hơn một đòn tấn công bằng vũ khí, bạn có thể chia nhỏ di chuyển hơn nữa bằng cách di chuyển giữa những đòn ấy. Ví dụ, [chiến binh](99-glossary.md#fighter) có thể thực hiện hai đòn nhờ đặc tính Tấn công thêm (Extra Attack), với tốc độ 7,5 m (25 feet), có thể đi 3 m (10 feet), tấn công, đi 4,5 m (15 feet), rồi tấn công lần nữa.
 
 #### Dùng các tốc độ khác nhau (Using Different Speeds)
 
 Nếu có nhiều tốc độ, như tốc độ đi bộ và tốc độ bay, bạn có thể đổi qua lại giữa chúng trong lúc di chuyển. Mỗi lần đổi, trừ quãng đường đã di chuyển khỏi tốc độ mới. Kết quả xác định bạn có thể đi thêm bao xa. Nếu kết quả bằng 0 hoặc thấp hơn, bạn không thể dùng tốc độ mới trong lần di chuyển hiện tại.
 
-Ví dụ, nếu có tốc độ 30 và tốc độ bay 60 vì pháp sư thi triển *fly* lên bạn, bạn có thể bay 20 feet, đi bộ 10 feet, rồi lao lên không trung bay thêm 30 feet.
+Ví dụ, nếu có tốc độ 30 và tốc độ bay 60 vì pháp sư thi triển *fly* lên bạn, bạn có thể bay 6 m (20 feet), đi bộ 3 m (10 feet), rồi lao lên không trung bay thêm 9 m (30 feet).
 
 ### Địa hình khó đi (Difficult Terrain)
 
@@ -150,7 +150,7 @@ Ví dụ, nếu có tốc độ 30 và tốc độ bay 60 vì pháp sư thi tri�
 
 Chiến đấu hiếm khi diễn ra trong phòng trống hoặc đồng bằng không có đặc điểm gì. Hang động đầy đá tảng, rừng rậm gai góc, cầu thang hiểm trở — bối cảnh của trận chiến điển hình có [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
-Mỗi foot di chuyển trong địa hình khó đi tiêu tốn thêm 1 foot. Quy tắc này vẫn đúng ngay cả khi nhiều yếu tố trong cùng một không gian được coi là địa hình khó đi.
+Mỗi 0,3 m (1 foot) di chuyển trong địa hình khó đi tiêu tốn thêm 0,3 m (1 foot). Quy tắc này vẫn đúng ngay cả khi nhiều yếu tố trong cùng một không gian được coi là địa hình khó đi.
 
 Đồ đạc thấp, gạch đá vụn, bụi cây, cầu thang dốc, tuyết và đầm lầy nông là những ví dụ về địa hình khó đi. Không gian của một sinh vật khác, dù thù địch hay không, cũng được coi là địa hình khó đi.
 
@@ -158,9 +158,9 @@ Mỗi foot di chuyển trong địa hình khó đi tiêu tốn thêm 1 foot. Quy
 
 Người tham chiến thường nằm trên mặt đất, do bị đánh ngã hoặc tự nằm xuống. Trong trò chơi, họ ở trạng thái ngã sấp (prone), được mô tả ở phụ lục A.
 
-Bạn có thể tự nằm sấp mà không dùng tốc độ. Đứng dậy cần nhiều sức hơn; việc đó tiêu tốn lượng di chuyển bằng một nửa tốc độ. Ví dụ, nếu tốc độ là 30 feet, bạn phải dùng 15 feet di chuyển để đứng dậy. Bạn không thể đứng dậy nếu không còn đủ di chuyển hoặc tốc độ bằng 0.
+Bạn có thể tự nằm sấp mà không dùng tốc độ. Đứng dậy cần nhiều sức hơn; việc đó tiêu tốn lượng di chuyển bằng một nửa tốc độ. Ví dụ, nếu tốc độ là 9 m (30 feet), bạn phải dùng 4,5 m (15 feet) di chuyển để đứng dậy. Bạn không thể đứng dậy nếu không còn đủ di chuyển hoặc tốc độ bằng 0.
 
-Để di chuyển khi ngã sấp, bạn phải bò hoặc dùng ma thuật như dịch chuyển tức thời. Mỗi foot di chuyển khi bò tiêu tốn thêm 1 foot. Vì vậy, bò 1 foot trong địa hình khó đi tiêu tốn 3 feet di chuyển.
+Để di chuyển khi ngã sấp, bạn phải bò hoặc dùng ma thuật như dịch chuyển tức thời. Mỗi 0,3 m (1 foot) di chuyển khi bò tiêu tốn thêm 0,3 m (1 foot). Vì vậy, bò 0,3 m (1 foot) trong địa hình khó đi tiêu tốn 0,9 m (3 feet) di chuyển.
 
 ### Di chuyển quanh sinh vật khác (Moving Around Other Creatures)
 
@@ -186,24 +186,24 @@ Mỗi sinh vật chiếm lượng không gian khác nhau. Bảng Các bậc kíc
 
 | Kích cỡ | Không gian | Quái vật ví dụ |
 | --- | --- | --- |
-| Tí hon (Tiny) | 2½ × 2½ feet | Imp, sprite |
-| Nhỏ (Small) | 5 × 5 feet | Chuột khổng lồ, [goblin](99-glossary.md#goblin) |
-| Trung bình (Medium) | 5 × 5 feet | Orc, [người sói](99-glossary.md#lycanthrope) |
-| Lớn (Large) | 10 × 10 feet | Hippogriff, [ogre](99-glossary.md#ogre) |
-| Khổng lồ (Huge) | 15 × 15 feet | Khổng lồ lửa, treant |
-| Cực đại (Gargantuan) | 20 × 20 feet hoặc lớn hơn | Kraken, purple worm |
+| Tí hon (Tiny) | 0,75 m × 0,75 m (2½ × 2½ feet) | Imp, sprite |
+| Nhỏ (Small) | 1,5 m × 1,5 m (5 × 5 feet) | Chuột khổng lồ, [goblin](99-glossary.md#goblin) |
+| Trung bình (Medium) | 1,5 m × 1,5 m (5 × 5 feet) | Orc, [người sói](99-glossary.md#lycanthrope) |
+| Lớn (Large) | 3 m × 3 m (10 × 10 feet) | Hippogriff, [ogre](99-glossary.md#ogre) |
+| Khổng lồ (Huge) | 4,5 m × 4,5 m (15 × 15 feet) | Khổng lồ lửa, treant |
+| Cực đại (Gargantuan) | 6 m × 6 m (20 × 20 feet) hoặc lớn hơn | Kraken, purple worm |
 
 #### Không gian (Space)
 
-Không gian của sinh vật là khu vực tính bằng feet mà nó thực sự kiểm soát trong chiến đấu, không phải kích thước thể chất. Ví dụ, sinh vật Trung bình điển hình không rộng 5 feet, nhưng kiểm soát một không gian rộng như vậy. Nếu hobgoblin Trung bình đứng trong cửa rộng 5 feet, sinh vật khác không thể đi qua trừ khi hobgoblin cho phép.
+Không gian của sinh vật là khu vực tính bằng mét (feet trong luật gốc) mà nó thực sự kiểm soát trong chiến đấu, không phải kích thước thể chất. Ví dụ, sinh vật Trung bình điển hình không rộng 1,5 m (5 feet), nhưng kiểm soát một không gian rộng như vậy. Nếu hobgoblin Trung bình đứng trong cửa rộng 1,5 m (5 feet), sinh vật khác không thể đi qua trừ khi hobgoblin cho phép.
 
-Không gian cũng phản ánh khu vực sinh vật cần để chiến đấu hiệu quả. Vì vậy, có giới hạn số sinh vật có thể vây quanh một sinh vật khác trong chiến đấu. Giả định người tham chiến có kích cỡ Trung bình, tám sinh vật có thể đứng trong bán kính 5 feet quanh một sinh vật khác.
+Không gian cũng phản ánh khu vực sinh vật cần để chiến đấu hiệu quả. Vì vậy, có giới hạn số sinh vật có thể vây quanh một sinh vật khác trong chiến đấu. Giả định người tham chiến có kích cỡ Trung bình, tám sinh vật có thể đứng trong bán kính 1,5 m (5 feet) quanh một sinh vật khác.
 
 Vì sinh vật lớn chiếm nhiều không gian hơn, ít sinh vật như vậy có thể vây quanh một sinh vật. Nếu bốn sinh vật Lớn chen quanh một sinh vật Trung bình hoặc nhỏ hơn, gần như không còn chỗ cho ai khác. Ngược lại, có thể có đến hai mươi sinh vật Trung bình vây quanh một sinh vật Cực đại.
 
 #### Chen qua không gian nhỏ hơn (Squeezing into a Smaller Space)
 
-Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn nó một bậc kích cỡ. Vì vậy, sinh vật Lớn có thể chen qua lối đi chỉ rộng 5 feet. Trong lúc chen qua, sinh vật phải dùng thêm 1 foot cho mỗi foot di chuyển ở đó, và có bất lợi trong [tung tấn công](99-glossary.md#attack-roll) và [cứu nguy](99-glossary.md#saving-throw) Khéo léo. Những lần tung tấn công vào sinh vật có [lợi thế](99-glossary.md#advantage) khi nó ở trong không gian nhỏ hơn ấy.
+Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn nó một bậc kích cỡ. Vì vậy, sinh vật Lớn có thể chen qua lối đi chỉ rộng 1,5 m (5 feet). Trong lúc chen qua, sinh vật phải dùng thêm 0,3 m (1 foot) cho mỗi 0,3 m (1 foot) di chuyển ở đó, và có bất lợi trong [tung tấn công](99-glossary.md#attack-roll) và [cứu nguy](99-glossary.md#saving-throw) Khéo léo. Những lần tung tấn công vào sinh vật có [lợi thế](99-glossary.md#advantage) khi nó ở trong không gian nhỏ hơn ấy.
 
 ### Quy tắc tùy chọn: Chơi trên lưới ô vuông (Variant: Playing on a Grid)
 
@@ -213,9 +213,9 @@ Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn
 
 Nếu diễn chiến đấu bằng lưới ô vuông cùng mô hình thu nhỏ hoặc quân đại diện khác, hãy dùng các quy tắc này.
 
-**Ô vuông (Squares).** Mỗi ô trên lưới đại diện 5 feet.
+**Ô vuông (Squares).** Mỗi ô trên lưới đại diện 1,5 m (5 feet).
 
-**Tốc độ (Speed).** Thay vì đi từng foot, di chuyển từng ô trên lưới. Nghĩa là bạn dùng tốc độ theo từng đoạn 5 feet. Điều này đặc biệt dễ nếu đổi tốc độ thành số ô bằng cách chia tốc độ cho 5. Ví dụ, tốc độ 30 feet tương đương tốc độ 6 ô.
+**Tốc độ (Speed).** Thay vì đi từng đoạn 0,3 m (1 foot), hãy di chuyển từng ô trên lưới. Nghĩa là bạn dùng tốc độ theo từng đoạn 1,5 m (5 feet). Điều này đặc biệt dễ nếu đổi tốc độ thành số ô bằng cách chia tốc độ cho 5. Ví dụ, tốc độ 9 m (30 feet) tương đương tốc độ 6 ô.
 
 Nếu thường dùng lưới, hãy cân nhắc ghi tốc độ bằng số ô lên phiếu nhân vật.
 
@@ -251,9 +251,9 @@ Người thi triển phép như pháp sư và [giáo sĩ](99-glossary.md#cleric)
 
 ### Chạy nước rút (Dash)
 
-Khi thực hiện hành động Chạy nước rút, bạn nhận thêm di chuyển cho lượt hiện tại. Lượng tăng bằng tốc độ sau khi áp dụng mọi điều chỉnh. Ví dụ, với tốc độ 30 feet, bạn có thể đi tối đa 60 feet trong lượt nếu chạy nước rút.
+Khi thực hiện hành động Chạy nước rút, bạn nhận thêm di chuyển cho lượt hiện tại. Lượng tăng bằng tốc độ sau khi áp dụng mọi điều chỉnh. Ví dụ, với tốc độ 9 m (30 feet), bạn có thể đi tối đa 18 m (60 feet) trong lượt nếu chạy nước rút.
 
-Bất kỳ tăng hoặc giảm nào của tốc độ cũng thay đổi phần di chuyển thêm này cùng một lượng. Ví dụ, nếu tốc độ 30 feet giảm xuống 15 feet, bạn có thể đi tối đa 30 feet trong lượt này nếu chạy nước rút.
+Bất kỳ tăng hoặc giảm nào của tốc độ cũng thay đổi phần di chuyển thêm này cùng một lượng. Ví dụ, nếu tốc độ 9 m (30 feet) giảm xuống 4,5 m (15 feet), bạn có thể đi tối đa 9 m (30 feet) trong lượt này nếu chạy nước rút.
 
 ### Rút lui (Disengage)
 
@@ -267,7 +267,7 @@ Khi thực hiện hành động Né tránh, bạn tập trung hoàn toàn vào t
 
 Bạn có thể giúp sinh vật khác hoàn thành nhiệm vụ. Khi thực hiện hành động Trợ giúp, sinh vật được giúp có lợi thế trong kiểm tra thuộc tính tiếp theo để thực hiện nhiệm vụ bạn đang hỗ trợ, miễn nó thực hiện kiểm tra trước đầu lượt tiếp theo của bạn.
 
-Thay vào đó, bạn có thể giúp sinh vật thân thiện tấn công một sinh vật trong 5 feet của bạn. Bạn nghi binh, làm mục tiêu phân tâm hoặc phối hợp theo cách khác để đòn tấn công của đồng minh hiệu quả hơn. Nếu đồng minh tấn công mục tiêu trước lượt tiếp theo của bạn, lần tung tấn công đầu tiên có lợi thế.
+Thay vào đó, bạn có thể giúp sinh vật thân thiện tấn công một sinh vật trong 1,5 m (5 feet) của bạn. Bạn nghi binh, làm mục tiêu phân tâm hoặc phối hợp theo cách khác để đòn tấn công của đồng minh hiệu quả hơn. Nếu đồng minh tấn công mục tiêu trước lượt tiếp theo của bạn, lần tung tấn công đầu tiên có lợi thế.
 
 ### Ẩn nấp (Hide)
 
@@ -365,7 +365,7 @@ Một số đòn tấn công tầm xa, như bằng cung dài hoặc cung ngắn,
 
 #### Tấn công tầm xa khi đánh gần (Ranged Attacks in Close Combat)
 
-Ngắm đòn tấn công tầm xa khó hơn khi kẻ địch ở cạnh bạn. Khi tấn công tầm xa bằng vũ khí, phép hoặc cách khác, bạn có bất lợi trong lần tung tấn công nếu ở trong 5 feet của một sinh vật thù địch có thể nhìn thấy bạn và không mất năng lực hành động.
+Ngắm đòn tấn công tầm xa khó hơn khi kẻ địch ở cạnh bạn. Khi tấn công tầm xa bằng vũ khí, phép hoặc cách khác, bạn có bất lợi trong lần tung tấn công nếu ở trong 1,5 m (5 feet) của một sinh vật thù địch có thể nhìn thấy bạn và không mất năng lực hành động.
 
 ### Tấn công cận chiến (Melee Attacks)
 
@@ -375,7 +375,7 @@ Ngắm đòn tấn công tầm xa khó hơn khi kẻ địch ở cạnh bạn. K
 
 Được dùng khi đánh giáp lá cà, tấn công cận chiến cho phép đánh kẻ địch trong tầm với. Đòn cận chiến thường dùng vũ khí cầm tay như kiếm, búa chiến hoặc rìu. Quái vật điển hình tấn công cận chiến bằng móng vuốt, sừng, răng, xúc tu hoặc bộ phận cơ thể khác. Một số phép cũng có đòn tấn công cận chiến.
 
-Phần lớn sinh vật có tầm với 5 feet, vì vậy có thể tấn công mục tiêu trong 5 feet khi thực hiện đòn cận chiến. Một số sinh vật, thường lớn hơn Trung bình, có đòn cận chiến với tầm với hơn 5 feet, như ghi trong mô tả.
+Phần lớn sinh vật có tầm với 1,5 m (5 feet), vì vậy có thể tấn công mục tiêu trong 1,5 m (5 feet) khi thực hiện đòn cận chiến. Một số sinh vật, thường lớn hơn Trung bình, có đòn cận chiến với tầm với hơn 1,5 m (5 feet), như ghi trong mô tả.
 
 Thay vì dùng vũ khí để thực hiện đòn tấn công bằng vũ khí cận chiến, bạn có thể dùng **đòn tay không (unarmed strike)**: đấm, đá, húc đầu hoặc đòn dùng sức tương tự; không đòn nào trong số này được tính là vũ khí. Nếu trúng, đòn tay không gây sát thương đập bằng 1 + hệ số Sức mạnh. Bạn thành thạo các đòn tay không của mình.
 
@@ -411,7 +411,7 @@ Mục tiêu vật lộn không được lớn hơn bạn quá một bậc kích 
 
 Dùng hành động Tấn công, bạn có thể thực hiện đòn tấn công cận chiến đặc biệt để xô sinh vật, nhằm đánh nó ngã sấp hoặc đẩy ra xa. Nếu có thể thực hiện nhiều đòn bằng hành động Tấn công, đòn này thay thế một trong số đó.
 
-Mục tiêu bị xô không được lớn hơn bạn quá một bậc kích cỡ và phải trong tầm với. Bạn kiểm tra Sức mạnh (Điền kinh) đối kháng với kiểm tra Sức mạnh (Điền kinh) hoặc Khéo léo (Nhào lộn) của mục tiêu; mục tiêu chọn thuộc tính dùng. Bạn tự động thành công nếu mục tiêu mất năng lực hành động. Nếu thành công, bạn đánh mục tiêu ngã sấp hoặc đẩy nó ra xa 5 feet.
+Mục tiêu bị xô không được lớn hơn bạn quá một bậc kích cỡ và phải trong tầm với. Bạn kiểm tra Sức mạnh (Điền kinh) đối kháng với kiểm tra Sức mạnh (Điền kinh) hoặc Khéo léo (Nhào lộn) của mục tiêu; mục tiêu chọn thuộc tính dùng. Bạn tự động thành công nếu mục tiêu mất năng lực hành động. Nếu thành công, bạn đánh mục tiêu ngã sấp hoặc đẩy nó ra xa 1,5 m (5 feet).
 
 ## Che chắn (Cover)
 
@@ -581,11 +581,11 @@ Một sinh vật sẵn lòng, lớn hơn bạn ít nhất một bậc kích cỡ
 
 ### Lên và xuống thú cưỡi (Mounting and Dismounting)
 
-Một lần trong lúc di chuyển, bạn có thể lên một sinh vật trong 5 feet hoặc xuống thú cưỡi. Việc này tiêu tốn lượng di chuyển bằng nửa tốc độ. Ví dụ, nếu tốc độ là 30 feet, bạn phải dùng 15 feet di chuyển để lên ngựa. Vì vậy, bạn không thể lên nếu không còn 15 feet di chuyển hoặc tốc độ bằng 0.
+Một lần trong lúc di chuyển, bạn có thể lên một sinh vật trong 1,5 m (5 feet) hoặc xuống thú cưỡi. Việc này tiêu tốn lượng di chuyển bằng nửa tốc độ. Ví dụ, nếu tốc độ là 9 m (30 feet), bạn phải dùng 4,5 m (15 feet) di chuyển để lên ngựa. Vì vậy, bạn không thể lên nếu không còn 4,5 m (15 feet) di chuyển hoặc tốc độ bằng 0.
 
-Nếu hiệu ứng di chuyển thú cưỡi trái ý nó khi bạn đang cưỡi, bạn phải thành công cứu nguy Khéo léo DC 10, nếu không sẽ rơi khỏi thú cưỡi, ngã sấp trong không gian cách nó không quá 5 feet. Nếu bị đánh ngã sấp khi đang cưỡi, bạn phải tung cứu nguy tương tự.
+Nếu hiệu ứng di chuyển thú cưỡi trái ý nó khi bạn đang cưỡi, bạn phải thành công cứu nguy Khéo léo DC 10, nếu không sẽ rơi khỏi thú cưỡi, ngã sấp trong không gian cách nó không quá 1,5 m (5 feet). Nếu bị đánh ngã sấp khi đang cưỡi, bạn phải tung cứu nguy tương tự.
 
-Nếu thú cưỡi bị đánh ngã sấp, bạn có thể dùng phản ứng xuống khi nó ngã và tiếp đất đứng vững. Nếu không, bạn bị hất khỏi thú cưỡi và ngã sấp trong không gian cách nó không quá 5 feet.
+Nếu thú cưỡi bị đánh ngã sấp, bạn có thể dùng phản ứng xuống khi nó ngã và tiếp đất đứng vững. Nếu không, bạn bị hất khỏi thú cưỡi và ngã sấp trong không gian cách nó không quá 1,5 m (5 feet).
 
 ### Điều khiển thú cưỡi (Controlling a Mount)
 

@@ -42,7 +42,7 @@ Ghi các đặc điểm chủng tộc lên phiếu nhân vật. Nhớ ghi cả n
 
 ### Tạo Bruenor, bước 1
 
-Bob bắt đầu tạo nhân vật. Anh quyết định một người lùn núi cộc cằn phù hợp với vai muốn thể hiện. Anh ghi mọi đặc điểm chủng tộc người lùn lên phiếu, bao gồm tốc độ **25 [feet](99-glossary.md#feet)** và các ngôn ngữ biết nói: **Tiếng Chung (Common)** và **tiếng Người lùn (Dwarvish)**.
+Bob bắt đầu tạo nhân vật. Anh quyết định một người lùn núi cộc cằn phù hợp với vai muốn thể hiện. Anh ghi mọi đặc điểm chủng tộc người lùn lên phiếu, bao gồm tốc độ **7,5 m (25 [feet](99-glossary.md#feet))** và các ngôn ngữ biết nói: **Tiếng Chung (Common)** và **tiếng Người lùn (Dwarvish)**.
 
 ## 2. Chọn lớp nhân vật (Choose a Class)
 
@@ -237,7 +237,7 @@ Lớp và xuất thân quyết định **trang bị khởi đầu (starting equi
 
 Thay vì nhận trang bị từ lớp và xuất thân, bạn có thể mua trang bị khởi đầu. Lớp cho một lượng **[đồng vàng](99-glossary.md#gold-piece) (gold pieces, gp)** để chi tiêu, như ghi ở chương 5. Chương ấy cũng có danh sách trang bị và giá. Nếu muốn, bạn có thể nhận thêm một **đồ lặt vặt (trinket)** miễn phí; xem bảng ở cuối chương 5.
 
-Điểm Sức mạnh giới hạn lượng trang bị mang được. Cố tránh mua trang bị có tổng khối lượng tính bằng **pound** vượt quá **điểm Sức mạnh × 15**. Chương 7 có thêm thông tin về sức mang.
+Điểm Sức mạnh giới hạn lượng trang bị mang được. Cố tránh mua trang bị có tổng khối lượng vượt quá **6,75 kg × điểm Sức mạnh (15 pound × điểm Sức mạnh)**. Chương 7 có thêm thông tin về sức mang.
 
 ### [Chỉ số giáp](99-glossary.md#armor-class) (Armor Class)
 

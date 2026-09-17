@@ -26,7 +26,7 @@ Một số vật phẩm yêu cầu sinh vật hình thành mối liên kết tr�
 
 Một vật phẩm chỉ hòa hợp với một sinh vật tại một thời điểm; một sinh vật hòa hợp tối đa ba vật phẩm ma thuật cùng lúc. Mọi nỗ lực hòa hợp vật phẩm thứ tư đều thất bại: trước hết phải chấm dứt hòa hợp với một vật phẩm. Ngoài ra, không thể hòa hợp nhiều hơn một bản của cùng vật phẩm. Ví dụ, không thể hòa hợp nhiều hơn một Nhẫn bảo hộ (*ring of protection*) cùng lúc.
 
-Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện tiên quyết, vật phẩm cách xa hơn 100 [feet](99-glossary.md#feet) trong ít nhất 24 giờ, sinh vật chết hoặc sinh vật khác hòa hợp với vật phẩm. Sinh vật cũng có thể tự nguyện chấm dứt bằng một lần nghỉ ngắn khác tập trung vào vật phẩm, trừ khi vật phẩm bị nguyền.
+Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện tiên quyết, vật phẩm cách xa hơn 30 m (100 [feet](99-glossary.md#feet)) trong ít nhất 24 giờ, sinh vật chết hoặc sinh vật khác hòa hợp với vật phẩm. Sinh vật cũng có thể tự nguyện chấm dứt bằng một lần nghỉ ngắn khác tập trung vào vật phẩm, trừ khi vật phẩm bị nguyền.
 
 ## Mô tả vật phẩm (Item Descriptions)
 
@@ -54,17 +54,17 @@ Bạn nhận thưởng AC khi mặc giáp này. Thưởng được quyết đị
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon)*
 
-Túi có không gian bên trong lớn hơn đáng kể so với kích thước bên ngoài, đường kính miệng khoảng 2 feet và sâu 4 feet. Chứa tối đa 500 pound, không vượt thể tích 64 feet khối. Túi nặng 15 pound bất kể đồ bên trong. Lấy một món đồ ra cần một hành động.
+Túi có không gian bên trong lớn hơn đáng kể so với kích thước bên ngoài, đường kính miệng khoảng 0,6 m (2 feet) và sâu 1,2 m (4 feet). Chứa tối đa 225 kg (500 pound), không vượt thể tích 1,81 m³ (64 feet khối). Túi nặng 6,75 kg (15 pound) bất kể đồ bên trong. Lấy một món đồ ra cần một hành động.
 
 Nếu quá tải, bị xuyên thủng hoặc rách, túi vỡ và bị phá hủy; đồ bên trong rải khắp [Cõi Astral](99-glossary.md#astral-plane). Nếu lộn túi ra ngoài, đồ đổ ra không hư hại, nhưng phải lộn về đúng trước khi dùng lại. Sinh vật cần thở bên trong sống được số phút bằng 10 chia số sinh vật (tối thiểu 1 phút), rồi bắt đầu ngạt thở.
 
-Đặt túi vào không gian ngoại chiều do *Heward's handy haversack*, *portable hole* hoặc vật phẩm tương tự tạo ra lập tức phá hủy cả hai vật phẩm và mở cổng đến Cõi Astral. Cổng xuất phát nơi vật phẩm này được đặt vào vật phẩm kia. Mọi sinh vật trong 10 feet của cổng bị hút qua đến địa điểm ngẫu nhiên trên Cõi Astral. Cổng sau đó đóng; chỉ một chiều và không thể mở lại.
+Đặt túi vào không gian ngoại chiều do *Heward's handy haversack*, *portable hole* hoặc vật phẩm tương tự tạo ra lập tức phá hủy cả hai vật phẩm và mở cổng đến Cõi Astral. Cổng xuất phát nơi vật phẩm này được đặt vào vật phẩm kia. Mọi sinh vật trong 3 m (10 feet) của cổng bị hút qua đến địa điểm ngẫu nhiên trên Cõi Astral. Cổng sau đó đóng; chỉ một chiều và không thể mở lại.
 
 ### Ủng sải bước và bật nhảy (Boots of Striding and Springing)
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
-Khi mang ủng, tốc độ đi bộ thành 30 feet, trừ khi vốn cao hơn; tốc độ không giảm khi bạn chịu tải nặng (encumbered) hoặc mặc giáp nặng. Ngoài ra, bạn nhảy gấp ba khoảng cách bình thường, nhưng không xa hơn mức di chuyển còn lại cho phép.
+Khi mang ủng, tốc độ đi bộ thành 9 m (30 feet), trừ khi vốn cao hơn; tốc độ không giảm khi bạn chịu tải nặng (encumbered) hoặc mặc giáp nặng. Ngoài ra, bạn nhảy gấp ba khoảng cách bình thường, nhưng không xa hơn mức di chuyển còn lại cho phép.
 
 ### Áo choàng [elf](99-glossary.md#elf) (Cloak of Elvenkind)
 
@@ -96,7 +96,7 @@ Khi mang găng, leo và bơi không tốn thêm di chuyển; nhận thưởng +5
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon)*
 
-Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 60 feet. Nếu đã có, kính tăng tầm thêm 60 feet.
+Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 18 m (60 feet). Nếu đã có, kính tăng tầm thêm 18 m (60 feet).
 
 ### Băng trán trí tuệ (Headband of Intellect)
 
@@ -112,7 +112,7 @@ Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 60
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon)*
 
-Lọ thủy tinh đường kính 3 inch chứa 1d4 + 1 liều hỗn hợp đặc thoảng mùi lô hội. Lọ và thuốc nặng 1/2 pound.
+Lọ thủy tinh đường kính 7,5 cm (3 inch) chứa 1d4 + 1 liều hỗn hợp đặc thoảng mùi lô hội. Lọ và thuốc nặng 0,23 kg (1/2 pound).
 
 Dùng một hành động để nuốt hoặc bôi một liều lên da. Sinh vật nhận thuốc hồi 2d8 + 2 [HP](99-glossary.md#hit-points), hết trúng độc và được chữa mọi bệnh.
 

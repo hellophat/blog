@@ -50,7 +50,7 @@ Nếu bạn là Quản trò, hãy đọc thêm [Quái vật](16-chapter-12-monst
 - Các chữ viết tắt thông dụng gồm **DM** (Quản trò), **PC** (nhân vật người chơi), **NPC** (nhân vật không do người chơi điều khiển), **HP** (điểm sinh lực), **AC** (Chỉ số giáp), **DC** (Độ khó), **XP** (điểm kinh nghiệm), **CR** (Mức thách thức) và **gp** (đồng vàng).
 - Ký hiệu `d20`, `2d6` hoặc `1d8 + 3` chỉ số lượng và loại xúc xắc cần tung. Ví dụ, `2d6` nghĩa là tung hai xúc xắc sáu mặt rồi cộng kết quả.
 - **Cấp nhân vật** và **bậc phép** là hai khái niệm khác nhau. Một nhân vật cấp cao không đồng nghĩa với việc mọi phép của họ có cùng bậc.
-- Đơn vị feet, mile và pound được giữ theo luật gốc để các khoảng cách, tải trọng và bản đồ không bị sai lệch khi quy đổi.
+- Đơn vị hệ mét được đặt trước để thuận tiện cho người đọc Việt Nam; đơn vị gốc được giữ trong ngoặc để đối chiếu và bảo toàn cơ chế, chẳng hạn **1,5 m (5 feet)**, **1,6 km (1 mile)** và **0,45 kg (1 pound)**.
 - Liên kết ở lần xuất hiện đầu tiên đưa đến [Bảng thuật ngữ](99-glossary.md). Bạn có thể quay lại bằng nút Back của trình duyệt.
 - Các khối ghi chú giải thích cách biên tập hoặc bối cảnh; chúng không thay thế phần luật nằm trong nội dung chính.
 

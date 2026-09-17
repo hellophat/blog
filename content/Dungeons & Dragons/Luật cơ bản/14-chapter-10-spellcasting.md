@@ -108,7 +108,7 @@ Một số phép, gồm các phép thi triển dưới dạng nghi thức, cần
 
 Mục tiêu phải nằm trong tầm của phép. Với phép như *magic missile*, mục tiêu là sinh vật. Với phép như *fireball*, mục tiêu là điểm trong không gian nơi quả cầu lửa bùng nổ.
 
-Phần lớn phép có tầm tính bằng [feet](99-glossary.md#feet). Một số chỉ có thể chọn sinh vật bạn chạm vào, gồm cả bạn, làm mục tiêu. Những phép khác, như *shield*, chỉ ảnh hưởng đến bạn. Các phép này có tầm bản thân (self).
+Phần lớn phép có tầm tính bằng mét, với trị số [feet](99-glossary.md#feet) gốc được giữ trong ngoặc. Một số chỉ có thể chọn sinh vật bạn chạm vào, gồm cả bạn, làm mục tiêu. Những phép khác, như *shield*, chỉ ảnh hưởng đến bạn. Các phép này có tầm bản thân (self).
 
 Phép tạo hình nón hoặc đường hiệu ứng xuất phát từ bạn cũng có tầm bản thân, cho biết điểm xuất phát của hiệu ứng phải là bạn; xem “Vùng hiệu ứng” ở phía sau chương này.
 
@@ -226,7 +226,7 @@ Một đường kéo dài từ điểm xuất phát theo hướng thẳng đến
 
 #### Hình cầu (Sphere)
 
-Bạn chọn điểm xuất phát của hình cầu, rồi hình cầu mở rộng ra từ điểm đó. Kích thước được biểu thị bằng bán kính tính bằng feet từ điểm xuất phát.
+Bạn chọn điểm xuất phát của hình cầu, rồi hình cầu mở rộng ra từ điểm đó. Kích thước được biểu thị bằng bán kính tính bằng mét, kèm trị số feet gốc trong ngoặc, từ điểm xuất phát.
 
 Điểm xuất phát nằm trong vùng hiệu ứng hình cầu.
 
@@ -248,7 +248,7 @@ Một số phép yêu cầu người thi triển tung tấn công để xác đ�
 
 `Hệ số thuộc tính thi triển phép + thưởng thành thạo`
 
-Phần lớn phép yêu cầu tung tấn công dùng đòn tấn công tầm xa. Hãy nhớ bạn có bất lợi trong tung tấn công tầm xa nếu ở trong 5 feet của sinh vật thù địch có thể nhìn thấy bạn và không mất năng lực hành động, xem chương 9.
+Phần lớn phép yêu cầu tung tấn công dùng đòn tấn công tầm xa. Hãy nhớ bạn có bất lợi trong tung tấn công tầm xa nếu ở trong 1,5 m (5 feet) của sinh vật thù địch có thể nhìn thấy bạn và không mất năng lực hành động, xem chương 9.
 
 ### Kết hợp hiệu ứng ma thuật (Combining Magical Effects)
 

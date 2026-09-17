@@ -71,7 +71,7 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 - Mất năng lực hành động (xem trạng thái đó), không thể di chuyển hoặc nói.
 - Tự động thất bại [cứu nguy](99-glossary.md#saving-throw) [Sức mạnh](99-glossary.md#strength) và [Khéo léo](99-glossary.md#dexterity).
 - Tung tấn công vào sinh vật có lợi thế.
-- Mọi đòn trúng là chí mạng nếu kẻ tấn công trong 5 [feet](99-glossary.md#feet) của sinh vật.
+- Mọi đòn trúng là chí mạng nếu kẻ tấn công trong 1,5 m (5 [feet](99-glossary.md#feet)) của sinh vật.
 
 ## [Hóa đá](99-glossary.md#petrified) (Petrified)
 
@@ -90,7 +90,7 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 
 - Chỉ có thể bò, trừ khi đứng dậy để chấm dứt trạng thái.
 - Có bất lợi tung tấn công.
-- Tung tấn công vào sinh vật có lợi thế nếu kẻ tấn công trong 5 feet; nếu không, có bất lợi.
+- Tung tấn công vào sinh vật có lợi thế nếu kẻ tấn công trong 1,5 m (5 feet); nếu không, có bất lợi.
 
 ## [Kiềm giữ](99-glossary.md#restrained) (Restrained)
 
@@ -110,7 +110,7 @@ Các định nghĩa dưới đây quy định điều xảy ra khi sinh vật ch
 - Buông mọi thứ đang cầm và ngã sấp.
 - Tự động thất bại cứu nguy Sức mạnh và Khéo léo.
 - Tung tấn công vào sinh vật có lợi thế.
-- Mọi đòn trúng là chí mạng nếu kẻ tấn công trong 5 feet của sinh vật.
+- Mọi đòn trúng là chí mạng nếu kẻ tấn công trong 1,5 m (5 feet) của sinh vật.
 
 ## [Kiệt sức](99-glossary.md#exhaustion) (Exhaustion)
 

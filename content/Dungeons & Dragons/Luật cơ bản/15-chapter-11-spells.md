@@ -228,11 +228,11 @@ Các phép được trình bày theo thứ tự chữ cái của tên tiếng An
 *Phép sơ cấp Triệu hồi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 [feet](99-glossary.md#feet).  
+**Tầm:** 18 m (60 [feet](99-glossary.md#feet)).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Bạn ném một bong bóng axit. Chọn một hoặc hai sinh vật nhìn thấy trong tầm. Nếu chọn hai, chúng phải cách nhau không quá 5 feet. Mục tiêu phải thành công [cứu nguy](99-glossary.md#saving-throw) [Khéo léo](99-glossary.md#dexterity), nếu không chịu 1d6 sát thương axit.
+Bạn ném một bong bóng axit. Chọn một hoặc hai sinh vật nhìn thấy trong tầm. Nếu chọn hai, chúng phải cách nhau không quá 1,5 m (5 feet). Mục tiêu phải thành công [cứu nguy](99-glossary.md#saving-throw) [Khéo léo](99-glossary.md#dexterity), nếu không chịu 1d6 sát thương axit.
 
 Sát thương của phép tăng thêm 1d6 khi bạn đạt cấp 5 (2d6), cấp 11 (3d6) và cấp 17 (4d6).
 
@@ -245,7 +245,7 @@ Sát thương của phép tăng thêm 1d6 khi bạn đạt cấp 5 (2d6), cấp 
 *Phòng hộ bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (một dải vải trắng rất nhỏ).  
 **Thời lượng:** 8 giờ.
 
@@ -262,11 +262,11 @@ Phép tăng sự dẻo dai và quyết tâm của đồng minh. Chọn tối đa
 *Phòng hộ bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (hình cầu bán kính 10 feet).  
+**Tầm:** Bản thân (hình cầu bán kính 3 m (10 feet)).  
 **Thành phần:** V, S, M (một nhúm bột sắt hoặc mạt sắt).  
 **Thời lượng:** [Tập trung](99-glossary.md#concentration), tối đa 1 giờ.
 
-Một hình cầu phản ma thuật vô hình bán kính 10 feet bao quanh bạn. Khu vực này tách khỏi năng lượng ma thuật thấm khắp [đa vũ trụ](99-glossary.md#multiverse). Trong cầu, không thể thi triển phép, sinh vật được triệu hồi biến mất và ngay cả [vật phẩm ma thuật](99-glossary.md#magic-item) cũng trở thành bình thường. Đến khi phép kết thúc, cầu di chuyển cùng bạn, lấy bạn làm tâm.
+Một hình cầu phản ma thuật vô hình bán kính 3 m (10 feet) bao quanh bạn. Khu vực này tách khỏi năng lượng ma thuật thấm khắp [đa vũ trụ](99-glossary.md#multiverse). Trong cầu, không thể thi triển phép, sinh vật được triệu hồi biến mất và ngay cả [vật phẩm ma thuật](99-glossary.md#magic-item) cũng trở thành bình thường. Đến khi phép kết thúc, cầu di chuyển cùng bạn, lấy bạn làm tâm.
 
 Phép và hiệu ứng ma thuật khác, trừ những hiệu ứng do cổ vật (artifact) hoặc thần linh tạo ra, bị áp chế trong cầu và không thể lan vào đó. Ô phép dùng để thi triển phép bị áp chế vẫn bị tiêu hao. Khi bị áp chế, hiệu ứng không hoạt động, nhưng thời gian bị áp chế vẫn tính vào thời lượng.
 
@@ -291,15 +291,15 @@ Phép và hiệu ứng ma thuật khác, trừ những hiệu ứng do cổ vậ
 *Tiên tri bậc 4*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (một ít lông dơi).  
 **Thời lượng:** Tập trung, tối đa 1 giờ.
 
 Bạn tạo một con mắt ma thuật vô hình trong tầm, lơ lửng trong không trung suốt thời lượng.
 
-Bạn nhận thông tin thị giác từ mắt bằng tâm trí. Mắt có thị giác bình thường và thị giác bóng tối đến 30 feet. Nó có thể nhìn mọi hướng.
+Bạn nhận thông tin thị giác từ mắt bằng tâm trí. Mắt có thị giác bình thường và thị giác bóng tối đến 9 m (30 feet). Nó có thể nhìn mọi hướng.
 
-Bằng một hành động, bạn có thể di chuyển mắt tối đa 30 feet theo bất kỳ hướng nào. Không có giới hạn khoảng cách mắt có thể đi xa bạn, nhưng nó không thể vào cõi tồn tại khác. Rào chắn đặc chặn chuyển động của mắt, nhưng mắt có thể qua lỗ nhỏ chỉ 1 inch đường kính.
+Bằng một hành động, bạn có thể di chuyển mắt tối đa 9 m (30 feet) theo bất kỳ hướng nào. Không có giới hạn khoảng cách mắt có thể đi xa bạn, nhưng nó không thể vào cõi tồn tại khác. Rào chắn đặc chặn chuyển động của mắt, nhưng mắt có thể qua lỗ nhỏ chỉ 2,5 cm (1 inch) đường kính.
 
 ### Khóa huyền thuật (Arcane Lock)
 
@@ -310,7 +310,7 @@ Bằng một hành động, bạn có thể di chuyển mắt tối đa 30 feet 
 **Thành phần:** V, S, M (bụi vàng trị giá ít nhất 25 gp, bị phép tiêu thụ).  
 **Thời lượng:** Đến khi bị giải trừ.
 
-Bạn chạm cửa ra vào, cửa sổ, cổng, rương hoặc lối vào khác đang đóng; nó bị khóa suốt thời lượng. Bạn và những sinh vật chỉ định khi thi triển có thể mở đồ vật bình thường. Bạn cũng có thể đặt mật khẩu; nói mật khẩu trong 5 feet của đồ vật áp chế phép này trong 1 phút. Ngoài ra, không thể đi qua cho đến khi đồ vật bị phá hoặc phép bị giải trừ hay áp chế. Thi triển *knock* lên đồ vật áp chế *arcane lock* trong 10 phút.
+Bạn chạm cửa ra vào, cửa sổ, cổng, rương hoặc lối vào khác đang đóng; nó bị khóa suốt thời lượng. Bạn và những sinh vật chỉ định khi thi triển có thể mở đồ vật bình thường. Bạn cũng có thể đặt mật khẩu; nói mật khẩu trong 1,5 m (5 feet) của đồ vật áp chế phép này trong 1 phút. Ngoài ra, không thể đi qua cho đến khi đồ vật bị phá hoặc phép bị giải trừ hay áp chế. Thi triển *knock* lên đồ vật áp chế *arcane lock* trong 10 phút.
 
 Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơn; [DC](99-glossary.md#difficulty-class) để phá đồ vật hoặc cạy bất kỳ ổ khóa nào trên nó tăng 10.
 
@@ -323,13 +323,13 @@ Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơ
 *Tử linh bậc 9*
 
 **Thời gian thi triển:** 1 giờ.  
-**Tầm:** 10 feet.  
+**Tầm:** 3 m (10 feet).  
 **Thành phần:** V, S, M (với mỗi sinh vật chịu phép, một viên jacinth trị giá ít nhất 1.000 gp và một thanh bạc chạm khắc công phu trị giá ít nhất 100 gp; tất cả bị phép tiêu thụ).  
 **Thời lượng:** Đặc biệt.
 
 Bạn và tối đa tám sinh vật sẵn lòng trong tầm phóng cơ thể Astral của mình vào [Cõi Astral](99-glossary.md#astral-plane). Phép thất bại và lần thi triển bị lãng phí nếu bạn đã ở cõi đó. Cơ thể vật chất để lại bất tỉnh và ở [trạng thái](99-glossary.md#condition) đình chỉ sự sống; nó không cần thức ăn hoặc không khí và không già đi.
 
-Cơ thể Astral giống hình dạng phàm trần gần như mọi mặt, sao chép thông số trò chơi và đồ sở hữu. Khác biệt chính là sợi dây bạc kéo ra từ giữa hai bả vai và kéo dài phía sau, mờ thành vô hình sau 1 foot. Dây nối bạn với cơ thể vật chất. Chừng nào dây còn nguyên, bạn có thể tìm đường về. Nếu dây bị cắt, điều chỉ xảy ra khi hiệu ứng nói rõ làm vậy, linh hồn và cơ thể bị tách, giết bạn ngay.
+Cơ thể Astral giống hình dạng phàm trần gần như mọi mặt, sao chép thông số trò chơi và đồ sở hữu. Khác biệt chính là sợi dây bạc kéo ra từ giữa hai bả vai và kéo dài phía sau, mờ thành vô hình sau 0,3 m (1 foot). Dây nối bạn với cơ thể vật chất. Chừng nào dây còn nguyên, bạn có thể tìm đường về. Nếu dây bị cắt, điều chỉ xảy ra khi hiệu ứng nói rõ làm vậy, linh hồn và cơ thể bị tách, giết bạn ngay.
 
 Dạng Astral có thể tự do đi trong Cõi Astral và qua những cổng ở đó đến bất kỳ cõi khác. Nếu vào cõi mới hoặc trở lại cõi nơi thi triển, cơ thể và đồ sở hữu được vận chuyển theo dây bạc, cho phép nhập lại cơ thể khi vào cõi mới. Dạng Astral là hiện thân riêng biệt. Sát thương hoặc hiệu ứng khác áp dụng lên nó không ảnh hưởng cơ thể vật chất, cũng không tồn tại khi bạn trở về cơ thể.
 
@@ -364,7 +364,7 @@ Nếu thi triển từ hai lần trở lên trước khi hoàn tất [nghỉ dà
 *Phòng hộ bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
@@ -375,11 +375,11 @@ Phép ban hy vọng và sinh lực. Chọn bất kỳ số sinh vật nào trong
 *Gọi năng lượng bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 90 feet.  
+**Tầm:** 27 m (90 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn tạo tường thẳng đứng bằng các lưỡi sắc như dao cạo xoay cuộn, làm từ năng lượng ma thuật. Tường xuất hiện trong tầm và tồn tại suốt thời lượng. Bạn có thể tạo tường thẳng tối đa dài 100 feet, cao 20 feet, dày 5 feet; hoặc tường vòng đường kính tối đa 60 feet, cao 20 feet, dày 5 feet. Tường cho [che chắn](99-glossary.md#cover) ba phần tư cho sinh vật phía sau, và không gian của nó là [địa hình khó](99-glossary.md#difficult-terrain) đi.
+Bạn tạo tường thẳng đứng bằng các lưỡi sắc như dao cạo xoay cuộn, làm từ năng lượng ma thuật. Tường xuất hiện trong tầm và tồn tại suốt thời lượng. Bạn có thể tạo tường thẳng tối đa dài 30 m (100 feet), cao 6 m (20 feet), dày 1,5 m (5 feet); hoặc tường vòng đường kính tối đa 18 m (60 feet), cao 6 m (20 feet), dày 1,5 m (5 feet). Tường cho [che chắn](99-glossary.md#cover) ba phần tư cho sinh vật phía sau, và không gian của nó là [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
 Khi sinh vật vào vùng tường lần đầu trong một lượt hoặc bắt đầu lượt ở đó, nó phải cứu nguy Khéo léo. Thất bại chịu 6d10 [sát thương chém](99-glossary.md#damage-types); thành công chịu một nửa.
 
@@ -388,7 +388,7 @@ Khi sinh vật vào vùng tường lần đầu trong một lượt hoặc bắt
 *Mê hoặc bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (một ít nước thánh vẩy ra).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
@@ -416,11 +416,11 @@ Cơ thể bạn trở nên mờ nhòe, dịch chuyển và chập chờn trong m
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (hình nón 15 feet).  
+**Tầm:** Bản thân (hình nón 4,5 m (15 feet)).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Khi giữ hai tay với ngón cái chạm nhau và các ngón còn lại xòe ra, một lớp lửa mỏng phóng từ đầu ngón tay duỗi thẳng. Mỗi sinh vật trong hình nón 15 feet phải cứu nguy Khéo léo. Thất bại chịu 3d6 sát thương lửa; thành công chịu một nửa.
+Khi giữ hai tay với ngón cái chạm nhau và các ngón còn lại xòe ra, một lớp lửa mỏng phóng từ đầu ngón tay duỗi thẳng. Mỗi sinh vật trong hình nón 4,5 m (15 feet) phải cứu nguy Khéo léo. Thất bại chịu 3d6 sát thương lửa; thành công chịu một nửa.
 
 Lửa đốt cháy đồ vật dễ cháy trong vùng không được mặc hoặc mang.
 
@@ -435,11 +435,11 @@ Lửa đốt cháy đồ vật dễ cháy trong vùng không được mặc ho�
 *Gọi năng lượng bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 150 feet.  
+**Tầm:** 45 m (150 feet).  
 **Thành phần:** V, S, M (một ít lông thú; một mẩu hổ phách, thủy tinh hoặc thanh tinh thể; ba ghim bạc).  
 **Thời lượng:** Tức thời.
 
-Bạn tạo tia sét cong về mục tiêu tự chọn nhìn thấy trong tầm. Ba tia sau đó nhảy từ mục tiêu ấy đến tối đa ba mục tiêu khác, mỗi mục tiêu cách mục tiêu đầu không quá 30 feet. Mục tiêu có thể là sinh vật hoặc đồ vật và chỉ có thể bị một tia nhắm đến.
+Bạn tạo tia sét cong về mục tiêu tự chọn nhìn thấy trong tầm. Ba tia sau đó nhảy từ mục tiêu ấy đến tối đa ba mục tiêu khác, mỗi mục tiêu cách mục tiêu đầu không quá 9 m (30 feet). Mục tiêu có thể là sinh vật hoặc đồ vật và chỉ có thể bị một tia nhắm đến.
 
 Mục tiêu phải cứu nguy Khéo léo. Thất bại chịu 10d8 sát thương sét; thành công chịu một nửa.
 
@@ -454,20 +454,20 @@ Mục tiêu phải cứu nguy Khéo léo. Thất bại chịu 10d8 sát thương
 *Mê hoặc bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** 1 giờ.
 
 Bạn thử mê hoặc một sinh vật dạng người nhìn thấy trong tầm. Nó phải cứu nguy Minh triết, với lợi thế nếu bạn hoặc bạn đồng hành đang chiến đấu với nó. Nếu thất bại, nó bị bạn mê hoặc đến khi phép kết thúc hoặc bạn hay bạn đồng hành làm bất kỳ điều gây hại nào với nó. Sinh vật bị mê hoặc xem bạn là người quen thân thiện. Khi phép kết thúc, sinh vật biết đã bị bạn mê hoặc.
 
-**Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, có thể nhắm thêm một sinh vật cho mỗi bậc ô vượt bậc 1. Các sinh vật phải cách nhau không quá 30 feet khi bạn nhắm chúng.
+**Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, có thể nhắm thêm một sinh vật cho mỗi bậc ô vượt bậc 1. Các sinh vật phải cách nhau không quá 9 m (30 feet) khi bạn nhắm chúng.
 
 ### Ra lệnh (Command)
 
 *Mê hoặc bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** 1 vòng.
 
@@ -475,7 +475,7 @@ Bạn nói mệnh lệnh một từ với sinh vật nhìn thấy trong tầm. M
 
 Dưới đây là mệnh lệnh điển hình và hiệu quả. Bạn có thể ra lệnh khác; khi đó DM xác định mục tiêu hành xử thế nào. Nếu mục tiêu không thể làm theo, phép kết thúc.
 
-**Đến (Approach).** Mục tiêu di chuyển về phía bạn theo đường ngắn nhất và trực tiếp nhất, kết thúc lượt nếu đến trong 5 feet của bạn.
+**Đến (Approach).** Mục tiêu di chuyển về phía bạn theo đường ngắn nhất và trực tiếp nhất, kết thúc lượt nếu đến trong 1,5 m (5 feet) của bạn.
 
 **Bỏ (Drop).** Mục tiêu thả mọi thứ đang cầm rồi kết thúc lượt.
 
@@ -485,7 +485,7 @@ Dưới đây là mệnh lệnh điển hình và hiệu quả. Bạn có thể 
 
 **Dừng (Halt).** Mục tiêu không di chuyển và không hành động. Sinh vật bay ở trên không nếu có thể. Nếu phải di chuyển để ở trên không, nó bay khoảng cách tối thiểu cần thiết.
 
-**Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, ảnh hưởng thêm một sinh vật cho mỗi bậc ô vượt bậc 1. Các sinh vật phải cách nhau không quá 30 feet khi bạn nhắm chúng.
+**Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, ảnh hưởng thêm một sinh vật cho mỗi bậc ô vượt bậc 1. Các sinh vật phải cách nhau không quá 9 m (30 feet) khi bạn nhắm chúng.
 
 ### Thỉnh ý thần (Commune)
 
@@ -520,11 +520,11 @@ Phép không giải mã thông điệp bí mật trong văn bản hoặc ký hi�
 *Gọi năng lượng bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (hình nón 60 feet).  
+**Tầm:** Bản thân (hình nón 18 m (60 feet)).  
 **Thành phần:** V, S, M (hình nón nhỏ bằng tinh thể hoặc thủy tinh).  
 **Thời lượng:** Tức thời.
 
-Luồng khí lạnh bùng từ tay bạn. Mỗi sinh vật trong hình nón 60 feet phải cứu nguy [Thể chất](99-glossary.md#constitution). Thất bại chịu 8d8 sát thương lạnh; thành công chịu một nửa.
+Luồng khí lạnh bùng từ tay bạn. Mỗi sinh vật trong hình nón 18 m (60 feet) phải cứu nguy [Thể chất](99-glossary.md#constitution). Thất bại chịu 8d8 sát thương lạnh; thành công chịu một nửa.
 
 Sinh vật bị phép giết trở thành tượng đông cứng đến khi tan băng.
 
@@ -534,8 +534,8 @@ Sinh vật bị phép giết trở thành tượng đông cứng đến khi tan 
 
 *Phòng hộ bậc 3*
 
-**Thời gian thi triển:** 1 phản ứng khi nhìn thấy sinh vật trong 60 feet đang thi triển phép.  
-**Tầm:** 60 feet.  
+**Thời gian thi triển:** 1 phản ứng khi nhìn thấy sinh vật trong 18 m (60 feet) đang thi triển phép.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** S.  
 **Thời lượng:** Tức thời.
 
@@ -565,24 +565,24 @@ Sinh vật bạn chạm hồi điểm sinh lực bằng 1d8 + [hệ số thuộc
 *Phép sơ cấp Gọi năng lượng*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S, M (một ít phốt pho hoặc gỗ wychwood, hoặc đom đóm).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn tạo tối đa bốn ánh sáng cỡ đuốc trong tầm, trông như đuốc, đèn lồng hoặc cầu sáng lơ lửng suốt thời lượng. Bạn cũng có thể kết hợp bốn ánh sáng thành một hình phát sáng hơi giống sinh vật dạng người, kích cỡ Trung bình. Dù chọn dạng nào, mỗi ánh sáng chiếu sáng yếu trong bán kính 10 feet.
+Bạn tạo tối đa bốn ánh sáng cỡ đuốc trong tầm, trông như đuốc, đèn lồng hoặc cầu sáng lơ lửng suốt thời lượng. Bạn cũng có thể kết hợp bốn ánh sáng thành một hình phát sáng hơi giống sinh vật dạng người, kích cỡ Trung bình. Dù chọn dạng nào, mỗi ánh sáng chiếu sáng yếu trong bán kính 3 m (10 feet).
 
-Bằng [hành động phụ](99-glossary.md#action) trong lượt, bạn có thể di chuyển ánh sáng tối đa 60 feet đến vị trí mới trong tầm. Một ánh sáng phải cách một ánh sáng khác do phép tạo không quá 20 feet; ánh sáng biến mất nếu vượt tầm phép.
+Bằng [hành động phụ](99-glossary.md#action) trong lượt, bạn có thể di chuyển ánh sáng tối đa 18 m (60 feet) đến vị trí mới trong tầm. Một ánh sáng phải cách một ánh sáng khác do phép tạo không quá 6 m (20 feet); ánh sáng biến mất nếu vượt tầm phép.
 
 ### Bóng tối (Darkness)
 
 *Gọi năng lượng bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, M (lông dơi và một giọt hắc ín hoặc mẩu than).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bóng tối ma thuật lan từ điểm bạn chọn trong tầm, lấp đầy hình cầu bán kính 15 feet suốt thời lượng. Bóng tối lan quanh góc. Sinh vật có thị giác bóng tối không nhìn xuyên bóng tối này, và ánh sáng không ma thuật không chiếu sáng được nó.
+Bóng tối ma thuật lan từ điểm bạn chọn trong tầm, lấp đầy hình cầu bán kính 4,5 m (15 feet) suốt thời lượng. Bóng tối lan quanh góc. Sinh vật có thị giác bóng tối không nhìn xuyên bóng tối này, và ánh sáng không ma thuật không chiếu sáng được nó.
 
 Nếu chọn điểm trên đồ vật đang cầm hoặc đồ vật không được mặc hay mang, bóng tối tỏa từ đồ vật và di chuyển cùng nó. Che kín nguồn bóng tối bằng đồ vật không nhìn xuyên được, như bát hoặc mũ giáp, chặn bóng tối.
 
@@ -608,15 +608,15 @@ Nếu phép còn hiệu lực khi mục tiêu chịu hiệu ứng giết ngay m�
 *Gọi năng lượng bậc 7*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 150 feet.  
+**Tầm:** 45 m (150 feet).  
 **Thành phần:** V, S, M (viên nhỏ bằng phân dơi và lưu huỳnh).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Tia sáng vàng lóe từ ngón tay chỉ của bạn, rồi cô lại ở điểm chọn trong tầm thành hạt sáng suốt thời lượng. Khi phép kết thúc do tập trung bị phá hoặc bạn quyết định kết thúc, hạt bung ra với tiếng gầm trầm thành vụ nổ lửa lan quanh góc. Mỗi sinh vật trong hình cầu bán kính 20 feet lấy điểm ấy làm tâm phải cứu nguy Khéo léo. Thất bại chịu sát thương lửa bằng tổng sát thương tích lũy; thành công chịu một nửa.
+Tia sáng vàng lóe từ ngón tay chỉ của bạn, rồi cô lại ở điểm chọn trong tầm thành hạt sáng suốt thời lượng. Khi phép kết thúc do tập trung bị phá hoặc bạn quyết định kết thúc, hạt bung ra với tiếng gầm trầm thành vụ nổ lửa lan quanh góc. Mỗi sinh vật trong hình cầu bán kính 6 m (20 feet) lấy điểm ấy làm tâm phải cứu nguy Khéo léo. Thất bại chịu sát thương lửa bằng tổng sát thương tích lũy; thành công chịu một nửa.
 
 Sát thương cơ bản là 12d6. Nếu cuối lượt của bạn hạt chưa nổ, sát thương tăng 1d6.
 
-Nếu hạt bị chạm trước khi hết thời gian, sinh vật chạm phải cứu nguy Khéo léo. Thất bại khiến phép kết thúc ngay và hạt bùng lửa. Thành công cho phép sinh vật ném hạt tối đa 40 feet. Khi va sinh vật hoặc đồ vật đặc, phép kết thúc và hạt nổ.
+Nếu hạt bị chạm trước khi hết thời gian, sinh vật chạm phải cứu nguy Khéo léo. Thất bại khiến phép kết thúc ngay và hạt bùng lửa. Thành công cho phép sinh vật ném hạt tối đa 12 m (40 feet). Khi va sinh vật hoặc đồ vật đặc, phép kết thúc và hạt nổ.
 
 Lửa làm hư đồ vật trong vùng và đốt đồ dễ cháy không được mặc hay mang.
 
@@ -635,22 +635,22 @@ Lửa làm hư đồ vật trong vùng và đốt đồ dễ cháy không đư�
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Suốt thời lượng, bạn cảm nhận sự hiện diện ma thuật trong 30 feet. Nếu cảm nhận theo cách này, có thể dùng hành động nhìn hào quang mờ quanh bất kỳ sinh vật hay đồ vật nhìn thấy trong vùng có ma thuật, và biết trường phái của nó, nếu có.
+Suốt thời lượng, bạn cảm nhận sự hiện diện ma thuật trong 9 m (30 feet). Nếu cảm nhận theo cách này, có thể dùng hành động nhìn hào quang mờ quanh bất kỳ sinh vật hay đồ vật nhìn thấy trong vùng có ma thuật, và biết trường phái của nó, nếu có.
 
-Phép xuyên phần lớn rào chắn nhưng bị chặn bởi đá dày 1 foot, kim loại thông thường dày 1 inch, tấm chì mỏng hoặc gỗ hay đất dày 3 feet.
+Phép xuyên phần lớn rào chắn nhưng bị chặn bởi đá dày 0,3 m (1 foot), kim loại thông thường dày 2,5 cm (1 inch), tấm chì mỏng hoặc gỗ hay đất dày 0,9 m (3 feet).
 
 ### Cửa chiều không gian (Dimension Door)
 
 *Triệu hồi bậc 4*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 500 feet.  
+**Tầm:** 150 m (500 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
-Bạn dịch chuyển tức thời từ vị trí hiện tại đến bất kỳ nơi khác trong tầm, đến đúng điểm mong muốn. Đó có thể là nơi nhìn thấy, nơi hình dung được hoặc nơi mô tả bằng khoảng cách và hướng, như “thẳng xuống 200 feet” hoặc “lên về phía tây bắc ở góc 45 độ, 300 feet”.
+Bạn dịch chuyển tức thời từ vị trí hiện tại đến bất kỳ nơi khác trong tầm, đến đúng điểm mong muốn. Đó có thể là nơi nhìn thấy, nơi hình dung được hoặc nơi mô tả bằng khoảng cách và hướng, như “thẳng xuống 60 m (200 feet)” hoặc “lên về phía tây bắc ở góc 45 độ, 90 m (300 feet)”.
 
-Bạn có thể mang đồ vật nếu khối lượng không vượt sức mang. Cũng có thể đưa theo một sinh vật sẵn lòng cùng kích cỡ hoặc nhỏ hơn bạn, mang trang bị tối đa bằng sức mang của nó. Sinh vật phải trong 5 feet khi thi triển.
+Bạn có thể mang đồ vật nếu khối lượng không vượt sức mang. Cũng có thể đưa theo một sinh vật sẵn lòng cùng kích cỡ hoặc nhỏ hơn bạn, mang trang bị tối đa bằng sức mang của nó. Sinh vật phải trong 1,5 m (5 feet) khi thi triển.
 
 Nếu lẽ ra đến nơi đã có sinh vật hoặc đồ vật chiếm, bạn và sinh vật đi cùng mỗi người chịu 4d6 sát thương lực; phép không dịch chuyển được bạn.
 
@@ -663,7 +663,7 @@ Nếu lẽ ra đến nơi đã có sinh vật hoặc đồ vật chiếm, bạn 
 **Thành phần:** V, S.  
 **Thời lượng:** 1 giờ.
 
-Bạn khiến mình, gồm quần áo, giáp, vũ khí và đồ khác trên người, trông khác đi đến khi phép kết thúc hoặc dùng hành động chấm dứt. Bạn có thể trông thấp hoặc cao hơn 1 foot, gầy, béo hoặc ở giữa. Không thể đổi kiểu cơ thể, nên phải chọn dạng có cùng cách bố trí chi cơ bản. Ngoài ra, mức độ ảo ảnh tùy bạn.
+Bạn khiến mình, gồm quần áo, giáp, vũ khí và đồ khác trên người, trông khác đi đến khi phép kết thúc hoặc dùng hành động chấm dứt. Bạn có thể trông thấp hoặc cao hơn 0,3 m (1 foot), gầy, béo hoặc ở giữa. Không thể đổi kiểu cơ thể, nên phải chọn dạng có cùng cách bố trí chi cơ bản. Ngoài ra, mức độ ảo ảnh tùy bạn.
 
 Thay đổi không đứng vững trước kiểm tra bằng tiếp xúc. Ví dụ, nếu thêm mũ vào trang phục bằng phép, đồ vật xuyên qua mũ và người chạm không cảm thấy gì hoặc cảm thấy đầu cùng tóc của bạn. Nếu trông gầy hơn thực tế, tay người với ra chạm sẽ đụng bạn khi có vẻ vẫn ở giữa không khí.
 
@@ -674,7 +674,7 @@ Thay đổi không đứng vững trước kiểm tra bằng tiếp xúc. Ví d�
 *Biến đổi bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (đá nam châm và một nhúm bụi).  
 **Thời lượng:** Tức thời.
 
@@ -684,7 +684,7 @@ Sinh vật bị nhắm phải cứu nguy Khéo léo. Thất bại chịu 10d6 + 
 
 Sinh vật bị phân rã và mọi thứ nó mặc hay mang, trừ vật phẩm ma thuật, biến thành đống bụi xám mịn. Chỉ *true resurrection* hoặc *wish* có thể hồi sinh nó.
 
-Phép tự động phân rã đồ vật không ma thuật kích cỡ Lớn trở xuống hoặc vật tạo bằng lực ma thuật. Nếu mục tiêu là đồ vật hoặc vật tạo bằng lực kích cỡ Khổng lồ trở lên, phép phân rã một phần khối lập phương cạnh 10 feet. Vật phẩm ma thuật không bị ảnh hưởng.
+Phép tự động phân rã đồ vật không ma thuật kích cỡ Lớn trở xuống hoặc vật tạo bằng lực ma thuật. Nếu mục tiêu là đồ vật hoặc vật tạo bằng lực kích cỡ Khổng lồ trở lên, phép phân rã một phần khối lập phương cạnh 3 m (10 feet). Vật phẩm ma thuật không bị ảnh hưởng.
 
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 7 trở lên, sát thương tăng 3d6 cho mỗi bậc ô vượt bậc 6.
 
@@ -693,7 +693,7 @@ Phép tự động phân rã đồ vật không ma thuật kích cỡ Lớn tr�
 *Phòng hộ bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -721,7 +721,7 @@ Nếu thi triển từ hai lần trở lên trước nghỉ dài tiếp theo, m�
 *Mê hoặc bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 1 giờ.
 
@@ -740,7 +740,7 @@ Mỗi khi chịu sát thương, mục tiêu cứu nguy Minh triết lại chốn
 *Mê hoặc bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
@@ -780,11 +780,11 @@ Nếu có bộ phận cơ thể, lọn tóc, móng cắt hoặc phần tương t
 *Gọi năng lượng bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 500 feet.  
+**Tầm:** 150 m (500 feet).  
 **Thành phần:** V, S, M (một nhúm đất, mẩu đá và cục đất sét).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn tạo xáo động địa chấn tại điểm trên mặt đất nhìn thấy trong tầm. Suốt thời lượng, chấn động dữ dội xé qua đất trong hình tròn bán kính 100 feet lấy điểm ấy làm tâm, rung lắc sinh vật và công trình tiếp xúc đất trong vùng.
+Bạn tạo xáo động địa chấn tại điểm trên mặt đất nhìn thấy trong tầm. Suốt thời lượng, chấn động dữ dội xé qua đất trong hình tròn bán kính 30 m (100 feet) lấy điểm ấy làm tâm, rung lắc sinh vật và công trình tiếp xúc đất trong vùng.
 
 Mặt đất trở thành địa hình khó đi. Mỗi sinh vật trên đất đang tập trung phải cứu nguy Thể chất; thất bại phá tập trung.
 
@@ -792,7 +792,7 @@ Khi thi triển và cuối mỗi lượt bạn dành để tập trung vào phé
 
 Phép có thể có hiệu ứng thêm tùy địa hình, do DM quyết định.
 
-**Khe nứt.** Khe mở khắp vùng phép vào đầu lượt tiếp theo sau thi triển. Tổng 1d6 khe mở ở vị trí DM chọn. Mỗi khe sâu 1d10 × 10 feet, rộng 10 feet và kéo từ một mép vùng đến phía đối diện. Sinh vật đứng nơi khe mở phải thành công cứu nguy Khéo léo hoặc rơi vào. Sinh vật thành công di chuyển theo mép khe khi nó mở.
+**Khe nứt.** Khe mở khắp vùng phép vào đầu lượt tiếp theo sau thi triển. Tổng 1d6 khe mở ở vị trí DM chọn. Mỗi khe sâu 1d10 × 3 m (10 feet), rộng 3 m (10 feet) và kéo từ một mép vùng đến phía đối diện. Sinh vật đứng nơi khe mở phải thành công cứu nguy Khéo léo hoặc rơi vào. Sinh vật thành công di chuyển theo mép khe khi nó mở.
 
 Khe mở dưới công trình khiến công trình tự động sụp, xem dưới đây.
 
@@ -807,17 +807,17 @@ Khe mở dưới công trình khiến công trình tự động sụp, xem dư�
 **Thành phần:** V, S.  
 **Thời lượng:** Tối đa 8 giờ.
 
-Bạn bước vào vùng biên Cõi Ethereal, nơi chồng lấn cõi hiện tại. Bạn ở Ethereal Biên (Border Ethereal) suốt thời lượng hoặc đến khi dùng hành động chấm dứt phép. Trong thời gian này có thể di chuyển mọi hướng. Nếu đi lên hay xuống, mỗi foot tiêu tốn thêm một foot. Bạn thấy và nghe cõi xuất phát, nhưng mọi thứ trông xám và không thấy quá 60 feet.
+Bạn bước vào vùng biên Cõi Ethereal, nơi chồng lấn cõi hiện tại. Bạn ở Ethereal Biên (Border Ethereal) suốt thời lượng hoặc đến khi dùng hành động chấm dứt phép. Trong thời gian này có thể di chuyển mọi hướng. Nếu đi lên hay xuống, mỗi 0,3 m (1 foot) tiêu tốn thêm 0,3 m (1 foot). Bạn thấy và nghe cõi xuất phát, nhưng mọi thứ trông xám và không thấy quá 18 m (60 feet).
 
 Khi ở Cõi Ethereal, bạn chỉ ảnh hưởng và chịu ảnh hưởng bởi sinh vật khác ở cõi đó. Sinh vật không ở Cõi Ethereal không nhận biết hoặc tương tác với bạn, trừ khi khả năng đặc biệt hay ma thuật cho phép.
 
 Bạn bỏ qua mọi đồ vật và hiệu ứng không ở Cõi Ethereal, cho phép đi xuyên đồ vật nhận biết ở cõi xuất phát.
 
-Khi phép kết thúc, lập tức về cõi xuất phát tại vị trí đang chiếm. Nếu cùng vị trí với đồ vật đặc hoặc sinh vật, lập tức bị đẩy đến không gian trống gần nhất có thể chiếm và chịu sát thương lực bằng hai lần số feet bị di chuyển.
+Khi phép kết thúc, lập tức về cõi xuất phát tại vị trí đang chiếm. Nếu cùng vị trí với đồ vật đặc hoặc sinh vật, lập tức bị đẩy đến không gian trống gần nhất có thể chiếm và chịu sát thương lực bằng hai lần số đoạn 0,3 m bị di chuyển (tương đương hai lần số feet trong luật gốc).
 
 Phép không ảnh hưởng nếu thi triển khi ở Cõi Ethereal hoặc cõi không giáp nó, như một trong các Cõi Ngoài (Outer Planes).
 
-**Ở bậc cao hơn.** Khi dùng ô bậc 8 trở lên, có thể nhắm tối đa ba sinh vật sẵn lòng, gồm bạn, cho mỗi bậc ô vượt bậc 7. Chúng phải trong 10 feet khi thi triển.
+**Ở bậc cao hơn.** Khi dùng ô bậc 8 trở lên, có thể nhắm tối đa ba sinh vật sẵn lòng, gồm bạn, cho mỗi bậc ô vượt bậc 7. Chúng phải trong 3 m (10 feet) khi thi triển.
 
 ### Tìm lối (Find the Path)
 
@@ -837,11 +837,11 @@ Suốt thời lượng, chừng nào cùng cõi với điểm đến, bạn bi�
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Mỗi đồ vật trong khối lập phương cạnh 20 feet trong tầm được viền ánh sáng xanh lam, xanh lá hoặc tím, tùy chọn. Sinh vật trong vùng khi thi triển cũng được viền nếu thất bại cứu nguy Khéo léo. Suốt thời lượng, đồ vật và sinh vật chịu phép chiếu sáng yếu trong bán kính 10 feet.
+Mỗi đồ vật trong khối lập phương cạnh 6 m (20 feet) trong tầm được viền ánh sáng xanh lam, xanh lá hoặc tím, tùy chọn. Sinh vật trong vùng khi thi triển cũng được viền nếu thất bại cứu nguy Khéo léo. Suốt thời lượng, đồ vật và sinh vật chịu phép chiếu sáng yếu trong bán kính 3 m (10 feet).
 
 Mọi lần tung tấn công vào sinh vật hoặc đồ vật chịu phép có lợi thế nếu kẻ tấn công nhìn thấy nó; sinh vật hoặc đồ vật không được hưởng lợi từ vô hình.
 
@@ -854,7 +854,7 @@ Mọi lần tung tấn công vào sinh vật hoặc đồ vật chịu phép có
 *Tử linh bậc 7*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -867,11 +867,11 @@ Sinh vật dạng người bị phép giết đứng dậy đầu lượt tiếp
 *Gọi năng lượng bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 150 feet.  
+**Tầm:** 45 m (150 feet).  
 **Thành phần:** V, S, M (viên nhỏ bằng phân dơi và lưu huỳnh).  
 **Thời lượng:** Tức thời.
 
-Vệt sáng lóe từ ngón tay chỉ đến điểm chọn trong tầm, rồi bung với tiếng gầm trầm thành vụ nổ lửa. Mỗi sinh vật trong hình cầu bán kính 20 feet lấy điểm ấy làm tâm phải cứu nguy Khéo léo. Thất bại chịu 8d6 sát thương lửa; thành công chịu một nửa.
+Vệt sáng lóe từ ngón tay chỉ đến điểm chọn trong tầm, rồi bung với tiếng gầm trầm thành vụ nổ lửa. Mỗi sinh vật trong hình cầu bán kính 6 m (20 feet) lấy điểm ấy làm tâm phải cứu nguy Khéo léo. Thất bại chịu 8d6 sát thương lửa; thành công chịu một nửa.
 
 Lửa lan quanh góc, đốt đồ dễ cháy trong vùng không được mặc hoặc mang.
 
@@ -882,7 +882,7 @@ Lửa lan quanh góc, đốt đồ dễ cháy trong vùng không được mặc 
 *Phép sơ cấp Gọi năng lượng*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -895,11 +895,11 @@ Sát thương tăng 1d10 khi đạt cấp 5 (2d10), 11 (3d10) và 17 (4d10).
 *Gọi năng lượng bậc 7*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 150 feet.  
+**Tầm:** 45 m (150 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Bão gồm những lớp lửa gầm rú xuất hiện tại nơi chọn trong tầm. Vùng bão gồm tối đa mười khối lập phương cạnh 10 feet, xếp tùy ý. Mỗi khối phải có ít nhất một mặt liền kề mặt khối khác. Mỗi sinh vật trong vùng phải cứu nguy Khéo léo. Thất bại chịu 7d10 sát thương lửa; thành công chịu một nửa.
+Bão gồm những lớp lửa gầm rú xuất hiện tại nơi chọn trong tầm. Vùng bão gồm tối đa mười khối lập phương cạnh 3 m (10 feet), xếp tùy ý. Mỗi khối phải có ít nhất một mặt liền kề mặt khối khác. Mỗi sinh vật trong vùng phải cứu nguy Khéo léo. Thất bại chịu 7d10 sát thương lửa; thành công chịu một nửa.
 
 Lửa làm hư đồ vật và đốt đồ dễ cháy không được mặc hoặc mang. Nếu bạn chọn, thực vật trong vùng không chịu ảnh hưởng.
 
@@ -908,11 +908,11 @@ Lửa làm hư đồ vật và đốt đồ dễ cháy không được mặc ho�
 *Gọi năng lượng bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (một nhúm lưu huỳnh).  
 **Thời lượng:** Tức thời.
 
-Cột lửa thần thánh thẳng đứng gầm từ trời xuống nơi chỉ định. Mỗi sinh vật trong hình trụ bán kính 10 feet, cao 40 feet, lấy điểm trong tầm làm tâm phải cứu nguy Khéo léo. Thất bại chịu 4d6 sát thương lửa và 4d6 quang năng; thành công chịu một nửa.
+Cột lửa thần thánh thẳng đứng gầm từ trời xuống nơi chỉ định. Mỗi sinh vật trong hình trụ bán kính 3 m (10 feet), cao 12 m (40 feet), lấy điểm trong tầm làm tâm phải cứu nguy Khéo léo. Thất bại chịu 4d6 sát thương lửa và 4d6 quang năng; thành công chịu một nửa.
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 6 trở lên, sát thương lửa hoặc quang năng, tùy chọn, tăng 1d6 cho mỗi bậc ô vượt bậc 5.
 
@@ -921,15 +921,15 @@ Cột lửa thần thánh thẳng đứng gầm từ trời xuống nơi chỉ �
 *Triệu hồi bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (một ít mỡ động vật, nhúm lưu huỳnh và chút bột sắt).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Hình cầu lửa đường kính 5 feet xuất hiện trong không gian trống chọn trong tầm, tồn tại suốt thời lượng. Sinh vật kết thúc lượt trong 5 feet của cầu phải cứu nguy Khéo léo. Thất bại chịu 2d6 sát thương lửa; thành công chịu một nửa.
+Hình cầu lửa đường kính 1,5 m (5 feet) xuất hiện trong không gian trống chọn trong tầm, tồn tại suốt thời lượng. Sinh vật kết thúc lượt trong 1,5 m (5 feet) của cầu phải cứu nguy Khéo léo. Thất bại chịu 2d6 sát thương lửa; thành công chịu một nửa.
 
-Bằng hành động phụ, có thể di chuyển cầu tối đa 30 feet. Nếu húc cầu vào sinh vật, nó phải cứu nguy chống sát thương cầu, và cầu ngừng di chuyển trong lượt này.
+Bằng hành động phụ, có thể di chuyển cầu tối đa 9 m (30 feet). Nếu húc cầu vào sinh vật, nó phải cứu nguy chống sát thương cầu, và cầu ngừng di chuyển trong lượt này.
 
-Khi di chuyển cầu, có thể cho nó vượt rào cao tối đa 5 feet và nhảy qua hố rộng tối đa 10 feet. Cầu đốt đồ dễ cháy không được mặc hay mang, chiếu sáng rõ bán kính 20 feet và sáng yếu thêm 20 feet.
+Khi di chuyển cầu, có thể cho nó vượt rào cao tối đa 1,5 m (5 feet) và nhảy qua hố rộng tối đa 3 m (10 feet). Cầu đốt đồ dễ cháy không được mặc hay mang, chiếu sáng rõ bán kính 6 m (20 feet) và sáng yếu thêm 6 m (20 feet).
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 3 trở lên, sát thương tăng 1d6 cho mỗi bậc ô vượt bậc 2.
 
@@ -946,7 +946,7 @@ Khi di chuyển cầu, có thể cho nó vượt rào cao tối đa 5 feet và n
 **Thành phần:** V, S, M (lông cánh của bất kỳ chim nào).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn chạm sinh vật sẵn lòng. Mục tiêu có tốc độ bay 60 feet suốt thời lượng. Khi phép kết thúc, nó rơi nếu còn trên không, trừ khi có thể ngăn cú rơi.
+Bạn chạm sinh vật sẵn lòng. Mục tiêu có tốc độ bay 18 m (60 feet) suốt thời lượng. Khi phép kết thúc, nó rơi nếu còn trên không, trừ khi có thể ngăn cú rơi.
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 4 trở lên, nhắm thêm một sinh vật cho mỗi bậc ô vượt bậc 3.
 
@@ -978,18 +978,18 @@ Phép kết thúc ngay nếu bạn thi triển lại trước khi hết thời l
 
 Bạn chạm sinh vật sẵn lòng. Suốt thời lượng, di chuyển của nó không bị địa hình khó đi ảnh hưởng; phép và hiệu ứng ma thuật không thể giảm tốc độ hoặc gây tê liệt (paralyzed) hay bị kiềm giữ (restrained).
 
-Mục tiêu cũng có thể dùng 5 feet di chuyển để tự động thoát kiềm giữ không ma thuật, như còng hoặc sinh vật đang vật giữ nó. Cuối cùng, ở dưới nước không gây phạt cho di chuyển hoặc tấn công của mục tiêu.
+Mục tiêu cũng có thể dùng 1,5 m (5 feet) di chuyển để tự động thoát kiềm giữ không ma thuật, như còng hoặc sinh vật đang vật giữ nó. Cuối cùng, ở dưới nước không gây phạt cho di chuyển hoặc tấn công của mục tiêu.
 
 ### Cổng cõi (Gate)
 
 *Triệu hồi bậc 9*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (kim cương trị giá ít nhất 5.000 gp).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn tạo cổng nối không gian trống nhìn thấy trong [tầm với](99-glossary.md#reach) địa điểm chính xác ở cõi tồn tại khác. Cổng là lỗ tròn đường kính 5 đến 20 feet, tùy bạn. Có thể định hướng bất kỳ. Cổng tồn tại suốt thời lượng.
+Bạn tạo cổng nối không gian trống nhìn thấy trong [tầm với](99-glossary.md#reach) địa điểm chính xác ở cõi tồn tại khác. Cổng là lỗ tròn đường kính 1,5 đến 6 m (5 đến 20 feet), tùy bạn. Có thể định hướng bất kỳ. Cổng tồn tại suốt thời lượng.
 
 Cổng có mặt trước và sau trên mỗi cõi nó xuất hiện. Chỉ có thể đi qua mặt trước. Bất kỳ thứ gì làm vậy lập tức được chuyển đến cõi kia, xuất hiện trong không gian trống gần cổng nhất.
 
@@ -1006,11 +1006,11 @@ Khi thi triển, có thể nói tên một sinh vật cụ thể; bí danh, danh
 *Phòng hộ bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (bán kính 10 feet).  
+**Tầm:** Bản thân (bán kính 3 m (10 feet)).  
 **Thành phần:** V, S, M (hạt thủy tinh hoặc tinh thể vỡ khi phép kết thúc).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Rào chắn bất động, lung linh mờ xuất hiện bán kính 10 feet quanh bạn và tồn tại suốt thời lượng.
+Rào chắn bất động, lung linh mờ xuất hiện bán kính 3 m (10 feet) quanh bạn và tồn tại suốt thời lượng.
 
 Phép bậc 5 trở xuống thi triển từ ngoài rào không thể ảnh hưởng sinh vật hay đồ vật trong rào, ngay cả khi dùng ô bậc cao hơn. Phép ấy có thể nhắm chúng nhưng không có hiệu quả. Tương tự, khu vực trong rào bị loại khỏi vùng chịu ảnh hưởng của các phép ấy.
 
@@ -1048,13 +1048,13 @@ Bạn truyền năng lượng tích cực vào sinh vật chạm để khắc ph
 *Triệu hồi bậc 4*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V.  
 **Thời lượng:** 8 giờ.
 
 Hộ vệ linh ảnh kích cỡ Lớn xuất hiện, lơ lửng suốt thời lượng tại không gian trống chọn và nhìn thấy trong tầm. Nó chiếm không gian ấy, hình dạng mờ trừ kiếm sáng và [khiên](99-glossary.md#shield) mang biểu tượng vị thần của bạn.
 
-Sinh vật thù địch với bạn di chuyển đến không gian trong 10 feet của hộ vệ lần đầu trong một lượt phải cứu nguy Khéo léo. Thất bại chịu 20 sát thương quang năng; thành công chịu một nửa. Hộ vệ biến mất khi đã gây tổng 60 sát thương.
+Sinh vật thù địch với bạn di chuyển đến không gian trong 3 m (10 feet) của hộ vệ lần đầu trong một lượt phải cứu nguy Khéo léo. Thất bại chịu 20 sát thương quang năng; thành công chịu một nửa. Hộ vệ biến mất khi đã gây tổng 60 sát thương.
 
 ### Chỉ dẫn (Guidance)
 
@@ -1072,7 +1072,7 @@ Bạn chạm một sinh vật sẵn lòng. Một lần trước khi phép kết 
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** 1 vòng.
 
@@ -1085,7 +1085,7 @@ Bạn chạm một sinh vật sẵn lòng. Một lần trước khi phép kết 
 *Tử linh bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1096,7 +1096,7 @@ Bạn gieo bệnh hiểm độc lên sinh vật nhìn thấy trong tầm. Mục 
 *Biến đổi bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (mảnh bào rễ cam thảo).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
@@ -1109,7 +1109,7 @@ Khi phép kết thúc, mục tiêu không thể di chuyển hoặc hành động
 *Gọi năng lượng bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1122,7 +1122,7 @@ Chọn sinh vật nhìn thấy trong tầm. Đợt năng lượng tích cực tr
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động phụ.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1135,7 +1135,7 @@ Sinh vật tự chọn nhìn thấy trong tầm hồi điểm sinh lực bằng 
 *Triệu hồi bậc 6*
 
 **Thời gian thi triển:** 10 phút.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (bát nạm đá quý trị giá ít nhất 1.000 gp, bị phép tiêu thụ).  
 **Thời lượng:** Tức thời.
 
@@ -1148,13 +1148,13 @@ Sinh vật dự tiệc được nhiều lợi ích: chữa mọi bệnh và ch�
 *Mê hoặc bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (mẩu sắt nhỏ, thẳng).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
 Chọn sinh vật dạng người nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết hoặc tê liệt suốt thời lượng. Cuối mỗi lượt của nó, nó có thể cứu nguy Minh triết lại; thành công chấm dứt phép trên nó.
 
-**Ở bậc cao hơn.** Khi dùng ô bậc 3 trở lên, nhắm thêm một sinh vật dạng người cho mỗi bậc ô vượt bậc 2. Chúng phải cách nhau không quá 30 feet khi được nhắm.
+**Ở bậc cao hơn.** Khi dùng ô bậc 3 trở lên, nhắm thêm một sinh vật dạng người cho mỗi bậc ô vượt bậc 2. Chúng phải cách nhau không quá 9 m (30 feet) khi được nhắm.
 
 ### Hào quang thánh (Holy Aura)
 
@@ -1165,18 +1165,18 @@ Chọn sinh vật dạng người nhìn thấy trong tầm. Mục tiêu phải t
 **Thành phần:** V, S, M (hộp thánh tích rất nhỏ trị giá ít nhất 1.000 gp, chứa thánh tích như mảnh áo thánh nhân hoặc giấy da từ kinh văn).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Ánh sáng thần thánh tràn từ bạn, cô thành ánh dịu trong bán kính 30 feet. Sinh vật tự chọn trong bán kính khi thi triển chiếu sáng yếu bán kính 5 feet và có lợi thế mọi cứu nguy; sinh vật khác có bất lợi khi tung tấn công chúng đến khi phép kết thúc. Ngoài ra, khi [fiend](99-glossary.md#fiend) hoặc xác sống đánh trúng sinh vật chịu phép bằng đòn cận chiến, hào quang lóe sáng rực. Kẻ tấn công phải thành công cứu nguy Thể chất hoặc mù đến khi phép kết thúc.
+Ánh sáng thần thánh tràn từ bạn, cô thành ánh dịu trong bán kính 9 m (30 feet). Sinh vật tự chọn trong bán kính khi thi triển chiếu sáng yếu bán kính 1,5 m (5 feet) và có lợi thế mọi cứu nguy; sinh vật khác có bất lợi khi tung tấn công chúng đến khi phép kết thúc. Ngoài ra, khi [fiend](99-glossary.md#fiend) hoặc xác sống đánh trúng sinh vật chịu phép bằng đòn cận chiến, hào quang lóe sáng rực. Kẻ tấn công phải thành công cứu nguy Thể chất hoặc mù đến khi phép kết thúc.
 
 ### Bão băng (Ice Storm)
 
 *Gọi năng lượng bậc 4*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 300 feet.  
+**Tầm:** 90 m (300 feet).  
 **Thành phần:** V, S, M (nhúm bụi và vài giọt nước).  
 **Thời lượng:** Tức thời.
 
-Mưa băng cứng như đá nện xuống hình trụ bán kính 20 feet, cao 40 feet, tâm ở điểm trong tầm. Mỗi sinh vật trong trụ phải cứu nguy Khéo léo. Thất bại chịu 2d8 đập và 4d6 lạnh; thành công chịu một nửa.
+Mưa băng cứng như đá nện xuống hình trụ bán kính 6 m (20 feet), cao 12 m (40 feet), tâm ở điểm trong tầm. Mỗi sinh vật trong trụ phải cứu nguy Khéo léo. Thất bại chịu 2d8 đập và 4d6 lạnh; thành công chịu một nửa.
 
 Băng biến vùng hiệu ứng bão thành địa hình khó đi đến cuối lượt tiếp theo của bạn.
 
@@ -1200,7 +1200,7 @@ Nếu thay vào đó chạm sinh vật suốt quá trình thi triển, biết nh
 *Phòng hộ bậc 9*
 
 **Thời gian thi triển:** 1 phút.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (hình mục tiêu trên giấy da mịn hoặc tượng chạm khắc giống nó, và thành phần đặc biệt tùy phiên bản chọn, trị giá ít nhất 500 gp cho mỗi Xúc xắc Sinh lực của mục tiêu).  
 **Thời lượng:** Đến khi bị giải trừ.
 
@@ -1220,7 +1220,7 @@ Thành phần đặc biệt là xích tinh xảo bằng kim loại quý.
 
 Thành phần đặc biệt là mô hình nhà tù bằng ngọc bích.
 
-**Giam thu nhỏ (Minimus Containment).** Mục tiêu thu còn cao 1 inch và bị giam trong đá quý hoặc vật tương tự. Ánh sáng xuyên đá bình thường, cho mục tiêu nhìn ra và sinh vật khác nhìn vào, nhưng không gì khác xuyên được, ngay cả dịch chuyển tức thời hoặc di chuyển giữa cõi. Đá không thể bị cắt hay phá khi phép còn hiệu lực.
+**Giam thu nhỏ (Minimus Containment).** Mục tiêu thu còn cao 2,5 cm (1 inch) và bị giam trong đá quý hoặc vật tương tự. Ánh sáng xuyên đá bình thường, cho mục tiêu nhìn ra và sinh vật khác nhìn vào, nhưng không gì khác xuyên được, ngay cả dịch chuyển tức thời hoặc di chuyển giữa cõi. Đá không thể bị cắt hay phá khi phép còn hiệu lực.
 
 Thành phần đặc biệt là đá quý lớn, trong suốt, như corundum, kim cương hoặc ruby.
 
@@ -1265,7 +1265,7 @@ Sinh vật chạm trở nên vô hình đến khi phép kết thúc. Mọi thứ
 *Biến đổi bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1275,7 +1275,7 @@ Mục tiêu đóng bằng khóa thường, bị kẹt hoặc cài thanh chắn �
 
 Nếu mục tiêu đóng bằng *arcane lock*, phép đó bị áp chế 10 phút; trong thời gian ấy mục tiêu mở đóng bình thường.
 
-Khi thi triển, tiếng gõ lớn phát từ đồ vật mục tiêu, nghe được xa đến 300 feet.
+Khi thi triển, tiếng gõ lớn phát từ đồ vật mục tiêu, nghe được xa đến 90 m (300 feet).
 
 ### Phục hồi cơ bản (Lesser Restoration)
 
@@ -1293,13 +1293,13 @@ Bạn chạm sinh vật và chấm dứt một bệnh hoặc một trạng thái
 *Biến đổi bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (vòng da nhỏ hoặc dây vàng uốn hình cốc, một đầu có cán dài).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Một sinh vật hoặc đồ vật không cố định tự chọn, nhìn thấy trong tầm, nâng thẳng lên tối đa 20 feet và lơ lửng suốt thời lượng. Phép nâng mục tiêu nặng tối đa 500 pound. Sinh vật không sẵn lòng thành công cứu nguy Thể chất không bị ảnh hưởng.
+Một sinh vật hoặc đồ vật không cố định tự chọn, nhìn thấy trong tầm, nâng thẳng lên tối đa 6 m (20 feet) và lơ lửng suốt thời lượng. Phép nâng mục tiêu nặng tối đa 225 kg (500 pound). Sinh vật không sẵn lòng thành công cứu nguy Thể chất không bị ảnh hưởng.
 
-Mục tiêu chỉ di chuyển bằng cách đẩy hoặc kéo đồ vật hay bề mặt cố định trong tầm với, như tường hoặc trần, di chuyển như leo. Bạn có thể thay đổi độ cao tối đa 20 feet lên hoặc xuống trong lượt. Nếu là mục tiêu, bạn đi lên hay xuống như phần di chuyển. Nếu không, có thể dùng hành động di chuyển mục tiêu; nó phải ở trong tầm phép.
+Mục tiêu chỉ di chuyển bằng cách đẩy hoặc kéo đồ vật hay bề mặt cố định trong tầm với, như tường hoặc trần, di chuyển như leo. Bạn có thể thay đổi độ cao tối đa 6 m (20 feet) lên hoặc xuống trong lượt. Nếu là mục tiêu, bạn đi lên hay xuống như phần di chuyển. Nếu không, có thể dùng hành động di chuyển mục tiêu; nó phải ở trong tầm phép.
 
 Khi phép kết thúc, mục tiêu nhẹ nhàng hạ xuống đất nếu còn trên không.
 
@@ -1312,7 +1312,7 @@ Khi phép kết thúc, mục tiêu nhẹ nhàng hạ xuống đất nếu còn t
 **Thành phần:** V, M (đom đóm hoặc rêu phát quang).  
 **Thời lượng:** 1 giờ.
 
-Bạn chạm đồ vật không có chiều nào lớn hơn 10 feet. Đến khi phép kết thúc, nó chiếu sáng rõ bán kính 20 feet và sáng yếu thêm 20 feet. Ánh sáng có màu tùy ý. Che kín đồ vật bằng thứ không nhìn xuyên được chặn ánh sáng. Phép kết thúc nếu thi triển lại hoặc dùng hành động chấm dứt.
+Bạn chạm đồ vật không có chiều nào lớn hơn 3 m (10 feet). Đến khi phép kết thúc, nó chiếu sáng rõ bán kính 6 m (20 feet) và sáng yếu thêm 6 m (20 feet). Ánh sáng có màu tùy ý. Che kín đồ vật bằng thứ không nhìn xuyên được chặn ánh sáng. Phép kết thúc nếu thi triển lại hoặc dùng hành động chấm dứt.
 
 Nếu nhắm đồ vật sinh vật thù địch đang cầm hoặc mặc, nó phải thành công cứu nguy Khéo léo để tránh phép.
 
@@ -1321,11 +1321,11 @@ Nếu nhắm đồ vật sinh vật thù địch đang cầm hoặc mặc, nó p
 *Gọi năng lượng bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (đường 100 feet).  
+**Tầm:** Bản thân (đường 30 m (100 feet)).  
 **Thành phần:** V, S, M (ít lông thú và thanh hổ phách, tinh thể hoặc thủy tinh).  
 **Thời lượng:** Tức thời.
 
-Luồng sét tạo đường dài 100 feet, rộng 5 feet phóng từ bạn theo hướng chọn. Mỗi sinh vật trên đường phải cứu nguy Khéo léo. Thất bại chịu 8d6 sét; thành công chịu một nửa.
+Luồng sét tạo đường dài 30 m (100 feet), rộng 1,5 m (5 feet) phóng từ bạn theo hướng chọn. Mỗi sinh vật trên đường phải cứu nguy Khéo léo. Thất bại chịu 8d6 sét; thành công chịu một nửa.
 
 Sét đốt đồ dễ cháy trong vùng không được mặc hoặc mang.
 
@@ -1340,11 +1340,11 @@ Sét đốt đồ dễ cháy trong vùng không được mặc hoặc mang.
 **Thành phần:** V, S, M (ít lông chó săn bloodhound).  
 **Thời lượng:** Tập trung, tối đa 1 giờ.
 
-Mô tả hoặc gọi tên sinh vật quen thuộc. Bạn cảm nhận hướng vị trí của nó nếu nó trong 1.000 feet. Nếu nó di chuyển, bạn biết hướng di chuyển.
+Mô tả hoặc gọi tên sinh vật quen thuộc. Bạn cảm nhận hướng vị trí của nó nếu nó trong 300 m (1.000 feet). Nếu nó di chuyển, bạn biết hướng di chuyển.
 
-Phép định vị sinh vật cụ thể bạn biết hoặc sinh vật gần nhất thuộc loại cụ thể, như người hoặc kỳ lân, miễn bạn đã nhìn [loại sinh vật](99-glossary.md#creature-type) ấy gần, trong 30 feet, ít nhất một lần. Nếu sinh vật mô tả hoặc gọi tên ở dạng khác, như chịu *polymorph*, phép không định vị nó.
+Phép định vị sinh vật cụ thể bạn biết hoặc sinh vật gần nhất thuộc loại cụ thể, như người hoặc kỳ lân, miễn bạn đã nhìn [loại sinh vật](99-glossary.md#creature-type) ấy gần, trong 9 m (30 feet), ít nhất một lần. Nếu sinh vật mô tả hoặc gọi tên ở dạng khác, như chịu *polymorph*, phép không định vị nó.
 
-Phép không định vị nếu dòng nước chảy rộng ít nhất 10 feet chặn đường trực tiếp giữa bạn và sinh vật.
+Phép không định vị nếu dòng nước chảy rộng ít nhất 3 m (10 feet) chặn đường trực tiếp giữa bạn và sinh vật.
 
 ### Giáp pháp sư (Mage Armor)
 
@@ -1362,22 +1362,22 @@ Bạn chạm sinh vật sẵn lòng không mặc giáp; lực ma thuật bảo v
 *Phép sơ cấp Triệu hồi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** 1 phút.
 
-Bàn tay linh ảnh lơ lửng xuất hiện tại điểm chọn trong tầm, tồn tại suốt thời lượng hoặc đến khi dùng hành động chấm dứt. Nó biến mất nếu cách bạn hơn 30 feet hoặc bạn thi triển lại.
+Bàn tay linh ảnh lơ lửng xuất hiện tại điểm chọn trong tầm, tồn tại suốt thời lượng hoặc đến khi dùng hành động chấm dứt. Nó biến mất nếu cách bạn hơn 9 m (30 feet) hoặc bạn thi triển lại.
 
-Bạn có thể dùng hành động điều khiển tay để thao tác đồ vật, mở cửa hoặc vật chứa không khóa, cất hay lấy vật phẩm từ vật chứa mở, hoặc đổ chất trong lọ. Mỗi lần dùng có thể di chuyển tay tối đa 30 feet.
+Bạn có thể dùng hành động điều khiển tay để thao tác đồ vật, mở cửa hoặc vật chứa không khóa, cất hay lấy vật phẩm từ vật chứa mở, hoặc đổ chất trong lọ. Mỗi lần dùng có thể di chuyển tay tối đa 9 m (30 feet).
 
-Tay không thể tấn công, kích hoạt vật phẩm ma thuật hoặc mang hơn 10 pound.
+Tay không thể tấn công, kích hoạt vật phẩm ma thuật hoặc mang hơn 4,5 kg (10 pound).
 
 ### Phi tiêu ma thuật (Magic Missile)
 
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1403,11 +1403,11 @@ Bạn chạm vũ khí không ma thuật. Đến khi phép kết thúc, nó thàn
 *Ảo ảnh bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S, M (ít lông cừu).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn tạo hình đồ vật, sinh vật hoặc hiện tượng thấy được khác không lớn hơn khối lập phương cạnh 20 feet. Hình xuất hiện ở nơi nhìn thấy trong tầm và tồn tại suốt thời lượng. Nó trông hoàn toàn thật, gồm âm thanh, mùi và nhiệt độ phù hợp. Không thể tạo nóng hoặc lạnh đủ gây sát thương, âm đủ lớn gây sát thương sấm hay làm điếc, hoặc mùi gây bệnh như mùi troglodyte.
+Bạn tạo hình đồ vật, sinh vật hoặc hiện tượng thấy được khác không lớn hơn khối lập phương cạnh 6 m (20 feet). Hình xuất hiện ở nơi nhìn thấy trong tầm và tồn tại suốt thời lượng. Nó trông hoàn toàn thật, gồm âm thanh, mùi và nhiệt độ phù hợp. Không thể tạo nóng hoặc lạnh đủ gây sát thương, âm đủ lớn gây sát thương sấm hay làm điếc, hoặc mùi gây bệnh như mùi troglodyte.
 
 Chừng nào trong tầm ảo ảnh, bạn có thể dùng hành động cho hình đi đến nơi khác trong tầm. Khi đổi vị trí, có thể đổi vẻ ngoài để chuyển động tự nhiên; ví dụ, hình sinh vật di chuyển trông như đi bộ. Tương tự, có thể cho ảo ảnh phát âm khác nhau từng lúc, thậm chí trò chuyện.
 
@@ -1420,11 +1420,11 @@ Tiếp xúc vật lý lộ nó là ảo ảnh vì vật xuyên qua. Sinh vật d
 *Gọi năng lượng bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Làn năng lượng chữa lành tràn từ điểm tự chọn trong tầm. Chọn tối đa sáu sinh vật trong cầu bán kính 30 feet tâm ở điểm ấy. Mỗi mục tiêu hồi điểm sinh lực bằng 3d8 + hệ số thuộc tính thi triển phép. Không ảnh hưởng xác sống hoặc cấu thể.
+Làn năng lượng chữa lành tràn từ điểm tự chọn trong tầm. Chọn tối đa sáu sinh vật trong cầu bán kính 9 m (30 feet) tâm ở điểm ấy. Mỗi mục tiêu hồi điểm sinh lực bằng 3d8 + hệ số thuộc tính thi triển phép. Không ảnh hưởng xác sống hoặc cấu thể.
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 6 trở lên, chữa lành tăng 1d8 cho mỗi bậc ô vượt bậc 5.
 
@@ -1433,7 +1433,7 @@ Làn năng lượng chữa lành tràn từ điểm tự chọn trong tầm. Ch�
 *Gọi năng lượng bậc 9*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1444,7 +1444,7 @@ Năng lượng chữa lành tuôn từ bạn đến sinh vật bị thương xun
 *Gọi năng lượng bậc 3*
 
 **Thời gian thi triển:** 1 hành động phụ.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1457,7 +1457,7 @@ Khi gọi những lời phục hồi, tối đa sáu sinh vật tự chọn nhì
 *Mê hoặc bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, M (lưỡi rắn và chút tổ ong hoặc giọt dầu ngọt).  
 **Thời lượng:** 24 giờ.
 
@@ -1476,7 +1476,7 @@ Nếu bạn hoặc bạn đồng hành gây sát thương sinh vật chịu phé
 *Triệu hồi bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
@@ -1495,11 +1495,11 @@ Khi phép kết thúc, mục tiêu xuất hiện lại ở không gian đã rờ
 *Gọi năng lượng bậc 9*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 1 mile.  
+**Tầm:** 1,6 km (1 mile).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Cầu lửa cháy rực rơi xuống bốn điểm khác nhau nhìn thấy trong tầm. Mỗi sinh vật trong cầu bán kính 40 feet tâm tại mỗi điểm phải cứu nguy Khéo léo. Cầu lan quanh góc. Thất bại chịu 20d6 lửa và 20d6 đập; thành công chịu một nửa. Sinh vật trong vùng của nhiều vụ bùng lửa chỉ bị ảnh hưởng một lần.
+Cầu lửa cháy rực rơi xuống bốn điểm khác nhau nhìn thấy trong tầm. Mỗi sinh vật trong cầu bán kính 12 m (40 feet) tâm tại mỗi điểm phải cứu nguy Khéo léo. Cầu lan quanh góc. Thất bại chịu 20d6 lửa và 20d6 đập; thành công chịu một nửa. Sinh vật trong vùng của nhiều vụ bùng lửa chỉ bị ảnh hưởng một lần.
 
 Phép làm hư đồ vật trong vùng và đốt đồ dễ cháy không được mặc hay mang.
 
@@ -1508,7 +1508,7 @@ Phép làm hư đồ vật trong vùng và đốt đồ dễ cháy không đư�
 *Phép sơ cấp Ảo ảnh*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** S, M (ít lông cừu).  
 **Thời lượng:** 1 phút.
 
@@ -1516,7 +1516,7 @@ Bạn tạo âm thanh hoặc hình đồ vật trong tầm, tồn tại suốt t
 
 Âm thanh có thể từ tiếng thì thầm đến tiếng thét, là giọng bạn, giọng khác, sư tử gầm, trống hoặc âm khác tùy chọn. Âm tiếp tục không giảm suốt thời lượng, hoặc có thể phát những âm riêng biệt ở thời điểm khác nhau trước khi phép kết thúc.
 
-Hình đồ vật như ghế, dấu chân bùn hoặc rương nhỏ không được lớn hơn khối lập phương cạnh 5 feet. Hình không tạo âm, ánh sáng, mùi hoặc hiệu ứng giác quan khác. Tiếp xúc vật lý lộ ảo ảnh vì vật xuyên qua.
+Hình đồ vật như ghế, dấu chân bùn hoặc rương nhỏ không được lớn hơn khối lập phương cạnh 1,5 m (5 feet). Hình không tạo âm, ánh sáng, mùi hoặc hiệu ứng giác quan khác. Tiếp xúc vật lý lộ ảo ảnh vì vật xuyên qua.
 
 Sinh vật dùng hành động xem xét âm hoặc hình có thể nhận ra bằng kiểm tra Trí tuệ (Điều tra) thành công chống DC cứu nguy phép. Nếu nhận ra, ảo ảnh trở nên mờ nhạt với nó.
 
@@ -1529,27 +1529,27 @@ Sinh vật dùng hành động xem xét âm hoặc hình có thể nhận ra b�
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
-Thoáng được sương bạc bao quanh, bạn dịch chuyển tức thời tối đa 30 feet đến không gian trống nhìn thấy.
+Thoáng được sương bạc bao quanh, bạn dịch chuyển tức thời tối đa 9 m (30 feet) đến không gian trống nhìn thấy.
 
 ### Kiếm của Mordenkainen (Mordenkainen’s Sword)
 
 *Gọi năng lượng bậc 7*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (kiếm bạch kim thu nhỏ có chuôi và núm chuôi bằng đồng cùng kẽm, trị giá 250 gp).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
 Bạn tạo mặt phẳng lực hình kiếm lơ lửng trong tầm, tồn tại suốt thời lượng.
 
-Khi kiếm xuất hiện, tung tấn công phép cận chiến vào mục tiêu tự chọn trong 5 feet của kiếm. Trúng gây 3d10 lực. Đến khi phép kết thúc, có thể dùng hành động phụ mỗi lượt di chuyển kiếm tối đa 20 feet đến nơi nhìn thấy và lặp đòn vào cùng mục tiêu hoặc mục tiêu khác.
+Khi kiếm xuất hiện, tung tấn công phép cận chiến vào mục tiêu tự chọn trong 1,5 m (5 feet) của kiếm. Trúng gây 3d10 lực. Đến khi phép kết thúc, có thể dùng hành động phụ mỗi lượt di chuyển kiếm tối đa 6 m (20 feet) đến nơi nhìn thấy và lặp đòn vào cùng mục tiêu hoặc mục tiêu khác.
 
 ### Điệu nhảy không thể cưỡng của Otto (Otto’s Irresistible Dance)
 
 *Mê hoặc bậc 6*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
@@ -1562,11 +1562,11 @@ Sinh vật nhảy phải dùng toàn bộ di chuyển để nhảy không rời 
 *Biến đổi bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (nhúm hạt mè).  
 **Thời lượng:** 1 giờ.
 
-Lối đi xuất hiện tại điểm chọn nhìn thấy trên bề mặt gỗ, thạch cao hoặc đá như tường, trần hay sàn trong tầm, tồn tại suốt thời lượng. Chọn kích thước tối đa rộng 5 feet, cao 8 feet, sâu 20 feet. Lối đi không làm mất ổn định công trình quanh nó.
+Lối đi xuất hiện tại điểm chọn nhìn thấy trên bề mặt gỗ, thạch cao hoặc đá như tường, trần hay sàn trong tầm, tồn tại suốt thời lượng. Chọn kích thước tối đa rộng 1,5 m (5 feet), cao 2,4 m (8 feet), sâu 6 m (20 feet). Lối đi không làm mất ổn định công trình quanh nó.
 
 Khi lối biến mất, sinh vật hoặc đồ vật còn trong đó được đẩy an toàn đến không gian trống gần bề mặt nơi thi triển nhất.
 
@@ -1575,7 +1575,7 @@ Khi lối biến mất, sinh vật hoặc đồ vật còn trong đó được �
 *Phép sơ cấp Triệu hồi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 10 feet.  
+**Tầm:** 3 m (10 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1588,7 +1588,7 @@ Sát thương tăng 1d12 khi đạt cấp 5 (2d12), 11 (3d12) và 17 (4d12).
 *Mê hoặc bậc 9*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1599,7 +1599,7 @@ Bạn thốt quyền ngôn có thể buộc sinh vật nhìn thấy trong tầm 
 *Mê hoặc bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1612,7 +1612,7 @@ Mục tiêu bị choáng phải cứu nguy Thể chất cuối mỗi lượt. Th
 *Gọi năng lượng bậc 2*
 
 **Thời gian thi triển:** 10 phút.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
@@ -1625,7 +1625,7 @@ Tối đa sáu sinh vật tự chọn nhìn thấy trong tầm mỗi người h�
 *Phép sơ cấp Biến đổi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 10 feet.  
+**Tầm:** 3 m (10 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tối đa 1 giờ.
 
@@ -1633,8 +1633,8 @@ Tối đa sáu sinh vật tự chọn nhìn thấy trong tầm mỗi người h�
 
 - Hiệu ứng giác quan tức thời, vô hại như mưa tia lửa, luồng gió, nốt nhạc mờ hoặc mùi lạ.
 - Lập tức thắp hoặc dập nến, đuốc hay lửa trại nhỏ.
-- Lập tức làm sạch hoặc bẩn đồ vật không lớn hơn 1 foot khối.
-- Làm lạnh, ấm hoặc thêm vị cho tối đa 1 foot khối vật chất không sống trong 1 giờ.
+- Lập tức làm sạch hoặc bẩn đồ vật không lớn hơn 28,3 lít (1 foot khối).
+- Làm lạnh, ấm hoặc thêm vị cho tối đa 28,3 lít (1 foot khối) vật chất không sống trong 1 giờ.
 - Làm màu, dấu nhỏ hoặc biểu tượng xuất hiện trên đồ vật hay bề mặt trong 1 giờ.
 - Tạo đồ lặt vặt không ma thuật hoặc hình ảo vừa tay, tồn tại đến cuối lượt tiếp theo của bạn.
 
@@ -1673,11 +1673,11 @@ Trở về từ cái chết là thử thách khắc nghiệt. Mục tiêu chịu
 *Phép sơ cấp Gọi năng lượng*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Tia sáng xanh trắng lạnh buốt phóng đến sinh vật trong tầm. Tung tấn công phép tầm xa. Trúng gây 1d8 lạnh, giảm tốc độ 10 feet đến đầu lượt tiếp theo của bạn.
+Tia sáng xanh trắng lạnh buốt phóng đến sinh vật trong tầm. Tung tấn công phép tầm xa. Trúng gây 1d8 lạnh, giảm tốc độ 3 m (10 feet) đến đầu lượt tiếp theo của bạn.
 
 Sát thương tăng 1d8 khi đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 
@@ -1751,7 +1751,7 @@ Bạn chạm sinh vật chết trong phút vừa qua. Nó sống lại với 1 �
 *Phép sơ cấp Gọi năng lượng*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
@@ -1764,7 +1764,7 @@ Sát thương tăng 1d8 khi đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 *Phòng hộ bậc 1*
 
 **Thời gian thi triển:** 1 hành động phụ.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, S, M (gương bạc nhỏ).  
 **Thời lượng:** 1 phút.
 
@@ -1777,11 +1777,11 @@ Nếu sinh vật được bảo hộ tấn công, thi triển phép ảnh hưở
 *Gọi năng lượng bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (mảnh mica).  
 **Thời lượng:** Tức thời.
 
-Tiếng ngân lớn đột ngột, dữ dội đến đau đớn, bùng từ điểm chọn trong tầm. Mỗi sinh vật trong cầu bán kính 10 feet tâm tại đó phải cứu nguy Thể chất. Thất bại chịu 3d8 sấm; thành công chịu một nửa. Sinh vật làm từ chất vô cơ như đá, tinh thể hoặc kim loại có bất lợi cứu nguy này.
+Tiếng ngân lớn đột ngột, dữ dội đến đau đớn, bùng từ điểm chọn trong tầm. Mỗi sinh vật trong cầu bán kính 3 m (10 feet) tâm tại đó phải cứu nguy Thể chất. Thất bại chịu 3d8 sấm; thành công chịu một nửa. Sinh vật làm từ chất vô cơ như đá, tinh thể hoặc kim loại có bất lợi cứu nguy này.
 
 Đồ vật không ma thuật, không được mặc hay mang, cũng chịu sát thương nếu trong vùng.
 
@@ -1803,7 +1803,7 @@ Rào lực ma thuật vô hình xuất hiện bảo vệ bạn. Đến đầu l�
 *Phòng hộ bậc 1*
 
 **Thời gian thi triển:** 1 hành động phụ.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (giấy da nhỏ có đoạn kinh văn).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
@@ -1827,22 +1827,22 @@ Sát thương tăng 1d8 khi đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 *Ảo ảnh bậc 2 (nghi thức)*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Suốt thời lượng, không âm thanh nào được tạo trong hoặc đi qua cầu bán kính 20 feet tâm tại điểm chọn trong tầm. Sinh vật hay đồ vật hoàn toàn trong cầu miễn nhiễm sát thương sấm; sinh vật điếc khi hoàn toàn trong đó. Không thể thi triển phép có thành phần lời nói ở đó.
+Suốt thời lượng, không âm thanh nào được tạo trong hoặc đi qua cầu bán kính 6 m (20 feet) tâm tại điểm chọn trong tầm. Sinh vật hay đồ vật hoàn toàn trong cầu miễn nhiễm sát thương sấm; sinh vật điếc khi hoàn toàn trong đó. Không thể thi triển phép có thành phần lời nói ở đó.
 
 ### Hình ảnh im lặng (Silent Image)
 
 *Ảo ảnh bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (ít lông cừu).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn tạo hình đồ vật, sinh vật hoặc hiện tượng thấy được khác không lớn hơn khối lập phương cạnh 15 feet. Hình xuất hiện tại nơi trong tầm, tồn tại suốt thời lượng. Hình chỉ có thị giác, không kèm âm, mùi hoặc hiệu ứng giác quan khác.
+Bạn tạo hình đồ vật, sinh vật hoặc hiện tượng thấy được khác không lớn hơn khối lập phương cạnh 4,5 m (15 feet). Hình xuất hiện tại nơi trong tầm, tồn tại suốt thời lượng. Hình chỉ có thị giác, không kèm âm, mùi hoặc hiệu ứng giác quan khác.
 
 Có thể dùng hành động di chuyển hình đến nơi bất kỳ trong tầm. Khi đổi vị trí, có thể đổi vẻ ngoài để chuyển động tự nhiên; ví dụ, hình sinh vật di chuyển trông như đi bộ.
 
@@ -1853,11 +1853,11 @@ Tiếp xúc vật lý lộ ảo ảnh vì vật xuyên qua. Sinh vật dùng hà
 *Mê hoặc bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 90 feet.  
+**Tầm:** 27 m (90 feet).  
 **Thành phần:** V, S, M (nhúm cát mịn, cánh hoa hồng hoặc con dế).  
 **Thời lượng:** 1 phút.
 
-Phép đưa sinh vật vào giấc ngủ ma thuật. Tung 5d8; tổng là số điểm sinh lực của sinh vật phép có thể ảnh hưởng. Sinh vật trong 20 feet của điểm chọn trong tầm chịu ảnh hưởng theo thứ tự điểm sinh lực hiện tại tăng dần, bỏ qua sinh vật bất tỉnh.
+Phép đưa sinh vật vào giấc ngủ ma thuật. Tung 5d8; tổng là số điểm sinh lực của sinh vật phép có thể ảnh hưởng. Sinh vật trong 6 m (20 feet) của điểm chọn trong tầm chịu ảnh hưởng theo thứ tự điểm sinh lực hiện tại tăng dần, bỏ qua sinh vật bất tỉnh.
 
 Bắt đầu với sinh vật có điểm hiện tại thấp nhất, mỗi sinh vật chịu phép bất tỉnh đến khi phép kết thúc, người ngủ chịu sát thương hoặc ai dùng hành động lay hay tát cho tỉnh. Trừ điểm sinh lực từng sinh vật khỏi tổng trước khi chuyển đến sinh vật có điểm thấp tiếp theo. Điểm sinh lực của sinh vật phải bằng hoặc thấp hơn tổng còn lại để bị ảnh hưởng.
 
@@ -1881,7 +1881,7 @@ Bạn chạm sinh vật sống có 0 điểm sinh lực. Nó trở nên ổn đ�
 *Tử linh bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 10 feet.  
+**Tầm:** 3 m (10 feet).  
 **Thành phần:** V, S, M (hương đang cháy).  
 **Thời lượng:** 10 phút.
 
@@ -1905,11 +1905,11 @@ Bạn ban vẻ giống sự sống và trí tuệ cho xác tự chọn trong t�
 *Triệu hồi bậc 3*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (bán kính 15 feet).  
+**Tầm:** Bản thân (bán kính 4,5 m (15 feet)).  
 **Thành phần:** V, S, M (thánh vật).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn gọi linh thể bảo vệ. Chúng bay quanh trong 15 feet suốt thời lượng. Nếu thiện hoặc trung lập, dạng linh ảnh trông như thiên thần hoặc fey, tùy bạn; nếu ác, trông như fiend.
+Bạn gọi linh thể bảo vệ. Chúng bay quanh trong 4,5 m (15 feet) suốt thời lượng. Nếu thiện hoặc trung lập, dạng linh ảnh trông như thiên thần hoặc fey, tùy bạn; nếu ác, trông như fiend.
 
 Khi thi triển, có thể chỉ định bất kỳ số sinh vật nhìn thấy nào không bị ảnh hưởng. Tốc độ sinh vật chịu phép bị chia đôi trong vùng; khi vào vùng lần đầu trong một lượt hoặc bắt đầu lượt ở đó, nó phải cứu nguy Minh triết. Thất bại chịu 3d8 quang năng nếu bạn thiện hoặc trung lập, hoặc 3d8 hoại tử nếu ác. Thành công chịu một nửa.
 
@@ -1920,13 +1920,13 @@ Khi thi triển, có thể chỉ định bất kỳ số sinh vật nhìn thấy
 *Gọi năng lượng bậc 2*
 
 **Thời gian thi triển:** 1 hành động phụ.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** 1 phút.
 
-Bạn tạo vũ khí linh ảnh lơ lửng trong tầm, tồn tại suốt thời lượng hoặc đến khi thi triển lại. Khi thi triển, có thể tung tấn công phép cận chiến vào sinh vật trong 5 feet của vũ khí. Trúng gây lực bằng 1d8 + hệ số thuộc tính thi triển phép.
+Bạn tạo vũ khí linh ảnh lơ lửng trong tầm, tồn tại suốt thời lượng hoặc đến khi thi triển lại. Khi thi triển, có thể tung tấn công phép cận chiến vào sinh vật trong 1,5 m (5 feet) của vũ khí. Trúng gây lực bằng 1d8 + hệ số thuộc tính thi triển phép.
 
-Bằng hành động phụ trong lượt, có thể di chuyển vũ khí tối đa 20 feet và lặp đòn vào sinh vật trong 5 feet của nó.
+Bằng hành động phụ trong lượt, có thể di chuyển vũ khí tối đa 6 m (20 feet) và lặp đòn vào sinh vật trong 1,5 m (5 feet) của nó.
 
 Vũ khí có dạng tùy chọn. Giáo sĩ của thần gắn với vũ khí cụ thể, như St. Cuthbert với chùy và Thor với búa, khiến hiệu ứng giống vũ khí đó.
 
@@ -1948,7 +1948,7 @@ Phép khiến da thịt sinh vật sẵn lòng bạn chạm cứng như đá. Đ
 *Mê hoặc bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V, M (lưỡi rắn và chút tổ ong hoặc giọt dầu ngọt).  
 **Thời lượng:** Tập trung, tối đa 8 giờ.
 
@@ -1965,11 +1965,11 @@ Nếu bạn hoặc bạn đồng hành gây sát thương mục tiêu, phép k�
 *Gọi năng lượng bậc 8*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 150 feet.  
+**Tầm:** 45 m (150 feet).  
 **Thành phần:** V, S, M (lửa và mẩu đá mặt trời).  
 **Thời lượng:** Tức thời.
 
-Ánh mặt trời rực lóe trong bán kính 60 feet tâm tại điểm chọn trong tầm. Mỗi sinh vật trong ánh sáng phải cứu nguy Thể chất. Thất bại chịu 12d6 quang năng và mù 1 phút. Thành công chịu nửa sát thương, không bị phép làm mù. Xác sống và ooze có bất lợi cứu nguy này.
+Ánh mặt trời rực lóe trong bán kính 18 m (60 feet) tâm tại điểm chọn trong tầm. Mỗi sinh vật trong ánh sáng phải cứu nguy Thể chất. Thất bại chịu 12d6 quang năng và mù 1 phút. Thành công chịu nửa sát thương, không bị phép làm mù. Xác sống và ooze có bất lợi cứu nguy này.
 
 Sinh vật bị mù cứu nguy Thể chất lại cuối mỗi lượt; thành công không còn mù.
 
@@ -1980,11 +1980,11 @@ Phép giải trừ mọi bóng tối trong vùng do phép tạo.
 *Triệu hồi bậc 7*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 10 feet.  
+**Tầm:** 3 m (10 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tức thời.
 
-Phép lập tức chuyển bạn và tối đa tám sinh vật sẵn lòng tự chọn nhìn thấy trong tầm, hoặc một đồ vật nhìn thấy trong tầm, đến đích chọn. Nếu nhắm đồ vật, nó phải vừa hoàn toàn trong khối lập phương cạnh 10 feet và không được sinh vật không sẵn lòng cầm hoặc mang.
+Phép lập tức chuyển bạn và tối đa tám sinh vật sẵn lòng tự chọn nhìn thấy trong tầm, hoặc một đồ vật nhìn thấy trong tầm, đến đích chọn. Nếu nhắm đồ vật, nó phải vừa hoàn toàn trong khối lập phương cạnh 3 m (10 feet) và không được sinh vật không sẵn lòng cầm hoặc mang.
 
 Điểm đến phải được bạn biết và cùng cõi tồn tại. Mức quen thuộc quyết định đến thành công hay không. DM tung d100 và tra bảng.
 
@@ -2006,7 +2006,7 @@ Phép lập tức chuyển bạn và tối đa tám sinh vật sẵn lòng tự 
 
 **Đúng đích (On Target).** Bạn cùng nhóm, hoặc đồ vật mục tiêu, xuất hiện đúng nơi muốn.
 
-**Lệch đích (Off Target).** Bạn cùng nhóm, hoặc đồ vật, xuất hiện cách đích khoảng ngẫu nhiên theo hướng ngẫu nhiên. Khoảng lệch bằng 1d10 × 1d10 phần trăm khoảng định đi. Ví dụ, định đi 120 mile, lệch đích, tung hai d10 được 5 và 3 thì lệch 15 phần trăm, tức 18 mile. DM xác định hướng bằng d8: 1 bắc, 2 đông bắc, 3 đông và tiếp tục quanh la bàn. Nếu định đến thành phố ven biển mà xuất hiện 18 mile ngoài biển, bạn có thể gặp rắc rối.
+**Lệch đích (Off Target).** Bạn cùng nhóm, hoặc đồ vật, xuất hiện cách đích khoảng ngẫu nhiên theo hướng ngẫu nhiên. Khoảng lệch bằng 1d10 × 1d10 phần trăm khoảng định đi. Ví dụ, định đi 192 km (120 mile), lệch đích, tung hai d10 được 5 và 3 thì lệch 15 phần trăm, tức 28,8 km (18 mile). DM xác định hướng bằng d8: 1 bắc, 2 đông bắc, 3 đông và tiếp tục quanh la bàn. Nếu định đến thành phố ven biển mà xuất hiện 28,8 km (18 mile) ngoài biển, bạn có thể gặp rắc rối.
 
 **Vùng tương tự (Similar Area).** Bạn cùng nhóm, hoặc đồ vật, đến khu vực khác tương tự về vẻ ngoài hoặc chủ đề. Ví dụ, định đến phòng thí nghiệm ở nhà nhưng đến phòng pháp sư khác hoặc cửa hàng vật tư giả kim có nhiều công cụ giống phòng mình. Thường đến nơi tương tự gần nhất, nhưng vì phép không có giới hạn khoảng cách, có thể đến bất kỳ đâu trên cõi.
 
@@ -2017,7 +2017,7 @@ Phép lập tức chuyển bạn và tối đa tám sinh vật sẵn lòng tự 
 *Phép sơ cấp Biến đổi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 30 feet.  
+**Tầm:** 9 m (30 feet).  
 **Thành phần:** V.  
 **Thời lượng:** Tối đa 1 phút.
 
@@ -2037,13 +2037,13 @@ Nếu thi triển nhiều lần, có thể có tối đa ba hiệu ứng 1 phút
 *Gọi năng lượng bậc 1*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** Bản thân (khối lập phương cạnh 15 feet).  
+**Tầm:** Bản thân (khối lập phương cạnh 4,5 m (15 feet)).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Làn lực sấm quét từ bạn. Mỗi sinh vật trong khối lập phương cạnh 15 feet xuất phát từ bạn phải cứu nguy Thể chất. Thất bại chịu 2d8 sấm và bị đẩy xa 10 feet. Thành công chịu nửa sát thương, không bị đẩy.
+Làn lực sấm quét từ bạn. Mỗi sinh vật trong khối lập phương cạnh 4,5 m (15 feet) xuất phát từ bạn phải cứu nguy Thể chất. Thất bại chịu 2d8 sấm và bị đẩy xa 3 m (10 feet). Thành công chịu nửa sát thương, không bị đẩy.
 
-Ngoài ra, đồ vật không cố định hoàn toàn trong vùng tự động bị đẩy xa bạn 10 feet; phép phát tiếng sấm nghe xa đến 300 feet.
+Ngoài ra, đồ vật không cố định hoàn toàn trong vùng tự động bị đẩy xa bạn 3 m (10 feet); phép phát tiếng sấm nghe xa đến 90 m (300 feet).
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 2 trở lên, sát thương tăng 1d8 cho mỗi bậc ô vượt bậc 1.
 
@@ -2058,7 +2058,7 @@ Ngoài ra, đồ vật không cố định hoàn toàn trong vùng tự động 
 
 Bạn tạm dừng thời gian cho mọi người trừ mình. Không thời gian trôi với sinh vật khác, trong khi bạn có 1d4 + 1 lượt liên tiếp, dùng hành động và di chuyển bình thường.
 
-Phép kết thúc nếu hành động bạn dùng hoặc hiệu ứng tạo trong thời gian này ảnh hưởng sinh vật khác bạn hoặc đồ vật người khác đang mặc hay mang. Ngoài ra, phép kết thúc nếu đi cách nơi thi triển hơn 1.000 feet.
+Phép kết thúc nếu hành động bạn dùng hoặc hiệu ứng tạo trong thời gian này ảnh hưởng sinh vật khác bạn hoặc đồ vật người khác đang mặc hay mang. Ngoài ra, phép kết thúc nếu đi cách nơi thi triển hơn 300 m (1.000 feet).
 
 ### Phục sinh đích thực (True Resurrection)
 
@@ -2073,7 +2073,7 @@ Bạn chạm sinh vật chết không quá 200 năm do bất kỳ nguyên nhân 
 
 Phép khép mọi vết thương, trung hòa chất độc, chữa mọi bệnh và gỡ mọi lời nguyền khi chết. Thay cơ quan và chi hỏng hoặc thiếu. Nếu từng là xác sống, khôi phục dạng không xác sống.
 
-Phép thậm chí cho cơ thể mới nếu cơ thể gốc không còn; khi đó phải nói tên sinh vật. Nó xuất hiện trong không gian trống bạn chọn trong 10 feet.
+Phép thậm chí cho cơ thể mới nếu cơ thể gốc không còn; khi đó phải nói tên sinh vật. Nó xuất hiện trong không gian trống bạn chọn trong 3 m (10 feet).
 
 ### Nhìn sự thật (True Seeing)
 
@@ -2084,22 +2084,22 @@ Phép thậm chí cho cơ thể mới nếu cơ thể gốc không còn; khi đ�
 **Thành phần:** V, S, M (thuốc mỡ mắt giá 25 gp làm từ bột nấm, nghệ tây và mỡ, bị phép tiêu thụ).  
 **Thời lượng:** 1 giờ.
 
-Phép cho sinh vật sẵn lòng bạn chạm khả năng thấy mọi thứ như thực tế. Suốt thời lượng, nó có chân thị, nhận ra cửa bí mật bị ma thuật giấu và nhìn vào Cõi Ethereal, tất cả đến 120 feet.
+Phép cho sinh vật sẵn lòng bạn chạm khả năng thấy mọi thứ như thực tế. Suốt thời lượng, nó có chân thị, nhận ra cửa bí mật bị ma thuật giấu và nhìn vào Cõi Ethereal, tất cả đến 36 m (120 feet).
 
 ### Tường lửa (Wall of Fire)
 
 *Gọi năng lượng bậc 4*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S, M (mẩu phốt pho nhỏ).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn tạo tường lửa trên bề mặt đặc trong tầm. Tường tối đa dài 60 feet, cao 20 feet, dày 1 foot, hoặc vòng đường kính tối đa 20 feet, cao 20 feet, dày 1 foot. Tường không nhìn xuyên được, tồn tại suốt thời lượng.
+Bạn tạo tường lửa trên bề mặt đặc trong tầm. Tường tối đa dài 18 m (60 feet), cao 6 m (20 feet), dày 0,3 m (1 foot), hoặc vòng đường kính tối đa 6 m (20 feet), cao 6 m (20 feet), dày 0,3 m (1 foot). Tường không nhìn xuyên được, tồn tại suốt thời lượng.
 
 Khi tường xuất hiện, mỗi sinh vật trong vùng phải cứu nguy Khéo léo. Thất bại chịu 5d8 lửa; thành công chịu một nửa.
 
-Một phía chọn khi thi triển gây 5d8 lửa cho sinh vật kết thúc lượt trong 10 feet phía ấy hoặc trong tường. Sinh vật chịu cùng sát thương khi vào tường lần đầu trong một lượt hoặc kết thúc lượt ở đó. Phía kia không gây sát thương.
+Một phía chọn khi thi triển gây 5d8 lửa cho sinh vật kết thúc lượt trong 3 m (10 feet) phía ấy hoặc trong tường. Sinh vật chịu cùng sát thương khi vào tường lần đầu trong một lượt hoặc kết thúc lượt ở đó. Phía kia không gây sát thương.
 
 **Ở bậc cao hơn.** Khi dùng ô bậc 5 trở lên, sát thương tăng 1d8 cho mỗi bậc ô vượt bậc 4.
 
@@ -2108,19 +2108,19 @@ Một phía chọn khi thi triển gây 5d8 lửa cho sinh vật kết thúc lư
 *Gọi năng lượng bậc 5*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 120 feet.  
+**Tầm:** 36 m (120 feet).  
 **Thành phần:** V, S, M (khối granite nhỏ).  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Tường đá đặc không ma thuật xuất hiện tại điểm chọn trong tầm. Tường dày 6 inch, gồm mười tấm 10 × 10 feet. Mỗi tấm liền ít nhất một tấm khác. Hoặc tạo tấm 10 × 20 feet chỉ dày 3 inch.
+Tường đá đặc không ma thuật xuất hiện tại điểm chọn trong tầm. Tường dày 15 cm (6 inch), gồm mười tấm 3 m × 3 m (10 × 10 feet). Mỗi tấm liền ít nhất một tấm khác. Hoặc tạo tấm 3 m × 6 m (10 × 20 feet) chỉ dày 7,5 cm (3 inch).
 
 Nếu tường cắt qua không gian sinh vật khi xuất hiện, nó bị đẩy sang một phía bạn chọn. Nếu sinh vật lẽ ra bị tường, hoặc tường cùng bề mặt đặc khác, vây mọi phía, nó có thể cứu nguy Khéo léo. Thành công cho phép dùng phản ứng di chuyển tối đa tốc độ để không còn bị vây.
 
 Tường có hình tùy ý nhưng không chiếm cùng không gian sinh vật hay đồ vật. Không cần thẳng đứng hoặc nằm trên nền vững, nhưng phải nối và được đá sẵn có đỡ chắc. Vì vậy, có thể bắc cầu qua vực hoặc tạo dốc.
 
-Nếu tạo nhịp dài hơn 20 feet, phải chia đôi kích thước mỗi tấm để tạo phần chống đỡ. Có thể tạo hình thô để làm khe giữa các răng thành, tường chắn trên thành và những chi tiết tương tự.
+Nếu tạo nhịp dài hơn 6 m (20 feet), phải chia đôi kích thước mỗi tấm để tạo phần chống đỡ. Có thể tạo hình thô để làm khe giữa các răng thành, tường chắn trên thành và những chi tiết tương tự.
 
-Tường là đồ vật bằng đá có thể bị phá để mở lỗ. Mỗi tấm AC 15 và 30 điểm sinh lực cho mỗi inch độ dày. Giảm tấm xuống 0 phá nó và có thể khiến tấm nối sụp theo quyết định DM.
+Tường là đồ vật bằng đá có thể bị phá để mở lỗ. Mỗi tấm AC 15 và 30 điểm sinh lực cho mỗi 2,5 cm (1 inch) độ dày. Giảm tấm xuống 0 phá nó và có thể khiến tấm nối sụp theo quyết định DM.
 
 Nếu duy trì tập trung toàn thời lượng, tường thành vĩnh viễn, không thể giải trừ. Nếu không, tường biến mất khi phép kết thúc.
 
@@ -2133,28 +2133,28 @@ Nếu duy trì tập trung toàn thời lượng, tường thành vĩnh viễn, 
 **Thành phần:** V, S, M (hai nhẫn bạch kim, mỗi chiếc trị giá ít nhất 50 gp, bạn và mục tiêu phải đeo suốt thời lượng).  
 **Thời lượng:** 1 giờ.
 
-Phép bảo hộ sinh vật sẵn lòng chạm và tạo liên kết huyền bí đến khi kết thúc. Khi mục tiêu trong 60 feet, nó có +1 AC và cứu nguy, kháng mọi sát thương. Mỗi khi nó chịu sát thương, bạn chịu cùng lượng.
+Phép bảo hộ sinh vật sẵn lòng chạm và tạo liên kết huyền bí đến khi kết thúc. Khi mục tiêu trong 18 m (60 feet), nó có +1 AC và cứu nguy, kháng mọi sát thương. Mỗi khi nó chịu sát thương, bạn chịu cùng lượng.
 
-Phép kết thúc nếu bạn giảm xuống 0 điểm sinh lực hoặc hai người cách hơn 60 feet. Cũng kết thúc nếu thi triển lại lên một trong hai sinh vật liên kết. Bạn có thể dùng hành động chấm dứt.
+Phép kết thúc nếu bạn giảm xuống 0 điểm sinh lực hoặc hai người cách hơn 18 m (60 feet). Cũng kết thúc nếu thi triển lại lên một trong hai sinh vật liên kết. Bạn có thể dùng hành động chấm dứt.
 
 ### Mạng nhện (Web)
 
 *Triệu hồi bậc 2*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 18 m (60 feet).  
 **Thành phần:** V, S, M (ít tơ nhện).  
 **Thời lượng:** Tập trung, tối đa 1 giờ.
 
-Bạn tạo khối tơ dày, dính tại điểm chọn trong tầm. Tơ lấp khối lập phương cạnh 20 feet từ điểm ấy suốt thời lượng. Tơ là địa hình khó đi, che khuất nhẹ vùng.
+Bạn tạo khối tơ dày, dính tại điểm chọn trong tầm. Tơ lấp khối lập phương cạnh 6 m (20 feet) từ điểm ấy suốt thời lượng. Tơ là địa hình khó đi, che khuất nhẹ vùng.
 
-Nếu không neo giữa hai khối đặc như tường hay cây, hoặc trải trên sàn, tường hay trần, tơ sụp vào chính nó và phép kết thúc đầu lượt tiếp theo của bạn. Tơ trải bề mặt phẳng sâu 5 feet.
+Nếu không neo giữa hai khối đặc như tường hay cây, hoặc trải trên sàn, tường hay trần, tơ sụp vào chính nó và phép kết thúc đầu lượt tiếp theo của bạn. Tơ trải bề mặt phẳng sâu 1,5 m (5 feet).
 
 Sinh vật bắt đầu lượt trong tơ hoặc vào tơ trong lượt của mình phải cứu nguy Khéo léo. Thất bại bị kiềm giữ chừng nào ở trong tơ hoặc đến khi thoát.
 
 Sinh vật bị tơ kiềm giữ có thể dùng hành động kiểm tra Sức mạnh chống DC cứu nguy phép. Thành công không còn bị kiềm giữ.
 
-Tơ dễ cháy. Khối tơ cạnh 5 feet tiếp xúc lửa cháy hết trong 1 vòng, gây 2d4 lửa cho sinh vật bắt đầu lượt trong lửa.
+Tơ dễ cháy. Khối tơ cạnh 1,5 m (5 feet) tiếp xúc lửa cháy hết trong 1 vòng, gây 2d4 lửa cho sinh vật bắt đầu lượt trong lửa.
 
 ---
 
