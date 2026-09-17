@@ -1,808 +1,811 @@
 ---
-title: Chương 6 - Equipment (Trang Bị)
+title: Chương 6 - Trang bị
+description: Trang bị trong SRD 5.2.1 - tiền tệ, vũ khí, giáp, công cụ, đồ phiêu lưu, thú cưỡi, dịch vụ và luật chế tạo.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Equipment (Trang Bị)
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Equipment".
 
-## Coins (Tiền Xu)
+## Tiền tệ (Coins)
 
-Các nhân vật thường tìm thấy tiền xu trong các cuộc phiêu lưu và có thể tiêu chúng ở cửa hàng, quán trọ, và các cơ sở kinh doanh khác. Tiền xu có nhiều mệnh giá khác nhau dựa trên giá trị tương đối của chất liệu của chúng. Bảng **Coin Values** liệt kê các loại tiền xu và giá trị của chúng so với Gold Piece, đồng tiền chính của trò chơi. Ví dụ, 100 Copper Pieces có giá trị bằng 1 Gold Piece.
+Nhân vật thường tìm thấy tiền trong các cuộc phiêu lưu và có thể tiêu ở cửa hàng, quán trọ và nơi buôn bán khác. Tiền có nhiều mệnh giá tùy theo giá trị tương đối của kim loại. Bảng **Giá trị tiền tệ** liệt kê các loại tiền và giá trị so với đồng vàng (gold piece, gp), đơn vị tiền chính của trò chơi. Ví dụ, 100 đồng đồng (cp) bằng 1 đồng vàng.
 
-Một đồng xu nặng khoảng một phần ba ounce, vì vậy năm mươi đồng xu nặng một pound.
+Mỗi đồng tiền nặng khoảng một phần ba ounce (khoảng 9 g), nên năm mươi đồng nặng 0,45 kg (1 pound).
 
-**Coin Values (Giá Trị Tiền Xu)**
+**Giá trị tiền tệ (Coin Values)**
 
-| Coin | Value in GP |
+| Loại tiền | Giá trị theo gp |
 |---|---|
-| Copper Piece (CP) | 1/100 |
-| Silver Piece (SP) | 1/10 |
-| Electrum Piece (EP) | 1/2 |
-| Gold Piece (GP) | 1 |
-| Platinum Piece (PP) | 10 |
+| Đồng đồng (Copper Piece, cp) | 1/100 |
+| Đồng bạc (Silver Piece, sp) | 1/10 |
+| Đồng hổ phách (Electrum Piece, ep) | 1/2 |
+| Đồng vàng (Gold Piece, gp) | 1 |
+| Đồng bạch kim (Platinum Piece, pp) | 10 |
 
-## Weapons (Vũ Khí)
+## Vũ khí (Weapons)
 
-Bảng **Weapons** trong phần này trình bày các weapon chính của trò chơi. Bảng liệt kê chi phí và trọng lượng của mỗi weapon, cũng như các chi tiết sau:
+Bảng **Vũ khí** trong phần này trình bày các vũ khí chính của trò chơi, gồm giá, trọng lượng và các chi tiết sau:
 
-- **Category.** Mỗi weapon thuộc về một danh mục: Simple hoặc Martial. Weapon proficiency thường liên quan đến một trong các danh mục này. Ví dụ, bạn có thể có proficiency với Simple weapons.
-- **Melee or Ranged.** Một weapon được phân loại là Melee hoặc Ranged. Một Melee weapon được dùng để tấn công một mục tiêu trong vòng 5 feet, trong khi một Ranged weapon được dùng để tấn công ở khoảng cách xa hơn.
-- **Damage.** Bảng liệt kê lượng damage một weapon gây ra khi kẻ tấn công đánh trúng bằng nó cũng như loại damage đó.
-- **Properties.** Bất kỳ thuộc tính nào một weapon có được liệt kê trong cột Properties. Mỗi thuộc tính được định nghĩa trong phần "Properties."
-- **Mastery.** Mỗi weapon có một thuộc tính mastery, được định nghĩa trong phần "Mastery Properties." Để dùng thuộc tính đó, bạn phải có một feature cho phép bạn dùng nó.
+- **Nhóm (Category).** Mỗi vũ khí thuộc một nhóm: đơn giản hoặc võ thuật. Thành thạo vũ khí thường gắn với một trong hai nhóm này. Ví dụ, bạn có thể thành thạo vũ khí đơn giản.
+- **Cận chiến hay tầm xa (Melee or Ranged).** Vũ khí được xếp loại cận chiến hoặc tầm xa. Vũ khí cận chiến dùng để tấn công mục tiêu trong phạm vi 1,5 m (5 feet), còn vũ khí tầm xa dùng để tấn công ở khoảng cách xa hơn.
+- **Sát thương (Damage).** Bảng ghi lượng sát thương vũ khí gây ra khi đánh trúng và loại sát thương.
+- **Thuộc tính (Properties).** Các thuộc tính của vũ khí nằm ở cột Thuộc tính, được định nghĩa trong phần [Thuộc tính](#thuộc-tính-properties).
+- **Tinh thông (Mastery).** Mỗi vũ khí có một thuộc tính tinh thông, định nghĩa trong phần [Thuộc tính tinh thông](#thuộc-tính-tinh-thông-mastery-properties). Để dùng thuộc tính này, bạn cần một đặc tính cho phép.
 
-> **Selling Equipment**
->
-> Trang bị bán được nửa giá gốc của nó. Ngược lại, hàng hóa thương mại và đồ có giá trị — như đá quý và tác phẩm nghệ thuật — giữ nguyên giá trị đầy đủ trên thị trường. "Magic Items" có giá cho magic item.
+> [!info] Bán trang bị (Selling Equipment)
+> Trang bị bán được một nửa giá gốc. Ngược lại, hàng hóa buôn bán và đồ quý — như đá quý và tác phẩm nghệ thuật — giữ nguyên giá trị trên thị trường. Chương [Vật phẩm ma thuật](10-Magic-Items.md) có giá của vật phẩm ma thuật.
 
-**Weapon Proficiency (Thành Thạo Vũ Khí)**
+**Thành thạo vũ khí (Weapon Proficiency)**
 
-Ai cũng có thể cầm một weapon, nhưng bạn phải có proficiency với nó để cộng Proficiency Bonus vào attack roll bạn thực hiện với nó. Các feature của một player character có thể cung cấp weapon proficiency. Một quái vật có proficiency với bất kỳ weapon nào trong stat block của nó.
+Ai cũng có thể cầm vũ khí, nhưng phải thành thạo mới được cộng thưởng thành thạo khi tung tấn công. Đặc tính của nhân vật người chơi có thể cho thành thạo vũ khí. Quái vật thành thạo mọi vũ khí ghi trong khối thông số của nó.
 
-**Weapons (Vũ Khí)**
+**Vũ khí (Weapons)**
 
-*Simple Melee Weapons*
+*Vũ khí cận chiến đơn giản (Simple Melee Weapons)*
 
-| Name | Damage | Properties | Mastery | Weight | Cost |
+| Tên | Sát thương | Thuộc tính | Tinh thông | Trọng lượng | Giá |
 |---|---|---|---|---|---|
-| Club | 1d4 Bludgeoning | Light | Slow | 2 lb. | 1 SP |
-| Dagger | 1d4 Piercing | Finesse, Light, Thrown (Range 20/60) | Nick | 1 lb. | 2 GP |
-| Greatclub | 1d8 Bludgeoning | Two-Handed | Push | 10 lb. | 2 SP |
-| Handaxe | 1d6 Slashing | Light, Thrown (Range 20/60) | Vex | 2 lb. | 5 GP |
-| Javelin | 1d6 Piercing | Thrown (Range 30/120) | Slow | 2 lb. | 5 SP |
-| Light Hammer | 1d4 Bludgeoning | Light, Thrown (Range 20/60) | Nick | 2 lb. | 2 GP |
-| Mace | 1d6 Bludgeoning | — | Sap | 4 lb. | 5 GP |
-| Quarterstaff | 1d6 Bludgeoning | Versatile (1d8) | Topple | 4 lb. | 2 SP |
-| Sickle | 1d4 Slashing | Light | Nick | 2 lb. | 1 GP |
-| Spear | 1d6 Piercing | Thrown (Range 20/60), Versatile (1d8) | Sap | 3 lb. | 1 GP |
+| Chùy (Club) | 1d4 đập | Nhẹ | Làm chậm | 0,9 kg (2 lb.) | 1 sp |
+| Dao găm (Dagger) | 1d4 xuyên | Tinh xảo, Nhẹ, Ném (tầm 6/18 m; 20/60 ft) | Khía | 0,45 kg (1 lb.) | 2 gp |
+| Chùy lớn (Greatclub) | 1d8 đập | Hai tay | Đẩy | 4,5 kg (10 lb.) | 2 sp |
+| Rìu tay (Handaxe) | 1d6 chém | Nhẹ, Ném (tầm 6/18 m; 20/60 ft) | Quấy rối | 0,9 kg (2 lb.) | 5 gp |
+| Lao (Javelin) | 1d6 xuyên | Ném (tầm 9/36 m; 30/120 ft) | Làm chậm | 0,9 kg (2 lb.) | 5 sp |
+| Búa nhẹ (Light Hammer) | 1d4 đập | Nhẹ, Ném (tầm 6/18 m; 20/60 ft) | Khía | 0,9 kg (2 lb.) | 2 gp |
+| Chùy đầu kim loại (Mace) | 1d6 đập | — | Làm suy yếu | 1,8 kg (4 lb.) | 5 gp |
+| Gậy (Quarterstaff) | 1d6 đập | Đa dụng (1d8) | Quật ngã | 1,8 kg (4 lb.) | 2 sp |
+| Liềm (Sickle) | 1d4 chém | Nhẹ | Khía | 0,9 kg (2 lb.) | 1 gp |
+| Giáo (Spear) | 1d6 xuyên | Ném (tầm 6/18 m; 20/60 ft), Đa dụng (1d8) | Làm suy yếu | 1,35 kg (3 lb.) | 1 gp |
 
-*Simple Ranged Weapons*
+*Vũ khí tầm xa đơn giản (Simple Ranged Weapons)*
 
-| Name | Damage | Properties | Mastery | Weight | Cost |
+| Tên | Sát thương | Thuộc tính | Tinh thông | Trọng lượng | Giá |
 |---|---|---|---|---|---|
-| Dart | 1d4 Piercing | Finesse, Thrown (Range 20/60) | Vex | 1/4 lb. | 5 CP |
-| Light Crossbow | 1d8 Piercing | Ammunition (Range 80/320; Bolt), Loading, Two-Handed | Slow | 5 lb. | 25 GP |
-| Shortbow | 1d6 Piercing | Ammunition (Range 80/320; Arrow), Two-Handed | Vex | 2 lb. | 25 GP |
-| Sling | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet) | Slow | — | 1 SP |
+| Phi tiêu (Dart) | 1d4 xuyên | Tinh xảo, Ném (tầm 6/18 m; 20/60 ft) | Quấy rối | 0,1 kg (1/4 lb.) | 5 cp |
+| Nỏ nhẹ (Light Crossbow) | 1d8 xuyên | Đạn dược (tầm 24/96 m; 80/320 ft; tên nỏ), Nạp đạn, Hai tay | Làm chậm | 2,25 kg (5 lb.) | 25 gp |
+| Cung ngắn (Shortbow) | 1d6 xuyên | Đạn dược (tầm 24/96 m; 80/320 ft; mũi tên), Hai tay | Quấy rối | 0,9 kg (2 lb.) | 25 gp |
+| Ná (Sling) | 1d4 đập | Đạn dược (tầm 9/36 m; 30/120 ft; viên đạn) | Làm chậm | — | 1 sp |
 
-*Martial Melee Weapons*
+*Vũ khí cận chiến võ thuật (Martial Melee Weapons)*
 
-| Name | Damage | Properties | Mastery | Weight | Cost |
+| Tên | Sát thương | Thuộc tính | Tinh thông | Trọng lượng | Giá |
 |---|---|---|---|---|---|
-| Battleaxe | 1d8 Slashing | Versatile (1d10) | Topple | 4 lb. | 10 GP |
-| Flail | 1d8 Bludgeoning | — | Sap | 2 lb. | 10 GP |
-| Glaive | 1d10 Slashing | Heavy, Reach, Two-Handed | Graze | 6 lb. | 20 GP |
-| Greataxe | 1d12 Slashing | Heavy, Two-Handed | Cleave | 7 lb. | 30 GP |
-| Greatsword | 2d6 Slashing | Heavy, Two-Handed | Graze | 6 lb. | 50 GP |
-| Halberd | 1d10 Slashing | Heavy, Reach, Two-Handed | Cleave | 6 lb. | 20 GP |
-| Lance | 1d10 Piercing | Heavy, Reach, Two-Handed (unless mounted) | Topple | 6 lb. | 10 GP |
-| Longsword | 1d8 Slashing | Versatile (1d10) | Sap | 3 lb. | 15 GP |
-| Maul | 2d6 Bludgeoning | Heavy, Two-Handed | Topple | 10 lb. | 10 GP |
-| Morningstar | 1d8 Piercing | — | Sap | 4 lb. | 15 GP |
-| Pike | 1d10 Piercing | Heavy, Reach, Two-Handed | Push | 18 lb. | 5 GP |
-| Rapier | 1d8 Piercing | Finesse | Vex | 2 lb. | 25 GP |
-| Scimitar | 1d6 Slashing | Finesse, Light | Nick | 3 lb. | 25 GP |
-| Shortsword | 1d6 Piercing | Finesse, Light | Vex | 2 lb. | 10 GP |
-| Trident | 1d8 Piercing | Thrown (Range 20/60), Versatile (1d10) | Topple | 4 lb. | 5 GP |
-| Warhammer | 1d8 Bludgeoning | Versatile (1d10) | Push | 5 lb. | 15 GP |
-| War Pick | 1d8 Piercing | Versatile (1d10) | Sap | 2 lb. | 5 GP |
-| Whip | 1d4 Slashing | Finesse, Reach | Slow | 3 lb. | 2 GP |
+| Rìu chiến (Battleaxe) | 1d8 chém | Đa dụng (1d10) | Quật ngã | 1,8 kg (4 lb.) | 10 gp |
+| Chùy xích (Flail) | 1d8 đập | — | Làm suy yếu | 0,9 kg (2 lb.) | 10 gp |
+| Đại đao (Glaive) | 1d10 chém | Nặng, Tầm với, Hai tay | Sượt | 2,7 kg (6 lb.) | 20 gp |
+| Rìu lớn (Greataxe) | 1d12 chém | Nặng, Hai tay | Chẻ | 3,15 kg (7 lb.) | 30 gp |
+| Kiếm lớn (Greatsword) | 2d6 chém | Nặng, Hai tay | Sượt | 2,7 kg (6 lb.) | 50 gp |
+| Kích (Halberd) | 1d10 chém | Nặng, Tầm với, Hai tay | Chẻ | 2,7 kg (6 lb.) | 20 gp |
+| Thương kỵ binh (Lance) | 1d10 xuyên | Nặng, Tầm với, Hai tay (trừ khi đang cưỡi) | Quật ngã | 2,7 kg (6 lb.) | 10 gp |
+| Kiếm dài (Longsword) | 1d8 chém | Đa dụng (1d10) | Làm suy yếu | 1,35 kg (3 lb.) | 15 gp |
+| Búa tạ (Maul) | 2d6 đập | Nặng, Hai tay | Quật ngã | 4,5 kg (10 lb.) | 10 gp |
+| Chùy gai (Morningstar) | 1d8 xuyên | — | Làm suy yếu | 1,8 kg (4 lb.) | 15 gp |
+| Trường thương (Pike) | 1d10 xuyên | Nặng, Tầm với, Hai tay | Đẩy | 8,1 kg (18 lb.) | 5 gp |
+| Kiếm rapier (Rapier) | 1d8 xuyên | Tinh xảo | Quấy rối | 0,9 kg (2 lb.) | 25 gp |
+| Đao cong (Scimitar) | 1d6 chém | Tinh xảo, Nhẹ | Khía | 1,35 kg (3 lb.) | 25 gp |
+| Kiếm ngắn (Shortsword) | 1d6 xuyên | Tinh xảo, Nhẹ | Quấy rối | 0,9 kg (2 lb.) | 10 gp |
+| Đinh ba (Trident) | 1d8 xuyên | Ném (tầm 6/18 m; 20/60 ft), Đa dụng (1d10) | Quật ngã | 1,8 kg (4 lb.) | 5 gp |
+| Búa chiến (Warhammer) | 1d8 đập | Đa dụng (1d10) | Đẩy | 2,25 kg (5 lb.) | 15 gp |
+| Cuốc chiến (War Pick) | 1d8 xuyên | Đa dụng (1d10) | Làm suy yếu | 0,9 kg (2 lb.) | 5 gp |
+| Roi (Whip) | 1d4 chém | Tinh xảo, Tầm với | Làm chậm | 1,35 kg (3 lb.) | 2 gp |
 
-*Martial Ranged Weapons*
+*Vũ khí tầm xa võ thuật (Martial Ranged Weapons)*
 
-| Name | Damage | Properties | Mastery | Weight | Cost |
+| Tên | Sát thương | Thuộc tính | Tinh thông | Trọng lượng | Giá |
 |---|---|---|---|---|---|
-| Blowgun | 1 Piercing | Ammunition (Range 25/100; Needle), Loading | Vex | 1 lb. | 10 GP |
-| Hand Crossbow | 1d6 Piercing | Ammunition (Range 30/120; Bolt), Light, Loading | Vex | 3 lb. | 75 GP |
-| Heavy Crossbow | 1d10 Piercing | Ammunition (Range 100/400; Bolt), Heavy, Loading, Two-Handed | Push | 18 lb. | 50 GP |
-| Longbow | 1d8 Piercing | Ammunition (Range 150/600; Arrow), Heavy, Two-Handed | Slow | 2 lb. | 50 GP |
-| Musket | 1d12 Piercing | Ammunition (Range 40/120; Bullet), Loading, Two-Handed | Slow | 10 lb. | 500 GP |
-| Pistol | 1d10 Piercing | Ammunition (Range 30/90; Bullet), Loading | Vex | 3 lb. | 250 GP |
+| Ống thổi (Blowgun) | 1 xuyên | Đạn dược (tầm 7,5/30 m; 25/100 ft; kim), Nạp đạn | Quấy rối | 0,45 kg (1 lb.) | 10 gp |
+| Nỏ tay (Hand Crossbow) | 1d6 xuyên | Đạn dược (tầm 9/36 m; 30/120 ft; tên nỏ), Nhẹ, Nạp đạn | Quấy rối | 1,35 kg (3 lb.) | 75 gp |
+| Nỏ nặng (Heavy Crossbow) | 1d10 xuyên | Đạn dược (tầm 30/120 m; 100/400 ft; tên nỏ), Nặng, Nạp đạn, Hai tay | Đẩy | 8,1 kg (18 lb.) | 50 gp |
+| Cung dài (Longbow) | 1d8 xuyên | Đạn dược (tầm 45/180 m; 150/600 ft; mũi tên), Nặng, Hai tay | Làm chậm | 0,9 kg (2 lb.) | 50 gp |
+| Súng hỏa mai (Musket) | 1d12 xuyên | Đạn dược (tầm 12/36 m; 40/120 ft; viên đạn), Nạp đạn, Hai tay | Làm chậm | 4,5 kg (10 lb.) | 500 gp |
+| Súng ngắn (Pistol) | 1d10 xuyên | Đạn dược (tầm 9/27 m; 30/90 ft; viên đạn), Nạp đạn | Quấy rối | 1,35 kg (3 lb.) | 250 gp |
 
-### Properties (Thuộc Tính)
+### Thuộc tính (Properties)
 
-Dưới đây là định nghĩa của các thuộc tính trong cột Properties của bảng Weapons.
+Dưới đây là định nghĩa các thuộc tính trong cột Thuộc tính của bảng Vũ khí.
 
-- **Ammunition (Đạn Dược).** Bạn chỉ có thể dùng một weapon có thuộc tính Ammunition để thực hiện một ranged attack nếu bạn có đạn để bắn từ nó. Loại đạn cần thiết được ghi cùng với tầm đánh của weapon. Mỗi lần tấn công tốn một viên đạn. Việc lấy đạn ra là một phần của cuộc tấn công (bạn cần một bàn tay rảnh để nạp một weapon một tay). Sau một trận đánh, bạn có thể dành 1 phút để thu hồi một nửa số đạn (làm tròn xuống) bạn đã dùng trong trận đánh; phần còn lại bị mất.
-- **Finesse (Tinh Xảo).** Khi tấn công bằng một Finesse weapon, hãy dùng Strength hoặc Dexterity modifier theo lựa chọn của bạn cho attack và damage roll. Bạn phải dùng cùng một modifier cho cả hai lượt tung.
-- **Heavy (Nặng).** Bạn có Disadvantage trên attack roll với một Heavy weapon nếu đó là một Melee weapon và Strength score của bạn không đạt ít nhất 13, hoặc nếu đó là một Ranged weapon và Dexterity score của bạn không đạt ít nhất 13.
-- **Light (Nhẹ).** Khi thực hiện action Attack trong turn của mình và tấn công bằng một Light weapon, bạn có thể thực hiện thêm một cuộc tấn công như một Bonus Action sau đó trong cùng turn. Cuộc tấn công thêm đó phải được thực hiện bằng một Light weapon khác, và bạn không cộng ability modifier của mình vào damage của cuộc tấn công thêm trừ khi modifier đó là số âm. Ví dụ, bạn có thể tấn công bằng một Shortsword ở một tay và một Dagger ở tay kia bằng action Attack và một Bonus Action, nhưng bạn không cộng Strength hoặc Dexterity modifier vào damage roll của Bonus Action trừ khi modifier đó là số âm.
-- **Loading (Nạp Đạn).** Bạn chỉ có thể bắn một viên đạn từ một weapon có thuộc tính Loading khi dùng một action, Bonus Action, hoặc Reaction để bắn nó, bất kể số cuộc tấn công bạn thường có thể thực hiện.
-- **Range (Tầm Bắn).** Một Range weapon có tầm đánh trong ngoặc đơn sau thuộc tính Ammunition hoặc Thrown. Tầm đánh liệt kê hai con số. Con số đầu tiên là tầm đánh bình thường của weapon tính bằng feet, và con số thứ hai là tầm đánh xa của weapon. Khi tấn công một mục tiêu ngoài tầm đánh bình thường, bạn có Disadvantage trên attack roll. Bạn không thể tấn công một mục tiêu ngoài tầm đánh xa.
-- **Reach (Tầm Với).** Một Reach weapon cộng thêm 5 feet vào tầm với của bạn khi tấn công bằng nó, cũng như khi xác định tầm với của bạn cho Opportunity Attack với nó.
-- **Thrown (Ném).** Nếu một weapon có thuộc tính Thrown, bạn có thể ném weapon đó để thực hiện một ranged attack, và bạn có thể rút weapon đó như một phần của cuộc tấn công. Nếu weapon đó là một Melee weapon, hãy dùng cùng ability modifier cho attack và damage roll mà bạn dùng cho một melee attack với weapon đó.
-- **Two-Handed (Hai Tay).** Một Two-Handed weapon yêu cầu hai tay khi bạn tấn công bằng nó.
-- **Versatile (Đa Dụng).** Một Versatile weapon có thể được dùng bằng một hoặc hai tay. Một giá trị damage trong ngoặc đơn xuất hiện cùng thuộc tính này. Weapon gây damage đó khi được dùng bằng hai tay để thực hiện một melee attack.
+- **Đạn dược (Ammunition).** Bạn chỉ dùng được vũ khí có thuộc tính Đạn dược để tấn công tầm xa nếu có đạn để bắn. Loại đạn cần dùng được ghi cùng tầm của vũ khí. Mỗi đòn tấn công tiêu tốn một viên đạn. Lấy đạn là một phần của đòn tấn công (bạn cần một tay rảnh để nạp vũ khí một tay). Sau trận chiến, bạn có thể dành 1 phút để thu hồi một nửa số đạn đã dùng (làm tròn xuống); phần còn lại bị mất.
+- **Tinh xảo (Finesse).** Khi tấn công bằng vũ khí Tinh xảo, bạn chọn dùng hệ số Sức mạnh hoặc Khéo léo cho lần tung tấn công và sát thương. Bạn phải dùng cùng một hệ số cho cả hai lần tung.
+- **Nặng (Heavy).** Bạn chịu bất lợi khi tung tấn công bằng vũ khí Nặng nếu đó là vũ khí cận chiến và Sức mạnh của bạn dưới 13, hoặc là vũ khí tầm xa và Khéo léo của bạn dưới 13.
+- **Nhẹ (Light).** Khi dùng hành động Tấn công trong lượt và tấn công bằng vũ khí Nhẹ, bạn có thể thực hiện thêm một đòn tấn công bằng hành động phụ trong cùng lượt. Đòn thêm phải dùng một vũ khí Nhẹ khác, và bạn không cộng hệ số thuộc tính vào sát thương của đòn thêm trừ khi hệ số âm. Ví dụ, bạn có thể đánh bằng Kiếm ngắn ở một tay và Dao găm ở tay kia bằng hành động Tấn công và một hành động phụ, nhưng không cộng hệ số Sức mạnh hoặc Khéo léo vào sát thương của hành động phụ trừ khi hệ số đó âm.
+- **Nạp đạn (Loading).** Mỗi lần dùng hành động, hành động phụ hoặc phản ứng để bắn vũ khí có thuộc tính Nạp đạn, bạn chỉ bắn được một viên, bất kể bình thường bạn tấn công được bao nhiêu lần.
+- **Tầm (Range).** Vũ khí có tầm ghi giá trị tầm trong ngoặc sau thuộc tính Đạn dược hoặc Ném. Giá trị gồm hai số: số đầu là tầm thường, số sau là tầm xa. Khi tấn công mục tiêu ngoài tầm thường, bạn chịu bất lợi. Bạn không thể tấn công mục tiêu ngoài tầm xa.
+- **Tầm với (Reach).** Vũ khí có Tầm với cộng thêm 1,5 m (5 feet) vào tầm với của bạn khi tấn công bằng nó, cũng như khi xác định tầm với để tấn công cơ hội bằng nó.
+- **Ném (Thrown).** Nếu vũ khí có thuộc tính Ném, bạn có thể ném nó để tấn công tầm xa, và rút vũ khí là một phần của đòn tấn công. Nếu là vũ khí cận chiến, hãy dùng cùng hệ số thuộc tính khi tung tấn công và sát thương như khi đánh cận chiến bằng nó.
+- **Hai tay (Two-Handed).** Vũ khí Hai tay cần cả hai tay khi tấn công.
+- **Đa dụng (Versatile).** Vũ khí Đa dụng dùng được bằng một hoặc hai tay. Giá trị sát thương trong ngoặc đi kèm thuộc tính này là sát thương khi dùng hai tay để tấn công cận chiến.
 
-### Mastery Properties (Thuộc Tính Tinh Thông)
+### Thuộc tính tinh thông (Mastery Properties)
 
-Mỗi weapon có một thuộc tính mastery, chỉ có thể được dùng bởi một nhân vật có một feature, chẳng hạn Weapon Mastery, mở khóa thuộc tính đó cho nhân vật. Các thuộc tính được định nghĩa dưới đây.
+Mỗi vũ khí có một thuộc tính tinh thông, chỉ dùng được bởi nhân vật có đặc tính mở khóa nó, chẳng hạn Tinh thông vũ khí. Các thuộc tính được định nghĩa dưới đây.
 
-> **Improvised Weapons**
->
-> Nếu bạn dùng một object — chẳng hạn chân bàn, chảo rán, hoặc chai — làm weapon tạm bợ, xem "Improvised Weapons" trong "Rules Glossary." Cũng xem các quy tắc đó nếu bạn cầm một weapon theo cách khác thường, chẳng hạn dùng một Ranged weapon để thực hiện một melee attack.
+> [!info] Vũ khí ứng biến (Improvised Weapons)
+> Nếu bạn dùng một đồ vật — như chân bàn, chảo rán hay cái chai — làm vũ khí tạm, xem mục Vũ khí ứng biến trong [Bảng thuật ngữ luật](08-Rules-Glossary.md). Cũng xem các quy tắc đó nếu bạn dùng vũ khí theo cách khác thường, chẳng hạn dùng vũ khí tầm xa để đánh cận chiến.
 
-- **Cleave (Chém Xuyên).** Nếu bạn đánh trúng một creature bằng một melee attack roll dùng weapon này, bạn có thể thực hiện một melee attack roll bằng weapon đó nhắm vào một creature thứ hai trong vòng 5 feet của creature đầu tiên và cũng trong tầm với của bạn. Nếu trúng, creature thứ hai nhận damage của weapon, nhưng đừng cộng ability modifier của bạn vào damage đó trừ khi modifier đó là số âm. Bạn chỉ có thể thực hiện cuộc tấn công thêm này một lần mỗi turn.
-- **Graze (Sượt Qua).** Nếu attack roll của bạn bằng weapon này trượt một creature, bạn có thể gây damage lên creature đó bằng ability modifier bạn dùng để thực hiện attack roll. Damage này cùng loại với damage do weapon gây ra, và damage này chỉ có thể tăng bằng cách tăng ability modifier.
-- **Nick (Nhanh Tay).** Khi thực hiện cuộc tấn công thêm của thuộc tính Light, bạn có thể thực hiện nó như một phần của action Attack thay vì như một Bonus Action. Bạn chỉ có thể thực hiện cuộc tấn công thêm này một lần mỗi turn.
-- **Push (Đẩy Lùi).** Nếu bạn đánh trúng một creature bằng weapon này, bạn có thể đẩy creature đó tối đa 10 feet thẳng ra xa bạn nếu nó có kích thước Large trở xuống.
-- **Sap (Suy Yếu).** Nếu bạn đánh trúng một creature bằng weapon này, creature đó có Disadvantage trên attack roll tiếp theo của nó trước khi bắt đầu turn tiếp theo của bạn.
-- **Slow (Làm Chậm).** Nếu bạn đánh trúng một creature bằng weapon này và gây damage lên nó, bạn có thể giảm Speed của nó 10 feet cho đến khi bắt đầu turn tiếp theo của bạn. Nếu creature bị đánh trúng nhiều hơn một lần bởi các weapon có thuộc tính này, mức giảm Speed không vượt quá 10 feet.
-- **Topple (Quật Ngã).** Nếu bạn đánh trúng một creature bằng weapon này, bạn có thể buộc creature đó thực hiện một Constitution saving throw (DC bằng 8 cộng với ability modifier dùng để thực hiện attack roll và Proficiency Bonus của bạn). Nếu thất bại, creature có condition Prone.
-- **Vex (Khiêu Khích).** Nếu bạn đánh trúng một creature bằng weapon này và gây damage lên creature đó, bạn có Advantage trên attack roll tiếp theo của mình nhắm vào creature đó trước khi kết thúc turn tiếp theo của bạn.
+- **Chẻ (Cleave).** Nếu đánh trúng một sinh vật bằng lần tung tấn công cận chiến với vũ khí này, bạn có thể tung tấn công cận chiến bằng vũ khí đó nhắm vào sinh vật thứ hai trong phạm vi 1,5 m (5 feet) quanh sinh vật đầu tiên và trong tầm với của bạn. Nếu trúng, sinh vật thứ hai chịu sát thương của vũ khí, nhưng không cộng hệ số thuộc tính trừ khi hệ số âm. Mỗi lượt bạn chỉ thực hiện đòn thêm này một lần.
+- **Sượt (Graze).** Nếu lần tung tấn công bằng vũ khí này trượt một sinh vật, bạn có thể gây sát thương lên nó bằng hệ số thuộc tính đã dùng để tung tấn công. Sát thương cùng loại với sát thương của vũ khí, và chỉ tăng được khi tăng hệ số thuộc tính.
+- **Khía (Nick).** Khi thực hiện đòn tấn công thêm của thuộc tính Nhẹ, bạn có thể thực hiện nó như một phần của hành động Tấn công thay vì bằng hành động phụ. Mỗi lượt bạn chỉ thực hiện đòn thêm này một lần.
+- **Đẩy (Push).** Nếu đánh trúng một sinh vật bằng vũ khí này, bạn có thể đẩy nó thẳng ra xa tối đa 3 m (10 feet) nếu nó cỡ Lớn trở xuống.
+- **Làm suy yếu (Sap).** Nếu đánh trúng một sinh vật bằng vũ khí này, sinh vật đó chịu bất lợi ở lần tung tấn công kế tiếp trước đầu lượt kế tiếp của bạn.
+- **Làm chậm (Slow).** Nếu đánh trúng và gây sát thương lên một sinh vật bằng vũ khí này, bạn có thể giảm Tốc độ của nó 3 m (10 feet) cho đến đầu lượt kế tiếp của bạn. Nếu sinh vật bị đánh trúng nhiều lần bởi vũ khí có thuộc tính này, mức giảm Tốc độ không vượt quá 3 m (10 feet).
+- **Quật ngã (Topple).** Nếu đánh trúng một sinh vật bằng vũ khí này, bạn có thể buộc nó cứu nguy Thể chất (DC bằng 8 + hệ số thuộc tính đã dùng để tung tấn công + thưởng thành thạo). Nếu thất bại, sinh vật rơi vào trạng thái Ngã sấp.
+- **Quấy rối (Vex).** Nếu đánh trúng và gây sát thương lên một sinh vật bằng vũ khí này, bạn có lợi thế ở lần tung tấn công kế tiếp nhắm vào sinh vật đó trước khi kết thúc lượt kế tiếp của bạn.
 
-## Armor (Giáp)
+## Giáp (Armor)
 
-Bảng **Armor** liệt kê các loại armor chính của trò chơi. Bảng bao gồm chi phí và trọng lượng của armor, cũng như các chi tiết sau:
+Bảng **Giáp** liệt kê các loại giáp chính của trò chơi, gồm giá, trọng lượng và các chi tiết sau:
 
-- **Category.** Mỗi loại armor thuộc về một danh mục: Light, Medium, hoặc Heavy. Danh mục quyết định thời gian cần để mặc hoặc cởi armor (như trong bảng).
-- **Armor Class (AC).** Cột Armor Class của bảng cho bạn biết base AC của bạn khi mặc một loại armor. Ví dụ, nếu bạn mặc Leather Armor, base AC của bạn là 11 cộng với Dexterity modifier của bạn, trong khi AC của bạn là 16 khi mặc Chain Mail.
-- **Strength.** Nếu bảng hiện một Strength score trong cột Strength cho một loại armor, armor đó làm giảm Speed của người mặc 10 feet trừ khi người mặc có Strength score bằng hoặc cao hơn số được liệt kê.
-- **Stealth.** Nếu bảng hiện "Disadvantage" trong cột Stealth cho một loại armor, người mặc có Disadvantage trên Dexterity (Stealth) check.
+- **Nhóm (Category).** Mỗi loại giáp thuộc một nhóm: nhẹ, trung bình hoặc nặng. Nhóm quyết định thời gian mặc và cởi giáp (như trong bảng).
+- **Chỉ số giáp (Armor Class, AC).** Cột Chỉ số giáp cho biết AC cơ bản khi mặc loại giáp đó. Ví dụ, mặc Giáp da (Leather Armor), AC cơ bản của bạn là 11 + hệ số Khéo léo, còn mặc Giáp xích (Chain Mail) thì AC là 16.
+- **Sức mạnh (Strength).** Nếu cột Sức mạnh ghi một điểm Sức mạnh cho loại giáp, giáp đó giảm Tốc độ của người mặc 3 m (10 feet) trừ khi người mặc có Sức mạnh bằng hoặc cao hơn số đó.
+- **Lén lút (Stealth).** Nếu cột Lén lút ghi "Bất lợi", người mặc chịu bất lợi khi kiểm tra Khéo léo (Lén lút).
 
-**Armor (Giáp)**
+**Giáp (Armor)**
 
-| Armor | Armor Class (AC) | Strength | Stealth | Weight | Cost |
+| Giáp | Chỉ số giáp (AC) | Sức mạnh | Lén lút | Trọng lượng | Giá |
 |---|---|---|---|---|---|
-| **Light Armor (1 phút để mặc hoặc cởi)** | | | | | |
-| Padded Armor | 11 + Dex modifier | — | Disadvantage | 8 lb. | 5 GP |
-| Leather Armor | 11 + Dex modifier | — | — | 10 lb. | 10 GP |
-| Studded Leather Armor | 12 + Dex modifier | — | — | 13 lb. | 45 GP |
-| **Medium Armor (5 phút để mặc, 1 phút để cởi)** | | | | | |
-| Hide Armor | 12 + Dex modifier (tối đa 2) | — | — | 12 lb. | 10 GP |
-| Chain Shirt | 13 + Dex modifier (tối đa 2) | — | — | 20 lb. | 50 GP |
-| Scale Mail | 14 + Dex modifier (tối đa 2) | — | Disadvantage | 45 lb. | 50 GP |
-| Breastplate | 14 + Dex modifier (tối đa 2) | — | — | 20 lb. | 400 GP |
-| Half Plate Armor | 15 + Dex modifier (tối đa 2) | — | Disadvantage | 40 lb. | 750 GP |
-| **Heavy Armor (10 phút để mặc, 5 phút để cởi)** | | | | | |
-| Ring Mail | 14 | — | Disadvantage | 40 lb. | 30 GP |
-| Chain Mail | 16 | Str 13 | Disadvantage | 55 lb. | 75 GP |
-| Splint Armor | 17 | Str 15 | Disadvantage | 60 lb. | 200 GP |
-| Plate Armor | 18 | Str 15 | Disadvantage | 65 lb. | 1.500 GP |
-| **Shield (action Utilize để mặc hoặc cởi)** | | | | | |
-| Shield | +2 | — | — | 6 lb. | 10 GP |
+| **Giáp nhẹ (1 phút để mặc hoặc cởi)** | | | | | |
+| Giáp độn (Padded Armor) | 11 + hệ số DEX | — | Bất lợi | 3,6 kg (8 lb.) | 5 gp |
+| Giáp da (Leather Armor) | 11 + hệ số DEX | — | — | 4,5 kg (10 lb.) | 10 gp |
+| Giáp da đinh tán (Studded Leather Armor) | 12 + hệ số DEX | — | — | 5,85 kg (13 lb.) | 45 gp |
+| **Giáp trung bình (5 phút để mặc, 1 phút để cởi)** | | | | | |
+| Giáp da thú (Hide Armor) | 12 + hệ số DEX (tối đa 2) | — | — | 5,4 kg (12 lb.) | 10 gp |
+| Áo xích (Chain Shirt) | 13 + hệ số DEX (tối đa 2) | — | — | 9 kg (20 lb.) | 50 gp |
+| Giáp vảy (Scale Mail) | 14 + hệ số DEX (tối đa 2) | — | Bất lợi | 20,25 kg (45 lb.) | 50 gp |
+| Giáp ngực (Breastplate) | 14 + hệ số DEX (tối đa 2) | — | — | 9 kg (20 lb.) | 400 gp |
+| Giáp nửa tấm (Half Plate Armor) | 15 + hệ số DEX (tối đa 2) | — | Bất lợi | 18 kg (40 lb.) | 750 gp |
+| **Giáp nặng (10 phút để mặc, 5 phút để cởi)** | | | | | |
+| Giáp vòng (Ring Mail) | 14 | — | Bất lợi | 18 kg (40 lb.) | 30 gp |
+| Giáp xích (Chain Mail) | 16 | STR 13 | Bất lợi | 24,75 kg (55 lb.) | 75 gp |
+| Giáp thanh (Splint Armor) | 17 | STR 15 | Bất lợi | 27 kg (60 lb.) | 200 gp |
+| Giáp tấm (Plate Armor) | 18 | STR 15 | Bất lợi | 29,25 kg (65 lb.) | 1.500 gp |
+| **Khiên (hành động Sử dụng để cầm lên hoặc bỏ xuống)** | | | | | |
+| Khiên (Shield) | +2 | — | — | 2,7 kg (6 lb.) | 10 gp |
 
-**Armor Training (Huấn Luyện Giáp)**
+**Huấn luyện giáp (Armor Training)**
 
-Ai cũng có thể mặc armor hoặc cầm một Shield, nhưng chỉ những người được huấn luyện mới có thể sử dụng chúng hiệu quả, như giải thích dưới đây. Class và các feature khác của một nhân vật xác định armor training của nhân vật đó. Một quái vật có training với bất kỳ armor nào trong stat block của nó.
+Ai cũng có thể mặc giáp hoặc cầm Khiên, nhưng chỉ người được huấn luyện mới dùng hiệu quả, như giải thích dưới đây. Lớp nhân vật và các đặc tính khác quyết định nhân vật được huấn luyện với loại giáp nào. Quái vật được huấn luyện với mọi loại giáp ghi trong khối thông số.
 
-- **Light, Medium, or Heavy Armor.** Nếu bạn mặc Light, Medium, hoặc Heavy armor và không có training với nó, bạn có Disadvantage trên bất kỳ D20 Test nào liên quan đến Strength hoặc Dexterity, và bạn không thể thi triển spell.
-- **Shield.** Bạn chỉ nhận lợi ích Armor Class của một Shield nếu bạn có training với nó.
-- **One at a Time.** Một creature chỉ có thể mặc một bộ armor tại một thời điểm và chỉ dùng một Shield tại một thời điểm.
+- **Giáp nhẹ, trung bình hoặc nặng.** Nếu mặc giáp nhẹ, trung bình hoặc nặng mà không được huấn luyện, bạn chịu bất lợi ở mọi phép thử d20 liên quan đến Sức mạnh hoặc Khéo léo, và không thể thi triển phép.
+- **Khiên (Shield).** Bạn chỉ nhận lợi ích AC của Khiên nếu được huấn luyện với nó.
+- **Mỗi lúc một bộ (One at a Time).** Mỗi lúc, một sinh vật chỉ mặc được một bộ giáp và dùng được một Khiên.
 
-## Tools (Công Cụ)
+## Công cụ (Tools)
 
-Một tool giúp bạn thực hiện các ability check chuyên biệt, chế tạo một số vật phẩm nhất định, hoặc cả hai. Mô tả của một tool bao gồm chi phí và trọng lượng của tool, cũng như các mục sau:
+Công cụ giúp bạn thực hiện các phép kiểm tra thuộc tính chuyên biệt, chế tạo một số vật phẩm, hoặc cả hai. Mô tả công cụ gồm giá, trọng lượng và các mục sau:
 
-- **Ability.** Mục này liệt kê ability dùng khi thực hiện một ability check với tool.
-- **Utilize.** Mục này liệt kê những việc bạn có thể làm với tool khi thực hiện action Utilize. Bạn có thể làm một trong những việc đó mỗi lần thực hiện action. Mục này cũng cung cấp DC cho action đó.
-- **Craft.** Mục này liệt kê những gì, nếu có, bạn có thể chế tạo bằng tool. Để biết luật chế tạo, xem "Crafting Nonmagical Items," "Brewing Potions of Healing," và "Scribing Spell Scrolls" sau trong "Equipment."
-- **Variants.** Mục này xuất hiện nếu tool có các biến thể, được liệt kê. Mỗi biến thể yêu cầu một proficiency riêng.
+- **Thuộc tính (Ability).** Thuộc tính dùng khi kiểm tra thuộc tính với công cụ.
+- **Sử dụng (Utilize).** Những việc bạn làm được với công cụ khi dùng hành động Sử dụng. Mỗi lần dùng hành động, bạn làm được một việc trong số đó. Mục này cũng ghi DC của hành động.
+- **Chế tạo (Craft).** Những thứ bạn chế tạo được bằng công cụ (nếu có). Để biết luật chế tạo, xem [Chế tạo vật phẩm không có ma thuật](#chế-tạo-vật-phẩm-không-có-ma-thuật-crafting-nonmagical-items), [Pha chế Thuốc chữa lành](#pha-chế-thuốc-chữa-lành-brewing-potions-of-healing) và [Chép Cuộn phép](#chép-cuộn-phép-scribing-spell-scrolls) ở cuối chương.
+- **Biến thể (Variants).** Mục này xuất hiện nếu công cụ có các biến thể. Mỗi biến thể đòi hỏi thành thạo riêng.
 
-**Tool Proficiency (Thành Thạo Công Cụ)**
+**Thành thạo công cụ (Tool Proficiency)**
 
-Nếu có proficiency với một tool, bạn cộng Proficiency Bonus vào bất kỳ ability check nào bạn thực hiện có dùng tool đó. Nếu bạn có proficiency trong một skill được dùng cùng check đó, bạn có Advantage trên check đó luôn.
+Nếu thành thạo một công cụ, bạn cộng thưởng thành thạo vào mọi phép kiểm tra thuộc tính có dùng công cụ đó. Nếu cũng thành thạo kỹ năng áp dụng cho phép kiểm tra ấy, bạn còn có lợi thế.
 
-Các feature của bạn có thể cho bạn proficiency với một tool. Một quái vật có proficiency với bất kỳ tool nào trong stat block của nó.
+Đặc tính của bạn có thể cho thành thạo công cụ. Quái vật thành thạo mọi công cụ ghi trong khối thông số.
 
-### Artisan's Tools (Công Cụ Thợ Thủ Công)
+### Công cụ thợ thủ công (Artisan's Tools)
 
-Artisan's Tools mỗi loại tập trung vào việc chế tạo vật phẩm và theo đuổi một nghề. Mỗi tool trong số này yêu cầu một proficiency riêng.
+Mỗi loại công cụ thợ thủ công chuyên dùng để chế tạo vật phẩm và hành nghề. Mỗi loại đòi hỏi thành thạo riêng.
 
-**Alchemist's Supplies (50 GP)** — Ability: Intelligence — Weight: 8 lb.
-- Utilize: Nhận diện một chất (DC 15), hoặc nhóm lửa (DC 15)
-- Craft: Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
+**Đồ nghề giả kim (Alchemist's Supplies; 50 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 3,6 kg (8 lb.)
+- Sử dụng: Nhận diện một chất (DC 15), hoặc nhóm lửa (DC 15)
+- Chế tạo: Axit, Lửa giả kim, Túi thành phần, Dầu, Giấy, Dầu thơm
 
-**Brewer's Supplies (20 GP)** — Ability: Intelligence — Weight: 9 lb.
-- Utilize: Phát hiện đồ uống bị bỏ độc (DC 15), hoặc nhận diện rượu (DC 10)
-- Craft: Antitoxin
+**Đồ nghề nấu rượu (Brewer's Supplies; 20 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 4,05 kg (9 lb.)
+- Sử dụng: Phát hiện đồ uống bị bỏ độc (DC 15), hoặc nhận biết loại rượu (DC 10)
+- Chế tạo: Thuốc giải độc
 
-**Calligrapher's Supplies (10 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Viết văn bản với nét chữ ấn tượng để chống làm giả (DC 15)
-- Craft: Ink, Spell Scroll
+**Đồ nghề thư pháp (Calligrapher's Supplies; 10 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Viết chữ bay bướm, khó làm giả (DC 15)
+- Chế tạo: Mực, Cuộn phép
 
-**Carpenter's Tools (8 GP)** — Ability: Strength — Weight: 6 lb.
-- Utilize: Bịt kín hoặc cạy mở một cánh cửa hay hộp đựng (DC 20)
-- Craft: Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
+**Đồ nghề thợ mộc (Carpenter's Tools; 8 gp)** — Thuộc tính: Sức mạnh — Trọng lượng: 2,7 kg (6 lb.)
+- Sử dụng: Đóng kín hoặc cạy mở cửa hay thùng chứa (DC 20)
+- Chế tạo: Chùy, Chùy lớn, Gậy, Thùng tô-nô, Rương, Thang, Sào, Cây phá cửa, Đuốc
 
-**Cartographer's Tools (15 GP)** — Ability: Wisdom — Weight: 6 lb.
-- Utilize: Vẽ bản đồ một khu vực nhỏ (DC 15)
-- Craft: Map
+**Đồ nghề vẽ bản đồ (Cartographer's Tools; 15 gp)** — Thuộc tính: Minh triết — Trọng lượng: 2,7 kg (6 lb.)
+- Sử dụng: Vẽ bản đồ một khu vực nhỏ (DC 15)
+- Chế tạo: Bản đồ
 
-**Cobbler's Tools (5 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Chỉnh sửa giày để cho Advantage vào Dexterity (Acrobatics) check tiếp theo của người mang (DC 10)
-- Craft: Climber's Kit
+**Đồ nghề thợ giày (Cobbler's Tools; 5 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Chỉnh sửa giày để người mang có lợi thế ở lần kiểm tra Khéo léo (Nhào lộn) kế tiếp (DC 10)
+- Chế tạo: Bộ đồ leo núi
 
-**Cook's Utensils (1 GP)** — Ability: Wisdom — Weight: 8 lb.
-- Utilize: Cải thiện hương vị món ăn (DC 10), hoặc phát hiện thức ăn hỏng hoặc bị bỏ độc (DC 15)
-- Craft: Rations
+**Dụng cụ nấu ăn (Cook's Utensils; 1 gp)** — Thuộc tính: Minh triết — Trọng lượng: 3,6 kg (8 lb.)
+- Sử dụng: Làm món ăn ngon hơn (DC 10), hoặc phát hiện thức ăn hỏng hay bị bỏ độc (DC 15)
+- Chế tạo: Lương khô
 
-**Glassblower's Tools (30 GP)** — Ability: Intelligence — Weight: 5 lb.
-- Utilize: Nhận biết những gì một vật thủy tinh đã chứa trong 24 giờ qua (DC 15)
-- Craft: Glass Bottle, Magnifying Glass, Spyglass, Vial
+**Đồ nghề thổi thủy tinh (Glassblower's Tools; 30 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Biết một đồ thủy tinh đã chứa gì trong 24 giờ qua (DC 15)
+- Chế tạo: Chai thủy tinh, Kính lúp, Kính viễn vọng, Lọ nhỏ
 
-**Jeweler's Tools (25 GP)** — Ability: Intelligence — Weight: 2 lb.
-- Utilize: Nhận biết giá trị của một viên đá quý (DC 15)
-- Craft: Arcane Focus, Holy Symbol
+**Đồ nghề kim hoàn (Jeweler's Tools; 25 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 0,9 kg (2 lb.)
+- Sử dụng: Định giá một viên đá quý (DC 15)
+- Chế tạo: Tiêu điểm huyền thuật, Biểu tượng thánh
 
-**Leatherworker's Tools (5 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Thêm một hoa văn lên một vật bằng da (DC 10)
-- Craft: Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+**Đồ nghề thợ da (Leatherworker's Tools; 5 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Tạo hoa văn trên đồ da (DC 10)
+- Chế tạo: Ná, Roi, Giáp da thú, Giáp da, Giáp da đinh tán, Ba lô, Hộp tên nỏ, Ống đựng bản đồ hoặc cuộn giấy, Giấy da, Túi nhỏ, Ống tên, Túi nước
 
-**Mason's Tools (10 GP)** — Ability: Strength — Weight: 8 lb.
-- Utilize: Khắc một ký hiệu hoặc lỗ trên đá (DC 10)
-- Craft: Block and Tackle
+**Đồ nghề thợ nề (Mason's Tools; 10 gp)** — Thuộc tính: Sức mạnh — Trọng lượng: 3,6 kg (8 lb.)
+- Sử dụng: Đục ký hiệu hoặc lỗ trên đá (DC 10)
+- Chế tạo: Ròng rọc
 
-**Painter's Supplies (10 GP)** — Ability: Wisdom — Weight: 5 lb.
-- Utilize: Vẽ một hình ảnh có thể nhận ra của thứ bạn đã thấy (DC 10)
-- Craft: Druidic Focus, Holy Symbol
+**Đồ nghề họa sĩ (Painter's Supplies; 10 gp)** — Thuộc tính: Minh triết — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Vẽ lại một thứ bạn đã thấy đủ để nhận ra (DC 10)
+- Chế tạo: Tiêu điểm druid, Biểu tượng thánh
 
-**Potter's Tools (10 GP)** — Ability: Intelligence — Weight: 3 lb.
-- Utilize: Nhận biết những gì một vật gốm đã chứa trong 24 giờ qua (DC 15)
-- Craft: Jug, Lamp
+**Đồ nghề thợ gốm (Potter's Tools; 10 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 1,35 kg (3 lb.)
+- Sử dụng: Biết một đồ gốm đã chứa gì trong 24 giờ qua (DC 15)
+- Chế tạo: Bình, Đèn dầu
 
-**Smith's Tools (20 GP)** — Ability: Strength — Weight: 8 lb.
-- Utilize: Cạy mở một cánh cửa hoặc hộp đựng (DC 20)
-- Craft: Bất kỳ Melee weapon nào (trừ Club, Greatclub, Quarterstaff, và Whip), Medium armor (trừ Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+**Đồ nghề thợ rèn (Smith's Tools; 20 gp)** — Thuộc tính: Sức mạnh — Trọng lượng: 3,6 kg (8 lb.)
+- Sử dụng: Cạy mở cửa hoặc thùng chứa (DC 20)
+- Chế tạo: Mọi vũ khí cận chiến (trừ Chùy, Chùy lớn, Gậy và Roi), giáp trung bình (trừ Giáp da thú), giáp nặng, Bi sắt, Xô, Chông sắt, Xích, Xà beng, Đạn súng, Móc câu leo, Nồi sắt, Đinh sắt, Đạn ná
 
-**Tinker's Tools (50 GP)** — Ability: Dexterity — Weight: 10 lb.
-- Utilize: Lắp ráp một vật Tiny từ phế liệu, tan rã sau 1 phút (DC 20)
-- Craft: Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+**Đồ nghề thợ máy (Tinker's Tools; 50 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 4,5 kg (10 lb.)
+- Sử dụng: Lắp một đồ vật Tí hon từ phế liệu, tan rã sau 1 phút (DC 20)
+- Chế tạo: Súng hỏa mai, Súng ngắn, Chuông, Đèn lồng chiếu điểm, Bình bẹt, Đèn lồng có chụp, Bẫy thú, Ổ khóa, Còng tay, Gương, Xẻng, Còi hiệu, Hộp đánh lửa
 
-**Weaver's Tools (1 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Vá một vết rách trên quần áo (DC 10), hoặc may một hoa văn Tiny (DC 10)
-- Craft: Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
+**Đồ nghề thợ dệt (Weaver's Tools; 1 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Vá chỗ rách trên quần áo (DC 10), hoặc thêu một họa tiết Tí hon (DC 10)
+- Chế tạo: Giáp độn, Giỏ, Túi ngủ, Chăn, Quần áo sang trọng, Lưới, Áo choàng, Dây thừng, Bao tải, Dây nhỏ, Lều, Quần áo đi đường
 
-**Woodcarver's Tools (1 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Khắc một hoa văn lên gỗ (DC 10)
-- Craft: Club, Greatclub, Quarterstaff, Ranged weapons (trừ Pistol, Musket, và Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
+**Đồ nghề thợ khắc gỗ (Woodcarver's Tools; 1 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Khắc hoa văn trên gỗ (DC 10)
+- Chế tạo: Chùy, Chùy lớn, Gậy, vũ khí tầm xa (trừ Súng ngắn, Súng hỏa mai và Ná), Tiêu điểm huyền thuật, Mũi tên, Tên nỏ, Tiêu điểm druid, Bút mực, Kim thổi
 
-### Other Tools (Công Cụ Khác)
+### Công cụ khác (Other Tools)
 
-**Disguise Kit (25 GP)** — Ability: Charisma — Weight: 3 lb.
-- Utilize: Trang điểm (DC 10)
-- Craft: Costume
+**Bộ hóa trang (Disguise Kit; 25 gp)** — Thuộc tính: Sức hút — Trọng lượng: 1,35 kg (3 lb.)
+- Sử dụng: Trang điểm (DC 10)
+- Chế tạo: Trang phục hóa trang
 
-**Forgery Kit (15 GP)** — Ability: Dexterity — Weight: 5 lb.
-- Utilize: Bắt chước 10 từ trở xuống của nét chữ người khác (DC 15), hoặc làm giả một con dấu sáp (DC 20)
+**Bộ làm giả (Forgery Kit; 15 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 2,25 kg (5 lb.)
+- Sử dụng: Bắt chước tối đa 10 chữ viết tay của người khác (DC 15), hoặc làm giả dấu niêm sáp (DC 20)
 
-**Gaming Set (Varies)** — Ability: Wisdom — Weight: —
-- Utilize: Nhận biết ai đó có đang gian lận không (DC 10), hoặc thắng trò chơi (DC 20)
-- Variants: Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
+**Bộ trò chơi (Gaming Set; tùy loại)** — Thuộc tính: Minh triết — Trọng lượng: —
+- Sử dụng: Phát hiện ai đó gian lận (DC 10), hoặc thắng ván chơi (DC 20)
+- Biến thể: Xúc xắc (1 sp), cờ rồng (dragonchess; 1 gp), bộ bài (5 sp), bài ba rồng (three-dragon ante; 1 gp)
 
-**Herbalism Kit (5 GP)** — Ability: Intelligence — Weight: 3 lb.
-- Utilize: Nhận diện một loài cây (DC 10)
-- Craft: Antitoxin, Candle, Healer's Kit, Potion of Healing
+**Bộ dụng cụ thảo dược (Herbalism Kit; 5 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 1,35 kg (3 lb.)
+- Sử dụng: Nhận diện một loài cây (DC 10)
+- Chế tạo: Thuốc giải độc, Nến, Hộp cứu thương, Thuốc chữa lành
 
-**Musical Instrument (Varies)** — Ability: Charisma — Weight: Varies
-- Utilize: Chơi một giai điệu đã biết (DC 10), hoặc ứng tấu một bài hát (DC 15)
-- Variants: Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
+**Nhạc cụ (Musical Instrument; tùy loại)** — Thuộc tính: Sức hút — Trọng lượng: tùy loại
+- Sử dụng: Chơi một giai điệu đã biết (DC 10), hoặc ứng tấu một bài hát (DC 15)
+- Biến thể: Kèn túi (30 gp, 2,7 kg), trống (6 gp, 1,35 kg), đàn tam thập lục (dulcimer; 25 gp, 4,5 kg), sáo (2 gp, 0,45 kg), tù và (3 gp, 0,9 kg), đàn luýt (35 gp, 0,9 kg), đàn lia (30 gp, 0,9 kg), sáo quyển (12 gp, 0,9 kg), kèn shawm (2 gp, 0,45 kg), đàn viol (30 gp, 0,45 kg)
 
-**Navigator's Tools (25 GP)** — Ability: Wisdom — Weight: 2 lb.
-- Utilize: Vạch đường đi (DC 10), hoặc xác định vị trí bằng cách quan sát sao (DC 15)
+**Đồ nghề hoa tiêu (Navigator's Tools; 25 gp)** — Thuộc tính: Minh triết — Trọng lượng: 0,9 kg (2 lb.)
+- Sử dụng: Vạch lộ trình (DC 10), hoặc xác định vị trí bằng cách quan sát sao (DC 15)
 
-**Poisoner's Kit (50 GP)** — Ability: Intelligence — Weight: 2 lb.
-- Utilize: Phát hiện một vật bị tẩm độc (DC 10)
-- Craft: Basic Poison
+**Bộ đồ nghề chế độc (Poisoner's Kit; 50 gp)** — Thuộc tính: Trí tuệ — Trọng lượng: 0,9 kg (2 lb.)
+- Sử dụng: Phát hiện đồ vật bị tẩm độc (DC 10)
+- Chế tạo: Độc cơ bản
 
-**Thieves' Tools (25 GP)** — Ability: Dexterity — Weight: 1 lb.
-- Utilize: Mở một ổ khóa (DC 15), hoặc vô hiệu hóa một cái bẫy (DC 15)
+**Đồ nghề trộm (Thieves' Tools; 25 gp)** — Thuộc tính: Khéo léo — Trọng lượng: 0,45 kg (1 lb.)
+- Sử dụng: Mở khóa (DC 15), hoặc vô hiệu hóa bẫy (DC 15)
 
-## Adventuring Gear (Trang Bị Phiêu Lưu)
+## Đồ phiêu lưu (Adventuring Gear)
 
-Bảng **Adventuring Gear** trong phần này bao gồm các trang bị mà adventurer thường thấy hữu ích. Các vật phẩm được mô tả ở đây theo thứ tự bảng chữ cái, với giá của vật phẩm xuất hiện sau tên của nó.
+Bảng **Đồ phiêu lưu** trong phần này gồm những trang bị mà nhà phiêu lưu thường thấy hữu ích. Các món đồ được mô tả theo thứ tự chữ cái tên tiếng Anh, giá ghi sau tên.
 
-**Adventuring Gear (Trang Bị Phiêu Lưu)**
+**Đồ phiêu lưu (Adventuring Gear)**
 
-| Item | Weight | Cost |
+| Món đồ | Trọng lượng | Giá |
 |---|---|---|
-| Acid | 1 lb. | 25 GP |
-| Alchemist's Fire | 1 lb. | 50 GP |
-| Ammunition | Varies | Varies |
-| Antitoxin | — | 50 GP |
-| Arcane Focus | Varies | Varies |
-| Backpack | 5 lb. | 2 GP |
-| Ball Bearings | 2 lb. | 1 GP |
-| Barrel | 70 lb. | 2 GP |
-| Basket | 2 lb. | 4 SP |
-| Bedroll | 7 lb. | 1 GP |
-| Bell | — | 1 GP |
-| Blanket | 3 lb. | 5 SP |
-| Block and Tackle | 5 lb. | 1 GP |
-| Book | 5 lb. | 25 GP |
-| Bottle, Glass | 2 lb. | 2 GP |
-| Bucket | 2 lb. | 5 CP |
-| Burglar's Pack | 42 lb. | 16 GP |
-| Caltrops | 2 lb. | 1 GP |
-| Candle | — | 1 CP |
-| Case, Crossbow Bolt | 1 lb. | 1 GP |
-| Case, Map or Scroll | 1 lb. | 1 GP |
-| Chain | 10 lb. | 5 GP |
-| Chest | 25 lb. | 5 GP |
-| Climber's Kit | 12 lb. | 25 GP |
-| Clothes, Fine | 6 lb. | 15 GP |
-| Clothes, Traveler's | 4 lb. | 2 GP |
-| Component Pouch | 2 lb. | 25 GP |
-| Costume | 4 lb. | 5 GP |
-| Crowbar | 5 lb. | 2 GP |
-| Diplomat's Pack | 39 lb. | 39 GP |
-| Druidic Focus | Varies | Varies |
-| Dungeoneer's Pack | 55 lb. | 12 GP |
-| Entertainer's Pack | 58½ lb. | 40 GP |
-| Explorer's Pack | 55 lb. | 10 GP |
-| Flask | 1 lb. | 2 CP |
-| Grappling Hook | 4 lb. | 2 GP |
-| Healer's Kit | 3 lb. | 5 GP |
-| Holy Symbol | Varies | Varies |
-| Holy Water | 1 lb. | 25 GP |
-| Hunting Trap | 25 lb. | 5 GP |
-| Ink | — | 10 GP |
-| Ink Pen | — | 2 CP |
-| Jug | 4 lb. | 2 CP |
-| Ladder | 25 lb. | 1 SP |
-| Lamp | 1 lb. | 5 SP |
-| Lantern, Bullseye | 2 lb. | 10 GP |
-| Lantern, Hooded | 2 lb. | 5 GP |
-| Lock | 1 lb. | 10 GP |
-| Magnifying Glass | — | 100 GP |
-| Manacles | 6 lb. | 2 GP |
-| Map | — | 1 GP |
-| Mirror | 1/2 lb. | 5 GP |
-| Net | 3 lb. | 1 GP |
-| Oil | 1 lb. | 1 SP |
-| Paper | — | 2 SP |
-| Parchment | — | 1 SP |
-| Perfume | — | 5 GP |
-| Poison, Basic | — | 100 GP |
-| Pole | 7 lb. | 5 CP |
-| Pot, Iron | 10 lb. | 2 GP |
-| Potion of Healing | 1/2 lb. | 50 GP |
-| Pouch | 1 lb. | 5 SP |
-| Priest's Pack | 29 lb. | 33 GP |
-| Quiver | 1 lb. | 1 GP |
-| Ram, Portable | 35 lb. | 4 GP |
-| Rations | 2 lb. | 5 SP |
-| Robe | 4 lb. | 1 GP |
-| Rope | 5 lb. | 1 GP |
-| Sack | 1/2 lb. | 1 CP |
-| Scholar's Pack | 22 lb. | 40 GP |
-| Shovel | 5 lb. | 2 GP |
-| Signal Whistle | — | 5 CP |
-| Spell Scroll (Cantrip) | — | 30 GP |
-| Spell Scroll (Level 1) | — | 50 GP |
-| Spikes, Iron | 5 lb. | 1 GP |
-| Spyglass | 1 lb. | 1.000 GP |
-| String | — | 1 SP |
-| Tent | 20 lb. | 2 GP |
-| Tinderbox | 1 lb. | 5 SP |
-| Torch | 1 lb. | 1 CP |
-| Vial | — | 1 GP |
-| Waterskin | 5 lb. (đầy) | 2 SP |
+| Axit (Acid) | 0,45 kg (1 lb.) | 25 gp |
+| Lửa giả kim (Alchemist's Fire) | 0,45 kg (1 lb.) | 50 gp |
+| Đạn dược (Ammunition) | Tùy loại | Tùy loại |
+| Thuốc giải độc (Antitoxin) | — | 50 gp |
+| Tiêu điểm huyền thuật (Arcane Focus) | Tùy loại | Tùy loại |
+| Ba lô (Backpack) | 2,25 kg (5 lb.) | 2 gp |
+| Bi sắt (Ball Bearings) | 0,9 kg (2 lb.) | 1 gp |
+| Thùng tô-nô (Barrel) | 31,5 kg (70 lb.) | 2 gp |
+| Giỏ (Basket) | 0,9 kg (2 lb.) | 4 sp |
+| Túi ngủ (Bedroll) | 3,15 kg (7 lb.) | 1 gp |
+| Chuông (Bell) | — | 1 gp |
+| Chăn (Blanket) | 1,35 kg (3 lb.) | 5 sp |
+| Ròng rọc (Block and Tackle) | 2,25 kg (5 lb.) | 1 gp |
+| Sách (Book) | 2,25 kg (5 lb.) | 25 gp |
+| Chai thủy tinh (Bottle, Glass) | 0,9 kg (2 lb.) | 2 gp |
+| Xô (Bucket) | 0,9 kg (2 lb.) | 5 cp |
+| Gói đồ trộm (Burglar's Pack) | 18,9 kg (42 lb.) | 16 gp |
+| Chông sắt (Caltrops) | 0,9 kg (2 lb.) | 1 gp |
+| Nến (Candle) | — | 1 cp |
+| Hộp tên nỏ (Case, Crossbow Bolt) | 0,45 kg (1 lb.) | 1 gp |
+| Ống đựng bản đồ hoặc cuộn giấy (Case, Map or Scroll) | 0,45 kg (1 lb.) | 1 gp |
+| Xích (Chain) | 4,5 kg (10 lb.) | 5 gp |
+| Rương (Chest) | 11,25 kg (25 lb.) | 5 gp |
+| Bộ đồ leo núi (Climber's Kit) | 5,4 kg (12 lb.) | 25 gp |
+| Quần áo sang trọng (Clothes, Fine) | 2,7 kg (6 lb.) | 15 gp |
+| Quần áo đi đường (Clothes, Traveler's) | 1,8 kg (4 lb.) | 2 gp |
+| Túi thành phần (Component Pouch) | 0,9 kg (2 lb.) | 25 gp |
+| Trang phục hóa trang (Costume) | 1,8 kg (4 lb.) | 5 gp |
+| Xà beng (Crowbar) | 2,25 kg (5 lb.) | 2 gp |
+| Gói đồ ngoại giao (Diplomat's Pack) | 17,55 kg (39 lb.) | 39 gp |
+| Tiêu điểm druid (Druidic Focus) | Tùy loại | Tùy loại |
+| Gói đồ thám hầm (Dungeoneer's Pack) | 24,75 kg (55 lb.) | 12 gp |
+| Gói đồ nghệ sĩ (Entertainer's Pack) | 26,3 kg (58½ lb.) | 40 gp |
+| Gói đồ thám hiểm (Explorer's Pack) | 24,75 kg (55 lb.) | 10 gp |
+| Bình bẹt (Flask) | 0,45 kg (1 lb.) | 2 cp |
+| Móc câu leo (Grappling Hook) | 1,8 kg (4 lb.) | 2 gp |
+| Hộp cứu thương (Healer's Kit) | 1,35 kg (3 lb.) | 5 gp |
+| Biểu tượng thánh (Holy Symbol) | Tùy loại | Tùy loại |
+| Nước thánh (Holy Water) | 0,45 kg (1 lb.) | 25 gp |
+| Bẫy thú (Hunting Trap) | 11,25 kg (25 lb.) | 5 gp |
+| Mực (Ink) | — | 10 gp |
+| Bút mực (Ink Pen) | — | 2 cp |
+| Bình (Jug) | 1,8 kg (4 lb.) | 2 cp |
+| Thang (Ladder) | 11,25 kg (25 lb.) | 1 sp |
+| Đèn dầu (Lamp) | 0,45 kg (1 lb.) | 5 sp |
+| Đèn lồng chiếu điểm (Lantern, Bullseye) | 0,9 kg (2 lb.) | 10 gp |
+| Đèn lồng có chụp (Lantern, Hooded) | 0,9 kg (2 lb.) | 5 gp |
+| Ổ khóa (Lock) | 0,45 kg (1 lb.) | 10 gp |
+| Kính lúp (Magnifying Glass) | — | 100 gp |
+| Còng tay (Manacles) | 2,7 kg (6 lb.) | 2 gp |
+| Bản đồ (Map) | — | 1 gp |
+| Gương (Mirror) | 0,23 kg (1/2 lb.) | 5 gp |
+| Lưới (Net) | 1,35 kg (3 lb.) | 1 gp |
+| Dầu (Oil) | 0,45 kg (1 lb.) | 1 sp |
+| Giấy (Paper) | — | 2 sp |
+| Giấy da (Parchment) | — | 1 sp |
+| Dầu thơm (Perfume) | — | 5 gp |
+| Độc cơ bản (Poison, Basic) | — | 100 gp |
+| Sào (Pole) | 3,15 kg (7 lb.) | 5 cp |
+| Nồi sắt (Pot, Iron) | 4,5 kg (10 lb.) | 2 gp |
+| Thuốc chữa lành (Potion of Healing) | 0,23 kg (1/2 lb.) | 50 gp |
+| Túi nhỏ (Pouch) | 0,45 kg (1 lb.) | 5 sp |
+| Gói đồ tu sĩ (Priest's Pack) | 13,05 kg (29 lb.) | 33 gp |
+| Ống tên (Quiver) | 0,45 kg (1 lb.) | 1 gp |
+| Cây phá cửa (Ram, Portable) | 15,75 kg (35 lb.) | 4 gp |
+| Lương khô (Rations) | 0,9 kg (2 lb.) | 5 sp |
+| Áo choàng (Robe) | 1,8 kg (4 lb.) | 1 gp |
+| Dây thừng (Rope) | 2,25 kg (5 lb.) | 1 gp |
+| Bao tải (Sack) | 0,23 kg (1/2 lb.) | 1 cp |
+| Gói đồ học giả (Scholar's Pack) | 9,9 kg (22 lb.) | 40 gp |
+| Xẻng (Shovel) | 2,25 kg (5 lb.) | 2 gp |
+| Còi hiệu (Signal Whistle) | — | 5 cp |
+| Cuộn phép (phép sơ cấp) (Spell Scroll, Cantrip) | — | 30 gp |
+| Cuộn phép (bậc 1) (Spell Scroll, Level 1) | — | 50 gp |
+| Đinh sắt (Spikes, Iron) | 2,25 kg (5 lb.) | 1 gp |
+| Kính viễn vọng (Spyglass) | 0,45 kg (1 lb.) | 1.000 gp |
+| Dây nhỏ (String) | — | 1 sp |
+| Lều (Tent) | 9 kg (20 lb.) | 2 gp |
+| Hộp đánh lửa (Tinderbox) | 0,45 kg (1 lb.) | 5 sp |
+| Đuốc (Torch) | 0,45 kg (1 lb.) | 1 cp |
+| Lọ nhỏ (Vial) | — | 1 gp |
+| Túi nước (Waterskin) | 2,25 kg (5 lb.) (đầy) | 2 sp |
 
-**Acid (25 GP).** Khi thực hiện action Attack, bạn có thể thay một trong các cuộc tấn công của mình bằng việc ném một lọ Acid. Nhắm vào một creature hoặc object bạn có thể nhìn thấy trong vòng 20 feet của bạn. Mục tiêu phải thành công trong một Dexterity saving throw (DC bằng 8 cộng với Dexterity modifier và Proficiency Bonus của bạn) hoặc nhận 2d6 damage Acid.
+**Axit (Acid; 25 gp).** Khi dùng hành động Tấn công, bạn có thể thay một đòn tấn công bằng việc ném một lọ Axit. Nhắm vào một sinh vật hoặc đồ vật mà bạn nhìn thấy trong phạm vi 6 m (20 feet). Mục tiêu phải thành công cứu nguy Khéo léo (DC bằng 8 + hệ số Khéo léo + thưởng thành thạo của bạn), nếu không chịu 2d6 sát thương axit.
 
-**Alchemist's Fire (50 GP).** Khi thực hiện action Attack, bạn có thể thay một trong các cuộc tấn công của mình bằng việc ném một bình Alchemist's Fire. Nhắm vào một creature hoặc object bạn có thể nhìn thấy trong vòng 20 feet của bạn. Mục tiêu phải thành công trong một Dexterity saving throw (DC bằng 8 cộng với Dexterity modifier và Proficiency Bonus của bạn) hoặc nhận 1d4 damage Fire và bắt đầu bốc cháy (xem "Rules Glossary").
+**Lửa giả kim (Alchemist's Fire; 50 gp).** Khi dùng hành động Tấn công, bạn có thể thay một đòn tấn công bằng việc ném một bình Lửa giả kim. Nhắm vào một sinh vật hoặc đồ vật mà bạn nhìn thấy trong phạm vi 6 m (20 feet). Mục tiêu phải thành công cứu nguy Khéo léo (DC bằng 8 + hệ số Khéo léo + thưởng thành thạo của bạn), nếu không chịu 1d4 sát thương lửa và bắt đầu bốc cháy (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-**Ammunition (Varies).** Đạn dược cần thiết cho một weapon có thuộc tính Ammunition. Mô tả của một weapon chỉ định loại đạn nó dùng. Bảng **Ammunition** liệt kê các loại khác nhau và số lượng bạn nhận khi mua chúng. Bảng cũng liệt kê vật dùng để cất giữ mỗi loại; đồ cất giữ phải mua riêng.
+**Đạn dược (Ammunition; tùy loại).** Đạn dược cần cho vũ khí có thuộc tính Đạn dược. Mô tả vũ khí ghi loại đạn nó dùng. Bảng **Đạn dược** liệt kê các loại và số lượng mỗi lần mua, cùng vật đựng tương ứng; vật đựng phải mua riêng.
 
-**Ammunition (Đạn Dược)**
+**Đạn dược (Ammunition)**
 
-| Type | Amount | Storage | Weight | Cost |
+| Loại | Số lượng | Vật đựng | Trọng lượng | Giá |
 |---|---|---|---|---|
-| Arrows | 20 | Quiver | 1 lb. | 1 GP |
-| Bolts | 20 | Case | 1½ lb. | 1 GP |
-| Bullets, Firearm | 10 | Pouch | 2 lb. | 3 GP |
-| Bullets, Sling | 20 | Pouch | 1½ lb. | 4 CP |
-| Needles | 50 | Pouch | 1 lb. | 1 GP |
+| Mũi tên (Arrows) | 20 | Ống tên | 0,45 kg (1 lb.) | 1 gp |
+| Tên nỏ (Bolts) | 20 | Hộp tên nỏ | 0,68 kg (1½ lb.) | 1 gp |
+| Đạn súng (Bullets, Firearm) | 10 | Túi nhỏ | 0,9 kg (2 lb.) | 3 gp |
+| Đạn ná (Bullets, Sling) | 20 | Túi nhỏ | 0,68 kg (1½ lb.) | 4 cp |
+| Kim thổi (Needles) | 50 | Túi nhỏ | 0,45 kg (1 lb.) | 1 gp |
 
-**Antitoxin (50 GP).** Như một Bonus Action, bạn có thể uống một lọ Antitoxin để nhận Advantage trên saving throw để tránh hoặc kết thúc condition Poisoned trong 1 giờ.
+**Thuốc giải độc (Antitoxin; 50 gp).** Bằng một hành động phụ, bạn có thể uống một lọ Thuốc giải độc để có lợi thế khi cứu nguy nhằm tránh hoặc chấm dứt trạng thái Trúng độc trong 1 giờ.
 
-**Arcane Focus (Varies).** Một Arcane Focus mang một trong các hình dạng trong bảng Arcane Focuses và được nạm ngọc hoặc chạm khắc để dẫn truyền phép thuật arcane. Một Sorcerer, Warlock, hoặc Wizard có thể dùng một vật như vậy làm Spellcasting Focus.
+**Tiêu điểm huyền thuật (Arcane Focus; tùy loại).** Tiêu điểm huyền thuật có một trong các hình dạng trong bảng Tiêu điểm huyền thuật và được nạm ngọc hoặc chạm khắc để dẫn truyền ma thuật huyền thuật. Thuật sĩ, Warlock hoặc Pháp sư có thể dùng vật này làm tiêu điểm thi triển phép.
 
-**Arcane Focuses (Vật Dẫn Arcane)**
+**Tiêu điểm huyền thuật (Arcane Focuses)**
 
-| Focus | Weight | Cost |
+| Tiêu điểm | Trọng lượng | Giá |
 |---|---|---|
-| Crystal | 1 lb. | 10 GP |
-| Orb | 3 lb. | 20 GP |
-| Rod | 2 lb. | 10 GP |
-| Staff (cũng là một Quarterstaff) | 4 lb. | 5 GP |
-| Wand | 1 lb. | 10 GP |
+| Pha lê (Crystal) | 0,45 kg (1 lb.) | 10 gp |
+| Quả cầu (Orb) | 1,35 kg (3 lb.) | 20 gp |
+| Đoản trượng (Rod) | 0,9 kg (2 lb.) | 10 gp |
+| Trượng (Staff; cũng là một Gậy) | 1,8 kg (4 lb.) | 5 gp |
+| Đũa phép (Wand) | 0,45 kg (1 lb.) | 10 gp |
 
-**Backpack (2 GP).** Một Backpack chứa được tối đa 30 pound trong 1 cubic foot. Nó cũng có thể dùng làm túi yên ngựa.
+**Ba lô (Backpack; 2 gp).** Ba lô chứa được tối đa 13,5 kg (30 pound) trong thể tích 28 lít (1 foot khối). Nó cũng dùng được như túi yên ngựa.
 
-**Ball Bearings (1 GP).** Như một action Utilize, bạn có thể rải Ball Bearings từ túi của chúng. Chúng lan ra bao phủ một khu vực bằng phẳng 10-foot vuông trong vòng 10 feet của bạn. Một creature vào khu vực này lần đầu trong một turn phải thành công trong một DC 10 Dexterity saving throw hoặc có condition Prone. Cần 10 phút để thu hồi Ball Bearings.
+**Bi sắt (Ball Bearings; 1 gp).** Bằng hành động Sử dụng, bạn có thể rải Bi sắt từ túi. Chúng lan ra phủ một khu vực bằng phẳng vuông 3 m (10 feet) trong phạm vi 3 m (10 feet) quanh bạn. Sinh vật lần đầu đi vào khu vực trong một lượt phải thành công cứu nguy Khéo léo DC 10, nếu không rơi vào trạng thái Ngã sấp. Thu gom Bi sắt mất 10 phút.
 
-**Barrel (2 GP).** Một Barrel chứa được tối đa 40 gallon chất lỏng hoặc tối đa 4 cubic feet hàng khô.
+**Thùng tô-nô (Barrel; 2 gp).** Thùng chứa được tối đa 152 lít (40 gallon) chất lỏng hoặc 113 lít (4 foot khối) hàng khô.
 
-**Basket (4 SP).** Một Basket chứa được tối đa 40 pound trong 2 cubic feet.
+**Giỏ (Basket; 4 sp).** Giỏ chứa được tối đa 18 kg (40 pound) trong thể tích 57 lít (2 foot khối).
 
-**Bedroll (1 GP).** Một Bedroll cho một creature Small hoặc Medium ngủ. Khi ở trong Bedroll, bạn tự động thành công trong saving throw chống lại giá lạnh cực độ (xem "Gameplay Toolbox").
+**Túi ngủ (Bedroll; 1 gp).** Túi ngủ vừa cho một sinh vật cỡ Nhỏ hoặc Trung bình. Khi nằm trong túi ngủ, bạn tự động thành công lần cứu nguy chống cái lạnh khắc nghiệt (xem [Hộp công cụ cho trò chơi](09-Gameplay-Toolbox.md)).
 
-**Bell (1 GP).** Khi được rung như một action Utilize, một Bell tạo ra âm thanh có thể nghe thấy trong vòng 60 feet.
+**Chuông (Bell; 1 gp).** Khi rung bằng hành động Sử dụng, Chuông phát ra âm thanh nghe được trong phạm vi 18 m (60 feet).
 
-**Blanket (5 SP).** Khi được quấn trong một chăn, bạn có Advantage trên saving throw chống lại giá lạnh cực độ (xem "Gameplay Toolbox").
+**Chăn (Blanket; 5 sp).** Khi quấn chăn, bạn có lợi thế khi cứu nguy chống cái lạnh khắc nghiệt (xem [Hộp công cụ cho trò chơi](09-Gameplay-Toolbox.md)).
 
-**Block and Tackle (1 GP).** Một Block and Tackle cho phép bạn nâng tối đa gấp bốn lần trọng lượng bạn thường có thể nâng.
+**Ròng rọc (Block and Tackle; 1 gp).** Ròng rọc cho phép bạn nâng tối đa gấp bốn lần trọng lượng bình thường bạn nâng được.
 
-**Book (25 GP).** Một Book chứa nội dung hư cấu hoặc phi hư cấu. Nếu bạn tham khảo một Book phi hư cấu chính xác về chủ đề của nó, bạn nhận bonus +5 vào Intelligence (Arcana, History, Nature, hoặc Religion) check bạn thực hiện về chủ đề đó.
+**Sách (Book; 25 gp).** Sách chứa nội dung hư cấu hoặc phi hư cấu. Nếu tham khảo một cuốn sách phi hư cấu chính xác về chủ đề, bạn được +5 khi kiểm tra Trí tuệ (Huyền thuật, Lịch sử, Tự nhiên hoặc Tôn giáo) về chủ đề đó.
 
-**Bottle, Glass (2 GP).** Một Glass Bottle chứa được tối đa 1½ pint.
+**Chai thủy tinh (Bottle, Glass; 2 gp).** Chai thủy tinh chứa được tối đa 0,7 lít (1½ pint).
 
-**Bucket (5 CP).** Một Bucket chứa được tối đa nửa cubic foot nội dung.
+**Xô (Bucket; 5 cp).** Xô chứa được tối đa 14 lít (nửa foot khối).
 
-**Burglar's Pack (16 GP).** Một Burglar's Pack chứa các vật sau: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 bình Oil, 5 ngày Rations, Rope, Tinderbox, và Waterskin.
+**Gói đồ trộm (Burglar's Pack; 16 gp).** Gói đồ trộm gồm: Ba lô, Bi sắt, Chuông, 10 Nến, Xà beng, Đèn lồng có chụp, 7 bình Dầu, Lương khô cho 5 ngày, Dây thừng, Hộp đánh lửa và Túi nước.
 
-**Caltrops (1 GP).** Như một action Utilize, bạn có thể rải Caltrops từ túi của chúng để phủ một khu vực 5-foot vuông trong vòng 5 feet của bạn. Một creature vào khu vực này lần đầu trong một turn phải thành công trong một DC 15 Dexterity saving throw hoặc nhận 1 damage Piercing và giảm Speed xuống 0 cho đến khi bắt đầu turn tiếp theo của nó. Cần 10 phút để thu hồi Caltrops.
+**Chông sắt (Caltrops; 1 gp).** Bằng hành động Sử dụng, bạn có thể rải Chông sắt từ túi để phủ một khu vực vuông 1,5 m (5 feet) trong phạm vi 1,5 m (5 feet) quanh bạn. Sinh vật lần đầu đi vào khu vực trong một lượt phải thành công cứu nguy Khéo léo DC 15, nếu không chịu 1 sát thương xuyên và Tốc độ về 0 cho đến đầu lượt kế tiếp của nó. Thu gom Chông sắt mất 10 phút.
 
-**Candle (1 CP).** Trong 1 giờ, một Candle đang cháy tỏa Bright Light trong bán kính 5 feet và Dim Light thêm 5 feet nữa.
+**Nến (Candle; 1 cp).** Trong 1 giờ, cây nến đang cháy tỏa ánh sáng rõ trong bán kính 1,5 m (5 feet) và ánh sáng yếu thêm 1,5 m (5 feet).
 
-**Case, Crossbow Bolt (1 GP).** Một Crossbow Bolt Case chứa được tối đa 20 Bolts.
+**Hộp tên nỏ (Case, Crossbow Bolt; 1 gp).** Hộp tên nỏ chứa được tối đa 20 Tên nỏ.
 
-**Case, Map or Scroll (1 GP).** Một Map or Scroll Case chứa được tối đa 10 tờ giấy hoặc 5 tờ giấy da.
+**Ống đựng bản đồ hoặc cuộn giấy (Case, Map or Scroll; 1 gp).** Ống đựng chứa được tối đa 10 tờ giấy hoặc 5 tờ giấy da.
 
-**Chain (5 GP).** Như một action Utilize, bạn có thể quấn một Chain quanh một creature bất đắc dĩ trong vòng 5 feet của bạn có condition Grappled, Incapacitated, hoặc Restrained nếu bạn thành công trong một DC 13 Strength (Athletics) check. Nếu chân của creature bị trói, creature có condition Restrained cho đến khi thoát ra. Thoát khỏi Chain đòi hỏi creature thực hiện thành công một DC 18 Dexterity (Acrobatics) check như một action. Phá vỡ Chain đòi hỏi một DC 20 Strength (Athletics) check thành công như một action.
+**Xích (Chain; 5 gp).** Bằng hành động Sử dụng, bạn có thể quấn Xích quanh một sinh vật không tự nguyện trong phạm vi 1,5 m (5 feet) đang Bị vật lộn, Mất năng lực hành động hoặc Kiềm giữ, nếu thành công phép kiểm tra Sức mạnh (Điền kinh) DC 13. Nếu chân sinh vật bị trói, nó rơi vào trạng thái Kiềm giữ cho đến khi thoát ra. Để thoát Xích, sinh vật phải dùng một hành động và thành công phép kiểm tra Khéo léo (Nhào lộn) DC 18. Phá Xích cần một hành động và thành công phép kiểm tra Sức mạnh (Điền kinh) DC 20.
 
-**Chest (5 GP).** Một Chest chứa được tối đa 12 cubic feet nội dung.
+**Rương (Chest; 5 gp).** Rương chứa được tối đa 340 lít (12 foot khối).
 
-**Climber's Kit (25 GP).** Một Climber's Kit bao gồm mũi giày, găng tay, chốt móc, và dây đai. Như một action Utilize, bạn có thể dùng Climber's Kit để neo bản thân; khi làm vậy, bạn không thể rơi quá 25 feet từ điểm neo, và bạn không thể di chuyển quá 25 feet từ đó mà không tháo neo như một Bonus Action.
+**Bộ đồ leo núi (Climber's Kit; 25 gp).** Bộ đồ leo núi gồm mũi giày đinh, găng tay, chốt móc và dây đai. Bằng hành động Sử dụng, bạn có thể dùng bộ đồ để neo mình; khi đó, bạn không thể rơi quá 7,5 m (25 feet) tính từ điểm neo, và không thể đi xa quá 7,5 m (25 feet) khỏi điểm neo nếu chưa dùng hành động phụ tháo neo.
 
-**Clothes, Fine (15 GP).** Fine Clothes được làm từ vải đắt tiền và trang trí với các chi tiết được chế tác tinh xảo. Một số sự kiện và địa điểm chỉ cho phép người mặc những bộ đồ này vào.
+**Quần áo sang trọng (Clothes, Fine; 15 gp).** Quần áo sang trọng may bằng vải đắt tiền, trang trí tinh xảo. Một số sự kiện và nơi chốn chỉ cho người mặc loại quần áo này vào.
 
-**Clothes, Traveler's (2 GP).** Traveler's Clothes là trang phục bền được thiết kế cho việc di chuyển trong nhiều môi trường khác nhau.
+**Quần áo đi đường (Clothes, Traveler's; 2 gp).** Quần áo đi đường là trang phục bền chắc, được thiết kế để đi lại qua nhiều môi trường.
 
-**Component Pouch (25 GP).** Một Component Pouch không thấm nước và chứa đầy các ngăn giữ tất cả các Material component miễn phí của spell của bạn.
+**Túi thành phần (Component Pouch; 25 gp).** Túi thành phần không thấm nước và có nhiều ngăn chứa mọi thành phần vật chất miễn phí cho các phép của bạn.
 
-**Costume (5 GP).** Khi mặc một Costume, bạn có Advantage trên bất kỳ ability check nào bạn thực hiện để đóng giả người hoặc loại người mà nó đại diện.
+**Trang phục hóa trang (Costume; 5 gp).** Khi mặc Trang phục hóa trang, bạn có lợi thế ở mọi phép kiểm tra thuộc tính để đóng giả người hoặc kiểu người mà trang phục thể hiện.
 
-**Crowbar (2 GP).** Dùng một Crowbar cho bạn Advantage trên Strength check nơi đòn bẩy của Crowbar có thể áp dụng.
+**Xà beng (Crowbar; 2 gp).** Dùng Xà beng cho bạn lợi thế khi kiểm tra Sức mạnh ở những việc có thể tận dụng lực đòn bẩy.
 
-**Diplomat's Pack (39 GP).** Một Diplomat's Pack chứa các vật sau: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 bình Oil, 5 tờ Paper, 5 tờ Parchment, Perfume, và Tinderbox.
+**Gói đồ ngoại giao (Diplomat's Pack; 39 gp).** Gói đồ ngoại giao gồm: Rương, Quần áo sang trọng, Mực, 5 Bút mực, Đèn dầu, 2 Ống đựng bản đồ hoặc cuộn giấy, 4 bình Dầu, 5 tờ Giấy, 5 tờ Giấy da, Dầu thơm và Hộp đánh lửa.
 
-**Druidic Focus (Varies).** Một Druidic Focus mang một trong các hình dạng trong bảng Druidic Focuses và được chạm khắc, buộc dây ruy băng, hoặc sơn vẽ để dẫn truyền phép thuật nguyên thủy. Một Druid hoặc Ranger có thể dùng một vật như vậy làm Spellcasting Focus.
+**Tiêu điểm druid (Druidic Focus; tùy loại).** Tiêu điểm druid có một trong các hình dạng trong bảng Tiêu điểm druid và được chạm khắc, buộc ruy băng hoặc sơn vẽ để dẫn truyền ma thuật nguyên thủy. Druid hoặc Kiểm lâm có thể dùng vật này làm tiêu điểm thi triển phép.
 
-**Druidic Focuses (Vật Dẫn Druidic)**
+**Tiêu điểm druid (Druidic Focuses)**
 
-| Focus | Weight | Cost |
+| Tiêu điểm | Trọng lượng | Giá |
 |---|---|---|
-| Sprig of mistletoe | — | 1 GP |
-| Wooden staff (cũng là một Quarterstaff) | 4 lb. | 5 GP |
-| Yew wand | 1 lb. | 10 GP |
+| Cành tầm gửi (Sprig of mistletoe) | — | 1 gp |
+| Trượng gỗ (Wooden staff; cũng là một Gậy) | 1,8 kg (4 lb.) | 5 gp |
+| Đũa gỗ thủy tùng (Yew wand) | 0,45 kg (1 lb.) | 10 gp |
 
-**Dungeoneer's Pack (12 GP).** Một Dungeoneer's Pack chứa các vật sau: Backpack, Caltrops, Crowbar, 2 bình Oil, 10 ngày Rations, Rope, Tinderbox, 10 Torches, và Waterskin.
+**Gói đồ thám hầm (Dungeoneer's Pack; 12 gp).** Gói đồ thám hầm gồm: Ba lô, Chông sắt, Xà beng, 2 bình Dầu, Lương khô cho 10 ngày, Dây thừng, Hộp đánh lửa, 10 Đuốc và Túi nước.
 
-**Entertainer's Pack (40 GP).** Một Entertainer's Pack chứa các vật sau: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 bình Oil, 9 ngày Rations, Tinderbox, và Waterskin.
+**Gói đồ nghệ sĩ (Entertainer's Pack; 40 gp).** Gói đồ nghệ sĩ gồm: Ba lô, Túi ngủ, Chuông, Đèn lồng chiếu điểm, 3 Trang phục hóa trang, Gương, 8 bình Dầu, Lương khô cho 9 ngày, Hộp đánh lửa và Túi nước.
 
-**Explorer's Pack (10 GP).** Một Explorer's Pack chứa các vật sau: Backpack, Bedroll, 2 bình Oil, 10 ngày Rations, Rope, Tinderbox, 10 Torches, và Waterskin.
+**Gói đồ thám hiểm (Explorer's Pack; 10 gp).** Gói đồ thám hiểm gồm: Ba lô, Túi ngủ, 2 bình Dầu, Lương khô cho 10 ngày, Dây thừng, Hộp đánh lửa, 10 Đuốc và Túi nước.
 
-**Flask (2 CP).** Một Flask chứa được tối đa 1 pint.
+**Bình bẹt (Flask; 2 cp).** Bình bẹt chứa được tối đa 0,5 lít (1 pint).
 
-**Grappling Hook (2 GP).** Như một action Utilize, bạn có thể ném Grappling Hook vào một lan can, gờ đá, hoặc điểm bám khác trong vòng 50 feet của bạn, và móc bám vào nếu bạn thành công trong một DC 13 Dexterity (Acrobatics) check. Nếu bạn buộc một Rope vào móc, bạn có thể leo lên nó.
+**Móc câu leo (Grappling Hook; 2 gp).** Bằng hành động Sử dụng, bạn có thể ném Móc câu leo vào lan can, gờ đá hoặc chỗ bám khác trong phạm vi 15 m (50 feet), và móc bám chắc nếu bạn thành công phép kiểm tra Khéo léo (Nhào lộn) DC 13. Nếu buộc Dây thừng vào móc, bạn có thể leo theo dây.
 
-**Healer's Kit (5 GP).** Một Healer's Kit có mười lần dùng. Như một action Utilize, bạn có thể dùng một lần để ổn định một creature Unconscious có 0 Hit Points mà không cần thực hiện một Wisdom (Medicine) check.
+**Hộp cứu thương (Healer's Kit; 5 gp).** Hộp cứu thương dùng được mười lần. Bằng hành động Sử dụng, bạn có thể dùng một lần để ổn định một sinh vật Bất tỉnh có 0 HP mà không cần kiểm tra Minh triết (Y học).
 
-**Holy Symbol (Varies).** Một Holy Symbol mang một trong các hình dạng trong bảng Holy Symbol và được nạm ngọc hoặc sơn vẽ để dẫn truyền phép thuật thần thánh. Một Cleric hoặc Paladin có thể dùng một Holy Symbol làm Spellcasting Focus.
+**Biểu tượng thánh (Holy Symbol; tùy loại).** Biểu tượng thánh có một trong các hình dạng trong bảng Biểu tượng thánh và được nạm ngọc hoặc sơn vẽ để dẫn truyền ma thuật thần thánh. Giáo sĩ hoặc Thánh kỵ sĩ có thể dùng Biểu tượng thánh làm tiêu điểm thi triển phép.
 
-Bảng cho biết một Holy Symbol cần được cầm, đeo, hay mang trên vải (chẳng hạn một biểu ngữ) hoặc một Shield.
+Bảng cho biết biểu tượng phải được cầm, đeo hay thể hiện trên vải (như cờ hiệu) hoặc trên Khiên.
 
-**Holy Symbols (Biểu Tượng Thánh)**
+**Biểu tượng thánh (Holy Symbols)**
 
-| Symbol | Weight | Cost |
+| Biểu tượng | Trọng lượng | Giá |
 |---|---|---|
-| Amulet (đeo hoặc cầm) | 1 lb. | 5 GP |
-| Emblem (mang trên vải hoặc Shield) | — | 5 GP |
-| Reliquary (cầm) | 2 lb. | 5 GP |
+| Bùa hộ mệnh (Amulet; đeo hoặc cầm) | 0,45 kg (1 lb.) | 5 gp |
+| Huy hiệu (Emblem; thể hiện trên vải hoặc Khiên) | — | 5 gp |
+| Hộp thánh tích (Reliquary; cầm) | 0,9 kg (2 lb.) | 5 gp |
 
-**Holy Water (25 GP).** Khi thực hiện action Attack, bạn có thể thay một trong các cuộc tấn công của mình bằng việc ném một bình Holy Water. Nhắm vào một creature bạn có thể nhìn thấy trong vòng 20 feet của bạn. Mục tiêu phải thành công trong một Dexterity saving throw (DC bằng 8 cộng với Dexterity modifier và Proficiency Bonus của bạn) hoặc nhận 2d8 damage Radiant nếu đó là một Fiend hoặc Undead.
+**Nước thánh (Holy Water; 25 gp).** Khi dùng hành động Tấn công, bạn có thể thay một đòn tấn công bằng việc ném một bình Nước thánh. Nhắm vào một sinh vật mà bạn nhìn thấy trong phạm vi 6 m (20 feet). Mục tiêu phải thành công cứu nguy Khéo léo (DC bằng 8 + hệ số Khéo léo + thưởng thành thạo của bạn), nếu không chịu 2d8 sát thương quang nếu nó là Ác quỷ hoặc Xác sống.
 
-**Hunting Trap (5 GP).** Như một action Utilize, bạn có thể đặt một Hunting Trap, là một vòng thép răng cưa sập lại khi một creature bước lên tấm áp lực ở giữa. Bẫy được gắn bằng một sợi xích nặng vào một vật cố định, chẳng hạn một cái cây hoặc một cọc đóng xuống đất. Một creature bước lên tấm áp lực phải thành công trong một DC 13 Dexterity saving throw hoặc nhận 1d4 damage Piercing và giảm Speed xuống 0 cho đến khi bắt đầu turn tiếp theo của nó. Sau đó, cho đến khi creature thoát khỏi bẫy, việc di chuyển của nó bị giới hạn bởi chiều dài của sợi xích (thường 3 feet). Một creature có thể dùng action của mình để thực hiện một DC 13 Strength (Athletics) check, giải thoát bản thân hoặc một creature khác trong tầm với của nó nếu thành công. Mỗi lần check thất bại gây 1 damage Piercing lên creature bị mắc bẫy.
+**Bẫy thú (Hunting Trap; 5 gp).** Bằng hành động Sử dụng, bạn có thể đặt Bẫy thú, một vòng thép răng cưa sập lại khi sinh vật dẫm lên tấm cảm ứng ở giữa. Bẫy được xích chặt vào một vật cố định như thân cây hoặc cọc đóng xuống đất. Sinh vật dẫm lên tấm cảm ứng phải thành công cứu nguy Khéo léo DC 13, nếu không chịu 1d4 sát thương xuyên và Tốc độ về 0 cho đến đầu lượt kế tiếp của nó. Sau đó, cho đến khi thoát bẫy, sinh vật chỉ di chuyển được trong phạm vi chiều dài xích (thường là 0,9 m; 3 feet). Một sinh vật có thể dùng hành động để kiểm tra Sức mạnh (Điền kinh) DC 13, giải thoát bản thân hoặc sinh vật khác trong tầm với nếu thành công. Mỗi lần kiểm tra thất bại gây 1 sát thương xuyên cho sinh vật bị kẹt.
 
-**Ink (10 GP).** Ink có trong một lọ 1-ounce, đủ mực để viết khoảng 500 trang.
+**Mực (Ink; 10 gp).** Mực đựng trong lọ 28 ml (1 ounce), đủ viết khoảng 500 trang.
 
-**Ink Pen (2 CP).** Dùng Ink, một Ink Pen được dùng để viết hoặc vẽ.
+**Bút mực (Ink Pen; 2 cp).** Dùng cùng Mực để viết hoặc vẽ.
 
-**Jug (2 CP).** Một Jug chứa được tối đa 1 gallon.
+**Bình (Jug; 2 cp).** Bình chứa được tối đa 3,8 lít (1 gallon).
 
-**Ladder (1 SP).** Một Ladder cao 10 feet. Bạn phải leo để di chuyển lên hoặc xuống nó.
+**Thang (Ladder; 1 sp).** Thang cao 3 m (10 feet). Bạn phải leo để lên hoặc xuống.
 
-**Lamp (5 SP).** Một Lamp đốt Oil làm nhiên liệu để tỏa Bright Light trong bán kính 15 feet và Dim Light thêm 30 feet nữa.
+**Đèn dầu (Lamp; 5 sp).** Đèn dầu đốt Dầu để tỏa ánh sáng rõ trong bán kính 4,5 m (15 feet) và ánh sáng yếu thêm 9 m (30 feet).
 
-**Lantern, Bullseye (10 GP).** Một Bullseye Lantern đốt Oil làm nhiên liệu để tỏa Bright Light trong một 60-foot Cone và Dim Light thêm 60 feet nữa.
+**Đèn lồng chiếu điểm (Lantern, Bullseye; 10 gp).** Đèn lồng chiếu điểm đốt Dầu để tỏa ánh sáng rõ trong hình nón 18 m (60 feet) và ánh sáng yếu thêm 18 m (60 feet).
 
-**Lantern, Hooded (5 GP).** Một Hooded Lantern đốt Oil làm nhiên liệu để tỏa Bright Light trong bán kính 30 feet và Dim Light thêm 30 feet nữa. Như một Bonus Action, bạn có thể hạ mui, giảm ánh sáng xuống Dim Light trong bán kính 5 feet, hoặc nâng mui lên lại.
+**Đèn lồng có chụp (Lantern, Hooded; 5 gp).** Đèn lồng có chụp đốt Dầu để tỏa ánh sáng rõ trong bán kính 9 m (30 feet) và ánh sáng yếu thêm 9 m (30 feet). Bằng một hành động phụ, bạn có thể hạ chụp đèn, giảm ánh sáng thành ánh sáng yếu trong bán kính 1,5 m (5 feet), hoặc nâng chụp lên lại.
 
-**Lock (10 GP).** Một Lock đi kèm một chìa khóa. Không có chìa khóa, một creature có thể dùng Thieves' Tools để mở Lock này bằng một DC 15 Dexterity (Sleight of Hand) check thành công.
+**Ổ khóa (Lock; 10 gp).** Ổ khóa đi kèm chìa. Không có chìa, một sinh vật có thể dùng Đồ nghề trộm để mở khóa nếu thành công phép kiểm tra Khéo léo (Khéo tay) DC 15.
 
-**Magnifying Glass (100 GP).** Một Magnifying Glass cho Advantage trên bất kỳ ability check nào thực hiện để định giá hoặc kiểm tra một vật có chi tiết cao. Nhóm lửa bằng Magnifying Glass đòi hỏi ánh sáng mạnh như ánh nắng để hội tụ, vật liệu dễ cháy để bắt lửa, và khoảng 5 phút để lửa bén.
+**Kính lúp (Magnifying Glass; 100 gp).** Kính lúp cho lợi thế ở mọi phép kiểm tra thuộc tính để định giá hoặc xem xét một món đồ có nhiều chi tiết. Nhóm lửa bằng Kính lúp cần ánh sáng mạnh như ánh nắng để hội tụ, vật liệu dễ bắt lửa và khoảng 5 phút để lửa bén.
 
-**Manacles (2 GP).** Như một action Utilize, bạn có thể dùng Manacles để trói một creature bất đắc dĩ Small hoặc Medium trong vòng 5 feet của bạn có condition Grappled, Incapacitated, hoặc Restrained nếu bạn thành công trong một DC 13 Dexterity (Sleight of Hand) check. Khi bị trói, một creature có Disadvantage trên attack roll, và creature đó có condition Restrained nếu Manacles được gắn vào một sợi xích hoặc móc cố định. Thoát khỏi Manacles đòi hỏi một DC 20 Dexterity (Sleight of Hand) check thành công như một action. Phá vỡ chúng đòi hỏi một DC 25 Strength (Athletics) check thành công như một action.
+**Còng tay (Manacles; 2 gp).** Bằng hành động Sử dụng, bạn có thể dùng Còng tay trói một sinh vật cỡ Nhỏ hoặc Trung bình không tự nguyện trong phạm vi 1,5 m (5 feet) đang Bị vật lộn, Mất năng lực hành động hoặc Kiềm giữ, nếu thành công phép kiểm tra Khéo léo (Khéo tay) DC 13. Khi bị còng, sinh vật chịu bất lợi khi tung tấn công, và rơi vào trạng thái Kiềm giữ nếu còng được nối với xích hoặc móc cố định. Thoát Còng tay cần một hành động và thành công phép kiểm tra Khéo léo (Khéo tay) DC 20. Phá còng cần một hành động và thành công phép kiểm tra Sức mạnh (Điền kinh) DC 25.
 
-Mỗi bộ Manacles đi kèm một chìa khóa. Không có chìa khóa, một creature có thể dùng Thieves' Tools để mở khóa Manacles bằng một DC 15 Dexterity (Sleight of Hand) check thành công.
+Mỗi bộ Còng tay đi kèm chìa. Không có chìa, một sinh vật có thể dùng Đồ nghề trộm để mở còng nếu thành công phép kiểm tra Khéo léo (Khéo tay) DC 15.
 
-**Map (1 GP).** Nếu bạn tham khảo một Map chính xác, bạn nhận bonus +5 vào Wisdom (Survival) check bạn thực hiện để tìm đường trong nơi được thể hiện trên đó.
+**Bản đồ (Map; 1 gp).** Nếu tham khảo một tấm bản đồ chính xác, bạn được +5 khi kiểm tra Minh triết (Sinh tồn) để tìm đường ở nơi được vẽ trên đó.
 
-**Mirror (5 GP).** Một Mirror thép cầm tay hữu ích cho việc trang điểm cá nhân nhưng cũng để nhìn quanh góc và phản chiếu ánh sáng như một tín hiệu.
+**Gương (Mirror; 5 gp).** Gương thép cầm tay tiện để chải chuốt, nhưng cũng dùng để nhìn quanh góc khuất và phản chiếu ánh sáng làm tín hiệu.
 
-**Net (1 GP).** Khi thực hiện action Attack, bạn có thể thay một trong các cuộc tấn công của mình bằng việc ném một Net. Nhắm vào một creature bạn có thể nhìn thấy trong vòng 15 feet của bạn. Mục tiêu phải thành công trong một Dexterity saving throw (DC bằng 8 cộng với Dexterity modifier và Proficiency Bonus của bạn) hoặc có condition Restrained cho đến khi nó thoát ra. Mục tiêu tự động thành công nếu nó có kích thước Huge trở lên.
+**Lưới (Net; 1 gp).** Khi dùng hành động Tấn công, bạn có thể thay một đòn tấn công bằng việc tung Lưới. Nhắm vào một sinh vật mà bạn nhìn thấy trong phạm vi 4,5 m (15 feet). Mục tiêu phải thành công cứu nguy Khéo léo (DC bằng 8 + hệ số Khéo léo + thưởng thành thạo của bạn), nếu không rơi vào trạng thái Kiềm giữ cho đến khi thoát ra. Mục tiêu tự động thành công nếu cỡ Khổng lồ trở lên.
 
-Để thoát ra, mục tiêu hoặc một creature trong vòng 5 feet của nó phải thực hiện một action để thực hiện một DC 10 Strength (Athletics) check, giải thoát creature bị Restrained nếu thành công. Phá hủy Net (AC 10; 5 HP; Immunity với damage Bludgeoning, Poison, và Psychic) cũng giải thoát mục tiêu, kết thúc hiệu ứng.
+Để thoát, mục tiêu hoặc một sinh vật trong phạm vi 1,5 m (5 feet) quanh nó phải dùng một hành động kiểm tra Sức mạnh (Điền kinh) DC 10, giải thoát sinh vật bị Kiềm giữ nếu thành công. Phá hủy Lưới (AC 10; 5 HP; miễn nhiễm sát thương đập, độc và tâm linh) cũng giải thoát mục tiêu, chấm dứt hiệu ứng.
 
-**Oil (1 SP).** Bạn có thể dùng Oil để phủ lên một creature, object, hoặc không gian, hoặc dùng nó làm nhiên liệu, như trình bày chi tiết dưới đây.
+**Dầu (Oil; 1 sp).** Bạn có thể dùng Dầu tưới lên sinh vật, đồ vật hoặc một khu vực, hoặc dùng làm nhiên liệu, như trình bày dưới đây.
 
-- **Dousing a Creature or Object.** Khi thực hiện action Attack, bạn có thể thay một trong các cuộc tấn công của mình bằng việc ném một bình Oil. Nhắm vào một creature hoặc object trong vòng 20 feet của bạn. Mục tiêu phải thành công trong một Dexterity saving throw (DC bằng 8 cộng với Dexterity modifier và Proficiency Bonus của bạn) hoặc bị phủ dầu. Nếu mục tiêu nhận damage Fire trước khi dầu khô (sau 1 phút), mục tiêu nhận thêm 5 damage Fire từ dầu đang cháy.
-- **Dousing an Area.** Bạn có thể thực hiện action Utilize để đổ một bình Oil trên mặt đất bằng phẳng, phủ một khu vực 5-foot vuông trong vòng 5 feet của bạn. Nếu được đốt, dầu cháy cho đến hết turn 2 round kể từ khi dầu được đốt (hoặc 12 giây) và gây 5 damage Fire lên bất kỳ creature nào vào khu vực đó hoặc kết thúc turn của nó ở đó. Một creature chỉ có thể nhận damage này một lần mỗi turn.
-- **Fuel.** Oil là nhiên liệu cho Lamps và Lanterns. Khi được đốt, một bình Oil cháy trong 6 giờ trong một Lamp hoặc Lantern. Thời lượng đó không cần liên tục; bạn có thể dập tắt Oil đang cháy (như một action Utilize) và thắp lại nó cho đến khi nó đã cháy tổng cộng 6 giờ.
+- **Tưới lên sinh vật hoặc đồ vật (Dousing a Creature or Object).** Khi dùng hành động Tấn công, bạn có thể thay một đòn tấn công bằng việc ném một bình Dầu. Nhắm vào một sinh vật hoặc đồ vật trong phạm vi 6 m (20 feet). Mục tiêu phải thành công cứu nguy Khéo léo (DC bằng 8 + hệ số Khéo léo + thưởng thành thạo của bạn), nếu không bị dính dầu. Nếu mục tiêu chịu sát thương lửa trước khi dầu khô (sau 1 phút), nó chịu thêm 5 sát thương lửa từ dầu cháy.
+- **Tưới lên khu vực (Dousing an Area).** Bạn có thể dùng hành động Sử dụng để đổ một bình Dầu lên mặt đất bằng phẳng, phủ một khu vực vuông 1,5 m (5 feet) trong phạm vi 1,5 m (5 feet) quanh bạn. Nếu bị châm lửa, dầu cháy đến hết lượt 2 vòng sau khi bắt lửa (tức 12 giây) và gây 5 sát thương lửa cho sinh vật đi vào khu vực hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ chịu sát thương này một lần.
+- **Nhiên liệu (Fuel).** Dầu là nhiên liệu cho Đèn dầu và Đèn lồng. Một bình Dầu cháy được 6 giờ trong Đèn dầu hoặc Đèn lồng. Thời gian này không cần liên tục; bạn có thể dập lửa (bằng hành động Sử dụng) và thắp lại cho đến khi dầu đã cháy tổng cộng 6 giờ.
 
-**Paper (2 SP).** Một tờ Paper có thể chứa khoảng 250 từ viết tay.
+**Giấy (Paper; 2 sp).** Một tờ Giấy viết tay được khoảng 250 chữ.
 
-**Parchment (1 SP).** Một tờ Parchment có thể chứa khoảng 250 từ viết tay.
+**Giấy da (Parchment; 1 sp).** Một tờ Giấy da viết tay được khoảng 250 chữ.
 
-**Perfume (5 GP).** Perfume có trong một lọ 4-ounce. Trong 1 giờ sau khi xức Perfume lên bản thân, bạn có Advantage trên Charisma (Persuasion) check thực hiện để gây ảnh hưởng lên một Humanoid Indifferent trong vòng 5 feet của bạn.
+**Dầu thơm (Perfume; 5 gp).** Dầu thơm đựng trong lọ 120 ml (4 ounce). Trong 1 giờ sau khi xức, bạn có lợi thế khi kiểm tra Sức hút (Thuyết phục) để tác động lên một Hình người đang Thờ ơ trong phạm vi 1,5 m (5 feet).
 
-**Poison, Basic (100 GP).** Như một Bonus Action, bạn có thể dùng một lọ Basic Poison để phủ lên một weapon hoặc tối đa ba viên đạn. Một creature nhận damage Piercing hoặc Slashing từ weapon hoặc đạn đã tẩm độc nhận thêm 1d4 damage Poison. Sau khi tẩm, độc giữ hiệu lực trong 1 phút hoặc cho đến khi gây damage của nó, tùy điều gì đến trước.
+**Độc cơ bản (Poison, Basic; 100 gp).** Bằng một hành động phụ, bạn có thể dùng một lọ Độc cơ bản để tẩm lên một vũ khí hoặc tối đa ba viên đạn. Sinh vật chịu sát thương xuyên hoặc chém từ vũ khí hay đạn đã tẩm độc chịu thêm 1d4 sát thương độc. Sau khi tẩm, độc giữ hiệu lực trong 1 phút hoặc đến khi gây sát thương, tùy điều gì đến trước.
 
-**Pole (5 CP).** Một Pole dài 10 feet. Bạn có thể dùng nó để chạm vào thứ gì đó cách xa tới 10 feet. Nếu bạn phải thực hiện một Strength (Athletics) check như một phần của High hoặc Long Jump, bạn có thể dùng Pole để nhảy sào, cho bản thân Advantage trên check đó.
+**Sào (Pole; 5 cp).** Sào dài 3 m (10 feet). Bạn có thể dùng nó để chạm vào thứ ở xa tối đa 3 m (10 feet). Nếu phải kiểm tra Sức mạnh (Điền kinh) khi nhảy cao hoặc nhảy xa, bạn có thể dùng Sào để nhảy sào, có lợi thế ở phép kiểm tra đó.
 
-**Pot, Iron (2 GP).** Một Iron Pot chứa được tối đa 1 gallon.
+**Nồi sắt (Pot, Iron; 2 gp).** Nồi sắt chứa được tối đa 3,8 lít (1 gallon).
 
-**Potion of Healing (50 GP).** Potion này là một magic item. Như một Bonus Action, bạn có thể uống nó hoặc đưa cho một creature khác trong vòng 5 feet của bạn. Creature uống chất lỏng đỏ phép thuật trong lọ này phục hồi 2d4 + 2 Hit Points.
+**Thuốc chữa lành (Potion of Healing; 50 gp).** Lọ thuốc này là vật phẩm ma thuật. Bằng một hành động phụ, bạn có thể uống nó hoặc cho một sinh vật khác trong phạm vi 1,5 m (5 feet) uống. Sinh vật uống thứ chất lỏng đỏ ma thuật này hồi 2d4 + 2 HP.
 
-**Pouch (5 SP).** Một Pouch chứa được tối đa 6 pound trong một phần năm cubic foot.
+**Túi nhỏ (Pouch; 5 sp).** Túi nhỏ chứa được tối đa 2,7 kg (6 pound) trong thể tích 5,7 lít (1/5 foot khối).
 
-**Priest's Pack (33 GP).** Một Priest's Pack chứa các vật sau: Backpack, Blanket, Holy Water, Lamp, 7 ngày Rations, Robe, và Tinderbox.
+**Gói đồ tu sĩ (Priest's Pack; 33 gp).** Gói đồ tu sĩ gồm: Ba lô, Chăn, Nước thánh, Đèn dầu, Lương khô cho 7 ngày, Áo choàng và Hộp đánh lửa.
 
-**Quiver (1 GP).** Một Quiver chứa được tối đa 20 Arrows.
+**Ống tên (Quiver; 1 gp).** Ống tên chứa được tối đa 20 Mũi tên.
 
-**Ram, Portable (4 GP).** Bạn có thể dùng một Portable Ram để phá cửa. Khi làm vậy, bạn nhận bonus +4 vào Strength check. Một nhân vật khác có thể giúp bạn dùng ram, cho bạn Advantage trên check này.
+**Cây phá cửa (Ram, Portable; 4 gp).** Bạn có thể dùng Cây phá cửa để phá cửa. Khi đó, bạn được +4 khi kiểm tra Sức mạnh. Một nhân vật khác có thể giúp bạn cầm cây phá cửa, cho bạn lợi thế ở phép kiểm tra này.
 
-**Rations (5 SP).** Rations bao gồm thức ăn tiện lợi cho hành trình, gồm jerky, trái cây khô, hardtack, và các loại hạt. Xem "Malnutrition" trong "Rules Glossary" để biết rủi ro của việc không ăn.
+**Lương khô (Rations; 5 sp).** Lương khô gồm thức ăn tiện mang theo đường dài như thịt khô, trái cây sấy, bánh quy cứng và các loại hạt. Xem mục Suy dinh dưỡng (Malnutrition) trong [Bảng thuật ngữ luật](08-Rules-Glossary.md) để biết rủi ro khi nhịn ăn.
 
-**Robe (1 GP).** Một Robe mang ý nghĩa nghề nghiệp hoặc nghi lễ. Một số sự kiện và địa điểm chỉ cho phép người mặc một Robe mang màu sắc hoặc biểu tượng nhất định vào.
+**Áo choàng (Robe; 1 gp).** Áo choàng mang ý nghĩa nghề nghiệp hoặc nghi lễ. Một số sự kiện và nơi chốn chỉ cho người mặc áo choàng có màu sắc hay biểu tượng nhất định vào.
 
-**Rope (1 GP).** Như một action Utilize, bạn có thể thắt một nút bằng Rope nếu bạn thành công trong một DC 10 Dexterity (Sleight of Hand) check. Rope có thể bị đứt bằng một DC 20 Strength (Athletics) check thành công.
+**Dây thừng (Rope; 1 gp).** Bằng hành động Sử dụng, bạn có thể thắt nút bằng Dây thừng nếu thành công phép kiểm tra Khéo léo (Khéo tay) DC 10. Dây thừng có thể bị giật đứt nếu thành công phép kiểm tra Sức mạnh (Điền kinh) DC 20.
 
-Bạn chỉ có thể trói một creature bất đắc dĩ bằng Rope nếu creature đó có condition Grappled, Incapacitated, hoặc Restrained. Nếu chân của creature bị trói, creature có condition Restrained cho đến khi thoát ra. Thoát khỏi Rope đòi hỏi creature thực hiện thành công một DC 15 Dexterity (Acrobatics) check như một action.
+Bạn chỉ trói được sinh vật không tự nguyện bằng Dây thừng nếu nó đang Bị vật lộn, Mất năng lực hành động hoặc Kiềm giữ. Nếu chân sinh vật bị trói, nó rơi vào trạng thái Kiềm giữ cho đến khi thoát ra. Để thoát Dây thừng, sinh vật phải dùng một hành động và thành công phép kiểm tra Khéo léo (Nhào lộn) DC 15.
 
-**Sack (1 CP).** Một Sack chứa được tối đa 30 pound trong 1 cubic foot.
+**Bao tải (Sack; 1 cp).** Bao tải chứa được tối đa 13,5 kg (30 pound) trong thể tích 28 lít (1 foot khối).
 
-**Scholar's Pack (40 GP).** Một Scholar's Pack chứa các vật sau: Backpack, Book, Ink, Ink Pen, Lamp, 10 bình Oil, 10 tờ Parchment, và Tinderbox.
+**Gói đồ học giả (Scholar's Pack; 40 gp).** Gói đồ học giả gồm: Ba lô, Sách, Mực, Bút mực, Đèn dầu, 10 bình Dầu, 10 tờ Giấy da và Hộp đánh lửa.
 
-**Shovel (2 GP).** Làm việc trong 1 giờ, bạn có thể dùng một Shovel để đào một cái hố rộng 5 feet mỗi cạnh trong đất hoặc vật liệu tương tự.
+**Xẻng (Shovel; 2 gp).** Làm việc trong 1 giờ, bạn có thể dùng Xẻng đào một hố mỗi cạnh 1,5 m (5 feet) trong đất hoặc vật liệu tương tự.
 
-**Signal Whistle (5 CP).** Khi được thổi như một action Utilize, một Signal Whistle tạo ra âm thanh có thể nghe thấy trong vòng 600 feet.
+**Còi hiệu (Signal Whistle; 5 cp).** Khi thổi bằng hành động Sử dụng, Còi hiệu phát âm thanh nghe được trong phạm vi 180 m (600 feet).
 
-**Spell Scroll (Cantrip, 30 GP; Level 1, 50 GP).** Một Spell Scroll (Cantrip) hoặc Spell Scroll (Level 1) là một magic item mang lời của một cantrip hoặc spell level 1, tương ứng, được xác định bởi người tạo ra cuộn giấy. Nếu spell đó nằm trong spell list của class bạn, bạn có thể đọc cuộn giấy và thi triển spell bằng thời gian thi triển bình thường của nó và không cần cung cấp bất kỳ Material component nào.
+**Cuộn phép (Spell Scroll; phép sơ cấp 30 gp; bậc 1 50 gp).** Cuộn phép (phép sơ cấp) hoặc Cuộn phép (bậc 1) là vật phẩm ma thuật chứa lời chú của một phép sơ cấp hoặc phép bậc 1, do người tạo cuộn quyết định. Nếu phép thuộc danh sách phép của lớp bạn, bạn có thể đọc cuộn và thi triển phép với thời gian thi triển bình thường, không cần thành phần vật chất.
 
-Nếu spell yêu cầu một saving throw hoặc một attack roll, spell save DC là 13, và attack bonus là +5. Cuộn giấy tan biến khi việc thi triển hoàn tất.
+Nếu phép đòi hỏi cứu nguy hoặc tung tấn công, DC cứu nguy phép là 13 và điểm cộng tấn công là +5. Cuộn phép tan biến khi thi triển xong.
 
-**Spikes, Iron (1 GP).** Iron Spikes có theo bó mười cái. Như một action Utilize, bạn có thể dùng một vật cùn, chẳng hạn một Light Hammer, để đóng một cái spike vào gỗ, đất, hoặc vật liệu tương tự. Bạn có thể làm vậy để chèn một cánh cửa đóng chặt hoặc sau đó buộc một Rope hoặc Chain vào Spike.
+**Đinh sắt (Spikes, Iron; 1 gp).** Đinh sắt bán theo bó mười cây. Bằng hành động Sử dụng, bạn có thể dùng vật cùn như Búa nhẹ để đóng đinh vào gỗ, đất hoặc vật liệu tương tự, chẳng hạn để chèn chặt cánh cửa hoặc buộc Dây thừng hay Xích vào.
 
-**Spyglass (1.000 GP).** Các vật thể nhìn qua Spyglass được phóng đại gấp đôi kích thước.
+**Kính viễn vọng (Spyglass; 1.000 gp).** Vật nhìn qua Kính viễn vọng được phóng to gấp đôi.
 
-**String (1 SP).** String dài 10 feet. Bạn có thể thắt nút trong đó như một action Utilize.
+**Dây nhỏ (String; 1 sp).** Dây nhỏ dài 3 m (10 feet). Bạn có thể thắt nút bằng hành động Sử dụng.
 
-**Tent (2 GP).** Một Tent cho tối đa hai creature Small hoặc Medium ngủ.
+**Lều (Tent; 2 gp).** Lều cho tối đa hai sinh vật cỡ Nhỏ hoặc Trung bình ngủ.
 
-**Tinderbox (5 SP).** Một Tinderbox là một hộp nhỏ chứa đá lửa, thép đánh lửa, và bùi nhùi (thường là vải khô ngâm dầu nhẹ) dùng để nhóm lửa. Dùng nó để thắp một Candle, Lamp, Lantern, hoặc Torch — hoặc bất cứ thứ gì khác có nhiên liệu lộ ra — tốn một Bonus Action. Thắp bất kỳ ngọn lửa nào khác tốn 1 phút.
+**Hộp đánh lửa (Tinderbox; 5 sp).** Hộp đánh lửa là hộp nhỏ đựng đá lửa, thép đánh lửa và bùi nhùi (thường là vải khô tẩm chút dầu) để nhóm lửa. Dùng nó thắp Nến, Đèn dầu, Đèn lồng hoặc Đuốc — hay bất cứ thứ gì có nhiên liệu lộ ra — tốn một hành động phụ. Nhóm những ngọn lửa khác mất 1 phút.
 
-**Torch (1 CP).** Một Torch cháy trong 1 giờ, tỏa Bright Light trong bán kính 20 feet và Dim Light thêm 20 feet nữa. Khi thực hiện action Attack, bạn có thể tấn công bằng Torch, dùng nó như một Simple Melee weapon. Nếu trúng, mục tiêu nhận 1 damage Fire.
+**Đuốc (Torch; 1 cp).** Đuốc cháy trong 1 giờ, tỏa ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet). Khi dùng hành động Tấn công, bạn có thể đánh bằng Đuốc như vũ khí cận chiến đơn giản. Nếu trúng, mục tiêu chịu 1 sát thương lửa.
 
-**Vial (1 GP).** Một Vial chứa được tối đa 4 ounce.
+**Lọ nhỏ (Vial; 1 gp).** Lọ nhỏ chứa được tối đa 120 ml (4 ounce).
 
-**Waterskin (2 SP).** Một Waterskin chứa được tối đa 4 pint. Nếu bạn không uống đủ nước, bạn có nguy cơ mất nước (xem "Rules Glossary").
+**Túi nước (Waterskin; 2 sp).** Túi nước chứa được tối đa 1,9 lít (4 pint). Nếu không uống đủ nước, bạn có nguy cơ bị mất nước (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-## Mounts and Vehicles (Vật Cưỡi và Phương Tiện)
+## Thú cưỡi và phương tiện (Mounts and Vehicles)
 
-Một vật cưỡi có thể giúp bạn di chuyển nhanh hơn qua vùng hoang dã, nhưng mục đích chính của nó là mang trang bị vốn sẽ làm bạn chậm lại. Bảng **Mounts and Other Animals** cho biết khả năng mang vác của mỗi con vật. Xem "Monsters" để biết stat block của các con vật.
+Thú cưỡi giúp bạn đi nhanh hơn qua vùng hoang dã, nhưng công dụng chính là mang trang bị vốn sẽ làm bạn chậm lại. Bảng **Thú cưỡi và động vật khác** cho biết sức mang vác của từng con vật. Xem [Động vật](13-Animals.md) để biết khối thông số.
 
-**Mounts and Cargo (Vật Cưỡi và Hàng Hóa).** Một con vật kéo xe ngựa, xe kéo, chiến xa, xe trượt tuyết, hoặc toa xe có thể di chuyển trọng lượng tối đa gấp năm lần khả năng mang vác cơ bản của nó, bao gồm cả trọng lượng của phương tiện. Nếu nhiều con vật cùng kéo một phương tiện, hãy cộng khả năng mang vác của chúng lại.
+**Thú cưỡi và hàng hóa (Mounts and Cargo).** Con vật kéo xe ngựa, xe kéo, chiến xa, xe trượt hay xe hàng có thể kéo trọng lượng tối đa gấp năm lần sức mang vác cơ bản, tính cả trọng lượng phương tiện. Nếu nhiều con vật cùng kéo một phương tiện, hãy cộng sức mang vác của chúng.
 
-**Barding (Giáp Vật Cưỡi).** Barding là armor được thiết kế cho một vật cưỡi. Bất kỳ loại armor nào trong bảng Armor trong "Equipment" đều có thể mua làm barding. Chi phí gấp bốn lần chi phí bình thường, và nó nặng gấp đôi.
+**Giáp thú (Barding).** Giáp thú là giáp thiết kế cho thú cưỡi. Mọi loại giáp trong bảng Giáp đều có thể mua dạng giáp thú, với giá gấp bốn và trọng lượng gấp đôi.
 
-**Saddles (Yên Ngựa).** Một saddle đi kèm với hàm thiếc, dây cương, dây kéo, và bất kỳ trang bị nào khác cần thiết để dùng saddle. Một Military Saddle cho Advantage trên bất kỳ ability check nào bạn thực hiện để giữ mình trên lưng ngựa. Một Exotic Saddle cần thiết để cưỡi các động vật thủy sinh hoặc bay.
+**Yên (Saddles).** Yên đi kèm hàm thiếc, dây cương, dây đai và mọi đồ cần thiết để dùng yên. Yên chiến (Military Saddle) cho lợi thế ở mọi phép kiểm tra thuộc tính để giữ mình trên lưng thú. Yên ngoại lai (Exotic Saddle) cần để cưỡi động vật sống dưới nước hoặc biết bay.
 
-**Mounts and Other Animals (Vật Cưỡi và Động Vật Khác)**
+**Thú cưỡi và động vật khác (Mounts and Other Animals)**
 
-| Item | Carrying Capacity | Cost |
+| Con vật | Sức mang vác | Giá |
 |---|---|---|
-| Camel | 450 lb. | 50 GP |
-| Elephant | 1.320 lb. | 200 GP |
-| Horse, Draft | 540 lb. | 50 GP |
-| Horse, Riding | 480 lb. | 75 GP |
-| Mastiff | 195 lb. | 25 GP |
-| Mule | 420 lb. | 8 GP |
-| Pony | 225 lb. | 30 GP |
-| Warhorse | 540 lb. | 400 GP |
+| Lạc đà (Camel) | 202,5 kg (450 lb.) | 50 gp |
+| Voi (Elephant) | 594 kg (1.320 lb.) | 200 gp |
+| Ngựa kéo (Horse, Draft) | 243 kg (540 lb.) | 50 gp |
+| Ngựa cưỡi (Horse, Riding) | 216 kg (480 lb.) | 75 gp |
+| Chó ngao (Mastiff) | 87,75 kg (195 lb.) | 25 gp |
+| La (Mule) | 189 kg (420 lb.) | 8 gp |
+| Ngựa lùn (Pony) | 101,25 kg (225 lb.) | 30 gp |
+| Chiến mã (Warhorse) | 243 kg (540 lb.) | 400 gp |
 
-**Tack, Harness, and Drawn Vehicles (Yên Cương và Phương Tiện Kéo)**
+**Yên cương và phương tiện kéo (Tack, Harness, and Drawn Vehicles)**
 
-| Item | Weight | Cost |
+| Món đồ | Trọng lượng | Giá |
 |---|---|---|
-| Carriage | 600 lb. | 100 GP |
-| Cart | 200 lb. | 15 GP |
-| Chariot | 100 lb. | 250 GP |
-| Feed per day | 10 lb. | 5 CP |
-| Saddle, Exotic | 40 lb. | 60 GP |
-| Saddle, Military | 30 lb. | 20 GP |
-| Saddle, Riding | 25 lb. | 10 GP |
-| Sled | 300 lb. | 20 GP |
-| Stabling per day | — | 5 SP |
-| Wagon | 400 lb. | 35 GP |
+| Xe ngựa (Carriage) | 270 kg (600 lb.) | 100 gp |
+| Xe kéo (Cart) | 90 kg (200 lb.) | 15 gp |
+| Chiến xa (Chariot) | 45 kg (100 lb.) | 250 gp |
+| Thức ăn gia súc mỗi ngày (Feed per day) | 4,5 kg (10 lb.) | 5 cp |
+| Yên ngoại lai (Saddle, Exotic) | 18 kg (40 lb.) | 60 gp |
+| Yên chiến (Saddle, Military) | 13,5 kg (30 lb.) | 20 gp |
+| Yên cưỡi (Saddle, Riding) | 11,25 kg (25 lb.) | 10 gp |
+| Xe trượt (Sled) | 135 kg (300 lb.) | 20 gp |
+| Gửi chuồng mỗi ngày (Stabling per day) | — | 5 sp |
+| Xe hàng (Wagon) | 180 kg (400 lb.) | 35 gp |
 
-**Large Vehicles (Phương Tiện Lớn).** Bảng **Airborne and Waterborne Vehicles** cung cấp chỉ số cho nhiều loại phương tiện lớn khác nhau.
+**Phương tiện lớn (Large Vehicles).** Bảng **Phương tiện trên không và trên nước** cho chỉ số của nhiều loại phương tiện lớn.
 
-**Speed (Tốc Độ).** Các lưu ý sau áp dụng:
+**Tốc độ (Speed).** Lưu ý sau:
 
-Một con tàu đi ngược gió mạnh di chuyển với nửa tốc độ. Trong điều kiện lặng gió (không gió), tàu thủy không thể di chuyển bằng buồm và phải chèo. Keelboat và Rowboat được dùng trên hồ và sông. Nếu đi xuôi dòng, hãy cộng tốc độ dòng nước (thường 3 dặm mỗi giờ) vào tốc độ của phương tiện. Các phương tiện này không thể chèo ngược một dòng nước chảy mạnh, nhưng chúng có thể được kéo ngược dòng bởi các con vật kéo trên bờ. Một Rowboat có thể được mang theo và nặng 100 pound.
+Tàu đi ngược gió mạnh chỉ đạt nửa tốc độ. Khi lặng gió, tàu không thể đi bằng buồm mà phải chèo. Thuyền đáy bằng (Keelboat) và Thuyền chèo (Rowboat) dùng trên hồ và sông. Nếu xuôi dòng, cộng tốc độ dòng nước (thường 4,8 km/h; 3 mile/giờ) vào tốc độ phương tiện. Các phương tiện này không thể chèo ngược dòng chảy mạnh, nhưng có thể được động vật trên bờ kéo ngược dòng. Thuyền chèo có thể khiêng theo và nặng 45 kg (100 pound).
 
-**Airborne and Waterborne Vehicles (Phương Tiện Trên Không và Trên Nước)**
+**Phương tiện trên không và trên nước (Airborne and Waterborne Vehicles)**
 
-| Ship | Speed | Crew | Passengers | Cargo (Tons) | AC | HP | Damage Threshold | Cost |
+| Tàu | Tốc độ | Thủy thủ | Hành khách | Hàng (tấn) | AC | HP | Ngưỡng sát thương | Giá |
 |---|---|---|---|---|---|---|---|---|
-| Airship | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40.000 GP |
-| Galley | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30.000 GP |
-| Keelboat | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3.000 GP |
-| Longship | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10.000 GP |
-| Rowboat | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
-| Sailing Ship | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10.000 GP |
-| Warship | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25.000 GP |
+| Phi thuyền (Airship) | 12,8 km/h (8 mph) | 10 | 20 | 1 | 13 | 300 | — | 40.000 gp |
+| Thuyền galley (Galley) | 6,4 km/h (4 mph) | 80 | — | 150 | 15 | 500 | 20 | 30.000 gp |
+| Thuyền đáy bằng (Keelboat) | 1,6 km/h (1 mph) | 1 | 6 | 1/2 | 15 | 100 | 10 | 3.000 gp |
+| Thuyền dài (Longship) | 4,8 km/h (3 mph) | 40 | 150 | 10 | 15 | 300 | 15 | 10.000 gp |
+| Thuyền chèo (Rowboat) | 2,4 km/h (1½ mph) | 1 | 3 | — | 11 | 50 | — | 50 gp |
+| Thuyền buồm (Sailing Ship) | 3,2 km/h (2 mph) | 20 | 20 | 100 | 15 | 300 | 15 | 10.000 gp |
+| Chiến thuyền (Warship) | 4 km/h (2½ mph) | 60 | 60 | 200 | 15 | 500 | 20 | 25.000 gp |
 
-**Crew (Thủy Thủ Đoàn).** Một con tàu lớn hơn Keelboat hoặc Rowboat cần một đội thủy thủ lành nghề (xem "Hirelings" sau trong "Equipment") để hoạt động. Số lượng tối thiểu thủy thủ lành nghề cần để vận hành một con tàu phụ thuộc vào loại tàu, như trong bảng.
+**Thủy thủ đoàn (Crew).** Tàu lớn hơn Thuyền đáy bằng hoặc Thuyền chèo cần một đội thủy thủ lành nghề (xem [Người làm thuê](#người-làm-thuê-hirelings)) để vận hành. Số thủy thủ lành nghề tối thiểu tùy loại tàu, như trong bảng.
 
-**Passengers (Hành Khách).** Bảng liệt kê số lượng hành khách Small và Medium mà con tàu có thể chứa bằng võng. Một con tàu được trang bị chỗ ở riêng có thể chở một phần năm số hành khách đó. Một hành khách thường trả 5 SP mỗi ngày cho một chiếc võng, nhưng giá có thể khác nhau tùy tàu. Một cabin riêng nhỏ thường có giá 2 GP mỗi ngày.
+**Hành khách (Passengers).** Bảng ghi số hành khách cỡ Nhỏ và Trung bình mà tàu chở được khi ngủ võng. Tàu có buồng riêng chở được một phần năm số hành khách đó. Hành khách thường trả 5 sp mỗi ngày cho một chỗ võng, tùy tàu. Một khoang riêng nhỏ thường giá 2 gp mỗi ngày.
 
-**Damage Threshold (Ngưỡng Sát Thương).** Nếu một phương tiện có ngưỡng damage (xem "Rules Glossary"), nó được ghi chú trong bảng.
+**Ngưỡng sát thương (Damage Threshold).** Nếu phương tiện có ngưỡng sát thương (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)), giá trị được ghi trong bảng.
 
-**Ship Repair (Sửa Chữa Tàu).** Việc sửa chữa một con tàu bị hư hại có thể được thực hiện khi tàu neo đậu. Sửa 1 Hit Point damage cần 1 ngày và tốn 20 GP cho vật liệu và nhân công. Nếu việc sửa chữa được thực hiện ở nơi có vật liệu và nhân công lành nghề dồi dào, chẳng hạn một xưởng đóng tàu thành phố, thời gian và chi phí sửa chữa được giảm một nửa.
+**Sửa tàu (Ship Repair).** Tàu hư hại có thể được sửa khi đang neo đậu. Sửa 1 HP mất 1 ngày và tốn 20 gp vật liệu, nhân công. Nếu sửa ở nơi có nhiều vật liệu và thợ lành nghề, như xưởng đóng tàu trong thành phố, thời gian và chi phí giảm một nửa.
 
-## Lifestyle Expenses (Chi Phí Sinh Hoạt)
+## Chi phí sinh hoạt (Lifestyle Expenses)
 
-Chi phí sinh hoạt tóm tắt chi phí sống trong một thế giới giả tưởng. Chúng bao gồm chỗ ở, thức ăn, bảo trì trang bị, và các nhu cầu khác.
+Chi phí sinh hoạt là cách tóm gọn chi phí sống trong thế giới giả tưởng, gồm chỗ ở, thức ăn, bảo dưỡng trang bị và các nhu cầu khác.
 
-Vào đầu mỗi tuần hoặc tháng (tùy GM chọn), hãy chọn một mức sống dưới đây — Wretched, Squalid, Poor, Modest, Comfortable, Wealthy, hoặc Aristocratic — và trả giá để duy trì mức sống đó.
+Đầu mỗi tuần hoặc mỗi tháng (tùy GM), hãy chọn một mức sống dưới đây — Khốn khổ, Tồi tàn, Nghèo, Khiêm tốn, Thoải mái, Giàu có hoặc Quý tộc — và trả tiền để duy trì mức sống đó.
 
-Mức sống không có hậu quả cố hữu, nhưng GM có thể cân nhắc chúng khi xác định rủi ro hoặc cách người khác nhìn nhận nhân vật của bạn.
+Mức sống tự nó không có hệ quả, nhưng GM có thể tính đến khi quyết định rủi ro hoặc cách người khác nhìn nhân vật của bạn.
 
-- **Wretched (Khốn Khổ) (Miễn phí).** Bạn sống sót nhờ may mắn và lòng từ thiện. Bạn thường phải chịu các hiểm họa tự nhiên do ngủ ngoài trời.
-- **Squalid (Tồi Tàn) (1 SP mỗi ngày).** Bạn chi tiêu mức tối thiểu cho nhu cầu của mình. Bạn có thể bị phơi nhiễm với điều kiện không lành mạnh và tội phạm cơ hội.
-- **Poor (Nghèo Khó) (2 SP mỗi ngày).** Bạn chi tiêu tằn tiện cho nhu cầu của mình.
-- **Modest (Bình Thường) (1 GP mỗi ngày).** Bạn tự nuôi sống bản thân ở mức trung bình.
-- **Comfortable (Thoải Mái) (2 GP mỗi ngày).** Bạn chi tiêu vừa phải cho nhu cầu và thưởng thức một vài thứ xa xỉ.
-- **Wealthy (Giàu Có) (4 GP mỗi ngày).** Bạn quen với những thứ tốt đẹp nhất trong cuộc sống và có thể có người giúp việc.
-- **Aristocratic (Quý Tộc) (10 GP mỗi ngày).** Bạn trả tiền cho những thứ tốt nhất và có thể có đội ngũ nhân viên hỗ trợ lối sống của bạn. Người khác chú ý đến sự giàu có của bạn và có thể khuyến khích bạn chia sẻ nó, hợp pháp hoặc không.
+- **Khốn khổ (Wretched; miễn phí).** Bạn sống nhờ may rủi và lòng thương người. Bạn thường phải chịu hiểm họa tự nhiên vì ngủ ngoài trời.
+- **Tồi tàn (Squalid; 1 sp mỗi ngày).** Bạn chi tiêu mức tối thiểu cho nhu cầu. Bạn có thể phải chịu điều kiện sống mất vệ sinh và nạn trộm cắp vặt.
+- **Nghèo (Poor; 2 sp mỗi ngày).** Bạn chi tiêu tằn tiện cho nhu cầu.
+- **Khiêm tốn (Modest; 1 gp mỗi ngày).** Bạn tự lo cho bản thân ở mức trung bình.
+- **Thoải mái (Comfortable; 2 gp mỗi ngày).** Bạn chi tiêu rộng rãi cho nhu cầu và hưởng vài thứ xa xỉ.
+- **Giàu có (Wealthy; 4 gp mỗi ngày).** Bạn quen hưởng những thứ tốt đẹp nhất và có thể có người hầu.
+- **Quý tộc (Aristocratic; 10 gp mỗi ngày).** Bạn trả tiền cho những thứ tốt nhất và có thể có cả đội ngũ phục vụ lối sống của mình. Người khác để ý đến sự giàu có của bạn và có thể khuyến khích bạn chia sẻ nó, hợp pháp hoặc không.
 
-## Food, Drink, and Lodging (Thức Ăn, Đồ Uống, và Chỗ Ở)
+## Thức ăn, đồ uống và chỗ ở (Food, Drink, and Lodging)
 
-Bảng **Food, Drink, and Lodging** cho biết giá cả cho thức ăn và một đêm ở trọ. Giá cho chỗ ở và bữa ăn hàng ngày đã bao gồm trong chi phí mức sống của bạn.
+Bảng **Thức ăn, đồ uống và chỗ ở** cho biết giá thức ăn và một đêm trọ. Chi phí chỗ ở và bữa ăn hằng ngày đã tính trong chi phí sinh hoạt.
 
-**Food, Drink, and Lodging (Thức Ăn, Đồ Uống, và Chỗ Ở)**
+**Thức ăn, đồ uống và chỗ ở (Food, Drink, and Lodging)**
 
-| Item | Cost |
+| Món | Giá |
 |---|---|
-| Ale (mug) | 4 CP |
-| Bread (loaf) | 2 CP |
-| Cheese (wedge) | 1 SP |
-| Wine, Common (bottle) | 2 SP |
-| Wine, Fine (bottle) | 10 GP |
+| Bia (cốc) | 4 cp |
+| Bánh mì (ổ) | 2 cp |
+| Phô mai (miếng) | 1 sp |
+| Rượu vang thường (chai) | 2 sp |
+| Rượu vang hảo hạng (chai) | 10 gp |
 
-**Inn Stay per Day (Tiền Trọ Mỗi Ngày)**
+**Tiền trọ mỗi ngày (Inn Stay per Day)**
 
-| Lifestyle | Cost |
+| Mức sống | Giá |
 |---|---|
-| Squalid | 7 CP |
-| Poor | 1 SP |
-| Modest | 5 SP |
-| Comfortable | 8 SP |
-| Wealthy | 2 GP |
-| Aristocratic | 4 GP |
+| Tồi tàn | 7 cp |
+| Nghèo | 1 sp |
+| Khiêm tốn | 5 sp |
+| Thoải mái | 8 sp |
+| Giàu có | 2 gp |
+| Quý tộc | 4 gp |
 
-**Meal (Bữa Ăn)**
+**Bữa ăn (Meal)**
 
-| Lifestyle | Cost |
+| Mức sống | Giá |
 |---|---|
-| Squalid | 1 CP |
-| Poor | 2 CP |
-| Modest | 1 SP |
-| Comfortable | 2 SP |
-| Wealthy | 3 SP |
-| Aristocratic | 6 SP |
+| Tồi tàn | 1 cp |
+| Nghèo | 2 cp |
+| Khiêm tốn | 1 sp |
+| Thoải mái | 2 sp |
+| Giàu có | 3 sp |
+| Quý tộc | 6 sp |
 
-## Hirelings (Người Làm Thuê)
+## Người làm thuê (Hirelings)
 
-Skilled hireling bao gồm bất kỳ ai được thuê để thực hiện một dịch vụ liên quan đến một proficiency (bao gồm weapon, tool, hoặc skill): một lính đánh thuê, một thợ thủ công, một người chép thuê, v.v. Mức lương trong bảng Hirelings là mức tối thiểu; một số hireling chuyên gia yêu cầu trả nhiều hơn. Untrained hireling được thuê cho công việc không yêu cầu proficiency cụ thể; họ bao gồm lao động phổ thông và người khuân vác.
+Người làm thuê có tay nghề là bất kỳ ai được thuê cho một dịch vụ cần sự thành thạo (vũ khí, công cụ hoặc kỹ năng): lính đánh thuê, thợ thủ công, người chép thuê, v.v. Mức lương trong bảng Người làm thuê là mức tối thiểu; một số chuyên gia đòi giá cao hơn. Người làm thuê không có tay nghề được thuê cho công việc không cần thành thạo cụ thể, như lao động chân tay và khuân vác.
 
-**Hirelings (Người Làm Thuê)**
+**Người làm thuê (Hirelings)**
 
-| Service | Cost |
+| Dịch vụ | Giá |
 |---|---|
-| Skilled hireling | 2 GP mỗi ngày |
-| Untrained hireling | 2 SP mỗi ngày |
-| Messenger | 2 CP mỗi dặm |
+| Người làm thuê có tay nghề | 2 gp mỗi ngày |
+| Người làm thuê không tay nghề | 2 sp mỗi ngày |
+| Người đưa thư | 2 cp mỗi 1,6 km (mile) |
 
-## Spellcasting (Dịch Vụ Phép Thuật)
+## Dịch vụ phép thuật (Spellcasting)
 
-Hầu hết các khu định cư có những cá nhân sẵn lòng thi triển spell để đổi lấy tiền công. Nếu một spell có Material component đắt tiền, hãy cộng chi phí của các component đó vào chi phí được liệt kê trong bảng Spellcasting Services. Spell càng cao level, càng khó tìm được người thi triển nó.
+Hầu hết các khu dân cư đều có người sẵn lòng thi triển phép để lấy tiền công. Nếu phép có thành phần vật chất đắt tiền, cộng giá thành phần vào chi phí trong bảng Dịch vụ phép thuật. Phép bậc càng cao, càng khó tìm người thi triển.
 
-**Spellcasting Services (Dịch Vụ Phép Thuật)**
+**Dịch vụ phép thuật (Spellcasting Services)**
 
-| Spell Level | Availability | Cost |
+| Bậc phép | Nơi có dịch vụ | Giá |
 |---|---|---|
-| Cantrip | Village, town, hoặc city | 30 GP |
-| 1 | Village, town, hoặc city | 50 GP |
-| 2 | Village, town, hoặc city | 200 GP |
-| 3 | Chỉ Town hoặc city | 300 GP |
-| 4–5 | Chỉ Town hoặc city | 2.000 GP |
-| 6–8 | Chỉ City | 20.000 GP |
-| 9 | Chỉ City | 100.000 GP |
+| Phép sơ cấp | Làng, thị trấn hoặc thành phố | 30 gp |
+| 1 | Làng, thị trấn hoặc thành phố | 50 gp |
+| 2 | Làng, thị trấn hoặc thành phố | 200 gp |
+| 3 | Chỉ thị trấn hoặc thành phố | 300 gp |
+| 4–5 | Chỉ thị trấn hoặc thành phố | 2.000 gp |
+| 6–8 | Chỉ thành phố | 20.000 gp |
+| 9 | Chỉ thành phố | 100.000 gp |
 
-## Magic Items (Vật Phẩm Phép Thuật)
+## Vật phẩm ma thuật (Magic Items)
 
-Các cuộc phiêu lưu mang lại lời hứa — nhưng không đảm bảo — về việc tìm thấy magic item. Hàng trăm magic item được trình bày chi tiết trong "Magic Items" sau trong tài liệu này. Đây là những gì bạn cần biết về việc sử dụng magic item.
+Các cuộc phiêu lưu hứa hẹn — nhưng không bảo đảm — cơ hội tìm được vật phẩm ma thuật. Hàng trăm vật phẩm ma thuật được trình bày trong [Vật phẩm ma thuật](10-Magic-Items.md). Dưới đây là những điều bạn cần biết khi dùng chúng.
 
-**Identifying a Magic Item (Nhận Diện Magic Item).** Một số magic item không thể phân biệt với đối tác phi phép thuật của chúng, trong khi những item khác rõ ràng mang tính phép thuật. Cầm một magic item đủ để cho bạn cảm giác nó là đặc biệt, nhưng việc biết các thuộc tính của một magic item không phải là tự động.
+**Nhận diện vật phẩm ma thuật (Identifying a Magic Item).** Một số vật phẩm ma thuật trông không khác gì phiên bản thường, số khác lộ rõ vẻ ma thuật. Cầm một vật phẩm ma thuật đủ để bạn cảm thấy nó đặc biệt, nhưng việc biết thuộc tính của nó không tự động.
 
-Spell Identify là cách nhanh nhất để tiết lộ các thuộc tính của một item. Ngoài ra, bạn có thể tập trung vào một magic item trong một Short Rest trong khi tiếp xúc vật lý với item đó. Vào cuối lần nghỉ, bạn biết các thuộc tính của nó và cách dùng chúng (nhưng không biết bất kỳ lời nguyền nào item đó có thể mang).
+Phép *Nhận diện* (Identify) là cách nhanh nhất để biết thuộc tính của vật phẩm. Ngoài ra, bạn có thể tập trung vào vật phẩm trong một lần nghỉ ngắn khi tiếp xúc trực tiếp với nó. Cuối lần nghỉ, bạn biết thuộc tính và cách dùng (nhưng không biết lời nguyền nếu có).
 
-Đôi khi một magic item mang một manh mối về thuộc tính của nó. Câu lệnh kích hoạt của một Ring of Feather Falling có thể được khắc bên trong chiếc nhẫn, hoặc một họa tiết lông vũ có thể gợi ý rằng đó là một Ring of Feather Falling.
+Đôi khi vật phẩm mang manh mối về thuộc tính. Lệnh kích hoạt của *Nhẫn rơi nhẹ* (Ring of Feather Falling) có thể được khắc bên trong nhẫn, hoặc hoa văn lông vũ có thể gợi ý công dụng của nó.
 
-Việc mặc hoặc thử nghiệm với một item cũng có thể mang lại manh mối về thuộc tính của nó. Trong trường hợp cụ thể của Potion, một chút nếm thử đủ để cho người nếm biết Potion đó làm gì. Các item khác có thể cần nhiều thử nghiệm hơn. Ví dụ, nếu nhân vật của bạn mang vào một Ring of Swimming, GM có thể nói, "Chuyển động của bạn cảm thấy kỳ lạ trôi chảy." Có lẽ sau đó bạn lao xuống một con sông để xem điều gì xảy ra. GM khi đó sẽ nói bạn bơi giỏi một cách bất ngờ.
+Mặc thử hoặc thử nghiệm cũng có thể hé lộ thuộc tính. Riêng với thuốc ma thuật, nếm một chút là đủ biết tác dụng. Vật phẩm khác có thể cần thử nhiều hơn. Ví dụ, nếu nhân vật đeo *Nhẫn bơi lội* (Ring of Swimming), GM có thể nói: "Cử động của bạn trơn tru đến lạ." Có thể sau đó bạn nhảy xuống sông xem chuyện gì xảy ra, và GM sẽ nói bạn bơi giỏi bất ngờ.
 
-**Attunement (Đồng Điệu).** Một số magic item yêu cầu một creature phải hình thành một liên kết — gọi là Attunement — với chúng trước khi creature đó có thể dùng các thuộc tính phép thuật của item. Nếu không attune với một item yêu cầu Attunement, bạn chỉ nhận được các lợi ích phi phép thuật của nó trừ khi mô tả của nó nói khác. Ví dụ, một magic Shield yêu cầu Attunement mang lại các lợi ích của một Shield thông thường nếu bạn không attune với nó, nhưng không có bất kỳ thuộc tính phép thuật nào của nó.
+**Hòa hợp (Attunement).** Một số vật phẩm ma thuật đòi hỏi sinh vật phải tạo mối liên kết — gọi là hòa hợp — trước khi dùng được thuộc tính ma thuật. Nếu chưa hòa hợp với vật phẩm cần hòa hợp, bạn chỉ nhận lợi ích không ma thuật của nó, trừ khi mô tả nói khác. Ví dụ, một chiếc Khiên ma thuật cần hòa hợp vẫn cho lợi ích của Khiên thường nếu bạn chưa hòa hợp, nhưng không có thuộc tính ma thuật nào.
 
-*Attune during a Short Rest (Đồng Điệu trong Short Rest).* Attune với một item đòi hỏi bạn dành một Short Rest tập trung vào chỉ item đó trong khi tiếp xúc vật lý với nó (đây không thể là cùng Short Rest dùng để học các thuộc tính của item). Sự tập trung này có thể ở dạng luyện tập weapon (cho một Weapon), thiền định (cho một Wand), hoặc một hoạt động phù hợp khác. Nếu Short Rest bị gián đoạn, nỗ lực Attunement thất bại. Ngược lại, vào cuối Short Rest, bạn attune với magic item và có thể truy cập đầy đủ khả năng phép thuật của nó.
+*Hòa hợp trong lúc nghỉ ngắn (Attune during a Short Rest).* Để hòa hợp, bạn dành một lần nghỉ ngắn chỉ tập trung vào vật phẩm đó khi tiếp xúc trực tiếp với nó (không được là cùng lần nghỉ ngắn dùng để tìm hiểu thuộc tính). Sự tập trung có thể là luyện tập (với vũ khí), thiền định (với đũa phép) hoặc hoạt động phù hợp khác. Nếu lần nghỉ ngắn bị gián đoạn, việc hòa hợp thất bại. Nếu không, cuối lần nghỉ ngắn bạn hòa hợp với vật phẩm và dùng được toàn bộ năng lực ma thuật.
 
-*No More Than Three Items (Không Quá Ba Item).* Bạn không thể attune với nhiều hơn ba magic item cùng lúc. Bất kỳ nỗ lực attune với một item thứ tư nào đều thất bại; bạn phải kết thúc Attunement với một item trước. Ngoài ra, bạn không thể attune với nhiều hơn một bản sao của cùng một item. Ví dụ, bạn không thể attune với nhiều hơn một Ring of Protection cùng lúc.
+*Không quá ba vật phẩm (No More Than Three Items).* Bạn không thể hòa hợp cùng lúc với quá ba vật phẩm ma thuật. Mọi nỗ lực hòa hợp với vật phẩm thứ tư đều thất bại; bạn phải chấm dứt hòa hợp với một vật phẩm trước. Bạn cũng không thể hòa hợp với nhiều bản của cùng một vật phẩm. Ví dụ, bạn không thể cùng lúc hòa hợp với hai *Nhẫn bảo hộ* (Ring of Protection).
 
-*Ending Attunement (Kết Thúc Đồng Điệu).* Attunement của bạn với một item kết thúc nếu bạn không còn đáp ứng các điều kiện tiên quyết cho Attunement, nếu item đó đã cách xa hơn 100 feet trong ít nhất 24 giờ, nếu bạn chết, hoặc nếu một creature khác attune với item đó. Bạn cũng có thể tự nguyện kết thúc Attunement bằng cách dành một Short Rest khác tập trung vào item đó trừ khi item bị nguyền rủa.
+*Chấm dứt hòa hợp (Ending Attunement).* Sự hòa hợp chấm dứt nếu bạn không còn đáp ứng điều kiện tiên quyết, nếu vật phẩm cách bạn hơn 30 m (100 feet) trong ít nhất 24 giờ, nếu bạn chết, hoặc nếu sinh vật khác hòa hợp với vật phẩm. Bạn cũng có thể tự nguyện chấm dứt bằng cách dành một lần nghỉ ngắn khác tập trung vào vật phẩm, trừ khi nó bị nguyền.
 
-**Wearing and Wielding Items (Mặc và Cầm Item).** Sử dụng các thuộc tính của một magic item có thể đòi hỏi mặc hoặc cầm nó. Một magic item dành để mặc phải được mặc theo đúng cách: giày đi vào chân, găng tay vào tay, mũ và mũ giáp lên đầu, và nhẫn vào ngón tay. Magic armor phải được mặc, một Shield đeo vào cánh tay, một áo choàng cài quanh vai. Một weapon phải được cầm.
+**Mặc và cầm vật phẩm (Wearing and Wielding Items).** Dùng thuộc tính của vật phẩm ma thuật có thể đòi hỏi mặc hoặc cầm nó. Vật phẩm để mặc phải được mặc đúng cách: giày đi ở chân, găng ở tay, mũ và mũ giáp trên đầu, nhẫn đeo ở ngón tay. Giáp ma thuật phải được mặc, Khiên đeo trên cánh tay, áo choàng khoác trên vai. Vũ khí phải được cầm.
 
-Trong hầu hết các trường hợp, một magic item dành để mặc có thể vừa với một creature bất kể kích thước hay vóc dáng. Trang phục phép thuật được làm để dễ dàng điều chỉnh, hoặc chúng tự điều chỉnh một cách phép thuật cho người mặc.
+Trong đa số trường hợp, vật phẩm ma thuật để mặc vừa với sinh vật bất kể kích cỡ hay vóc dáng. Trang phục ma thuật được làm để dễ điều chỉnh, hoặc tự điều chỉnh bằng ma thuật cho vừa người mặc.
 
-*Multiple Items of the Same Kind (Nhiều Item Cùng Loại).* Bạn không thể mặc nhiều hơn một số magic item nhất định cùng lúc. Bạn thường không thể mặc nhiều hơn một đôi giày, một đôi găng tay hoặc gauntlet, một đôi bracer, một bộ armor, một món đồ đội đầu, hoặc một áo choàng. GM có thể tạo ngoại lệ.
+*Nhiều vật phẩm cùng loại (Multiple Items of the Same Kind).* Bạn không thể cùng lúc mặc quá một số vật phẩm nhất định. Thông thường, bạn không thể mang quá một đôi giày, một đôi găng tay hoặc găng giáp, một đôi bao cổ tay, một bộ giáp, một món đội đầu hay một áo choàng. GM có thể cho ngoại lệ.
 
-*Paired Items (Item Theo Cặp).* Các item đi theo cặp — chẳng hạn boot, bracer, gauntlet, và glove — chỉ phát huy đầy đủ lợi ích của chúng nếu cả hai item cùng loại được mặc. Ví dụ, một nhân vật mặc một chiếc Boots of Striding and Springing ở một chân và một chiếc Boots of Elvenkind ở chân kia không nhận được lợi ích nào từ cả hai.
+*Vật phẩm theo đôi (Paired Items).* Vật phẩm đi theo đôi — như giày, bao cổ tay, găng giáp và găng tay — chỉ phát huy lợi ích khi mang đủ cả đôi. Ví dụ, nhân vật đi một chiếc *Ủng sải bước và bật nhảy* (Boots of Striding and Springing) ở một chân và một chiếc *Ủng elf* (Boots of Elvenkind) ở chân kia không nhận lợi ích từ cả hai.
 
-## Crafting Nonmagical Items (Chế Tạo Vật Phẩm Phi Phép Thuật)
+## Chế tạo vật phẩm không có ma thuật (Crafting Nonmagical Items)
 
-Để chế tạo một vật phẩm phi phép thuật, bạn cần tool, nguyên liệu thô, và thời gian, mỗi thứ được trình bày chi tiết dưới đây. Nếu bạn đáp ứng các yêu cầu, bạn tạo ra vật phẩm, và bạn có thể dùng nó hoặc bán nó với giá bình thường.
+Để chế tạo vật phẩm không có ma thuật, bạn cần công cụ, nguyên liệu thô và thời gian, như trình bày dưới đây. Nếu đáp ứng các yêu cầu, bạn tạo ra vật phẩm và có thể dùng hoặc bán nó với giá bình thường.
 
-**Tools (Công Cụ).** Phần "Tools" của "Equipment" liệt kê tool nào cần thiết để tạo ra một số vật phẩm nhất định. GM chỉ định tool cần thiết cho các vật phẩm không được liệt kê ở đó.
+**Công cụ (Tools).** Phần [Công cụ](#công-cụ-tools) liệt kê công cụ cần để tạo một số vật phẩm. GM quyết định công cụ cần cho các vật phẩm không có trong danh sách.
 
-Bạn phải dùng tool cần thiết để tạo một vật phẩm và có proficiency với tool đó. Bất kỳ ai giúp bạn cũng phải có proficiency với nó.
+Bạn phải dùng đúng công cụ và thành thạo nó. Người giúp bạn cũng phải thành thạo công cụ đó.
 
-**Raw Materials (Nguyên Liệu Thô).** Để tạo một vật phẩm, bạn cần nguyên liệu thô trị giá một nửa giá mua của nó (làm tròn xuống). Ví dụ, bạn cần 750 GP nguyên liệu thô để tạo Plate Armor, được bán với giá 1.500 GP. GM xác định liệu nguyên liệu thô phù hợp có sẵn hay không.
+**Nguyên liệu thô (Raw Materials).** Để tạo một vật phẩm, bạn cần nguyên liệu thô trị giá một nửa giá mua (làm tròn xuống). Ví dụ, bạn cần 750 gp nguyên liệu để làm Giáp tấm, vốn bán 1.500 gp. GM quyết định nguyên liệu phù hợp có sẵn hay không.
 
-**Time (Thời Gian).** Để xác định số ngày (làm việc 8 giờ mỗi ngày) cần để tạo một vật phẩm, hãy chia giá mua của nó tính bằng GP cho 10 (làm tròn phần lẻ lên thành một ngày). Ví dụ, bạn cần 5 ngày để tạo một Heavy Crossbow, được bán với giá 50 GP.
+**Thời gian (Time).** Để tính số ngày (mỗi ngày làm 8 giờ) cần để tạo vật phẩm, chia giá mua theo gp cho 10 (phần lẻ làm tròn lên thành một ngày). Ví dụ, bạn cần 5 ngày để làm Nỏ nặng, vốn bán 50 gp.
 
-Nếu một vật phẩm cần nhiều ngày, các ngày đó không cần liên tục.
+Nếu vật phẩm cần nhiều ngày, các ngày đó không cần liên tục.
 
-Các nhân vật có thể kết hợp nỗ lực để rút ngắn thời gian chế tạo. Chia thời gian cần để tạo một vật phẩm cho số nhân vật đang làm việc trên đó. Thông thường, chỉ một nhân vật khác có thể hỗ trợ bạn, nhưng GM có thể cho phép nhiều trợ lý hơn.
+Nhiều nhân vật có thể góp sức để rút ngắn thời gian. Chia thời gian cần thiết cho số nhân vật cùng làm. Thông thường chỉ một nhân vật khác được giúp bạn, nhưng GM có thể cho thêm người phụ.
 
-## Brewing Potions of Healing (Pha Chế Potion of Healing)
+## Pha chế Thuốc chữa lành (Brewing Potions of Healing)
 
-Một nhân vật có proficiency với Herbalism Kit có thể tạo một Potion of Healing. Làm như vậy đòi hỏi dùng kit đó và 25 GP nguyên liệu thô trong suốt 1 ngày (8 giờ làm việc).
+Nhân vật thành thạo Bộ dụng cụ thảo dược có thể pha chế *Thuốc chữa lành* (Potion of Healing). Việc này cần dùng bộ dụng cụ và 25 gp nguyên liệu thô trong 1 ngày (8 giờ làm việc).
 
-## Scribing Spell Scrolls (Chép Spell Scroll)
+## Chép Cuộn phép (Scribing Spell Scrolls)
 
-Một spellcaster có thể chuyển một spell vào một cuộn giấy và tạo ra một Spell Scroll, dùng các quy tắc dưới đây.
+Người thi triển phép có thể chép một phép lên cuộn giấy để tạo *Cuộn phép* (Spell Scroll), theo các quy tắc dưới đây.
 
-**Time and Cost (Thời Gian và Chi Phí).** Việc chép một cuộn giấy tốn một lượng thời gian và tiền dựa trên level của spell, như trong bảng Spell Scroll Costs. Với mỗi ngày chép, bạn phải làm việc 8 giờ. Nếu một cuộn giấy cần nhiều ngày, các ngày đó không cần liên tục.
+**Thời gian và chi phí (Time and Cost).** Chép cuộn phép tốn thời gian và tiền bạc tùy bậc phép, như trong bảng Chi phí Cuộn phép. Mỗi ngày chép, bạn phải làm 8 giờ. Nếu cần nhiều ngày, các ngày đó không cần liên tục.
 
-**Prerequisites for the Scribe (Điều Kiện Tiên Quyết).** Để chép một cuộn giấy, bạn phải có proficiency trong skill Arcana hoặc với Calligrapher's Supplies và có spell đã chuẩn bị vào mỗi ngày chép. Bạn cũng phải có sẵn bất kỳ Material component nào spell yêu cầu; nếu spell tiêu thụ Material component của nó, chúng chỉ bị tiêu thụ khi bạn hoàn thành cuộn giấy. Spell trong cuộn giấy dùng spell save DC và spell attack bonus của bạn.
+**Điều kiện với người chép (Prerequisites for the Scribe).** Để chép cuộn phép, bạn phải thành thạo kỹ năng Huyền thuật hoặc Đồ nghề thư pháp, và phải chuẩn bị sẵn phép đó vào mỗi ngày chép. Bạn cũng phải có mọi thành phần vật chất mà phép cần; nếu phép tiêu hao thành phần vật chất, chúng chỉ bị tiêu hao khi bạn hoàn thành cuộn. Phép trên cuộn dùng DC cứu nguy phép và điểm cộng tấn công bằng phép của bạn.
 
-**Cantrips (Cantrip).** Nếu spell được chép là một cantrip, phiên bản trên cuộn giấy hoạt động như thể người thi triển ở level của bạn.
+**Phép sơ cấp (Cantrips).** Nếu phép được chép là phép sơ cấp, phiên bản trên cuộn hoạt động như thể người thi triển ở cấp của bạn.
 
-**Spell Scroll Costs (Chi Phí Spell Scroll)**
+**Chi phí Cuộn phép (Spell Scroll Costs)**
 
-| Spell Level | Time | Cost |
+| Bậc phép | Thời gian | Chi phí |
 |---|---|---|
-| Cantrip | 1 ngày | 15 GP |
-| 1 | 1 ngày | 25 GP |
-| 2 | 3 ngày | 100 GP |
-| 3 | 5 ngày | 150 GP |
-| 4 | 10 ngày | 1.000 GP |
-| 5 | 25 ngày | 1.500 GP |
-| 6 | 40 ngày | 10.000 GP |
-| 7 | 50 ngày | 12.500 GP |
-| 8 | 60 ngày | 15.000 GP |
-| 9 | 120 ngày | 50.000 GP |
+| Phép sơ cấp | 1 ngày | 15 gp |
+| 1 | 1 ngày | 25 gp |
+| 2 | 3 ngày | 100 gp |
+| 3 | 5 ngày | 150 gp |
+| 4 | 10 ngày | 1.000 gp |
+| 5 | 25 ngày | 1.500 gp |
+| 6 | 40 ngày | 10.000 gp |
+| 7 | 50 ngày | 12.500 gp |
+| 8 | 60 ngày | 15.000 gp |
+| 9 | 120 ngày | 50.000 gp |

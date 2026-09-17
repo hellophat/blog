@@ -1,72 +1,74 @@
 ---
-title: Chương 1 - Playing the Game (Chơi Trò Chơi)
+title: Chương 1 - Chơi trò chơi
+description: Luật cốt lõi của SRD 5.2.1 - nhịp chơi, sáu thuộc tính, phép thử d20, sự thành thạo, hành động, khám phá, chiến đấu và sát thương.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Playing the Game".
 
-# Playing the Game (Chơi Trò Chơi)
+## Nhịp chơi (Rhythm of Play)
 
-> Nguồn: *System Reference Document 5.2.1* ("SRD 5.2.1") của Wizards of the Coast LLC, được cấp phép theo **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**. Bản dịch tiếng Việt này giữ nguyên các thuật ngữ trò chơi bằng tiếng Anh (tên Ability, Skill, Action, Condition, v.v.) theo yêu cầu, chỉ dịch phần văn bản diễn giải.
+Ba trụ cột chính của lối chơi D&D là **tương tác xã hội**, **khám phá** và **chiến đấu**. Dù đang ở trụ cột nào, trò chơi cũng diễn ra theo một khuôn mẫu cơ bản:
 
-## Rhythm of Play (Nhịp Điệu Trò Chơi)
+1. **Quản trò mô tả cảnh.** Quản trò (Game Master, GM) cho người chơi biết các nhà phiêu lưu của họ đang ở đâu và xung quanh có gì (bao nhiêu cánh cửa dẫn ra khỏi phòng, trên bàn có gì, v.v.).
+2. **Người chơi mô tả điều họ muốn làm.** Đôi khi điều này nghĩa là mô tả chính xác nhân vật của một người chơi làm gì — ví dụ, một nhà phiêu lưu có thể băng qua phòng để mở một cánh cửa. Một người chơi khác có thể muốn nói gì đó với một nhân vật khác trong phòng. Đôi khi nhiều người chơi cùng bàn bạc, đưa ra ý kiến hoặc đề xuất cho GM về việc nhóm sẽ làm gì. GM lắng nghe và quyết định cách phân xử hành động của họ.
+3. **GM thuật lại kết quả hành động của các nhà phiêu lưu.** Đôi khi việc phân xử một hành động rất đơn giản.
 
-Ba trụ cột chính của lối chơi D&D là **social interaction** (tương tác xã hội), **exploration** (khám phá), và **combat** (chiến đấu). Dù đang trải nghiệm trụ cột nào, trò chơi cũng diễn ra theo một khuôn mẫu cơ bản:
+Thông thường, các nhân vật đi cùng nhau khi di chuyển qua một hầm ngục hoặc môi trường khác. Đôi khi các nhà phiêu lưu làm những việc khác nhau: một người lục soát rương báu, người thứ hai xem xét một ký hiệu bí ẩn khắc trên tường, còn người thứ ba canh chừng quái vật. Ngoài chiến đấu, GM bảo đảm mỗi nhân vật đều có cơ hội hành động và quyết định kết quả của hoạt động đó. Trong chiến đấu, các nhân vật hành động theo lượt.
 
-1. **The Game Master Describes a Scene.** GM (Game Master) cho người chơi biết các adventurer của họ đang ở đâu và xung quanh có gì (còn bao nhiêu cánh cửa dẫn ra khỏi phòng, trên bàn có gì, v.v.).
-2. **The Players Describe What They Want to Do.** Đôi khi điều này có nghĩa là mô tả chính xác nhân vật của một người chơi làm gì — ví dụ, một adventurer có thể băng qua phòng để mở một cánh cửa. Một người chơi khác có thể muốn nói gì đó với một nhân vật khác trong phòng. Đôi khi nhiều người chơi cùng thảo luận điều gì đó, đưa ra ý kiến hoặc đề xuất cho GM về việc nhóm sẽ làm gì. GM lắng nghe và quyết định cách diễn giải hành động của họ.
-3. **The GM Narrates the Results of the Adventurers' Actions.** Đôi khi việc giải quyết một hành động rất đơn giản.
+Nếu một nhà phiêu lưu băng qua phòng và cố mở một cánh cửa, GM có thể nói cánh cửa mở ra và mô tả những gì phía sau. Nhưng cánh cửa có thể bị khóa, sàn nhà có thể giấu một cái bẫy, hoặc một hoàn cảnh nào đó có thể khiến nhiệm vụ trở nên khó khăn. Trong những trường hợp đó, GM có thể yêu cầu người chơi tung xúc xắc để giúp xác định điều gì xảy ra. Việc mô tả kết quả thường dẫn đến một điểm quyết định khác, đưa trò chơi quay lại bước 1.
 
-Thông thường, các nhân vật đi cùng nhau khi di chuyển qua một dungeon hoặc môi trường khác. Đôi khi các adventurer khác nhau làm những việc khác nhau: một adventurer có thể lục soát một rương báu trong khi người thứ hai kiểm tra một ký hiệu bí ẩn khắc trên tường và người thứ ba canh chừng quái vật. Ngoài chiến đấu, GM đảm bảo mỗi nhân vật đều có cơ hội hành động và quyết định kết quả của hoạt động đó. Trong combat, các nhân vật lần lượt hành động (take turns).
+Khuôn mẫu này lặp lại trong suốt mỗi buổi chơi (mỗi lần bạn ngồi xuống chơi D&D), dù các nhà phiêu lưu đang trò chuyện với một quý tộc, khám phá một phế tích hay chiến đấu với một con rồng. Trong một số tình huống — đặc biệt là chiến đấu — hành động được tổ chức chặt chẽ hơn và mọi người hành động theo lượt.
 
-Nếu một adventurer băng qua phòng và cố mở một cánh cửa, GM có thể nói cánh cửa mở ra và mô tả những gì phía sau. Nhưng cánh cửa có thể bị khóa, sàn nhà có thể ẩn chứa một cái bẫy, hoặc một hoàn cảnh nào đó có thể khiến việc hoàn thành nhiệm vụ trở nên khó khăn đối với adventurer. Trong những trường hợp đó, GM có thể yêu cầu người chơi tung một con xúc xắc để giúp xác định điều gì xảy ra. Việc mô tả kết quả thường dẫn đến một điểm quyết định khác, đưa trò chơi quay lại bước 1.
+### Ngoại lệ ưu tiên hơn quy tắc chung (Exceptions Supersede General Rules)
 
-Khuôn mẫu này lặp lại trong suốt mỗi phiên chơi (mỗi lần bạn ngồi xuống chơi D&D), dù các adventurer đang nói chuyện với một quý tộc, khám phá một tàn tích, hay chiến đấu với một con rồng. Trong một số tình huống — đặc biệt là combat — hành động được cấu trúc chặt chẽ hơn, và mọi người lần lượt hành động.
+Các quy tắc chung chi phối từng phần của trò chơi. Ví dụ, luật chiến đấu cho biết đòn tấn công cận chiến dùng Sức mạnh còn đòn tấn công tầm xa dùng Khéo léo. Đó là một quy tắc chung, và quy tắc chung có hiệu lực miễn là không có điều gì trong trò chơi nói rõ điều ngược lại.
 
-### Exceptions Supersede General Rules (Ngoại Lệ Vượt Trên Quy Tắc Chung)
+Trò chơi cũng có những yếu tố — đặc tính lớp, kỳ tài, thuộc tính vũ khí, phép, vật phẩm ma thuật, khả năng của quái vật, v.v. — đôi khi mâu thuẫn với một quy tắc chung. Khi ngoại lệ và quy tắc chung mâu thuẫn, ngoại lệ thắng. Ví dụ, nếu một đặc tính nói bạn có thể thực hiện đòn tấn công cận chiến bằng Sức hút, bạn có thể làm vậy dù điều đó trái với quy tắc chung.
 
-Các quy tắc chung chi phối mỗi phần của trò chơi. Ví dụ, luật combat cho biết melee attack dùng Strength còn ranged attack dùng Dexterity. Đó là một quy tắc chung, và một quy tắc chung có hiệu lực miễn là không có điều gì trong trò chơi nói khác đi một cách rõ ràng.
+## Sáu thuộc tính (The Six Abilities)
 
-Trò chơi cũng bao gồm các yếu tố — class feature, feat, weapon property, spell, magic item, khả năng của quái vật, v.v. — đôi khi mâu thuẫn với một quy tắc chung. Khi một ngoại lệ và một quy tắc chung mâu thuẫn nhau, ngoại lệ thắng thế. Ví dụ, nếu một feature nói rằng bạn có thể thực hiện melee attack bằng Charisma, bạn có thể làm vậy, dù điều đó trái với quy tắc chung.
+Mọi sinh vật — nhân vật lẫn quái vật — đều có sáu **thuộc tính** đo lường đặc điểm thể chất và tinh thần. Bảng **Mô tả thuộc tính** trình bày các thuộc tính này.
 
-## The Six Abilities (Sáu Ability)
+**Mô tả thuộc tính (Ability Descriptions)**
 
-Tất cả các creature — nhân vật và quái vật — đều có sáu **abilities** đo lường đặc điểm thể chất và tinh thần. Bảng **Ability Descriptions** cho thấy các ability này.
-
-**Ability Descriptions (Mô Tả Ability)**
-
-| Ability Score | Measures … |
+| Thuộc tính | Đo lường… |
 |---|---|
-| Strength | Sức mạnh thể chất |
-| Dexterity | Sự nhanh nhẹn, phản xạ, và thăng bằng |
-| Constitution | Sức khỏe và sức bền |
-| Intelligence | Khả năng suy luận và trí nhớ |
-| Wisdom | Khả năng nhận thức và sự vững vàng tinh thần |
-| Charisma | Sự tự tin, phong thái, và sức thu hút |
+| Sức mạnh (Strength) | Sức mạnh thể chất |
+| Khéo léo (Dexterity) | Sự nhanh nhẹn, phản xạ và thăng bằng |
+| Thể chất (Constitution) | Sức khỏe và sức bền |
+| Trí tuệ (Intelligence) | Khả năng suy luận và trí nhớ |
+| Minh triết (Wisdom) | Khả năng nhận thức và sự vững vàng tinh thần |
+| Sức hút (Charisma) | Sự tự tin, phong thái và sức thu hút |
 
-### Ability Scores (Chỉ Số Năng Lực)
+### Điểm thuộc tính (Ability Scores)
 
-Mỗi ability có một score (điểm số) từ 1 đến 20, dù một số quái vật có score cao đến 30. Score thể hiện độ lớn của một ability. Bảng **Ability Score** tóm tắt ý nghĩa của các score.
+Mỗi thuộc tính có một điểm từ 1 đến 20, dù một số quái vật có điểm lên đến 30. Điểm thể hiện độ mạnh của thuộc tính. Bảng **Điểm thuộc tính** tóm tắt ý nghĩa của các mức điểm.
 
-**Ability Score (Chỉ Số Năng Lực)**
+**Điểm thuộc tính (Ability Score)**
 
-| Score | Meaning |
+| Điểm | Ý nghĩa |
 |---|---|
-| 1 | Đây là mức score thấp nhất mà một score thường có thể đạt được. Nếu một hiệu ứng làm giảm score xuống 0, hiệu ứng đó sẽ giải thích điều gì xảy ra. |
-| 2–9 | Đây thể hiện một khả năng yếu. |
-| 10–11 | Đây thể hiện mức trung bình của con người. |
-| 12–19 | Đây thể hiện một khả năng mạnh. |
-| 20 | Đây là score cao nhất mà một adventurer có thể đạt được trừ khi một feature nói khác. |
-| 21–29 | Đây thể hiện một khả năng phi thường. |
-| 30 | Đây là score cao nhất mà một score có thể đạt được. |
+| 1 | Mức thấp nhất mà một điểm thuộc tính thường đạt tới. Nếu một hiệu ứng làm điểm giảm xuống 0, hiệu ứng đó sẽ giải thích điều gì xảy ra. |
+| 2–9 | Thể hiện một năng lực yếu. |
+| 10–11 | Thể hiện mức trung bình của con người. |
+| 12–19 | Thể hiện một năng lực mạnh. |
+| 20 | Mức cao nhất một nhà phiêu lưu có thể đạt, trừ khi một đặc tính nói khác. |
+| 21–29 | Thể hiện một năng lực phi thường. |
+| 30 | Mức cao nhất mà một điểm thuộc tính có thể đạt. |
 
-**Round Down.** Bất cứ khi nào bạn chia hoặc nhân một con số trong trò chơi, hãy làm tròn xuống nếu kết quả có phần lẻ, ngay cả khi phần lẻ đó là một nửa trở lên. Một số quy tắc có ngoại lệ và yêu cầu bạn làm tròn lên.
+**Làm tròn xuống (Round Down).** Bất cứ khi nào bạn chia hoặc nhân một con số trong trò chơi, hãy làm tròn xuống nếu kết quả có phần lẻ, kể cả khi phần lẻ bằng một nửa trở lên. Một số quy tắc là ngoại lệ và yêu cầu bạn làm tròn lên.
 
-### Ability Modifiers (Hệ Số Điều Chỉnh Ability)
+### Hệ số thuộc tính (Ability Modifiers)
 
-Mỗi ability có một **modifier** (hệ số điều chỉnh) mà bạn áp dụng bất cứ khi nào thực hiện một D20 Test với ability đó (giải thích trong "D20 Tests"). Ability modifier được suy ra từ score của nó, như trong bảng **Ability Modifiers**.
+Mỗi thuộc tính có một **hệ số** (modifier) mà bạn áp dụng bất cứ khi nào thực hiện một phép thử d20 dựa trên thuộc tính đó (giải thích trong [Phép thử d20](#phép-thử-d20-d20-tests)). Hệ số thuộc tính được suy ra từ điểm thuộc tính, như trong bảng **Hệ số thuộc tính**.
 
-**Ability Modifiers (Hệ Số Điều Chỉnh Ability)**
+**Hệ số thuộc tính (Ability Modifiers)**
 
-| Score | Modifier | Score | Modifier |
+| Điểm | Hệ số | Điểm | Hệ số |
 |---|---|---|---|
 | 1 | −5 | 16–17 | +3 |
 | 2–3 | −4 | 18–19 | +4 |
@@ -77,574 +79,570 @@ Mỗi ability có một **modifier** (hệ số điều chỉnh) mà bạn áp d
 | 12–13 | +1 | 28–29 | +9 |
 | 14–15 | +2 | 30 | +10 |
 
-## D20 Tests (Kiểm Tra D20)
+## Phép thử d20 (D20 Tests)
 
-Khi kết quả của một hành động không chắc chắn, trò chơi dùng một lượt tung d20 để xác định thành công hay thất bại. Những lượt tung này được gọi là **D20 Tests**, và chúng có ba loại: **ability checks**, **saving throws**, và **attack rolls**. Chúng theo các bước sau:
+Khi kết quả của một hành động không chắc chắn, trò chơi dùng một lần tung d20 để xác định thành công hay thất bại. Những lần tung này gọi là **phép thử d20** và có ba loại: **phép kiểm tra thuộc tính**, **lần cứu nguy** và **lần tung tấn công**. Chúng theo các bước sau:
 
-1. **Roll 1d20.** Bạn luôn muốn tung ra số cao. Nếu lượt tung có Advantage hoặc Disadvantage (mô tả sau trong "Playing the Game"), bạn tung hai viên d20, nhưng chỉ dùng kết quả của một trong hai — cộng thêm với modifier nếu bạn có Advantage, hoặc lấy số thấp hơn nếu bạn có Disadvantage.
-2. **Add the Modifiers.** Cộng các modifier sau vào con số vừa tung trên d20:
-   - **The Relevant Ability Modifier.** "Playing the Game" và "Rules Glossary" giải thích ability modifier nào dùng cho các D20 Test khác nhau.
-   - **Your Proficiency Bonus, if Relevant.** Mỗi creature có một Proficiency Bonus, một con số được cộng thêm khi thực hiện D20 Test liên quan đến thứ gì đó, chẳng hạn một skill, mà creature có proficiency. Xem "Proficiency" bên dưới và trong "Playing the Game."
-   - Một class feature, một spell, hoặc một quy tắc khác có thể tạo ra bonus hoặc penalty cho lượt tung xúc xắc.
-3. **Compare the Total to a Target Number.** Nếu tổng của d20 và các modifier bằng hoặc vượt qua target number, D20 Test thành công. Ngược lại, nó thất bại. Game Master xác định target number và cho người chơi biết lượt tung của họ có thành công hay không. Target number cho một ability check hoặc một saving throw được gọi là **Difficulty Class (DC)**. Target number cho một attack roll được gọi là **Armor Class (AC)**, xuất hiện trên character sheet hoặc trong stat block (xem "Rules Glossary").
+1. **Tung 1d20.** Bạn luôn muốn tung được số cao. Nếu lần tung có lợi thế hoặc bất lợi (mô tả ở phần sau của chương này), bạn tung hai viên d20 nhưng chỉ dùng kết quả của một viên — viên cao hơn nếu có lợi thế, hoặc viên thấp hơn nếu có bất lợi.
+2. **Cộng các hệ số.** Cộng các giá trị sau vào kết quả d20:
+   - **Hệ số thuộc tính liên quan.** Chương này và [Bảng thuật ngữ luật](08-Rules-Glossary.md) giải thích hệ số thuộc tính nào dùng cho từng loại phép thử d20.
+   - **Thưởng thành thạo của bạn, nếu phù hợp.** Mỗi sinh vật có một thưởng thành thạo (Proficiency Bonus), là con số được cộng vào phép thử d20 liên quan đến thứ mà sinh vật đó thành thạo, chẳng hạn một kỹ năng. Xem [Sự thành thạo](#sự-thành-thạo-proficiency) bên dưới.
+   - Một đặc tính lớp, một phép hoặc một quy tắc khác có thể cho điểm cộng hoặc điểm trừ vào lần tung.
+3. **So tổng với con số mục tiêu.** Nếu tổng của d20 và các hệ số bằng hoặc vượt con số mục tiêu, phép thử d20 thành công; ngược lại, nó thất bại. Quản trò xác định con số mục tiêu và cho người chơi biết lần tung có thành công hay không. Con số mục tiêu của phép kiểm tra thuộc tính hoặc lần cứu nguy gọi là **Độ khó (Difficulty Class, DC)**. Con số mục tiêu của lần tung tấn công là **Chỉ số giáp (Armor Class, AC)**, ghi trên phiếu nhân vật hoặc trong khối thông số (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-### Ability Checks (Kiểm Tra Chỉ Số)
+### Phép kiểm tra thuộc tính (Ability Checks)
 
-Một **ability check** thể hiện việc một creature sử dụng tài năng và sự rèn luyện để cố gắng vượt qua một thử thách, chẳng hạn cạy mở một cánh cửa bị kẹt, mở khóa, giải trí cho đám đông, hoặc giải mã một mật mã. GM và luật chơi thường yêu cầu một ability check khi một creature cố thực hiện điều gì đó khác ngoài một cuộc tấn công mà có khả năng thất bại đáng kể. Khi kết quả không chắc chắn và thú vị về mặt kể chuyện, xúc xắc sẽ quyết định kết quả.
+Một **phép kiểm tra thuộc tính** thể hiện việc một sinh vật dùng tài năng và sự rèn luyện để vượt qua một thử thách, chẳng hạn phá một cánh cửa bị kẹt, mở khóa, mua vui cho đám đông hoặc giải một mật mã. GM và luật chơi thường yêu cầu kiểm tra thuộc tính khi một sinh vật cố làm điều gì đó không phải tấn công và có khả năng thất bại đáng kể. Khi kết quả không chắc chắn và thú vị về mặt câu chuyện, xúc xắc sẽ quyết định.
 
-Một ability check được đặt tên theo ability modifier mà nó sử dụng: một Strength check, một Intelligence check, v.v. Các ability check khác nhau được yêu cầu trong những tình huống khác nhau, tùy thuộc vào ability nào liên quan nhất. Xem bảng **Ability Check Examples** để biết ví dụ về cách sử dụng mỗi loại check.
+Mỗi phép kiểm tra thuộc tính được gọi theo hệ số thuộc tính mà nó dùng: kiểm tra Sức mạnh, kiểm tra Trí tuệ, v.v. Mỗi tình huống đòi hỏi một loại kiểm tra khác nhau, tùy theo thuộc tính nào liên quan nhất. Xem bảng **Ví dụ kiểm tra thuộc tính** để biết cách dùng từng loại.
 
-**Ability Check Examples (Ví Dụ Kiểm Tra Chỉ Số)**
+**Ví dụ kiểm tra thuộc tính (Ability Check Examples)**
 
-| Ability | Make a Check To … |
+| Thuộc tính | Kiểm tra để… |
 |---|---|
-| Strength | Nâng, đẩy, kéo, hoặc phá vỡ thứ gì đó |
-| Dexterity | Di chuyển khéo léo, nhanh chóng, hoặc lặng lẽ |
-| Constitution | Đẩy cơ thể vượt quá giới hạn bình thường |
-| Intelligence | Suy luận hoặc ghi nhớ |
-| Wisdom | Nhận biết các thứ trong môi trường hoặc trong hành vi của creature |
-| Charisma | Gây ảnh hưởng, giải trí, hoặc lừa dối |
+| Sức mạnh | Nâng, đẩy, kéo hoặc phá vỡ thứ gì đó |
+| Khéo léo | Di chuyển khéo léo, nhanh chóng hoặc lặng lẽ |
+| Thể chất | Ép cơ thể vượt quá giới hạn bình thường |
+| Trí tuệ | Suy luận hoặc ghi nhớ |
+| Minh triết | Nhận biết điều gì đó trong môi trường hoặc trong hành vi của sinh vật |
+| Sức hút | Gây ảnh hưởng, mua vui hoặc lừa gạt |
 
-**Proficiency Bonus.** Cộng Proficiency Bonus của bạn vào một ability check khi GM xác định rằng một skill hoặc tool proficiency có liên quan đến check đó và bạn có proficiency đó. Ví dụ, nếu một quy tắc nhắc đến một Strength (Acrobatics or Athletics) check, bạn có thể cộng Proficiency Bonus vào check nếu bạn có proficiency trong skill Acrobatics hoặc Athletics. Xem "Proficiency" sau trong "Playing the Game" để biết thêm thông tin về skill và tool proficiency.
+**Thưởng thành thạo (Proficiency Bonus).** Cộng thưởng thành thạo vào phép kiểm tra thuộc tính khi GM xác định rằng sự thành thạo một kỹ năng hoặc công cụ có liên quan và bạn thành thạo nó. Ví dụ, nếu một quy tắc nhắc đến phép kiểm tra Sức mạnh (Nhào lộn hoặc Điền kinh), bạn có thể cộng thưởng thành thạo nếu thành thạo kỹ năng Nhào lộn hoặc Điền kinh. Xem [Sự thành thạo](#sự-thành-thạo-proficiency) để biết thêm về thành thạo kỹ năng và công cụ.
 
-**Difficulty Class.** Difficulty Class của một ability check thể hiện độ khó của nhiệm vụ. Nhiệm vụ càng khó, DC càng cao. Luật chơi cung cấp DC cho một số check nhất định, nhưng GM là người cuối cùng quyết định. Bảng **Typical Difficulty Classes** trình bày một khoảng các DC điển hình cho ability check.
+**Độ khó (Difficulty Class).** Độ khó của một phép kiểm tra thuộc tính thể hiện mức khó của nhiệm vụ. Nhiệm vụ càng khó, DC càng cao. Luật chơi cho sẵn DC của một số phép kiểm tra, nhưng GM là người quyết định cuối cùng. Bảng **Độ khó điển hình** trình bày các DC thường gặp.
 
-**Typical Difficulty Classes (Difficulty Class Điển Hình)**
+**Độ khó điển hình (Typical Difficulty Classes)**
 
-| Task Difficulty | DC | Task Difficulty | DC |
+| Mức khó của nhiệm vụ | DC | Mức khó của nhiệm vụ | DC |
 |---|---|---|---|
-| Very easy | 5 | Very hard | 25 |
-| Easy | 10 | Nearly impossible | 30 |
-| Medium | 15 | | |
-| Hard | 20 | | |
+| Rất dễ | 5 | Rất khó | 25 |
+| Dễ | 10 | Gần như bất khả | 30 |
+| Trung bình | 15 | | |
+| Khó | 20 | | |
 
-### Saving Throws (Cứu Nguy)
+### Lần cứu nguy (Saving Throws)
 
-Một **saving throw** — còn gọi là **save** — thể hiện nỗ lực né tránh hoặc chống lại một mối đe dọa, chẳng hạn một vụ nổ lửa, một luồng khí độc, hoặc một spell cố xâm nhập tâm trí bạn. Bạn thường không chọn để thực hiện một save; bạn phải thực hiện nó vì nhân vật của bạn hoặc một quái vật (nếu bạn là GM) đang gặp nguy hiểm. Kết quả của một save được nêu chi tiết trong hiệu ứng gây ra nó. Nếu bạn không muốn chống lại hiệu ứng, bạn có thể chọn thất bại trong save mà không cần tung xúc xắc.
+Một **lần cứu nguy** (saving throw, gọi tắt là **save**) thể hiện nỗ lực né tránh hoặc chống lại một mối đe dọa, chẳng hạn một vụ nổ lửa, một luồng khí độc hoặc một phép đang cố xâm nhập tâm trí bạn. Thường thì bạn không chọn cứu nguy; bạn buộc phải làm vậy vì nhân vật của bạn hoặc quái vật (nếu bạn là GM) đang gặp nguy hiểm. Kết quả của lần cứu nguy được nêu trong hiệu ứng gây ra nó. Nếu không muốn chống lại hiệu ứng, bạn có thể chọn thất bại mà không cần tung xúc xắc.
 
-Saving throw được đặt tên theo ability modifier mà chúng sử dụng: một Constitution saving throw, một Wisdom saving throw, v.v. Các saving throw khác nhau được dùng để chống lại các loại hiệu ứng khác nhau, như trong bảng **Saving Throw Examples**.
+Lần cứu nguy được gọi theo hệ số thuộc tính mà nó dùng: cứu nguy Thể chất, cứu nguy Minh triết, v.v. Mỗi loại cứu nguy dùng để chống lại những loại hiệu ứng khác nhau, như trong bảng **Ví dụ cứu nguy**.
 
-**Saving Throw Examples (Ví Dụ Cứu Nguy)**
+**Ví dụ cứu nguy (Saving Throw Examples)**
 
-| Ability | Make a Save To … |
+| Thuộc tính | Cứu nguy để… |
 |---|---|
-| Strength | Chống chọi trực tiếp về mặt vật lý |
-| Dexterity | Né tránh nguy hiểm |
-| Constitution | Chịu đựng một mối nguy độc hại |
-| Intelligence | Nhận ra một ảo ảnh là giả |
-| Wisdom | Chống lại một sự tấn công tinh thần |
-| Charisma | Khẳng định bản sắc của bản thân |
+| Sức mạnh | Chống chọi trực diện bằng sức lực |
+| Khéo léo | Né tránh nguy hiểm |
+| Thể chất | Chịu đựng một mối nguy độc hại |
+| Trí tuệ | Nhận ra một ảo ảnh là giả |
+| Minh triết | Chống lại một đòn tấn công tinh thần |
+| Sức hút | Giữ vững bản ngã của mình |
 
-**Proficiency Bonus.** Bạn cộng Proficiency Bonus của mình vào saving throw nếu bạn có proficiency trong loại save đó. Xem "Proficiency" sau trong "Playing the Game."
+**Thưởng thành thạo (Proficiency Bonus).** Bạn cộng thưởng thành thạo vào lần cứu nguy nếu thành thạo loại cứu nguy đó. Xem [Sự thành thạo](#sự-thành-thạo-proficiency).
 
-**Difficulty Class.** Difficulty Class cho một saving throw được xác định bởi hiệu ứng gây ra nó hoặc bởi GM. Ví dụ, nếu một spell buộc bạn thực hiện một save, DC được xác định bởi spellcasting ability và Proficiency Bonus của người thi triển. Các khả năng của quái vật yêu cầu save sẽ chỉ định DC.
+**Độ khó (Difficulty Class).** DC của lần cứu nguy do hiệu ứng gây ra nó hoặc GM xác định. Ví dụ, nếu một phép buộc bạn cứu nguy, DC được xác định bởi thuộc tính thi triển phép và thưởng thành thạo của người thi triển. Khả năng của quái vật đòi hỏi cứu nguy sẽ ghi rõ DC.
 
-### Attack Rolls (Tung Tấn Công)
+### Lần tung tấn công (Attack Rolls)
 
-Một **attack roll** xác định liệu một cuộc tấn công có trúng mục tiêu hay không. Một attack roll trúng nếu lượt tung bằng hoặc vượt Armor Class của mục tiêu. Attack roll thường xảy ra trong chiến đấu, được mô tả trong "Combat" sau trong "Playing the Game," nhưng GM cũng có thể yêu cầu một attack roll trong các tình huống khác, chẳng hạn một cuộc thi bắn cung.
+Một **lần tung tấn công** xác định đòn tấn công có trúng mục tiêu hay không. Lần tung tấn công trúng nếu kết quả bằng hoặc vượt Chỉ số giáp của mục tiêu. Lần tung tấn công thường diễn ra trong chiến đấu, được mô tả ở phần [Chiến đấu](#chiến-đấu-combat) của chương này, nhưng GM cũng có thể yêu cầu tung tấn công trong các tình huống khác, chẳng hạn một cuộc thi bắn cung.
 
-Bảng **Attack Roll Abilities** cho biết ability modifier nào được dùng cho các loại attack roll khác nhau.
+Bảng **Thuộc tính dùng khi tung tấn công** cho biết hệ số thuộc tính nào dùng cho từng loại tấn công.
 
-**Attack Roll Abilities (Ability Dùng Cho Tung Tấn Công)**
+**Thuộc tính dùng khi tung tấn công (Attack Roll Abilities)**
 
-| Ability | Attack Type |
+| Thuộc tính | Loại tấn công |
 |---|---|
-| Strength | Melee attack với một weapon hoặc một Unarmed Strike (xem "Rules Glossary") |
-| Dexterity | Ranged attack với một weapon |
-| Varies | Spell attack (ability sử dụng được xác định bởi spellcasting feature của người thi triển, như giải thích trong "Spells") |
+| Sức mạnh | Tấn công cận chiến bằng vũ khí hoặc đòn tay không (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) |
+| Khéo léo | Tấn công tầm xa bằng vũ khí |
+| Tùy trường hợp | Tấn công bằng phép (thuộc tính sử dụng do đặc tính thi triển phép của người thi triển quyết định, như giải thích trong [Phép thuật](07-Spells.md)) |
 
-Một số feature cho phép bạn dùng ability modifier khác với những gì được liệt kê. Ví dụ, thuộc tính Finesse (xem "Equipment") cho phép bạn dùng Strength hoặc Dexterity với một weapon có thuộc tính đó.
+Một số đặc tính cho phép bạn dùng hệ số thuộc tính khác với bảng trên. Ví dụ, thuộc tính Tinh xảo (Finesse, xem [Trang bị](06-Equipment.md)) cho phép bạn dùng Sức mạnh hoặc Khéo léo với vũ khí có thuộc tính đó.
 
-**Proficiency Bonus.** Bạn cộng Proficiency Bonus của mình vào attack roll khi tấn công bằng một weapon mà bạn có proficiency, cũng như khi tấn công bằng một spell. Xem "Proficiency" sau trong "Playing the Game" để biết thêm thông tin về weapon proficiency.
+**Thưởng thành thạo (Proficiency Bonus).** Bạn cộng thưởng thành thạo vào lần tung tấn công khi tấn công bằng vũ khí mà bạn thành thạo, cũng như khi tấn công bằng phép. Xem [Sự thành thạo](#sự-thành-thạo-proficiency) để biết thêm về thành thạo vũ khí.
 
-**Armor Class.** Armor Class của một creature thể hiện creature đó tránh bị thương trong chiến đấu tốt đến mức nào. AC của một character được xác định khi tạo nhân vật (xem "Character Creation"), trong khi AC của một quái vật xuất hiện trong stat block của nó.
+**Chỉ số giáp (Armor Class).** Chỉ số giáp của một sinh vật thể hiện sinh vật đó tránh bị thương trong chiến đấu tốt đến đâu. AC của nhân vật được xác định khi tạo nhân vật (xem [Tạo nhân vật](02-Character-Creation.md)), còn AC của quái vật được ghi trong khối thông số.
 
-Tất cả creature bắt đầu với cùng công thức tính Base AC: **10 + ability modifier Dexterity của creature**. AC của một creature chỉ có thể được sửa đổi thêm bởi armor, magic item, spell, và nhiều thứ khác. Một số spell và class feature cho các nhân vật một cách khác để tính AC của họ. Một nhân vật có nhiều feature cho các cách tính AC khác nhau phải chọn dùng một trong số đó; chỉ có một cách tính base có thể có hiệu lực đối với một creature.
+Mọi sinh vật đều bắt đầu với cùng công thức tính AC cơ bản: **10 + hệ số Khéo léo của sinh vật**. AC có thể được điều chỉnh thêm bởi giáp, vật phẩm ma thuật, phép và nhiều thứ khác. Một số phép và đặc tính lớp cho nhân vật một cách tính AC khác. Nhân vật có nhiều đặc tính cho các cách tính AC khác nhau phải chọn dùng một; tại một thời điểm, mỗi sinh vật chỉ có một cách tính AC cơ bản có hiệu lực.
 
-**Rolling 20 or 1.** Nếu bạn tung ra 20 trên d20 (gọi là "natural 20") cho một attack roll, đòn tấn công trúng bất kể modifier hay AC của mục tiêu. Đây được gọi là một **Critical Hit** (xem "Combat" sau trong "Playing the Game"). Nếu bạn tung ra 1 trên d20 (một "natural 1") cho một attack roll, đòn tấn công trượt bất kể modifier hay AC của mục tiêu.
+**Tung được 20 hoặc 1 (Rolling 20 or 1).** Nếu bạn tung được 20 trên d20 (gọi là "20 tự nhiên") khi tung tấn công, đòn tấn công trúng bất kể hệ số hay AC của mục tiêu. Đây gọi là **đòn chí mạng** (Critical Hit, xem [Chiến đấu](#chiến-đấu-combat)). Nếu bạn tung được 1 trên d20 ("1 tự nhiên") khi tung tấn công, đòn tấn công trượt bất kể hệ số hay AC của mục tiêu.
 
-### Advantage/Disadvantage (Lợi Thế/Bất Lợi)
+### Lợi thế và bất lợi (Advantage/Disadvantage)
 
-Đôi khi một D20 Test được điều chỉnh bởi **Advantage** hoặc **Disadvantage**. Advantage phản ánh những hoàn cảnh tích cực xung quanh một lượt tung d20, trong khi Disadvantage phản ánh những hoàn cảnh tiêu cực.
+Đôi khi một phép thử d20 chịu ảnh hưởng của **lợi thế** (Advantage) hoặc **bất lợi** (Disadvantage). Lợi thế phản ánh hoàn cảnh thuận lợi quanh một lần tung d20, còn bất lợi phản ánh hoàn cảnh bất lợi.
 
-Bạn thường có được Advantage hoặc Disadvantage thông qua việc sử dụng các khả năng và action đặc biệt. GM cũng có thể quyết định rằng hoàn cảnh mang lại Advantage hoặc áp đặt Disadvantage.
+Bạn thường có lợi thế hoặc bất lợi nhờ các khả năng và hành động đặc biệt. GM cũng có thể quyết định rằng hoàn cảnh mang lại lợi thế hoặc áp đặt bất lợi.
 
-**Roll Two D20s.** Khi một lượt tung có Advantage hoặc Disadvantage, hãy tung thêm một viên d20 thứ hai khi thực hiện lượt tung đó. Dùng số cao hơn trong hai lượt tung nếu bạn có Advantage, và dùng số thấp hơn nếu bạn có Disadvantage. Ví dụ, nếu bạn có Disadvantage và tung ra 18 và 3, hãy dùng 3. Nếu thay vào đó bạn có Advantage và tung ra những số đó, hãy dùng 18.
+**Tung hai viên d20 (Roll Two D20s).** Khi lần tung có lợi thế hoặc bất lợi, hãy tung thêm một viên d20 thứ hai. Dùng kết quả cao hơn nếu có lợi thế và thấp hơn nếu có bất lợi. Ví dụ, nếu bạn có bất lợi và tung được 18 và 3, hãy dùng 3. Nếu bạn có lợi thế với cùng kết quả đó, hãy dùng 18.
 
-**They Don't Stack.** Nếu nhiều tình huống ảnh hưởng đến một lượt tung và tất cả đều cho Advantage, bạn vẫn chỉ tung hai viên d20. Tương tự, nếu nhiều tình huống áp đặt Disadvantage lên một lượt tung, bạn cũng chỉ tung hai viên d20.
+**Không cộng dồn (They Don't Stack).** Nếu nhiều tình huống cùng ảnh hưởng đến một lần tung và tất cả đều cho lợi thế, bạn vẫn chỉ tung hai viên d20. Tương tự, nếu nhiều tình huống áp đặt bất lợi, bạn cũng chỉ tung hai viên d20.
 
-Nếu hoàn cảnh khiến một lượt tung vừa có Advantage vừa có Disadvantage, lượt tung đó không có cả hai, và bạn tung một viên d20. Điều này đúng ngay cả khi nhiều hoàn cảnh áp đặt Disadvantage và chỉ có một hoàn cảnh cho Advantage hoặc ngược lại. Trong tình huống như vậy, bạn không có cả Advantage lẫn Disadvantage.
+Nếu hoàn cảnh khiến lần tung vừa có lợi thế vừa có bất lợi, xem như lần tung không có cả hai và bạn chỉ tung một viên d20. Điều này vẫn đúng khi nhiều hoàn cảnh áp đặt bất lợi mà chỉ một hoàn cảnh cho lợi thế, hoặc ngược lại. Trong trường hợp đó, bạn không có lợi thế cũng không có bất lợi.
 
-**Interactions with Rerolls.** Khi bạn có Advantage hoặc Disadvantage và điều gì đó trong trò chơi cho phép bạn tung lại hoặc thay thế d20, bạn chỉ có thể tung lại hoặc thay thế một viên xúc xắc, không phải cả hai. Bạn chọn viên nào.
+**Tương tác với việc tung lại (Interactions with Rerolls).** Khi bạn có lợi thế hoặc bất lợi và điều gì đó trong trò chơi cho phép bạn tung lại hoặc thay thế d20, bạn chỉ được tung lại hoặc thay thế một viên, không phải cả hai. Bạn chọn viên nào.
 
-Ví dụ, nếu bạn có Heroic Inspiration (xem hộp bên dưới) và tung ra 3 và 18 trong một ability check có Advantage hoặc Disadvantage, bạn có thể dùng Heroic Inspiration để tung lại một trong hai viên đó, không phải cả hai.
+Ví dụ, nếu bạn có Cảm hứng anh hùng (xem khung bên dưới) và tung được 3 và 18 trong một phép kiểm tra thuộc tính có lợi thế hoặc bất lợi, bạn có thể dùng Cảm hứng anh hùng để tung lại một trong hai viên, không phải cả hai.
 
-> **Heroic Inspiration**
+> [!info] Cảm hứng anh hùng (Heroic Inspiration)
+> Đôi khi GM hoặc một quy tắc trao cho bạn **Cảm hứng anh hùng**. Nếu có Cảm hứng anh hùng, bạn có thể dùng nó để tung lại bất kỳ viên xúc xắc nào ngay sau khi tung, và phải dùng kết quả mới.
 >
-> Đôi khi GM hoặc một quy tắc cho bạn **Heroic Inspiration**. Nếu bạn có Heroic Inspiration, bạn có thể dùng nó để tung lại bất kỳ viên xúc xắc nào ngay sau khi tung, và bạn phải dùng kết quả mới.
+> *Mỗi lúc chỉ một (Only One at a Time).* Bạn không bao giờ có nhiều hơn một Cảm hứng anh hùng. Nếu điều gì đó trao Cảm hứng anh hùng khi bạn đã có sẵn, bạn có thể trao nó cho một nhân vật người chơi khác trong nhóm chưa có.
 >
-> *Only One at a Time.* Bạn không bao giờ có thể có nhiều hơn một lần Heroic Inspiration. Nếu điều gì đó cho bạn Heroic Inspiration trong khi bạn đã có sẵn, bạn có thể trao nó cho một player character khác trong nhóm của bạn chưa có nó.
+> *Nhận Cảm hứng anh hùng (Gaining Heroic Inspiration).* GM có thể trao Cảm hứng anh hùng vì nhiều lý do. Thường thì GM trao nó khi bạn làm điều gì đó đặc biệt anh hùng, nhập vai hay hoặc thú vị. Đó là phần thưởng cho việc làm trò chơi vui hơn với mọi người.
 >
-> *Gaining Heroic Inspiration.* GM của bạn có thể trao Heroic Inspiration vì nhiều lý do. Thông thường, GM trao nó khi bạn làm điều gì đó đặc biệt anh hùng, nhập vai tốt, hoặc thú vị. Đó là phần thưởng cho việc làm trò chơi vui hơn cho mọi người tham gia.
->
-> Các quy tắc khác có thể cho phép nhân vật của bạn nhận Heroic Inspiration độc lập với quyết định của GM. Ví dụ, nhân vật Human bắt đầu mỗi ngày với Heroic Inspiration.
+> Các quy tắc khác có thể cho nhân vật nhận Cảm hứng anh hùng mà không phụ thuộc vào quyết định của GM. Ví dụ, nhân vật Con người bắt đầu mỗi ngày với Cảm hứng anh hùng.
 
-## Proficiency (Thành Thạo)
+## Sự thành thạo (Proficiency)
 
-Các nhân vật và quái vật giỏi ở những thứ khác nhau. Một số thành thạo nhiều loại weapon, trong khi những người khác chỉ dùng được vài loại. Một số giỏi hiểu động cơ của người khác hơn, và những người khác giỏi khám phá bí mật của đa vũ trụ hơn. Tất cả creature đều có một **Proficiency Bonus**, thể hiện tác động mà sự rèn luyện có lên khả năng của creature. Proficiency Bonus của một character tăng khi character lên level (mô tả trong "Character Creation"). Proficiency Bonus của một quái vật dựa trên Challenge Rating của nó (xem "Rules Glossary"). Bảng **Proficiency Bonus** cho biết bonus được xác định như thế nào.
+Nhân vật và quái vật giỏi những thứ khác nhau. Có người thành thạo nhiều loại vũ khí, có người chỉ dùng được vài loại. Có người giỏi đoán động cơ của người khác, có người giỏi khám phá bí mật của đa vũ trụ. Mọi sinh vật đều có một **thưởng thành thạo** (Proficiency Bonus), thể hiện tác động của sự rèn luyện lên năng lực của sinh vật. Thưởng thành thạo của nhân vật tăng khi nhân vật lên cấp (mô tả trong [Tạo nhân vật](02-Character-Creation.md)). Thưởng thành thạo của quái vật dựa trên Mức thách thức của nó (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)). Bảng **Thưởng thành thạo** cho biết cách xác định giá trị này.
 
-Bonus này được áp dụng cho một D20 Test khi creature có proficiency trong một skill, trong một saving throw, hoặc với một vật phẩm mà creature dùng để thực hiện D20 Test. Bonus cũng được dùng cho spell attack và để tính DC của saving throw cho các spell.
+Thưởng này được cộng vào phép thử d20 khi sinh vật thành thạo kỹ năng liên quan, loại cứu nguy liên quan hoặc vật phẩm mà nó dùng để thực hiện phép thử. Thưởng này cũng được dùng cho đòn tấn công bằng phép và để tính DC cứu nguy của phép.
 
-**Proficiency Bonus (Thành Thạo Bonus)**
+**Thưởng thành thạo (Proficiency Bonus)**
 
-| Level or CR | Bonus | Level or CR | Bonus |
+| Cấp hoặc CR | Thưởng | Cấp hoặc CR | Thưởng |
 |---|---|---|---|
-| Up to 4 | +2 | 17–20 | +6 |
+| Đến 4 | +2 | 17–20 | +6 |
 | 5–8 | +3 | 21–24 | +7 |
 | 9–12 | +4 | 25–28 | +8 |
 | 13–16 | +5 | 29–30 | +9 |
 
-**The Bonus Doesn't Stack.** Proficiency Bonus của bạn không thể được cộng vào một lượt tung xúc xắc hoặc một con số khác nhiều hơn một lần. Ví dụ, nếu một quy tắc cho phép bạn thực hiện một Charisma (Deception or Persuasion) check, bạn cộng Proficiency Bonus nếu bạn thành thạo một trong hai skill, nhưng bạn không cộng nó hai lần nếu bạn thành thạo cả hai skill.
+**Thưởng không cộng dồn (The Bonus Doesn't Stack).** Thưởng thành thạo không được cộng quá một lần vào cùng một lần tung hoặc con số. Ví dụ, nếu một quy tắc cho phép bạn thực hiện phép kiểm tra Sức hút (Lừa gạt hoặc Thuyết phục), bạn cộng thưởng thành thạo nếu thành thạo một trong hai kỹ năng, nhưng không cộng hai lần nếu thành thạo cả hai.
 
-Đôi khi, một Proficiency Bonus có thể được nhân hoặc chia (nhân đôi hoặc giảm một nửa, chẳng hạn) trước khi được cộng vào. Ví dụ, feature Expertise (xem "Rules Glossary") nhân đôi Proficiency Bonus cho một số ability check nhất định. Bất cứ khi nào bonus được sử dụng, nó chỉ có thể được nhân một lần và chia một lần.
+Đôi khi thưởng thành thạo được nhân hoặc chia (chẳng hạn nhân đôi hoặc giảm một nửa) trước khi cộng. Ví dụ, đặc tính Chuyên môn (Expertise, xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) nhân đôi thưởng thành thạo cho một số phép kiểm tra thuộc tính. Mỗi lần sử dụng, thưởng này chỉ được nhân một lần và chia một lần.
 
-### Skill Proficiencies (Thành Thạo Skill)
+### Thành thạo kỹ năng (Skill Proficiencies)
 
-Hầu hết ability check liên quan đến việc sử dụng một **skill**, đại diện cho một loại việc mà creature cố làm với một ability check. Mô tả của các action bạn thực hiện (xem "Actions" sau trong "Playing the Game") chỉ định skill nào áp dụng nếu bạn thực hiện một ability check cho action đó, và nhiều quy tắc khác cũng ghi chú khi một skill có liên quan. GM có quyết định cuối cùng về việc một skill có liên quan trong một tình huống hay không.
+Hầu hết phép kiểm tra thuộc tính liên quan đến một **kỹ năng**, đại diện cho loại việc mà sinh vật đang cố làm. Mô tả của các hành động (xem [Hành động](#hành-động-actions) ở phần sau) cho biết kỹ năng nào áp dụng khi bạn kiểm tra thuộc tính cho hành động đó, và nhiều quy tắc khác cũng ghi rõ khi một kỹ năng có liên quan. GM có quyết định cuối cùng về việc một kỹ năng có liên quan đến tình huống hay không.
 
-Nếu một creature thành thạo một skill, creature đó áp dụng Proficiency Bonus của mình vào các ability check liên quan đến skill đó. Không có proficiency trong một skill, một creature vẫn có thể thực hiện ability check liên quan đến skill đó nhưng không cộng thêm Proficiency Bonus. Ví dụ, nếu một nhân vật cố leo lên một vách đá, GM có thể yêu cầu một Strength (Athletics) check. Nếu nhân vật có Athletics proficiency, nhân vật cộng Proficiency Bonus vào Strength check. Nếu nhân vật không có proficiency đó, họ thực hiện check mà không cộng Proficiency Bonus.
+Nếu thành thạo một kỹ năng, sinh vật cộng thưởng thành thạo vào các phép kiểm tra thuộc tính liên quan đến kỹ năng đó. Không thành thạo, sinh vật vẫn có thể thực hiện phép kiểm tra nhưng không cộng thưởng thành thạo. Ví dụ, nếu một nhân vật cố leo vách đá, GM có thể yêu cầu kiểm tra Sức mạnh (Điền kinh). Nếu thành thạo Điền kinh, nhân vật cộng thưởng thành thạo vào phép kiểm tra Sức mạnh; nếu không, họ kiểm tra mà không cộng thưởng thành thạo.
 
-**Skill List.** Các skill được trình bày trong bảng **Skills**, ghi chú các ví dụ sử dụng cho mỗi skill proficiency cũng như ability check mà skill đó thường áp dụng nhất.
+**Danh sách kỹ năng (Skill List).** Các kỹ năng được trình bày trong bảng **Kỹ năng**, kèm ví dụ sử dụng và thuộc tính thường đi cùng kỹ năng đó nhất.
 
-**Skills (Skill)**
+**Kỹ năng (Skills)**
 
-| Skill | Ability | Example Uses |
+| Kỹ năng | Thuộc tính | Ví dụ sử dụng |
 |---|---|---|
-| Acrobatics | Dexterity | Giữ thăng bằng trong tình huống khó khăn, hoặc thực hiện một pha nhào lộn |
-| Animal Handling | Wisdom | Trấn an hoặc huấn luyện một con vật, hoặc khiến một con vật cư xử theo một cách nhất định |
-| Arcana | Intelligence | Nhớ lại kiến thức về spell, magic item, và các plane tồn tại |
-| Athletics | Strength | Nhảy xa hơn bình thường, nổi trên mặt nước dữ dội, hoặc phá vỡ thứ gì đó |
-| Deception | Charisma | Nói một lời nói dối thuyết phục, hoặc mang một sự cải trang thuyết phục |
-| History | Intelligence | Nhớ lại các sự kiện lịch sử, con người, quốc gia, và nền văn hóa |
-| Insight | Wisdom | Nhận biết tâm trạng và ý định của một người |
-| Intimidation | Charisma | Uy hiếp hoặc đe dọa ai đó làm theo ý bạn |
-| Investigation | Intelligence | Tìm thông tin khó tìm trong sách, hoặc suy luận cách thứ gì đó hoạt động |
-| Medicine | Wisdom | Chẩn đoán bệnh, hoặc xác định nguyên nhân cái chết gần đây |
-| Nature | Intelligence | Nhớ lại kiến thức về địa hình, thực vật, động vật, và thời tiết |
-| Perception | Wisdom | Dùng kết hợp các giác quan, nhận thấy thứ gì đó dễ bị bỏ sót |
-| Performance | Charisma | Diễn xuất, kể chuyện, chơi nhạc, hoặc nhảy múa |
-| Persuasion | Charisma | Thuyết phục ai đó một cách chân thành và lịch thiệp về điều gì đó |
-| Religion | Intelligence | Nhớ lại kiến thức về thần thánh, nghi lễ tôn giáo, và biểu tượng thiêng liêng |
-| Sleight of Hand | Dexterity | Móc túi, giấu một vật cầm tay, hoặc thực hiện ảo thuật tay |
-| Stealth | Dexterity | Tránh bị chú ý bằng cách di chuyển lặng lẽ và ẩn nấp sau vật gì đó |
-| Survival | Wisdom | Theo dấu vết, tìm kiếm thức ăn, hoặc tránh các mối nguy tự nhiên |
+| Nhào lộn (Acrobatics) | Khéo léo | Giữ thăng bằng trong tình huống khó, hoặc thực hiện động tác nhào lộn |
+| Xử lý động vật (Animal Handling) | Minh triết | Trấn an hoặc huấn luyện một con vật, hoặc khiến nó cư xử theo một cách nhất định |
+| Huyền thuật (Arcana) | Trí tuệ | Nhớ lại kiến thức về phép, vật phẩm ma thuật và các cõi tồn tại |
+| Điền kinh (Athletics) | Sức mạnh | Nhảy xa hơn bình thường, giữ mình nổi trên dòng nước dữ, hoặc phá vỡ thứ gì đó |
+| Lừa gạt (Deception) | Sức hút | Nói dối thuyết phục, hoặc duy trì một lớp cải trang đáng tin |
+| Lịch sử (History) | Trí tuệ | Nhớ lại sự kiện lịch sử, nhân vật, quốc gia và nền văn hóa |
+| Thấu hiểu (Insight) | Minh triết | Nhận ra tâm trạng và ý định của một người |
+| Uy hiếp (Intimidation) | Sức hút | Dọa nạt hoặc đe dọa ai đó làm theo ý bạn |
+| Điều tra (Investigation) | Trí tuệ | Tìm thông tin khó tìm trong sách vở, hoặc suy luận cách một thứ vận hành |
+| Y học (Medicine) | Minh triết | Chẩn đoán bệnh, hoặc xác định nguyên nhân của một cái chết gần đây |
+| Tự nhiên (Nature) | Trí tuệ | Nhớ lại kiến thức về địa hình, thực vật, động vật và thời tiết |
+| Tri giác (Perception) | Minh triết | Dùng các giác quan để nhận ra thứ dễ bị bỏ sót |
+| Biểu diễn (Performance) | Sức hút | Diễn xuất, kể chuyện, chơi nhạc hoặc nhảy múa |
+| Thuyết phục (Persuasion) | Sức hút | Thuyết phục ai đó một cách chân thành và lịch thiệp |
+| Tôn giáo (Religion) | Trí tuệ | Nhớ lại kiến thức về thần linh, nghi lễ tôn giáo và biểu tượng thiêng liêng |
+| Khéo tay (Sleight of Hand) | Khéo léo | Móc túi, giấu một vật nhỏ trong tay, hoặc làm ảo thuật tay |
+| Lén lút (Stealth) | Khéo léo | Tránh bị chú ý bằng cách di chuyển lặng lẽ và nấp sau vật cản |
+| Sinh tồn (Survival) | Minh triết | Lần theo dấu vết, tìm thức ăn, hoặc tránh hiểm họa tự nhiên |
 
-**Determining Skills.** Skill proficiency ban đầu của một character được xác định khi tạo nhân vật, và skill proficiency của một quái vật xuất hiện trong stat block của nó.
+**Xác định kỹ năng (Determining Skills).** Các kỹ năng thành thạo ban đầu của nhân vật được xác định khi tạo nhân vật; kỹ năng thành thạo của quái vật được ghi trong khối thông số.
 
-### Saving Throw Proficiencies (Thành Thạo Cứu Nguy)
+### Thành thạo cứu nguy (Saving Throw Proficiencies)
 
-Proficiency trong một saving throw cho phép một character cộng Proficiency Bonus vào các save sử dụng một ability cụ thể. Ví dụ, proficiency trong Wisdom save cho phép bạn cộng Proficiency Bonus vào Wisdom save của mình. Một số quái vật cũng có saving throw proficiency, như ghi chú trong stat block của chúng.
+Thành thạo một loại cứu nguy cho phép nhân vật cộng thưởng thành thạo vào các lần cứu nguy dùng thuộc tính đó. Ví dụ, thành thạo cứu nguy Minh triết cho phép bạn cộng thưởng thành thạo vào cứu nguy Minh triết. Một số quái vật cũng thành thạo cứu nguy, như ghi trong khối thông số.
 
-Mỗi class cho proficiency trong ít nhất hai saving throw, thể hiện sự rèn luyện của class đó trong việc né tránh hoặc chống lại một số mối đe dọa nhất định. Wizard, ví dụ, thành thạo Intelligence và Wisdom save; họ rèn luyện để chống lại tấn công tinh thần.
+Mỗi lớp nhân vật cho thành thạo ít nhất hai loại cứu nguy, thể hiện sự rèn luyện của lớp đó trong việc né tránh hoặc chống lại một số mối đe dọa. Ví dụ, Pháp sư thành thạo cứu nguy Trí tuệ và Minh triết; họ được rèn luyện để chống lại tấn công tinh thần.
 
-### Equipment Proficiencies (Thành Thạo Trang Bị)
+### Thành thạo trang bị (Equipment Proficiencies)
 
-Một character có được proficiency với nhiều loại weapon và tool từ class và background của họ. Có hai loại equipment proficiency:
+Nhân vật được thành thạo nhiều loại vũ khí và công cụ từ lớp nhân vật và xuất thân. Có hai loại thành thạo trang bị:
 
-**Weapons.** Ai cũng có thể cầm một weapon, nhưng proficiency giúp bạn sử dụng nó tốt hơn. Nếu bạn có proficiency với một weapon, bạn cộng Proficiency Bonus vào attack roll bạn thực hiện với nó.
+**Vũ khí (Weapons).** Ai cũng có thể cầm vũ khí, nhưng sự thành thạo giúp bạn dùng nó hiệu quả hơn. Nếu thành thạo một vũ khí, bạn cộng thưởng thành thạo vào lần tung tấn công bằng vũ khí đó.
 
-**Tools.** Nếu bạn có proficiency với một tool, bạn có thể cộng Proficiency Bonus vào bất kỳ ability check nào bạn thực hiện có sử dụng tool đó. Nếu bạn có proficiency trong skill cũng được dùng với check đó, bạn có Advantage trên check đó luôn. Điều này có nghĩa là bạn có thể hưởng lợi từ cả skill proficiency lẫn tool proficiency trên cùng một ability check.
+**Công cụ (Tools).** Nếu thành thạo một công cụ, bạn có thể cộng thưởng thành thạo vào mọi phép kiểm tra thuộc tính có dùng công cụ đó. Nếu bạn cũng thành thạo kỹ năng áp dụng cho phép kiểm tra ấy, bạn còn có lợi thế. Nghĩa là bạn có thể hưởng lợi từ cả thành thạo kỹ năng lẫn thành thạo công cụ trong cùng một phép kiểm tra.
 
-## Actions (Action)
+## Hành động (Actions)
 
-Khi bạn làm điều gì đó khác ngoài di chuyển hoặc giao tiếp, bạn thường thực hiện một **action**. Bảng **Actions** liệt kê các action chính của trò chơi, được định nghĩa chi tiết hơn trong "Rules Glossary."
+Khi làm điều gì đó ngoài di chuyển hoặc trò chuyện, bạn thường thực hiện một **hành động**. Bảng **Hành động** liệt kê các hành động chính của trò chơi, được định nghĩa chi tiết trong [Bảng thuật ngữ luật](08-Rules-Glossary.md).
 
-**Actions (Action)**
+**Hành động (Actions)**
 
-| Action | Summary |
+| Hành động | Tóm tắt |
 |---|---|
-| Attack | Tấn công bằng một weapon hoặc một Unarmed Strike. |
-| Dash | Trong phần còn lại của turn, cho bản thân thêm movement bằng với Speed của bạn. |
-| Disengage | Movement của bạn không kích hoạt Opportunity Attack trong phần còn lại của turn. |
-| Dodge | Cho đến khi bắt đầu turn tiếp theo của bạn, attack roll nhắm vào bạn có Disadvantage, và bạn thực hiện Dexterity saving throw với Advantage. Bạn mất lợi ích này nếu bạn có condition Incapacitated hoặc nếu Speed của bạn bằng 0. |
-| Help | Giúp ability check hoặc attack roll của một creature khác, hoặc sơ cứu. |
-| Hide | Thực hiện một Dexterity (Stealth) check. |
-| Influence | Thực hiện một Charisma (Deception, Intimidation, Performance, hoặc Persuasion) hoặc Wisdom (Animal Handling) check để thay đổi thái độ của một creature. |
-| Magic | Thi triển một spell, sử dụng một magic item, hoặc dùng một khả năng magic. |
-| Ready | Chuẩn bị thực hiện một action để phản ứng lại một trigger bạn xác định. |
-| Search | Thực hiện một Wisdom (Insight, Medicine, Perception, hoặc Survival) check. |
-| Study | Thực hiện một Intelligence (Arcana, History, Investigation, Nature, hoặc Religion) check. |
-| Utilize | Sử dụng một vật phẩm phi phép thuật. |
+| Tấn công (Attack) | Tấn công bằng vũ khí hoặc đòn tay không. |
+| Chạy nước rút (Dash) | Trong phần còn lại của lượt, nhận thêm lượng di chuyển bằng Tốc độ của bạn. |
+| Rút lui (Disengage) | Việc di chuyển của bạn không kích hoạt tấn công cơ hội trong phần còn lại của lượt. |
+| Né tránh (Dodge) | Cho đến đầu lượt kế tiếp của bạn, lần tung tấn công nhắm vào bạn chịu bất lợi và bạn có lợi thế khi cứu nguy Khéo léo. Bạn mất lợi ích này nếu rơi vào trạng thái Mất năng lực hành động hoặc Tốc độ của bạn bằng 0. |
+| Trợ giúp (Help) | Hỗ trợ phép kiểm tra thuộc tính hoặc lần tung tấn công của sinh vật khác, hoặc sơ cứu. |
+| Ẩn nấp (Hide) | Thực hiện phép kiểm tra Khéo léo (Lén lút). |
+| Tác động (Influence) | Thực hiện phép kiểm tra Sức hút (Lừa gạt, Uy hiếp, Biểu diễn hoặc Thuyết phục) hoặc Minh triết (Xử lý động vật) để thay đổi thái độ của một sinh vật. |
+| Ma thuật (Magic) | Thi triển phép, dùng vật phẩm ma thuật hoặc dùng một khả năng ma thuật. |
+| Chuẩn bị (Ready) | Chuẩn bị thực hiện một hành động để phản ứng với tác nhân kích hoạt do bạn xác định. |
+| Tìm kiếm (Search) | Thực hiện phép kiểm tra Minh triết (Thấu hiểu, Y học, Tri giác hoặc Sinh tồn). |
+| Nghiên cứu (Study) | Thực hiện phép kiểm tra Trí tuệ (Huyền thuật, Lịch sử, Điều tra, Tự nhiên hoặc Tôn giáo). |
+| Sử dụng (Utilize) | Dùng một đồ vật không có ma thuật. |
 
-Player character và quái vật cũng có thể làm những việc không được các action này bao quát. Nhiều class feature và khả năng khác cung cấp thêm lựa chọn action, và bạn có thể ứng biến các action khác. Khi bạn mô tả một action không được nêu chi tiết ở nơi khác trong luật, Game Master sẽ cho bạn biết action đó có khả thi hay không và bạn cần loại D20 Test nào, nếu có.
+Nhân vật người chơi và quái vật cũng có thể làm những việc mà các hành động này không bao quát. Nhiều đặc tính lớp và khả năng khác mở thêm lựa chọn hành động, và bạn có thể ứng biến những hành động khác. Khi bạn mô tả một hành động không được nêu trong luật, Quản trò sẽ cho biết hành động đó có khả thi không và cần loại phép thử d20 nào, nếu có.
 
-**One Thing at a Time.** Trò chơi sử dụng action để kiểm soát bạn có thể làm được bao nhiêu việc cùng lúc. Bạn chỉ có thể thực hiện một action tại một thời điểm. Nguyên tắc này quan trọng nhất trong combat, như giải thích trong "Combat" sau trong "Playing the Game." Action cũng có thể xuất hiện trong các tình huống khác: trong một social interaction, bạn có thể cố Influence một creature hoặc dùng action Search để đọc ngôn ngữ cơ thể của creature, nhưng bạn không thể làm cả hai cùng lúc. Và khi bạn khám phá một dungeon, bạn không thể đồng thời dùng action Search để tìm bẫy và dùng action Help để hỗ trợ một nhân vật khác đang cố mở một cánh cửa bị kẹt (bằng action Utilize).
+**Mỗi lúc một việc (One Thing at a Time).** Trò chơi dùng hành động để giới hạn số việc bạn làm được cùng lúc. Mỗi lúc bạn chỉ thực hiện được một hành động. Nguyên tắc này quan trọng nhất trong chiến đấu, như giải thích ở phần [Chiến đấu](#chiến-đấu-combat). Hành động cũng xuất hiện trong các tình huống khác: trong tương tác xã hội, bạn có thể cố Tác động lên một sinh vật hoặc dùng hành động Tìm kiếm để đọc ngôn ngữ cơ thể của nó, nhưng không thể làm cả hai cùng lúc. Khi khám phá hầm ngục, bạn cũng không thể vừa dùng hành động Tìm kiếm để dò bẫy vừa dùng hành động Trợ giúp để hỗ trợ một nhân vật khác đang cố mở cánh cửa bị kẹt (bằng hành động Sử dụng).
 
-### Bonus Actions (Bonus Action)
+### Hành động phụ (Bonus Actions)
 
-Nhiều class feature, spell, và khả năng khác cho phép bạn thực hiện thêm một action trong turn của mình gọi là **Bonus Action**. Feature Cunning Action, ví dụ, cho phép một Rogue thực hiện một Bonus Action. Bạn chỉ có thể thực hiện một Bonus Action khi một khả năng đặc biệt, một spell, hoặc một feature khác của trò chơi nói rằng bạn có thể làm điều gì đó như một Bonus Action. Nếu không, bạn không có Bonus Action nào để dùng.
+Nhiều đặc tính lớp, phép và khả năng khác cho phép bạn thực hiện thêm một hành động trong lượt, gọi là **hành động phụ**. Ví dụ, đặc tính Hành động xảo quyệt (Cunning Action) cho phép Đạo tặc thực hiện hành động phụ. Bạn chỉ có hành động phụ khi một khả năng đặc biệt, một phép hoặc một đặc tính khác nói rằng bạn có thể làm điều gì đó bằng hành động phụ. Nếu không, bạn không có hành động phụ nào để dùng.
 
-Bạn chỉ có thể thực hiện một Bonus Action trong turn của mình, vì vậy bạn phải chọn Bonus Action nào để dùng nếu bạn có nhiều hơn một lựa chọn.
+Mỗi lượt bạn chỉ thực hiện được một hành động phụ, nên nếu có nhiều lựa chọn, bạn phải chọn dùng cái nào.
 
-Bạn chọn thời điểm thực hiện Bonus Action trong turn của mình trừ khi thời điểm của Bonus Action đó được chỉ định. Bất cứ điều gì tước đi khả năng thực hiện action của bạn cũng ngăn bạn thực hiện Bonus Action.
+Bạn chọn thời điểm thực hiện hành động phụ trong lượt, trừ khi thời điểm đó đã được chỉ định. Bất cứ điều gì tước đi khả năng thực hiện hành động của bạn cũng ngăn bạn thực hiện hành động phụ.
 
-### Reactions (Reaction)
+### Phản ứng (Reactions)
 
-Một số khả năng đặc biệt, spell, và tình huống cho phép bạn thực hiện một action đặc biệt gọi là **Reaction**. Một Reaction là phản ứng tức thời với một trigger nào đó, có thể xảy ra trong turn của bạn hoặc của người khác. Opportunity Attack, được mô tả sau trong "Playing the Game," là loại Reaction phổ biến nhất.
+Một số khả năng đặc biệt, phép và tình huống cho phép bạn thực hiện một hành động đặc biệt gọi là **phản ứng**. Phản ứng là sự đáp trả tức thời với một tác nhân kích hoạt, có thể xảy ra trong lượt của bạn hoặc của người khác. Tấn công cơ hội, được mô tả ở phần sau của chương này, là loại phản ứng phổ biến nhất.
 
-Khi bạn thực hiện một Reaction, bạn không thể thực hiện một Reaction khác cho đến khi bắt đầu turn tiếp theo của bạn. Nếu reaction ngắt turn của một creature khác, creature đó có thể tiếp tục turn của mình ngay sau Reaction.
+Sau khi dùng phản ứng, bạn không thể dùng phản ứng khác cho đến đầu lượt kế tiếp của mình. Nếu phản ứng làm gián đoạn lượt của một sinh vật khác, sinh vật đó có thể tiếp tục lượt ngay sau phản ứng.
 
-Về mặt thời điểm, một Reaction xảy ra ngay sau trigger của nó trừ khi mô tả của Reaction nói khác.
+Về thời điểm, phản ứng xảy ra ngay sau tác nhân kích hoạt, trừ khi mô tả của phản ứng nói khác.
 
-## Social Interaction (Tương Tác Xã Hội)
+## Tương tác xã hội (Social Interaction)
 
-Trong các cuộc phiêu lưu, player character gặp nhiều người khác nhau và đối mặt với một số quái vật thà nói chuyện hơn là chiến đấu. Trong những tình huống đó, đã đến lúc cho social interaction, diễn ra dưới nhiều hình thức. Ví dụ, bạn có thể cố thuyết phục một tên trộm thú nhận sai phạm hoặc cố nịnh nọt một lính canh. Game Master đảm nhận vai trò của bất kỳ nonplayer character (NPC) nào tham gia.
+Trong các cuộc phiêu lưu, nhân vật người chơi gặp nhiều người và đối mặt với những quái vật thích nói chuyện hơn là đánh nhau. Đó là lúc tương tác xã hội diễn ra dưới nhiều hình thức. Ví dụ, bạn có thể cố thuyết phục một tên trộm thú nhận tội lỗi hoặc tìm cách tâng bốc một lính canh. Quản trò đảm nhận vai của mọi nhân vật không do người chơi điều khiển (NPC) tham gia.
 
-Thái độ của một NPC đối với nhân vật của bạn là **Friendly**, **Indifferent**, hoặc **Hostile**, như định nghĩa trong "Rules Glossary." NPC Friendly có xu hướng giúp đỡ, còn NPC Hostile có xu hướng gây cản trở.
+Thái độ của một NPC đối với nhân vật của bạn là **Thân thiện** (Friendly), **Thờ ơ** (Indifferent) hoặc **Thù địch** (Hostile), như định nghĩa trong [Bảng thuật ngữ luật](08-Rules-Glossary.md). NPC thân thiện có xu hướng giúp đỡ, còn NPC thù địch có xu hướng gây cản trở.
 
-Social interaction diễn tiến theo hai cách: thông qua **roleplaying** và ability check.
+Tương tác xã hội diễn ra theo hai cách: **nhập vai** và phép kiểm tra thuộc tính.
 
-**Roleplaying.** Roleplaying, theo nghĩa đen, là hành động diễn một vai. Trong trường hợp này, đó là bạn với tư cách người chơi xác định nhân vật của mình suy nghĩ, hành động, và nói chuyện như thế nào. Roleplaying là một phần của mọi khía cạnh trò chơi, và nó nổi bật nhất trong các social interaction.
+**Nhập vai (Roleplaying).** Nhập vai, theo nghĩa đen, là diễn một vai. Ở đây, đó là việc bạn với tư cách người chơi quyết định nhân vật của mình suy nghĩ, hành động và nói năng thế nào. Nhập vai có mặt trong mọi khía cạnh của trò chơi và nổi bật nhất trong tương tác xã hội.
 
-Khi bạn roleplay, hãy cân nhắc xem bạn thích một cách tiếp cận chủ động hay một cách tiếp cận mô tả.
+Khi nhập vai, hãy cân nhắc bạn thích cách tiếp cận chủ động (nói thay nhân vật) hay cách tiếp cận mô tả (kể lại điều nhân vật nói và làm).
 
-GM sử dụng tính cách của một NPC cũng như hành động và thái độ của nhân vật bạn để xác định NPC phản ứng như thế nào. Một tên cướp nhát gan có thể suy sụp trước lời đe dọa bỏ tù. Một thương nhân bướng bỉnh từ chối giúp đỡ nếu các nhân vật gây khó dễ cho cô ta. Một con rồng kiêu ngạo thích được tâng bốc.
+GM dựa vào tính cách của NPC cùng hành động và thái độ của nhân vật bạn để quyết định NPC phản ứng thế nào. Một tên cướp nhát gan có thể suy sụp trước lời đe dọa bỏ tù. Một thương nhân bướng bỉnh từ chối giúp nếu các nhân vật gây phiền cho bà ta. Một con rồng kiêu ngạo thích được tâng bốc.
 
-Khi tương tác với một NPC, hãy chú ý đến cách GM khắc họa tính cách của NPC đó. Bạn có thể học được mục tiêu của một NPC và sau đó dùng thông tin đó để gây ảnh hưởng lên NPC.
+Khi tương tác với NPC, hãy chú ý cách GM khắc họa tính cách của họ. Bạn có thể tìm ra mục tiêu của một NPC rồi dùng thông tin đó để tác động lên họ.
 
-Nếu bạn đưa cho NPC thứ họ muốn hoặc đánh vào lòng trắc ẩn, nỗi sợ, hay mục tiêu của họ, bạn có thể tạo tình bạn, tránh bạo lực, hoặc học được một mẩu thông tin quan trọng. Ngược lại, nếu bạn xúc phạm một chiến binh kiêu hãnh hoặc nói xấu đồng minh của một quý tộc, nỗ lực thuyết phục hoặc lừa dối của bạn nhiều khả năng sẽ thất bại.
+Nếu bạn đưa cho NPC thứ họ muốn hoặc chạm đến lòng trắc ẩn, nỗi sợ hay mục tiêu của họ, bạn có thể kết bạn, tránh đổ máu hoặc biết được một thông tin quan trọng. Ngược lại, nếu bạn xúc phạm một chiến binh kiêu hãnh hoặc nói xấu đồng minh của một quý tộc, nỗ lực thuyết phục hay lừa gạt của bạn nhiều khả năng sẽ thất bại.
 
-**Ability Checks.** Ability check có thể đóng vai trò then chốt trong việc xác định kết quả của một social interaction. Nỗ lực roleplay của bạn có thể thay đổi thái độ của một NPC, nhưng vẫn có thể có yếu tố may rủi nếu GM muốn xúc xắc đóng vai trò trong việc xác định phản ứng của một NPC đối với bạn. Trong những tình huống như vậy, GM thường sẽ yêu cầu bạn thực hiện action Influence.
+**Phép kiểm tra thuộc tính (Ability Checks).** Phép kiểm tra thuộc tính có thể là yếu tố then chốt quyết định kết quả tương tác xã hội. Việc nhập vai có thể thay đổi thái độ của NPC, nhưng vẫn có thể còn yếu tố may rủi nếu GM muốn xúc xắc góp phần quyết định phản ứng của NPC. Khi đó, GM thường yêu cầu bạn thực hiện hành động Tác động.
 
-Hãy chú ý đến skill proficiency của bạn khi nghĩ về cách bạn sẽ tương tác với một NPC; hãy dùng cách tiếp cận dựa vào skill proficiency của nhóm bạn. Ví dụ, nếu nhóm cần lừa một lính canh để họ vào được một lâu đài, Rogue thành thạo Deception nên dẫn dắt cuộc trò chuyện.
+Hãy để ý các kỹ năng thành thạo khi nghĩ cách tương tác với NPC, và chọn cách tiếp cận phát huy thế mạnh của nhóm. Ví dụ, nếu nhóm cần lừa lính canh để vào lâu đài, Đạo tặc thành thạo Lừa gạt nên dẫn dắt cuộc trò chuyện.
 
-## Exploration (Khám Phá)
+## Khám phá (Exploration)
 
-Exploration liên quan đến việc khám phá những nơi nguy hiểm và đầy bí ẩn. Các quy tắc trong phần này mô tả một số cách các adventurer tương tác với môi trường ở những nơi như vậy.
+Khám phá là việc thám hiểm những nơi nguy hiểm và đầy bí ẩn. Các quy tắc trong phần này mô tả một số cách nhà phiêu lưu tương tác với môi trường ở những nơi như vậy.
 
-**Adventuring Equipment.** Khi các adventurer khám phá, trang bị của họ có thể giúp ích theo nhiều cách. Ví dụ, họ có thể tiếp cận những nơi khó tới bằng một Ladder, nhận biết những thứ mà nếu không có sẽ không nhận thấy được nhờ một Torch hoặc nguồn sáng khác, vượt qua các cánh cửa và hộp bị khóa bằng Thieves' Tools, và tạo chướng ngại vật cho kẻ truy đuổi bằng Caltrops.
+**Trang bị phiêu lưu (Adventuring Equipment).** Khi khám phá, trang bị có thể giúp nhà phiêu lưu theo nhiều cách. Ví dụ, họ có thể lên được nơi khó tới bằng Thang (Ladder), nhìn thấy những thứ lẽ ra không thấy nhờ Đuốc (Torch) hoặc nguồn sáng khác, mở cửa và hộp bị khóa bằng Đồ nghề trộm (Thieves' Tools), và gây cản trở kẻ truy đuổi bằng Chông sắt (Caltrops).
 
-Xem "Equipment" để biết luật về nhiều vật phẩm hữu ích trong các cuộc phiêu lưu. Các mục trong phần "Tools" và "Adventuring Gear" đặc biệt hữu ích. Các weapon trong "Equipment" cũng có thể được dùng cho nhiều việc khác ngoài chiến đấu; ví dụ, bạn có thể dùng một Quarterstaff để nhấn một cái nút trông đáng ngờ mà bạn ngại chạm vào.
+Xem [Trang bị](06-Equipment.md) để biết luật về nhiều vật phẩm hữu ích khi phiêu lưu, đặc biệt là các mục trong phần "Công cụ" và "Đồ phiêu lưu". Vũ khí cũng có thể dùng cho nhiều việc ngoài chiến đấu; ví dụ, bạn có thể dùng Gậy (Quarterstaff) để nhấn một cái nút đáng ngờ mà bạn ngại chạm tay vào.
 
-### Vision and Light (Thị Giác và Ánh Sáng)
+### Thị giác và ánh sáng (Vision and Light)
 
-Một số nhiệm vụ phiêu lưu — như phát hiện nguy hiểm, đánh trúng kẻ địch, và nhắm mục tiêu cho một số spell — bị ảnh hưởng bởi thị giác, vì vậy các hiệu ứng làm cản trở tầm nhìn có thể gây bất lợi cho bạn, như giải thích dưới đây.
+Một số việc khi phiêu lưu — như phát hiện nguy hiểm, đánh trúng kẻ thù hay chọn mục tiêu cho một số phép — phụ thuộc vào thị giác, nên các hiệu ứng cản trở tầm nhìn có thể gây bất lợi cho bạn, như giải thích dưới đây.
 
-**Obscured Areas.** Một khu vực có thể bị **Lightly Obscured** hoặc **Heavily Obscured**. Trong một khu vực Lightly Obscured — chẳng hạn khu vực có Dim Light, sương mù lác đác, hoặc tán lá vừa phải — bạn có Disadvantage trên Wisdom (Perception) check dựa vào thị giác. Một khu vực Heavily Obscured — chẳng hạn khu vực có Darkness, sương mù dày, hoặc tán lá rậm rạp — là mờ đục. Bạn có condition Blinded (xem "Rules Glossary") khi cố nhìn thấy thứ gì đó ở đó.
+**Khu vực bị che khuất (Obscured Areas).** Một khu vực có thể bị **che khuất nhẹ** (Lightly Obscured) hoặc **che khuất nặng** (Heavily Obscured). Trong khu vực che khuất nhẹ — như nơi có ánh sáng yếu, sương mù lác đác hoặc tán lá vừa phải — bạn chịu bất lợi khi kiểm tra Minh triết (Tri giác) dựa vào thị giác. Khu vực che khuất nặng — như nơi tối, sương mù dày hoặc tán lá rậm — chặn hoàn toàn tầm nhìn. Bạn chịu trạng thái Mù (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) khi cố nhìn thứ gì đó ở đó.
 
-**Light.** Sự hiện diện hay vắng mặt của ánh sáng quyết định loại độ chiếu sáng trong một khu vực, như định nghĩa dưới đây.
+**Ánh sáng (Light).** Sự hiện diện hay vắng mặt của ánh sáng quyết định mức chiếu sáng của một khu vực, như định nghĩa dưới đây.
 
-- *Bright Light.* Bright Light cho phép hầu hết creature nhìn bình thường. Ngay cả những ngày u ám cũng cung cấp Bright Light, cũng như Torch, đèn lồng, lửa, và các nguồn chiếu sáng khác trong một bán kính nhất định.
-- *Dim Light.* Dim Light, còn gọi là bóng râm, tạo ra một khu vực Lightly Obscured. Một khu vực Dim Light thường là ranh giới giữa Bright Light và Darkness xung quanh. Ánh sáng dịu của hoàng hôn và bình minh cũng tính là Dim Light. Một đêm trăng tròn có thể phủ lên mặt đất một lớp Dim Light.
-- *Darkness.* Darkness tạo ra một khu vực Heavily Obscured. Các nhân vật đối mặt với Darkness ngoài trời vào ban đêm (kể cả hầu hết những đêm trăng sáng), trong giới hạn của một dungeon không có ánh sáng, hoặc trong khu vực Darkness ma thuật.
+- *Ánh sáng rõ (Bright Light).* Ánh sáng rõ cho phép hầu hết sinh vật nhìn bình thường. Ngay cả ngày u ám cũng có ánh sáng rõ, cũng như đuốc, đèn lồng, lửa và các nguồn sáng khác trong một bán kính nhất định.
+- *Ánh sáng yếu (Dim Light).* Ánh sáng yếu, còn gọi là bóng râm, tạo ra khu vực che khuất nhẹ. Vùng ánh sáng yếu thường là ranh giới giữa vùng ánh sáng rõ và bóng tối xung quanh. Ánh sáng dịu lúc chạng vạng và rạng đông cũng là ánh sáng yếu. Một đêm trăng tròn đặc biệt sáng có thể phủ lên mặt đất một lớp ánh sáng yếu.
+- *Bóng tối (Darkness).* Bóng tối tạo ra khu vực che khuất nặng. Nhân vật gặp bóng tối khi ở ngoài trời ban đêm (kể cả phần lớn những đêm có trăng), trong hầm ngục không có đèn, hoặc trong vùng bóng tối ma thuật.
 
-**Special Senses.** Một số creature có giác quan đặc biệt giúp chúng nhận thức mọi thứ trong những tình huống nhất định. "Rules Glossary" định nghĩa các giác quan đặc biệt sau: **Blindsight**, **Darkvision**, **Tremorsense**, **Truesight**.
+**Giác quan đặc biệt (Special Senses).** Một số sinh vật có giác quan đặc biệt giúp nhận biết mọi thứ trong những tình huống nhất định. [Bảng thuật ngữ luật](08-Rules-Glossary.md) định nghĩa các giác quan đặc biệt sau: **cảm nhận mù** (Blindsight), **thị giác bóng tối** (Darkvision), **cảm nhận chấn động** (Tremorsense) và **chân thị** (Truesight).
 
-### Hiding (Ẩn Nấp)
+### Ẩn nấp (Hiding)
 
-Adventurer và quái vật thường ẩn nấp, dù để rình rập lẫn nhau, lẻn qua một người canh gác, hay bày ra một cuộc phục kích. Game Master quyết định khi nào hoàn cảnh phù hợp để ẩn nấp. Khi bạn cố ẩn nấp, bạn thực hiện action Hide.
+Nhà phiêu lưu và quái vật thường ẩn nấp, dù để rình nhau, lẻn qua lính gác hay bày trận phục kích. Quản trò quyết định khi nào hoàn cảnh cho phép ẩn nấp. Khi cố ẩn nấp, bạn thực hiện hành động Ẩn nấp.
 
-### Interacting with Objects (Tương Tác với Object)
+### Tương tác với đồ vật (Interacting with Objects)
 
-Tương tác với các vật thể thường dễ giải quyết. Người chơi nói với GM rằng nhân vật của họ đang làm điều gì đó, chẳng hạn di chuyển một cần gạt hoặc mở một cánh cửa, và GM mô tả điều gì xảy ra. Tuy nhiên, đôi khi các quy tắc chi phối những gì bạn có thể làm với một vật thể, như trình bày chi tiết trong các phần sau.
+Tương tác với đồ vật thường dễ phân xử. Người chơi nói với GM rằng nhân vật đang làm gì đó, chẳng hạn gạt cần hoặc mở cửa, và GM mô tả điều xảy ra. Tuy nhiên, đôi khi luật giới hạn những gì bạn làm được với một đồ vật, như trình bày dưới đây.
 
-**What Is an Object?** Theo mục đích của luật chơi, một object (vật thể) là một vật phẩm rời rạc, vô tri như một cửa sổ, cánh cửa, kiếm, sách, bàn, ghế, hoặc tảng đá. Nó không phải là một tòa nhà hay một phương tiện, vốn được cấu thành từ nhiều object.
+**Đồ vật là gì? (What Is an Object?)** Theo luật chơi, **đồ vật** là một vật riêng lẻ, vô tri như cửa sổ, cánh cửa, thanh kiếm, cuốn sách, cái bàn, cái ghế hoặc hòn đá. Nó không phải một tòa nhà hay phương tiện, vốn được tạo thành từ nhiều đồ vật.
 
-**Time-Limited Object Interactions.** Khi thời gian hạn hẹp, chẳng hạn trong combat, việc tương tác với object bị giới hạn: một lần tương tác miễn phí mỗi turn. Sự tương tác đó phải xảy ra trong lúc di chuyển hoặc thực hiện action của một creature. Bất kỳ tương tác bổ sung nào đều cần action Utilize, như giải thích trong "Combat" sau trong "Playing the Game."
+**Tương tác có giới hạn thời gian (Time-Limited Object Interactions).** Khi thời gian gấp gáp, như trong chiến đấu, việc tương tác với đồ vật bị giới hạn: mỗi lượt một lần tương tác miễn phí. Lần tương tác đó phải diễn ra trong lúc sinh vật di chuyển hoặc thực hiện hành động. Mọi tương tác thêm đều cần hành động Sử dụng, như giải thích ở phần [Chiến đấu](#chiến-đấu-combat).
 
-**Finding Hidden Objects.** Khi nhân vật của bạn tìm kiếm những thứ ẩn giấu, chẳng hạn một cánh cửa bí mật hay một cái bẫy, GM thường yêu cầu bạn thực hiện một Wisdom (Perception) check, miễn là bạn mô tả nhân vật đang tìm kiếm ở gần vị trí của vật ẩn đó. Nếu thành công, bạn tìm thấy vật đó, các chi tiết quan trọng khác, hoặc cả hai.
+**Tìm đồ vật bị giấu (Finding Hidden Objects).** Khi nhân vật tìm thứ bị giấu, như cửa bí mật hay bẫy, GM thường yêu cầu kiểm tra Minh triết (Tri giác), miễn là bạn mô tả nhân vật đang tìm ở gần vị trí của thứ đó. Nếu thành công, bạn tìm thấy nó, những chi tiết quan trọng khác, hoặc cả hai.
 
-Nếu bạn mô tả nhân vật của mình tìm kiếm ở nơi không gần vật ẩn, một Wisdom (Perception) check sẽ không tìm ra vật đó, bất kể tổng điểm của check.
+Nếu bạn mô tả nhân vật tìm ở nơi không gần thứ bị giấu, phép kiểm tra Minh triết (Tri giác) sẽ không tìm ra nó, bất kể tổng điểm.
 
-**Carrying Objects.** Bạn thường có thể mang theo trang bị và của cải của mình mà không cần lo lắng về trọng lượng của những vật đó. Nếu bạn cố mang một vật nặng bất thường hoặc một số lượng lớn các vật nhẹ hơn, GM có thể yêu cầu bạn tuân theo luật về carrying capacity trong "Rules Glossary."
+**Mang đồ vật (Carrying Objects).** Thông thường bạn có thể mang trang bị và của cải mà không cần bận tâm về trọng lượng. Nếu bạn cố mang một vật nặng bất thường hoặc rất nhiều vật nhẹ hơn, GM có thể yêu cầu bạn áp dụng luật về sức mang vác (Carrying Capacity) trong [Bảng thuật ngữ luật](08-Rules-Glossary.md).
 
-**Breaking Objects.** Với một action, bạn có thể tự động làm vỡ hoặc phá hủy một object phi phép thuật dễ vỡ, chẳng hạn một lọ thủy tinh hay một tờ giấy. Nếu bạn cố làm hư hại thứ gì đó bền hơn, GM có thể dùng luật về breaking objects trong "Rules Glossary."
+**Phá vỡ đồ vật (Breaking Objects).** Bằng một hành động, bạn có thể tự động làm vỡ hoặc phá hủy một đồ vật dễ vỡ không có ma thuật, như lọ thủy tinh hay tờ giấy. Nếu bạn cố làm hỏng thứ gì đó bền hơn, GM có thể dùng luật phá vỡ đồ vật trong [Bảng thuật ngữ luật](08-Rules-Glossary.md).
 
-> **Marching Order**
->
-> Các adventurer nên thiết lập một thứ tự di chuyển (marching order) khi họ di chuyển, dù trong nhà hay ngoài trời. Một marching order giúp dễ dàng xác định nhân vật nào bị ảnh hưởng bởi bẫy, nhân vật nào có thể phát hiện kẻ địch ẩn nấp, và nhân vật nào ở gần những kẻ địch đó nhất nếu xảy ra một trận đánh. Bạn có thể thay đổi marching order khi ngoài combat và ghi lại thứ tự theo cách bạn thích: viết ra, chẳng hạn, hoặc sắp xếp các mô hình để thể hiện nó.
+> [!info] Đội hình hành quân (Marching Order)
+> Các nhà phiêu lưu nên xác định đội hình hành quân khi di chuyển, dù trong nhà hay ngoài trời. Đội hình giúp dễ xác định nhân vật nào dính bẫy, nhân vật nào có thể phát hiện kẻ thù đang ẩn nấp và nhân vật nào ở gần kẻ thù nhất nếu giao chiến. Bạn có thể thay đổi đội hình khi không chiến đấu và ghi lại theo cách tùy thích: viết ra giấy, hoặc xếp các mô hình theo thứ tự.
 
-### Hazards (Hiểm Họa)
+### Hiểm họa (Hazards)
 
-Quái vật là mối nguy chính mà các nhân vật phải đối mặt, nhưng còn có những nguy hiểm khác đang chờ đợi. "Rules Glossary" định nghĩa các hazard sau: **Burning**, **Dehydration**, **Falling**, **Malnutrition**, **Suffocation**.
+Quái vật là mối nguy chính mà nhân vật phải đối mặt, nhưng còn nhiều hiểm nguy khác đang chờ. [Bảng thuật ngữ luật](08-Rules-Glossary.md) định nghĩa các hiểm họa sau: **Bỏng cháy** (Burning), **Mất nước** (Dehydration), **Rơi** (Falling), **Suy dinh dưỡng** (Malnutrition) và **Ngạt thở** (Suffocation).
 
-### Travel (Di Chuyển)
+### Hành trình (Travel)
 
-Trong một cuộc phiêu lưu, các nhân vật có thể di chuyển những quãng đường dài trong các chuyến đi kéo dài hàng giờ hoặc hàng ngày. GM có thể tóm tắt việc di chuyển này mà không cần tính toán khoảng cách hay thời gian di chuyển chính xác, hoặc GM có thể yêu cầu bạn dùng luật travel pace bên dưới. Nếu bạn cần biết bạn có thể di chuyển nhanh đến mức nào khi từng giây đều quan trọng, xem luật movement trong "Combat" sau trong "Playing the Game."
+Trong một cuộc phiêu lưu, nhân vật có thể đi những quãng đường dài, kéo dài hàng giờ hoặc hàng ngày. GM có thể tóm tắt hành trình mà không tính chính xác khoảng cách hay thời gian, hoặc yêu cầu bạn dùng luật nhịp độ hành trình dưới đây. Nếu cần biết bạn di chuyển nhanh đến đâu khi từng giây đều quan trọng, xem luật di chuyển ở phần [Chiến đấu](#chiến-đấu-combat).
 
-**Travel Pace.** Khi di chuyển ngoài combat, một nhóm có thể di chuyển với tốc độ **Fast**, **Normal**, hoặc **Slow**, như trong bảng **Travel Pace**. Bảng này cho biết nhóm có thể di chuyển bao xa trong một khoảng thời gian; nếu cưỡi ngựa hoặc phương tiện khác, nhóm có thể di chuyển gấp đôi khoảng cách đó trong 1 giờ, sau đó các con vật cưỡi cần một Short Rest hoặc Long Rest trước khi có thể di chuyển với tốc độ tăng cường đó lần nữa (xem "Equipment" để biết các loại vật cưỡi được bán). "Gameplay Toolbox" có các quy tắc ảnh hưởng đến tốc độ bạn có thể chọn trong một số loại địa hình nhất định.
+**Nhịp độ hành trình (Travel Pace).** Khi di chuyển ngoài chiến đấu, nhóm có thể đi với nhịp độ **Nhanh** (Fast), **Bình thường** (Normal) hoặc **Chậm** (Slow), như trong bảng **Nhịp độ hành trình**. Bảng cho biết nhóm đi được bao xa trong một khoảng thời gian; nếu cưỡi thú hoặc dùng phương tiện, nhóm có thể đi gấp đôi quãng đường đó trong 1 giờ, sau đó thú cưỡi cần nghỉ ngắn hoặc nghỉ dài trước khi có thể tăng tốc như vậy lần nữa (xem [Trang bị](06-Equipment.md) để biết các loại thú cưỡi được bán). [Hộp công cụ cho trò chơi](09-Gameplay-Toolbox.md) có quy tắc về nhịp độ bạn có thể chọn ở một số loại địa hình.
 
-**Travel Pace (Tốc Độ Di Chuyển)**
+**Nhịp độ hành trình (Travel Pace)**
 
-| Pace | Distance Traveled Per Minute | Per Hour | Per Day |
+| Nhịp độ | Quãng đường mỗi phút | Mỗi giờ | Mỗi ngày |
 |---|---|---|---|
-| Fast | 400 feet | 4 miles | 30 miles |
-| Normal | 300 feet | 3 miles | 24 miles |
-| Slow | 200 feet | 2 miles | 18 miles |
+| Nhanh | 120 m (400 feet) | 6,4 km (4 mile) | 48 km (30 mile) |
+| Bình thường | 90 m (300 feet) | 4,8 km (3 mile) | 38,4 km (24 mile) |
+| Chậm | 60 m (200 feet) | 3,2 km (2 mile) | 28,8 km (18 mile) |
 
-Mỗi travel pace có một hiệu ứng trong trò chơi, như định nghĩa dưới đây:
+Mỗi nhịp độ có một hiệu ứng trong trò chơi:
 
-- **Fast.** Di chuyển với tốc độ Fast áp đặt Disadvantage lên Wisdom (Perception hoặc Survival) và Dexterity (Stealth) check của một người di chuyển.
-- **Normal.** Di chuyển với tốc độ Normal áp đặt Disadvantage lên Dexterity (Stealth) check.
-- **Slow.** Di chuyển với tốc độ Slow cho Advantage trên Wisdom (Perception hoặc Survival) check.
+- **Nhanh.** Người di chuyển chịu bất lợi khi kiểm tra Minh triết (Tri giác hoặc Sinh tồn) và Khéo léo (Lén lút).
+- **Bình thường.** Người di chuyển chịu bất lợi khi kiểm tra Khéo léo (Lén lút).
+- **Chậm.** Người di chuyển có lợi thế khi kiểm tra Minh triết (Tri giác hoặc Sinh tồn).
 
-**Vehicles.** Người di chuyển trong xe ngựa, xe kéo, hoặc phương tiện đường bộ khác chọn tốc độ như bình thường. Nhân vật trên một con tàu đường thủy bị giới hạn bởi tốc độ của con tàu, và họ không chọn travel pace. Tùy vào con tàu và số lượng thủy thủ đoàn, tàu thuyền có thể di chuyển tới 24 giờ mỗi ngày. "Equipment" bao gồm các phương tiện được bán.
+**Phương tiện (Vehicles).** Người đi xe ngựa, xe kéo hoặc phương tiện đường bộ khác chọn nhịp độ như bình thường. Nhân vật trên tàu thuyền bị giới hạn bởi tốc độ của tàu và không chọn nhịp độ hành trình. Tùy loại tàu và số thủy thủ, tàu có thể đi đến 24 giờ mỗi ngày. [Trang bị](06-Equipment.md) có danh sách phương tiện được bán.
 
-## Combat (Chiến Đấu)
+## Chiến đấu (Combat)
 
-Adventurer gặp nhiều quái vật nguy hiểm và những kẻ phản diện độc ác. Trong những khoảnh khắc đó, combat thường nổ ra.
+Nhà phiêu lưu gặp nhiều quái vật nguy hiểm và kẻ ác độc. Trong những khoảnh khắc đó, chiến đấu thường nổ ra.
 
-Một cuộc combat điển hình là một cuộc đụng độ giữa hai phe: một loạt các đòn vũ khí, động tác giả, đỡ đòn, bước chân, và thi triển phép thuật. Trò chơi tổ chức combat thành một chu kỳ các **round** và **turn**. Một round đại diện cho khoảng 6 giây trong thế giới trò chơi. Trong một round, mỗi người tham gia trận chiến thực hiện một turn. Thứ tự các turn được xác định vào đầu combat khi mọi người tung Initiative. Khi mọi người đã thực hiện xong một turn, trận chiến tiếp tục sang round tiếp theo nếu chưa bên nào bị đánh bại.
+Một trận chiến điển hình là cuộc đụng độ giữa hai phe: những nhát vũ khí, đòn nhử, đỡ gạt, bước chân và phép thuật. Trò chơi tổ chức chiến đấu thành chu kỳ **vòng** (round) và **lượt** (turn). Một vòng tương ứng khoảng 6 giây trong thế giới trò chơi. Trong một vòng, mỗi người tham chiến có một lượt. Thứ tự lượt được xác định khi bắt đầu chiến đấu, lúc mọi người tung Sáng kiến. Khi mọi người đã đi hết lượt, trận chiến sang vòng kế tiếp nếu chưa bên nào bị đánh bại.
 
-**Combat Step by Step.** Combat diễn ra theo các bước sau:
+**Chiến đấu từng bước (Combat Step by Step).** Chiến đấu diễn ra theo các bước sau:
 
-1. **Establish Positions.** Game Master xác định vị trí của tất cả nhân vật và quái vật. Dựa trên marching order của các adventurer hoặc vị trí đã nêu của họ trong phòng hoặc địa điểm khác, GM tìm ra vị trí của các đối thủ — cách bao xa và theo hướng nào.
-2. **Roll Initiative.** Tất cả những ai tham gia combat đều tung Initiative, xác định thứ tự các turn của người tham chiến.
-3. **Take Turns.** Mỗi người tham gia trận chiến thực hiện một turn theo thứ tự Initiative. Khi mọi người tham gia combat đã có một turn, round kết thúc. Lặp lại bước này cho đến khi trận chiến dừng lại.
+1. **Xác định vị trí.** Quản trò xác định vị trí của mọi nhân vật và quái vật. Dựa trên đội hình hành quân của các nhà phiêu lưu hoặc vị trí họ đã nêu trong phòng hay nơi khác, GM xác định đối thủ ở đâu — cách bao xa và theo hướng nào.
+2. **Tung Sáng kiến.** Mọi người tham chiến tung Sáng kiến để xác định thứ tự lượt.
+3. **Hành động theo lượt.** Mỗi người tham chiến đi một lượt theo thứ tự Sáng kiến. Khi mọi người đều đã có lượt, vòng kết thúc. Lặp lại bước này cho đến khi trận chiến dừng.
 
-**Initiative.** Initiative xác định thứ tự các turn trong combat. Khi combat bắt đầu, mọi người tham gia tung Initiative; họ thực hiện một Dexterity check xác định vị trí của họ trong thứ tự Initiative. GM tung cho quái vật. Đối với một nhóm creature giống hệt nhau, GM thực hiện một lượt tung duy nhất, vì vậy mỗi thành viên trong nhóm có cùng Initiative.
+**Sáng kiến (Initiative).** Sáng kiến quyết định thứ tự lượt trong chiến đấu. Khi chiến đấu bắt đầu, mọi người tham chiến tung Sáng kiến: họ thực hiện phép kiểm tra Khéo léo để xác định vị trí trong thứ tự Sáng kiến. GM tung cho quái vật. Với một nhóm sinh vật giống hệt nhau, GM chỉ tung một lần, nên mọi thành viên trong nhóm có cùng Sáng kiến.
 
-**Surprise.** Nếu một combatant bị bất ngờ khi combat bắt đầu, combatant đó có Disadvantage trên Initiative roll của họ. Ví dụ, nếu một kẻ phục kích bắt đầu combat trong khi ẩn nấp khỏi một kẻ địch không biết rằng combat đang bắt đầu, kẻ địch đó bị bất ngờ (surprised).
+**Bất ngờ (Surprise).** Nếu một người tham chiến bị bất ngờ khi trận đấu bắt đầu, người đó chịu bất lợi khi tung Sáng kiến. Ví dụ, nếu kẻ phục kích bắt đầu trận chiến khi đang ẩn nấp khỏi một kẻ thù không hề biết trận chiến sắp nổ ra, kẻ thù đó bị bất ngờ.
 
-**Initiative Order.** Tổng điểm check của một combatant được gọi là Initiative count, hay gọi tắt là Initiative. GM xếp hạng các combatant, từ Initiative cao nhất đến thấp nhất. Đây là thứ tự họ hành động trong mỗi round. Thứ tự Initiative giữ nguyên từ round này sang round khác.
+**Thứ tự Sáng kiến (Initiative Order).** Tổng điểm kiểm tra của mỗi người tham chiến gọi là điểm Sáng kiến, gọi tắt là Sáng kiến. GM xếp những người tham chiến từ Sáng kiến cao nhất đến thấp nhất. Đó là thứ tự họ hành động trong mỗi vòng, và thứ tự này giữ nguyên qua các vòng.
 
-**Ties.** Nếu có sự ngang bằng xảy ra, GM quyết định thứ tự giữa các quái vật ngang bằng, và người chơi quyết định thứ tự giữa các nhân vật ngang bằng. GM quyết định thứ tự nếu sự ngang bằng đó là giữa một quái vật và một player character.
+**Bằng điểm (Ties).** Nếu có người bằng điểm, GM quyết định thứ tự giữa các quái vật bằng điểm, còn người chơi quyết định thứ tự giữa các nhân vật bằng điểm. Nếu quái vật bằng điểm với nhân vật người chơi, GM quyết định.
 
-### Your Turn (Turn Của Bạn)
+### Lượt của bạn (Your Turn)
 
-Trong turn của mình, bạn có thể di chuyển một khoảng cách tối đa bằng Speed của mình và thực hiện một action. Bạn quyết định di chuyển trước hay thực hiện action trước.
+Trong lượt của mình, bạn có thể di chuyển một quãng tối đa bằng Tốc độ và thực hiện một hành động. Bạn tự quyết định di chuyển trước hay hành động trước.
 
-Các action chính bạn có thể thực hiện được liệt kê trong "Actions" trước đó trong "Playing the Game." Feature của một nhân vật và stat block của một quái vật cũng cung cấp thêm lựa chọn action. "Movement and Position" sau trong "Playing the Game" đưa ra luật về movement.
+Các hành động chính được liệt kê ở phần [Hành động](#hành-động-actions). Đặc tính của nhân vật và khối thông số của quái vật cũng cung cấp thêm lựa chọn. Phần [Di chuyển và vị trí](#di-chuyển-và-vị-trí-movement-and-position) bên dưới trình bày luật di chuyển.
 
-**Communicating.** Bạn có thể giao tiếp theo bất kỳ cách nào bạn có thể — thông qua những câu nói ngắn gọn và cử chỉ — trong khi thực hiện turn của mình. Làm như vậy không sử dụng action hay lượt di chuyển của bạn.
+**Giao tiếp (Communicating).** Trong lượt của mình, bạn có thể giao tiếp bằng mọi cách khả dĩ — qua những câu ngắn và cử chỉ. Việc này không tốn hành động hay lượng di chuyển.
 
-Giao tiếp kéo dài, chẳng hạn giải thích chi tiết điều gì đó hoặc cố thuyết phục một kẻ địch, đòi hỏi một action. Action Influence là cách chính để bạn cố gây ảnh hưởng lên một quái vật.
+Giao tiếp dài dòng, như giải thích chi tiết điều gì đó hoặc cố thuyết phục kẻ thù, cần một hành động. Hành động Tác động là cách chính để bạn cố gây ảnh hưởng lên quái vật.
 
-**Interacting with Things.** Bạn có thể tương tác miễn phí với một object hoặc yếu tố môi trường, trong lúc di chuyển hoặc thực hiện action. Ví dụ, bạn có thể mở một cánh cửa trong khi di chuyển hướng về phía kẻ địch.
+**Tương tác với đồ vật (Interacting with Things).** Bạn có thể tương tác miễn phí với một đồ vật hoặc yếu tố môi trường trong lúc di chuyển hoặc thực hiện hành động. Ví dụ, bạn có thể mở cửa khi đang tiến về phía kẻ thù.
 
-Nếu bạn muốn tương tác với một object thứ hai, bạn cần thực hiện action Utilize. Một số magic item và object đặc biệt khác luôn yêu cầu một action để sử dụng, như nêu trong mô tả của chúng.
+Nếu muốn tương tác với đồ vật thứ hai, bạn cần dùng hành động Sử dụng. Một số vật phẩm ma thuật và đồ vật đặc biệt khác luôn cần một hành động để dùng, như ghi trong mô tả của chúng.
 
-> **Playing on a Grid**
+> [!info] Chơi trên lưới ô (Playing on a Grid)
+> Nếu bạn chơi trên lưới ô vuông với mô hình hoặc quân cờ, hãy dùng các quy tắc sau.
 >
-> Nếu bạn chơi bằng một lưới ô vuông (square grid) và mô hình hoặc token khác, hãy làm theo các quy tắc sau.
+> **Ô vuông (Squares).** Mỗi ô vuông tương ứng 1,5 m (5 feet).
 >
-> **Squares.** Mỗi ô vuông đại diện cho 5 feet.
+> **Tốc độ (Speed).** Thay vì đếm từng mét, hãy di chuyển từng ô trên lưới, sử dụng Tốc độ theo từng đoạn 1,5 m (5 feet). Chia Tốc độ theo feet cho 5 (hoặc theo mét cho 1,5) để đổi sang số ô. Ví dụ, Tốc độ 9 m (30 feet) tương đương 6 ô. Nếu thường xuyên dùng lưới, hãy cân nhắc ghi Tốc độ theo số ô trên phiếu nhân vật.
 >
-> **Speed.** Thay vì di chuyển từng foot, di chuyển từng ô vuông trên lưới, sử dụng Speed của bạn theo từng đoạn 5-foot. Bạn có thể chuyển đổi Speed của mình thành số ô vuông bằng cách chia cho 5. Ví dụ, một Speed 30 feet chuyển thành 6 ô vuông. Nếu bạn thường xuyên dùng lưới, hãy cân nhắc ghi Speed của mình theo số ô vuông trên character sheet.
+> **Vào một ô (Entering a Square).** Để vào một ô, bạn phải còn đủ lượng di chuyển để trả chi phí. Cần 1 ô di chuyển để vào một ô trống liền kề (liền kề theo hàng ngang, hàng dọc hoặc đường chéo). Một ô địa hình khó đi cần 2 ô di chuyển. Các hiệu ứng khác có thể khiến một ô tốn nhiều hơn nữa.
 >
-> **Entering a Square.** Để vào một ô vuông, bạn phải có đủ movement còn lại để trả cho việc vào đó. Cần 1 ô vuông movement để vào một ô vuông không có ai chiếm giữ liền kề với vị trí của bạn (liền kề theo chiều ngang, dọc, hoặc chéo). Một ô vuông Difficult Terrain cần 2 ô vuông để vào. Các hiệu ứng khác có thể khiến một ô vuông tốn nhiều hơn nữa.
+> **Góc (Corners).** Di chuyển chéo không được cắt qua góc của bức tường, cây lớn hoặc đặc điểm địa hình khác chiếm trọn ô của nó.
 >
-> **Corners.** Di chuyển theo đường chéo không thể cắt qua góc của một bức tường, một cây to, hoặc một đặc điểm địa hình khác lấp đầy không gian của nó.
->
-> **Ranges.** Để xác định khoảng cách trên lưới giữa hai thứ — dù là creature hay object — hãy đếm số ô vuông từ một ô liền kề với một trong hai và dừng đếm ở không gian của thứ còn lại. Đếm theo đường đi ngắn nhất.
+> **Khoảng cách (Ranges).** Để xác định khoảng cách giữa hai thứ trên lưới — sinh vật hay đồ vật — hãy đếm số ô từ ô liền kề với một thứ đến ô của thứ kia, theo đường đi ngắn nhất.
 
-Game Master có thể yêu cầu bạn dùng một action cho bất kỳ hoạt động nào trong số này khi nó cần sự cẩn thận đặc biệt hoặc khi nó tạo ra một trở ngại bất thường. Ví dụ, GM có thể yêu cầu bạn thực hiện action Utilize để mở một cánh cửa bị kẹt hoặc quay một cái cần để hạ cầu treo.
+Quản trò có thể yêu cầu bạn dùng một hành động cho bất kỳ hoạt động nào ở trên nếu nó đòi hỏi đặc biệt cẩn thận hoặc gặp trở ngại bất thường. Ví dụ, GM có thể yêu cầu bạn dùng hành động Sử dụng để mở một cánh cửa bị kẹt hoặc quay tay quay để hạ cầu treo.
 
-**Doing Nothing on Your Turn.** Bạn có thể bỏ qua việc di chuyển, thực hiện một action, hoặc làm bất cứ điều gì trong turn của mình. Nếu bạn không thể quyết định làm gì, hãy cân nhắc thực hiện action phòng thủ Dodge hoặc action Ready để trì hoãn hành động.
+**Không làm gì trong lượt (Doing Nothing on Your Turn).** Bạn có thể bỏ qua việc di chuyển, hành động hoặc làm bất cứ điều gì trong lượt. Nếu không biết làm gì, hãy cân nhắc dùng hành động phòng thủ Né tránh hoặc hành động Chuẩn bị để trì hoãn.
 
-**Ending Combat.** Combat kết thúc khi một bên hoặc bên kia bị đánh bại, có thể nghĩa là các creature bị giết hoặc bị hạ gục hoặc đã đầu hàng hoặc bỏ chạy. Combat cũng có thể kết thúc khi cả hai bên đồng ý dừng lại.
+**Kết thúc chiến đấu (Ending Combat).** Chiến đấu kết thúc khi một bên bị đánh bại, nghĩa là các sinh vật bị giết, bị hạ gục, đầu hàng hoặc bỏ chạy. Chiến đấu cũng có thể kết thúc khi hai bên đồng ý ngừng.
 
-### Movement and Position (Di Chuyển và Vị Trí)
+### Di chuyển và vị trí (Movement and Position)
 
-Trong turn của mình, bạn có thể di chuyển một khoảng cách bằng hoặc ít hơn Speed của mình. Hoặc bạn có thể quyết định không di chuyển.
+Trong lượt của mình, bạn có thể di chuyển một quãng bằng hoặc ít hơn Tốc độ, hoặc quyết định không di chuyển.
 
-Việc di chuyển của bạn có thể bao gồm climbing, crawling, jumping, và swimming (mỗi loại được giải thích trong "Rules Glossary"). Những kiểu di chuyển khác nhau này có thể được kết hợp với movement thông thường của bạn, hoặc chúng có thể tạo thành toàn bộ lượt di chuyển của bạn.
+Việc di chuyển có thể gồm leo, bò, nhảy và bơi (mỗi loại được giải thích trong [Bảng thuật ngữ luật](08-Rules-Glossary.md)). Các kiểu di chuyển này có thể kết hợp với việc đi lại bình thường hoặc chiếm trọn lượng di chuyển của bạn.
 
-Dù bạn di chuyển bằng Speed của mình theo cách nào, bạn trừ khoảng cách của mỗi phần trong lượt di chuyển khỏi Speed cho đến khi nó dùng hết hoặc cho đến khi bạn di chuyển xong, tùy điều gì đến trước.
+Dù di chuyển theo cách nào, bạn trừ quãng đường của từng phần di chuyển khỏi Tốc độ cho đến khi dùng hết hoặc di chuyển xong, tùy điều nào đến trước.
 
-Speed của một character được xác định trong quá trình tạo nhân vật. Speed của một quái vật được ghi trong stat block của quái vật đó. Xem "Rules Glossary" để biết thêm về Speed cũng như các loại speed đặc biệt, chẳng hạn Climb Speed, Fly Speed, hoặc Swim Speed.
+Tốc độ của nhân vật được xác định khi tạo nhân vật; Tốc độ của quái vật được ghi trong khối thông số. Xem [Bảng thuật ngữ luật](08-Rules-Glossary.md) để biết thêm về Tốc độ và các loại tốc độ đặc biệt như Tốc độ leo, Tốc độ bay hay Tốc độ bơi.
 
-**Difficult Terrain.** Combatant thường bị chậm lại bởi **Difficult Terrain**. Đồ nội thất thấp, đống đổ nát, cây cối rậm rạp, cầu thang dốc, tuyết, và đầm lầy nông là những ví dụ về Difficult Terrain. Mỗi foot di chuyển trong Difficult Terrain tốn thêm 1 foot, ngay cả khi nhiều thứ trong một không gian đều được tính là Difficult Terrain.
+**Địa hình khó đi (Difficult Terrain).** Người tham chiến thường bị chậm lại bởi **địa hình khó đi**. Đồ đạc thấp, đống đổ nát, bụi rậm, cầu thang dốc, tuyết và đầm lầy nông là ví dụ về địa hình khó đi. Mỗi 30 cm (1 foot) di chuyển trong địa hình khó đi tốn thêm 30 cm (1 foot), kể cả khi một khoảng không gian có nhiều thứ cùng được tính là địa hình khó đi.
 
-**Breaking Up Your Move.** Bạn có thể chia nhỏ lượt di chuyển của mình, sử dụng một phần movement trước và sau bất kỳ action, Bonus Action, hoặc Reaction nào bạn thực hiện trong cùng turn. Ví dụ, nếu bạn có Speed 30 feet, bạn có thể đi 10 feet, thực hiện một action, rồi đi tiếp 20 feet.
+**Chia nhỏ lượng di chuyển (Breaking Up Your Move).** Bạn có thể chia nhỏ lượng di chuyển, dùng một phần trước và sau bất kỳ hành động, hành động phụ hay phản ứng nào trong cùng lượt. Ví dụ, nếu có Tốc độ 9 m (30 feet), bạn có thể đi 3 m (10 feet), thực hiện một hành động, rồi đi tiếp 6 m (20 feet).
 
-**Dropping Prone.** Trong turn của mình, bạn có thể tự cho mình condition Prone (xem "Rules Glossary") mà không cần dùng action hay bất kỳ phần Speed nào, nhưng bạn không thể làm vậy nếu Speed của bạn bằng 0.
+**Nằm sấp xuống (Dropping Prone).** Trong lượt của mình, bạn có thể tự rơi vào trạng thái Ngã sấp (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) mà không tốn hành động hay Tốc độ, nhưng không thể làm vậy nếu Tốc độ của bạn bằng 0.
 
-**Creature Size.** Một creature thuộc về một hạng kích thước (size category), xác định chiều rộng của không gian ô vuông mà creature chiếm trên bản đồ, như trong bảng **Creature Size and Space**. Bảng đó liệt kê các kích thước từ nhỏ nhất (Tiny) đến lớn nhất (Gargantuan). Không gian (space) của một creature là khu vực mà nó kiểm soát hiệu quả trong combat và khu vực nó cần để chiến đấu hiệu quả.
+**Kích cỡ sinh vật (Creature Size).** Mỗi sinh vật thuộc một hạng kích cỡ, quyết định chiều rộng khoảng không gian nó chiếm trên bản đồ, như trong bảng **Kích cỡ và không gian của sinh vật**. Bảng liệt kê các kích cỡ từ nhỏ nhất (Tí hon) đến lớn nhất (Cực đại). Không gian của sinh vật là khu vực mà nó kiểm soát trong chiến đấu và cần có để chiến đấu hiệu quả.
 
-Kích thước của một character được xác định bởi species, và kích thước của một quái vật được ghi rõ trong stat block của quái vật.
+Kích cỡ của nhân vật do giống loài quyết định; kích cỡ của quái vật được ghi trong khối thông số.
 
-**Creature Size and Space (Kích Thước và Không Gian Creature)**
+**Kích cỡ và không gian của sinh vật (Creature Size and Space)**
 
-| Size | Space (Feet) | Space (Squares) |
+| Kích cỡ | Không gian (mét) | Không gian (ô) |
 |---|---|---|
-| Tiny | 2½ by 2½ feet | 4 per square |
-| Small | 5 by 5 feet | 1 square |
-| Medium | 5 by 5 feet | 1 square |
-| Large | 10 by 10 feet | 4 squares (2 by 2) |
-| Huge | 15 by 15 feet | 9 squares (3 by 3) |
-| Gargantuan | 20 by 20 feet | 16 squares (4 by 4) |
+| Tí hon (Tiny) | 0,75 × 0,75 m (2½ × 2½ feet) | 4 sinh vật mỗi ô |
+| Nhỏ (Small) | 1,5 × 1,5 m (5 × 5 feet) | 1 ô |
+| Trung bình (Medium) | 1,5 × 1,5 m (5 × 5 feet) | 1 ô |
+| Lớn (Large) | 3 × 3 m (10 × 10 feet) | 4 ô (2 × 2) |
+| Khổng lồ (Huge) | 4,5 × 4,5 m (15 × 15 feet) | 9 ô (3 × 3) |
+| Cực đại (Gargantuan) | 6 × 6 m (20 × 20 feet) | 16 ô (4 × 4) |
 
-**Moving around Other Creatures.** Trong lúc di chuyển, bạn có thể đi qua không gian của một đồng minh, một creature có condition Incapacitated (xem "Rules Glossary"), một creature Tiny, hoặc một creature lớn hơn hoặc nhỏ hơn bạn hai cấp kích thước.
+**Di chuyển quanh sinh vật khác (Moving around Other Creatures).** Khi di chuyển, bạn có thể đi qua không gian của đồng minh, của sinh vật đang ở trạng thái Mất năng lực hành động (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)), của sinh vật Tí hon, hoặc của sinh vật lớn hơn hay nhỏ hơn bạn ít nhất hai hạng kích cỡ.
 
-Không gian của một creature khác là Difficult Terrain đối với bạn trừ khi creature đó là Tiny hoặc là đồng minh của bạn.
+Không gian của sinh vật khác là địa hình khó đi đối với bạn, trừ khi sinh vật đó Tí hon hoặc là đồng minh của bạn.
 
-Bạn không thể tự nguyện kết thúc lượt di chuyển trong một không gian bị chiếm bởi một creature khác. Nếu bằng cách nào đó bạn kết thúc một turn trong không gian có một creature khác, bạn có condition Prone (xem "Rules Glossary") trừ khi bạn là Tiny hoặc có kích thước lớn hơn creature còn lại.
+Bạn không thể tự nguyện kết thúc lượng di chuyển trong không gian của sinh vật khác. Nếu vì lý do nào đó bạn kết thúc lượt trong không gian có sinh vật khác, bạn rơi vào trạng thái Ngã sấp (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)), trừ khi bạn Tí hon hoặc có kích cỡ lớn hơn sinh vật kia.
 
-### Making an Attack (Thực Hiện Tấn Công)
+### Thực hiện đòn tấn công (Making an Attack)
 
-Khi bạn thực hiện action Attack, bạn thực hiện một cuộc tấn công. Một số action khác, Bonus Action, và Reaction cũng cho phép bạn tấn công. Dù bạn tấn công bằng một melee weapon, bắn một ranged weapon, hay thực hiện một attack roll như một phần của spell, một cuộc tấn công có cấu trúc sau:
+Khi dùng hành động Tấn công, bạn thực hiện đòn tấn công. Một số hành động, hành động phụ và phản ứng khác cũng cho phép bạn tấn công. Dù bạn đánh bằng vũ khí cận chiến, bắn bằng vũ khí tầm xa hay tung tấn công như một phần của phép, mọi đòn tấn công đều có cấu trúc sau:
 
-1. **Choose a Target.** Chọn một mục tiêu trong tầm đánh của cuộc tấn công: một creature, một object, hoặc một vị trí.
-2. **Determine Modifiers.** GM xác định mục tiêu có Cover hay không (xem phần tiếp theo) và bạn có Advantage hay Disadvantage đối với mục tiêu hay không. Ngoài ra, spell, khả năng đặc biệt, và các hiệu ứng khác có thể áp dụng penalty hoặc bonus cho attack roll của bạn.
-3. **Resolve the Attack.** Thực hiện attack roll, như mô tả trước đó trong "Playing the Game." Khi trúng, bạn tung damage trừ khi cuộc tấn công cụ thể có luật quy định khác. Một số cuộc tấn công gây hiệu ứng đặc biệt ngoài hoặc thay vì damage.
+1. **Chọn mục tiêu.** Chọn một mục tiêu trong tầm của đòn tấn công: một sinh vật, một đồ vật hoặc một vị trí.
+2. **Xác định các hệ số.** GM xác định mục tiêu có được che chắn không (xem phần tiếp theo) và bạn có lợi thế hay bất lợi với mục tiêu không. Ngoài ra, phép, khả năng đặc biệt và các hiệu ứng khác có thể áp dụng điểm trừ hoặc điểm cộng cho lần tung tấn công.
+3. **Phân xử đòn tấn công.** Tung tấn công như mô tả ở phần [Lần tung tấn công](#lần-tung-tấn-công-attack-rolls). Khi trúng, bạn tung sát thương, trừ khi luật của đòn tấn công đó nói khác. Một số đòn tấn công gây hiệu ứng đặc biệt kèm theo hoặc thay cho sát thương.
 
-**Unseen Attackers and Targets.** Khi bạn thực hiện một attack roll nhắm vào một mục tiêu bạn không thể nhìn thấy, bạn có Disadvantage trên lượt tung. Điều này đúng dù bạn đang đoán vị trí của mục tiêu hay nhắm vào một creature bạn có thể nghe nhưng không thể thấy. Nếu mục tiêu không ở vị trí bạn nhắm, bạn trượt. Khi một creature không thể nhìn thấy bạn, bạn có Advantage trên các attack roll nhắm vào nó. Nếu bạn đang ẩn nấp khi thực hiện một attack roll, bạn để lộ vị trí của mình khi cuộc tấn công trúng hoặc trượt.
+**Kẻ tấn công và mục tiêu không nhìn thấy (Unseen Attackers and Targets).** Khi tung tấn công một mục tiêu mà bạn không nhìn thấy, bạn chịu bất lợi. Điều này đúng dù bạn đoán vị trí mục tiêu hay nhắm vào sinh vật mà bạn nghe thấy nhưng không nhìn thấy. Nếu mục tiêu không ở vị trí bạn nhắm, bạn đánh trượt. Khi một sinh vật không nhìn thấy bạn, bạn có lợi thế khi tung tấn công nó. Nếu bạn đang ẩn nấp khi tung tấn công, vị trí của bạn bị lộ khi đòn đánh trúng hoặc trượt.
 
-### Cover (Vật Che Chắn)
+### Che chắn (Cover)
 
-Tường, cây cối, creature, và các chướng ngại vật khác có thể cung cấp **cover**, khiến một mục tiêu khó bị gây hại hơn. Như trình bày chi tiết trong bảng **Cover**, có ba mức độ cover, mỗi mức mang lại một lợi ích khác nhau cho mục tiêu.
+Tường, cây cối, sinh vật và các chướng ngại khác có thể tạo **che chắn** (cover), khiến mục tiêu khó bị gây thương tích hơn. Như trong bảng **Che chắn**, có ba mức che chắn, mỗi mức mang lại một lợi ích khác nhau cho mục tiêu.
 
-Một mục tiêu chỉ có thể hưởng lợi từ cover khi một cuộc tấn công hoặc hiệu ứng khác xuất phát từ phía đối diện của cover đó. Nếu một mục tiêu ở sau nhiều nguồn cover, chỉ mức độ cover bảo vệ nhất áp dụng; các mức độ không được cộng dồn. Ví dụ, nếu một mục tiêu ở sau một creature cho Half Cover và một thân cây cho Three-Quarters Cover, mục tiêu đó có Three-Quarters Cover.
+Mục tiêu chỉ được hưởng lợi từ che chắn khi đòn tấn công hoặc hiệu ứng xuất phát từ phía bên kia vật che chắn. Nếu mục tiêu nấp sau nhiều vật che chắn, chỉ mức che chắn tốt nhất được áp dụng; các mức không cộng dồn. Ví dụ, nếu mục tiêu ở sau một sinh vật cho che chắn một nửa và một thân cây cho che chắn ba phần tư, mục tiêu có che chắn ba phần tư.
 
-**Cover (Vật Che Chắn)**
+**Che chắn (Cover)**
 
-| Degree | Benefit to Target | Offered By … |
+| Mức độ | Lợi ích cho mục tiêu | Tạo bởi… |
 |---|---|---|
-| Half | +2 bonus vào AC và Dexterity saving throw | Một creature khác hoặc một object che phủ ít nhất một nửa mục tiêu |
-| Three-Quarters | +5 bonus vào AC và Dexterity saving throw | Một object che phủ ít nhất ba phần tư mục tiêu |
-| Total | Không thể bị nhắm mục tiêu trực tiếp | Một object che phủ toàn bộ mục tiêu |
+| Một nửa (Half) | +2 vào AC và cứu nguy Khéo léo | Một sinh vật khác hoặc đồ vật che ít nhất một nửa mục tiêu |
+| Ba phần tư (Three-Quarters) | +5 vào AC và cứu nguy Khéo léo | Một đồ vật che ít nhất ba phần tư mục tiêu |
+| Toàn phần (Total) | Không thể bị nhắm trực tiếp | Một đồ vật che toàn bộ mục tiêu |
 
-### Ranged Attacks (Tấn Công Tầm Xa)
+### Tấn công tầm xa (Ranged Attacks)
 
-Khi bạn thực hiện một ranged attack, bạn bắn một cây cung, ném một cây rìu, hoặc bằng cách khác gửi các vật phóng để đánh trúng một kẻ địch ở khoảng cách xa. Nhiều spell cũng liên quan đến việc thực hiện một ranged attack.
+Khi thực hiện đòn tấn công tầm xa, bạn bắn cung, ném rìu hoặc phóng vật gì đó để đánh trúng kẻ thù ở xa. Nhiều phép cũng dùng đòn tấn công tầm xa.
 
-**Range.** Bạn chỉ có thể thực hiện ranged attack nhắm vào các mục tiêu trong một tầm đánh được chỉ định. Nếu một ranged attack, chẳng hạn một attack được thực hiện với một spell, chỉ có một tầm đánh duy nhất, bạn không thể tấn công một mục tiêu ngoài tầm đánh này. Một số ranged attack, chẳng hạn những đòn thực hiện với một Longbow, có hai tầm đánh. Con số nhỏ hơn là normal range, và con số lớn hơn là long range. Attack roll của bạn có Disadvantage khi mục tiêu của bạn nằm ngoài normal range, và bạn không thể tấn công một mục tiêu ngoài long range.
+**Tầm (Range).** Bạn chỉ có thể tấn công tầm xa các mục tiêu trong một tầm nhất định. Nếu đòn tấn công tầm xa chỉ có một giá trị tầm, như đòn tấn công bằng phép, bạn không thể tấn công mục tiêu ngoài tầm đó. Một số đòn tấn công tầm xa, như bắn bằng Cung dài (Longbow), có hai giá trị tầm. Giá trị nhỏ là tầm thường, giá trị lớn là tầm xa. Bạn chịu bất lợi khi tung tấn công mục tiêu ngoài tầm thường, và không thể tấn công mục tiêu ngoài tầm xa.
 
-**Ranged Attacks in Close Combat.** Việc nhắm một ranged attack khó khăn hơn khi có kẻ địch ở ngay bên cạnh bạn. Khi bạn thực hiện một ranged attack roll bằng một weapon, một spell, hoặc phương tiện khác, bạn có Disadvantage trên lượt tung nếu bạn ở trong vòng 5 feet của một kẻ địch có thể nhìn thấy bạn và không có condition Incapacitated (xem "Rules Glossary").
+**Tấn công tầm xa khi cận chiến (Ranged Attacks in Close Combat).** Nhắm bắn khó hơn khi kẻ thù ở ngay cạnh. Khi tung tấn công tầm xa bằng vũ khí, phép hay cách khác, bạn chịu bất lợi nếu đang ở trong phạm vi 1,5 m (5 feet) của một kẻ thù nhìn thấy bạn và không ở trạng thái Mất năng lực hành động (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-### Melee Attacks (Tấn Công Cận Chiến)
+### Tấn công cận chiến (Melee Attacks)
 
-Một melee attack cho phép bạn tấn công một mục tiêu trong tầm với (reach) của bạn. Một melee attack thường sử dụng một weapon cầm tay hoặc một Unarmed Strike. Nhiều quái vật thực hiện melee attack bằng vuốt, răng, hoặc các bộ phận cơ thể khác. Một vài spell cũng liên quan đến melee attack.
+Đòn tấn công cận chiến cho phép bạn đánh một mục tiêu trong tầm với của mình. Đòn cận chiến thường dùng vũ khí cầm tay hoặc đòn tay không. Nhiều quái vật tấn công cận chiến bằng vuốt, răng hoặc bộ phận cơ thể khác. Một số phép cũng dùng đòn tấn công cận chiến.
 
-**Reach.** Một creature có tầm với 5 feet và do đó có thể tấn công các mục tiêu trong vòng 5 feet khi thực hiện một melee attack. Một số creature có melee attack với tầm với lớn hơn 5 feet, như ghi chú trong mô tả của chúng.
+**Tầm với (Reach).** Sinh vật có tầm với 1,5 m (5 feet), nên có thể tấn công cận chiến các mục tiêu trong phạm vi 1,5 m (5 feet). Một số sinh vật có đòn cận chiến với tầm với lớn hơn, như ghi trong mô tả của chúng.
 
-**Opportunity Attacks.** Combatant luôn cảnh giác chờ kẻ địch mất cảnh giác. Nếu bạn di chuyển bất cẩn khỏi kẻ địch, bạn đặt mình vào nguy hiểm bằng cách kích hoạt một **Opportunity Attack**.
+**Tấn công cơ hội (Opportunity Attacks).** Người tham chiến luôn chờ kẻ thù sơ hở. Nếu bạn di chuyển thiếu cẩn trọng khỏi kẻ thù, bạn tự đặt mình vào nguy hiểm vì kích hoạt **tấn công cơ hội**.
 
-*Avoiding an Opportunity Attack.* Bạn có thể tránh kích hoạt một Opportunity Attack bằng cách thực hiện action Disengage. Bạn cũng không kích hoạt một Opportunity Attack khi bạn Teleport hoặc khi bạn bị di chuyển mà không dùng movement, action, Bonus Action, hoặc Reaction của mình. Ví dụ, bạn không kích hoạt một Opportunity Attack nếu một vụ nổ đẩy bạn ra khỏi tầm với của một kẻ địch hoặc nếu bạn rơi qua một kẻ địch.
+*Tránh tấn công cơ hội (Avoiding an Opportunity Attack).* Bạn có thể tránh kích hoạt tấn công cơ hội bằng hành động Rút lui. Bạn cũng không kích hoạt tấn công cơ hội khi dịch chuyển tức thời (Teleport) hoặc khi bị di chuyển mà không dùng lượng di chuyển, hành động, hành động phụ hay phản ứng của mình. Ví dụ, bạn không kích hoạt tấn công cơ hội nếu một vụ nổ hất bạn ra khỏi tầm với của kẻ thù hoặc nếu bạn rơi ngang qua kẻ thù.
 
-*Making an Opportunity Attack.* Bạn có thể thực hiện một Opportunity Attack khi một creature mà bạn có thể nhìn thấy rời khỏi tầm với của bạn. Để thực hiện cuộc tấn công, hãy dùng một Reaction để thực hiện một melee attack bằng một weapon hoặc một Unarmed Strike nhắm vào creature đó. Cuộc tấn công xảy ra ngay trước khi creature đó rời khỏi tầm với của bạn.
+*Thực hiện tấn công cơ hội (Making an Opportunity Attack).* Bạn có thể tấn công cơ hội khi một sinh vật mà bạn nhìn thấy rời khỏi tầm với của bạn. Để làm vậy, dùng phản ứng để tấn công cận chiến sinh vật đó bằng vũ khí hoặc đòn tay không. Đòn tấn công xảy ra ngay trước khi sinh vật rời khỏi tầm với của bạn.
 
-### Mounted Combat (Chiến Đấu Trên Lưng Vật Cưỡi)
+### Chiến đấu trên thú cưỡi (Mounted Combat)
 
-Một creature tự nguyện có kích thước lớn hơn người cưỡi ít nhất một cấp và có cấu tạo cơ thể phù hợp có thể đóng vai trò là một **mount** (vật cưỡi), sử dụng các quy tắc sau.
+Một sinh vật tự nguyện, lớn hơn người cưỡi ít nhất một hạng kích cỡ và có cơ thể phù hợp có thể làm **thú cưỡi**, theo các quy tắc sau.
 
-**Mounting and Dismounting.** Trong lượt di chuyển của mình, bạn có thể cưỡi lên một creature trong vòng 5 feet của bạn hoặc xuống khỏi nó. Làm như vậy tốn một lượng movement bằng một nửa Speed của bạn (làm tròn xuống). Ví dụ, nếu Speed của bạn là 30 feet, bạn tốn 15 feet movement để cưỡi lên một con ngựa.
+**Lên và xuống thú cưỡi (Mounting and Dismounting).** Trong lượt di chuyển, bạn có thể leo lên hoặc xuống khỏi một sinh vật trong phạm vi 1,5 m (5 feet). Việc này tốn lượng di chuyển bằng một nửa Tốc độ của bạn (làm tròn xuống). Ví dụ, nếu Tốc độ của bạn là 9 m (30 feet), bạn tốn 4,5 m (15 feet) di chuyển để lên ngựa.
 
-**Controlling a Mount.** Bạn chỉ có thể điều khiển một mount nếu nó đã được huấn luyện để chấp nhận người cưỡi. Ngựa, la, và các creature thuần hóa tương tự đã có sự huấn luyện đó.
+**Điều khiển thú cưỡi (Controlling a Mount).** Bạn chỉ điều khiển được thú cưỡi đã được huấn luyện để chở người. Ngựa, la và các sinh vật thuần hóa tương tự đều đã được huấn luyện như vậy.
 
-Initiative của một controlled mount (vật cưỡi được điều khiển) thay đổi để khớp với Initiative của bạn khi bạn cưỡi lên nó. Nó di chuyển trong turn của bạn theo chỉ dẫn của bạn, và nó chỉ có ba lựa chọn action trong turn đó: Dash, Disengage, và Dodge. Một controlled mount có thể di chuyển và hành động ngay cả trong turn bạn cưỡi lên nó.
+Sáng kiến của thú cưỡi được điều khiển thay đổi để trùng với Sáng kiến của bạn khi bạn cưỡi lên nó. Nó di chuyển trong lượt của bạn theo chỉ dẫn của bạn và chỉ có ba lựa chọn hành động: Chạy nước rút, Rút lui và Né tránh. Thú cưỡi được điều khiển có thể di chuyển và hành động ngay trong lượt bạn leo lên.
 
-Ngược lại, một independent mount (vật cưỡi độc lập) — loại cho phép bạn cưỡi nhưng bỏ qua sự điều khiển của bạn — giữ nguyên vị trí của nó trong thứ tự Initiative và di chuyển, hành động theo ý nó.
+Ngược lại, thú cưỡi độc lập — cho phép bạn cưỡi nhưng không nghe điều khiển — giữ nguyên vị trí trong thứ tự Sáng kiến và tự di chuyển, hành động theo ý nó.
 
-**Falling Off.** Nếu một hiệu ứng sắp di chuyển mount của bạn trái với ý muốn của nó trong khi bạn đang cưỡi nó, bạn phải vượt qua một DC 10 Dexterity saving throw hoặc ngã khỏi mount, tiếp đất với condition Prone (xem "Rules Glossary") trong một không gian trống trong vòng 5 feet của mount. Khi đang cưỡi, bạn phải thực hiện save tương tự nếu bạn bị Prone hoặc mount bị Prone.
+**Ngã khỏi thú cưỡi (Falling Off).** Nếu một hiệu ứng sắp di chuyển thú cưỡi trái ý nó trong khi bạn đang cưỡi, bạn phải thành công một lần cứu nguy Khéo léo DC 10, nếu không sẽ ngã xuống, rơi vào trạng thái Ngã sấp (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) tại một chỗ trống trong phạm vi 1,5 m (5 feet) quanh thú cưỡi. Khi đang cưỡi, bạn phải thực hiện lần cứu nguy tương tự nếu bạn hoặc thú cưỡi rơi vào trạng thái Ngã sấp.
 
-### Underwater Combat (Chiến Đấu Dưới Nước)
+### Chiến đấu dưới nước (Underwater Combat)
 
-Một trận đánh dưới nước tuân theo các quy tắc sau.
+Trận chiến dưới nước dùng các quy tắc sau.
 
-**Impeded Weapons.** Khi thực hiện một melee attack roll bằng một weapon dưới nước, một creature không có Swim Speed có Disadvantage trên attack roll trừ khi weapon đó gây damage loại Piercing. Một ranged attack roll bằng một weapon dưới nước tự động trượt một mục tiêu ngoài normal range của weapon, và attack roll có Disadvantage đối với một mục tiêu trong normal range.
+**Vũ khí bị cản trở (Impeded Weapons).** Khi tung tấn công cận chiến bằng vũ khí dưới nước, sinh vật không có Tốc độ bơi chịu bất lợi, trừ khi vũ khí gây sát thương xuyên. Đòn tấn công tầm xa bằng vũ khí dưới nước tự động trượt mục tiêu ngoài tầm thường của vũ khí, và chịu bất lợi với mục tiêu trong tầm thường.
 
-**Fire Resistance.** Bất cứ thứ gì dưới nước đều có Resistance với damage loại Fire (giải thích trong "Damage and Healing").
+**Kháng lửa (Fire Resistance).** Mọi thứ ở dưới nước đều kháng sát thương lửa (giải thích trong [Sát thương và chữa lành](#sát-thương-và-chữa-lành-damage-and-healing)).
 
-## Damage and Healing (Sát Thương và Hồi Phục)
+## Sát thương và chữa lành (Damage and Healing)
 
-Thương tích và cái chết là những mối đe dọa thường xuyên, như trình bày chi tiết trong các quy tắc sau.
+Thương tích và cái chết là mối đe dọa thường trực, như trình bày trong các quy tắc sau.
 
-**Resting.** Adventurer không thể dành mọi giờ để phiêu lưu. Họ cần nghỉ ngơi. Bất kỳ creature nào cũng có thể thực hiện Short Rest kéo dài một giờ trong ngày và một Long Rest 8 giờ để kết thúc ngày đó. Việc phục hồi Hit Points là một trong những lợi ích chính của việc nghỉ ngơi. "Rules Glossary" cung cấp các quy tắc cho Short Rest và Long Rest.
+**Nghỉ ngơi (Resting).** Nhà phiêu lưu không thể phiêu lưu suốt ngày đêm; họ cần nghỉ ngơi. Mọi sinh vật đều có thể nghỉ ngắn 1 giờ trong ngày và nghỉ dài 8 giờ để kết thúc một ngày. Hồi điểm sinh lực là một trong những lợi ích chính của nghỉ ngơi. [Bảng thuật ngữ luật](08-Rules-Glossary.md) trình bày luật nghỉ ngắn và nghỉ dài.
 
-### Hit Points (Điểm Sinh Lực)
+### Điểm sinh lực (Hit Points)
 
-**Hit Points** thể hiện sức chịu đựng và ý chí sống còn. Creature có nhiều Hit Points hơn thì khó bị giết hơn. Hit Point maximum của bạn là số Hit Points bạn có khi không bị thương. Hit Points hiện tại của bạn có thể là bất kỳ con số nào từ mức tối đa đó xuống 0, mức thấp nhất mà Hit Points có thể đạt được.
+**Điểm sinh lực** (Hit Points, HP) thể hiện sức bền và ý chí sống. Sinh vật có nhiều điểm sinh lực hơn thì khó bị giết hơn. Điểm sinh lực tối đa là số HP bạn có khi không bị thương. HP hiện tại có thể là bất kỳ số nào từ mức tối đa xuống 0, mức thấp nhất.
 
-Bất cứ khi nào bạn nhận damage, hãy trừ nó khỏi Hit Points của bạn. Việc mất Hit Points không có ảnh hưởng đến khả năng của bạn cho đến khi bạn đạt 0 Hit Points.
+Mỗi khi chịu sát thương, hãy trừ lượng đó khỏi HP. Việc mất HP không ảnh hưởng đến năng lực của bạn cho đến khi HP về 0.
 
-Nếu bạn còn một nửa Hit Points của mình hoặc ít hơn, bạn ở trạng thái **Bloodied**, không có hiệu ứng trò chơi riêng nhưng có thể kích hoạt các hiệu ứng khác.
+Nếu bạn còn một nửa điểm sinh lực hoặc ít hơn, bạn ở trạng thái **Đẫm máu** (Bloodied). Trạng thái này tự nó không có hiệu ứng nhưng có thể kích hoạt các hiệu ứng khác.
 
-### Damage Rolls (Tung Sát Thương)
+### Lần tung sát thương (Damage Rolls)
 
-Mỗi weapon, spell, và khả năng gây damage của quái vật quy định damage mà nó gây ra. Bạn tung các xúc xắc damage, cộng thêm modifier, và gây damage đó lên mục tiêu của bạn. Nếu có một penalty vào damage, có thể gây ra 0 damage nhưng không thể gây damage âm.
+Mỗi vũ khí, phép và khả năng gây hại của quái vật đều ghi rõ sát thương mà nó gây ra. Bạn tung xúc xắc sát thương, cộng các hệ số và gây lượng sát thương đó lên mục tiêu. Nếu có điểm trừ vào sát thương, bạn có thể gây 0 sát thương nhưng không bao giờ gây sát thương âm.
 
-Khi tấn công bằng một weapon, bạn cộng ability modifier của mình — modifier tương tự dùng cho attack roll — vào damage roll. Một spell cho bạn biết xúc xắc nào để tung cho damage và có cộng thêm modifier nào không. Trừ khi một quy tắc nói khác, bạn không cộng ability modifier của mình vào một lượng damage cố định không dùng lượt tung, chẳng hạn damage của một Blowgun. Xem "Equipment" để biết xúc xắc damage của weapon và "Spells" để biết xúc xắc damage của spell.
+Khi tấn công bằng vũ khí, bạn cộng hệ số thuộc tính — cùng hệ số dùng cho lần tung tấn công — vào lần tung sát thương. Phép cho biết cần tung xúc xắc nào và có cộng hệ số không. Trừ khi một quy tắc nói khác, bạn không cộng hệ số thuộc tính vào lượng sát thương cố định không cần tung, như sát thương của Ống thổi (Blowgun). Xem [Trang bị](06-Equipment.md) để biết xúc xắc sát thương của vũ khí và [Phép thuật](07-Spells.md) để biết xúc xắc sát thương của phép.
 
-### Critical Hits (Đòn Chí Mạng)
+### Đòn chí mạng (Critical Hits)
 
-Khi bạn ghi được một **Critical Hit**, bạn gây thêm damage. Tung xúc xắc damage của cuộc tấn công hai lần, cộng chúng lại, và cộng thêm bất kỳ modifier liên quan nào như bình thường. Ví dụ, nếu bạn ghi được một Critical Hit với một Dagger, tung 2d4 cho damage thay vì 1d4, và cộng ability modifier liên quan của bạn. Nếu cuộc tấn công liên quan đến các xúc xắc damage khác, chẳng hạn từ feature Sneak Attack của Rogue, bạn cũng tung những xúc xắc đó hai lần.
+Khi ghi được **đòn chí mạng**, bạn gây thêm sát thương. Tung xúc xắc sát thương của đòn tấn công hai lần, cộng lại, rồi cộng các hệ số liên quan như bình thường. Ví dụ, nếu đánh chí mạng bằng Dao găm (Dagger), bạn tung 2d4 thay vì 1d4 rồi cộng hệ số thuộc tính liên quan. Nếu đòn tấn công có thêm xúc xắc sát thương khác, như từ đặc tính Tấn công lén (Sneak Attack) của Đạo tặc, bạn cũng tung các xúc xắc đó hai lần.
 
-### Saving Throws and Damage (Cứu Nguy và Sát Thương)
+### Cứu nguy và sát thương (Saving Throws and Damage)
 
-Damage gây ra thông qua saving throw sử dụng các quy tắc sau.
+Sát thương gây ra qua lần cứu nguy dùng các quy tắc sau.
 
-**Damage against Multiple Targets.** Khi bạn tạo ra một hiệu ứng gây damage buộc hai hoặc nhiều mục tiêu thực hiện saving throw cùng lúc, hãy tung damage một lần cho tất cả các mục tiêu. Ví dụ, khi một wizard thi triển Fireball, damage của spell được tung một lần cho tất cả creature bị cuốn vào vụ nổ.
+**Sát thương lên nhiều mục tiêu (Damage against Multiple Targets).** Khi bạn tạo hiệu ứng gây sát thương buộc hai mục tiêu trở lên cứu nguy cùng lúc, hãy tung sát thương một lần cho tất cả. Ví dụ, khi pháp sư thi triển *Quả cầu lửa* (Fireball), sát thương được tung một lần cho mọi sinh vật trong vụ nổ.
 
-**Half Damage.** Nhiều hiệu ứng saving throw gây một nửa damage (làm tròn xuống) cho một mục tiêu khi mục tiêu thành công trong saving throw. Damage bị giảm một nửa bằng một nửa lượng damage lẽ ra sẽ gây ra nếu save thất bại.
+**Một nửa sát thương (Half Damage).** Nhiều hiệu ứng cứu nguy gây một nửa sát thương (làm tròn xuống) cho mục tiêu cứu nguy thành công. Sát thương giảm một nửa bằng một nửa lượng mà mục tiêu lẽ ra phải chịu nếu cứu nguy thất bại.
 
-### Damage Types (Loại Sát Thương)
+### Loại sát thương (Damage Types)
 
-Mỗi lần gây damage đều có một loại (type), như Fire hoặc Slashing. Các damage type được liệt kê trong "Rules Glossary" và không có quy tắc riêng, nhưng các quy tắc khác, chẳng hạn Resistance, dựa vào damage type.
+Mỗi lần gây sát thương đều có một loại, như lửa hay chém. Các loại sát thương được liệt kê trong [Bảng thuật ngữ luật](08-Rules-Glossary.md) và không có quy tắc riêng, nhưng các quy tắc khác như kháng lại dựa vào loại sát thương.
 
-### Resistance and Vulnerability (Kháng và Dễ Tổn Thương)
+### Kháng và dễ tổn thương (Resistance and Vulnerability)
 
-Một số creature và object có **Resistance** hoặc **Vulnerability** đối với một số loại damage nhất định. Nếu bạn có Resistance với một loại damage, damage loại đó bị giảm một nửa khi gây lên bạn (làm tròn xuống). Nếu bạn có Vulnerability với một loại damage, damage loại đó bị nhân đôi khi gây lên bạn. Ví dụ, nếu bạn có Resistance với damage Cold, damage đó bị giảm một nửa khi gây lên bạn, và nếu bạn có Vulnerability với damage Fire, damage đó bị nhân đôi khi gây lên bạn.
+Một số sinh vật và đồ vật có **kháng** (Resistance) hoặc **dễ tổn thương** (Vulnerability) với một số loại sát thương. Nếu bạn kháng một loại sát thương, sát thương loại đó gây lên bạn bị giảm một nửa (làm tròn xuống). Nếu bạn dễ tổn thương trước một loại sát thương, sát thương loại đó gây lên bạn bị nhân đôi. Ví dụ, nếu bạn kháng sát thương lạnh, sát thương lạnh gây lên bạn giảm một nửa; nếu dễ tổn thương trước sát thương lửa, sát thương lửa gây lên bạn nhân đôi.
 
-**No Stacking.** Nhiều lần có Resistance hoặc Vulnerability ảnh hưởng đến cùng một loại damage chỉ được tính là một lần duy nhất. Ví dụ, nếu bạn có Resistance với damage Necrotic cũng như Resistance với tất cả damage, damage Necrotic chỉ bị giảm một nửa khi gây lên bạn.
+**Không cộng dồn (No Stacking).** Nhiều nguồn kháng hoặc dễ tổn thương cùng ảnh hưởng đến một loại sát thương chỉ tính là một. Ví dụ, nếu bạn kháng sát thương hoại tử và đồng thời kháng mọi loại sát thương, sát thương hoại tử gây lên bạn chỉ giảm một nửa một lần.
 
-**Order of Application.** Các modifier vào damage được áp dụng theo thứ tự sau: các điều chỉnh như bonus, penalty, hoặc hệ số nhân được áp dụng trước; Resistance được áp dụng thứ hai; và Vulnerability được áp dụng thứ ba.
+**Thứ tự áp dụng (Order of Application).** Các điều chỉnh sát thương được áp dụng theo thứ tự: điểm cộng, điểm trừ hoặc hệ số nhân trước; kháng thứ hai; dễ tổn thương thứ ba.
 
-Ví dụ, một creature có Resistance với tất cả damage và Vulnerability với damage Fire, và nó đang ở trong một hào quang ma thuật làm giảm tất cả damage đi 5. Nếu nó nhận 28 damage Fire, damage đó trước tiên bị giảm đi 5 (còn 23), sau đó bị giảm một nửa do Resistance của creature (và làm tròn xuống còn 11), rồi bị nhân đôi do Vulnerability của nó (thành 22).
+Ví dụ, một sinh vật kháng mọi sát thương và dễ tổn thương trước sát thương lửa, đang đứng trong một vầng hào quang ma thuật giảm mọi sát thương đi 5. Nếu nó chịu 28 sát thương lửa, sát thương trước tiên giảm 5 (còn 23), sau đó giảm một nửa do kháng (làm tròn xuống còn 11), rồi nhân đôi do dễ tổn thương (thành 22).
 
-### Immunity (Miễn Nhiễm)
+### Miễn nhiễm (Immunity)
 
-Một số creature và object có **Immunity** với một số loại damage và condition nhất định. Immunity với một loại damage nghĩa là bạn không nhận damage loại đó, và Immunity với một condition nghĩa là bạn không bị ảnh hưởng bởi nó.
+Một số sinh vật và đồ vật **miễn nhiễm** (Immunity) với một số loại sát thương và trạng thái. Miễn nhiễm một loại sát thương nghĩa là bạn không chịu sát thương loại đó; miễn nhiễm một trạng thái nghĩa là bạn không bị trạng thái đó ảnh hưởng.
 
-### Healing (Hồi Phục)
+### Chữa lành (Healing)
 
-Hit Points có thể được phục hồi bằng phép thuật, chẳng hạn spell Cure Wounds hoặc một Potion of Healing, hoặc bằng một Short Rest hoặc Long Rest (xem "Rules Glossary").
+Điểm sinh lực có thể được hồi bằng ma thuật, như phép *Chữa vết thương* (Cure Wounds) hay *Thuốc chữa lành* (Potion of Healing), hoặc bằng nghỉ ngắn hay nghỉ dài (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-Khi bạn nhận healing, hãy cộng số Hit Points được phục hồi vào Hit Points hiện tại của bạn. Hit Points của bạn không thể vượt quá Hit Point maximum của bạn, vì vậy bất kỳ Hit Points nào được phục hồi vượt quá mức tối đa sẽ bị mất. Ví dụ, nếu bạn nhận 8 Hit Points healing và có 14 Hit Points với Hit Point maximum là 20, bạn chỉ phục hồi 6 Hit Points, không phải 8.
+Khi được chữa lành, hãy cộng số HP hồi được vào HP hiện tại. HP không thể vượt quá điểm sinh lực tối đa, nên phần hồi vượt mức tối đa bị mất. Ví dụ, nếu bạn được chữa 8 HP khi đang có 14 HP với tối đa 20, bạn chỉ hồi 6 HP chứ không phải 8.
 
-> **Knocking Out a Creature**
->
-> Khi bạn sắp giảm Hit Points của một creature xuống 0 bằng một melee attack, bạn có thể thay vào đó giảm creature đó xuống 1 Hit Point và cho nó condition Unconscious. Nó sau đó bắt đầu một Short Rest, và condition đó kết thúc trên nó khi Short Rest kết thúc. Condition kết thúc sớm nếu creature phục hồi bất kỳ Hit Points nào hoặc nếu ai đó thực hiện một action để sơ cứu nó, thực hiện thành công một DC 10 Wisdom (Medicine) check.
+> [!info] Đánh gục một sinh vật (Knocking Out a Creature)
+> Khi sắp giảm HP của một sinh vật về 0 bằng đòn tấn công cận chiến, bạn có thể thay vào đó giảm nó xuống 1 HP và khiến nó rơi vào trạng thái Bất tỉnh. Sau đó nó bắt đầu nghỉ ngắn, và trạng thái kết thúc khi lần nghỉ ngắn kết thúc. Trạng thái kết thúc sớm nếu sinh vật hồi bất kỳ HP nào hoặc nếu ai đó dùng hành động sơ cứu nó và thành công một phép kiểm tra Minh triết (Y học) DC 10.
 
-### Dropping to 0 Hit Points (Giảm Xuống 0 Điểm Sinh Lực)
+### Giảm xuống 0 điểm sinh lực (Dropping to 0 Hit Points)
 
-Khi một creature giảm xuống 0 Hit Points, nó hoặc chết ngay lập tức hoặc bất tỉnh, như giải thích dưới đây.
+Khi HP của một sinh vật giảm về 0, nó hoặc chết ngay hoặc bất tỉnh, như giải thích dưới đây.
 
-**Instant Death.** Đây là những cách chính khiến một creature có thể chết ngay lập tức.
+**Chết ngay lập tức (Instant Death).** Đây là những cách chính khiến sinh vật chết ngay.
 
-- *Monster Death.* Một quái vật chết ngay khi nó giảm xuống 0 Hit Points, dù Game Master có thể bỏ qua quy tắc này đối với một quái vật cụ thể và xử lý nó như một character.
-- *Hit Point Maximum of 0.* Một creature chết nếu Hit Point maximum của nó đạt 0. Một số hiệu ứng nhất định rút cạn năng lượng sống, làm giảm Hit Point maximum của một creature.
-- *Massive Damage.* Khi damage làm giảm một character xuống 0 Hit Points và vẫn còn damage dư, character đó chết nếu phần dư bằng hoặc vượt quá Hit Point maximum của họ. Ví dụ, nếu nhân vật của bạn có Hit Point maximum là 12, hiện đang có 6 Hit Points, và nhận 18 damage, nhân vật giảm xuống 0 Hit Points, nhưng còn dư 12 damage. Nhân vật sau đó chết, vì 12 bằng với Hit Point maximum của họ.
+- *Quái vật tử vong (Monster Death).* Quái vật chết ngay khi HP về 0, dù Quản trò có thể bỏ qua quy tắc này với một quái vật cụ thể và xử lý nó như một nhân vật.
+- *Điểm sinh lực tối đa bằng 0 (Hit Point Maximum of 0).* Sinh vật chết nếu điểm sinh lực tối đa của nó về 0. Một số hiệu ứng hút sinh lực làm giảm điểm sinh lực tối đa của sinh vật.
+- *Sát thương khổng lồ (Massive Damage).* Khi sát thương làm HP của nhân vật về 0 mà vẫn còn dư, nhân vật chết nếu phần dư bằng hoặc vượt điểm sinh lực tối đa. Ví dụ, nếu nhân vật của bạn có tối đa 12 HP, đang có 6 HP và chịu 18 sát thương, HP về 0 và còn dư 12 sát thương. Nhân vật chết vì 12 bằng điểm sinh lực tối đa.
 
-**Character Demise.** Nếu nhân vật của bạn chết, những người khác có thể tìm ra cách hồi sinh nhân vật của bạn bằng phép thuật, chẳng hạn với spell Raise Dead. Hoặc trao đổi với GM về việc tạo một nhân vật mới để gia nhập nhóm. "Rules Glossary" có thêm thông tin về việc chết (being dead).
+**Nhân vật tử vong (Character Demise).** Nếu nhân vật của bạn chết, người khác có thể tìm cách hồi sinh bằng ma thuật, chẳng hạn phép *Gọi người chết dậy* (Raise Dead). Hoặc bạn có thể bàn với GM về việc tạo nhân vật mới gia nhập nhóm. [Bảng thuật ngữ luật](08-Rules-Glossary.md) có thêm thông tin về trạng thái đã chết.
 
-**Falling Unconscious.** Nếu bạn đạt 0 Hit Points và không chết ngay lập tức, bạn có condition Unconscious (xem "Rules Glossary") cho đến khi bạn phục hồi bất kỳ Hit Points nào, và giờ đây bạn phải thực hiện Death Saving Throw (xem bên dưới).
+**Ngã gục bất tỉnh (Falling Unconscious).** Nếu HP của bạn về 0 mà không chết ngay, bạn rơi vào trạng thái Bất tỉnh (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) cho đến khi hồi được HP, và giờ phải thực hiện cứu nguy tử vong (xem bên dưới).
 
-**Death Saving Throws.** Bất cứ khi nào bạn bắt đầu turn của mình với 0 Hit Points, bạn phải thực hiện một Death Saving Throw để xác định xem bạn tiến gần hơn đến cái chết hay bám víu vào sự sống. Không như các saving throw khác, loại này không gắn với một ability score nào. Bạn đang phó mặc cho số phận.
+**Cứu nguy tử vong (Death Saving Throws).** Mỗi khi bắt đầu lượt với 0 HP, bạn phải thực hiện một lần cứu nguy tử vong để xác định mình tiến gần cái chết hơn hay bám trụ được với sự sống. Khác các lần cứu nguy khác, lần này không gắn với điểm thuộc tính nào. Bạn phó mặc cho số phận.
 
-**Roll 1d20.** Nếu kết quả tung là 10 trở lên, bạn thành công. Ngược lại, bạn thất bại. Một thành công hay thất bại tự nó không có hiệu ứng gì. Vào lần thành công thứ ba, bạn trở nên **Stable** (xem "Stabilizing a Character" bên dưới). Vào lần thất bại thứ ba, bạn chết.
+**Tung 1d20 (Roll 1d20).** Nếu kết quả từ 10 trở lên, bạn thành công; ngược lại, bạn thất bại. Một lần thành công hay thất bại tự nó không có hiệu ứng. Ở lần thành công thứ ba, bạn trở nên **Ổn định** (Stable, xem "Ổn định nhân vật" bên dưới). Ở lần thất bại thứ ba, bạn chết.
 
-Các lần thành công và thất bại không cần phải liên tiếp; hãy theo dõi cả hai cho đến khi bạn đạt được ba lần cùng loại. Số lần của cả hai được đặt lại về 0 khi bạn phục hồi bất kỳ Hit Points nào hoặc trở nên Stable.
+Các lần thành công và thất bại không cần liên tiếp; hãy đếm cả hai cho đến khi một loại đạt ba lần. Cả hai bộ đếm trở về 0 khi bạn hồi bất kỳ HP nào hoặc trở nên Ổn định.
 
-**Rolling a 1 or 20.** Khi bạn tung ra 1 trên d20 cho một Death Saving Throw ở 0 Hit Points, bạn chịu hai lần thất bại. Nếu bạn tung ra 20 trên d20, bạn phục hồi 1 Hit Point.
+**Tung được 1 hoặc 20 (Rolling a 1 or 20).** Khi tung được 1 trên d20 cho cứu nguy tử vong lúc 0 HP, bạn chịu hai lần thất bại. Nếu tung được 20, bạn hồi 1 HP.
 
-Nếu bạn nhận bất kỳ damage nào trong khi bạn có 0 Hit Points, bạn chịu một lần thất bại Death Saving Throw. Nếu damage đó đến từ một Critical Hit, bạn chịu hai lần thất bại thay vào đó. Nếu damage bằng hoặc vượt quá Hit Point maximum của bạn, bạn chết.
+Nếu bạn chịu bất kỳ sát thương nào khi đang có 0 HP, bạn chịu một lần thất bại cứu nguy tử vong. Nếu sát thương đến từ đòn chí mạng, bạn chịu hai lần thất bại. Nếu sát thương bằng hoặc vượt điểm sinh lực tối đa của bạn, bạn chết.
 
-**Stabilizing a Character.** Bạn có thể thực hiện action Help để cố ổn định một creature ở 0 Hit Points, đòi hỏi một DC 10 Wisdom (Medicine) check thành công.
+**Ổn định nhân vật (Stabilizing a Character).** Bạn có thể dùng hành động Trợ giúp để cố ổn định một sinh vật có 0 HP, đòi hỏi thành công một phép kiểm tra Minh triết (Y học) DC 10.
 
-Một creature Stable không thực hiện Death Saving Throw dù nó vẫn có 0 Hit Points, nhưng nó vẫn có condition Unconscious. Nếu creature nhận damage, nó ngừng Stable và bắt đầu thực hiện Death Saving Throw trở lại. Một creature Stable không được chữa trị sẽ phục hồi 1 Hit Point sau 1d4 giờ.
+Sinh vật Ổn định không thực hiện cứu nguy tử vong dù vẫn có 0 HP, nhưng vẫn ở trạng thái Bất tỉnh. Nếu chịu sát thương, nó hết Ổn định và lại bắt đầu cứu nguy tử vong. Sinh vật Ổn định không được chữa trị sẽ hồi 1 HP sau 1d4 giờ.
 
-### Temporary Hit Points (Điểm Sinh Lực Tạm Thời)
+### Điểm sinh lực tạm thời (Temporary Hit Points)
 
-Một số spell và hiệu ứng khác cấp **Temporary Hit Points**, là một lớp đệm chống lại việc mất Hit Points thực sự, như giải thích dưới đây.
+Một số phép và hiệu ứng khác cho **điểm sinh lực tạm thời**, một lớp đệm chống lại việc mất điểm sinh lực thật, như giải thích dưới đây.
 
-**Lose Temporary Hit Points First.** Nếu bạn có Temporary Hit Points và nhận damage, những điểm đó bị mất trước, và bất kỳ damage dư nào chuyển sang Hit Points của bạn. Ví dụ, nếu bạn có 5 Temporary Hit Points và nhận 7 damage, bạn mất những điểm đó rồi mất 2 Hit Points.
+**Mất điểm sinh lực tạm thời trước (Lose Temporary Hit Points First).** Nếu bạn có điểm sinh lực tạm thời và chịu sát thương, điểm tạm thời bị trừ trước, phần sát thương còn dư mới trừ vào HP. Ví dụ, nếu có 5 điểm sinh lực tạm thời và chịu 7 sát thương, bạn mất 5 điểm tạm thời rồi mất 2 HP.
 
-**Duration.** Temporary Hit Points tồn tại cho đến khi chúng bị dùng hết hoặc bạn hoàn thành một Long Rest (xem "Rules Glossary").
+**Thời lượng (Duration).** Điểm sinh lực tạm thời tồn tại đến khi bị dùng hết hoặc bạn hoàn thành nghỉ dài (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
 
-**They Don't Stack.** Temporary Hit Points không thể được cộng dồn với nhau. Nếu bạn có Temporary Hit Points và nhận thêm, bạn quyết định giữ số bạn đang có hay nhận số mới. Ví dụ, nếu một spell cấp cho bạn 12 Temporary Hit Points khi bạn đã có 10, bạn có thể có 12 hoặc 10, không phải 22.
+**Không cộng dồn (They Don't Stack).** Điểm sinh lực tạm thời không cộng dồn với nhau. Nếu đang có điểm sinh lực tạm thời mà nhận thêm, bạn chọn giữ số đang có hoặc lấy số mới. Ví dụ, nếu một phép cho bạn 12 điểm sinh lực tạm thời khi bạn đã có 10, bạn có 12 hoặc 10, không phải 22.
 
-**They're Not Hit Points or Healing.** Temporary Hit Points không thể được cộng vào Hit Points của bạn, việc chữa trị (healing) không thể phục hồi chúng, và việc nhận Temporary Hit Points không được tính là healing. Vì Temporary Hit Points không phải là Hit Points, một creature có thể đang ở đầy đủ Hit Points và vẫn nhận Temporary Hit Points.
+**Không phải điểm sinh lực hay chữa lành (They're Not Hit Points or Healing).** Điểm sinh lực tạm thời không được cộng vào HP, không thể hồi bằng chữa lành, và việc nhận chúng không tính là được chữa lành. Vì chúng không phải HP, một sinh vật đầy HP vẫn có thể nhận điểm sinh lực tạm thời.
 
-Nếu bạn có 0 Hit Points, việc nhận Temporary Hit Points không đưa bạn trở lại trạng thái tỉnh táo. Chỉ có healing thực sự mới có thể cứu bạn.
+Nếu bạn có 0 HP, nhận điểm sinh lực tạm thời không giúp bạn tỉnh lại. Chỉ chữa lành thật sự mới cứu được bạn.

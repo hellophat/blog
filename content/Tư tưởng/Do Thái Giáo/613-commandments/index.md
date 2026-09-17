@@ -50,6 +50,8 @@ Mỗi trang chi tiết được trình bày theo năm lớp. Tiêu đề là b�
 
 Các mã **P1–P248** là những điều phải làm (*positive commandments*); **N1–N365** là những điều cấm (*negative commandments*). Cách ghi này tránh nhầm lẫn với những danh sách sắp xếp cả 613 điều theo chủ đề hoặc theo thứ tự xuất hiện trong Torah.
 
+Trong các trang chi tiết, mục **Nguồn tham khảo** tách ba lớp: **Văn bản chính** dẫn Torah và công thức của Maimonides; **Pháp điển và truyền thống rabbi** dẫn Mishnah, Talmud hoặc chương tương ứng trong *Mishneh Torah*; **Bối cảnh lịch sử và ngôn ngữ** dẫn khảo luận hiện đại. Phần diễn giải tổng hợp không được xem như lời văn trực tiếp của bất kỳ một nguồn riêng lẻ nào.
+
 > [!note] “Bối cảnh lịch sử” không phải là một nghĩa duy nhất
 > Torah hình thành trong thế giới Cận Đông cổ đại; Talmud thuộc thời kỳ rabbi nhiều thế kỷ sau đó; còn Maimonides sống tại thế giới Hồi giáo trung đại. Bài viết sẽ ghi rõ lớp tư liệu nào đang được sử dụng, thay vì trình bày một diễn giải muộn như thể đó chắc chắn là dụng ý ban đầu của văn bản.
 

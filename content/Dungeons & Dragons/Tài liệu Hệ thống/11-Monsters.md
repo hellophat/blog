@@ -1,117 +1,116 @@
 ---
-title: Chương 11 - Monsters (Quái Vật)
+title: Chương 11 - Quái vật
+description: Cách đọc và sử dụng khối thông số quái vật trong SRD 5.2.1 — kích cỡ, loại sinh vật, AC, Sáng kiến, điểm sinh lực, mức thách thức, hành động, hành động huyền thoại và cách điều khiển quái vật.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Monsters (Quái Vật)
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Monsters".
 
-## Stat Block Overview (Tổng Quan Stat Block)
+## Tổng quan khối thông số (Stat Block Overview)
 
-Một quái vật có một stat block chứa các quy tắc cần thiết để dùng nó trong trò chơi. Stat block được chia thành các phần sau:
+Mỗi quái vật có một khối thông số chứa các quy tắc cần để dùng nó trong trò chơi. Khối thông số chia thành các phần sau:
 
-- **Name and General Details.** Tên của quái vật, theo sau bởi kích thước, creature type (cùng với bất kỳ tag mô tả nào), và alignment.
-- **Combat Highlights.** Armor Class, Hit Points, Speed, và Initiative được cung cấp ở đây.
-- **Ability Scores.** Ability score, ability modifier, và saving throw của quái vật được liệt kê ở đây.
-- **Other Details.** Các mục Senses, Languages, và CR của quái vật xuất hiện ở đây. Chi tiết bổ sung xuất hiện ở một số quái vật, chẳng hạn skill proficiency, Resistance, Immunity, và Gear. Nếu một quái vật thiếu những chi tiết đó, các mục cho chúng không xuất hiện.
-- **Traits.** Các đặc điểm của quái vật luôn hoạt động hoặc hoạt động trong một số tình huống nhất định xuất hiện ở đây.
-- **Actions.** Quái vật có thể thực hiện các action ở đây ngoài những action trong "Playing the Game."
-- **Bonus Actions.** Phần này cung cấp Bonus Action của quái vật, nếu có.
-- **Reactions and Legendary Actions.** Các phần này cung cấp Reaction và Legendary Action của quái vật, nếu có.
+- **Tên và thông tin chung (Name and General Details).** Tên quái vật, tiếp theo là kích cỡ, loại sinh vật (kèm các nhãn mô tả) và khuynh hướng đạo đức.
+- **Thông số chiến đấu chính (Combat Highlights).** Chỉ số giáp, điểm sinh lực, Tốc độ và Sáng kiến.
+- **Điểm thuộc tính (Ability Scores).** Điểm thuộc tính, hệ số thuộc tính và hệ số cứu nguy của quái vật.
+- **Thông tin khác (Other Details).** Giác quan, Ngôn ngữ và CR của quái vật. Một số quái vật có thêm chi tiết như kỹ năng thành thạo, kháng, miễn nhiễm và trang bị. Nếu quái vật không có các chi tiết đó, mục tương ứng không xuất hiện.
+- **Đặc điểm (Traits).** Những đặc điểm của quái vật luôn hoạt động hoặc hoạt động trong một số tình huống.
+- **Hành động (Actions).** Quái vật có thể thực hiện các hành động ở đây, ngoài những hành động trong [Chương 1 – Hành động](01-Playing-the-Game.md#hành-động-actions).
+- **Hành động phụ (Bonus Actions).** Hành động phụ của quái vật, nếu có.
+- **Phản ứng và hành động huyền thoại (Reactions and Legendary Actions).** Phản ứng và hành động huyền thoại của quái vật, nếu có.
 
-## Parts of a Stat Block (Các Phần Của Một Stat Block)
+## Các phần của khối thông số (Parts of a Stat Block)
 
-Các quy tắc cho một stat block được trình bày chi tiết trong "Rules Glossary" và trong phần này.
+Quy tắc về khối thông số được trình bày ở [Chương 8 – Khối thông số](08-Rules-Glossary.md#khối-thông-số-stat-block) và trong phần này.
 
-**Size (Kích Thước).** Một quái vật có kích thước Tiny, Small, Medium, Large, Huge, hoặc Gargantuan. Nếu có các lựa chọn kích thước được đưa ra, bạn chọn kích thước của creature từ những lựa chọn đó. Xem "Playing the Game" để biết thông tin về kích thước.
+**Kích cỡ (Size).** Quái vật có kích cỡ Tí hon, Nhỏ, Trung bình, Lớn, Khổng lồ hoặc Cực đại. Nếu có nhiều lựa chọn kích cỡ, bạn chọn một trong số đó cho sinh vật. Xem [Chương 8 – Kích cỡ](08-Rules-Glossary.md#kích-cỡ-size) để biết thêm.
 
-**Creature Type (Loại Sinh Vật).** Mỗi quái vật có một tag xác định loại creature nó là. Một số spell, magic item, class feature, và các hiệu ứng khác trong trò chơi tương tác theo những cách đặc biệt với các creature thuộc một loại cụ thể.
+**Loại sinh vật (Creature Type).** Mỗi quái vật có một nhãn cho biết loại sinh vật của nó. Một số phép, vật phẩm ma thuật, đặc tính lớp nhân vật và hiệu ứng khác tương tác theo cách đặc biệt với sinh vật thuộc một loại nhất định.
 
-Trò chơi bao gồm các creature type sau, không có quy tắc riêng của chúng:
+Trò chơi có các loại sinh vật sau, bản thân chúng không có quy tắc riêng:
 
-- **Aberrations** là những thực thể hoàn toàn xa lạ, chẳng hạn aboleth và cloaker.
-- **Beasts** là các creature phi Humanoid tự nhiên, giống như ngựa và sói, cũng như hầu hết các loài vật khổng lồ.
-- **Celestials** là các creature phép thuật, chẳng hạn thiên thần và pegasus, có liên hệ với Upper Planes.
-- **Constructs** là các creature được tạo ra bằng phép thuật chẳng hạn homunculus và shield guardian.
-- **Dragons** là những sinh vật có vảy có nguồn gốc cổ xưa, chẳng hạn red dragon và wyvern.
-- **Elementals** là các sinh vật đến từ Elemental Planes, chẳng hạn efreet và water elemental.
-- **Fey** là các creature gắn liền với Feywild hoặc các lực lượng tự nhiên, chẳng hạn dryad và goblin.
-- **Fiends** là các creature gắn liền với các Lower Planes đáng sợ, chẳng hạn balor và hell hound.
-- **Giants** là những sinh vật đồ sộ có hình dạng giống người, giống fire giant và troll.
-- **Humanoids** là những người được định nghĩa bởi vai trò và nghề nghiệp của họ, chẳng hạn pháp sư, cướp biển, và chiến binh. Chúng bao gồm các thành viên của nhiều loài khác nhau.
-- **Monstrosities** là các creature bất thường có nguồn gốc kỳ lạ, chẳng hạn mimic và owlbear.
-- **Oozes** là các creature dạng gel, bao gồm black pudding và gelatinous cube.
-- **Plants** là thực vật có tri giác và các quái vật nấm, chẳng hạn shambling mound và treant.
-- **Undead** là các linh hồn và xác chết được hồi sinh, chẳng hạn ma, ma cà rồng, và zombie.
+- **Dị thể (Aberrations)** là những thực thể hoàn toàn xa lạ, như aboleth và cloaker.
+- **Thú (Beasts)** là sinh vật tự nhiên không phải Hình người, như ngựa và sói, cùng hầu hết các loài vật khổng lồ.
+- **Thiên thể (Celestials)** là sinh vật ma thuật gắn với Thượng giới, như thiên thần và pegasus.
+- **Cấu thể (Constructs)** là sinh vật được tạo ra bằng ma thuật, như homunculus và shield guardian.
+- **Rồng (Dragons)** là sinh vật có vảy với nguồn gốc cổ xưa, như rồng đỏ và wyvern.
+- **Nguyên tố (Elementals)** là sinh vật đến từ các Cõi Nguyên tố, như efreeti và nguyên tố nước.
+- **Tiên (Fey)** là sinh vật gắn với Feywild hoặc các sức mạnh tự nhiên, như dryad và goblin.
+- **Ác quỷ (Fiends)** là sinh vật gắn với Hạ giới đáng sợ, như balor và chó săn địa ngục.
+- **Người khổng lồ (Giants)** là sinh vật to lớn mang hình dáng giống người, như người khổng lồ lửa và troll.
+- **Hình người (Humanoids)** là những con người được xác định qua vai trò và nghề nghiệp, như pháp sư, cướp biển và chiến binh. Họ thuộc nhiều giống loài khác nhau.
+- **Quái thể (Monstrosities)** là sinh vật dị thường có nguồn gốc kỳ lạ, như mimic và owlbear.
+- **Chất nhờn (Oozes)** là sinh vật dạng keo, như black pudding và gelatinous cube.
+- **Thực vật (Plants)** là thực vật có tri giác và quái vật nấm, như shambling mound và treant.
+- **Xác sống (Undead)** là hồn ma và xác chết sống lại, như bóng ma, ma cà rồng và zombie.
 
-**Descriptive Tags (Tag Mô Tả).** Một quái vật có thể có một hoặc nhiều tag trong ngoặc đơn theo sau loại của nó. Các tag như vậy cung cấp phân loại bổ sung và không có quy tắc riêng của chúng, nhưng một số hiệu ứng trò chơi có thể tham chiếu đến chúng.
+**Nhãn mô tả (Descriptive Tags).** Quái vật có thể có một hoặc nhiều nhãn trong ngoặc đơn sau loại sinh vật. Các nhãn này phân loại thêm và không có quy tắc riêng, nhưng một số hiệu ứng có thể nhắc tới chúng.
 
-**Alignment (Xu Hướng Đạo Đức).** Alignment được quy định trong stat block của một quái vật là một gợi ý mặc định về cách nhập vai quái vật, lấy cảm hứng từ vai trò truyền thống của nó trong trò chơi hoặc văn hóa dân gian ngoài đời thực. Hãy thay đổi alignment của một quái vật để phù hợp với nhu cầu kể chuyện của bạn. Alignment Neutral, đặc biệt, là một lời mời để bạn cân nhắc liệu một cá thể có nghiêng về một trong các alignment khác hay không.
+**Khuynh hướng đạo đức (Alignment).** Khuynh hướng ghi trong khối thông số là gợi ý mặc định về cách nhập vai quái vật, dựa trên vai trò truyền thống của nó trong trò chơi hoặc văn hóa dân gian ngoài đời thực. Hãy đổi khuynh hướng của quái vật cho phù hợp với nhu cầu kể chuyện. Đặc biệt, khuynh hướng Trung lập là lời mời bạn cân nhắc xem một cá thể có nghiêng về khuynh hướng khác hay không.
 
-"Character Creation" mô tả chín alignment và các creature không có alignment.
+[Chương 2 – Khuynh hướng đạo đức](02-Character-Creation.md#bước-4-khuynh-hướng-đạo-đức-step-4-alignment) mô tả chín khuynh hướng và sinh vật không có khuynh hướng.
 
-**Armor Class (Chỉ Số Giáp).** Armor Class (AC) của một quái vật bao gồm natural armor, Dexterity, trang bị, và các phòng thủ khác của nó. Xem "Playing the Game" để biết thông tin về Armor Class.
+**Chỉ số giáp (Armor Class).** Chỉ số giáp (AC) của quái vật đã bao gồm giáp tự nhiên, Khéo léo, trang bị và các khả năng phòng thủ khác. Xem [Chương 1 – Chiến đấu](01-Playing-the-Game.md#chiến-đấu-combat) để biết thêm về Chỉ số giáp.
 
-**Initiative (Thứ Tự Hành Động).** Mục Initiative quy định modifier Initiative của quái vật theo sau bởi score Initiative của quái vật trong ngoặc đơn. Dùng modifier khi bạn tung để xác định Initiative của một quái vật. Modifier Initiative của một quái vật thường bằng Dexterity modifier của nó, nhưng một số quái vật có các modifier bổ sung, chẳng hạn Proficiency Bonus, được áp dụng vào con số đó.
+**Sáng kiến (Initiative).** Mục Sáng kiến ghi hệ số Sáng kiến của quái vật, theo sau là điểm Sáng kiến trong ngoặc đơn. Dùng hệ số khi tung Sáng kiến cho quái vật. Hệ số Sáng kiến của quái vật thường bằng hệ số Khéo léo, nhưng một số quái vật được cộng thêm, như thưởng thành thạo.
 
-Nếu bạn không muốn tung Initiative của một quái vật, hãy dùng score Initiative làm Initiative của quái vật trong combat. Initiative được trình bày chi tiết hơn trong "Playing the Game."
+Nếu không muốn tung Sáng kiến cho quái vật, hãy dùng điểm Sáng kiến làm Sáng kiến của nó trong chiến đấu. Sáng kiến được giải thích chi tiết hơn ở [Chương 1 – Chiến đấu](01-Playing-the-Game.md#chiến-đấu-combat).
 
-**Hit Points (Điểm Sinh Lực).** Hit Points của một quái vật được trình bày dưới dạng một con số theo sau bởi ngoặc đơn, trong đó Hit Point Dice của quái vật được cung cấp, cùng với bất kỳ đóng góp nào từ Constitution của nó. Hoặc dùng con số cho Hit Points của quái vật hoặc tung biểu thức xúc xắc trong ngoặc đơn để xác định Hit Points của quái vật một cách ngẫu nhiên; đừng dùng cả hai.
+**Điểm sinh lực (Hit Points).** Điểm sinh lực của quái vật được ghi bằng một con số, theo sau là ngoặc đơn chứa xúc xắc sinh lực cùng phần đóng góp từ Thể chất. Hoặc dùng con số đó, hoặc tung biểu thức xúc xắc trong ngoặc để xác định điểm sinh lực ngẫu nhiên; không dùng cả hai.
 
-Kích thước của một quái vật thường xác định loại xúc xắc dùng để tính Hit Points của nó, như trong bảng **Hit Dice by Size**.
+Kích cỡ quái vật thường quyết định loại xúc xắc dùng để tính điểm sinh lực, như bảng **Xúc xắc sinh lực theo kích cỡ**.
 
-| Monster Size | Hit Die | Average HP per Die |
+**Xúc xắc sinh lực theo kích cỡ (Hit Dice by Size)**
+
+| Kích cỡ quái vật | Xúc xắc sinh lực | HP trung bình mỗi viên |
 |---|---|---|
-| Tiny | d4 | 2½ |
-| Small | d6 | 3½ |
-| Medium | d8 | 4½ |
-| Large | d10 | 5½ |
-| Huge | d12 | 6½ |
-| Gargantuan | d20 | 10½ |
+| Tí hon | d4 | 2½ |
+| Nhỏ | d6 | 3½ |
+| Trung bình | d8 | 4½ |
+| Lớn | d10 | 5½ |
+| Khổng lồ | d12 | 6½ |
+| Cực đại | d20 | 10½ |
 
-Constitution modifier của một quái vật được nhân với số Hit Dice nó sở hữu, và kết quả được cộng vào Hit Points của nó. Ví dụ, nếu một quái vật có Constitution 12 (modifier +1) và 2d8 Hit Dice, nó có 2d8 + 2 Hit Points (trung bình 11).
+Hệ số Thể chất của quái vật được nhân với số xúc xắc sinh lực, và kết quả được cộng vào điểm sinh lực. Ví dụ, quái vật có Thể chất 12 (hệ số +1) và 2d8 xúc xắc sinh lực có 2d8 + 2 điểm sinh lực (trung bình 11).
 
-Để biết thêm về Hit Points, xem "Playing the Game."
+Để biết thêm về điểm sinh lực, xem [Chương 1 – Điểm sinh lực](01-Playing-the-Game.md#điểm-sinh-lực-hit-points).
 
-**Speed (Tốc Độ).** Mục Speed quy định Speed của một quái vật. Một số quái vật có một hoặc nhiều speed sau: Burrow, Climb, Fly, Swim. Quy tắc cho Speed và các speed đặc biệt này xuất hiện trong "Rules Glossary."
+**Tốc độ (Speed).** Mục Tốc độ ghi Tốc độ của quái vật. Một số quái vật có một hoặc nhiều tốc độ sau: Đào, Leo, Bay, Bơi. Quy tắc về Tốc độ và các tốc độ đặc biệt này nằm ở [Chương 8 – Tốc độ](08-Rules-Glossary.md#tốc-độ-speed).
 
-**Ability Scores (Chỉ Số Chỉ Số).** Mỗi quái vật có sáu ability score cùng với modifier ability score tương ứng và modifier saving throw. Để biết thêm thông tin về ability score và saving throw, xem "Playing the Game."
+**Điểm thuộc tính (Ability Scores).** Mỗi quái vật có sáu điểm thuộc tính cùng hệ số thuộc tính và hệ số cứu nguy tương ứng. Để biết thêm về điểm thuộc tính và lần cứu nguy, xem [Chương 1 – Sáu thuộc tính](01-Playing-the-Game.md#sáu-thuộc-tính-the-six-abilities).
 
-**Skills (Kỹ Năng).** Mục Skills quy định skill proficiency của một quái vật, nếu có. Ví dụ, một quái vật rất tinh nhạy và lén lút có thể có bonus vào Wisdom (Perception) và Dexterity (Stealth) check. Một skill bonus là tổng của ability modifier liên quan của một quái vật và Proficiency Bonus của nó. Các modifier khác có thể áp dụng.
+**Kỹ năng (Skills).** Mục Kỹ năng ghi các kỹ năng quái vật thành thạo, nếu có. Ví dụ, một quái vật rất tinh mắt và lén lút có thể có thưởng cho phép kiểm tra Minh triết (Tri giác) và Khéo léo (Lén lút). Thưởng kỹ năng bằng tổng hệ số thuộc tính liên quan và thưởng thành thạo của quái vật. Có thể áp dụng thêm các hệ số khác.
 
-**Resistances and Vulnerabilities (Kháng Cự và Điểm Yếu).** Các mục này liệt kê Resistance và Vulnerability của một quái vật, nếu có. Xem "Playing the Game" để biết thêm thông tin.
+**Kháng và dễ tổn thương (Resistances and Vulnerabilities).** Các mục này liệt kê những loại sát thương quái vật kháng hoặc dễ tổn thương, nếu có. Xem [Chương 1 – Kháng và dễ tổn thương](01-Playing-the-Game.md#kháng-và-dễ-tổn-thương-resistance-and-vulnerability) để biết thêm.
 
-## Running Monsters (Điều Khiển Quái Vật)
+**Miễn nhiễm (Immunities).** Mục này liệt kê những thứ quái vật miễn nhiễm, nếu có. Nếu quái vật miễn nhiễm cả sát thương lẫn trạng thái, các loại sát thương được liệt kê trước trạng thái.
 
-Để đảm bảo một quái vật hành động phù hợp với Challenge Rating của nó, hãy tuân theo các quy tắc sau trong combat:
+**Trang bị (Gear).** Quái vật thành thạo trang bị của mình. Nếu quái vật có trang bị có thể trao đi hoặc thu lại, các vật phẩm đó được liệt kê ở mục Trang bị. Khối thông số có thể có những điểm đặc biệt khi quái vật dùng một vật phẩm, và có thể bỏ qua quy tắc ở [Chương 6 – Trang bị](06-Equipment.md#đồ-phiêu-lưu-adventuring-gear) cho vật phẩm đó. Khi người khác dùng, vật phẩm thu lại được tuân theo quy tắc ở Chương 6, bỏ qua các điểm đặc biệt trong khối thông số.
 
-- **Special Abilities.** Nếu quái vật có một khả năng đặc biệt gây nhiều damage nhưng có số lượt dùng giới hạn, chẳng hạn một breath weapon cần nạp lại hoặc một spell nó chỉ có thể thi triển một lần mỗi ngày, hãy để nó dùng khả năng đặc biệt đó càng nhanh và càng thường xuyên càng tốt.
-- **Multiattack.** Nếu quái vật có Multiattack, hãy để nó dùng Multiattack trong bất kỳ turn nào nó không dùng một trong các khả năng mạnh hơn của nó.
-- **Bonus Actions, Reactions, Legendary Actions.** Nếu quái vật có Bonus Action, Reaction, hoặc Legendary Action trong stat block của nó, hãy đảm bảo nó dùng chúng thường xuyên nhất có thể.
+Mục Trang bị không nhất thiết liệt kê toàn bộ đồ đạc của quái vật. Ví dụ, quái vật mặc quần áo được mặc định là ăn mặc phù hợp, và quần áo không ghi ở mục này. Trang bị được nhắc tới ngoài mục Trang bị được coi là siêu nhiên hoặc rất đặc thù, và không dùng được sau khi quái vật bị đánh bại.
 
-**Immunities (Miễn Nhiễm).** Mục này liệt kê Immunity của quái vật, nếu có. Nếu quái vật có Immunity với damage và condition, các loại damage được liệt kê trước các condition.
+*Đạn dược và tấn công tầm xa.* Quái vật cần đạn để tấn công tầm xa luôn mang đủ đạn cần thiết.
 
-**Gear (Trang Bị).** Quái vật có proficiency với trang bị của chúng. Nếu một quái vật có trang bị có thể được cho đi hoặc lấy lại, các vật phẩm được liệt kê trong mục Gear. Stat block của quái vật có thể bao gồm các điểm nhấn đặc biệt xảy ra khi quái vật dùng một vật phẩm, và stat block có thể bỏ qua các quy tắc trong "Equipment" cho vật phẩm đó. Khi được dùng bởi người khác, một vật phẩm có thể lấy lại dùng quy tắc "Equipment" của nó, bỏ qua bất kỳ điểm nhấn đặc biệt nào trong stat block.
+*Trang bị thêm đồ cho quái vật.* Bạn có thể trang bị thêm cho quái vật theo ý muốn, lấy cảm hứng từ các vật phẩm ở Chương 6. Bạn quyết định bao nhiêu trang bị có thể thu lại sau khi sinh vật bị giết và chúng còn dùng được hay không.
 
-Mục Gear không nhất thiết liệt kê tất cả trang bị của một quái vật. Ví dụ, một quái vật mặc quần áo được giả định là ăn mặc phù hợp, và quần áo đó không nằm trong mục này. Trang bị được đề cập bên ngoài mục Gear được coi là siêu nhiên hoặc rất chuyên biệt, và nó không thể dùng được khi quái vật bị đánh bại.
+Hãy cẩn thận khi cho quái vật vật phẩm ma thuật thiên về chiến đấu, vì chúng có thể làm thay đổi Mức thách thức. Nếu bạn cho quái vật một vật phẩm ma thuật, quái vật có thể hòa hợp với vật phẩm như ghi ở [Chương 6 – Vật phẩm ma thuật](06-Equipment.md#vật-phẩm-ma-thuật-magic-items). Quái vật có nhãn lớp nhân vật sau loại sinh vật được coi là thành viên của lớp đó khi xét điều kiện hòa hợp.
 
-*Ammunition and Ranged Attacks.* Một quái vật cần đạn để thực hiện ranged attack mang theo đạn cần thiết.
+**Giác quan (Senses).** Mục Giác quan ghi điểm Tri giác thụ động của quái vật cùng mọi giác quan đặc biệt nó có. Tri giác thụ động và các giác quan đặc biệt được mô tả ở [Chương 8 – Bảng thuật ngữ luật chơi](08-Rules-Glossary.md#định-nghĩa-luật-rules-definitions).
 
-*Equipping a Monster with Other Items.* Bạn có thể trang bị cho quái vật thêm trang bị theo bất kỳ cách nào bạn muốn, dùng các vật phẩm trong "Equipment" làm cảm hứng. Bạn quyết định bao nhiêu trang bị của một quái vật có thể thu hồi được sau khi creature bị giết và liệu có trang bị nào trong số đó vẫn dùng được hay không.
+**Ngôn ngữ (Languages).** Mục này liệt kê các ngôn ngữ quái vật dùng để giao tiếp. Đôi khi quái vật hiểu một ngôn ngữ nhưng không nói được, và điều này được ghi trong mục. "Không" (None) nghĩa là sinh vật không hiểu ngôn ngữ nào.
 
-Hãy cẩn thận khi cho một quái vật các magic item hướng đến combat, vì chúng có thể thay đổi Challenge Rating của quái vật. Nếu bạn cho một quái vật một magic item, quái vật có thể có Attunement với magic item như được ghi chú trong "Equipment." Một quái vật có một class tag sau creature type của nó được coi là thành viên của class đó cho mục đích Attunement.
+*Thần giao cách cảm.* Thần giao cách cảm là khả năng ma thuật cho phép sinh vật giao tiếp bằng tâm trí với sinh vật khác trong một phạm vi nhất định. Xem [Chương 8 – Thần giao cách cảm](08-Rules-Glossary.md#thần-giao-cách-cảm-telepathy) để biết thêm.
 
-**Senses (Giác Quan).** Mục Senses quy định score Passive Perception của một quái vật, cũng như bất kỳ giác quan đặc biệt nào quái vật sở hữu. Passive Perception và các giác quan đặc biệt được mô tả trong "Rules Glossary."
+**Mức thách thức (Challenge Rating).** Mức thách thức được định nghĩa ở [Chương 8 – Mức thách thức](08-Rules-Glossary.md#mức-thách-thức-challenge-rating), còn hướng dẫn dùng CR để lên kế hoạch cuộc chạm trán chiến đấu nằm ở [Chương 9 – Cuộc chạm trán chiến đấu](09-Gameplay-Toolbox.md#cuộc-chạm-trán-chiến-đấu-combat-encounters).
 
-**Languages (Ngôn Ngữ).** Mục này liệt kê các ngôn ngữ mà quái vật có thể dùng để giao tiếp. Đôi khi một quái vật có thể hiểu một ngôn ngữ nhưng không thể giao tiếp bằng nó, điều này được ghi chú trong mục của nó. "None" cho biết một creature không hiểu bất kỳ ngôn ngữ nào.
+**Điểm kinh nghiệm (Experience Points).** Số điểm kinh nghiệm (XP) của quái vật dựa trên CR, như bảng **Điểm kinh nghiệm theo mức thách thức**. XP được trao khi đánh bại quái vật trong chiến đấu hoặc vô hiệu hóa nó bằng cách khác.
 
-*Telepathy.* Telepathy là một khả năng phép thuật cho phép một creature giao tiếp bằng ý nghĩ với một creature khác trong một tầm quy định. Xem "Rules Glossary" để biết thêm thông tin.
+Trừ khi quy tắc nói khác, quái vật được triệu hồi bằng phép hoặc khả năng ma thuật khác có giá trị XP như ghi trong khối thông số.
 
-**Challenge Rating (Cấp Độ Thử Thách).** Challenge Rating được định nghĩa trong "Rules Glossary," trong khi hướng dẫn về việc dùng CR để lên kế hoạch các cuộc chạm trán chiến đấu tiềm năng nằm trong "Gameplay Toolbox."
-
-**Experience Points (Điểm Kinh Nghiệm).** Số Experience Points (XP) một quái vật đáng giá dựa trên CR của nó, như được trình bày chi tiết trong bảng **Experience Points by Challenge Rating**. XP được trao khi đánh bại quái vật trong combat hoặc vô hiệu hóa nó theo cách khác.
-
-Trừ khi một quy tắc nói khác, một quái vật được triệu hồi bởi một spell hoặc một khả năng phép thuật khác đáng giá số XP được ghi trong stat block của nó.
-
-**Experience Points by Challenge Rating**
+**Điểm kinh nghiệm theo mức thách thức (Experience Points by Challenge Rating)**
 
 | CR | XP | CR | XP |
 |---|---|---|---|
@@ -133,9 +132,9 @@ Trừ khi một quy tắc nói khác, một quái vật được triệu hồi b
 | 12 | 8.400 | 29 | 135.000 |
 | 13 | 10.000 | 30 | 155.000 |
 
-**Proficiency Bonus (Bonus Thành Thạo).** Proficiency Bonus (PB) của một quái vật được xác định bởi CR của nó, như trong bảng **Proficiency Bonus by Challenge Rating**, và được phản ánh trong saving throw, skill, và các chỉ số khác nơi Proficiency Bonus của quái vật áp dụng.
+**Thưởng thành thạo (Proficiency Bonus).** Thưởng thành thạo (PB) của quái vật được xác định theo CR, như bảng **Thưởng thành thạo theo mức thách thức**, và đã được tính vào hệ số cứu nguy, kỹ năng và các thông số khác có dùng thưởng thành thạo.
 
-**Proficiency Bonus by Challenge Rating**
+**Thưởng thành thạo theo mức thách thức (Proficiency Bonus by Challenge Rating)**
 
 | CR | PB | CR | PB |
 |---|---|---|---|
@@ -144,44 +143,52 @@ Trừ khi một quy tắc nói khác, một quái vật được triệu hồi b
 | 9–12 | +4 | 25–28 | +8 |
 | 13–16 | +5 | 29–30 | +9 |
 
-**Traits (Đặc Điểm).** Đặc điểm của một quái vật, nếu có, là các feature luôn hoạt động hoặc hoạt động trong một số tình huống nhất định.
+**Đặc điểm (Traits).** Đặc điểm của quái vật, nếu có, là các đặc tính luôn hoạt động hoặc hoạt động trong một số tình huống.
 
-**Actions (Hành Động).** Một quái vật có thể thực hiện các action trong phần này hoặc thực hiện một trong các action khả dụng cho tất cả các creature, như được mô tả trong "Playing the Game."
+**Hành động (Actions).** Quái vật có thể thực hiện các hành động trong phần này, hoặc một trong các hành động mà mọi sinh vật đều có, như mô tả ở [Chương 1 – Hành động](01-Playing-the-Game.md#hành-động-actions).
 
-*Attack Notation.* Mục cho một attack của một quái vật xác định liệu attack là melee hay ranged, sau đó cung cấp bonus của attack roll, reach hoặc range của nó, và điều gì xảy ra khi trúng. Một attack nhắm vào một mục tiêu trừ khi mục tiêu của nó nói khác. Để biết chi tiết về các loại attack khác nhau, xem "Playing the Game" và "Spells."
+*Ký hiệu tấn công.* Mục mô tả đòn tấn công của quái vật cho biết đó là tấn công cận chiến hay tầm xa, rồi ghi thưởng tung tấn công, tầm với hoặc tầm, và điều xảy ra khi trúng. Đòn tấn công nhắm một mục tiêu trừ khi mô tả nói khác. Để biết chi tiết về các loại tấn công, xem [Chương 1 – Thực hiện đòn tấn công](01-Playing-the-Game.md#thực-hiện-đòn-tấn-công-making-an-attack) và [Chương 7 – Thi triển phép](07-Spells.md#thi-triển-phép-casting-spells).
 
-*Hit.* Bất kỳ damage nào được gây ra hoặc các hiệu ứng khác xảy ra do kết quả của một cuộc tấn công trúng mục tiêu được mô tả sau ký hiệu "Hit."
+*Trúng (Hit).* Sát thương gây ra hoặc hiệu ứng khác xảy ra khi đòn tấn công trúng mục tiêu được mô tả sau chữ "Trúng".
 
-*Miss.* Nếu một cuộc tấn công có một hiệu ứng xảy ra khi trượt, thông tin đó theo sau ký hiệu "Miss."
+*Trượt (Miss).* Nếu đòn tấn công có hiệu ứng khi trượt, thông tin đó nằm sau chữ "Trượt".
 
-*Hit or Miss.* Nếu một cuộc tấn công có hiệu ứng xảy ra bất kể nó trúng hay trượt mục tiêu, thông tin đó theo sau ký hiệu "Hit or Miss."
+*Trúng hoặc trượt (Hit or Miss).* Nếu đòn tấn công có hiệu ứng xảy ra dù trúng hay trượt, thông tin đó nằm sau chữ "Trúng hoặc trượt".
 
-*Saving Throw Effect Notation.* Nếu một hiệu ứng buộc thực hiện một saving throw, hiệu ứng xác định loại lượt cứu cần thiết và sau đó cung cấp DC của lượt cứu, mô tả creature nào thực hiện lượt cứu, và giải thích điều gì xảy ra khi thất bại hoặc thành công.
+*Ký hiệu hiệu ứng cứu nguy.* Nếu hiệu ứng buộc cứu nguy, nó ghi loại cứu nguy cần thực hiện, rồi ghi DC, mô tả sinh vật nào phải cứu nguy, và giải thích điều xảy ra khi thất bại hoặc thành công.
 
-"Half damage only" khi lượt cứu thành công nghĩa là mục tiêu nhận một nửa damage (làm tròn xuống) so với các mục tiêu thất bại lượt cứu, đồng thời bỏ qua tất cả các phần khác của hiệu ứng.
+"Chỉ một nửa sát thương" (Half damage only) khi cứu nguy thành công nghĩa là mục tiêu chịu một nửa sát thương (làm tròn xuống) so với mục tiêu thất bại, và bỏ qua mọi phần khác của hiệu ứng.
 
-*Damage Notation.* Một stat block thường cung cấp cả một con số và một biểu thức xúc xắc cho mỗi lần gây damage. Ví dụ, một attack có thể gây 4 (1d4 + 2) damage khi trúng. Bạn quyết định dùng con số hay biểu thức xúc xắc trong ngoặc đơn; đừng dùng cả hai.
+*Ký hiệu sát thương.* Khối thông số thường ghi cả con số lẫn biểu thức xúc xắc cho mỗi lần gây sát thương. Ví dụ, một đòn tấn công có thể gây 4 (1d4 + 2) sát thương khi trúng. Bạn quyết định dùng con số hay biểu thức xúc xắc trong ngoặc; không dùng cả hai.
 
-*Multiattack.* Một số creature có thể thực hiện nhiều hơn một cuộc tấn công khi chúng thực hiện action Attack. Các creature như vậy có mục Multiattack trong phần "Actions" của stat block của chúng. Mục này trình bày chi tiết các cuộc tấn công một creature có thể thực hiện, cũng như bất kỳ khả năng bổ sung nào nó có thể dùng, như một phần của action Attack.
+*Đa đòn (Multiattack).* Một số sinh vật có thể tấn công nhiều lần khi thực hiện hành động Tấn công. Những sinh vật này có mục Đa đòn trong phần Hành động của khối thông số. Mục này nêu các đòn tấn công sinh vật có thể thực hiện, cùng các khả năng bổ sung nó có thể dùng, trong hành động Tấn công.
 
-*Spellcasting.* Nếu một quái vật có thể thi triển bất kỳ spell nào, stat block của nó liệt kê các spell và cung cấp khả năng thi triển spell của quái vật, spell save DC (nếu bất kỳ spell nào yêu cầu một saving throw), và spell attack bonus (nếu bất kỳ spell nào yêu cầu một attack roll). Trừ khi ghi chú khác, một spell cấp độ 1 trở lên luôn được thi triển ở cấp độ thấp nhất có thể và không thể được thi triển ở cấp độ cao hơn.
+*Thi triển phép (Spellcasting).* Nếu quái vật có thể thi triển phép, khối thông số liệt kê các phép và ghi thuộc tính thi triển phép, DC cứu nguy phép (nếu có phép cần cứu nguy) và thưởng tấn công bằng phép (nếu có phép cần tung tấn công). Trừ khi có ghi chú khác, phép bậc 1 trở lên luôn được thi triển ở bậc thấp nhất có thể và không thể thi triển ở bậc cao hơn.
 
-Spell của một quái vật có thể có các quy tắc hoặc hạn chế đặc biệt. Ví dụ, một green hag có thể thi triển spell Invisibility, nhưng spell có hạn chế "self only," nghĩa là spell chỉ ảnh hưởng đến hag.
+Phép của quái vật có thể có quy tắc hoặc hạn chế đặc biệt. Ví dụ, green hag có thể thi triển phép *Vô hình* (Invisibility), nhưng phép có hạn chế "chỉ bản thân" (self only), nghĩa là phép chỉ tác động lên hag.
 
-*Spell Components.* Trait Spellcasting ghi chú liệu khả năng thi triển spell của quái vật có bỏ qua nhu cầu về các thành phần spell nhất định hay không. Nếu bất kỳ thành phần spell nào được yêu cầu, hãy mô tả việc quái vật dùng thành phần Verbal, Somatic, hoặc Material để báo hiệu cho nhân vật rằng nó đang thi triển một spell. Một quái vật yêu cầu Material component có chúng.
+*Thành phần phép.* Đặc điểm Thi triển phép ghi rõ quái vật có bỏ qua một số thành phần phép hay không. Nếu phép cần thành phần, hãy mô tả quái vật dùng thành phần lời nói, cử chỉ hoặc vật chất để báo hiệu cho nhân vật biết nó đang thi triển phép. Quái vật cần thành phần vật chất luôn có sẵn chúng.
 
-*Casting Times of 1+ Minutes.* Nếu một spell có thời gian thi triển từ 1 phút trở lên nhưng được liệt kê trong một action thi triển spell, quái vật không thi triển spell chỉ trong một action trừ khi mô tả của action nói khác; quái vật phải thực hiện Magic action trong mỗi turn của nó và duy trì Concentration để thi triển spell, như được mô tả trong "Rules Glossary."
+*Thời gian thi triển từ 1 phút trở lên.* Nếu phép có thời gian thi triển từ 1 phút trở lên nhưng được liệt kê trong một hành động thi triển phép, quái vật không thi triển phép đó chỉ trong một hành động, trừ khi mô tả hành động nói khác; quái vật phải thực hiện hành động Ma thuật mỗi lượt và duy trì Tập trung để thi triển, như mô tả ở [Chương 8 – Ma thuật](08-Rules-Glossary.md#ma-thuật-magic-hành-động).
 
-**Bonus Action (Hành Động Phụ).** Nếu một quái vật có các lựa chọn Bonus Action, chúng được liệt kê trong phần này. Xem "Playing the Game" để biết chi tiết về Bonus Action.
+**Hành động phụ (Bonus Actions).** Nếu quái vật có lựa chọn hành động phụ, chúng được liệt kê trong phần này. Xem [Chương 1 – Hành động phụ](01-Playing-the-Game.md#hành-động-phụ-bonus-actions) để biết chi tiết.
 
-**Reactions (Phản Ứng).** Nếu quái vật có các lựa chọn Reaction, chúng được liệt kê trong phần này cùng với điều kiện kích hoạt của chúng. Xem "Playing the Game" để biết chi tiết về Reaction.
+**Phản ứng (Reactions).** Nếu quái vật có lựa chọn phản ứng, chúng được liệt kê trong phần này cùng điều kiện kích hoạt. Xem [Chương 1 – Phản ứng](01-Playing-the-Game.md#phản-ứng-reactions) để biết chi tiết.
 
-**Legendary Actions (Hành Động Huyền Thoại).** Nếu quái vật có các lựa chọn Legendary Action, chúng được liệt kê trong phần này. Một Legendary Action là một action mà một quái vật có thể thực hiện ngay sau turn của một creature khác. Chỉ một trong các action này có thể được thực hiện tại một thời điểm và chỉ sau khi turn của một creature khác kết thúc. Quái vật không thể thực hiện một Legendary Action nếu nó có condition Incapacitated hoặc không thể thực hiện action theo cách khác.
+**Hành động huyền thoại (Legendary Actions).** Nếu quái vật có lựa chọn hành động huyền thoại, chúng được liệt kê trong phần này. Hành động huyền thoại là hành động quái vật có thể thực hiện ngay sau lượt của sinh vật khác. Mỗi lần chỉ được thực hiện một hành động huyền thoại, và chỉ sau khi lượt của sinh vật khác kết thúc. Quái vật không thể thực hiện hành động huyền thoại nếu đang Mất năng lực hành động hoặc không thể hành động vì lý do khác.
 
-Quái vật có một số lượng giới hạn lượt dùng Legendary Action, và số lượng đó được quy định trong stat block. Quái vật tiêu tốn một lượt dùng bất cứ khi nào nó thực hiện một Legendary Action, và nó phục hồi tất cả các lượt dùng đã tiêu tốn vào đầu mỗi turn của nó.
+Quái vật có số lần dùng hành động huyền thoại giới hạn, ghi trong khối thông số. Mỗi lần thực hiện một hành động huyền thoại, quái vật tiêu một lần dùng, và nó hồi mọi lần dùng đã tiêu vào đầu mỗi lượt của mình.
 
-**Limited Usage (Sử Dụng Giới Hạn).** Một số phần của stat block có hạn chế về số lần chúng có thể được dùng. Đây là những cách phổ biến nhất mà việc sử dụng bị giới hạn:
+**Giới hạn sử dụng (Limited Usage).** Một số phần của khối thông số bị giới hạn số lần sử dụng. Các dạng giới hạn phổ biến nhất:
 
-- *X/Day.* Ký hiệu này nghĩa là phần stat block có thể được dùng một số lần nhất định (thể hiện bằng X) và quái vật phải hoàn thành một Long Rest để phục hồi các lượt dùng đã tiêu tốn. Ví dụ, một Reaction bao gồm "1/Day" nghĩa là Reaction có thể được thực hiện một lần và quái vật phải hoàn thành một Long Rest để thực hiện nó lần nữa.
-- *Recharge X–Y.* Ký hiệu này nghĩa là một quái vật có thể dùng phần stat block một lần. Vào đầu mỗi turn của quái vật, hãy tung 1d6. Nếu lượt tung nằm trong phạm vi số được ghi trong ký hiệu (thể hiện bằng X–Y), quái vật phục hồi lượt dùng của phần đó, cũng nạp lại khi quái vật hoàn thành một Short hoặc Long Rest. Ví dụ, "Recharge 5–6" trong một action nghĩa là quái vật có thể thực hiện action một lần. Sau đó, vào đầu mỗi turn của quái vật sau turn đó, nó phục hồi lượt dùng của action đó nếu nó tung ra 5 hoặc 6 trên 1d6.
-- *Recharge after a Short or Long Rest.* Ký hiệu này nghĩa là quái vật có thể dùng phần stat block một lần và sau đó phải hoàn thành một Short hoặc Long Rest để dùng nó lần nữa.
+- *X/Ngày (X/Day).* Phần đó có thể dùng một số lần nhất định (X), và quái vật phải hoàn thành một lần nghỉ dài để hồi các lần đã dùng. Ví dụ, phản ứng ghi "1/Ngày" có thể dùng một lần, và quái vật phải hoàn thành một lần nghỉ dài mới dùng lại được.
+- *Hồi X–Y (Recharge X–Y).* Quái vật có thể dùng phần đó một lần. Vào đầu mỗi lượt của quái vật, tung 1d6. Nếu kết quả nằm trong khoảng ghi ở ký hiệu (X–Y), quái vật hồi lần dùng của phần đó. Phần này cũng được nạp lại khi quái vật hoàn thành lần nghỉ ngắn hoặc nghỉ dài. Ví dụ, "Hồi 5–6" ở một hành động nghĩa là quái vật có thể thực hiện hành động đó một lần; sau đó, vào đầu mỗi lượt tiếp theo, nó hồi lần dùng nếu tung được 5 hoặc 6 trên 1d6.
+- *Hồi sau nghỉ ngắn hoặc nghỉ dài (Recharge after a Short or Long Rest).* Quái vật có thể dùng phần đó một lần và phải hoàn thành lần nghỉ ngắn hoặc nghỉ dài mới dùng lại được.
+
+## Điều khiển quái vật (Running Monsters)
+
+Để quái vật hành động đúng với Mức thách thức, hãy tuân theo các quy tắc sau trong chiến đấu:
+
+- **Khả năng đặc biệt (Special Abilities).** Nếu quái vật có khả năng đặc biệt gây nhiều sát thương nhưng giới hạn số lần dùng, như vũ khí hơi thở cần nạp lại hay một phép chỉ thi triển được một lần mỗi ngày, hãy cho nó dùng khả năng đó càng sớm và càng thường xuyên càng tốt.
+- **Đa đòn (Multiattack).** Nếu quái vật có Đa đòn, hãy cho nó dùng Đa đòn trong mọi lượt nó không dùng một khả năng mạnh hơn.
+- **Hành động phụ, phản ứng, hành động huyền thoại.** Nếu khối thông số của quái vật có hành động phụ, phản ứng hoặc hành động huyền thoại, hãy bảo đảm nó dùng chúng thường xuyên nhất có thể.

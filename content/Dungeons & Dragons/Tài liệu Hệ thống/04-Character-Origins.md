@@ -1,258 +1,263 @@
 ---
-title: Chương 4 - Origins (Nguồn Gốc Nhân Vật)
+title: Chương 4 - Nguồn gốc nhân vật
+description: Xuất thân và giống loài trong SRD 5.2.1 - Trợ tế, Tội phạm, Hiền giả, Binh sĩ và chín giống loài có thể chơi.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Character Origins (Nguồn Gốc Nhân Vật)
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Character Origins".
 
-## Character Backgrounds (Background Nhân Vật)
+## Xuất thân nhân vật (Character Backgrounds)
 
-**Background** của nhân vật bạn là một tập hợp các đặc điểm đại diện cho nơi chốn và nghề nghiệp có ảnh hưởng định hình nhất trước khi nhân vật bạn bước vào cuộc sống phiêu lưu.
+**Xuất thân** của nhân vật là tập hợp đặc điểm đại diện cho nơi chốn và nghề nghiệp đã ảnh hưởng sâu sắc nhất đến nhân vật trước khi bước vào đời phiêu lưu.
 
-**Parts of a Background (Các Phần Của Background)**
+**Các thành phần của xuất thân (Parts of a Background)**
 
-Một background bao gồm các phần sau.
+Một xuất thân gồm các phần sau:
 
-- **Ability Scores.** Một background liệt kê ba ability score của nhân vật bạn. Tăng một score thêm 2 và một score khác thêm 1, hoặc tăng cả ba thêm 1. Không có mức tăng nào trong số này có thể đưa một score vượt quá 20.
-- **Feat.** Một background cho nhân vật bạn một Origin feat cụ thể (mô tả trong "Feats").
-- **Skill Proficiencies.** Một background cho nhân vật bạn proficiency trong hai skill cụ thể.
-- **Tool Proficiency.** Mỗi background cho một nhân vật proficiency với một tool — hoặc một tool cụ thể hoặc một tool được chọn từ danh mục Artisan's Tools. Tool được trình bày chi tiết trong "Equipment."
-- **Equipment.** Mỗi background đưa ra lựa chọn giữa một gói trang bị và 50 GP.
+- **Điểm thuộc tính (Ability Scores).** Xuất thân liệt kê ba thuộc tính. Tăng một thuộc tính thêm 2 và một thuộc tính khác thêm 1, hoặc tăng cả ba thêm 1. Không mức tăng nào được đưa điểm vượt quá 20.
+- **Kỳ tài (Feat).** Xuất thân cho nhân vật một kỳ tài Nguồn gốc cụ thể (mô tả trong [Kỳ tài](05-Feats.md)).
+- **Kỹ năng thành thạo (Skill Proficiencies).** Xuất thân cho nhân vật thành thạo hai kỹ năng cụ thể.
+- **Công cụ thành thạo (Tool Proficiency).** Mỗi xuất thân cho thành thạo một công cụ — hoặc một công cụ cụ thể, hoặc một loại chọn trong nhóm công cụ thợ thủ công. Công cụ được trình bày trong [Trang bị](06-Equipment.md).
+- **Trang bị (Equipment).** Mỗi xuất thân cho chọn giữa một gói trang bị và 50 gp.
 
-### Background Descriptions (Mô Tả Background)
+### Mô tả xuất thân (Background Descriptions)
 
-**Acolyte (Tín Đồ)**
-- Ability Scores: Intelligence, Wisdom, Charisma
-- Feat: Magic Initiate (Người Mới Học Phép) (Cleric) (xem "Feats")
-- Skill Proficiencies: Insight và Religion
-- Tool Proficiency: Calligrapher's Supplies
-- Equipment: Chọn A hoặc B: (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 tờ), Robe, 8 GP; hoặc (B) 50 GP
+**Trợ tế (Acolyte)**
+- Điểm thuộc tính: Trí tuệ, Minh triết, Sức hút
+- Kỳ tài: Nhập môn ma thuật (Magic Initiate) (Giáo sĩ) (xem [Kỳ tài](05-Feats.md))
+- Kỹ năng thành thạo: Thấu hiểu và Tôn giáo
+- Công cụ thành thạo: Đồ nghề thư pháp (Calligrapher's Supplies)
+- Trang bị: Chọn A hoặc B: (A) Đồ nghề thư pháp, Sách (kinh cầu nguyện), Biểu tượng thánh, Giấy da (10 tờ), Áo choàng, 8 gp; hoặc (B) 50 gp
 
-**Criminal (Tội Phạm)**
-- Ability Scores: Dexterity, Constitution, Intelligence
-- Feat: Alert (Cảnh Giác) (xem "Feats")
-- Skill Proficiencies: Sleight of Hand và Stealth
-- Tool Proficiency: Thieves' Tools
-- Equipment: Chọn A hoặc B: (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; hoặc (B) 50 GP
+**Tội phạm (Criminal)**
+- Điểm thuộc tính: Khéo léo, Thể chất, Trí tuệ
+- Kỳ tài: Cảnh giác (Alert) (xem [Kỳ tài](05-Feats.md))
+- Kỹ năng thành thạo: Khéo tay và Lén lút
+- Công cụ thành thạo: Đồ nghề trộm (Thieves' Tools)
+- Trang bị: Chọn A hoặc B: (A) 2 Dao găm, Đồ nghề trộm, Xà beng (Crowbar), 2 Túi nhỏ (Pouch), Quần áo đi đường (Traveler's Clothes), 16 gp; hoặc (B) 50 gp
 
-**Sage (Học Giả)**
-- Ability Scores: Constitution, Intelligence, Wisdom
-- Feat: Magic Initiate (Người Mới Học Phép) (Wizard) (xem "Feats")
-- Skill Proficiencies: Arcana và History
-- Tool Proficiency: Calligrapher's Supplies
-- Equipment: Chọn A hoặc B: (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 tờ), Robe, 8 GP; hoặc (B) 50 GP
+**Hiền giả (Sage)**
+- Điểm thuộc tính: Thể chất, Trí tuệ, Minh triết
+- Kỳ tài: Nhập môn ma thuật (Magic Initiate) (Pháp sư) (xem [Kỳ tài](05-Feats.md))
+- Kỹ năng thành thạo: Huyền thuật và Lịch sử
+- Công cụ thành thạo: Đồ nghề thư pháp (Calligrapher's Supplies)
+- Trang bị: Chọn A hoặc B: (A) Gậy (Quarterstaff), Đồ nghề thư pháp, Sách (lịch sử), Giấy da (8 tờ), Áo choàng, 8 gp; hoặc (B) 50 gp
 
-**Soldier (Binh Sĩ)**
-- Ability Scores: Strength, Dexterity, Constitution
-- Feat: Savage Attacker (Kẻ Tấn Công Tàn Bạo) (xem "Feats")
-- Skill Proficiencies: Athletics và Intimidation
-- Tool Proficiency: Chọn một loại Gaming Set (xem "Equipment")
-- Equipment: Chọn A hoặc B: (A) Spear, Shortbow, 20 Arrows, Gaming Set (như trên), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; hoặc (B) 50 GP
+**Binh sĩ (Soldier)**
+- Điểm thuộc tính: Sức mạnh, Khéo léo, Thể chất
+- Kỳ tài: Kẻ tấn công tàn bạo (Savage Attacker) (xem [Kỳ tài](05-Feats.md))
+- Kỹ năng thành thạo: Điền kinh và Uy hiếp
+- Công cụ thành thạo: Chọn một loại bộ trò chơi (Gaming Set, xem [Trang bị](06-Equipment.md))
+- Trang bị: Chọn A hoặc B: (A) Giáo, Cung ngắn, 20 Mũi tên, bộ trò chơi (như trên), Hộp cứu thương (Healer's Kit), Ống tên, Quần áo đi đường, 14 gp; hoặc (B) 50 gp
 
-## Character Species (Chủng Loài Nhân Vật)
+## Giống loài nhân vật (Character Species)
 
-Khi chọn species cho nhân vật, bạn xác định nhân vật của mình là con người (human) hay thành viên của một species kỳ ảo, chẳng hạn dragonborn hoặc gnome.
+Khi chọn giống loài, bạn quyết định nhân vật là con người hay thuộc một giống loài kỳ ảo như dragonborn hoặc gnome.
 
-Các dân tộc trong đa vũ trụ đến từ nhiều thế giới khác nhau và bao gồm nhiều loại sinh vật có tri giác. Species của một player character là tập hợp các trait trò chơi mà một adventurer nhận được từ việc là một trong những dạng sống đó.
+Các dân tộc trong đa vũ trụ đến từ nhiều thế giới và gồm nhiều loại sinh vật có tri giác. Giống loài của nhân vật người chơi là tập hợp đặc điểm trò chơi mà nhà phiêu lưu có được nhờ thuộc về một dạng sống như vậy.
 
-Một số species có thể truy nguyên nguồn gốc về một thế giới, plane tồn tại, hoặc vị thần duy nhất, trong khi các species khác lần đầu xuất hiện đồng thời tại nhiều cõi giới. Dù nguồn gốc của một species là gì, các thành viên của nó đã lan rộng khắp đa vũ trụ và đóng góp vào nhiều nền văn hóa khác nhau.
+Một số giống loài có thể truy nguồn gốc về một thế giới, một cõi tồn tại hay một vị thần duy nhất, trong khi số khác xuất hiện cùng lúc ở nhiều cõi. Dù khởi nguồn thế nào, thành viên của mỗi giống loài đã tỏa khắp đa vũ trụ và góp phần vào nhiều nền văn hóa.
 
-Các thành viên của hầu hết species sống khoảng 80 năm, với các ngoại lệ được ghi chú trong phần nói về species đó trong "Character Origins." Bất kể tuổi thọ, các thành viên của mọi species đạt đến độ trưởng thành thể chất ở độ tuổi tương tự nhau. Nhân vật của bạn có thể ở bất kỳ độ tuổi nào không vượt quá tuổi thọ bình thường của species đó.
+Thành viên của hầu hết giống loài sống khoảng 80 năm; các ngoại lệ được ghi trong phần mô tả giống loài. Bất kể tuổi thọ, thành viên mọi giống loài đều trưởng thành về thể chất ở độ tuổi tương tự. Nhân vật có thể ở bất kỳ tuổi nào không vượt quá tuổi thọ bình thường của giống loài.
 
-**Parts of a Species (Các Phần Của Species)**
+**Các thành phần của giống loài (Parts of a Species)**
 
-Một species bao gồm các phần sau.
+Một giống loài gồm các phần sau:
 
-- **Creature Type.** Species của một nhân vật xác định creature type của nhân vật, được mô tả trong "Rules Glossary." Mọi species trong "Character Origins" đều là Humanoid; các species không phải Humanoid có thể chơi được xuất hiện trong các cuốn sách khác.
-- **Size.** Species của nhân vật bạn xác định kích thước của nhân vật. Các cá thể trong một species có phạm vi chiều cao rộng, và một số species đa dạng đến mức bạn có thể chọn nhân vật của mình là Small hay Medium.
-- **Speed.** Species của nhân vật bạn xác định Speed của nhân vật.
-- **Special Traits.** Mỗi species cho một nhân vật các trait đặc biệt — những đặc điểm độc đáo dựa trên sinh lý học hoặc bản chất phép thuật của species đó. Khi chọn một species, nhân vật của bạn nhận tất cả các trait đặc biệt được liệt kê cho nó. Một số trait liên quan đến việc lựa chọn trong một vài tùy chọn.
+- **Loại sinh vật (Creature Type).** Giống loài quyết định loại sinh vật của nhân vật, được mô tả trong [Bảng thuật ngữ luật](08-Rules-Glossary.md). Mọi giống loài trong chương này đều là Hình người; các giống loài chơi được không phải Hình người xuất hiện ở sách khác.
+- **Kích cỡ (Size).** Giống loài quyết định kích cỡ nhân vật. Chiều cao trong một giống loài dao động khá rộng, và một số giống loài đa dạng đến mức bạn có thể chọn nhân vật cỡ Nhỏ hoặc Trung bình.
+- **Tốc độ (Speed).** Giống loài quyết định Tốc độ của nhân vật.
+- **Đặc điểm đặc biệt (Special Traits).** Mỗi giống loài cho nhân vật những đặc điểm đặc biệt — nét độc đáo dựa trên sinh lý hoặc bản chất ma thuật của giống loài đó. Khi chọn giống loài, nhân vật nhận mọi đặc điểm đặc biệt được liệt kê. Một số đặc điểm yêu cầu chọn giữa vài lựa chọn.
 
-### Species Descriptions (Mô Tả Chủng Loài)
+### Mô tả giống loài (Species Descriptions)
 
-#### Dragonborn (Người Rồng)
+#### Dragonborn
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 5–7 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,5–2,1 m; 5–7 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Dragonborn, bạn có các trait đặc biệt sau.
+Là Dragonborn, bạn có các đặc điểm đặc biệt sau.
 
-**Draconic Ancestry (Huyết Thống Rồng).** Dòng dõi của bạn bắt nguồn từ một tổ tiên rồng. Chọn loài rồng từ bảng Draconic Ancestors. Lựa chọn của bạn ảnh hưởng đến trait Breath Weapon và Damage Resistance của bạn cũng như ngoại hình của bạn.
+**Huyết thống rồng (Draconic Ancestry).** Dòng dõi của bạn bắt nguồn từ một tổ tiên rồng. Chọn loại rồng trong bảng Tổ tiên rồng. Lựa chọn ảnh hưởng đến đặc điểm Hơi thở vũ khí, Kháng sát thương và ngoại hình của bạn.
 
-**Draconic Ancestors (Tổ Tiên Rồng)**
+**Tổ tiên rồng (Draconic Ancestors)**
 
-| Dragon | Damage Type | Dragon | Damage Type |
+| Rồng | Loại sát thương | Rồng | Loại sát thương |
 |---|---|---|---|
-| Black | Acid | Gold | Fire |
-| Blue | Lightning | Green | Poison |
-| Brass | Fire | Red | Fire |
-| Bronze | Lightning | Silver | Cold |
-| Copper | Acid | White | Cold |
+| Đen (Black) | Axit | Vàng (Gold) | Lửa |
+| Lam (Blue) | Sét | Lục (Green) | Độc |
+| Đồng thau (Brass) | Lửa | Đỏ (Red) | Lửa |
+| Đồng thiếc (Bronze) | Sét | Bạc (Silver) | Lạnh |
+| Đồng đỏ (Copper) | Axit | Trắng (White) | Lạnh |
 
-**Breath Weapon (Vũ Khí Hơi Thở).** Khi thực hiện action Attack trong turn của mình, bạn có thể thay một trong các đòn tấn công bằng một luồng năng lượng phép thuật trong một 15-foot Cone hoặc một 30-foot Line rộng 5 feet (chọn hình dạng mỗi lần). Mỗi creature trong khu vực đó phải thực hiện một Dexterity saving throw (DC bằng 8 cộng với Constitution modifier và Proficiency Bonus của bạn). Nếu thất bại, một creature nhận 1d10 damage thuộc loại được xác định bởi trait Draconic Ancestry của bạn. Nếu thành công, một creature nhận một nửa lượng damage đó. Damage này tăng thêm 1d10 khi bạn đạt character level 5 (2d10), 11 (3d10), và 17 (4d10).
+**Hơi thở vũ khí (Breath Weapon).** Khi dùng hành động Tấn công trong lượt, bạn có thể thay một đòn tấn công bằng một luồng năng lượng ma thuật trong hình nón 4,5 m (15 feet) hoặc đường thẳng dài 9 m (30 feet), rộng 1,5 m (5 feet) (chọn hình dạng mỗi lần dùng). Mỗi sinh vật trong vùng phải cứu nguy Khéo léo (DC bằng 8 + hệ số Thể chất + thưởng thành thạo của bạn). Nếu thất bại, sinh vật chịu 1d10 sát thương thuộc loại do Huyết thống rồng quyết định; nếu thành công, chịu một nửa. Sát thương tăng thêm 1d10 khi bạn đạt cấp nhân vật 5 (2d10), 11 (3d10) và 17 (4d10).
 
-Bạn có thể dùng Breath Weapon này một số lần bằng Proficiency Bonus của bạn, và bạn phục hồi tất cả các lần sử dụng đã dùng khi hoàn thành một Long Rest.
+Bạn dùng được Hơi thở vũ khí số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ dài.
 
-**Damage Resistance (Kháng Sát Thương).** Bạn có Resistance với loại damage được xác định bởi trait Draconic Ancestry của bạn.
+**Kháng sát thương (Damage Resistance).** Bạn kháng loại sát thương do Huyết thống rồng quyết định.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 60 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 18 m (60 feet).
 
-**Draconic Flight (Bay Lượn Của Rồng).** Khi đạt character level 5, bạn có thể khơi dòng phép thuật rồng để tự cho mình khả năng bay tạm thời. Như một Bonus Action, bạn mọc ra đôi cánh ma quái trên lưng tồn tại trong 10 phút hoặc cho đến khi bạn thu lại cánh (không cần action) hoặc có condition Incapacitated. Trong thời gian đó, bạn có Fly Speed bằng Speed của mình. Đôi cánh của bạn trông như được tạo từ cùng loại năng lượng với Breath Weapon của bạn. Sau khi dùng trait này, bạn không thể dùng lại cho đến khi hoàn thành một Long Rest.
+**Bay lượn rồng (Draconic Flight).** Khi đạt cấp nhân vật 5, bạn có thể khơi dòng ma thuật rồng để tạm thời bay được. Bằng một hành động phụ, bạn mọc ra đôi cánh ma quái trên lưng, tồn tại trong 10 phút hoặc đến khi bạn thu cánh lại (không cần hành động) hoặc rơi vào trạng thái Mất năng lực hành động. Trong thời gian đó, bạn có Tốc độ bay bằng Tốc độ của mình. Đôi cánh trông như được tạo từ cùng loại năng lượng với Hơi thở vũ khí. Sau khi dùng đặc điểm này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài.
 
-#### Dwarf (Người Lùn)
+#### Người lùn (Dwarf)
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 4–5 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,2–1,5 m; 4–5 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Dwarf, bạn có các trait đặc biệt sau.
+Là Người lùn, bạn có các đặc điểm đặc biệt sau.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 120 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 36 m (120 feet).
 
-**Dwarven Resilience (Sức Bền Người Lùn).** Bạn có Resistance với damage Poison. Bạn cũng có Advantage trên saving throw để tránh hoặc kết thúc condition Poisoned.
+**Sức bền người lùn (Dwarven Resilience).** Bạn kháng sát thương độc. Bạn cũng có lợi thế khi cứu nguy để tránh hoặc chấm dứt trạng thái Trúng độc.
 
-**Dwarven Toughness (Độ Dai Người Lùn).** Hit Point maximum của bạn tăng thêm 1, và nó tăng thêm 1 lần nữa mỗi khi bạn lên level.
+**Dẻo dai người lùn (Dwarven Toughness).** Điểm sinh lực tối đa của bạn tăng 1, và tăng thêm 1 mỗi khi bạn lên cấp.
 
-**Stonecunning (Am Hiểu Đá).** Như một Bonus Action, bạn nhận Tremorsense với tầm 60 feet trong 10 phút. Bạn phải đứng trên hoặc chạm vào một bề mặt đá để dùng Tremorsense này. Đá có thể tự nhiên hoặc được gia công.
+**Am hiểu đá (Stonecunning).** Bằng một hành động phụ, bạn có cảm nhận chấn động trong phạm vi 18 m (60 feet) trong 10 phút. Bạn phải đứng trên hoặc chạm vào bề mặt đá để dùng cảm nhận này. Đá có thể là đá tự nhiên hoặc đá đã được gia công.
 
-Bạn có thể dùng Bonus Action này một số lần bằng Proficiency Bonus của bạn, và bạn phục hồi tất cả các lần sử dụng đã dùng khi hoàn thành một Long Rest.
+Bạn dùng được hành động phụ này số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ dài.
 
-#### Elf (Tiên Tộc)
+#### Elf
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 5–6 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,5–1,8 m; 5–6 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Elf, bạn có các trait đặc biệt sau.
+Là Elf, bạn có các đặc điểm đặc biệt sau.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 60 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 18 m (60 feet).
 
-**Elven Lineage (Dòng Dõi Elf).** Bạn thuộc về một dòng dõi mang lại cho bạn những khả năng siêu nhiên. Chọn một dòng dõi từ bảng Elven Lineages. Bạn nhận lợi ích level 1 của dòng dõi đó.
+**Dòng dõi elf (Elven Lineage).** Bạn thuộc một dòng dõi mang lại năng lực siêu nhiên. Chọn một dòng dõi trong bảng Dòng dõi elf. Bạn nhận lợi ích cấp 1 của dòng dõi đó.
 
-Khi đạt character level 3 và 5, bạn học một spell cấp cao hơn, như trong bảng. Bạn luôn có spell đó ở trạng thái đã chuẩn bị. Bạn có thể thi triển nó một lần mà không dùng spell slot, và bạn phục hồi khả năng thi triển nó theo cách đó khi hoàn thành một Long Rest. Bạn cũng có thể thi triển spell đó bằng bất kỳ spell slot nào bạn có ở level phù hợp.
+Khi đạt cấp nhân vật 3 và 5, bạn học một phép bậc cao hơn, như trong bảng. Bạn luôn chuẩn bị sẵn phép đó. Bạn có thể thi triển nó một lần mà không tiêu ô phép, và hồi khả năng này khi hoàn thành nghỉ dài. Bạn cũng có thể thi triển phép đó bằng bất kỳ ô phép có bậc phù hợp nào.
 
-**Elven Lineages (Các Dòng Dõi Elf)**
+**Dòng dõi elf (Elven Lineages)**
 
-| Lineage | Level 1 | Level 3 | Level 5 |
+| Dòng dõi | Cấp 1 | Cấp 3 | Cấp 5 |
 |---|---|---|---|
-| Drow | Tầm Darkvision của bạn tăng lên 120 feet. Bạn cũng biết cantrip Dancing Lights. | Faerie Fire | Darkness |
-| High Elf | Bạn biết cantrip Prestidigitation. Bất cứ khi nào hoàn thành một Long Rest, bạn có thể thay cantrip đó bằng một cantrip khác từ Wizard spell list. | Detect Magic | Misty Step |
-| Wood Elf | Speed của bạn tăng lên 35 feet. Bạn cũng biết cantrip Druidcraft. | Longstrider | Pass without Trace |
+| Drow | Phạm vi thị giác bóng tối tăng lên 36 m (120 feet). Bạn cũng biết phép sơ cấp *Ánh sáng nhảy múa* (Dancing Lights). | *Lửa yêu tinh* (Faerie Fire) | *Bóng tối* (Darkness) |
+| Elf thượng đẳng (High Elf) | Bạn biết phép sơ cấp *Tiểu xảo ma thuật* (Prestidigitation). Mỗi khi hoàn thành nghỉ dài, bạn có thể thay nó bằng một phép sơ cấp khác trong danh sách phép Pháp sư. | *Phát hiện ma thuật* (Detect Magic) | *Bước sương* (Misty Step) |
+| Elf rừng (Wood Elf) | Tốc độ của bạn tăng lên 10,5 m (35 feet). Bạn cũng biết phép sơ cấp *Thuật Druid* (Druidcraft). | *Sải bước dài* (Longstrider) | *Không dấu vết* (Pass without Trace) |
 
-Intelligence, Wisdom, hoặc Charisma là spellcasting ability của bạn cho các spell bạn thi triển với trait này (chọn ability khi chọn dòng dõi).
+Trí tuệ, Minh triết hoặc Sức hút là thuộc tính thi triển phép cho các phép thi triển bằng đặc điểm này (chọn khi chọn dòng dõi).
 
-**Fey Ancestry (Huyết Thống Tiên).** Bạn có Advantage trên saving throw để tránh hoặc kết thúc condition Charmed.
+**Huyết thống tiên (Fey Ancestry).** Bạn có lợi thế khi cứu nguy để tránh hoặc chấm dứt trạng thái Mê hoặc.
 
-**Keen Senses (Giác Quan Nhạy Bén).** Bạn có proficiency trong skill Insight, Perception, hoặc Survival.
+**Giác quan nhạy bén (Keen Senses).** Bạn thành thạo kỹ năng Thấu hiểu, Tri giác hoặc Sinh tồn.
 
-**Trance (Thiền Định).** Bạn không cần ngủ, và phép thuật không thể khiến bạn ngủ. Bạn có thể hoàn thành một Long Rest trong 4 giờ nếu dành thời gian đó thiền định trong trạng thái xuất thần, trong đó bạn vẫn giữ được ý thức.
+**Xuất thần (Trance).** Bạn không cần ngủ, và ma thuật không thể khiến bạn ngủ. Bạn có thể hoàn thành nghỉ dài trong 4 giờ nếu dành thời gian đó thiền trong trạng thái xuất thần mà vẫn giữ ý thức.
 
-#### Gnome (Người Tí Hon)
+#### Gnome
 
-- Creature Type: Humanoid
-- Size: Small (khoảng 3–4 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Nhỏ (khoảng 0,9–1,2 m; 3–4 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Gnome, bạn có các trait đặc biệt sau.
+Là Gnome, bạn có các đặc điểm đặc biệt sau.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 60 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 18 m (60 feet).
 
-**Gnomish Cunning (Mưu Trí Gnome).** Bạn có Advantage trên Intelligence, Wisdom, và Charisma saving throw.
+**Mưu trí gnome (Gnomish Cunning).** Bạn có lợi thế khi cứu nguy Trí tuệ, Minh triết và Sức hút.
 
-**Gnomish Lineage (Dòng Dõi Gnome).** Bạn thuộc về một dòng dõi mang lại cho bạn những khả năng siêu nhiên. Chọn một trong các lựa chọn sau; dù bạn chọn lựa chọn nào, Intelligence, Wisdom, hoặc Charisma là spellcasting ability của bạn cho các spell bạn thi triển với trait này (chọn ability khi chọn dòng dõi):
+**Dòng dõi gnome (Gnomish Lineage).** Bạn thuộc một dòng dõi mang lại năng lực siêu nhiên. Chọn một trong các lựa chọn sau; dù chọn gì, Trí tuệ, Minh triết hoặc Sức hút là thuộc tính thi triển phép cho các phép thi triển bằng đặc điểm này (chọn khi chọn dòng dõi):
 
-- **Forest Gnome (Gnome Rừng).** Bạn biết cantrip Minor Illusion. Bạn cũng luôn có sẵn spell Speak with Animals ở trạng thái đã chuẩn bị. Bạn có thể thi triển nó mà không dùng spell slot một số lần bằng Proficiency Bonus của bạn, và bạn phục hồi tất cả các lần sử dụng đã dùng khi hoàn thành một Long Rest. Bạn cũng có thể dùng bất kỳ spell slot nào bạn có để thi triển spell đó.
-- **Rock Gnome (Gnome Đá).** Bạn biết cantrip Mending và Prestidigitation. Ngoài ra, bạn có thể dành 10 phút thi triển Prestidigitation để tạo ra một thiết bị cơ khí Tiny (AC 5, 1 HP), chẳng hạn một món đồ chơi, bật lửa, hoặc hộp nhạc. Khi tạo thiết bị, bạn xác định chức năng của nó bằng cách chọn một hiệu ứng từ Prestidigitation; thiết bị tạo ra hiệu ứng đó mỗi khi bạn hoặc một creature khác thực hiện một Bonus Action để kích hoạt nó bằng cách chạm vào. Nếu hiệu ứng được chọn có các tùy chọn bên trong nó, bạn chọn một trong các tùy chọn đó cho thiết bị khi tạo ra nó. Ví dụ, nếu bạn chọn hiệu ứng thắp-tắt lửa của spell, bạn xác định liệu thiết bị thắp lửa hay dập lửa; thiết bị không làm cả hai. Bạn có thể có tối đa ba thiết bị như vậy tồn tại cùng lúc, và mỗi thiết bị vỡ ra sau 8 giờ kể từ khi tạo hoặc khi bạn tháo rời nó bằng cách chạm vào như một action Utilize.
+- **Gnome rừng (Forest Gnome).** Bạn biết phép sơ cấp *Ảo ảnh nhỏ* (Minor Illusion). Bạn cũng luôn chuẩn bị sẵn phép *Nói chuyện với muông thú* (Speak with Animals). Bạn có thể thi triển nó mà không tiêu ô phép số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ dài. Bạn cũng có thể dùng bất kỳ ô phép nào để thi triển phép đó.
+- **Gnome đá (Rock Gnome).** Bạn biết phép sơ cấp *Sửa chữa* (Mending) và *Tiểu xảo ma thuật* (Prestidigitation). Ngoài ra, bạn có thể dành 10 phút thi triển *Tiểu xảo ma thuật* để tạo một thiết bị cơ khí Tí hon (AC 5, 1 HP), chẳng hạn đồ chơi, bật lửa hay hộp nhạc. Khi tạo thiết bị, bạn chọn chức năng của nó bằng một hiệu ứng của *Tiểu xảo ma thuật*; thiết bị tạo hiệu ứng đó mỗi khi bạn hoặc sinh vật khác dùng hành động phụ chạm vào để kích hoạt. Nếu hiệu ứng có các tùy chọn bên trong, bạn chọn một tùy chọn cho thiết bị khi tạo. Ví dụ, nếu chọn hiệu ứng thắp/tắt lửa, bạn quyết định thiết bị thắp hay dập lửa; nó không làm được cả hai. Mỗi lúc bạn có tối đa ba thiết bị như vậy, và mỗi thiết bị tan rã sau 8 giờ kể từ khi tạo hoặc khi bạn chạm vào để tháo rời bằng hành động Sử dụng.
 
-#### Goliath (Người Khổng Lồ)
+#### Goliath
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 7–8 feet)
-- Speed: 35 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 2,1–2,4 m; 7–8 feet)
+- Tốc độ: 10,5 m (35 feet)
 
-Là một Goliath, bạn có các trait đặc biệt sau.
+Là Goliath, bạn có các đặc điểm đặc biệt sau.
 
-**Giant Ancestry (Huyết Thống Khổng Lồ).** Bạn là hậu duệ của các Giant. Chọn một trong các lợi ích sau — một ân huệ siêu nhiên từ tổ tiên bạn; bạn có thể dùng lợi ích đã chọn một số lần bằng Proficiency Bonus của bạn, và bạn phục hồi tất cả các lần sử dụng đã dùng khi hoàn thành một Long Rest:
+**Huyết thống người khổng lồ (Giant Ancestry).** Bạn là hậu duệ của Người khổng lồ. Chọn một trong các lợi ích sau — ân huệ siêu nhiên từ tổ tiên; bạn dùng được lợi ích đã chọn số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ dài:
 
-- **Cloud's Jaunt (Cloud Giant).** Như một Bonus Action, bạn phép thuật dịch chuyển tối đa 30 feet đến một không gian trống mà bạn có thể nhìn thấy.
-- **Fire's Burn (Fire Giant).** Khi đánh trúng một mục tiêu bằng một attack roll và gây damage lên nó, bạn cũng có thể gây thêm 1d10 damage Fire lên mục tiêu đó.
-- **Frost's Chill (Frost Giant).** Khi đánh trúng một mục tiêu bằng một attack roll và gây damage lên nó, bạn cũng có thể gây thêm 1d6 damage Cold lên mục tiêu đó và giảm Speed của nó 10 feet cho đến khi bắt đầu turn tiếp theo của bạn.
-- **Hill's Tumble (Hill Giant).** Khi đánh trúng một creature Large trở xuống bằng một attack roll và gây damage lên nó, bạn có thể cho mục tiêu đó condition Prone.
-- **Stone's Endurance (Stone Giant).** Khi nhận damage, bạn có thể dùng một Reaction để tung 1d12. Cộng Constitution modifier của bạn vào số tung được và giảm damage đi tổng số đó.
-- **Storm's Thunder (Storm Giant).** Khi nhận damage từ một creature trong vòng 60 feet của bạn, bạn có thể dùng một Reaction để gây 1d8 damage Thunder lên creature đó.
+- **Bước mây (Cloud's Jaunt; khổng lồ mây).** Bằng một hành động phụ, bạn dịch chuyển tức thời bằng ma thuật tối đa 9 m (30 feet) đến một chỗ trống mà bạn nhìn thấy.
+- **Lửa thiêu (Fire's Burn; khổng lồ lửa).** Khi đánh trúng mục tiêu bằng lần tung tấn công và gây sát thương, bạn có thể gây thêm 1d10 sát thương lửa.
+- **Băng giá (Frost's Chill; khổng lồ băng).** Khi đánh trúng mục tiêu bằng lần tung tấn công và gây sát thương, bạn có thể gây thêm 1d6 sát thương lạnh và giảm Tốc độ của mục tiêu 3 m (10 feet) cho đến đầu lượt kế tiếp của bạn.
+- **Đồi lở (Hill's Tumble; khổng lồ đồi).** Khi đánh trúng sinh vật cỡ Lớn trở xuống bằng lần tung tấn công và gây sát thương, bạn có thể khiến mục tiêu rơi vào trạng thái Ngã sấp.
+- **Đá bền (Stone's Endurance; khổng lồ đá).** Khi chịu sát thương, bạn có thể dùng phản ứng để tung 1d12. Cộng hệ số Thể chất vào kết quả và giảm sát thương đi tổng đó.
+- **Sấm bão (Storm's Thunder; khổng lồ bão).** Khi chịu sát thương từ một sinh vật trong phạm vi 18 m (60 feet), bạn có thể dùng phản ứng để gây 1d8 sát thương sấm lên sinh vật đó.
 
-**Large Form (Hình Dạng Lớn).** Bắt đầu từ character level 5, bạn có thể đổi kích thước của mình thành Large như một Bonus Action nếu bạn đang ở trong một không gian đủ rộng. Sự biến đổi này kéo dài 10 phút hoặc cho đến khi bạn kết thúc nó (không cần action). Trong thời gian đó, bạn có Advantage trên Strength check, và Speed của bạn tăng thêm 10 feet. Sau khi dùng trait này, bạn không thể dùng lại cho đến khi hoàn thành một Long Rest.
+**Hình dạng lớn (Large Form).** Từ cấp nhân vật 5, bằng một hành động phụ, bạn có thể đổi kích cỡ thành Lớn nếu đang ở nơi đủ rộng. Biến đổi kéo dài 10 phút hoặc đến khi bạn kết thúc (không cần hành động). Trong thời gian đó, bạn có lợi thế khi kiểm tra Sức mạnh, và Tốc độ tăng 3 m (10 feet). Sau khi dùng đặc điểm này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài.
 
-**Powerful Build (Vóc Dáng Mạnh Mẽ).** Bạn có Advantage trên bất kỳ ability check nào bạn thực hiện để kết thúc condition Grappled. Bạn cũng được tính như lớn hơn một cấp kích thước khi xác định carrying capacity của mình.
+**Thân hình vạm vỡ (Powerful Build).** Bạn có lợi thế ở mọi phép kiểm tra thuộc tính để chấm dứt trạng thái Bị vật lộn. Bạn cũng được tính lớn hơn một hạng kích cỡ khi xác định sức mang vác.
 
-#### Halfling (Bán Nhân)
+#### Halfling
 
-- Creature Type: Humanoid
-- Size: Small (khoảng 2–3 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Nhỏ (khoảng 0,6–0,9 m; 2–3 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Halfling, bạn có các trait đặc biệt sau.
+Là Halfling, bạn có các đặc điểm đặc biệt sau.
 
-**Brave (Dũng Cảm).** Bạn có Advantage trên saving throw để tránh hoặc kết thúc condition Frightened.
+**Can đảm (Brave).** Bạn có lợi thế khi cứu nguy để tránh hoặc chấm dứt trạng thái Hoảng sợ.
 
-**Halfling Nimbleness (Sự Nhanh Nhẹn Của Bán Nhân).** Bạn có thể di chuyển qua không gian của bất kỳ creature nào lớn hơn bạn một cấp kích thước, nhưng bạn không thể dừng lại trong cùng không gian đó.
+**Nhanh nhẹn halfling (Halfling Nimbleness).** Bạn có thể đi qua không gian của bất kỳ sinh vật nào lớn hơn bạn một hạng kích cỡ, nhưng không được dừng lại ở đó.
 
-**Luck (May Mắn).** Khi tung ra 1 trên d20 của một D20 Test, bạn có thể tung lại xúc xắc đó, và bạn phải dùng kết quả mới.
+**May mắn (Luck).** Khi tung được 1 trên d20 của một phép thử d20, bạn có thể tung lại viên đó và phải dùng kết quả mới.
 
-**Naturally Stealthy (Bẩm Sinh Lén Lút).** Bạn có thể thực hiện action Hide ngay cả khi bạn chỉ bị che khuất bởi một creature có kích thước lớn hơn bạn ít nhất một cấp.
+**Lén lút bẩm sinh (Naturally Stealthy).** Bạn có thể dùng hành động Ẩn nấp kể cả khi chỉ được che khuất bởi một sinh vật lớn hơn bạn ít nhất một hạng kích cỡ.
 
-#### Human (Con Người)
+#### Con người (Human)
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 4–7 feet) hoặc Small (khoảng 2–4 feet), chọn khi bạn chọn species này
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,2–2,1 m; 4–7 feet) hoặc Nhỏ (khoảng 0,6–1,2 m; 2–4 feet), chọn khi chọn giống loài này
+- Tốc độ: 9 m (30 feet)
 
-Là một Human, bạn có các trait đặc biệt sau.
+Là Con người, bạn có các đặc điểm đặc biệt sau.
 
-**Resourceful (Tháo Vát).** Bạn nhận Heroic Inspiration bất cứ khi nào hoàn thành một Long Rest.
+**Tháo vát (Resourceful).** Bạn nhận Cảm hứng anh hùng mỗi khi hoàn thành nghỉ dài.
 
-**Skillful (Khéo Léo).** Bạn nhận proficiency trong một skill theo lựa chọn của mình.
+**Tài giỏi (Skillful).** Bạn thành thạo một kỹ năng tùy chọn.
 
-**Versatile (Đa Năng).** Bạn nhận một Origin feat theo lựa chọn của mình (xem "Feats"). Skilled (Đa Tài) được khuyến nghị.
+**Đa năng (Versatile).** Bạn nhận một kỳ tài Nguồn gốc tùy chọn (xem [Kỳ tài](05-Feats.md)). Khuyến nghị: Thành thạo đa dạng (Skilled).
 
-#### Orc (Người Orc)
+#### Orc
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 6–7 feet)
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,8–2,1 m; 6–7 feet)
+- Tốc độ: 9 m (30 feet)
 
-Là một Orc, bạn có các trait đặc biệt sau.
+Là Orc, bạn có các đặc điểm đặc biệt sau.
 
-**Adrenaline Rush (Bùng Nổ Adrenaline).** Bạn có thể thực hiện action Dash như một Bonus Action. Khi làm vậy, bạn nhận một lượng Temporary Hit Points bằng Proficiency Bonus của bạn.
+**Cơn sốc adrenaline (Adrenaline Rush).** Bạn có thể dùng hành động Chạy nước rút bằng hành động phụ. Khi làm vậy, bạn nhận số điểm sinh lực tạm thời bằng thưởng thành thạo.
 
-Bạn có thể dùng trait này một số lần bằng Proficiency Bonus của bạn, và bạn phục hồi tất cả các lần sử dụng đã dùng khi hoàn thành một Short hoặc Long Rest.
+Bạn dùng được đặc điểm này số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ ngắn hoặc nghỉ dài.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 120 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 36 m (120 feet).
 
-**Relentless Endurance (Sức Bền Không Ngừng).** Khi bị giảm xuống 0 Hit Points nhưng không chết ngay lập tức, bạn có thể giảm xuống 1 Hit Point thay vào đó. Sau khi dùng trait này, bạn không thể dùng lại cho đến khi hoàn thành một Long Rest.
+**Sức bền bất khuất (Relentless Endurance).** Khi HP của bạn về 0 mà không chết ngay, bạn có thể giữ lại 1 HP. Sau khi dùng đặc điểm này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài.
 
-#### Tiefling (Quỷ Lai)
+#### Tiefling
 
-- Creature Type: Humanoid
-- Size: Medium (khoảng 4–7 feet) hoặc Small (khoảng 3–4 feet), chọn khi bạn chọn species này
-- Speed: 30 feet
+- Loại sinh vật: Hình người
+- Kích cỡ: Trung bình (khoảng 1,2–2,1 m; 4–7 feet) hoặc Nhỏ (khoảng 0,9–1,2 m; 3–4 feet), chọn khi chọn giống loài này
+- Tốc độ: 9 m (30 feet)
 
-Là một Tiefling, bạn có các trait đặc biệt sau.
+Là Tiefling, bạn có các đặc điểm đặc biệt sau.
 
-**Darkvision (Thị Giác Bóng Tối).** Bạn có Darkvision với tầm 60 feet.
+**Thị giác bóng tối (Darkvision).** Bạn có thị giác bóng tối trong phạm vi 18 m (60 feet).
 
-**Fiendish Legacy (Di Sản Quỷ Dữ).** Bạn thừa hưởng một di sản mang lại cho bạn những khả năng siêu nhiên. Chọn một di sản từ bảng Fiendish Legacies. Bạn nhận lợi ích level 1 của di sản đã chọn.
+**Di sản quỷ dữ (Fiendish Legacy).** Bạn thừa hưởng một di sản mang lại năng lực siêu nhiên. Chọn một di sản trong bảng Di sản quỷ dữ. Bạn nhận lợi ích cấp 1 của di sản đó.
 
-Khi đạt character level 3 và 5, bạn học một spell cấp cao hơn, như trong bảng. Bạn luôn có spell đó ở trạng thái đã chuẩn bị. Bạn có thể thi triển nó một lần mà không dùng spell slot, và bạn phục hồi khả năng thi triển nó theo cách đó khi hoàn thành một Long Rest. Bạn cũng có thể thi triển spell đó bằng bất kỳ spell slot nào bạn có ở level phù hợp.
+Khi đạt cấp nhân vật 3 và 5, bạn học một phép bậc cao hơn, như trong bảng. Bạn luôn chuẩn bị sẵn phép đó. Bạn có thể thi triển nó một lần mà không tiêu ô phép, và hồi khả năng này khi hoàn thành nghỉ dài. Bạn cũng có thể thi triển phép đó bằng bất kỳ ô phép có bậc phù hợp nào.
 
-Intelligence, Wisdom, hoặc Charisma là spellcasting ability của bạn cho các spell bạn thi triển với trait này (chọn ability khi chọn di sản).
+Trí tuệ, Minh triết hoặc Sức hút là thuộc tính thi triển phép cho các phép thi triển bằng đặc điểm này (chọn khi chọn di sản).
 
-**Otherworldly Presence (Hiện Diện Phi Thường).** Bạn biết cantrip Thaumaturgy. Khi thi triển nó với trait này, spell dùng cùng spellcasting ability mà bạn dùng cho trait Fiendish Legacy của mình.
+**Hiện diện dị giới (Otherworldly Presence).** Bạn biết phép sơ cấp *Hiển phép* (Thaumaturgy). Khi thi triển bằng đặc điểm này, phép dùng cùng thuộc tính thi triển phép với Di sản quỷ dữ.
 
-**Fiendish Legacies (Các Di Sản Quỷ Dữ)**
+**Di sản quỷ dữ (Fiendish Legacies)**
 
-| Legacy | Level 1 | Level 3 | Level 5 |
+| Di sản | Cấp 1 | Cấp 3 | Cấp 5 |
 |---|---|---|---|
-| Abyssal | Bạn có Resistance với damage Poison. Bạn cũng biết cantrip Poison Spray. | Ray of Sickness | Hold Person |
-| Chthonic | Bạn có Resistance với damage Necrotic. Bạn cũng biết cantrip Chill Touch. | False Life | Ray of Enfeeblement |
-| Infernal | Bạn có Resistance với damage Fire. Bạn cũng biết cantrip Fire Bolt. | Hellish Rebuke | Darkness |
+| Abyss (Abyssal) | Bạn kháng sát thương độc. Bạn cũng biết phép sơ cấp *Phun độc* (Poison Spray). | *Tia bệnh tật* (Ray of Sickness) | *Giữ người* (Hold Person) |
+| Âm phủ (Chthonic) | Bạn kháng sát thương hoại tử. Bạn cũng biết phép sơ cấp *Chạm lạnh giá* (Chill Touch). | *Giả sinh mệnh* (False Life) | *Tia suy yếu* (Ray of Enfeeblement) |
+| Địa ngục (Infernal) | Bạn kháng sát thương lửa. Bạn cũng biết phép sơ cấp *Tia lửa* (Fire Bolt). | *Quở trách địa ngục* (Hellish Rebuke) | *Bóng tối* (Darkness) |

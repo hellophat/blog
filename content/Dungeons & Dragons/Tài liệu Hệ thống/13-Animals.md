@@ -1,1559 +1,1915 @@
 ---
-title: Chương 13 - Animals (Động Vật)
+title: Chương 13 - Động vật
+description: Khối thông số của động vật, khủng long và các loài thú khổng lồ trong SRD 5.2.1, xếp theo thứ tự chữ cái tên tiếng Anh.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Animals (Động Vật)
-
-**Allosaurus**
-*Large Beast (Dinosaur), Unaligned*
-- AC 13, Initiative +1 (11)
-- HP 51 (6d10 + 18)
-- Speed 60 ft.
-- Str 19 (+4, save +4), Dex 13 (+1, save +1), Con 17 (+3, save +3), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Perception +5
-- Senses: Passive Perception 15
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Piercing damage.
-- *Claws.* Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Slashing damage. Nếu mục tiêu là một creature Large trở xuống và allosaurus đã di chuyển 30+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu có condition Prone, và allosaurus có thể thực hiện một đòn tấn công Bite nhắm vào nó.
-
-**Ankylosaurus**
-*Huge Beast (Dinosaur), Unaligned*
-- AC 15, Initiative +0 (10)
-- HP 68 (8d12 + 16)
-- Speed 30 ft.
-- Str 19 (+4, save +6), Dex 11 (+0, save +0), Con 15 (+2, save +2), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Senses: Passive Perception 11
-- Languages: None
-- CR 3 (XP 700; PB +2)
-
-*Actions*
-- *Multiattack.* Ankylosaurus thực hiện hai đòn tấn công Tail.
-- *Tail.* Melee Attack Roll: +6, reach 10 ft. Hit: 9 (1d10 + 4) Bludgeoning damage. Nếu mục tiêu là một creature Huge trở xuống, nó có condition Prone.
-
-**Ape**
-*Medium Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 19 (3d8 + 6)
-- Speed 30 ft., Climb 30 ft.
-- Str 16 (+3, save +3), Dex 14 (+2, save +2), Con 14 (+2, save +2), Int 6 (−2, save −2), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Athletics +5, Perception +3
-- Senses: Passive Perception 13
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Actions*
-- *Multiattack.* Ape thực hiện hai đòn tấn công Fist.
-- *Fist.* Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Bludgeoning damage.
-- *Rock (Recharge 6).* Ranged Attack Roll: +5, range 25/50 ft. Hit: 10 (2d6 + 3) Bludgeoning damage.
-
-**Archelon**
-*Huge Beast (Dinosaur), Unaligned*
-- AC 17, Initiative +3 (13)
-- HP 90 (12d12 + 12)
-- Speed 20 ft., Swim 80 ft.
-- Str 18 (+4, save +4), Dex 16 (+3, save +3), Con 13 (+1, save +1), Int 4 (−3, save −3), Wis 14 (+2, save +2), Cha 6 (−2, save −2)
-- Skills: Stealth +5
-- Senses: Passive Perception 12
-- Languages: None
-- CR 4 (XP 1.100; PB +2)
-
-*Traits*
-- *Amphibious.* Archelon có thể thở trong không khí và nước.
-
-*Actions*
-- *Multiattack.* Archelon thực hiện hai đòn tấn công Bite.
-- *Bite.* Melee Attack Roll: +6, reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
-
-**Baboon**
-*Small Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 3 (1d6)
-- Speed 30 ft., Climb 30 ft.
-- Str 8 (−1, save −1), Dex 14 (+2, save +2), Con 11 (+0, save +0), Int 4 (−3, save −3), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Senses: Passive Perception 11
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Pack Tactics.* Baboon có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của baboon trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 − 1) Piercing damage.
-
-**Badger**
-*Tiny Beast, Unaligned*
-- AC 11, Initiative +0 (10)
-- HP 5 (1d4 + 3)
-- Speed 20 ft., Burrow 5 ft.
-- Str 10 (+0, save +0), Dex 11 (+0, save +0), Con 16 (+3, save +3), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Perception +3
-- Resistances: Poison
-- Senses: Darkvision 30 ft.; Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
-
-**Bat**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 1 (1d4 − 1)
-- Speed 5 ft., Fly 30 ft.
-- Str 2 (−4, save −4), Dex 15 (+2, save +2), Con 8 (−1, save −1), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 4 (−3, save −3)
-- Senses: Blindsight 60 ft.; Passive Perception 11
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
-
-**Black Bear**
-*Medium Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 19 (3d8 + 6)
-- Speed 30 ft., Climb 30 ft., Swim 30 ft.
-- Str 15 (+2, save +2), Dex 12 (+1, save +1), Con 14 (+2, save +2), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +5
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Actions*
-- *Multiattack.* Gấu thực hiện hai đòn tấn công Rend.
-- *Rend.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage.
-
-**Blood Hawk**
-*Small Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 7 (2d6)
-- Speed 10 ft., Fly 60 ft.
-- Str 6 (−2, save −2), Dex 14 (+2, save +2), Con 10 (+0, save +0), Int 3 (−4, save −4), Wis 14 (+2, save +2), Cha 5 (−3, save −3)
-- Skills: Perception +6
-- Senses: Passive Perception 16
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Traits*
-- *Pack Tactics.* Diều hâu có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của diều hâu trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Beak.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, hoặc 6 (1d8 + 2) Piercing damage nếu mục tiêu Bloodied.
-
-**Boar**
-*Medium Beast, Unaligned*
-- AC 11, Initiative +0 (10)
-- HP 13 (2d8 + 4)
-- Speed 40 ft.
-- Str 13 (+1, save +1), Dex 11 (+0, save +0), Con 14 (+2, save +2), Int 2 (−4, save −4), Wis 9 (−1, save −1), Cha 5 (−3, save −3)
-- Senses: Passive Perception 9
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Bloodied Fury.* Trong khi Bloodied, lợn rừng có Advantage trên attack roll.
-
-*Actions*
-- *Gore.* Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. Nếu mục tiêu là một creature Medium trở xuống và lợn rừng đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 3 (1d6) Piercing damage và có condition Prone.
-
-**Brown Bear**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 22 (3d10 + 6)
-- Speed 40 ft., Climb 30 ft.
-- Str 17 (+3, save +3), Dex 12 (+1, save +1), Con 15 (+2, save +2), Int 2 (−4, save −4), Wis 13 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +3
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Actions*
-- *Multiattack.* Gấu thực hiện một đòn tấn công Bite và một đòn tấn công Claw.
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage.
-- *Claw.* Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Prone.
-
-**Camel**
-*Large Beast, Unaligned*
-- AC 10, Initiative −1 (9)
-- HP 17 (2d10 + 6)
-- Speed 50 ft.
-- Str 15 (+2, save +2), Dex 8 (−1, save −1), Con 17 (+3, save +5), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 5 (−3, save −3)
-- Senses: Darkvision 60 ft.; Passive Perception 10
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
-
-**Cat**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 2 (1d4)
-- Speed 40 ft., Climb 40 ft.
-- Str 3 (−4, save −4), Dex 15 (+2, save +4), Con 10 (+0, save +0), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +3, Stealth +4
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Jumper.* Khoảng cách nhảy của mèo được xác định dùng Dexterity của nó thay vì Strength.
-
-*Actions*
-- *Scratch.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Slashing damage.
-
-**Constrictor Snake**
-*Large Beast, Unaligned*
-- AC 13, Initiative +2 (12)
-- HP 13 (2d10 + 2)
-- Speed 30 ft., Swim 30 ft.
-- Str 15 (+2, save +2), Dex 14 (+2, save +2), Con 12 (+1, save +1), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Skills: Perception +2, Stealth +4
-- Senses: Blindsight 10 ft.; Passive Perception 12
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
-- *Constrict.* Strength Saving Throw: DC 12, một creature Medium trở xuống con rắn có thể thấy trong vòng 5 feet. Failure: 7 (3d4) Bludgeoning damage, và mục tiêu có condition Grappled (escape DC 12).
-
-**Crab**
-*Tiny Beast, Unaligned*
-- AC 11, Initiative +0 (10)
-- HP 3 (1d4 + 1)
-- Speed 20 ft., Swim 20 ft.
-- Str 6 (−2, save −2), Dex 11 (+0, save +0), Con 12 (+1, save +1), Int 1 (−5, save −5), Wis 8 (−1, save −1), Cha 2 (−4, save −4)
-- Skills: Stealth +2
-- Senses: Blindsight 30 ft.; Passive Perception 9
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Amphibious.* Cua có thể thở trong không khí và nước.
-
-*Actions*
-- *Claw.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage.
-
-**Crocodile**
-*Large Beast, Unaligned*
-- AC 12, Initiative +0 (10)
-- HP 13 (2d10 + 2)
-- Speed 20 ft., Swim 30 ft.
-- Str 15 (+2, save +2), Dex 10 (+0, save +0), Con 13 (+1, save +3), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 5 (−3, save −3)
-- Skills: Stealth +2
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Traits*
-- *Hold Breath.* Cá sấu có thể nín thở trong 1 giờ.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Grappled (escape DC 12). Trong khi Grappled, mục tiêu có condition Restrained.
-
-**Deer**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 4 (1d8)
-- Speed 50 ft.
-- Str 11 (+0, save +0), Dex 16 (+3, save +3), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 14 (+2, save +2), Cha 5 (−3, save −3)
-- Skills: Perception +4
-- Senses: Darkvision 60 ft.; Passive Perception 14
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Agile.* Hươu không kích hoạt một Opportunity Attack khi nó di chuyển ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Ram.* Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage.
-
-**Dire Wolf**
-*Large Beast, Unaligned*
-- AC 14, Initiative +2 (12)
-- HP 22 (3d10 + 6)
-- Speed 50 ft.
-- Str 17 (+3, save +3), Dex 15 (+2, save +2), Con 15 (+2, save +2), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +5, Stealth +4
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Pack Tactics.* Sói có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của sói trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Piercing damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Prone.
-
-**Draft Horse**
-*Large Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 15 (2d10 + 4)
-- Speed 40 ft.
-- Str 18 (+4, save +4), Dex 10 (+0, save +0), Con 15 (+2, save +2), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 7 (−2, save −2)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Hooves.* Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Bludgeoning damage.
-
-**Eagle**
-*Small Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 4 (1d6 + 1)
-- Speed 10 ft., Fly 60 ft.
-- Str 6 (−2, save −2), Dex 15 (+2, save +2), Con 12 (+1, save +1), Int 2 (−4, save −4), Wis 14 (+2, save +2), Cha 7 (−2, save −2)
-- Skills: Perception +6
-- Senses: Passive Perception 16
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Talons.* Melee Attack Roll: +4, reach 5 feet. Hit: 4 (1d4 + 2) Slashing damage.
-
-**Elephant**
-*Huge Beast, Unaligned*
-- AC 12, Initiative −1 (9)
-- HP 76 (8d12 + 24)
-- Speed 40 ft.
-- Str 22 (+6, save +6), Dex 9 (−1, save −1), Con 17 (+3, save +3), Int 3 (−4, save −4), Wis 11 (+0, save +0), Cha 6 (−2, save −2)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 4 (XP 1.100; PB +2)
-
-*Actions*
-- *Multiattack.* Voi thực hiện hai đòn tấn công Gore.
-- *Gore.* Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage. Nếu mục tiêu là một creature Huge trở xuống và voi đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu có condition Prone.
-
-*Bonus Actions*
-- *Trample.* Dexterity Saving Throw: DC 16, một creature trong vòng 5 feet có condition Prone. Failure: 17 (2d10 + 6) Bludgeoning damage. Success: Nửa damage.
-
-**Elk**
-*Large Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 11 (2d10)
-- Speed 50 ft.
-- Str 16 (+3, save +3), Dex 10 (+0, save +0), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 6 (−2, save −2)
-- Skills: Perception +2
-- Senses: Darkvision 60 ft.; Passive Perception 12
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Ram.* Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống và nai sừng tấm đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 3 (1d6) Bludgeoning damage và có condition Prone.
-
-**Flying Snake**
-*Tiny Monstrosity, Unaligned*
-- AC 14, Initiative +2 (12)
-- HP 5 (2d4)
-- Speed 30 ft., Fly 60 ft., Swim 30 ft.
-- Str 4 (−3, save −3), Dex 15 (+2, save +2), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Senses: Blindsight 10 ft.; Passive Perception 11
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Traits*
-- *Flyby.* Rắn không kích hoạt một Opportunity Attack khi nó bay ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage cộng 5 (2d4) Poison damage.
-
-**Frog**
-*Tiny Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 1 (1d4 − 1)
-- Speed 20 ft., Swim 20 ft.
-- Str 1 (−5, save −5), Dex 13 (+1, save +1), Con 8 (−1, save −1), Int 1 (−5, save −5), Wis 8 (−1, save −1), Cha 3 (−4, save −4)
-- Skills: Perception +1, Stealth +3
-- Senses: Darkvision 30 ft.; Passive Perception 11
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Amphibious.* Ếch có thể thở trong không khí và nước.
-- *Standing Leap.* Long Jump của ếch tối đa 10 feet và High Jump của nó tối đa 5 feet dù có hoặc không có đà chạy.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +3, reach 5 ft. Hit: 1 Piercing damage.
-
-**Giant Ape**
-*Huge Beast, Unaligned*
-- AC 12, Initiative +5 (15)
-- HP 168 (16d12 + 64)
-- Speed 40 ft., Climb 40 ft.
-- Str 23 (+6, save +6), Dex 14 (+2, save +2), Con 18 (+4, save +4), Int 5 (−3, save −3), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Athletics +9, Perception +4, Survival +4
-- Senses: Passive Perception 14
-- Languages: None
-- CR 7 (XP 2.900; PB +3)
-
-*Actions*
-- *Multiattack.* Khỉ đột thực hiện hai đòn tấn công Fist.
-- *Fist.* Melee Attack Roll: +9, reach 10 ft. Hit: 22 (3d10 + 6) Bludgeoning damage.
-- *Boulder Toss (Recharge 6).* Khỉ đột ném một tảng đá vào một điểm nó có thể thấy trong vòng 90 feet. Dexterity Saving Throw: DC 17, mỗi creature trong một Sphere bán kính 5-foot có tâm tại điểm đó. Failure: 24 (7d6) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Prone. Success: Chỉ nửa damage.
-
-*Bonus Actions*
-- *Leap.* Khỉ đột nhảy xa tối đa 30 feet bằng cách tốn 10 feet movement.
-
-**Giant Badger**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +0 (10)
-- HP 15 (2d8 + 6)
-- Speed 30 ft., Burrow 10 ft.
-- Str 13 (+1, save +1), Dex 10 (+0, save +0), Con 17 (+3, save +3), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Perception +3
-- Resistances: Poison
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Piercing damage.
-
-**Giant Bat**
-*Large Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 22 (4d10)
-- Speed 10 ft., Fly 60 ft.
-- Str 15 (+2, save +2), Dex 16 (+3, save +3), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Senses: Blindsight 120 ft.; Passive Perception 11
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage.
-
-**Giant Boar**
-*Large Beast, Unaligned*
-- AC 13, Initiative +0 (10)
-- HP 42 (5d10 + 15)
-- Speed 40 ft.
-- Str 17 (+3, save +5), Dex 10 (+0, save +0), Con 16 (+3, save +3), Int 2 (−4, save −4), Wis 7 (−2, save −2), Cha 5 (−3, save −3)
-- Senses: Passive Perception 8
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Traits*
-- *Bloodied Fury.* Lợn rừng có Advantage trên melee attack roll trong khi nó Bloodied.
-
-*Actions*
-- *Gore.* Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage. Nếu mục tiêu là một creature Large trở xuống và lợn rừng đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 7 (2d6) Piercing damage và có condition Prone.
-
-**Giant Centipede**
-*Small Beast, Unaligned*
-- AC 14, Initiative +2 (12)
-- HP 9 (2d6 + 2)
-- Speed 30 ft., Climb 30 ft.
-- Str 5 (−3, save −3), Dex 14 (+2, save +2), Con 12 (+1, save +1), Int 1 (−5, save −5), Wis 7 (−2, save −2), Cha 3 (−4, save −4)
-- Senses: Blindsight 30 ft.; Passive Perception 8
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage, và mục tiêu có condition Poisoned cho đến khi bắt đầu turn tiếp theo của con rết.
-
-**Giant Constrictor Snake**
-*Huge Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 60 (8d12 + 8)
-- Speed 30 ft., Swim 30 ft.
-- Str 19 (+4, save +4), Dex 14 (+2, save +2), Con 12 (+1, save +1), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Skills: Perception +2
-- Senses: Blindsight 10 ft.; Passive Perception 12
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Actions*
-- *Multiattack.* Con rắn thực hiện một đòn tấn công Bite và dùng Constrict.
-- *Bite.* Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
-- *Constrict.* Strength Saving Throw: DC 14, một creature Large trở xuống con rắn có thể thấy trong vòng 10 feet. Failure: 13 (2d8 + 4) Bludgeoning damage, và mục tiêu có condition Grappled (escape DC 14).
-
-**Giant Crab**
-*Medium Beast, Unaligned*
-- AC 15, Initiative +1 (11)
-- HP 13 (3d8)
-- Speed 30 ft., Swim 30 ft.
-- Str 13 (+1, save +1), Dex 13 (+1, save +1), Con 11 (+0, save +0), Int 1 (−5, save −5), Wis 9 (−1, save −1), Cha 3 (−4, save −4)
-- Skills: Stealth +3
-- Senses: Blindsight 30 ft.; Passive Perception 9
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Traits*
-- *Amphibious.* Cua có thể thở trong không khí và nước.
-
-*Actions*
-- *Claw.* Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Bludgeoning damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Grappled (escape DC 11) từ một trong hai càng.
-
-**Giant Crocodile**
-*Huge Beast, Unaligned*
-- AC 14, Initiative −1 (9)
-- HP 85 (9d12 + 27)
-- Speed 30 ft., Swim 50 ft.
-- Str 21 (+5, save +5), Dex 9 (−1, save −1), Con 17 (+3, save +3), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 7 (−2, save −2)
-- Skills: Stealth +5
-- Senses: Passive Perception 10
-- Languages: None
-- CR 5 (XP 1.800; PB +3)
-
-*Traits*
-- *Hold Breath.* Cá sấu có thể nín thở trong 1 giờ.
-
-*Actions*
-- *Multiattack.* Cá sấu thực hiện một đòn tấn công Bite và một đòn tấn công Tail.
-- *Bite.* Melee Attack Roll: +8, reach 5 ft. Hit: 21 (3d10 + 5) Piercing damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Grappled (escape DC 15). Trong khi Grappled, mục tiêu có condition Restrained và không thể bị nhắm mục tiêu bởi Tail của cá sấu.
-- *Tail.* Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Prone.
-
-**Giant Eagle**
-*Large Celestial, Neutral Good*
-- AC 13, Initiative +3 (13)
-- HP 26 (4d10 + 4)
-- Speed 10 ft., Fly 80 ft.
-- Str 16 (+3, save +3), Dex 17 (+3, save +3), Con 13 (+1, save +1), Int 8 (−1, save −1), Wis 14 (+2, save +2), Cha 10 (+0, save +0)
-- Skills: Perception +6
-- Resistances: Necrotic, Radiant
-- Senses: Passive Perception 16
-- Languages: Celestial; hiểu tiếng Common và Primordial (Auran) nhưng không thể nói chúng
-- CR 1 (XP 200; PB +2)
-
-*Actions*
-- *Multiattack.* Đại bàng thực hiện hai đòn tấn công Rend.
-- *Rend.* Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Slashing damage cộng 3 (1d6) Radiant damage.
-
-**Giant Elk**
-*Huge Celestial, Neutral Good*
-- AC 14, Initiative +6 (16)
-- HP 42 (5d12 + 10)
-- Speed 60 ft.
-- Str 19 (+4, save +6), Dex 18 (+4, save +6), Con 14 (+2, save +2), Int 7 (−2, save −2), Wis 14 (+2, save +2), Cha 10 (+0, save +0)
-- Skills: Perception +4
-- Resistances: Necrotic, Radiant
-- Senses: Darkvision 90 ft.; Passive Perception 14
-- Languages: Celestial; hiểu tiếng Common, Elvish, và Sylvan nhưng không thể nói chúng
-- CR 2 (XP 450; PB +2)
-
-*Actions*
-- *Ram.* Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Bludgeoning damage cộng 5 (2d4) Radiant damage. Nếu mục tiêu là một creature Huge trở xuống và nai sừng tấm đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 5 (2d4) Bludgeoning damage và có condition Prone.
-
-**Giant Fire Beetle**
-*Small Beast, Unaligned*
-- AC 13, Initiative +0 (10)
-- HP 4 (1d6 + 1)
-- Speed 30 ft., Climb 30 ft.
-- Str 8 (−1, save −1), Dex 10 (+0, save +0), Con 12 (+1, save +1), Int 1 (−5, save −5), Wis 7 (−2, save −2), Cha 3 (−4, save −4)
-- Resistances: Fire
-- Senses: Blindsight 30 ft.; Passive Perception 8
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Illumination.* Bọ cánh cứng tỏa Bright Light trong bán kính 10 feet và Dim Light thêm 10 feet nữa.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +1, reach 5 ft. Hit: 1 Fire damage.
-
-**Giant Frog**
-*Medium Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 18 (4d8)
-- Speed 30 ft., Swim 30 ft.
-- Str 12 (+1, save +1), Dex 13 (+1, save +1), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Skills: Perception +2, Stealth +4
-- Senses: Darkvision 30 ft.; Passive Perception 12
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Amphibious.* Ếch có thể thở trong không khí và nước.
-- *Standing Leap.* Long Jump của ếch tối đa 20 feet và High Jump của nó tối đa 10 feet dù có hoặc không có đà chạy.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Grappled (escape DC 11).
-- *Swallow.* Ếch nuốt một mục tiêu Small trở xuống nó đang grapple. Trong khi bị nuốt, mục tiêu không còn Grappled nhưng có condition Blinded và Restrained, và nó có Total Cover chống lại các cuộc tấn công và hiệu ứng khác bên ngoài ếch. Trong khi nuốt mục tiêu, ếch không thể dùng Bite, và nếu ếch chết, mục tiêu bị nuốt không còn Restrained nữa và có thể thoát khỏi xác chết bằng cách dùng 5 feet movement, thoát ra với condition Prone.
-
-Vào cuối turn tiếp theo của ếch, mục tiêu bị nuốt nhận 5 (2d4) Acid damage. Nếu damage đó không giết nó, ếch nôn nó ra, khiến nó thoát ra ở trạng thái Prone.
-
-**Giant Goat**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 19 (3d10 + 3)
-- Speed 40 ft., Climb 30 ft.
-- Str 17 (+3, save +5), Dex 13 (+1, save +1), Con 12 (+1, save +1), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Skills: Perception +3
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Actions*
-- *Ram.* Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống và dê đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 5 (2d4) Bludgeoning damage và có condition Prone.
-
-**Giant Hyena**
-*Large Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 45 (6d10 + 12)
-- Speed 50 ft.
-- Str 16 (+3, save +3), Dex 14 (+2, save +2), Con 14 (+2, save +2), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +3
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.
-
-*Bonus Actions*
-- *Rampage (1/Day).* Ngay sau khi gây damage cho một creature đã Bloodied, linh cẩu có thể di chuyển tối đa một nửa Speed của nó, và nó thực hiện một đòn tấn công Bite.
-
-**Giant Lizard**
-*Large Beast, Unaligned*
-- AC 12, Initiative +1 (11)
-- HP 19 (3d10 + 3)
-- Speed 40 ft., Climb 40 ft.
-- Str 15 (+2, save +2), Dex 12 (+1, save +3), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 5 (−3, save −3)
-- Senses: Darkvision 60 ft.; Passive Perception 10
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Spider Climb.* Thằn lằn có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
-
-**Giant Octopus**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 45 (7d10 + 7)
-- Speed 10 ft., Swim 60 ft.
-- Str 17 (+3, save +3), Dex 13 (+1, save +1), Con 13 (+1, save +1), Int 5 (−3, save −3), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +4, Stealth +5
-- Senses: Darkvision 60 ft.; Passive Perception 14
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Water Breathing.* Bạch tuộc chỉ có thể thở dưới nước. Nó có thể nín thở trong 1 giờ bên ngoài nước.
-
-*Actions*
-- *Tentacles.* Melee Attack Roll: +5, reach 10 ft. Hit: 10 (2d6 + 3) Bludgeoning damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Grappled (escape DC 13) từ cả tám xúc tu. Trong khi Grappled, mục tiêu có condition Restrained.
-
-*Reactions*
-- *Ink Cloud (1/Day).* Trigger: Bạch tuộc nhận damage trong khi ở dưới nước. Response: Bạch tuộc giải phóng mực lấp đầy một Cube 10-foot có tâm tại bản thân, và bạch tuộc di chuyển tối đa Swim Speed của nó. Cube bị Heavily Obscured trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
-
-**Giant Owl**
-*Large Celestial, Neutral*
-- AC 12, Initiative +2 (12)
-- HP 19 (3d10 + 3)
-- Speed 5 ft., Fly 60 ft.
-- Str 13 (+1, save +1), Dex 15 (+2, save +2), Con 12 (+1, save +1), Int 10 (+0, save +0), Wis 14 (+2, save +4), Cha 10 (+0, save +0)
-- Skills: Perception +6, Stealth +6
-- Resistances: Necrotic, Radiant
-- Senses: Darkvision 120 ft.; Passive Perception 16
-- Languages: Celestial; hiểu tiếng Common, Elvish, và Sylvan nhưng không thể nói chúng
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Flyby.* Cú không kích hoạt một Opportunity Attack khi nó bay ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Talons.* Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.
-- *Spellcasting.* Cú thi triển một trong các spell sau, không cần thành phần spell nào và dùng Wisdom làm khả năng thi triển spell:
-  - At Will: Detect Evil and Good, Detect Magic
-  - 1/Day: Clairvoyance
-
-**Giant Rat**
-*Small Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 7 (2d6)
-- Speed 30 ft., Climb 30 ft.
-- Str 7 (−2, save −2), Dex 16 (+3, save +5), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +2
-- Senses: Darkvision 60 ft.; Passive Perception 12
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Traits*
-- *Pack Tactics.* Chuột có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của chuột trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 feet. Hit: 5 (1d4 + 3) Piercing damage.
-
-**Giant Scorpion**
-*Large Beast, Unaligned*
-- AC 15, Initiative +1 (11)
-- HP 52 (7d10 + 14)
-- Speed 40 ft.
-- Str 16 (+3, save +3), Dex 13 (+1, save +1), Con 15 (+2, save +2), Int 1 (−5, save −5), Wis 9 (−1, save −1), Cha 3 (−4, save −4)
-- Senses: Blindsight 60 ft.; Passive Perception 9
-- Languages: None
-- CR 3 (XP 700; PB +2)
-
-*Actions*
-- *Multiattack.* Bọ cạp thực hiện hai đòn tấn công Claw và một đòn tấn công Sting.
-- *Claw.* Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Grappled (escape DC 13) từ một trong hai càng.
-- *Sting.* Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage cộng 11 (2d10) Poison damage.
-
-**Giant Seahorse**
-*Large Beast, Unaligned*
-- AC 14, Initiative +1 (11)
-- HP 16 (3d10)
-- Speed 5 ft., Swim 40 ft.
-- Str 15 (+2, save +2), Dex 12 (+1, save +1), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Senses: Passive Perception 11
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Traits*
-- *Water Breathing.* Cá ngựa chỉ có thể thở dưới nước.
-
-*Actions*
-- *Ram.* Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Bludgeoning damage, hoặc 11 (2d8 + 2) Bludgeoning damage nếu cá ngựa đã di chuyển 20+ feet trực tiếp về phía mục tiêu ngay trước khi trúng.
-
-*Bonus Actions*
-- *Bubble Dash.* Trong khi ở dưới nước, cá ngựa di chuyển tối đa một nửa Swim Speed của nó mà không kích hoạt Opportunity Attack.
-
-**Giant Shark**
-*Huge Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 92 (8d12 + 40)
-- Speed 5 ft., Swim 60 ft.
-- Str 23 (+6, save +6), Dex 11 (+0, save +0), Con 21 (+5, save +5), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 5 (−3, save −3)
-- Skills: Perception +3
-- Senses: Blindsight 60 ft.; Passive Perception 13
-- Languages: None
-- CR 5 (XP 1.800; PB +3)
-
-*Traits*
-- *Water Breathing.* Cá mập chỉ có thể thở dưới nước.
-
-*Actions*
-- *Multiattack.* Cá mập thực hiện hai đòn tấn công Bite.
-- *Bite.* Melee Attack Roll: +9 (với Advantage nếu mục tiêu không còn đầy đủ Hit Points), reach 5 ft. Hit: 22 (3d10 + 6) Piercing damage.
-
-**Giant Spider**
-*Large Beast, Unaligned*
-- AC 14, Initiative +3 (13)
-- HP 26 (4d10 + 4)
-- Speed 30 ft., Climb 30 ft.
-- Str 14 (+2, save +2), Dex 16 (+3, save +3), Con 12 (+1, save +1), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +4, Stealth +7
-- Senses: Darkvision 60 ft.; Passive Perception 14
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Spider Climb.* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-- *Web Walker.* Nhện bỏ qua các hạn chế di chuyển gây ra bởi mạng nhện, và nó biết vị trí của bất kỳ creature nào khác đang tiếp xúc với cùng mạng nhện đó.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage cộng 7 (2d6) Poison damage.
-- *Web (Recharge 5–6).* Dexterity Saving Throw: DC 13, một creature nhện có thể thấy trong vòng 60 feet. Failure: Mục tiêu có condition Restrained cho đến khi mạng nhện bị phá hủy (AC 10; HP 5; Vulnerability với Fire damage; Immunity với Poison và Psychic damage).
-
-**Giant Toad**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 39 (6d10 + 6)
-- Speed 30 ft., Swim 30 ft.
-- Str 15 (+2, save +2), Dex 13 (+1, save +1), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Senses: Darkvision 60 ft.; Passive Perception 10
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Amphibious.* Cóc có thể thở trong không khí và nước.
-- *Standing Leap.* Long Jump của cóc tối đa 20 feet và High Jump của nó tối đa 10 feet dù có hoặc không có đà chạy.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage cộng 5 (2d4) Poison damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Grappled (escape DC 12).
-- *Swallow.* Cóc nuốt một mục tiêu Medium trở xuống nó đang grapple. Trong khi bị nuốt, mục tiêu không còn Grappled nhưng có condition Blinded và Restrained, và nó có Total Cover chống lại các cuộc tấn công và hiệu ứng khác bên ngoài cóc. Ngoài ra, mục tiêu nhận 10 (3d6) Acid damage vào cuối mỗi turn của cóc. Cóc chỉ có thể nuốt một mục tiêu tại một thời điểm, và nó không thể dùng Bite trong khi nó có một mục tiêu bị nuốt. Nếu cóc chết, một creature bị nuốt không còn Restrained nữa và có thể thoát khỏi xác chết bằng cách dùng 5 feet movement, thoát ra với condition Prone.
-
-**Giant Venomous Snake**
-*Medium Beast, Unaligned*
-- AC 14, Initiative +4 (14)
-- HP 11 (2d8 + 2)
-- Speed 40 ft., Swim 40 ft.
-- Str 10 (+0, save +0), Dex 18 (+4, save +4), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Skills: Perception +2
-- Senses: Blindsight 10 ft.; Passive Perception 12
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +6, reach 10 ft. Hit: 6 (1d4 + 4) Piercing damage cộng 4 (1d8) Poison damage.
-
-**Giant Vulture**
-*Large Monstrosity, Neutral Evil*
-- AC 10, Initiative +0 (10)
-- HP 25 (3d10 + 9)
-- Speed 10 ft., Fly 60 ft.
-- Str 15 (+2, save +2), Dex 10 (+0, save +0), Con 16 (+3, save +3), Int 6 (−2, save −2), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +3
-- Resistances: Necrotic
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: Hiểu tiếng Common nhưng không thể nói
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Pack Tactics.* Kền kền có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của kền kền trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Gouge.* Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage, và mục tiêu có condition Poisoned cho đến cuối turn tiếp theo của nó.
-
-**Giant Wasp**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +2 (12)
-- HP 22 (5d8)
-- Speed 10 ft., Fly 50 ft.
-- Str 10 (+0, save +0), Dex 14 (+2, save +2), Con 10 (+0, save +0), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Traits*
-- *Flyby.* Ong bắp cày không kích hoạt một Opportunity Attack khi nó bay ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Sting.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage cộng 5 (2d4) Poison damage.
-
-**Giant Weasel**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 9 (2d8)
-- Speed 40 ft., Climb 30 ft.
-- Str 11 (+0, save +0), Dex 17 (+3, save +3), Con 10 (+0, save +0), Int 4 (−3, save −3), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Acrobatics +5, Perception +3, Stealth +5
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage.
-
-**Giant Wolf Spider**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 11 (2d8 + 2)
-- Speed 40 ft., Climb 40 ft.
-- Str 12 (+1, save +1), Dex 16 (+3, save +3), Con 13 (+1, save +1), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 4 (−3, save −3)
-- Skills: Perception +3, Stealth +7
-- Senses: Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Spider Climb.* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 5 (1d4 + 3) Piercing damage cộng 5 (2d4) Poison damage.
-
-**Goat**
-*Medium Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 4 (1d8)
-- Speed 40 ft., Climb 30 ft.
-- Str 11 (+0, save +2), Dex 10 (+0, save +0), Con 11 (+0, save +0), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 5 (−3, save −3)
-- Skills: Perception +2
-- Senses: Darkvision 60 ft.; Passive Perception 12
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Ram.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Bludgeoning damage, hoặc 2 (1d4) Bludgeoning damage nếu dê đã di chuyển 20+ feet trực tiếp về phía mục tiêu ngay trước khi trúng.
-
-**Hawk**
-*Tiny Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 1 (1d4 − 1)
-- Speed 10 ft., Fly 60 ft.
-- Str 5 (−3, save −3), Dex 16 (+3, save +3), Con 8 (−1, save −1), Int 2 (−4, save −4), Wis 14 (+2, save +2), Cha 6 (−2, save −2)
-- Skills: Perception +6
-- Senses: Passive Perception 16
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Talons.* Melee Attack Roll: +5, reach 5 ft. Hit: 1 Slashing damage.
-
-**Hippopotamus**
-*Large Beast, Unaligned*
-- AC 14, Initiative −2 (8)
-- HP 82 (11d10 + 22)
-- Speed 30 ft., Swim 30 ft.
-- Str 21 (+5, save +7), Dex 7 (−2, save −2), Con 15 (+2, save +2), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 4 (−3, save −3)
-- Skills: Perception +3
-- Senses: Passive Perception 13
-- Languages: None
-- CR 4 (XP 1.100; PB +2)
-
-*Traits*
-- *Hold Breath.* Hà mã có thể nín thở trong 10 phút.
-
-*Actions*
-- *Multiattack.* Hà mã thực hiện hai đòn tấn công Bite.
-- *Bite.* Melee Attack Roll: +7, reach 5 ft. Hit: 16 (2d10 + 5) Piercing damage.
-
-**Hunter Shark**
-*Large Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 45 (6d10 + 12)
-- Speed 5 ft., Swim 40 ft.
-- Str 18 (+4, save +4), Dex 14 (+2, save +2), Con 15 (+2, save +2), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +2
-- Senses: Blindsight 60 ft.; Passive Perception 12
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Traits*
-- *Water Breathing.* Cá mập chỉ có thể thở dưới nước.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +6 (với Advantage nếu mục tiêu không còn đầy đủ Hit Points), reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage.
-
-**Hyena**
-*Medium Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 5 (1d8 + 1)
-- Speed 50 ft.
-- Str 11 (+0, save +0), Dex 13 (+1, save +1), Con 12 (+1, save +1), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Perception +3
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Pack Tactics.* Linh cẩu có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của linh cẩu trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +2, reach 5 ft. Hit: 3 (1d6) Piercing damage.
-
-**Jackal**
-*Small Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 3 (1d6)
-- Speed 40 ft.
-- Str 8 (−1, save −1), Dex 15 (+2, save +2), Con 11 (+0, save +0), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Skills: Perception +5, Stealth +4
-- Senses: Darkvision 90 ft.; Passive Perception 15
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +1, reach 5 ft. Hit: 1 (1d4 − 1) Piercing damage.
-
-**Killer Whale**
-*Huge Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 90 (12d12 + 12)
-- Speed 5 ft., Swim 60 ft.
-- Str 19 (+4, save +4), Dex 14 (+2, save +2), Con 13 (+1, save +1), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +3, Stealth +4
-- Senses: Blindsight 120 ft.; Passive Perception 13
-- Languages: None
-- CR 3 (XP 700; PB +2)
-
-*Traits*
-- *Hold Breath.* Cá voi có thể nín thở trong 30 phút.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +6, reach 5 ft. Hit: 21 (5d6 + 4) Piercing damage.
-
-**Lion**
-*Large Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 22 (4d10)
-- Speed 50 ft.
-- Str 17 (+3, save +3), Dex 15 (+2, save +2), Con 11 (+0, save +0), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 8 (−1, save −1)
-- Skills: Perception +3, Stealth +4
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Pack Tactics.* Sư tử có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của sư tử trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-- *Running Leap.* Với một đà chạy 10-foot, sư tử có thể Long Jump tối đa 25 feet.
-
-*Actions*
-- *Multiattack.* Sư tử thực hiện hai đòn tấn công Rend. Nó có thể thay một đòn tấn công bằng một lần dùng Roar.
-- *Rend.* Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage.
-- *Roar.* Wisdom Saving Throw: DC 11, một creature trong vòng 15 feet. Failure: Mục tiêu có condition Frightened cho đến khi bắt đầu turn tiếp theo của sư tử.
-
-**Lizard**
-*Tiny Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 2 (1d4)
-- Speed 20 ft., Climb 20 ft.
-- Str 2 (−4, save −4), Dex 11 (+0, save +0), Con 10 (+0, save +0), Int 1 (−5, save −5), Wis 8 (−1, save −1), Cha 3 (−4, save −4)
-- Senses: Darkvision 30 ft.; Passive Perception 9
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Spider Climb.* Thằn lằn có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
-
-**Mammoth**
-*Huge Beast, Unaligned*
-- AC 13, Initiative +2 (12)
-- HP 126 (11d12 + 55)
-- Speed 50 ft.
-- Str 24 (+7, save +10), Dex 9 (−1, save −1), Con 21 (+5, save +8), Int 3 (−4, save −4), Wis 11 (+0, save +0), Cha 6 (−2, save −2)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 6 (XP 2.300; PB +3)
-
-*Actions*
-- *Multiattack.* Voi ma mút thực hiện hai đòn tấn công Gore.
-- *Gore.* Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing damage. Nếu mục tiêu là một creature Huge trở xuống và voi ma mút đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu có condition Prone.
-
-*Bonus Actions*
-- *Trample.* Dexterity Saving Throw: DC 18, một creature trong vòng 5 feet có condition Prone. Failure: 29 (4d10 + 7) Bludgeoning damage. Success: Nửa damage.
-
-**Mastiff**
-*Medium Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 5 (1d8 + 1)
-- Speed 40 ft.
-- Str 13 (+1, save +1), Dex 14 (+2, save +2), Con 12 (+1, save +1), Int 3 (−4, save −4), Wis 12 (+1, save +3), Cha 7 (−2, save −2)
-- Skills: Perception +5
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Prone.
-
-**Mule**
-*Medium Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 11 (2d8 + 2)
-- Speed 40 ft.
-- Str 14 (+2, save +4), Dex 10 (+0, save +0), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 5 (−3, save −3)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Traits*
-- *Beast of Burden.* La được tính lớn hơn một cấp kích thước cho mục đích xác định khả năng mang vác của nó.
-
-*Actions*
-- *Hooves.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
-
-**Octopus**
-*Small Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 3 (1d6)
-- Speed 5 ft., Swim 30 ft.
-- Str 4 (−3, save −3), Dex 15 (+2, save +2), Con 11 (+0, save +0), Int 3 (−4, save −4), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +2, Stealth +6
-- Senses: Darkvision 30 ft.; Passive Perception 12
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Compression.* Bạch tuộc có thể di chuyển qua một không gian hẹp tới 1 inch mà không tốn thêm movement để làm vậy.
-- *Water Breathing.* Bạch tuộc chỉ có thể thở dưới nước.
-
-*Actions*
-- *Tentacles.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Bludgeoning damage.
-
-*Reactions*
-- *Ink Cloud (1/Day).* Trigger: Một creature kết thúc turn của nó trong vòng 5 feet của bạch tuộc trong khi ở dưới nước. Response: Bạch tuộc giải phóng mực lấp đầy một Cube 5-foot có tâm tại bản thân, và bạch tuộc di chuyển tối đa Swim Speed của nó. Cube bị Heavily Obscured trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
-
-**Owl**
-*Tiny Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 1 (1d4 − 1)
-- Speed 5 ft., Fly 60 ft.
-- Str 3 (−4, save −4), Dex 13 (+1, save +1), Con 8 (−1, save −1), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +5, Stealth +5
-- Senses: Darkvision 120 ft.; Passive Perception 15
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Flyby.* Cú không kích hoạt một Opportunity Attack khi nó bay ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Talons.* Melee Attack Roll: +3, reach 5 ft. Hit: 1 Slashing damage.
-
-**Panther**
-*Medium Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 13 (3d8)
-- Speed 50 ft., Climb 40 ft.
-- Str 14 (+2, save +2), Dex 16 (+3, save +3), Con 10 (+0, save +0), Int 3 (−4, save −4), Wis 14 (+2, save +2), Cha 7 (−2, save −2)
-- Skills: Perception +4, Stealth +7
-- Senses: Darkvision 60 ft.; Passive Perception 14
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Rend.* Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage.
-
-*Bonus Actions*
-- *Nimble Escape.* Báo thực hiện action Disengage hoặc Hide.
-
-**Piranha**
-*Tiny Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 1 (1d4 − 1)
-- Speed 5 ft., Swim 40 ft.
-- Str 2 (−4, save −4), Dex 16 (+3, save +3), Con 9 (−1, save −1), Int 1 (−5, save −5), Wis 7 (−2, save −2), Cha 2 (−4, save −4)
-- Senses: Darkvision 60 ft.; Passive Perception 8
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Water Breathing.* Cá piranha chỉ có thể thở dưới nước.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5 (với Advantage nếu mục tiêu không còn đầy đủ Hit Points), reach 5 ft. Hit: 1 Piercing damage.
-
-**Plesiosaurus**
-*Large Beast (Dinosaur), Unaligned*
-- AC 13, Initiative +2 (12)
-- HP 68 (8d10 + 24)
-- Speed 20 ft., Swim 40 ft.
-- Str 18 (+4, save +4), Dex 15 (+2, save +2), Con 16 (+3, save +3), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 5 (−3, save −3)
-- Skills: Perception +3, Stealth +4
-- Senses: Passive Perception 13
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Traits*
-- *Hold Breath.* Plesiosaurus có thể nín thở trong 1 giờ.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +6, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.
-
-**Polar Bear**
-*Large Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 42 (5d10 + 15)
-- Speed 40 ft., Swim 40 ft.
-- Str 20 (+5, save +5), Dex 14 (+2, save +2), Con 16 (+3, save +3), Int 2 (−4, save −4), Wis 13 (+1, save +1), Cha 7 (−2, save −2)
-- Skills: Perception +5, Stealth +4
-- Resistances: Cold
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Actions*
-- *Multiattack.* Gấu thực hiện hai đòn tấn công Rend.
-- *Rend.* Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d8 + 5) Slashing damage.
-
-**Pony**
-*Medium Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 11 (2d8 + 2)
-- Speed 40 ft.
-- Str 15 (+2, save +4), Dex 10 (+0, save +0), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 7 (−2, save −2)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Actions*
-- *Hooves.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Bludgeoning damage.
-
-**Pteranodon**
-*Medium Beast (Dinosaur), Unaligned*
-- AC 13, Initiative +2 (12)
-- HP 13 (3d8)
-- Speed 10 ft., Fly 60 ft.
-- Str 12 (+1, save +1), Dex 15 (+2, save +2), Con 10 (+0, save +0), Int 2 (−4, save −4), Wis 9 (−1, save −1), Cha 5 (−3, save −3)
-- Skills: Perception +1
-- Senses: Passive Perception 11
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Flyby.* Pteranodon không kích hoạt một Opportunity Attack khi nó bay ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Piercing damage.
-
-**Rat**
-*Tiny Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 1 (1d4 − 1)
-- Speed 20 ft., Climb 20 ft.
-- Str 2 (−4, save −4), Dex 11 (+0, save +0), Con 9 (−1, save −1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +2
-- Senses: Darkvision 30 ft.; Passive Perception 12
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Agile.* Chuột không kích hoạt một Opportunity Attack khi nó di chuyển ra khỏi tầm với của kẻ địch.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage.
-
-**Raven**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 2 (1d4)
-- Speed 10 ft., Fly 50 ft.
-- Str 2 (−4, save −4), Dex 14 (+2, save +2), Con 10 (+0, save +0), Int 5 (−3, save −3), Wis 13 (+1, save +1), Cha 6 (−2, save −2)
-- Skills: Perception +3
-- Senses: Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Mimicry.* Quạ có thể bắt chước những âm thanh đơn giản nó đã nghe, chẳng hạn tiếng thì thầm hoặc tiếng ríu rít. Người nghe có thể nhận ra những âm thanh đó là giả bằng một DC 10 Wisdom (Insight) check thành công.
-
-*Actions*
-- *Beak.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage.
-
-**Reef Shark**
-*Medium Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 22 (4d8 + 4)
-- Speed 5 ft., Swim 30 ft.
-- Str 14 (+2, save +2), Dex 15 (+2, save +2), Con 13 (+1, save +1), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 4 (−3, save −3)
-- Skills: Perception +2
-- Senses: Blindsight 30 ft.; Passive Perception 12
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Traits*
-- *Pack Tactics.* Cá mập có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của cá mập trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-- *Water Breathing.* Cá mập chỉ có thể thở dưới nước.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Piercing damage.
-
-**Rhinoceros**
-*Large Beast, Unaligned*
-- AC 13, Initiative −1 (9)
-- HP 45 (6d10 + 12)
-- Speed 40 ft.
-- Str 21 (+5, save +5), Dex 8 (−1, save −1), Con 15 (+2, save +2), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Senses: Passive Perception 11
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Actions*
-- *Gore.* Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage. Nếu mục tiêu là một creature Large trở xuống và tê giác đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 9 (2d8) Piercing damage và có condition Prone.
-
-**Riding Horse**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 13 (2d10 + 2)
-- Speed 60 ft.
-- Str 16 (+3, save +3), Dex 13 (+1, save +1), Con 12 (+1, save +1), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 7 (−2, save −2)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Actions*
-- *Hooves.* Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage.
-
-**Saber-Toothed Tiger**
-*Large Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 52 (7d10 + 14)
-- Speed 40 ft.
-- Str 18 (+4, save +6), Dex 17 (+3, save +5), Con 15 (+2, save +2), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 8 (−1, save −1)
-- Skills: Perception +5, Stealth +7
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Traits*
-- *Running Leap.* Với một đà chạy 10-foot, hổ răng kiếm có thể Long Jump tối đa 25 feet.
-
-*Actions*
-- *Multiattack.* Hổ thực hiện hai đòn tấn công Rend.
-- *Rend.* Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Slashing damage.
-
-*Bonus Actions*
-- *Nimble Escape.* Hổ thực hiện action Disengage hoặc Hide.
-
-**Scorpion**
-*Tiny Beast, Unaligned*
-- AC 11, Initiative +0 (10)
-- HP 1 (1d4 − 1)
-- Speed 10 ft.
-- Str 2 (−4, save −4), Dex 11 (+0, save +0), Con 8 (−1, save −1), Int 1 (−5, save −5), Wis 8 (−1, save −1), Cha 2 (−4, save −4)
-- Senses: Blindsight 10 ft.; Passive Perception 9
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Sting.* Melee Attack Roll: +2, reach 5 ft. Hit: 1 Piercing damage cộng 3 (1d6) Poison damage.
-
-**Seahorse**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +1 (11)
-- HP 1 (1d4 − 1)
-- Speed 5 ft., Swim 20 ft.
-- Str 1 (−5, save −5), Dex 12 (+1, save +1), Con 8 (−1, save −1), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 2 (−4, save −4)
-- Skills: Perception +2, Stealth +5
-- Senses: Passive Perception 12
-- Languages: None
-- CR 0 (XP 0; PB +2)
-
-*Traits*
-- *Water Breathing.* Cá ngựa chỉ có thể thở dưới nước.
-
-*Actions*
-- *Bubble Dash.* Trong khi ở dưới nước, cá ngựa di chuyển tối đa Swim Speed của nó mà không kích hoạt Opportunity Attack.
-
-**Spider**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 1 (1d4 − 1)
-- Speed 20 ft., Climb 20 ft.
-- Str 2 (−4, save −4), Dex 14 (+2, save +2), Con 8 (−1, save −1), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 2 (−4, save −4)
-- Skills: Stealth +4
-- Senses: Darkvision 30 ft.; Passive Perception 10
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Spider Climb.* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-- *Web Walker.* Nhện bỏ qua các hạn chế di chuyển gây ra bởi mạng nhện, và nhện biết vị trí của bất kỳ creature nào khác đang tiếp xúc với cùng mạng nhện đó.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 1 Piercing damage cộng 2 (1d4) Poison damage.
-
-**Swarm of Bats**
-*Large Swarm of Tiny Beasts, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 11 (2d10)
-- Speed 5 ft., Fly 30 ft.
-- Str 5 (−3, save −3), Dex 15 (+2, save +2), Con 10 (+0, save +0), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 4 (−3, save −3)
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Blindsight 60 ft.; Passive Perception 11
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con dơi Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-
-*Actions*
-- *Bites.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (2d4) Piercing damage, hoặc 2 (1d4) Piercing damage nếu swarm Bloodied.
-
-**Swarm of Insects**
-*Medium Swarm of Tiny Beasts, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 19 (3d8 + 6)
-- Speed 20 ft., Climb hoặc Fly 20 ft. (tùy GM chọn)
-- Str 3 (−4, save −4), Dex 13 (+1, save +1), Con 14 (+2, save +2), Int 1 (−5, save −5), Wis 7 (−2, save −2), Cha 1 (−5, save −5)
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Blindsight 30 ft.; Passive Perception 8
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Traits*
-- *Spider Climb.* Nếu swarm có Climb Speed, swarm có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện ability check.
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một côn trùng Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-
-*Actions*
-- *Bites.* Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Poison damage, hoặc 3 (1d4 + 1) Poison damage nếu swarm Bloodied.
-
-**Swarm of Piranhas**
-*Medium Swarm of Tiny Beasts, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 28 (8d8 − 8)
-- Speed 5 ft., Swim 40 ft.
-- Str 13 (+1, save +1), Dex 16 (+3, save +3), Con 9 (−1, save −1), Int 1 (−5, save −5), Wis 7 (−2, save −2), Cha 2 (−4, save −4)
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Darkvision 60 ft.; Passive Perception 8
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Traits*
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con cá piranha Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-- *Water Breathing.* Swarm chỉ có thể thở dưới nước.
-
-*Actions*
-- *Bites.* Melee Attack Roll: +5 (với Advantage nếu mục tiêu không còn đầy đủ Hit Points), reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage, hoặc 5 (1d4 + 3) Piercing damage nếu swarm Bloodied.
-
-**Swarm of Rats**
-*Medium Swarm of Tiny Beasts, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 14 (4d8 − 4)
-- Speed 30 ft., Climb 30 ft.
-- Str 9 (−1, save −1), Dex 11 (+0, save +2), Con 9 (−1, save −1), Int 2 (−4, save −4), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Darkvision 30 ft.; Passive Perception 10
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con chuột Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-
-*Actions*
-- *Bites.* Melee Attack Roll: +2, reach 5 ft. Hit: 5 (2d4) Piercing damage, hoặc 2 (1d4) Piercing damage nếu swarm Bloodied.
-
-**Swarm of Ravens**
-*Medium Swarm of Tiny Beasts, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 11 (2d8 + 2)
-- Speed 10 ft., Fly 50 ft.
-- Str 6 (−2, save −2), Dex 14 (+2, save +2), Con 12 (+1, save +1), Int 5 (−3, save −3), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Skills: Perception +5
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Passive Perception 15
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con quạ Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-
-*Actions*
-- *Beaks.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage, hoặc 2 (1d4) Piercing damage nếu swarm Bloodied.
-- *Cacophony (Recharge 6).* Wisdom Saving Throw: DC 10, một creature trong không gian của swarm. Failure: Mục tiêu có condition Deafened cho đến khi bắt đầu turn tiếp theo của swarm. Trong khi Deafened, mục tiêu cũng có Disadvantage trên ability check và attack roll.
-
-**Swarm of Venomous Snakes**
-*Medium Swarm of Tiny Beasts, Unaligned*
-- AC 14, Initiative +4 (14)
-- HP 36 (8d8)
-- Speed 30 ft., Swim 30 ft.
-- Str 8 (−1, save −1), Dex 18 (+4, save +4), Con 11 (+0, save +0), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Resistances: Bludgeoning, Piercing, Slashing
-- Immunities: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-- Senses: Blindsight 10 ft.; Passive Perception 10
-- Languages: None
-- CR 2 (XP 450; PB +2)
-
-*Traits*
-- *Swarm.* Swarm có thể chiếm không gian của một creature khác và ngược lại, và swarm có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con rắn Tiny. Swarm không thể phục hồi Hit Points hoặc nhận Temporary Hit Points.
-
-*Actions*
-- *Bites.* Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d8 + 4) Piercing damage — hoặc 6 (1d4 + 4) Piercing damage nếu swarm Bloodied — cộng 10 (3d6) Poison damage.
-
-**Tiger**
-*Large Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 30 (4d10 + 8)
-- Speed 40 ft.
-- Str 17 (+3, save +3), Dex 16 (+3, save +3), Con 14 (+2, save +2), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 8 (−1, save −1)
-- Skills: Perception +3, Stealth +7
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 1 (XP 200; PB +2)
-
-*Actions*
-- *Rend.* Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Prone.
-
-*Bonus Actions*
-- *Nimble Escape.* Hổ thực hiện action Disengage hoặc Hide.
-
-**Triceratops**
-*Huge Beast (Dinosaur), Unaligned*
-- AC 14, Initiative −1 (9)
-- HP 114 (12d12 + 36)
-- Speed 50 ft.
-- Str 22 (+6, save +6), Dex 9 (−1, save −1), Con 17 (+3, save +3), Int 2 (−4, save −4), Wis 11 (+0, save +0), Cha 5 (−3, save −3)
-- Senses: Passive Perception 10
-- Languages: None
-- CR 5 (XP 1.800; PB +3)
-
-*Actions*
-- *Multiattack.* Triceratops thực hiện hai đòn tấn công Gore.
-- *Gore.* Melee Attack Roll: +9, reach 5 ft. Hit: 19 (2d12 + 6) Piercing damage. Nếu mục tiêu Huge trở xuống và triceratops đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 9 (2d8) Piercing damage và có condition Prone.
-
-**Tyrannosaurus Rex**
-*Huge Beast (Dinosaur), Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 136 (13d12 + 52)
-- Speed 50 ft.
-- Str 25 (+7, save +10), Dex 10 (+0, save +0), Con 19 (+4, save +4), Int 2 (−4, save −4), Wis 12 (+1, save +4), Cha 9 (−1, save −1)
-- Skills: Perception +4
-- Senses: Passive Perception 14
-- Languages: None
-- CR 8 (XP 3.900; PB +3)
-
-*Actions*
-- *Multiattack.* Tyrannosaurus thực hiện một đòn tấn công Bite và một đòn tấn công Tail.
-- *Bite.* Melee Attack Roll: +10, reach 10 ft. Hit: 33 (4d12 + 7) Piercing damage. Nếu mục tiêu là một creature Large trở xuống, nó có condition Grappled (escape DC 17). Trong khi Grappled, mục tiêu có condition Restrained và không thể bị nhắm mục tiêu bởi Tail của tyrannosaurus.
-- *Tail.* Melee Attack Roll: +10, reach 15 ft. Hit: 25 (4d8 + 7) Bludgeoning damage. Nếu mục tiêu là một creature Huge trở xuống, nó có condition Prone.
-
-**Venomous Snake**
-*Tiny Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 5 (2d4)
-- Speed 30 ft., Swim 30 ft.
-- Str 2 (−4, save −4), Dex 15 (+2, save +2), Con 11 (+0, save +0), Int 1 (−5, save −5), Wis 10 (+0, save +0), Cha 3 (−4, save −4)
-- Senses: Blindsight 10 ft.; Passive Perception 10
-- Languages: None
-- CR 1/8 (XP 25; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage cộng 3 (1d6) Poison damage.
-
-**Vulture**
-*Medium Beast, Unaligned*
-- AC 10, Initiative +0 (10)
-- HP 5 (1d8 + 1)
-- Speed 10 ft., Fly 50 ft.
-- Str 7 (−2, save −2), Dex 10 (+0, save +0), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 4 (−3, save −3)
-- Skills: Perception +3
-- Senses: Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Traits*
-- *Pack Tactics.* Kền kền có Advantage trên một attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của kền kền trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Beak.* Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Piercing damage.
-
-**Warhorse**
-*Large Beast, Unaligned*
-- AC 11, Initiative +1 (11)
-- HP 19 (3d10 + 3)
-- Speed 60 ft.
-- Str 18 (+4, save +4), Dex 12 (+1, save +1), Con 13 (+1, save +1), Int 2 (−4, save −4), Wis 12 (+1, save +3), Cha 7 (−2, save −2)
-- Senses: Passive Perception 11
-- Languages: None
-- CR 1/2 (XP 100; PB +2)
-
-*Actions*
-- *Hooves.* Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Bludgeoning damage. Nếu mục tiêu là một creature Large trở xuống và ngựa đã di chuyển 20+ feet trực tiếp về phía nó ngay trước khi trúng, mục tiêu nhận thêm 5 (2d4) Bludgeoning damage và có condition Prone.
-
-**Weasel**
-*Tiny Beast, Unaligned*
-- AC 13, Initiative +3 (13)
-- HP 1 (1d4 − 1)
-- Speed 30 ft., Climb 30 ft.
-- Str 3 (−4, save −4), Dex 16 (+3, save +3), Con 8 (−1, save −1), Int 2 (−4, save −4), Wis 12 (+1, save +1), Cha 3 (−4, save −4)
-- Skills: Acrobatics +5, Perception +3, Stealth +5
-- Senses: Darkvision 60 ft.; Passive Perception 13
-- Languages: None
-- CR 0 (XP 10; PB +2)
-
-*Actions*
-- *Bite.* Melee Attack Roll: +5, reach 5 ft. Hit: 1 Piercing damage.
-
-**Wolf**
-*Medium Beast, Unaligned*
-- AC 12, Initiative +2 (12)
-- HP 11 (2d8 + 2)
-- Speed 40 ft.
-- Str 14 (+2, save +2), Dex 15 (+2, save +2), Con 12 (+1, save +1), Int 3 (−4, save −4), Wis 12 (+1, save +1), Cha 6 (−2, save −2)
-- Skills: Perception +5, Stealth +4
-- Senses: Darkvision 60 ft.; Passive Perception 15
-- Languages: None
-- CR 1/4 (XP 50; PB +2)
-
-*Traits*
-- *Pack Tactics.* Sói có Advantage trên attack roll nhắm vào một creature nếu ít nhất một trong các đồng minh của sói trong vòng 5 feet của creature đó và đồng minh đó không có condition Incapacitated.
-
-*Actions*
-- *Bite.* Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage. Nếu mục tiêu là một creature Medium trở xuống, nó có condition Prone.
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
+
+> [!info] Cách đọc khối thông số
+> Xem [Chương 11 – Quái vật](11-Monsters.md) để biết ý nghĩa từng mục trong khối thông số. Những khối thông số này cũng được dùng cho thú cưỡi, bạn đồng hành và các dạng biến hình như Biến hình hoang dã.
+
+### Khủng long Allosaurus (Allosaurus)
+
+*Thú cỡ Lớn (khủng long), không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +1 (11)
+- **HP** 51 (6d10 + 18)
+- **Tốc độ** 18 m (60 ft.)
+- **STR** 19 (+4, cứu nguy +4) · **DEX** 13 (+1, cứu nguy +1) · **CON** 17 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +5
+- **Giác quan:** Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 15 (2d10 + 4) sát thương xuyên.
+- *Vuốt (Claws).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 8 (1d8 + 4) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và allosaurus đã di chuyển 9 m (30 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu ở trạng thái Ngã sấp, và allosaurus có thể thực hiện một đòn Cắn nhắm vào nó.
+
+### Khủng long Ankylosaurus (Ankylosaurus)
+
+*Thú cỡ Khổng lồ (khủng long), không khuynh hướng*
+
+- **AC** 15 · **Sáng kiến** +0 (10)
+- **HP** 68 (8d12 + 16)
+- **Tốc độ** 9 m (30 ft.)
+- **STR** 19 (+4, cứu nguy +6) · **DEX** 11 (+0, cứu nguy +0) · **CON** 15 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 3 (XP 700; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Ankylosaurus thực hiện hai đòn Đuôi.
+- *Đuôi (Tail).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 9 (1d10 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống, nó ở trạng thái Ngã sấp.
+
+### Vượn (Ape)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 19 (3d8 + 6)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 14 (+2, cứu nguy +2) · **CON** 14 (+2, cứu nguy +2) · **INT** 6 (−2, cứu nguy −2) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Điền kinh +5, Tri giác +3
+- **Giác quan:** Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Ape thực hiện hai đòn Nắm đấm.
+- *Nắm đấm (Fist).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương đập.
+- *Ném đá (Rock; Hồi 6).* Tung tấn công tầm xa: +5, tầm 7,5/15 m (25/15 m (50 ft.)) Trúng: 10 (2d6 + 3) sát thương đập.
+
+### Rùa cổ Archelon (Archelon)
+
+*Thú cỡ Khổng lồ (khủng long), không khuynh hướng*
+
+- **AC** 17 · **Sáng kiến** +3 (13)
+- **HP** 90 (12d12 + 12)
+- **Tốc độ** 6 m (20 ft.), Bơi 24 m (80 ft.)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 16 (+3, cứu nguy +3) · **CON** 13 (+1, cứu nguy +1) · **INT** 4 (−3, cứu nguy −3) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Lén lút +5
+- **Giác quan:** Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 4 (XP 1.100; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Archelon có thể thở trong không khí và nước.
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Archelon thực hiện hai đòn Cắn.
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 14 (3d6 + 4) sát thương xuyên.
+
+### Khỉ đầu chó (Baboon)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 3 (1d6)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 8 (−1, cứu nguy −1) · **DEX** 14 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 4 (−3, cứu nguy −3) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Baboon có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của baboon trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +1, tầm với 1,5 m (5 ft.). Trúng: 1 (1d4 − 1) sát thương xuyên.
+
+### Lửng (Badger)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +0 (10)
+- **HP** 5 (1d4 + 3)
+- **Tốc độ** 6 m (20 ft.), Đào 1,5 m (5 ft.)
+- **STR** 10 (+0, cứu nguy +0) · **DEX** 11 (+0, cứu nguy +0) · **CON** 16 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Kháng:** độc
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Dơi (Bat)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 1,5 m (5 ft.), Bay 9 m (30 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 15 (+2, cứu nguy +2) · **CON** 8 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 4 (−3, cứu nguy −3)
+- **Giác quan:** cảm nhận mù 18 m (60 ft.); Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Gấu đen (Black Bear)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 19 (3d8 + 6)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 12 (+1, cứu nguy +1) · **CON** 14 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Gấu thực hiện hai đòn Xé.
+- *Xé (Rend).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương chém.
+
+### Diều hâu máu (Blood Hawk)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 7 (2d6)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 6 (−2, cứu nguy −2) · **DEX** 14 (+2, cứu nguy +2) · **CON** 10 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +6
+- **Giác quan:** Tri giác thụ động 16
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Diều hâu có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của diều hâu trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Mỏ (Beak).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương xuyên, hoặc 6 (1d8 + 2) sát thương xuyên nếu mục tiêu Đẫm máu.
+
+### Lợn rừng (Boar)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +0 (10)
+- **HP** 13 (2d8 + 4)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 11 (+0, cứu nguy +0) · **CON** 14 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 9 (−1, cứu nguy −1) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Thịnh nộ đẫm máu (Bloodied Fury).* Trong khi Đẫm máu, lợn rừng có lợi thế trên lần tung tấn công.
+
+*Hành động*
+
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 4 (1d6 + 1) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống và lợn rừng đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 3 (1d6) sát thương xuyên và ở trạng thái Ngã sấp.
+
+### Gấu nâu (Brown Bear)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 22 (3d10 + 6)
+- **Tốc độ** 12 m (40 ft.), Leo 9 m (30 ft.)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 12 (+1, cứu nguy +1) · **CON** 15 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 13 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Gấu thực hiện một đòn Cắn và một đòn Vuốt.
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên.
+- *Vuốt (Claw).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
+
+### Lạc đà (Camel)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** −1 (9)
+- **HP** 17 (2d10 + 6)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 8 (−1, cứu nguy −1) · **CON** 17 (+3, cứu nguy +5) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương đập.
+
+### Mèo (Cat)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 2 (1d4)
+- **Tốc độ** 12 m (40 ft.), Leo 12 m (40 ft.)
+- **STR** 3 (−4, cứu nguy −4) · **DEX** 15 (+2, cứu nguy +4) · **CON** 10 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3, Lén lút +4
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Nhảy giỏi (Jumper).* Khoảng cách nhảy của mèo được xác định dùng Khéo léo của nó thay vì Sức mạnh.
+
+*Hành động*
+
+- *Cào (Scratch).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương chém.
+
+### Trăn (Constrictor Snake)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +2 (12)
+- **HP** 13 (2d10 + 2)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +2, Lén lút +4
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên.
+- *Siết (Constrict).* Cứu nguy Sức mạnh: DC 12, một sinh vật cỡ Trung bình trở xuống con rắn có thể thấy trong vòng 1,5 m (5 feet). Thất bại: 7 (3d4) sát thương đập, và mục tiêu ở trạng thái Bị vật lộn (DC thoát 12).
+
+### Cua (Crab)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +0 (10)
+- **HP** 3 (1d4 + 1)
+- **Tốc độ** 6 m (20 ft.), Bơi 6 m (20 ft.)
+- **STR** 6 (−2, cứu nguy −2) · **DEX** 11 (+0, cứu nguy +0) · **CON** 12 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 8 (−1, cứu nguy −1) · **CHA** 2 (−4, cứu nguy −4)
+- **Kỹ năng:** Lén lút +2
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Cua có thể thở trong không khí và nước.
+
+*Hành động*
+
+- *Vuốt (Claw).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương đập.
+
+### Cá sấu (Crocodile)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +0 (10)
+- **HP** 13 (2d10 + 2)
+- **Tốc độ** 6 m (20 ft.), Bơi 9 m (30 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 10 (+0, cứu nguy +0) · **CON** 13 (+1, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Lén lút +2
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Đặc điểm*
+
+- *Nín thở (Hold Breath).* Cá sấu có thể nín thở trong 1 giờ.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 12). Trong khi Bị vật lộn, mục tiêu ở trạng thái Kiềm giữ.
+
+### Hươu (Deer)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 4 (1d8)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 11 (+0, cứu nguy +0) · **DEX** 16 (+3, cứu nguy +3) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +4
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Nhanh nhẹn (Agile).* Hươu không kích hoạt một tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 2 (1d4) sát thương đập.
+
+### Sói hung (Dire Wolf)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +2 (12)
+- **HP** 22 (3d10 + 6)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 15 (+2, cứu nguy +2) · **CON** 15 (+2, cứu nguy +2) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5, Lén lút +4
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Sói có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của sói trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 8 (1d10 + 3) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
+
+### Ngựa kéo (Draft Horse)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 15 (2d10 + 4)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 10 (+0, cứu nguy +0) · **CON** 15 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 7 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Móng guốc (Hooves).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 6 (1d4 + 4) sát thương đập.
+
+### Đại bàng (Eagle)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 4 (1d6 + 1)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 6 (−2, cứu nguy −2) · **DEX** 15 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +6
+- **Giác quan:** Tri giác thụ động 16
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Móng vuốt (Talons).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 feet). Trúng: 4 (1d4 + 2) sát thương chém.
+
+### Voi (Elephant)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** −1 (9)
+- **HP** 76 (8d12 + 24)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 22 (+6, cứu nguy +6) · **DEX** 9 (−1, cứu nguy −1) · **CON** 17 (+3, cứu nguy +3) · **INT** 3 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 6 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 4 (XP 1.100; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Voi thực hiện hai đòn Húc sừng.
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +8, tầm với 1,5 m (5 ft.). Trúng: 15 (2d8 + 6) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống và voi đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu ở trạng thái Ngã sấp.
+
+*Hành động phụ*
+
+- *Giẫm đạp (Trample).* Cứu nguy Khéo léo: DC 16, một sinh vật trong vòng 1,5 m (5 feet) ở trạng thái Ngã sấp. Thất bại: 17 (2d10 + 6) sát thương đập. Thành công: Một nửa sát thương.
+
+### Nai sừng lớn (Elk)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 11 (2d10)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 10 (+0, cứu nguy +0) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và nai sừng tấm đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 3 (1d6) sát thương đập và ở trạng thái Ngã sấp.
+
+### Rắn bay (Flying Snake)
+
+*Quái thể cỡ Tí hon, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +2 (12)
+- **HP** 5 (2d4)
+- **Tốc độ** 9 m (30 ft.), Bay 18 m (60 ft.), Bơi 9 m (30 ft.)
+- **STR** 4 (−3, cứu nguy −3) · **DEX** 15 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Đặc điểm*
+
+- *Bay lướt (Flyby).* Rắn không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên cộng 5 (2d4) sát thương độc.
+
+### Ếch (Frog)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 6 m (20 ft.), Bơi 6 m (20 ft.)
+- **STR** 1 (−5, cứu nguy −5) · **DEX** 13 (+1, cứu nguy +1) · **CON** 8 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 8 (−1, cứu nguy −1) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +1, Lén lút +3
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Ếch có thể thở trong không khí và nước.
+- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của ếch tối đa 3 m (10 feet) và cú nhảy cao của nó tối đa 1,5 m (5 feet) dù có hoặc không có đà chạy.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Vượn khổng lồ (Giant Ape)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +5 (15)
+- **HP** 168 (16d12 + 64)
+- **Tốc độ** 12 m (40 ft.), Leo 12 m (40 ft.)
+- **STR** 23 (+6, cứu nguy +6) · **DEX** 14 (+2, cứu nguy +2) · **CON** 18 (+4, cứu nguy +4) · **INT** 5 (−3, cứu nguy −3) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Điền kinh +9, Tri giác +4, Sinh tồn +4
+- **Giác quan:** Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 7 (XP 2.900; PB +3)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Khỉ đột thực hiện hai đòn Nắm đấm.
+- *Nắm đấm (Fist).* Tung tấn công cận chiến: +9, tầm với 3 m (10 ft.). Trúng: 22 (3d10 + 6) sát thương đập.
+- *Ném tảng đá (Boulder Toss; Hồi 6).* Khỉ đột ném một tảng đá vào một điểm nó có thể thấy trong vòng 27 m (90 feet). Cứu nguy Khéo léo: DC 17, mỗi sinh vật trong một hình cầu bán kính 1,5 m (5 feet) có tâm tại điểm đó. Thất bại: 24 (7d6) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
+
+*Hành động phụ*
+
+- *Nhảy vọt (Leap).* Khỉ đột nhảy xa tối đa 9 m (30 feet) bằng cách tốn 3 m (10 feet) lượng di chuyển.
+
+### Lửng khổng lồ (Giant Badger)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +0 (10)
+- **HP** 15 (2d8 + 6)
+- **Tốc độ** 9 m (30 ft.), Đào 3 m (10 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 10 (+0, cứu nguy +0) · **CON** 17 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Kháng:** độc
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 6 (2d4 + 1) sát thương xuyên.
+
+### Dơi khổng lồ (Giant Bat)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 22 (4d10)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 16 (+3, cứu nguy +3) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Giác quan:** cảm nhận mù 36 m (120 ft.); Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương xuyên.
+
+### Lợn rừng khổng lồ (Giant Boar)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +0 (10)
+- **HP** 42 (5d10 + 15)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 17 (+3, cứu nguy +5) · **DEX** 10 (+0, cứu nguy +0) · **CON** 16 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Đặc điểm*
+
+- *Thịnh nộ đẫm máu (Bloodied Fury).* Lợn rừng có lợi thế trên lần tung tấn công cận chiến trong khi nó Đẫm máu.
+
+*Hành động*
+
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và lợn rừng đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 7 (2d6) sát thương xuyên và ở trạng thái Ngã sấp.
+
+### Rết khổng lồ (Giant Centipede)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +2 (12)
+- **HP** 9 (2d6 + 2)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 5 (−3, cứu nguy −3) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương xuyên, và mục tiêu ở trạng thái Trúng độc cho đến khi bắt đầu lượt tiếp theo của con rết.
+
+### Trăn khổng lồ (Giant Constrictor Snake)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 60 (8d12 + 8)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 19 (+4, cứu nguy +4) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Con rắn thực hiện một đòn Cắn và dùng Siết.
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 11 (2d6 + 4) sát thương xuyên.
+- *Siết (Constrict).* Cứu nguy Sức mạnh: DC 14, một sinh vật cỡ Lớn trở xuống con rắn có thể thấy trong vòng 3 m (10 feet). Thất bại: 13 (2d8 + 4) sát thương đập, và mục tiêu ở trạng thái Bị vật lộn (DC thoát 14).
+
+### Cua khổng lồ (Giant Crab)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 15 · **Sáng kiến** +1 (11)
+- **HP** 13 (3d8)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 13 (+1, cứu nguy +1) · **CON** 11 (+0, cứu nguy +0) · **INT** 1 (−5, cứu nguy −5) · **WIS** 9 (−1, cứu nguy −1) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Lén lút +3
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Cua có thể thở trong không khí và nước.
+
+*Hành động*
+
+- *Vuốt (Claw).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 4 (1d6 + 1) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 11) từ một trong hai càng.
+
+### Cá sấu khổng lồ (Giant Crocodile)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** −1 (9)
+- **HP** 85 (9d12 + 27)
+- **Tốc độ** 9 m (30 ft.), Bơi 15 m (50 ft.)
+- **STR** 21 (+5, cứu nguy +5) · **DEX** 9 (−1, cứu nguy −1) · **CON** 17 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Lén lút +5
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 5 (XP 1.800; PB +3)
+
+*Đặc điểm*
+
+- *Nín thở (Hold Breath).* Cá sấu có thể nín thở trong 1 giờ.
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Cá sấu thực hiện một đòn Cắn và một đòn Đuôi.
+- *Cắn (Bite).* Tung tấn công cận chiến: +8, tầm với 1,5 m (5 ft.). Trúng: 21 (3d10 + 5) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 15). Trong khi Bị vật lộn, mục tiêu ở trạng thái Kiềm giữ và không thể bị nhắm mục tiêu bởi Đuôi của cá sấu.
+- *Đuôi (Tail).* Tung tấn công cận chiến: +8, tầm với 3 m (10 ft.). Trúng: 18 (3d8 + 5) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
+
+### Đại bàng khổng lồ (Giant Eagle)
+
+*Thiên thể cỡ Lớn, trung lập thiện*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Tốc độ** 3 m (10 ft.), Bay 24 m (80 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 17 (+3, cứu nguy +3) · **CON** 13 (+1, cứu nguy +1) · **INT** 8 (−1, cứu nguy −1) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 10 (+0, cứu nguy +0)
+- **Kỹ năng:** Tri giác +6
+- **Kháng:** hoại tử, quang
+- **Giác quan:** Tri giác thụ động 16
+- **Ngôn ngữ:** Thiên thể; hiểu tiếng Common và Primordial (Auran) nhưng không thể nói chúng
+- **CR** 1 (XP 200; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Đại bàng thực hiện hai đòn Xé.
+- *Xé (Rend).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương chém cộng 3 (1d6) sát thương quang.
+
+### Nai sừng lớn khổng lồ (Giant Elk)
+
+*Thiên thể cỡ Khổng lồ, trung lập thiện*
+
+- **AC** 14 · **Sáng kiến** +6 (16)
+- **HP** 42 (5d12 + 10)
+- **Tốc độ** 18 m (60 ft.)
+- **STR** 19 (+4, cứu nguy +6) · **DEX** 18 (+4, cứu nguy +6) · **CON** 14 (+2, cứu nguy +2) · **INT** 7 (−2, cứu nguy −2) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 10 (+0, cứu nguy +0)
+- **Kỹ năng:** Tri giác +4
+- **Kháng:** hoại tử, quang
+- **Giác quan:** thị giác bóng tối 27 m (90 ft.); Tri giác thụ động 14
+- **Ngôn ngữ:** Thiên thể; hiểu tiếng Common, Elvish, và Sylvan nhưng không thể nói chúng
+- **CR** 2 (XP 450; PB +2)
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 11 (2d6 + 4) sát thương đập cộng 5 (2d4) sát thương quang. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống và nai sừng tấm đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 5 (2d4) sát thương đập và ở trạng thái Ngã sấp.
+
+### Bọ lửa khổng lồ (Giant Fire Beetle)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +0 (10)
+- **HP** 4 (1d6 + 1)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 8 (−1, cứu nguy −1) · **DEX** 10 (+0, cứu nguy +0) · **CON** 12 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 3 (−4, cứu nguy −4)
+- **Kháng:** lửa
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Chiếu sáng (Illumination).* Bọ cánh cứng tỏa ánh sáng rõ trong bán kính 3 m (10 feet) và ánh sáng yếu thêm 3 m (10 feet) nữa.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +1, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương lửa.
+
+### Ếch khổng lồ (Giant Frog)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 18 (4d8)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 12 (+1, cứu nguy +1) · **DEX** 13 (+1, cứu nguy +1) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +2, Lén lút +4
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Ếch có thể thở trong không khí và nước.
+- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của ếch tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 11).
+- *Nuốt (Swallow).* Ếch nuốt một mục tiêu cỡ Nhỏ trở xuống nó đang vật lộn. Trong khi bị nuốt, mục tiêu không còn Bị vật lộn nhưng ở trạng thái Mù và Kiềm giữ, và nó có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài ếch. Trong khi nuốt mục tiêu, ếch không thể dùng Cắn, và nếu ếch chết, mục tiêu bị nuốt không còn Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 1,5 m (5 feet) lượng di chuyển, thoát ra với trạng thái Ngã sấp.
+
+Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2d4) sát thương axit. Nếu sát thương đó không giết nó, ếch nôn nó ra, khiến nó thoát ra ở trạng thái Ngã sấp.
+
+### Dê khổng lồ (Giant Goat)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Tốc độ** 12 m (40 ft.), Leo 9 m (30 ft.)
+- **STR** 17 (+3, cứu nguy +5) · **DEX** 13 (+1, cứu nguy +1) · **CON** 12 (+1, cứu nguy +1) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và dê đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 5 (2d4) sát thương đập và ở trạng thái Ngã sấp.
+
+### Linh cẩu khổng lồ (Giant Hyena)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 14 (+2, cứu nguy +2) · **CON** 14 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương xuyên.
+
+*Hành động phụ*
+
+- *Hung hăng (Rampage; 1/Ngày).* Ngay sau khi gây sát thương cho một sinh vật đã Đẫm máu, linh cẩu có thể di chuyển tối đa một nửa Tốc độ của nó, và nó thực hiện một đòn Cắn.
+
+### Thằn lằn khổng lồ (Giant Lizard)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Tốc độ** 12 m (40 ft.), Leo 12 m (40 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 12 (+1, cứu nguy +3) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Thằn lằn có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên.
+
+### Bạch tuộc khổng lồ (Giant Octopus)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 45 (7d10 + 7)
+- **Tốc độ** 3 m (10 ft.), Bơi 18 m (60 ft.)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 13 (+1, cứu nguy +1) · **CON** 13 (+1, cứu nguy +1) · **INT** 5 (−3, cứu nguy −3) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +4, Lén lút +5
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Bạch tuộc chỉ có thể thở dưới nước. Nó có thể nín thở trong 1 giờ bên ngoài nước.
+
+*Hành động*
+
+- *Xúc tu (Tentacles).* Tung tấn công cận chiến: +5, tầm với 3 m (10 ft.). Trúng: 10 (2d6 + 3) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13) từ cả tám xúc tu. Trong khi Bị vật lộn, mục tiêu ở trạng thái Kiềm giữ.
+
+*Phản ứng*
+
+- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Bạch tuộc chịu sát thương trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 3 m (10 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. khối lập phương bị bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
+
+### Cú khổng lồ (Giant Owl)
+
+*Thiên thể cỡ Lớn, trung lập*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 19 (3d10 + 3)
+- **Tốc độ** 1,5 m (5 ft.), Bay 18 m (60 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 15 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 10 (+0, cứu nguy +0) · **WIS** 14 (+2, cứu nguy +4) · **CHA** 10 (+0, cứu nguy +0)
+- **Kỹ năng:** Tri giác +6, Lén lút +6
+- **Kháng:** hoại tử, quang
+- **Giác quan:** thị giác bóng tối 36 m (120 ft.); Tri giác thụ động 16
+- **Ngôn ngữ:** Thiên thể; hiểu tiếng Common, Elvish, và Sylvan nhưng không thể nói chúng
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Bay lướt (Flyby).* Cú không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Móng vuốt (Talons).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 7 (1d10 + 2) sát thương chém.
+- *Thi triển phép (Spellcasting).* Cú thi triển một trong các phép sau, không cần thành phần phép nào và dùng Minh triết làm thuộc tính thi triển phép:
+  - **Tùy ý:** *Phát hiện thiện ác* (Detect Evil and Good), *Phát hiện ma thuật* (Detect Magic)
+  - **1/Ngày:** *Thấu thị* (Clairvoyance)
+
+### Chuột khổng lồ (Giant Rat)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 7 (2d6)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 7 (−2, cứu nguy −2) · **DEX** 16 (+3, cứu nguy +5) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Chuột có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của chuột trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 feet). Trúng: 5 (1d4 + 3) sát thương xuyên.
+
+### Bọ cạp khổng lồ (Giant Scorpion)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 15 · **Sáng kiến** +1 (11)
+- **HP** 52 (7d10 + 14)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 13 (+1, cứu nguy +1) · **CON** 15 (+2, cứu nguy +2) · **INT** 1 (−5, cứu nguy −5) · **WIS** 9 (−1, cứu nguy −1) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** cảm nhận mù 18 m (60 ft.); Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 3 (XP 700; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Bọ cạp thực hiện hai đòn Vuốt và một đòn Chích.
+- *Vuốt (Claw).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13) từ một trong hai càng.
+- *Chích (Sting).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên cộng 11 (2d10) sát thương độc.
+
+### Cá ngựa khổng lồ (Giant Seahorse)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +1 (11)
+- **HP** 16 (3d10)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 12 m (40 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 12 (+1, cứu nguy +1) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Cá ngựa chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 9 (2d6 + 2) sát thương đập, hoặc 11 (2d8 + 2) sát thương đập nếu cá ngựa đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía mục tiêu ngay trước khi trúng.
+
+*Hành động phụ*
+
+- *Lao bong bóng (Bubble Dash).* Trong khi ở dưới nước, cá ngựa di chuyển tối đa một nửa Tốc độ bơi của nó mà không kích hoạt tấn công cơ hội.
+
+### Cá mập khổng lồ (Giant Shark)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 92 (8d12 + 40)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 18 m (60 ft.)
+- **STR** 23 (+6, cứu nguy +6) · **DEX** 11 (+0, cứu nguy +0) · **CON** 21 (+5, cứu nguy +5) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** cảm nhận mù 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 5 (XP 1.800; PB +3)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Cá mập chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Cá mập thực hiện hai đòn Cắn.
+- *Cắn (Bite).* Tung tấn công cận chiến: +9 (với lợi thế nếu mục tiêu không còn đầy đủ điểm sinh lực), tầm với 1,5 m (5 ft.). Trúng: 22 (3d10 + 6) sát thương xuyên.
+
+### Nhện khổng lồ (Giant Spider)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 14 (+2, cứu nguy +2) · **DEX** 16 (+3, cứu nguy +3) · **CON** 12 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +4, Lén lút +7
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+- *Đi trên mạng nhện (Web Walker).* Nhện bỏ qua các hạn chế di chuyển gây ra bởi mạng nhện, và nó biết vị trí của bất kỳ sinh vật nào khác đang tiếp xúc với cùng mạng nhện đó.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên cộng 7 (2d6) sát thương độc.
+- *Mạng nhện (Web; Hồi 5–6).* Cứu nguy Khéo léo: DC 13, một sinh vật nhện có thể thấy trong vòng 18 m (60 feet). Thất bại: Mục tiêu ở trạng thái Kiềm giữ cho đến khi mạng nhện bị phá hủy (AC 10; HP 5; dễ tổn thương với sát thương lửa; miễn nhiễm với độc và sát thương tâm linh).
+
+### Cóc khổng lồ (Giant Toad)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 39 (6d10 + 6)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 13 (+1, cứu nguy +1) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Lưỡng cư (Amphibious).* Cóc có thể thở trong không khí và nước.
+- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của cóc tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên cộng 5 (2d4) sát thương độc. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 12).
+- *Nuốt (Swallow).* Cóc nuốt một mục tiêu cỡ Trung bình trở xuống nó đang vật lộn. Trong khi bị nuốt, mục tiêu không còn Bị vật lộn nhưng ở trạng thái Mù và Kiềm giữ, và nó có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài cóc. Ngoài ra, mục tiêu chịu 10 (3d6) sát thương axit vào cuối mỗi lượt của cóc. Cóc chỉ có thể nuốt một mục tiêu tại một thời điểm, và nó không thể dùng Cắn trong khi nó có một mục tiêu bị nuốt. Nếu cóc chết, một sinh vật bị nuốt không còn Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 1,5 m (5 feet) lượng di chuyển, thoát ra với trạng thái Ngã sấp.
+
+### Rắn độc khổng lồ (Giant Venomous Snake)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +4 (14)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 12 m (40 ft.), Bơi 12 m (40 ft.)
+- **STR** 10 (+0, cứu nguy +0) · **DEX** 18 (+4, cứu nguy +4) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 6 (1d4 + 4) sát thương xuyên cộng 4 (1d8) sát thương độc.
+
+### Kền kền khổng lồ (Giant Vulture)
+
+*Quái thể cỡ Lớn, trung lập ác*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 25 (3d10 + 9)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 15 (+2, cứu nguy +2) · **DEX** 10 (+0, cứu nguy +0) · **CON** 16 (+3, cứu nguy +3) · **INT** 6 (−2, cứu nguy −2) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3
+- **Kháng:** hoại tử
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Hiểu tiếng Common nhưng không thể nói
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Kền kền có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của kền kền trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Khoét (Gouge).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 9 (2d6 + 2) sát thương xuyên, và mục tiêu ở trạng thái Trúng độc cho đến cuối lượt tiếp theo của nó.
+
+### Ong bắp cày khổng lồ (Giant Wasp)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +2 (12)
+- **HP** 22 (5d8)
+- **Tốc độ** 3 m (10 ft.), Bay 15 m (50 ft.)
+- **STR** 10 (+0, cứu nguy +0) · **DEX** 14 (+2, cứu nguy +2) · **CON** 10 (+0, cứu nguy +0) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Đặc điểm*
+
+- *Bay lướt (Flyby).* Ong bắp cày không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Chích (Sting).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên cộng 5 (2d4) sát thương độc.
+
+### Chồn khổng lồ (Giant Weasel)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 9 (2d8)
+- **Tốc độ** 12 m (40 ft.), Leo 9 m (30 ft.)
+- **STR** 11 (+0, cứu nguy +0) · **DEX** 17 (+3, cứu nguy +3) · **CON** 10 (+0, cứu nguy +0) · **INT** 4 (−3, cứu nguy −3) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Nhào lộn +5, Tri giác +3, Lén lút +5
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương xuyên.
+
+### Nhện sói khổng lồ (Giant Wolf Spider)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 12 m (40 ft.), Leo 12 m (40 ft.)
+- **STR** 12 (+1, cứu nguy +1) · **DEX** 16 (+3, cứu nguy +3) · **CON** 13 (+1, cứu nguy +1) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3, Lén lút +7
+- **Giác quan:** cảm nhận mù 3 m (10 ft.), thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương xuyên cộng 5 (2d4) sát thương độc.
+
+### Dê (Goat)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 4 (1d8)
+- **Tốc độ** 12 m (40 ft.), Leo 9 m (30 ft.)
+- **STR** 11 (+0, cứu nguy +2) · **DEX** 10 (+0, cứu nguy +0) · **CON** 11 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Húc (Ram).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương đập, hoặc 2 (1d4) sát thương đập nếu dê đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía mục tiêu ngay trước khi trúng.
+
+### Diều hâu (Hawk)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 5 (−3, cứu nguy −3) · **DEX** 16 (+3, cứu nguy +3) · **CON** 8 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +6
+- **Giác quan:** Tri giác thụ động 16
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Móng vuốt (Talons).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương chém.
+
+### Hà mã (Hippopotamus)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** −2 (8)
+- **HP** 82 (11d10 + 22)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 21 (+5, cứu nguy +7) · **DEX** 7 (−2, cứu nguy −2) · **CON** 15 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 4 (XP 1.100; PB +2)
+
+*Đặc điểm*
+
+- *Nín thở (Hold Breath).* Hà mã có thể nín thở trong 10 phút.
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Hà mã thực hiện hai đòn Cắn.
+- *Cắn (Bite).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 16 (2d10 + 5) sát thương xuyên.
+
+### Cá mập săn (Hunter Shark)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 12 m (40 ft.)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 14 (+2, cứu nguy +2) · **CON** 15 (+2, cứu nguy +2) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** cảm nhận mù 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Cá mập chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +6 (với lợi thế nếu mục tiêu không còn đầy đủ điểm sinh lực), tầm với 1,5 m (5 ft.). Trúng: 14 (3d6 + 4) sát thương xuyên.
+
+### Linh cẩu (Hyena)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 5 (1d8 + 1)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 11 (+0, cứu nguy +0) · **DEX** 13 (+1, cứu nguy +1) · **CON** 12 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Linh cẩu có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của linh cẩu trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 3 (1d6) sát thương xuyên.
+
+### Chó rừng (Jackal)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 3 (1d6)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 8 (−1, cứu nguy −1) · **DEX** 15 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5, Lén lút +4
+- **Giác quan:** thị giác bóng tối 27 m (90 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +1, tầm với 1,5 m (5 ft.). Trúng: 1 (1d4 − 1) sát thương xuyên.
+
+### Cá voi sát thủ (Killer Whale)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 90 (12d12 + 12)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 18 m (60 ft.)
+- **STR** 19 (+4, cứu nguy +4) · **DEX** 14 (+2, cứu nguy +2) · **CON** 13 (+1, cứu nguy +1) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3, Lén lút +4
+- **Giác quan:** cảm nhận mù 36 m (120 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 3 (XP 700; PB +2)
+
+*Đặc điểm*
+
+- *Nín thở (Hold Breath).* Cá voi có thể nín thở trong 30 phút.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 21 (5d6 + 4) sát thương xuyên.
+
+### Sư tử (Lion)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 22 (4d10)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 15 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 8 (−1, cứu nguy −1)
+- **Kỹ năng:** Tri giác +3, Lén lút +4
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Sư tử có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của sư tử trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+- *Nhảy đà (Running Leap).* Với một đà chạy 3 m (10 feet), sư tử có thể cú nhảy xa tối đa 7,5 m (25 feet).
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Sư tử thực hiện hai đòn Xé. Nó có thể thay một đòn tấn công bằng một lần dùng Gầm.
+- *Xé (Rend).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương chém.
+- *Gầm (Roar).* Cứu nguy Minh triết: DC 11, một sinh vật trong vòng 4,5 m (15 feet). Thất bại: Mục tiêu ở trạng thái Hoảng sợ cho đến khi bắt đầu lượt tiếp theo của sư tử.
+
+### Thằn lằn (Lizard)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 2 (1d4)
+- **Tốc độ** 6 m (20 ft.), Leo 6 m (20 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 11 (+0, cứu nguy +0) · **CON** 10 (+0, cứu nguy +0) · **INT** 1 (−5, cứu nguy −5) · **WIS** 8 (−1, cứu nguy −1) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Thằn lằn có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Voi ma mút (Mammoth)
+
+*Thú cỡ Khổng lồ, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +2 (12)
+- **HP** 126 (11d12 + 55)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 24 (+7, cứu nguy +10) · **DEX** 9 (−1, cứu nguy −1) · **CON** 21 (+5, cứu nguy +8) · **INT** 3 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 6 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 6 (XP 2.300; PB +3)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Voi ma mút thực hiện hai đòn Húc sừng.
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +10, tầm với 3 m (10 ft.). Trúng: 18 (2d10 + 7) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống và voi ma mút đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu ở trạng thái Ngã sấp.
+
+*Hành động phụ*
+
+- *Giẫm đạp (Trample).* Cứu nguy Khéo léo: DC 18, một sinh vật trong vòng 1,5 m (5 feet) ở trạng thái Ngã sấp. Thất bại: 29 (4d10 + 7) sát thương đập. Thành công: Một nửa sát thương.
+
+### Chó ngao (Mastiff)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 5 (1d8 + 1)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +3) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 4 (1d6 + 1) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.
+
+### La (Mule)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 14 (+2, cứu nguy +4) · **DEX** 10 (+0, cứu nguy +0) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Đặc điểm*
+
+- *Thú thồ (Beast of Burden).* La được tính lớn hơn một cấp kích thước cho mục đích xác định khả năng mang vác của nó.
+
+*Hành động*
+
+- *Móng guốc (Hooves).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương đập.
+
+### Bạch tuộc (Octopus)
+
+*Thú cỡ Nhỏ, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 3 (1d6)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 9 m (30 ft.)
+- **STR** 4 (−3, cứu nguy −3) · **DEX** 15 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2, Lén lút +6
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Nén mình (Compression).* Bạch tuộc có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
+- *Thở dưới nước (Water Breathing).* Bạch tuộc chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Xúc tu (Tentacles).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương đập.
+
+*Phản ứng*
+
+- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Một sinh vật kết thúc lượt của nó trong vòng 1,5 m (5 feet) của bạch tuộc trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 1,5 m (5 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. khối lập phương bị bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
+
+### Cú (Owl)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 1,5 m (5 ft.), Bay 18 m (60 ft.)
+- **STR** 3 (−4, cứu nguy −4) · **DEX** 13 (+1, cứu nguy +1) · **CON** 8 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5, Lén lút +5
+- **Giác quan:** thị giác bóng tối 36 m (120 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Bay lướt (Flyby).* Cú không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Móng vuốt (Talons).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương chém.
+
+### Báo (Panther)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 13 (3d8)
+- **Tốc độ** 15 m (50 ft.), Leo 12 m (40 ft.)
+- **STR** 14 (+2, cứu nguy +2) · **DEX** 16 (+3, cứu nguy +3) · **CON** 10 (+0, cứu nguy +0) · **INT** 3 (−4, cứu nguy −4) · **WIS** 14 (+2, cứu nguy +2) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +4, Lén lút +7
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Xé (Rend).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương chém.
+
+*Hành động phụ*
+
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Báo thực hiện hành động Rút lui hoặc Hide.
+
+### Cá piranha (Piranha)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 12 m (40 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 16 (+3, cứu nguy +3) · **CON** 9 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 2 (−4, cứu nguy −4)
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Cá piranha chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu không còn đầy đủ điểm sinh lực), tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Bò sát biển Plesiosaurus (Plesiosaurus)
+
+*Thú cỡ Lớn (khủng long), không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +2 (12)
+- **HP** 68 (8d10 + 24)
+- **Tốc độ** 6 m (20 ft.), Bơi 12 m (40 ft.)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 15 (+2, cứu nguy +2) · **CON** 16 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3, Lén lút +4
+- **Giác quan:** Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Đặc điểm*
+
+- *Nín thở (Hold Breath).* Plesiosaurus có thể nín thở trong 1 giờ.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 11 (2d6 + 4) sát thương xuyên.
+
+### Gấu Bắc Cực (Polar Bear)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 42 (5d10 + 15)
+- **Tốc độ** 12 m (40 ft.), Bơi 12 m (40 ft.)
+- **STR** 20 (+5, cứu nguy +5) · **DEX** 14 (+2, cứu nguy +2) · **CON** 16 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 13 (+1, cứu nguy +1) · **CHA** 7 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5, Lén lút +4
+- **Kháng:** lạnh
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Gấu thực hiện hai đòn Xé.
+- *Xé (Rend).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 9 (1d8 + 5) sát thương chém.
+
+### Ngựa nhỏ (Pony)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 15 (+2, cứu nguy +4) · **DEX** 10 (+0, cứu nguy +0) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 7 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Hành động*
+
+- *Móng guốc (Hooves).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương đập.
+
+### Thằn lằn bay Pteranodon (Pteranodon)
+
+*Thú cỡ Trung bình (khủng long), không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +2 (12)
+- **HP** 13 (3d8)
+- **Tốc độ** 3 m (10 ft.), Bay 18 m (60 ft.)
+- **STR** 12 (+1, cứu nguy +1) · **DEX** 15 (+2, cứu nguy +2) · **CON** 10 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 9 (−1, cứu nguy −1) · **CHA** 5 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +1
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Bay lướt (Flyby).* Pteranodon không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên.
+
+### Chuột (Rat)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 6 m (20 ft.), Leo 6 m (20 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 11 (+0, cứu nguy +0) · **CON** 9 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Nhanh nhẹn (Agile).* Chuột không kích hoạt một tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Quạ (Raven)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 2 (1d4)
+- **Tốc độ** 3 m (10 ft.), Bay 15 m (50 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 14 (+2, cứu nguy +2) · **CON** 10 (+0, cứu nguy +0) · **INT** 5 (−3, cứu nguy −3) · **WIS** 13 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Bắt chước (Mimicry).* Quạ có thể bắt chước những âm thanh đơn giản nó đã nghe, chẳng hạn tiếng thì thầm hoặc tiếng ríu rít. Người nghe có thể nhận ra những âm thanh đó là giả bằng một phép kiểm tra Minh triết (Thấu hiểu) DC 10 thành công.
+
+*Hành động*
+
+- *Mỏ (Beak).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Cá mập rạn (Reef Shark)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 22 (4d8 + 4)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 9 m (30 ft.)
+- **STR** 14 (+2, cứu nguy +2) · **DEX** 15 (+2, cứu nguy +2) · **CON** 13 (+1, cứu nguy +1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +2
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Cá mập có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của cá mập trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+- *Thở dưới nước (Water Breathing).* Cá mập chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 7 (2d4 + 2) sát thương xuyên.
+
+### Tê giác (Rhinoceros)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** −1 (9)
+- **HP** 45 (6d10 + 12)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 21 (+5, cứu nguy +5) · **DEX** 8 (−1, cứu nguy −1) · **CON** 15 (+2, cứu nguy +2) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Hành động*
+
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 14 (2d8 + 5) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và tê giác đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 9 (2d8) sát thương xuyên và ở trạng thái Ngã sấp.
+
+### Ngựa cưỡi (Riding Horse)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 13 (2d10 + 2)
+- **Tốc độ** 18 m (60 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 13 (+1, cứu nguy +1) · **CON** 12 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 7 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Hành động*
+
+- *Móng guốc (Hooves).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương đập.
+
+### Hổ răng kiếm (Saber-Toothed Tiger)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 52 (7d10 + 14)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 18 (+4, cứu nguy +6) · **DEX** 17 (+3, cứu nguy +5) · **CON** 15 (+2, cứu nguy +2) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 8 (−1, cứu nguy −1)
+- **Kỹ năng:** Tri giác +5, Lén lút +7
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Đặc điểm*
+
+- *Nhảy đà (Running Leap).* Với một đà chạy 3 m (10 feet), hổ răng kiếm có thể cú nhảy xa tối đa 7,5 m (25 feet).
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Hổ thực hiện hai đòn Xé.
+- *Xé (Rend).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 11 (2d6 + 4) sát thương chém.
+
+*Hành động phụ*
+
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Hide.
+
+### Bọ cạp (Scorpion)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +0 (10)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 3 m (10 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 11 (+0, cứu nguy +0) · **CON** 8 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 8 (−1, cứu nguy −1) · **CHA** 2 (−4, cứu nguy −4)
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 9
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Chích (Sting).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên cộng 3 (1d6) sát thương độc.
+
+### Cá ngựa (Seahorse)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +1 (11)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 6 m (20 ft.)
+- **STR** 1 (−5, cứu nguy −5) · **DEX** 12 (+1, cứu nguy +1) · **CON** 8 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 2 (−4, cứu nguy −4)
+- **Kỹ năng:** Tri giác +2, Lén lút +5
+- **Giác quan:** Tri giác thụ động 12
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 0; PB +2)
+
+*Đặc điểm*
+
+- *Thở dưới nước (Water Breathing).* Cá ngựa chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Lao bong bóng (Bubble Dash).* Trong khi ở dưới nước, cá ngựa di chuyển tối đa Tốc độ bơi của nó mà không kích hoạt tấn công cơ hội.
+
+### Nhện (Spider)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 6 m (20 ft.), Leo 6 m (20 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 14 (+2, cứu nguy +2) · **CON** 8 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 2 (−4, cứu nguy −4)
+- **Kỹ năng:** Lén lút +4
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Nhện có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+- *Đi trên mạng nhện (Web Walker).* Nhện bỏ qua các hạn chế di chuyển gây ra bởi mạng nhện, và nhện biết vị trí của bất kỳ sinh vật nào khác đang tiếp xúc với cùng mạng nhện đó.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên cộng 2 (1d4) sát thương độc.
+
+### Bầy dơi (Swarm of Bats)
+
+*Bầy cỡ Lớn gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 11 (2d10)
+- **Tốc độ** 1,5 m (5 ft.), Bay 9 m (30 ft.)
+- **STR** 5 (−3, cứu nguy −3) · **DEX** 15 (+2, cứu nguy +2) · **CON** 10 (+0, cứu nguy +0) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 4 (−3, cứu nguy −3)
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** cảm nhận mù 18 m (60 ft.); Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con dơi cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+
+*Hành động*
+
+- *Cắn (Bites).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (2d4) sát thương xuyên, hoặc 2 (1d4) sát thương xuyên nếu bầy Đẫm máu.
+
+### Bầy côn trùng (Swarm of Insects)
+
+*Bầy cỡ Trung bình gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 19 (3d8 + 6)
+- **Tốc độ** 6 m (20 ft.), Leo hoặc Bay 6 m (20 ft.) (tùy Quản trò chọn)
+- **STR** 3 (−4, cứu nguy −4) · **DEX** 13 (+1, cứu nguy +1) · **CON** 14 (+2, cứu nguy +2) · **INT** 1 (−5, cứu nguy −5) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 1 (−5, cứu nguy −5)
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Đặc điểm*
+
+- *Leo như nhện (Spider Climb).* Nếu bầy có Tốc độ leo, bầy có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một côn trùng cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+
+*Hành động*
+
+- *Cắn (Bites).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 6 (2d4 + 1) sát thương độc, hoặc 3 (1d4 + 1) sát thương độc nếu bầy Đẫm máu.
+
+### Bầy cá piranha (Swarm of Piranhas)
+
+*Bầy cỡ Trung bình gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 28 (8d8 − 8)
+- **Tốc độ** 1,5 m (5 ft.), Bơi 12 m (40 ft.)
+- **STR** 13 (+1, cứu nguy +1) · **DEX** 16 (+3, cứu nguy +3) · **CON** 9 (−1, cứu nguy −1) · **INT** 1 (−5, cứu nguy −5) · **WIS** 7 (−2, cứu nguy −2) · **CHA** 2 (−4, cứu nguy −4)
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 8
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Đặc điểm*
+
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con cá piranha cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Thở dưới nước (Water Breathing).* bầy chỉ có thể thở dưới nước.
+
+*Hành động*
+
+- *Cắn (Bites).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu không còn đầy đủ điểm sinh lực), tầm với 1,5 m (5 ft.). Trúng: 8 (2d4 + 3) sát thương xuyên, hoặc 5 (1d4 + 3) sát thương xuyên nếu bầy Đẫm máu.
+
+### Bầy chuột (Swarm of Rats)
+
+*Bầy cỡ Trung bình gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 14 (4d8 − 4)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 9 (−1, cứu nguy −1) · **DEX** 11 (+0, cứu nguy +2) · **CON** 9 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** thị giác bóng tối 9 m (30 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con chuột cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+
+*Hành động*
+
+- *Cắn (Bites).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 5 (2d4) sát thương xuyên, hoặc 2 (1d4) sát thương xuyên nếu bầy Đẫm máu.
+
+### Bầy quạ (Swarm of Ravens)
+
+*Bầy cỡ Trung bình gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 3 m (10 ft.), Bay 15 m (50 ft.)
+- **STR** 6 (−2, cứu nguy −2) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 5 (−3, cứu nguy −3) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con quạ cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+
+*Hành động*
+
+- *Mỏ (Beaks).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên, hoặc 2 (1d4) sát thương xuyên nếu bầy Đẫm máu.
+- *Tạp âm (Cacophony; Hồi 6).* Cứu nguy Minh triết: DC 10, một sinh vật trong không gian của bầy. Thất bại: Mục tiêu ở trạng thái Điếc cho đến khi bắt đầu lượt tiếp theo của bầy. Trong khi Điếc, mục tiêu cũng có bất lợi trên phép kiểm tra thuộc tính và lần tung tấn công.
+
+### Bầy rắn độc (Swarm of Venomous Snakes)
+
+*Bầy cỡ Trung bình gồm Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** +4 (14)
+- **HP** 36 (8d8)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 8 (−1, cứu nguy −1) · **DEX** 18 (+4, cứu nguy +4) · **CON** 11 (+0, cứu nguy +0) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Kháng:** đập, xuyên, chém
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Bị vật lộn, Tê liệt, Hóa đá, Ngã sấp, Kiềm giữ, Choáng
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 2 (XP 450; PB +2)
+
+*Đặc điểm*
+
+- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con rắn cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+
+*Hành động*
+
+- *Cắn (Bites).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 8 (1d8 + 4) sát thương xuyên — hoặc 6 (1d4 + 4) sát thương xuyên nếu bầy Đẫm máu — cộng 10 (3d6) sát thương độc.
+
+### Hổ (Tiger)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 30 (4d10 + 8)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 16 (+3, cứu nguy +3) · **CON** 14 (+2, cứu nguy +2) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 8 (−1, cứu nguy −1)
+- **Kỹ năng:** Tri giác +3, Lén lút +7
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 1 (XP 200; PB +2)
+
+*Hành động*
+
+- *Xé (Rend).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
+
+*Hành động phụ*
+
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Hide.
+
+### Khủng long ba sừng (Triceratops)
+
+*Thú cỡ Khổng lồ (khủng long), không khuynh hướng*
+
+- **AC** 14 · **Sáng kiến** −1 (9)
+- **HP** 114 (12d12 + 36)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 22 (+6, cứu nguy +6) · **DEX** 9 (−1, cứu nguy −1) · **CON** 17 (+3, cứu nguy +3) · **INT** 2 (−4, cứu nguy −4) · **WIS** 11 (+0, cứu nguy +0) · **CHA** 5 (−3, cứu nguy −3)
+- **Giác quan:** Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 5 (XP 1.800; PB +3)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Triceratops thực hiện hai đòn Húc sừng.
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +9, tầm với 1,5 m (5 ft.). Trúng: 19 (2d12 + 6) sát thương xuyên. Nếu mục tiêu cỡ Khổng lồ trở xuống và triceratops đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 9 (2d8) sát thương xuyên và ở trạng thái Ngã sấp.
+
+### Khủng long bạo chúa (Tyrannosaurus Rex)
+
+*Thú cỡ Khổng lồ (khủng long), không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 136 (13d12 + 52)
+- **Tốc độ** 15 m (50 ft.)
+- **STR** 25 (+7, cứu nguy +10) · **DEX** 10 (+0, cứu nguy +0) · **CON** 19 (+4, cứu nguy +4) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +4) · **CHA** 9 (−1, cứu nguy −1)
+- **Kỹ năng:** Tri giác +4
+- **Giác quan:** Tri giác thụ động 14
+- **Ngôn ngữ:** Không có
+- **CR** 8 (XP 3.900; PB +3)
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Tyrannosaurus thực hiện một đòn Cắn và một đòn Đuôi.
+- *Cắn (Bite).* Tung tấn công cận chiến: +10, tầm với 3 m (10 ft.). Trúng: 33 (4d12 + 7) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 17). Trong khi Bị vật lộn, mục tiêu ở trạng thái Kiềm giữ và không thể bị nhắm mục tiêu bởi Đuôi của tyrannosaurus.
+- *Đuôi (Tail).* Tung tấn công cận chiến: +10, tầm với 4,5 m (15 ft.). Trúng: 25 (4d8 + 7) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống, nó ở trạng thái Ngã sấp.
+
+### Rắn độc (Venomous Snake)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 5 (2d4)
+- **Tốc độ** 9 m (30 ft.), Bơi 9 m (30 ft.)
+- **STR** 2 (−4, cứu nguy −4) · **DEX** 15 (+2, cứu nguy +2) · **CON** 11 (+0, cứu nguy +0) · **INT** 1 (−5, cứu nguy −5) · **WIS** 10 (+0, cứu nguy +0) · **CHA** 3 (−4, cứu nguy −4)
+- **Giác quan:** cảm nhận mù 3 m (10 ft.); Tri giác thụ động 10
+- **Ngôn ngữ:** Không có
+- **CR** 1/8 (XP 25; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương xuyên cộng 3 (1d6) sát thương độc.
+
+### Kền kền (Vulture)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 10 · **Sáng kiến** +0 (10)
+- **HP** 5 (1d8 + 1)
+- **Tốc độ** 3 m (10 ft.), Bay 15 m (50 ft.)
+- **STR** 7 (−2, cứu nguy −2) · **DEX** 10 (+0, cứu nguy +0) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 4 (−3, cứu nguy −3)
+- **Kỹ năng:** Tri giác +3
+- **Giác quan:** Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Kền kền có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của kền kền trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Mỏ (Beak).* Tung tấn công cận chiến: +2, tầm với 1,5 m (5 ft.). Trúng: 2 (1d4) sát thương xuyên.
+
+### Chiến mã (Warhorse)
+
+*Thú cỡ Lớn, không khuynh hướng*
+
+- **AC** 11 · **Sáng kiến** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Tốc độ** 18 m (60 ft.)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 12 (+1, cứu nguy +1) · **CON** 13 (+1, cứu nguy +1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +3) · **CHA** 7 (−2, cứu nguy −2)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** Không có
+- **CR** 1/2 (XP 100; PB +2)
+
+*Hành động*
+
+- *Móng guốc (Hooves).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 9 (2d4 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và ngựa đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 5 (2d4) sát thương đập và ở trạng thái Ngã sấp.
+
+### Chồn (Weasel)
+
+*Thú cỡ Tí hon, không khuynh hướng*
+
+- **AC** 13 · **Sáng kiến** +3 (13)
+- **HP** 1 (1d4 − 1)
+- **Tốc độ** 9 m (30 ft.), Leo 9 m (30 ft.)
+- **STR** 3 (−4, cứu nguy −4) · **DEX** 16 (+3, cứu nguy +3) · **CON** 8 (−1, cứu nguy −1) · **INT** 2 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 3 (−4, cứu nguy −4)
+- **Kỹ năng:** Nhào lộn +5, Tri giác +3, Lén lút +5
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 13
+- **Ngôn ngữ:** Không có
+- **CR** 0 (XP 10; PB +2)
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 1 sát thương xuyên.
+
+### Sói (Wolf)
+
+*Thú cỡ Trung bình, không khuynh hướng*
+
+- **AC** 12 · **Sáng kiến** +2 (12)
+- **HP** 11 (2d8 + 2)
+- **Tốc độ** 12 m (40 ft.)
+- **STR** 14 (+2, cứu nguy +2) · **DEX** 15 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 3 (−4, cứu nguy −4) · **WIS** 12 (+1, cứu nguy +1) · **CHA** 6 (−2, cứu nguy −2)
+- **Kỹ năng:** Tri giác +5, Lén lút +4
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 15
+- **Ngôn ngữ:** Không có
+- **CR** 1/4 (XP 50; PB +2)
+
+*Đặc điểm*
+
+- *Chiến thuật bầy đàn (Pack Tactics).* Sói có lợi thế trên lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của sói trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+
+*Hành động*
+
+- *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.

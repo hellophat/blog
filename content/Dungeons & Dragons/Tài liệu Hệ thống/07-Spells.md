@@ -1,4608 +1,5341 @@
 ---
-title: Chương 7 - Spells (Phép Thuật)
+title: Chương 7 - Phép thuật
+description: Luật thi triển phép và mô tả toàn bộ phép thuật trong SRD 5.2.1, xếp theo thứ tự chữ cái tên tiếng Anh.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Spells (Phép Thuật)
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Spells".
 
-## Gaining Spells (Nhận Phép Thuật)
+## Có được phép (Gaining Spells)
 
-Trước khi thi triển một phép thuật (spell), bạn phải có phép thuật đó ở trạng thái đã chuẩn bị (prepared) trong tâm trí hoặc có quyền tiếp cận phép thuật đó từ một vật phẩm phép thuật (magic item), chẳng hạn một Cuộn Giấy Phép Thuật (Spell Scroll). Các đặc điểm lớp nhân vật (feature) của bạn quy định bạn có quyền tiếp cận những phép thuật nào, nếu có; liệu bạn có luôn chuẩn bị sẵn một số phép thuật nhất định hay không; và liệu bạn có thể thay đổi danh sách phép thuật đã chuẩn bị của mình hay không.
+Trước khi thi triển một phép, bạn phải chuẩn bị sẵn phép đó trong tâm trí hoặc tiếp cận được phép qua một vật phẩm ma thuật, chẳng hạn *Cuộn phép* (Spell Scroll). Các đặc tính của bạn quy định bạn tiếp cận được những phép nào (nếu có), có luôn chuẩn bị sẵn phép nào không, và có thể thay đổi danh sách phép đã chuẩn bị hay không.
 
-**Preparing Spells (Chuẩn Bị Phép Thuật)**
+**Chuẩn bị phép (Preparing Spells)**
 
-Nếu bạn có một danh sách phép thuật cấp độ 1 trở lên (level 1+) mà bạn chuẩn bị, đặc điểm thi triển phép thuật (spellcasting feature) của bạn quy định khi nào bạn có thể thay đổi danh sách đó và số lượng phép thuật bạn có thể thay đổi, như tóm tắt trong bảng **Spell Preparation by Class (Chuẩn Bị Phép Thuật theo Lớp Nhân Vật)**.
+Nếu bạn có danh sách phép bậc 1 trở lên để chuẩn bị, đặc tính thi triển phép quy định khi nào bạn được thay đổi danh sách và thay được bao nhiêu phép, như tóm tắt trong bảng **Chuẩn bị phép theo lớp**.
 
-| Class (Lớp nhân vật) | Change When … (Thay đổi khi …) | Number of Spells (Số lượng phép thuật) |
+**Chuẩn bị phép theo lớp (Spell Preparation by Class)**
+
+| Lớp nhân vật | Thay đổi khi… | Số phép |
 |---|---|---|
-| Bard | Lên cấp độ (Gain a level) | Một |
-| Cleric | Hoàn thành Nghỉ Dài (Long Rest) | Bất kỳ |
-| Druid | Hoàn thành Long Rest | Bất kỳ |
-| Paladin | Hoàn thành Long Rest | Một |
-| Ranger | Hoàn thành Long Rest | Một |
-| Sorcerer | Lên cấp độ | Một |
-| Warlock | Lên cấp độ | Một |
-| Wizard | Hoàn thành Long Rest | Bất kỳ |
+| Thi sĩ | Lên cấp | Một |
+| Giáo sĩ | Hoàn thành nghỉ dài | Bất kỳ |
+| Druid | Hoàn thành nghỉ dài | Bất kỳ |
+| Thánh kỵ sĩ | Hoàn thành nghỉ dài | Một |
+| Kiểm lâm | Hoàn thành nghỉ dài | Một |
+| Thuật sĩ | Lên cấp | Một |
+| Warlock | Lên cấp | Một |
+| Pháp sư | Hoàn thành nghỉ dài | Bất kỳ |
 
-Hầu hết các quái vật biết thi triển phép thuật không thay đổi danh sách phép thuật đã chuẩn bị của chúng, nhưng Người Dẫn Trò (Game Master, GM) có toàn quyền thay đổi chúng.
+Hầu hết quái vật biết thi triển phép không thay đổi danh sách phép đã chuẩn bị, nhưng Quản trò (GM) hoàn toàn có thể thay đổi.
 
-**Always-Prepared Spells (Phép Thuật Luôn Được Chuẩn Bị)**
+**Phép luôn được chuẩn bị (Always-Prepared Spells)**
 
-Một số đặc điểm nhất định có thể cho bạn một phép thuật mà bạn luôn có sẵn ở trạng thái đã chuẩn bị. Nếu bạn cũng có một danh sách phép thuật đã chuẩn bị mà bạn có thể thay đổi, một phép thuật bạn luôn chuẩn bị sẵn không tính vào số lượng phép thuật trong danh sách đó.
+Một số đặc tính cho bạn phép luôn được chuẩn bị sẵn. Nếu bạn cũng có danh sách phép chuẩn bị có thể thay đổi, phép luôn được chuẩn bị không tính vào số phép trong danh sách đó.
 
-## Casting Spells (Thi Triển Phép Thuật)
+## Thi triển phép (Casting Spells)
 
-Mỗi mô tả phép thuật có một loạt các mục cung cấp chi tiết cần thiết để thi triển phép thuật đó. Các phần sau giải thích từng mục đó, xuất hiện ngay sau tên của một phép thuật.
+Mỗi mô tả phép có một loạt mục cung cấp chi tiết cần thiết để thi triển. Các phần sau giải thích từng mục, vốn xuất hiện ngay sau tên phép.
 
-**Casting in Armor (Thi Triển Khi Mặc Giáp)**
+**Thi triển khi mặc giáp (Casting in Armor)**
 
-Bạn phải có sự huấn luyện (training) với bất kỳ loại giáp (armor) nào bạn đang mặc để thi triển phép thuật khi mặc nó. Nếu không, bạn bị giáp cản trở quá nhiều để có thể thi triển phép thuật.
+Bạn phải được huấn luyện với loại giáp đang mặc mới thi triển phép được khi mặc nó. Nếu không, giáp cản trở bạn quá nhiều để thi triển phép.
 
-### Spell Level (Cấp Độ Phép Thuật)
+### Bậc phép (Spell Level)
 
-Mỗi phép thuật có một cấp độ (level) từ 0 đến 9, được ghi trong mô tả của phép thuật. Cấp độ của một phép thuật là chỉ số cho biết nó mạnh đến mức nào. **Cantrip** (thuật ngữ chỉ phép thuật sơ cấp) — những phép thuật đơn giản có thể được thi triển gần như theo bản năng — có cấp độ 0. Luật của mỗi lớp nhân vật biết thi triển phép thuật quy định khi nào thành viên của lớp đó có quyền tiếp cận các phép thuật ở cấp độ nhất định.
+Mỗi phép có một bậc từ 0 đến 9, ghi trong mô tả phép. Bậc phép cho biết phép mạnh đến đâu. **Phép sơ cấp** (cantrip) — những phép đơn giản thi triển gần như theo bản năng — có bậc 0. Luật của mỗi lớp thi triển phép quy định khi nào thành viên của lớp tiếp cận được phép ở một bậc nhất định.
 
-### Spell Slots (Ô Phép Thuật)
+### Ô phép (Spell Slots)
 
-Việc thi triển phép thuật rất tốn sức, vì vậy một người thi triển phép thuật (spellcaster) chỉ có thể thi triển một số lượng hạn chế phép thuật cấp độ 1+ trước khi nghỉ ngơi. **Spell slot** (ô phép thuật) là cách chính để thể hiện tiềm năng phép thuật của một spellcaster. Mỗi lớp nhân vật biết thi triển phép thuật cho thành viên của mình một số lượng ô phép thuật hạn chế ở các cấp độ nhất định. Ví dụ, một Wizard cấp độ 3 có bốn ô phép thuật cấp độ 1 và hai ô cấp độ 2.
+Thi triển phép rất hao sức, nên người thi triển phép chỉ thi triển được một số lượng hạn chế phép bậc 1 trở lên trước khi nghỉ. **Ô phép** là cách chính thể hiện tiềm lực ma thuật của người thi triển phép. Mỗi lớp thi triển phép cho thành viên một số ô phép giới hạn ở những bậc nhất định. Ví dụ, Pháp sư cấp 3 có bốn ô phép bậc 1 và hai ô bậc 2.
 
-Khi thi triển một phép thuật, bạn dùng hết (expend) một ô ở cấp độ của phép thuật đó hoặc cao hơn, coi như "lấp đầy" ô đó bằng phép thuật. Hãy tưởng tượng một ô phép thuật là một rãnh có kích thước nhất định — nhỏ cho một ô cấp độ 1 và lớn hơn cho một phép thuật cấp độ cao hơn. Một phép thuật cấp độ 1 vừa với một ô ở bất kỳ kích thước nào, nhưng một phép thuật cấp độ 2 chỉ vừa với một ô ít nhất là cấp độ 2. Vì vậy khi một Wizard cấp độ 3 thi triển Magic Missile (Phi Tiêu Phép Thuật), một phép thuật cấp độ 1, Wizard đó dùng một trong bốn ô cấp độ 1 và còn lại ba ô.
+Khi thi triển phép, bạn tiêu một ô có bậc bằng hoặc cao hơn bậc của phép, như thể "lấp đầy" ô đó bằng phép. Hãy hình dung ô phép như một khe có kích cỡ nhất định — nhỏ với ô bậc 1, lớn hơn với ô bậc cao. Phép bậc 1 vừa với ô cỡ nào cũng được, nhưng phép bậc 2 chỉ vừa với ô ít nhất bậc 2. Vì vậy, khi Pháp sư cấp 3 thi triển *Phi tiêu ma thuật* (Magic Missile), một phép bậc 1, Pháp sư tiêu một trong bốn ô bậc 1 và còn lại ba ô.
 
-Hoàn thành một Long Rest sẽ phục hồi bất kỳ ô phép thuật nào đã dùng hết.
+Hoàn thành nghỉ dài hồi mọi ô phép đã tiêu.
 
-**Casting without Slots (Thi Triển Không Cần Ô)**
+**Thi triển không cần ô phép (Casting without Slots)**
 
-Có một số cách để thi triển một phép thuật mà không cần dùng hết một ô phép thuật:
+Có vài cách thi triển phép mà không tiêu ô phép:
 
-- **Cantrips.** Một cantrip được thi triển mà không cần ô phép thuật.
-- **Rituals (Nghi Lễ).** Một số phép thuật nhất định có nhãn Ritual trong mục Casting Time (Thời Gian Thi Triển). Một phép thuật như vậy có thể được thi triển theo luật thi triển phép thuật thông thường, hoặc nó có thể được thi triển như một Ritual. Phiên bản Ritual của một phép thuật tốn thêm 10 phút để thi triển so với bình thường, nhưng nó không dùng hết một ô phép thuật. Để thi triển một phép thuật như một Ritual, một spellcaster phải có phép thuật đó ở trạng thái đã chuẩn bị.
-- **Special Abilities (Khả Năng Đặc Biệt).** Một số nhân vật và quái vật có khả năng đặc biệt cho phép họ thi triển các phép thuật cụ thể mà không cần ô phép thuật. Việc thi triển này thường bị giới hạn theo cách khác, chẳng hạn chỉ có thể thi triển phép thuật một số lần giới hạn mỗi ngày.
-- **Magic Items (Vật Phẩm Phép Thuật).** Spell Scroll và một số vật phẩm phép thuật khác chứa các phép thuật có thể được thi triển mà không cần ô phép thuật. Mô tả của một vật phẩm như vậy quy định số lần một phép thuật có thể được thi triển từ nó.
+- **Phép sơ cấp (Cantrips).** Phép sơ cấp được thi triển mà không cần ô phép.
+- **Nghi thức (Rituals).** Một số phép có nhãn Nghi thức trong mục Thời gian thi triển. Phép như vậy có thể thi triển theo luật thông thường, hoặc thi triển như Nghi thức. Phiên bản Nghi thức tốn thêm 10 phút so với bình thường nhưng không tiêu ô phép. Để thi triển phép như Nghi thức, người thi triển phải chuẩn bị sẵn phép đó.
+- **Khả năng đặc biệt (Special Abilities).** Một số nhân vật và quái vật có khả năng đặc biệt cho phép thi triển những phép cụ thể mà không cần ô phép. Việc này thường bị giới hạn theo cách khác, chẳng hạn chỉ được dùng vài lần mỗi ngày.
+- **Vật phẩm ma thuật (Magic Items).** Cuộn phép và một số vật phẩm ma thuật khác chứa phép có thể thi triển mà không cần ô phép. Mô tả vật phẩm quy định số lần thi triển được.
 
-**Using a Higher-Level Spell Slot (Dùng Ô Phép Thuật Cấp Độ Cao Hơn)**
+**Dùng ô phép bậc cao hơn (Using a Higher-Level Spell Slot)**
 
-Khi một spellcaster thi triển một phép thuật bằng một ô có cấp độ cao hơn cấp độ của phép thuật đó, phép thuật đó mang cấp độ cao hơn cho lần thi triển đó. Ví dụ, nếu một Wizard thi triển Magic Missile bằng một ô cấp độ 2, Magic Missile đó là cấp độ 2. Về cơ bản, phép thuật mở rộng để lấp đầy ô mà nó được đặt vào.
+Khi người thi triển dùng ô có bậc cao hơn bậc của phép, phép mang bậc cao hơn đó trong lần thi triển này. Ví dụ, nếu Pháp sư thi triển *Phi tiêu ma thuật* bằng ô bậc 2, phép đó là phép bậc 2. Về bản chất, phép nở ra để lấp đầy ô chứa nó.
 
-Một số phép thuật, chẳng hạn Magic Missile và Cure Wounds (Chữa Thương), có hiệu ứng mạnh hơn khi được thi triển ở cấp độ cao hơn, như trình bày chi tiết trong mô tả của phép thuật đó.
+Một số phép, như *Phi tiêu ma thuật* và *Chữa vết thương* (Cure Wounds), có hiệu ứng mạnh hơn khi thi triển ở bậc cao hơn, như ghi trong mô tả phép.
 
-### School of Magic (Trường Phái Phép Thuật)
+### Trường phái ma thuật (School of Magic)
 
-Mỗi phép thuật thuộc về một trường phái phép thuật (school of magic). Các trường phái được liệt kê trong bảng **Schools of Magic**. Các danh mục này giúp mô tả phép thuật nhưng không có luật riêng, mặc dù một số luật khác có tham chiếu đến chúng.
+Mỗi phép thuộc một trường phái ma thuật. Các trường phái được liệt kê trong bảng **Trường phái ma thuật**. Các nhóm này giúp mô tả phép nhưng không có luật riêng, dù một số luật khác nhắc đến chúng.
 
-| School (Trường phái) | Typical Effects (Hiệu ứng điển hình) |
+**Trường phái ma thuật (Schools of Magic)**
+
+| Trường phái | Hiệu ứng điển hình |
 |---|---|
-| Abjuration (Hộ Pháp) | Ngăn chặn hoặc đảo ngược các hiệu ứng có hại |
-| Conjuration (Triệu Hồi) | Vận chuyển creature hoặc object |
-| Divination (Chiêm Bốc) | Tiết lộ thông tin |
-| Enchantment (Mê Hoặc) | Ảnh hưởng tâm trí |
-| Evocation (Triệu Hoán/Cụ Tượng) | Khơi dòng năng lượng để tạo hiệu ứng thường mang tính hủy diệt |
-| Illusion (Ảo Thuật) | Đánh lừa tâm trí hoặc giác quan |
-| Necromancy (Hắc Ám Thuật) | Điều khiển sự sống và cái chết |
-| Transmutation (Biến Hóa) | Biến đổi creature hoặc object |
+| Phòng hộ (Abjuration) | Ngăn chặn hoặc hóa giải hiệu ứng có hại |
+| Triệu hồi (Conjuration) | Vận chuyển sinh vật hoặc đồ vật |
+| Tiên tri (Divination) | Hé lộ thông tin |
+| Yểm thuật (Enchantment) | Tác động lên tâm trí |
+| Gọi năng lượng (Evocation) | Khơi dòng năng lượng tạo hiệu ứng thường mang tính hủy diệt |
+| Ảo ảnh (Illusion) | Đánh lừa tâm trí hoặc giác quan |
+| Tử linh (Necromancy) | Thao túng sự sống và cái chết |
+| Biến đổi (Transmutation) | Biến đổi sinh vật hoặc đồ vật |
 
-**Class Spell Lists (Danh Sách Phép Thuật theo Lớp)**
+**Danh sách phép của lớp (Class Spell Lists)**
 
-Nếu một phép thuật nằm trong spell list của một lớp nhân vật, tên của lớp đó xuất hiện trong ngoặc đơn sau trường phái phép thuật của phép thuật đó. Một số đặc điểm thêm một phép thuật vào spell list của nhân vật ngay cả khi nhân vật đó không phải là thành viên của lớp được ghi trong ngoặc.
+Nếu phép thuộc danh sách phép của một lớp nhân vật, tên lớp đó xuất hiện trong ngoặc sau trường phái của phép. Một số đặc tính thêm phép vào danh sách phép của nhân vật dù nhân vật không thuộc lớp ghi trong ngoặc.
 
-### Casting Time (Thời Gian Thi Triển)
+### Thời gian thi triển (Casting Time)
 
-Hầu hết các phép thuật yêu cầu Magic action để thi triển, nhưng một số phép thuật yêu cầu một Bonus Action, một Reaction, hoặc 1 phút trở lên. Mục Casting Time của một phép thuật quy định loại nào trong số đó được yêu cầu.
+Hầu hết phép cần hành động Ma thuật để thi triển, nhưng một số cần hành động phụ, phản ứng, hoặc từ 1 phút trở lên. Mục Thời gian thi triển cho biết phép cần loại nào.
 
-**One Spell with a Spell Slot per Turn (Một Phép Thuật Dùng Ô mỗi Turn)**
+**Mỗi lượt một phép dùng ô phép (One Spell with a Spell Slot per Turn)**
 
-Trong một turn, bạn chỉ có thể dùng hết một ô phép thuật để thi triển một phép thuật. Quy tắc này có nghĩa là bạn không thể, ví dụ, thi triển một phép thuật bằng một ô phép thuật dùng Magic action và một phép thuật khác dùng một Bonus Action trong cùng turn.
+Mỗi lượt bạn chỉ được tiêu một ô phép để thi triển phép. Nghĩa là, chẳng hạn, bạn không thể thi triển một phép dùng ô phép bằng hành động Ma thuật và một phép khác dùng ô phép bằng hành động phụ trong cùng lượt.
 
-**Reaction and Bonus Action Triggers (Điều Kiện Kích Hoạt cho Reaction và Bonus Action)**
+**Tác nhân kích hoạt phản ứng và hành động phụ (Reaction and Bonus Action Triggers)**
 
-Một phép thuật có thời gian thi triển là một Reaction được thi triển để phản ứng lại một điều kiện kích hoạt (trigger) được định nghĩa trong mục Casting Time của phép thuật đó. Một số phép thuật có thời gian thi triển là một Bonus Action cũng được thi triển để phản ứng lại một trigger được định nghĩa trong phép thuật.
+Phép có thời gian thi triển là phản ứng được thi triển để đáp lại tác nhân kích hoạt ghi trong mục Thời gian thi triển. Một số phép có thời gian thi triển là hành động phụ cũng được thi triển để đáp lại tác nhân kích hoạt ghi trong phép.
 
-**Longer Casting Times (Thời Gian Thi Triển Dài Hơn)**
+**Thời gian thi triển dài (Longer Casting Times)**
 
-Một số phép thuật nhất định — bao gồm một phép thuật được thi triển như một Ritual — cần nhiều thời gian hơn để thi triển: vài phút hoặc thậm chí vài giờ. Trong khi thi triển một phép thuật có thời gian thi triển từ 1 phút trở lên, bạn phải thực hiện Magic action trong mỗi turn của mình, và bạn phải duy trì Concentration (Tập Trung) (xem "Rules Glossary") trong khi làm vậy. Nếu Concentration của bạn bị phá vỡ, phép thuật thất bại, nhưng bạn không dùng hết một ô phép thuật. Để thi triển lại phép thuật đó, bạn phải bắt đầu lại từ đầu.
+Một số phép — kể cả phép thi triển như Nghi thức — cần nhiều thời gian hơn: vài phút hoặc thậm chí vài giờ. Khi thi triển phép có thời gian từ 1 phút trở lên, bạn phải dùng hành động Ma thuật mỗi lượt và duy trì Tập trung (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) trong suốt thời gian đó. Nếu Tập trung bị phá vỡ, phép thất bại nhưng bạn không mất ô phép. Muốn thi triển lại, bạn phải bắt đầu từ đầu.
 
-### Range (Tầm Đánh)
+### Tầm (Range)
 
-Tầm đánh (range) của một phép thuật cho biết hiệu ứng của phép thuật có thể xuất phát cách xa spellcaster bao nhiêu, và mô tả của phép thuật quy định phần nào của hiệu ứng bị giới hạn bởi tầm đánh đó.
+Tầm của phép cho biết hiệu ứng có thể xuất phát cách người thi triển bao xa, và mô tả phép cho biết phần nào của hiệu ứng bị giới hạn bởi tầm.
 
-Một tầm đánh thường có một trong các dạng sau:
+Tầm thường có một trong các dạng sau:
 
-- **Distance (Khoảng Cách).** Tầm đánh được thể hiện bằng feet.
-- **Touch (Chạm).** Hiệu ứng của phép thuật xuất phát từ thứ gì đó, được xác định bởi phép thuật, mà spellcaster phải chạm vào trong tầm với của họ.
-- **Self (Bản Thân).** Phép thuật được thi triển lên spellcaster hoặc tỏa ra từ họ, như được quy định trong phép thuật.
+- **Khoảng cách (Distance).** Tầm được ghi bằng đơn vị độ dài; bản dịch ghi mét trước, feet gốc trong ngoặc.
+- **Chạm (Touch).** Hiệu ứng xuất phát từ thứ mà người thi triển phải chạm vào trong tầm với, do phép xác định.
+- **Bản thân (Self).** Phép được thi triển lên người thi triển hoặc tỏa ra từ người đó, như phép quy định.
 
-Nếu một phép thuật có hiệu ứng có thể di chuyển, chúng không bị giới hạn bởi tầm đánh của nó trừ khi mô tả của phép thuật nói khác.
+Nếu phép có hiệu ứng di chuyển được, hiệu ứng đó không bị giới hạn bởi tầm, trừ khi mô tả phép nói khác.
 
-### Components (Thành Phần)
+### Thành phần (Components)
 
-Thành phần (component) của một phép thuật là các yêu cầu vật lý mà spellcaster phải đáp ứng để thi triển phép thuật. Mô tả của mỗi phép thuật cho biết nó có yêu cầu thành phần Verbal (V — Lời Nói), Somatic (S — Cử Chỉ), hoặc Material (M — Vật Chất) hay không. Nếu spellcaster không thể cung cấp một hoặc nhiều thành phần của một phép thuật, spellcaster đó không thể thi triển phép thuật.
+Thành phần của phép là những yêu cầu vật lý mà người thi triển phải đáp ứng. Mô tả mỗi phép cho biết phép cần thành phần lời nói (V, Verbal), cử chỉ (S, Somatic) hay vật chất (M, Material). Nếu không đáp ứng được một hoặc nhiều thành phần, người thi triển không thể thi triển phép.
 
-- **Verbal (V).** Một thành phần Verbal là việc tụng niệm những từ ngữ bí truyền nghe như vô nghĩa đối với người chưa được khai tâm. Các từ đó phải được thốt ra bằng giọng nói bình thường. Bản thân các từ không phải là nguồn sức mạnh của phép thuật; thay vào đó, sự kết hợp cụ thể của âm thanh, với cao độ và cộng hưởng riêng biệt, khơi động các sợi dây phép thuật. Do đó, một creature bị bịt miệng hoặc trong một khu vực im lặng phép thuật không thể thi triển một phép thuật có thành phần Verbal.
-- **Somatic (S).** Một thành phần Somatic là một cử chỉ mạnh mẽ hoặc một chuỗi động tác phức tạp. Spellcaster phải dùng ít nhất một tay để thực hiện các động tác này.
-- **Material (M).** Một thành phần Material là một vật liệu cụ thể được dùng khi thi triển một phép thuật, như được quy định trong ngoặc đơn ở mục Components. Các vật liệu này không bị tiêu thụ bởi phép thuật trừ khi mô tả của phép thuật nói khác. Spellcaster phải có một tay rảnh để lấy chúng, nhưng đó có thể là cùng bàn tay dùng để thực hiện các thành phần Somatic, nếu có.
+- **Lời nói (Verbal, V).** Thành phần lời nói là việc xướng những từ ngữ huyền bí, nghe vô nghĩa với người chưa được khai tâm. Các từ phải được nói bằng giọng bình thường. Bản thân từ ngữ không phải nguồn sức mạnh của phép; chính tổ hợp âm thanh với cao độ và độ vang riêng mới khuấy động các sợi ma thuật. Vì vậy, sinh vật bị bịt miệng hoặc ở trong vùng im lặng ma thuật không thể thi triển phép có thành phần lời nói.
+- **Cử chỉ (Somatic, S).** Thành phần cử chỉ là một động tác mạnh mẽ hoặc chuỗi cử chỉ phức tạp. Người thi triển phải dùng ít nhất một tay để thực hiện.
+- **Vật chất (Material, M).** Thành phần vật chất là vật liệu cụ thể dùng khi thi triển, ghi trong ngoặc ở mục Thành phần. Vật liệu không bị tiêu hao trừ khi mô tả phép nói khác. Người thi triển cần một tay rảnh để lấy vật liệu, nhưng có thể là chính bàn tay thực hiện thành phần cử chỉ (nếu có).
 
-Nếu một phép thuật không tiêu thụ vật liệu của nó và không quy định chi phí cho chúng, một spellcaster có thể dùng một Component Pouch (Túi Đựng Thành Phần) (xem "Equipment") thay vì cung cấp các vật liệu được quy định trong phép thuật, hoặc spellcaster có thể thay thế bằng một Spellcasting Focus (Vật Dẫn Phép Thuật) nếu người thi triển có một đặc điểm cho phép thay thế đó. Để dùng một Component Pouch, bạn phải có một tay rảnh để thò vào đó, và để dùng một Spellcasting Focus, bạn phải cầm nó trừ khi mô tả của nó nói khác (xem "Equipment" để biết mô tả).
+Nếu phép không tiêu hao vật liệu và không ghi giá tiền cho chúng, người thi triển có thể dùng Túi thành phần (Component Pouch, xem [Trang bị](06-Equipment.md)) thay cho vật liệu ghi trong phép, hoặc dùng tiêu điểm thi triển phép nếu có đặc tính cho phép thay thế như vậy. Để dùng Túi thành phần, bạn cần một tay rảnh để lấy đồ; để dùng tiêu điểm thi triển phép, bạn phải cầm nó trừ khi mô tả của nó nói khác (xem [Trang bị](06-Equipment.md)).
 
-### Duration (Thời Lượng)
+### Thời lượng (Duration)
 
-Thời lượng (duration) của một phép thuật là khoảng thời gian phép thuật tồn tại sau khi được thi triển. Một duration thường có một trong các dạng sau:
+Thời lượng của phép là khoảng thời gian phép tồn tại sau khi thi triển. Thời lượng thường có một trong các dạng sau:
 
-- **Concentration.** Một duration yêu cầu Concentration tuân theo luật Concentration (xem "Rules Glossary").
-- **Instantaneous (Tức Thời).** Một duration tức thời nghĩa là phép thuật của phép thuật đó chỉ xuất hiện trong chốc lát rồi biến mất.
-- **Time Span (Khoảng Thời Gian).** Một duration cung cấp một khoảng thời gian quy định phép thuật kéo dài bao lâu tính bằng round, phút, giờ, v.v. Ví dụ, một mục Duration có thể ghi "1 phút," nghĩa là phép thuật kết thúc sau khi 1 phút trôi qua. Trong khi một phép thuật có khoảng thời gian mà bạn thi triển đang diễn ra, bạn có thể loại bỏ nó (không cần action) nếu bạn không có condition Incapacitated.
+- **Tập trung (Concentration).** Thời lượng cần Tập trung tuân theo luật Tập trung (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)).
+- **Tức thời (Instantaneous).** Ma thuật của phép chỉ hiện ra trong khoảnh khắc rồi tan biến.
+- **Khoảng thời gian (Time Span).** Thời lượng ghi rõ phép kéo dài bao lâu theo vòng, phút, giờ, v.v. Ví dụ, mục Thời lượng ghi "1 phút" nghĩa là phép kết thúc sau 1 phút. Khi một phép có khoảng thời gian do bạn thi triển đang duy trì, bạn có thể hủy nó (không cần hành động) nếu không ở trạng thái Mất năng lực hành động.
 
-### Effects (Hiệu Ứng)
+### Hiệu ứng (Effects)
 
-Hiệu ứng của một phép thuật được trình bày chi tiết sau mục duration của nó. Những chi tiết đó trình bày chính xác những gì phép thuật làm, điều này bỏ qua các quy luật vật lý thông thường; bất kỳ kết quả nào ngoài các hiệu ứng đó thuộc thẩm quyền của GM. Dù hiệu ứng là gì, chúng thường liên quan đến mục tiêu (target), saving throw, attack roll, hoặc cả ba, mỗi loại được trình bày chi tiết dưới đây.
+Hiệu ứng của phép được trình bày sau mục thời lượng. Các chi tiết đó cho biết chính xác phép làm gì, bỏ qua các quy luật vật lý thông thường; mọi kết quả ngoài các hiệu ứng đó do GM quyết định. Dù hiệu ứng là gì, chúng thường liên quan đến mục tiêu, lần cứu nguy, lần tung tấn công, hoặc cả ba, được trình bày dưới đây.
 
-**Targets (Mục Tiêu)**
+**Mục tiêu (Targets)**
 
-Một phép thuật điển hình yêu cầu người thi triển chọn một hoặc nhiều mục tiêu để chịu ảnh hưởng bởi phép thuật của nó. Mô tả của một phép thuật cho biết liệu phép thuật đó nhắm vào creature, object, hay thứ gì khác.
+Phép thông thường yêu cầu người thi triển chọn một hoặc nhiều mục tiêu chịu ảnh hưởng. Mô tả phép cho biết phép nhắm vào sinh vật, đồ vật hay thứ khác.
 
-- **A Clear Path to the Target.** Để nhắm mục tiêu vào thứ gì đó bằng một phép thuật, người thi triển phải có một đường đi rõ ràng đến nó, vì vậy nó không thể ở sau Total Cover.
-- **Targeting Yourself.** Nếu một phép thuật nhắm vào một creature theo lựa chọn của bạn, bạn có thể chọn chính mình trừ khi creature đó phải Hostile hoặc cụ thể là một creature khác ngoài bạn.
-- **Area of Effect (Khu Vực Hiệu Ứng).** Một số phép thuật, chẳng hạn Fireball (Cầu Lửa), bao phủ một khu vực gọi là khu vực hiệu ứng (area of effect), được định nghĩa trong "Rules Glossary." Khu vực đó xác định phép thuật nhắm vào gì. Mô tả của một phép thuật quy định liệu nó có khu vực hiệu ứng hay không, thường là một trong các hình dạng sau: Cone (Hình Nón), Cube (Hình Khối), Cylinder (Hình Trụ), Emanation (Vùng Tỏa), Line (Đường Thẳng), hoặc Sphere (Hình Cầu).
-- **Awareness of Being Targeted.** Trừ khi một phép thuật có hiệu ứng có thể cảm nhận được, một creature không biết mình đã bị nhắm mục tiêu bởi phép thuật đó. Một hiệu ứng như sét đánh là rõ ràng, nhưng một hiệu ứng tinh vi hơn, chẳng hạn một nỗ lực đọc suy nghĩ của mục tiêu, không bị chú ý trừ khi mô tả của phép thuật nói khác.
-- **Invalid Targets.** Nếu bạn thi triển một phép thuật lên ai đó hoặc thứ gì đó không thể bị ảnh hưởng bởi nó, không có gì xảy ra với mục tiêu đó, nhưng nếu bạn dùng một ô phép thuật để thi triển phép thuật, ô đó vẫn bị dùng hết. Nếu phép thuật thường không có hiệu ứng lên một mục tiêu thành công trong saving throw, mục tiêu không hợp lệ đó có vẻ như đã thành công trong saving throw của nó, dù nó không thực sự thực hiện một saving throw (không cho thấy dấu hiệu rằng creature đó là một mục tiêu không hợp lệ). Ngược lại, bạn cảm nhận rằng phép thuật không làm gì với mục tiêu.
+- **Đường thông đến mục tiêu (A Clear Path to the Target).** Để nhắm vào thứ gì bằng phép, người thi triển phải có đường thông đến nó, nên mục tiêu không được ở sau vật che chắn toàn phần.
+- **Nhắm vào chính mình (Targeting Yourself).** Nếu phép nhắm vào một sinh vật tùy chọn, bạn có thể chọn chính mình, trừ khi sinh vật đó phải Thù địch hoặc phải là sinh vật khác ngoài bạn.
+- **Vùng hiệu ứng (Area of Effect).** Một số phép, như *Quả cầu lửa* (Fireball), bao phủ một khu vực gọi là vùng hiệu ứng, định nghĩa trong [Bảng thuật ngữ luật](08-Rules-Glossary.md). Vùng này quyết định phép ảnh hưởng đến những gì. Mô tả phép cho biết phép có vùng hiệu ứng không, thường là một trong các hình dạng: hình nón (Cone), khối lập phương (Cube), hình trụ (Cylinder), vùng tỏa (Emanation), đường thẳng (Line) hoặc hình cầu (Sphere).
+- **Nhận biết bị nhắm (Awareness of Being Targeted).** Trừ khi phép có hiệu ứng cảm nhận được, sinh vật không biết mình bị phép nhắm vào. Hiệu ứng như tia sét thì hiển nhiên, nhưng hiệu ứng tinh vi hơn như cố đọc suy nghĩ của mục tiêu thì không bị phát hiện, trừ khi mô tả phép nói khác.
+- **Mục tiêu không hợp lệ (Invalid Targets).** Nếu bạn thi triển phép lên người hay vật không thể bị phép ảnh hưởng, mục tiêu không chịu gì, nhưng nếu bạn đã dùng ô phép, ô vẫn bị tiêu. Nếu phép thường không có tác dụng với mục tiêu cứu nguy thành công, mục tiêu không hợp lệ trông như đã cứu nguy thành công dù thực ra không cứu nguy (không để lộ rằng nó là mục tiêu không hợp lệ). Nếu không, bạn cảm nhận được rằng phép không tác động gì lên mục tiêu.
 
-**Saving Throws**
+**Lần cứu nguy (Saving Throws)**
 
-Nhiều phép thuật quy định rằng một mục tiêu thực hiện một saving throw để tránh một phần hoặc toàn bộ hiệu ứng của một phép thuật. Phép thuật quy định ability mà mục tiêu dùng cho save đó và điều gì xảy ra khi thành công hay thất bại.
+Nhiều phép quy định mục tiêu cứu nguy để tránh một phần hoặc toàn bộ hiệu ứng. Phép quy định thuộc tính dùng để cứu nguy và điều gì xảy ra khi thành công hay thất bại.
 
-Đây là cách tính DC cho phép thuật của bạn:
+Cách tính DC cho phép của bạn:
 
-**Spell save DC = 8 + spellcasting ability modifier của bạn + Proficiency Bonus của bạn**
+**DC cứu nguy phép = 8 + hệ số thuộc tính thi triển phép + thưởng thành thạo**
 
-**Attack Rolls**
+**Lần tung tấn công (Attack Rolls)**
 
-Một số phép thuật yêu cầu người thi triển thực hiện một attack roll để xác định liệu phép thuật có trúng mục tiêu hay không. Đây là cách tính attack modifier cho phép thuật của bạn:
+Một số phép yêu cầu người thi triển tung tấn công để xác định phép có trúng mục tiêu không. Cách tính hệ số tấn công bằng phép của bạn:
 
-**Spell attack modifier = spellcasting ability modifier của bạn + Proficiency Bonus của bạn**
+**Hệ số tấn công bằng phép = hệ số thuộc tính thi triển phép + thưởng thành thạo**
 
-### Combining Spell Effects (Kết Hợp Hiệu Ứng Phép Thuật)
+### Kết hợp hiệu ứng phép (Combining Spell Effects)
 
-Hiệu ứng của các phép thuật khác nhau cộng dồn với nhau trong khi thời lượng của chúng chồng lấp. Ngược lại, hiệu ứng của cùng một phép thuật được thi triển nhiều lần không cộng dồn. Thay vào đó, hiệu ứng mạnh nhất — chẳng hạn bonus cao nhất — từ những lần thi triển đó áp dụng trong khi thời lượng của chúng chồng lấp. Hiệu ứng gần nhất áp dụng nếu các lần thi triển có sức mạnh ngang nhau và thời lượng của chúng chồng lấp. Ví dụ, nếu hai Cleric thi triển Bless (Ban Phước) lên cùng một mục tiêu, mục tiêu đó chỉ nhận lợi ích của phép thuật một lần; mục tiêu không nhận hai xúc xắc bonus. Nhưng nếu thời lượng của các phép thuật chồng lấp, hiệu ứng tiếp tục cho đến khi thời lượng của lần thi triển thứ hai kết thúc.
+Hiệu ứng của các phép khác nhau cộng dồn khi thời lượng của chúng chồng lên nhau. Ngược lại, hiệu ứng của cùng một phép thi triển nhiều lần không cộng dồn. Thay vào đó, hiệu ứng mạnh nhất — chẳng hạn điểm cộng cao nhất — trong các lần thi triển được áp dụng khi thời lượng chồng lên nhau. Nếu các lần thi triển mạnh ngang nhau, hiệu ứng gần nhất được áp dụng. Ví dụ, nếu hai Giáo sĩ cùng thi triển *Ban phước* (Bless) lên một mục tiêu, mục tiêu chỉ nhận lợi ích của phép một lần; nó không nhận hai xúc xắc thưởng. Nhưng nếu thời lượng chồng lên nhau, hiệu ứng kéo dài đến khi thời lượng của lần thi triển thứ hai kết thúc.
 
-### Identifying an Ongoing Spell (Nhận Diện Một Phép Thuật Đang Diễn Ra)
+### Nhận diện phép đang duy trì (Identifying an Ongoing Spell)
 
-Bạn có thể cố nhận diện một phép thuật không tức thời qua các hiệu ứng có thể quan sát được của nó nếu thời lượng của nó đang diễn ra. Để nhận diện nó, bạn phải thực hiện action Study và thành công trong một DC 15 Intelligence (Arcana) check.
+Bạn có thể cố nhận diện một phép không tức thời qua hiệu ứng quan sát được khi thời lượng của nó còn hiệu lực. Để làm vậy, bạn phải dùng hành động Nghiên cứu và thành công phép kiểm tra Trí tuệ (Huyền thuật) DC 15.
 
-## Spell Descriptions (Mô Tả Phép Thuật)
+## Mô tả phép (Spell Descriptions)
 
-### Mũi Tên Acid (Acid Arrow)
-*Cấp độ 2 Evocation (Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một lá đại hoàng nghiền bột)
-- Duration: Instantaneous
+### Mũi tên axit (Acid Arrow)
 
-Một mũi tên xanh lấp lánh lao về phía một mục tiêu trong tầm đánh và nổ tung thành một tia acid. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 4d4 damage Acid và 2d4 damage Acid nữa vào cuối turn tiếp theo của nó. Nếu trượt, mũi tên vỡ tan và mục tiêu chỉ nhận một nửa damage ban đầu.
+*Gọi năng lượng bậc 2 (Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage (cả ban đầu lẫn sau đó) tăng thêm 1d4 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (bột lá đại hoàng)
+- **Thời lượng:** Tức thời
 
-### Tia Acid (Acid Splash)
-*Cantrip Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Một mũi tên xanh lấp lánh lao về phía một mục tiêu trong tầm rồi vỡ thành tia axit. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 4d4 sát thương axit và thêm 2d4 sát thương axit vào cuối lượt kế tiếp của nó. Nếu trượt, mũi tên bắn axit tung tóe, gây một nửa sát thương ban đầu.
 
-Bạn tạo ra một bong bóng acid tại một điểm trong tầm đánh, nơi nó nổ tung trong một Sphere bán kính 5 feet. Mỗi creature trong Sphere đó phải thành công trong một Dexterity saving throw hoặc nhận 1d6 damage Acid.
+*Dùng ô phép bậc cao hơn (Using a Higher-Level Spell Slot).* Sát thương (cả ban đầu lẫn về sau) tăng 1d4 cho mỗi bậc ô phép trên 2.
 
-*Cantrip Upgrade:* Damage tăng thêm 1d6 khi bạn đạt cấp độ 5 (2d6), 11 (3d6), và 17 (4d6).
+### Tạt axit (Acid Splash)
 
-### Trợ Giúp (Aid)
-*Cấp độ 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một dải vải trắng)
-- Duration: 8 hours
+*Phép sơ cấp Gọi năng lượng (Thuật sĩ, Pháp sư)*
 
-Chọn tối đa ba creature trong tầm đánh. Hit Point maximum và Hit Points hiện tại của mỗi mục tiêu tăng thêm 5 trong suốt thời lượng.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Hit Points của mỗi mục tiêu tăng thêm 5 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Bạn tạo một bong bóng axit tại một điểm trong tầm, bong bóng vỡ ra trong hình cầu bán kính 1,5 m (5 feet). Mỗi sinh vật trong hình cầu phải thành công cứu nguy Khéo léo, nếu không chịu 1d6 sát thương axit.
 
-### Báo Động (Alarm)
-*Cấp độ 1 Abjuration (Ranger, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (một cái chuông và dây bạc)
-- Duration: 8 hours
+*Nâng cấp phép sơ cấp (Cantrip Upgrade).* Sát thương tăng 1d6 khi bạn đạt cấp 5 (2d6), 11 (3d6) và 17 (4d6).
 
-Bạn đặt một báo động chống xâm nhập. Chọn một cánh cửa, một cửa sổ, hoặc một khu vực trong tầm đánh không lớn hơn một Cube 20-foot. Cho đến khi phép thuật kết thúc, một báo động cảnh báo bạn bất cứ khi nào một creature chạm vào hoặc bước vào khu vực được bảo vệ. Khi thi triển phép thuật, bạn có thể chỉ định các creature sẽ không kích hoạt báo động. Bạn cũng chọn báo động là âm thanh hay tinh thần:
+### Tiếp sức (Aid)
 
-- **Audible Alarm.** Báo động tạo ra âm thanh trong 10 giây trong vòng 60 feet của khu vực được bảo vệ.
-- **Mental Alarm.** Bạn được cảnh báo bằng một tín hiệu tinh thần nếu bạn trong vòng 1 dặm của khu vực được bảo vệ. Tín hiệu này đánh thức bạn nếu bạn đang ngủ.
+*Phòng hộ bậc 2 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-### Biến Đổi Bản Thân (Alter Self)
-*Cấp độ 2 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 1 hour
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một dải vải trắng)
+- **Thời lượng:** 8 giờ
 
-Bạn biến đổi hình dạng vật lý của mình. Chọn một trong các lựa chọn sau. Hiệu ứng của nó kéo dài trong suốt thời lượng, trong thời gian đó bạn có thể thực hiện Magic action để thay lựa chọn đã chọn bằng một lựa chọn khác.
+Chọn tối đa ba sinh vật trong tầm. Điểm sinh lực tối đa và HP hiện tại của mỗi mục tiêu tăng 5 trong suốt thời lượng.
 
-- **Aquatic Adaptation.** Bạn mọc mang và màng da giữa các ngón tay. Bạn có thể thở dưới nước và nhận Swim Speed bằng Speed của mình.
-- **Change Appearance.** Bạn thay đổi diện mạo của mình. Bạn quyết định mình trông như thế nào, bao gồm chiều cao, cân nặng, đặc điểm khuôn mặt, âm giọng, độ dài tóc, màu sắc, và các đặc điểm nhận dạng khác. Bạn có thể khiến mình trông như một thành viên của một species khác, dù không chỉ số nào của bạn thay đổi. Bạn không thể trông như một creature có kích thước khác, và hình dạng cơ bản của bạn giữ nguyên; nếu bạn đi hai chân, bạn không thể dùng phép thuật này để trở thành đi bốn chân, chẳng hạn.
-- **Natural Weapons.** Bạn mọc vuốt (Slashing), nanh (Piercing), sừng (Piercing), hoặc móng guốc (Bludgeoning). Khi dùng Unarmed Strike để gây damage bằng bộ phận mới đó, nó gây 1d6 damage loại trong ngoặc thay vì damage bình thường của Unarmed Strike, và bạn dùng spellcasting ability modifier của mình cho attack và damage roll thay vì dùng Strength.
+*Dùng ô phép bậc cao hơn.* HP của mỗi mục tiêu tăng thêm 5 cho mỗi bậc ô phép trên 2.
 
-### Tình Bạn Muông Thú (Animal Friendship)
-*Cấp độ 1 Enchantment (Bard, Druid, Ranger)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một miếng thức ăn)
-- Duration: 24 hours
+### Báo động (Alarm)
 
-Nhắm vào một Beast bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Nếu bạn hoặc một trong các đồng minh của bạn gây damage cho mục tiêu, phép thuật kết thúc.
+*Phòng hộ bậc 1 (Kiểm lâm, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một Beast cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một chiếc chuông và sợi dây bạc)
+- **Thời lượng:** 8 giờ
 
-### Sứ Giả Muông Thú (Animal Messenger)
-*Cấp độ 2 Enchantment (Bard, Druid, Ranger)*
-- Casting Time: Action hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (một miếng thức ăn)
-- Duration: 24 hours
+Bạn đặt báo động chống kẻ xâm nhập. Chọn một cánh cửa, cửa sổ hoặc khu vực trong tầm không lớn hơn khối lập phương 6 m (20 feet). Cho đến khi phép kết thúc, báo động cảnh báo bạn mỗi khi có sinh vật chạm vào hoặc đi vào khu vực được canh. Khi thi triển, bạn có thể chỉ định những sinh vật không kích hoạt báo động. Bạn cũng chọn báo động bằng âm thanh hay bằng tâm trí:
 
-Một Beast kích thước Tiny theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Charisma saving throw, nếu không nó sẽ cố chuyển một thông điệp cho bạn (nếu Challenge Rating của mục tiêu không phải 0, nó tự động thành công). Bạn xác định một địa điểm bạn đã từng đến và một người nhận khớp với một mô tả chung, chẳng hạn "một người mặc đồng phục lính canh thị trấn" hoặc "một dwarf tóc đỏ đội mũ nhọn." Bạn cũng truyền đạt một thông điệp tối đa hai mươi lăm từ. Beast đó di chuyển trong suốt thời lượng về phía địa điểm được chỉ định, đi được khoảng 25 dặm mỗi 24 giờ hoặc 50 dặm nếu Beast có thể bay.
+- **Báo động âm thanh (Audible Alarm).** Báo động phát tiếng kêu trong 10 giây, nghe được trong phạm vi 18 m (60 feet) quanh khu vực được canh.
+- **Báo động tâm trí (Mental Alarm).** Bạn nhận tín hiệu cảnh báo trong tâm trí nếu đang ở trong phạm vi 1,6 km (1 mile) quanh khu vực được canh. Tín hiệu đánh thức bạn nếu bạn đang ngủ.
 
-Khi Beast đến nơi, nó chuyển thông điệp của bạn cho creature bạn đã mô tả, bắt chước cách giao tiếp của bạn. Nếu Beast không đến được đích trước khi phép thuật kết thúc, thông điệp bị mất, và Beast quay về nơi bạn đã thi triển phép thuật.
+### Biến đổi bản thân (Alter Self)
 
-*Using a Higher-Level Spell Slot:* Thời lượng của phép thuật tăng thêm 48 giờ cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+*Biến đổi bậc 2 (Thuật sĩ, Pháp sư)*
 
-### Hình Dạng Muông Thú (Animal Shapes)
-*Cấp độ 8 Transmutation (Druid)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: 24 hours
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Chọn bất kỳ số lượng creature tự nguyện nào mà bạn có thể nhìn thấy trong tầm đánh. Mỗi mục tiêu biến hình thành một Beast kích thước Large trở xuống theo lựa chọn của bạn có Challenge Rating từ 4 trở xuống. Bạn có thể chọn một hình dạng khác cho mỗi mục tiêu. Ở các turn sau, bạn có thể thực hiện Magic action để biến hình các mục tiêu lần nữa.
+Bạn biến đổi hình dạng cơ thể. Chọn một trong các lựa chọn sau. Hiệu ứng kéo dài suốt thời lượng, và trong thời gian đó bạn có thể dùng hành động Ma thuật để đổi sang lựa chọn khác.
 
-Chỉ số trò chơi của một mục tiêu được thay thế bằng chỉ số của Beast đã chọn, nhưng mục tiêu giữ lại creature type; Hit Points; Hit Point Dice; alignment; khả năng giao tiếp; và Intelligence, Wisdom, và Charisma score. Hành động của mục tiêu bị giới hạn bởi cấu tạo cơ thể của Beast form, và nó không thể thi triển spell. Trang bị của mục tiêu hòa vào hình dạng mới, và mục tiêu không thể dùng bất kỳ trang bị nào trong khi ở hình dạng đó.
+- **Thích nghi dưới nước (Aquatic Adaptation).** Bạn mọc mang và màng giữa các ngón tay. Bạn thở được dưới nước và có Tốc độ bơi bằng Tốc độ của mình.
+- **Đổi diện mạo (Change Appearance).** Bạn thay đổi ngoại hình. Bạn quyết định mình trông ra sao, gồm chiều cao, cân nặng, nét mặt, giọng nói, độ dài tóc, màu sắc và các đặc điểm nhận dạng khác. Bạn có thể trông như thành viên của giống loài khác, dù chỉ số không đổi. Bạn không thể trông như sinh vật khác kích cỡ, và hình thể cơ bản giữ nguyên; chẳng hạn, nếu đi hai chân, bạn không thể dùng phép này để thành bốn chân.
+- **Vũ khí tự nhiên (Natural Weapons).** Bạn mọc vuốt (chém), nanh (xuyên), sừng (xuyên) hoặc móng guốc (đập). Khi dùng đòn tay không gây sát thương bằng bộ phận mới này, nó gây 1d6 sát thương loại ghi trong ngoặc thay cho sát thương thường của đòn tay không, và bạn dùng hệ số thuộc tính thi triển phép thay cho Sức mạnh khi tung tấn công và sát thương.
 
-Mục tiêu nhận một lượng Temporary Hit Points bằng Hit Points của hình dạng đầu tiên nó biến thành. Các Temporary Hit Points này biến mất nếu còn lại khi phép thuật kết thúc. Sự biến hình kéo dài trong suốt thời lượng hoặc cho đến khi mục tiêu kết thúc nó như một Bonus Action.
+### Tình bạn muông thú (Animal Friendship)
 
-### Triệu Hồi Xác Sống (Animate Dead)
-*Cấp độ 3 Necromancy (Cleric, Wizard)*
-- Casting Time: 1 phút
-- Range: 10 feet
-- Components: V, S, M (một giọt máu, một mẩu thịt, và một nhúm bụi xương)
-- Duration: Instantaneous
+*Yểm thuật bậc 1 (Thi sĩ, Druid, Kiểm lâm)*
 
-Chọn một đống xương hoặc một xác chết của một Humanoid kích thước Medium hoặc Small trong tầm đánh. Mục tiêu trở thành một creature loại Undead: một Skeleton nếu bạn chọn xương hoặc một Zombie nếu bạn chọn xác chết (xem "Monsters" để biết stat block).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một mẩu thức ăn)
+- **Thời lượng:** 24 giờ
 
-Vào mỗi turn của mình, bạn có thể thực hiện một Bonus Action để ra lệnh bằng tinh thần cho bất kỳ creature nào bạn tạo ra bằng phép thuật này nếu creature đó trong vòng 60 feet của bạn (nếu bạn kiểm soát nhiều creature, bạn có thể ra lệnh cho bất kỳ creature nào cùng lúc, ban cùng một lệnh cho mỗi creature). Bạn quyết định creature sẽ thực hiện action nào và di chuyển đến đâu trong turn tiếp theo của nó, hoặc bạn có thể ban một lệnh chung, chẳng hạn canh gác một căn phòng hay hành lang. Nếu bạn không ra lệnh gì, creature thực hiện action Dodge và chỉ di chuyển để tránh nguy hiểm. Khi đã được ra lệnh, creature tiếp tục tuân theo cho đến khi hoàn thành nhiệm vụ.
+Nhắm vào một Thú mà bạn nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc trong suốt thời lượng. Nếu bạn hoặc đồng minh gây sát thương cho mục tiêu, phép kết thúc.
 
-Creature nằm dưới sự kiểm soát của bạn trong 24 giờ, sau đó nó ngừng tuân theo bất kỳ lệnh nào bạn đã đưa ra. Để duy trì quyền kiểm soát creature thêm 24 giờ nữa, bạn phải thi triển phép thuật này lên creature đó lần nữa trước khi khoảng thời gian 24 giờ hiện tại kết thúc. Lần dùng này của phép thuật tái khẳng định quyền kiểm soát của bạn lên tối đa bốn creature bạn đã tạo bằng phép thuật này thay vì tạo một creature mới.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một Thú cho mỗi bậc ô phép trên 1.
 
-*Using a Higher-Level Spell Slot:* Bạn triệu hồi hoặc tái khẳng định quyền kiểm soát thêm hai creature Undead cho mỗi cấp độ ô phép thuật trên cấp độ 3. Mỗi creature phải đến từ một xác chết hoặc đống xương khác nhau.
+### Sứ giả muông thú (Animal Messenger)
 
-### Triệu Hồi Vật Thể (Animate Objects)
-*Cấp độ 5 Transmutation (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Yểm thuật bậc 2 (Thi sĩ, Druid, Kiểm lâm)*
 
-Các object hoạt hóa theo lệnh của bạn. Chọn một số object phi phép thuật trong tầm đánh không đang được mặc hay mang theo, không cố định vào một bề mặt, và không phải kích thước Gargantuan. Số lượng object tối đa bằng spellcasting ability modifier của bạn; với con số này, một mục tiêu Medium trở xuống tính là một object, một mục tiêu Large tính là hai, và một mục tiêu Huge tính là ba.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một mẩu thức ăn)
+- **Thời lượng:** 24 giờ
 
-Mỗi mục tiêu hoạt hóa, mọc chân, và trở thành một Construct dùng stat block Animated Object; creature này nằm dưới sự kiểm soát của bạn cho đến khi phép thuật kết thúc hoặc cho đến khi nó bị giảm xuống 0 Hit Points. Mỗi creature bạn tạo bằng phép thuật này là đồng minh của bạn và đồng minh của bạn. Trong combat, nó chia sẻ Initiative của bạn và thực hiện turn ngay sau turn của bạn.
+Một Thú Tí hon tùy chọn mà bạn nhìn thấy trong tầm phải thành công cứu nguy Sức hút, nếu không nó sẽ cố chuyển một thông điệp cho bạn (nếu Mức thách thức của mục tiêu khác 0, nó tự động thành công). Bạn chỉ định một nơi bạn từng đến và một người nhận khớp với mô tả chung, như "người mặc đồng phục lính gác thị trấn" hay "người lùn tóc đỏ đội mũ nhọn". Bạn cũng gửi một thông điệp tối đa hai mươi lăm chữ. Trong suốt thời lượng, con Thú đi về nơi được chỉ định, khoảng 40 km (25 mile) mỗi 24 giờ, hoặc 80 km (50 mile) nếu biết bay.
 
-Cho đến khi phép thuật kết thúc, bạn có thể thực hiện một Bonus Action để ra lệnh bằng tinh thần cho bất kỳ creature nào bạn tạo bằng phép thuật này nếu creature đó trong vòng 500 feet của bạn (nếu bạn kiểm soát nhiều creature, bạn có thể ra lệnh cho bất kỳ creature nào cùng lúc, ban cùng một lệnh cho mỗi creature). Nếu bạn không ra lệnh gì, creature thực hiện action Dodge và chỉ di chuyển để tránh nguy hiểm. Khi creature giảm xuống 0 Hit Points, nó trở về dạng object ban đầu, và bất kỳ damage còn dư nào chuyển sang dạng đó.
+Khi đến nơi, con Thú chuyển thông điệp cho sinh vật bạn đã mô tả, bắt chước cách bạn giao tiếp. Nếu nó không đến đích trước khi phép kết thúc, thông điệp bị mất và con Thú quay về nơi bạn thi triển phép.
 
-*Using a Higher-Level Spell Slot:* Damage Slam của creature tăng thêm 1d4 (Medium trở xuống), 1d6 (Large), hoặc 1d12 (Huge) cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+*Dùng ô phép bậc cao hơn.* Thời lượng tăng thêm 48 giờ cho mỗi bậc ô phép trên 2.
 
-**Animated Object**
-*Huge trở xuống Construct, Unaligned*
-- AC 15
-- HP 10 (Medium trở xuống), 20 (Large), 40 (Huge)
-- Speed 30 ft.
-- Str 16 (+3, +3) Dex 10 (+0, +0) Con 10 (+0, +0) Int 3 (−4, −4) Wis 3 (−4, −4) Cha 1 (−5, −5)
-- Immunities: Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-- Senses: Blindsight 30 ft.; Passive Perception 6
-- Languages: Hiểu các ngôn ngữ bạn biết
-- CR None (XP 0; PB bằng Proficiency Bonus của bạn)
-- **Actions.** *Slam.* Melee Attack Roll: Bonus bằng spell attack modifier của bạn, reach 5 ft. Hit: Damage Force bằng 1d4 + 3 (Medium trở xuống), 2d6 + 3 + spellcasting ability modifier của bạn (Large), hoặc 2d12 + 3 + spellcasting ability modifier của bạn (Huge).
+### Hình dạng muông thú (Animal Shapes)
 
-### Lớp Vỏ Chống Sự Sống (Antilife Shell)
-*Cấp độ 5 Abjuration (Druid)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 1 hour
+*Biến đổi bậc 8 (Druid)*
 
-Một hào quang tỏa ra từ bạn trong một 10-foot Emanation trong suốt thời lượng. Hào quang ngăn các creature khác Construct và Undead đi qua hoặc vươn qua nó. Một creature bị ảnh hưởng có thể thi triển spell hoặc tấn công bằng Ranged hoặc Reach weapon xuyên qua rào chắn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 24 giờ
 
-Nếu bạn di chuyển khiến một creature bị ảnh hưởng bị buộc phải đi qua rào chắn, phép thuật kết thúc.
+Chọn bất kỳ số sinh vật tự nguyện nào mà bạn nhìn thấy trong tầm. Mỗi mục tiêu biến thành một Thú cỡ Lớn trở xuống tùy chọn, có Mức thách thức 4 trở xuống. Bạn có thể chọn dạng khác nhau cho mỗi mục tiêu. Ở các lượt sau, bạn có thể dùng hành động Ma thuật để biến đổi các mục tiêu lần nữa.
 
-### Vùng Kháng Phép (Antimagic Field)
-*Cấp độ 8 Abjuration (Cleric, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (mạt sắt)
-- Duration: Concentration, up to 1 hour
+Chỉ số trò chơi của mục tiêu được thay bằng chỉ số của Thú đã chọn, nhưng mục tiêu giữ loại sinh vật; HP; xúc xắc sinh lực; khuynh hướng đạo đức; khả năng giao tiếp; và điểm Trí tuệ, Minh triết, Sức hút. Hành động của mục tiêu bị giới hạn bởi cơ thể dạng Thú, và nó không thể thi triển phép. Trang bị của mục tiêu hòa vào dạng mới và không dùng được khi ở dạng đó.
 
-Một hào quang kháng phép bao quanh bạn trong một 10-foot Emanation. Không ai có thể thi triển spell, thực hiện Magic action, hoặc tạo ra các hiệu ứng phép thuật khác bên trong hào quang, và những thứ đó không thể nhắm mục tiêu hoặc ảnh hưởng đến bất cứ thứ gì bên trong nó. Các thuộc tính phép thuật của magic item không hoạt động bên trong hào quang hoặc lên bất cứ thứ gì bên trong nó. Các khu vực hiệu ứng do spell hoặc phép thuật khác tạo ra không thể mở rộng vào hào quang, và không ai có thể dịch chuyển vào hoặc ra khỏi nó hay dùng du hành liên plane ở đó. Portal tạm thời đóng lại khi ở trong hào quang.
+Mục tiêu nhận số điểm sinh lực tạm thời bằng HP của dạng đầu tiên nó biến thành. Số điểm sinh lực tạm thời còn lại biến mất khi phép kết thúc. Biến đổi kéo dài suốt thời lượng hoặc đến khi mục tiêu dùng hành động phụ để kết thúc.
 
-Các spell đang diễn ra, trừ những spell được thi triển bởi một Artifact hoặc một vị thần, bị vô hiệu hóa trong khu vực. Trong khi một hiệu ứng bị vô hiệu hóa, nó không hoạt động, nhưng thời gian nó dành bị vô hiệu hóa vẫn tính vào thời lượng của nó.
+### Hoạt hóa xác chết (Animate Dead)
 
-Dispel Magic không có tác dụng lên hào quang, và các hào quang được tạo bởi các spell khác nhau không triệt tiêu lẫn nhau.
+*Tử linh bậc 3 (Giáo sĩ, Pháp sư)*
 
-### Ác Cảm/Thiện Cảm (Antipathy/Sympathy)
-*Cấp độ 8 Enchantment (Bard, Druid, Wizard)*
-- Casting Time: 1 giờ
-- Range: 60 feet
-- Components: V, S, M (hỗn hợp giấm và mật ong)
-- Duration: 10 ngày
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (một giọt máu, một mẩu thịt và một nhúm bột xương)
+- **Thời lượng:** Tức thời
 
-Khi thi triển spell, hãy chọn liệu nó tạo ra ác cảm (antipathy) hay thiện cảm (sympathy), và nhắm vào một creature hoặc object có kích thước Huge trở xuống. Sau đó chỉ định một loại creature, chẳng hạn red dragon, goblin, hoặc vampire.
+Chọn một đống xương hoặc thi thể của một Hình người cỡ Trung bình hoặc Nhỏ trong tầm. Mục tiêu trở thành sinh vật Xác sống: Bộ xương (Skeleton) nếu chọn xương, hoặc Xác sống thây ma (Zombie) nếu chọn thi thể (xem [Quái vật A–Z](12-Monsters-A-Z.md) để biết khối thông số).
 
-Một creature thuộc loại đã chọn thực hiện một Wisdom saving throw khi nó đến trong vòng 120 feet của mục tiêu. Lựa chọn ác cảm hoặc thiện cảm của bạn quyết định điều gì xảy ra với một creature khi nó thất bại trong save đó:
+Mỗi lượt, bạn có thể dùng hành động phụ để ra lệnh bằng tâm trí cho bất kỳ sinh vật nào tạo bằng phép này nếu nó ở trong phạm vi 18 m (60 feet) (nếu điều khiển nhiều sinh vật, bạn có thể ra lệnh cho bất kỳ sinh vật nào cùng lúc, cùng một mệnh lệnh). Bạn quyết định sinh vật dùng hành động gì và di chuyển đến đâu trong lượt kế tiếp, hoặc ra lệnh chung như canh gác một căn phòng hay hành lang. Nếu không có lệnh, sinh vật dùng hành động Né tránh và chỉ di chuyển để tránh nguy hiểm. Khi đã nhận lệnh, sinh vật tiếp tục làm theo cho đến khi hoàn thành nhiệm vụ.
 
-- **Antipathy.** Creature có condition Frightened. Creature bị Frightened phải dùng movement trong các turn của nó để đi càng xa mục tiêu càng tốt, di chuyển theo tuyến đường an toàn nhất.
-- **Sympathy.** Creature có condition Charmed. Creature bị Charmed phải dùng movement trong các turn của nó để đến càng gần mục tiêu càng tốt, di chuyển theo tuyến đường an toàn nhất. Nếu creature trong vòng 5 feet của mục tiêu, creature không thể tự nguyện di chuyển ra xa. Nếu mục tiêu gây damage lên creature bị Charmed, creature đó có thể thực hiện một Wisdom saving throw để kết thúc hiệu ứng, như mô tả dưới đây.
+Sinh vật chịu sự điều khiển của bạn trong 24 giờ, sau đó không còn tuân lệnh. Để giữ quyền điều khiển thêm 24 giờ, bạn phải thi triển lại phép này lên sinh vật trước khi hết 24 giờ hiện tại. Lần thi triển này tái khẳng định quyền điều khiển tối đa bốn sinh vật đã tạo bằng phép này thay vì tạo sinh vật mới.
 
-**Ending the Effect.** Nếu creature bị Frightened hoặc Charmed kết thúc turn của nó ở khoảng cách hơn 120 feet từ mục tiêu, creature thực hiện một Wisdom saving throw. Nếu thành công, creature không còn bị ảnh hưởng bởi mục tiêu nữa. Một creature thành công trong save chống lại hiệu ứng này miễn nhiễm với nó trong 1 phút, sau đó nó có thể bị ảnh hưởng lại.
+*Dùng ô phép bậc cao hơn.* Bạn hoạt hóa hoặc tái khẳng định quyền điều khiển thêm hai sinh vật Xác sống cho mỗi bậc ô phép trên 3. Mỗi sinh vật phải từ một thi thể hoặc đống xương khác nhau.
 
-### Mắt Arcane (Arcane Eye)
-*Cấp độ 4 Divination (Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một mẩu lông dơi)
-- Duration: Concentration, up to 1 hour
+### Hoạt hóa đồ vật (Animate Objects)
 
-Bạn tạo ra một con mắt Invisible, bất khả xâm phạm trong tầm đánh lơ lửng trong suốt thời lượng. Bạn nhận thông tin thị giác từ con mắt đó bằng tinh thần, và nó có thể nhìn theo mọi hướng. Nó cũng có Darkvision với tầm 30 feet.
+*Biến đổi bậc 5 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Như một Bonus Action, bạn có thể di chuyển con mắt tối đa 30 feet theo bất kỳ hướng nào. Một rào chắn rắn chặn chuyển động của con mắt, nhưng con mắt có thể đi qua một khe hở nhỏ đến 1 inch đường kính.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Bàn Tay Arcane (Arcane Hand)
-*Cấp độ 5 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một vỏ trứng và một chiếc găng tay)
-- Duration: Concentration, up to 1 minute
+Đồ vật sống dậy theo lệnh bạn. Chọn một số đồ vật không ma thuật trong tầm, không được ai mặc hay mang, không gắn chặt vào bề mặt và không phải cỡ Cực đại. Số đồ vật tối đa bằng hệ số thuộc tính thi triển phép; với con số này, mục tiêu cỡ Trung bình trở xuống tính là một, cỡ Lớn tính là hai, và cỡ Khổng lồ tính là ba.
 
-Bạn tạo ra một bàn tay Large bằng năng lượng phép thuật lấp lánh trong một không gian trống mà bạn có thể nhìn thấy trong tầm đánh. Bàn tay tồn tại trong suốt thời lượng, và nó di chuyển theo lệnh của bạn, bắt chước chuyển động của bàn tay bạn.
+Mỗi mục tiêu sống dậy, mọc chân và trở thành Cấu thể dùng khối thông số Đồ vật hoạt hóa; sinh vật chịu sự điều khiển của bạn đến khi phép kết thúc hoặc đến khi HP của nó về 0. Mỗi sinh vật tạo bằng phép này là đồng minh của bạn và các đồng minh của bạn. Trong chiến đấu, nó dùng chung Sáng kiến với bạn và đi lượt ngay sau bạn.
 
-Bàn tay là một object có AC 20 và Hit Points bằng Hit Point maximum của bạn. Nếu nó giảm xuống 0 Hit Points, phép thuật kết thúc. Bàn tay không chiếm không gian của nó.
+Cho đến khi phép kết thúc, bạn có thể dùng hành động phụ để ra lệnh bằng tâm trí cho bất kỳ sinh vật nào tạo bằng phép này nếu nó ở trong phạm vi 150 m (500 feet) (nếu điều khiển nhiều sinh vật, bạn có thể ra lệnh cho bất kỳ sinh vật nào cùng lúc, cùng một mệnh lệnh). Nếu không có lệnh, sinh vật dùng hành động Né tránh và chỉ di chuyển để tránh nguy hiểm. Khi HP của sinh vật về 0, nó trở lại dạng đồ vật, và sát thương còn dư chuyển sang dạng đó.
 
-Khi thi triển spell và như một Bonus Action ở các turn sau, bạn có thể di chuyển bàn tay tối đa 60 feet rồi gây ra một trong các hiệu ứng sau:
+*Dùng ô phép bậc cao hơn.* Sát thương đòn Đập của sinh vật tăng 1d4 (cỡ Trung bình trở xuống), 1d6 (cỡ Lớn) hoặc 1d12 (cỡ Khổng lồ) cho mỗi bậc ô phép trên 5.
 
-- **Clenched Fist.** Bàn tay đánh một mục tiêu trong vòng 5 feet của bàn tay. Thực hiện một melee spell attack. Nếu trúng, mục tiêu nhận 5d8 damage Force.
-- **Forceful Hand.** Bàn tay cố đẩy một creature Huge trở xuống trong vòng 5 feet của nó. Mục tiêu phải thành công trong một Strength saving throw, nếu không bàn tay đẩy mục tiêu tối đa 5 feet cộng thêm một số feet bằng năm lần spellcasting ability modifier của bạn. Bàn tay di chuyển cùng mục tiêu, giữ trong vòng 5 feet của nó.
-- **Grasping Hand.** Bàn tay cố grapple một creature Huge trở xuống trong vòng 5 feet của nó. Mục tiêu phải thành công trong một Dexterity saving throw, nếu không mục tiêu có condition Grappled, với escape DC bằng spell save DC của bạn. Trong khi bàn tay grapple mục tiêu, bạn có thể thực hiện một Bonus Action để khiến bàn tay bóp nghiến nó, gây damage Bludgeoning lên mục tiêu bằng 4d6 cộng spellcasting ability modifier của bạn.
-- **Interposing Hand.** Bàn tay cho bạn Half Cover chống lại các cuộc tấn công và hiệu ứng khác xuất phát từ không gian của nó hoặc đi qua nó. Ngoài ra, không gian của nó tính là Difficult Terrain đối với kẻ địch của bạn.
+**Đồ vật hoạt hóa (Animated Object)**
 
-*Using a Higher-Level Spell Slot:* Damage của Clenched Fist tăng thêm 2d8 và damage của Grasping Hand tăng thêm 2d6 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+*Cấu thể cỡ Khổng lồ trở xuống, không khuynh hướng*
 
-### Khóa Arcane (Arcane Lock)
-*Cấp độ 2 Abjuration (Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bụi vàng trị giá 25+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+- **AC** 15
+- **HP** 10 (cỡ Trung bình trở xuống), 20 (cỡ Lớn), 40 (cỡ Khổng lồ)
+- **Tốc độ** 9 m (30 ft.)
+- **STR** 16 (+3, cứu nguy +3) · **DEX** 10 (+0, +0) · **CON** 10 (+0, +0) · **INT** 3 (−4, −4) · **WIS** 3 (−4, −4) · **CHA** 1 (−5, −5)
+- **Miễn nhiễm:** độc, tâm linh; Mê hoặc, Kiệt sức, Hoảng sợ, Tê liệt, Trúng độc
+- **Giác quan:** cảm nhận mù 9 m (30 ft.); Tri giác thụ động 6
+- **Ngôn ngữ:** hiểu các ngôn ngữ bạn biết
+- **CR** không có (XP 0; PB bằng thưởng thành thạo của bạn)
 
-Bạn chạm vào một cánh cửa, cửa sổ, cổng, hộp đựng, hoặc cửa sập đã đóng và khóa nó bằng phép thuật trong suốt thời lượng. Ổ khóa này không thể mở bằng bất kỳ phương tiện phi phép thuật nào. Bạn và bất kỳ creature nào bạn chỉ định khi thi triển spell có thể mở và đóng object bất chấp ổ khóa. Bạn cũng có thể đặt một mật khẩu mà khi được nói trong vòng 5 feet của object, mở khóa nó trong 1 phút.
+*Hành động*
 
-### Kiếm Arcane (Arcane Sword)
-*Cấp độ 7 Evocation (Bard, Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một thanh kiếm thu nhỏ trị giá 250+ GP)
-- Duration: Concentration, up to 1 minute
+- *Đập (Slam).* Tung tấn công cận chiến: điểm cộng bằng hệ số tấn công bằng phép của bạn, tầm với 1,5 m (5 ft.). Trúng: sát thương lực bằng 1d4 + 3 (cỡ Trung bình trở xuống), 2d6 + 3 + hệ số thuộc tính thi triển phép của bạn (cỡ Lớn), hoặc 2d12 + 3 + hệ số thuộc tính thi triển phép của bạn (cỡ Khổng lồ).
 
-Bạn tạo ra một thanh kiếm ma quái lơ lửng trong tầm đánh. Nó tồn tại trong suốt thời lượng.
+### Lớp vỏ chống sự sống (Antilife Shell)
 
-Khi thanh kiếm xuất hiện, bạn thực hiện một melee spell attack nhắm vào một mục tiêu trong vòng 5 feet của thanh kiếm. Nếu trúng, mục tiêu nhận damage Force bằng 4d12 cộng spellcasting ability modifier của bạn.
+*Phòng hộ bậc 5 (Druid)*
 
-Ở các turn sau, bạn có thể thực hiện một Bonus Action để di chuyển thanh kiếm tối đa 30 feet đến một điểm bạn có thể nhìn thấy và lặp lại cuộc tấn công nhắm vào cùng mục tiêu hoặc một mục tiêu khác.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-### Hào Quang Phép Thuật Của Nhà Huyền Bí (Arcanist's Magic Aura)
-*Cấp độ 2 Illusion (Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một mảnh lụa vuông nhỏ)
-- Duration: 24 hours
+Một hào quang tỏa ra từ bạn trong vùng tỏa 3 m (10 feet) suốt thời lượng. Hào quang ngăn mọi sinh vật không phải Cấu thể hay Xác sống đi qua hoặc thò vào bên trong. Sinh vật bị ảnh hưởng vẫn có thể thi triển phép hoặc tấn công bằng vũ khí tầm xa hay vũ khí có Tầm với xuyên qua lớp chắn.
 
-Bằng một cú chạm, bạn đặt một ảo ảnh lên một creature tự nguyện hoặc một object không đang được mặc hay mang theo. Một creature nhận hiệu ứng Mask dưới đây, và một object nhận hiệu ứng False Aura dưới đây. Hiệu ứng kéo dài trong suốt thời lượng. Nếu bạn thi triển spell lên cùng mục tiêu mỗi ngày trong 30 ngày, ảo ảnh kéo dài cho đến khi bị dispel.
+Nếu bạn di chuyển khiến một sinh vật bị ảnh hưởng buộc phải đi qua lớp chắn, phép kết thúc.
 
-- **Mask (Creature).** Chọn một creature type khác với loại thực sự của mục tiêu. Spell và các hiệu ứng phép thuật khác coi mục tiêu như một creature thuộc loại đã chọn.
-- **False Aura (Object).** Bạn thay đổi cách mục tiêu xuất hiện với các spell và hiệu ứng phép thuật phát hiện hào quang phép thuật, chẳng hạn Detect Magic. Bạn có thể khiến một object phi phép thuật trông có phép thuật, khiến một magic item trông phi phép thuật, hoặc thay đổi hào quang của object để nó trông thuộc về một trường phái phép thuật bạn chọn.
+### Trường phản ma thuật (Antimagic Field)
 
-### Vân Du Cõi Sao (Astral Projection)
-*Cấp độ 9 Necromancy (Cleric, Warlock, Wizard)*
-- Casting Time: 1 giờ
-- Range: 10 feet
-- Components: V, S, M (với mỗi mục tiêu của phép thuật, một viên jacinth trị giá 1.000+ GP và một thỏi bạc trị giá 100+ GP, tất cả bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+*Phòng hộ bậc 8 (Giáo sĩ, Pháp sư)*
 
-Bạn và tối đa tám creature tự nguyện trong tầm đánh phóng thể xác sao (astral body) của mình vào Astral Plane (phép thuật kết thúc ngay lập tức nếu bạn đã ở trên plane đó). Thân xác của mỗi mục tiêu bị bỏ lại trong trạng thái ngủ đông; nó có condition Unconscious, không cần thức ăn hay không khí, và không già đi.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (mạt sắt)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Astral form của một mục tiêu giống hệt cơ thể của nó ở gần như mọi mặt, sao chép chỉ số trò chơi và tài sản của nó. Điểm khác biệt chính là sự xuất hiện của một sợi dây bạc kéo dài từ giữa hai bả vai của astral form. Sợi dây mờ dần khỏi tầm nhìn sau 1 foot. Nếu sợi dây bị cắt đứt — điều này chỉ xảy ra khi một hiệu ứng nói rằng nó làm vậy — thân xác và astral form của mục tiêu đều chết.
+Một hào quang phản ma thuật bao quanh bạn trong vùng tỏa 3 m (10 feet). Không ai thi triển được phép, dùng hành động Ma thuật hay tạo hiệu ứng ma thuật khác bên trong hào quang, và các thứ đó không thể nhắm vào hay ảnh hưởng đến bất cứ gì bên trong. Thuộc tính ma thuật của vật phẩm ma thuật không hoạt động trong hào quang hoặc lên thứ gì trong đó. Vùng hiệu ứng do phép hay ma thuật khác tạo ra không lan vào hào quang, và không ai có thể dịch chuyển tức thời vào hay ra khỏi nó hoặc du hành liên cõi ở đó. Các cổng dịch chuyển tạm thời đóng lại khi ở trong hào quang.
 
-Astral form của một mục tiêu có thể du hành qua Astral Plane. Ngay khi một astral form rời khỏi plane đó, thân xác và tài sản của mục tiêu di chuyển theo sợi dây bạc, khiến mục tiêu quay lại thân xác của mình trên plane mới.
+Các phép đang duy trì, trừ phép do Cổ vật hoặc thần linh thi triển, bị vô hiệu hóa trong khu vực. Khi bị vô hiệu hóa, hiệu ứng không hoạt động, nhưng thời gian bị vô hiệu hóa vẫn tính vào thời lượng.
 
-Bất kỳ damage hoặc hiệu ứng nào áp dụng lên một astral form không ảnh hưởng đến thân xác của mục tiêu và ngược lại. Nếu thân xác hoặc astral form của một mục tiêu giảm xuống 0 Hit Points, phép thuật kết thúc đối với mục tiêu đó. Phép thuật kết thúc với tất cả các mục tiêu nếu bạn thực hiện Magic action để loại bỏ nó.
+*Giải trừ ma thuật* (Dispel Magic) không có tác dụng với hào quang, và các hào quang do những phép khác nhau tạo ra không triệt tiêu lẫn nhau.
 
-Khi phép thuật kết thúc đối với một mục tiêu chưa chết, mục tiêu xuất hiện trở lại trong thân xác của nó và thoát khỏi trạng thái ngủ đông.
+### Ác cảm/thiện cảm (Antipathy/Sympathy)
 
-### Điềm Báo (Augury)
-*Cấp độ 2 Divination (Cleric, Druid, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Self
-- Components: V, S, M (que, xương, thẻ bài, hoặc các vật bói toán khác được đánh dấu đặc biệt trị giá 25+ GP)
-- Duration: Instantaneous
+*Yểm thuật bậc 8 (Thi sĩ, Druid, Pháp sư)*
 
-Bạn nhận được một điềm báo từ một thực thể ngoại giới về kết quả của một hành động bạn dự định thực hiện trong 30 phút tới. GM chọn điềm báo từ bảng **Omens**.
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (hỗn hợp giấm và mật ong)
+- **Thời lượng:** 10 ngày
 
-| Omen | Kết quả sẽ là … |
+Khi thi triển, chọn phép tạo ác cảm hay thiện cảm, rồi nhắm vào một sinh vật hoặc đồ vật cỡ Khổng lồ trở xuống. Sau đó chỉ định một loại sinh vật, như rồng đỏ, goblin hay ma cà rồng.
+
+Sinh vật thuộc loại đã chọn phải cứu nguy Minh triết khi đến trong phạm vi 36 m (120 feet) quanh mục tiêu. Lựa chọn ác cảm hay thiện cảm quyết định điều xảy ra với sinh vật cứu nguy thất bại:
+
+- **Ác cảm (Antipathy).** Sinh vật rơi vào trạng thái Hoảng sợ. Sinh vật Hoảng sợ phải dùng lượng di chuyển trong lượt để đi xa mục tiêu nhất có thể theo đường an toàn nhất.
+- **Thiện cảm (Sympathy).** Sinh vật rơi vào trạng thái Mê hoặc. Sinh vật bị Mê hoặc phải dùng lượng di chuyển trong lượt để đến gần mục tiêu nhất có thể theo đường an toàn nhất. Nếu đang ở trong phạm vi 1,5 m (5 feet) quanh mục tiêu, sinh vật không thể tự nguyện đi xa. Nếu mục tiêu gây sát thương lên sinh vật bị Mê hoặc, sinh vật đó có thể cứu nguy Minh triết để chấm dứt hiệu ứng, như mô tả dưới đây.
+
+**Chấm dứt hiệu ứng (Ending the Effect).** Nếu sinh vật Hoảng sợ hoặc bị Mê hoặc kết thúc lượt ở cách mục tiêu hơn 36 m (120 feet), nó cứu nguy Minh triết. Nếu thành công, nó không còn chịu ảnh hưởng của mục tiêu. Sinh vật cứu nguy thành công chống hiệu ứng này được miễn nhiễm với nó trong 1 phút, sau đó có thể bị ảnh hưởng lại.
+
+### Mắt huyền thuật (Arcane Eye)
+
+*Tiên tri bậc 4 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một nhúm lông dơi)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn tạo một con mắt Vô hình, không thể bị tổn thương, lơ lửng trong tầm suốt thời lượng. Bạn nhận hình ảnh từ con mắt qua tâm trí, và nó nhìn được mọi hướng. Con mắt cũng có thị giác bóng tối trong phạm vi 9 m (30 feet).
+
+Bằng một hành động phụ, bạn có thể di chuyển con mắt tối đa 9 m (30 feet) theo bất kỳ hướng nào. Vật cản rắn chặn đường di chuyển của mắt, nhưng mắt có thể lọt qua khe hở nhỏ đến đường kính 2,5 cm (1 inch).
+
+### Bàn tay huyền thuật (Arcane Hand)
+
+*Gọi năng lượng bậc 5 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một vỏ trứng và một chiếc găng tay)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn tạo một bàn tay cỡ Lớn bằng năng lượng ma thuật lấp lánh tại một chỗ trống mà bạn nhìn thấy trong tầm. Bàn tay tồn tại suốt thời lượng và di chuyển theo lệnh bạn, mô phỏng cử động của bàn tay bạn.
+
+Bàn tay là một đồ vật có AC 20 và HP bằng điểm sinh lực tối đa của bạn. Nếu HP của nó về 0, phép kết thúc. Bàn tay không chiếm chỗ.
+
+Khi thi triển và bằng hành động phụ ở các lượt sau, bạn có thể di chuyển bàn tay tối đa 18 m (60 feet) rồi tạo một trong các hiệu ứng sau:
+
+- **Nắm đấm siết chặt (Clenched Fist).** Bàn tay đấm một mục tiêu trong phạm vi 1,5 m (5 feet) quanh nó. Tung tấn công cận chiến bằng phép. Nếu trúng, mục tiêu chịu 5d8 sát thương lực.
+- **Bàn tay đẩy mạnh (Forceful Hand).** Bàn tay cố đẩy một sinh vật cỡ Khổng lồ trở xuống trong phạm vi 1,5 m (5 feet) quanh nó. Mục tiêu phải thành công cứu nguy Sức mạnh, nếu không bàn tay đẩy nó đi tối đa 1,5 m (5 feet) cộng thêm số feet bằng năm lần hệ số thuộc tính thi triển phép của bạn (1,5 m mỗi điểm). Bàn tay di chuyển theo mục tiêu, luôn ở trong phạm vi 1,5 m (5 feet) quanh nó.
+- **Bàn tay tóm bắt (Grasping Hand).** Bàn tay cố tóm một sinh vật cỡ Khổng lồ trở xuống trong phạm vi 1,5 m (5 feet) quanh nó. Mục tiêu phải thành công cứu nguy Khéo léo, nếu không rơi vào trạng thái Bị vật lộn, với DC thoát bằng DC cứu nguy phép của bạn. Khi bàn tay đang tóm mục tiêu, bạn có thể dùng hành động phụ để bàn tay bóp nghiến, gây sát thương đập bằng 4d6 + hệ số thuộc tính thi triển phép của bạn.
+- **Bàn tay che chắn (Interposing Hand).** Bàn tay cho bạn che chắn một nửa trước đòn tấn công và hiệu ứng khác xuất phát từ chỗ của nó hoặc đi qua nó. Ngoài ra, chỗ của nó là địa hình khó đi với kẻ thù của bạn.
+
+*Dùng ô phép bậc cao hơn.* Sát thương của Nắm đấm siết chặt tăng 2d8 và của Bàn tay tóm bắt tăng 2d6 cho mỗi bậc ô phép trên 5.
+
+### Khóa huyền thuật (Arcane Lock)
+
+*Phòng hộ bậc 2 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bụi vàng trị giá 25+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Bạn chạm vào một cánh cửa, cửa sổ, cổng, thùng chứa hoặc cửa sập đang đóng và khóa nó bằng ma thuật suốt thời lượng. Ổ khóa này không thể mở bằng cách không ma thuật. Bạn và những sinh vật bạn chỉ định khi thi triển có thể mở và đóng đồ vật bất chấp ổ khóa. Bạn cũng có thể đặt mật khẩu; khi nói mật khẩu trong phạm vi 1,5 m (5 feet) quanh đồ vật, khóa mở trong 1 phút.
+
+### Kiếm huyền thuật (Arcane Sword)
+
+*Gọi năng lượng bậc 7 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (một thanh kiếm thu nhỏ trị giá 250+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn tạo một thanh kiếm ma quái lơ lửng trong tầm, tồn tại suốt thời lượng.
+
+Khi kiếm xuất hiện, bạn tung tấn công cận chiến bằng phép nhắm vào một mục tiêu trong phạm vi 1,5 m (5 feet) quanh kiếm. Nếu trúng, mục tiêu chịu sát thương lực bằng 4d12 + hệ số thuộc tính thi triển phép của bạn.
+
+Ở các lượt sau, bạn có thể dùng hành động phụ để di chuyển kiếm tối đa 9 m (30 feet) đến một điểm bạn nhìn thấy và lặp lại đòn tấn công với cùng mục tiêu hoặc mục tiêu khác.
+
+### Hào quang ma thuật của nhà huyền thuật (Arcanist's Magic Aura)
+
+*Ảo ảnh bậc 2 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một mảnh lụa vuông nhỏ)
+- **Thời lượng:** 24 giờ
+
+Bằng một cú chạm, bạn đặt ảo ảnh lên một sinh vật tự nguyện hoặc một đồ vật không có ai mặc hay mang. Sinh vật nhận hiệu ứng Mặt nạ, đồ vật nhận hiệu ứng Hào quang giả dưới đây. Hiệu ứng kéo dài suốt thời lượng. Nếu bạn thi triển phép lên cùng mục tiêu mỗi ngày trong 30 ngày, ảo ảnh kéo dài đến khi bị giải trừ.
+
+- **Mặt nạ (Mask; sinh vật).** Chọn một loại sinh vật khác loại thật của mục tiêu. Phép và hiệu ứng ma thuật khác coi mục tiêu thuộc loại sinh vật đã chọn.
+- **Hào quang giả (False Aura; đồ vật).** Bạn thay đổi cách mục tiêu hiện ra với các phép và hiệu ứng ma thuật dò hào quang ma thuật, như *Phát hiện ma thuật* (Detect Magic). Bạn có thể khiến đồ vật không ma thuật trông như có ma thuật, khiến vật phẩm ma thuật trông như không ma thuật, hoặc đổi hào quang để nó trông thuộc một trường phái ma thuật tùy chọn.
+
+### Xuất hồn Astral (Astral Projection)
+
+*Tử linh bậc 9 (Giáo sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (với mỗi mục tiêu, một viên hồng ngọc jacinth trị giá 1.000+ gp và một thỏi bạc trị giá 100+ gp, tất cả bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Bạn và tối đa tám sinh vật tự nguyện trong tầm phóng thể vía (astral body) vào Cõi Astral (Astral Plane) (phép kết thúc ngay nếu bạn đã ở cõi đó). Thân xác của mỗi mục tiêu bị bỏ lại trong trạng thái ngưng đọng; nó ở trạng thái Bất tỉnh, không cần ăn uống hay không khí, và không già đi.
+
+Thể vía của mục tiêu giống cơ thể nó ở hầu hết mọi mặt, sao chép cả chỉ số trò chơi lẫn đồ đạc. Điểm khác chính là một sợi dây bạc nối ra từ giữa hai bả vai của thể vía. Sợi dây mờ dần sau 30 cm (1 foot). Nếu dây bị cắt — chỉ xảy ra khi một hiệu ứng nói vậy — cả thân xác lẫn thể vía của mục tiêu đều chết.
+
+Thể vía của mục tiêu có thể du hành qua Cõi Astral. Khi thể vía rời cõi đó, thân xác và đồ đạc của mục tiêu di chuyển theo sợi dây bạc, khiến mục tiêu trở lại trong thân xác của mình ở cõi mới.
+
+Mọi sát thương hay hiệu ứng áp lên thể vía không ảnh hưởng đến thân xác và ngược lại. Nếu HP của thân xác hoặc thể vía về 0, phép kết thúc với mục tiêu đó. Phép kết thúc với mọi mục tiêu nếu bạn dùng hành động Ma thuật để hủy nó.
+
+Khi phép kết thúc với một mục tiêu chưa chết, mục tiêu trở lại thân xác và thoát khỏi trạng thái ngưng đọng.
+
+### Bói điềm (Augury)
+
+*Tiên tri bậc 2 (Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (que, xương, thẻ bài hoặc vật bói toán khác được đánh dấu đặc biệt, trị giá 25+ gp)
+- **Thời lượng:** Tức thời
+
+Bạn nhận điềm báo từ một thực thể dị giới về kết quả của một việc bạn định làm trong 30 phút tới. GM chọn điềm báo trong bảng **Điềm báo**.
+
+**Điềm báo (Omens)**
+
+| Điềm báo | Kết quả sẽ… |
 |---|---|
-| Weal (May Mắn) | Tốt |
-| Woe (Xui Xẻo) | Xấu |
-| Weal and woe (Vừa May Vừa Xui) | Vừa tốt vừa xấu |
-| Indifference (Trung Lập) | Không tốt không xấu |
+| Phúc (Weal) | Tốt |
+| Họa (Woe) | Xấu |
+| Phúc và họa (Weal and woe) | Vừa tốt vừa xấu |
+| Thờ ơ (Indifference) | Không tốt cũng không xấu |
 
-Phép thuật không tính đến các hoàn cảnh, chẳng hạn các spell khác, có thể thay đổi kết quả.
+Phép không tính đến những hoàn cảnh có thể làm thay đổi kết quả, như phép khác.
 
-Nếu bạn thi triển spell nhiều hơn một lần trước khi hoàn thành một Long Rest, có 25 phần trăm cơ hội tích lũy cho mỗi lần thi triển sau lần đầu tiên rằng bạn không nhận được câu trả lời.
+Nếu thi triển phép nhiều lần trước khi hoàn thành nghỉ dài, mỗi lần thi triển sau lần đầu có thêm 25% cơ hội cộng dồn rằng bạn không nhận được câu trả lời.
 
-### Hào Quang Sự Sống (Aura of Life)
-*Cấp độ 4 Abjuration (Cleric, Paladin)*
-- Casting Time: Action
-- Range: Self
-- Components: V
-- Duration: Concentration, up to 10 minutes
+### Hào quang sự sống (Aura of Life)
 
-Một hào quang tỏa ra từ bạn trong một 30-foot Emanation trong suốt thời lượng. Khi ở trong hào quang, bạn và đồng minh của bạn có Resistance với damage Necrotic, và Hit Point maximum của bạn không thể bị giảm. Nếu một đồng minh có 0 Hit Points bắt đầu turn của nó trong hào quang, đồng minh đó phục hồi 1 Hit Point.
+*Phòng hộ bậc 4 (Giáo sĩ, Thánh kỵ sĩ)*
 
-### Đánh Thức (Awaken)
-*Cấp độ 5 Transmutation (Bard, Druid)*
-- Casting Time: 8 giờ
-- Range: Touch
-- Components: V, S, M (một viên agate trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bạn dành thời gian thi triển để vẽ các đường dẫn phép thuật bên trong một viên đá quý, rồi chạm vào mục tiêu. Mục tiêu phải là một creature Beast hoặc Plant có Intelligence từ 3 trở xuống hoặc một cây tự nhiên không phải là creature. Mục tiêu nhận Intelligence 10 và khả năng nói một ngôn ngữ bạn biết. Nếu mục tiêu là một cây tự nhiên, nó trở thành một creature loại Plant và nhận khả năng di chuyển cành, rễ, dây leo, v.v., và nó nhận các giác quan tương tự con người. GM chọn chỉ số phù hợp cho Plant được đánh thức, chẳng hạn chỉ số của Awakened Shrub hoặc Awakened Tree trong "Monsters."
+Một hào quang tỏa ra từ bạn trong vùng tỏa 9 m (30 feet) suốt thời lượng. Khi ở trong hào quang, bạn và đồng minh kháng sát thương hoại tử, và điểm sinh lực tối đa không thể bị giảm. Nếu một đồng minh có 0 HP bắt đầu lượt trong hào quang, đồng minh đó hồi 1 HP.
 
-Mục tiêu được đánh thức có condition Charmed trong 30 ngày hoặc cho đến khi bạn hoặc đồng minh của bạn gây damage lên nó. Khi condition đó kết thúc, creature được đánh thức chọn thái độ của nó đối với bạn.
+### Đánh thức (Awaken)
 
-### Nguyền Rủa (Bane)
-*Cấp độ 1 Enchantment (Bard, Cleric, Warlock)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một giọt máu)
-- Duration: Concentration, up to 1 minute
+*Biến đổi bậc 5 (Thi sĩ, Druid)*
 
-Tối đa ba creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh phải mỗi creature thực hiện một Charisma saving throw. Bất cứ khi nào một mục tiêu thất bại trong save này thực hiện một attack roll hoặc một saving throw trước khi phép thuật kết thúc, mục tiêu trừ 1d4 khỏi attack roll hoặc save đó.
+- **Thời gian thi triển:** 8 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên mã não trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Bạn dành thời gian thi triển để khắc các đường dẫn ma thuật bên trong một viên đá quý, rồi chạm vào mục tiêu. Mục tiêu phải là sinh vật Thú hoặc Thực vật có Trí tuệ 3 trở xuống, hoặc một cây tự nhiên không phải sinh vật. Mục tiêu có Trí tuệ 10 và khả năng nói một ngôn ngữ bạn biết. Nếu là cây tự nhiên, nó trở thành sinh vật Thực vật, cử động được cành, rễ, dây leo, v.v., và có giác quan tương tự con người. GM chọn chỉ số phù hợp cho Thực vật được đánh thức, như chỉ số của Bụi cây thức tỉnh (Awakened Shrub) hoặc Cây thức tỉnh (Awakened Tree) trong [Quái vật A–Z](12-Monsters-A-Z.md).
 
-### Trục Xuất (Banishment)
-*Cấp độ 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một ngũ giác)
-- Duration: Concentration, up to 1 minute
+Mục tiêu được đánh thức ở trạng thái Mê hoặc trong 30 ngày hoặc đến khi bạn hay đồng minh gây sát thương lên nó. Khi trạng thái đó kết thúc, sinh vật tự chọn thái độ đối với bạn.
 
-Một creature bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Charisma saving throw hoặc bị đưa đến một demiplane vô hại trong suốt thời lượng. Khi ở đó, mục tiêu có condition Incapacitated. Khi phép thuật kết thúc, mục tiêu xuất hiện trở lại tại không gian nó đã rời đi hoặc không gian trống gần nhất nếu không gian đó đã bị chiếm.
+### Suy vận (Bane)
 
-Nếu mục tiêu là một Aberration, Celestial, Elemental, Fey, hoặc Fiend, mục tiêu không quay lại nếu phép thuật kéo dài đủ 1 phút. Thay vào đó, mục tiêu bị đưa đến một plane liên quan đến creature type của nó (GM chọn).
+*Yểm thuật bậc 1 (Thi sĩ, Giáo sĩ, Warlock)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một giọt máu)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Da Vỏ Cây (Barkskin)
-*Cấp độ 2 Transmutation (Druid, Ranger)*
-- Casting Time: Bonus Action
-- Range: Touch
-- Components: V, S, M (một nắm vỏ cây)
-- Duration: 1 giờ
+Tối đa ba sinh vật tùy chọn mà bạn nhìn thấy trong tầm phải cứu nguy Sức hút. Mỗi khi một mục tiêu cứu nguy thất bại tung tấn công hoặc cứu nguy trước khi phép kết thúc, nó trừ 1d4 khỏi kết quả.
 
-Bạn chạm vào một creature tự nguyện. Cho đến khi phép thuật kết thúc, da của mục tiêu mang vẻ ngoài giống vỏ cây, và mục tiêu có Armor Class là 17 nếu AC của nó thấp hơn con số đó.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-### Ngọn Hải Đăng Hy Vọng (Beacon of Hope)
-*Cấp độ 3 Abjuration (Cleric)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+### Trục xuất (Banishment)
 
-Chọn bất kỳ số lượng creature nào trong tầm đánh. Trong suốt thời lượng, mỗi mục tiêu có Advantage trên Wisdom saving throw và Death Saving Throw và phục hồi số Hit Points tối đa có thể từ bất kỳ việc chữa trị nào.
+*Phòng hộ bậc 4 (Giáo sĩ, Thánh kỵ sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-### Rối Loạn Tâm Trí (Befuddlement)
-*Cấp độ 8 Enchantment (Bard, Druid, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một vòng chìa khóa không có chìa)
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một hình ngũ giác)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Bạn công phá tâm trí của một creature mà bạn có thể nhìn thấy trong tầm đánh. Mục tiêu thực hiện một Intelligence saving throw.
+Một sinh vật mà bạn nhìn thấy trong tầm phải thành công cứu nguy Sức hút, nếu không bị đưa đến một bán diện (demiplane) vô hại suốt thời lượng. Khi ở đó, mục tiêu ở trạng thái Mất năng lực hành động. Khi phép kết thúc, mục tiêu xuất hiện lại tại chỗ cũ hoặc chỗ trống gần nhất nếu chỗ cũ bị chiếm.
 
-Nếu thất bại, mục tiêu nhận 10d12 damage Psychic và không thể thi triển spell hay thực hiện Magic action. Vào cuối mỗi 30 ngày, mục tiêu lặp lại save, kết thúc hiệu ứng nếu thành công. Hiệu ứng cũng có thể được kết thúc bằng spell Greater Restoration, Heal, hoặc Wish.
+Nếu mục tiêu là Dị thể, Thiên thể, Nguyên tố, Tiên hoặc Ác quỷ, nó không quay lại nếu phép duy trì đủ 1 phút. Thay vào đó, nó bị đưa đến một cõi gắn với loại sinh vật của nó (GM chọn).
 
-Nếu thành công trong save, mục tiêu chỉ nhận một nửa damage.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 4.
 
-### Nguyền Rủa (Bestow Curse)
-*Cấp độ 3 Necromancy (Bard, Cleric, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+### Da vỏ cây (Barkskin)
 
-Bạn chạm vào một creature, và nó phải thành công trong một Wisdom saving throw hoặc bị nguyền rủa trong suốt thời lượng. Cho đến khi lời nguyền kết thúc, mục tiêu chịu một trong các hiệu ứng sau theo lựa chọn của bạn:
+*Biến đổi bậc 2 (Druid, Kiểm lâm)*
 
-- Chọn một ability. Mục tiêu có Disadvantage trên ability check và saving throw dùng ability đó.
-- Mục tiêu có Disadvantage trên attack roll nhắm vào bạn.
-- Trong combat, mục tiêu phải thành công trong một Wisdom saving throw vào đầu mỗi turn của nó hoặc buộc phải thực hiện action Dodge trong turn đó.
-- Nếu bạn gây damage lên mục tiêu bằng một attack roll hoặc một spell, mục tiêu nhận thêm 1d8 damage Necrotic.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một nắm vỏ cây)
+- **Thời lượng:** 1 giờ
 
-*Using a Higher-Level Spell Slot:* Nếu bạn thi triển spell này bằng một ô phép thuật cấp độ 4, bạn có thể duy trì Concentration trên nó tối đa 10 phút. Nếu dùng ô cấp độ 5+, spell không yêu cầu Concentration, và thời lượng trở thành 8 giờ (ô cấp độ 5–6) hoặc 24 giờ (ô cấp độ 7–8). Nếu dùng ô cấp độ 9, spell kéo dài cho đến khi bị dispel.
+Bạn chạm vào một sinh vật tự nguyện. Cho đến khi phép kết thúc, da mục tiêu sần như vỏ cây, và AC của nó là 17 nếu AC hiện tại thấp hơn.
 
-### Xúc Tu Đen (Black Tentacles)
-*Cấp độ 4 Conjuration (Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một xúc tu)
-- Duration: Concentration, up to 1 minute
+### Ngọn đèn hy vọng (Beacon of Hope)
 
-Những xúc tu đen ngòm ngoằn ngoèo phủ kín một khu vực vuông 20-foot trên mặt đất mà bạn có thể nhìn thấy trong tầm đánh. Trong suốt thời lượng, những xúc tu này biến mặt đất trong khu vực đó thành Difficult Terrain.
+*Phòng hộ bậc 3 (Giáo sĩ)*
 
-Mỗi creature trong khu vực đó thực hiện một Strength saving throw. Nếu thất bại, nó nhận 3d6 damage Bludgeoning, và có condition Restrained cho đến khi phép thuật kết thúc. Một creature cũng thực hiện save đó nếu nó vào khu vực hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save đó một lần mỗi turn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Một creature bị Restrained có thể thực hiện một action để thực hiện một Strength (Athletics) check chống lại spell save DC của bạn, kết thúc condition trên bản thân nếu thành công.
+Chọn bất kỳ số sinh vật nào trong tầm. Trong suốt thời lượng, mỗi mục tiêu có lợi thế khi cứu nguy Minh triết và cứu nguy tử vong, và hồi số HP tối đa có thể từ mọi lần chữa lành.
 
-### Bức Tường Lưỡi Kiếm (Blade Barrier)
-*Cấp độ 6 Evocation (Cleric)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+### Làm rối trí (Befuddlement)
 
-Bạn tạo ra một bức tường lưỡi kiếm xoay tít làm từ năng lượng phép thuật. Bức tường xuất hiện trong tầm đánh và tồn tại trong suốt thời lượng. Bạn tạo một bức tường thẳng dài tối đa 100 feet, cao 20 feet, và dày 5 feet, hoặc một bức tường vòng đường kính tối đa 60 feet, cao 20 feet, và dày 5 feet. Bức tường mang lại Three-Quarters Cover, và không gian của nó là Difficult Terrain.
+*Yểm thuật bậc 8 (Thi sĩ, Druid, Warlock, Pháp sư)*
 
-Bất kỳ creature nào trong không gian của bức tường thực hiện một Dexterity saving throw, nhận 6d10 damage Force nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature cũng thực hiện save đó nếu nó vào không gian của bức tường hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save đó một lần mỗi turn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một chùm móc chìa khóa không có chìa)
+- **Thời lượng:** Tức thời
 
-### Ban Phước (Bless)
-*Cấp độ 1 Enchantment (Cleric, Paladin)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một Holy Symbol trị giá 5+ GP)
-- Duration: Concentration, up to 1 minute
+Bạn công phá tâm trí một sinh vật mà bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Trí tuệ.
 
-Bạn ban phước cho tối đa ba creature trong tầm đánh. Bất cứ khi nào một mục tiêu thực hiện một attack roll hoặc saving throw trước khi phép thuật kết thúc, mục tiêu cộng thêm 1d4 vào attack roll hoặc save đó.
+Nếu thất bại, mục tiêu chịu 10d12 sát thương tâm linh và không thể thi triển phép hay dùng hành động Ma thuật. Cuối mỗi 30 ngày, mục tiêu lặp lại lần cứu nguy, chấm dứt hiệu ứng nếu thành công. Hiệu ứng cũng có thể bị chấm dứt bằng phép *Phục hồi cao cấp* (Greater Restoration), *Chữa lành* (Heal) hoặc *Ước nguyện* (Wish).
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Nếu cứu nguy thành công, mục tiêu chỉ chịu một nửa sát thương.
 
-### Tàn Lụi (Blight)
-*Cấp độ 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
+### Giáng lời nguyền (Bestow Curse)
 
-Một creature mà bạn có thể nhìn thấy trong tầm đánh thực hiện một Constitution saving throw, nhận 8d8 damage Necrotic nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature loại Plant tự động thất bại trong save.
+*Tử linh bậc 3 (Thi sĩ, Giáo sĩ, Pháp sư)*
 
-Ngoài ra, hãy nhắm vào một cây phi phép thuật không phải là creature, chẳng hạn một cái cây hoặc bụi cây. Nó không thực hiện save; nó chỉ đơn giản héo úa và chết.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+Bạn chạm vào một sinh vật, và nó phải thành công cứu nguy Minh triết, nếu không bị nguyền suốt thời lượng. Cho đến khi lời nguyền kết thúc, mục tiêu chịu một trong các hiệu ứng sau (tùy bạn chọn):
+
+- Chọn một thuộc tính. Mục tiêu chịu bất lợi khi kiểm tra thuộc tính và cứu nguy bằng thuộc tính đó.
+- Mục tiêu chịu bất lợi khi tung tấn công nhắm vào bạn.
+- Trong chiến đấu, đầu mỗi lượt mục tiêu phải thành công cứu nguy Minh triết, nếu không buộc phải dùng hành động Né tránh trong lượt đó.
+- Nếu bạn gây sát thương lên mục tiêu bằng lần tung tấn công hoặc phép, mục tiêu chịu thêm 1d8 sát thương hoại tử.
+
+*Dùng ô phép bậc cao hơn.* Nếu thi triển bằng ô phép bậc 4, bạn có thể duy trì Tập trung tối đa 10 phút. Nếu dùng ô bậc 5+, phép không cần Tập trung, và thời lượng thành 8 giờ (ô bậc 5–6) hoặc 24 giờ (ô bậc 7–8). Nếu dùng ô bậc 9, phép kéo dài đến khi bị giải trừ.
+
+### Xúc tu đen (Black Tentacles)
+
+*Triệu hồi bậc 4 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (một xúc tu)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Những xúc tu đen ngoằn ngoèo phủ kín một khu vực vuông 6 m (20 feet) trên mặt đất mà bạn nhìn thấy trong tầm. Trong suốt thời lượng, xúc tu biến mặt đất trong khu vực thành địa hình khó đi.
+
+Mỗi sinh vật trong khu vực cứu nguy Sức mạnh. Nếu thất bại, nó chịu 3d6 sát thương đập và rơi vào trạng thái Kiềm giữ đến khi phép kết thúc. Sinh vật cũng cứu nguy như vậy khi đi vào khu vực hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
+
+Sinh vật bị Kiềm giữ có thể dùng một hành động kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn, chấm dứt trạng thái lên bản thân nếu thành công.
+
+### Rào lưỡi kiếm (Blade Barrier)
+
+*Gọi năng lượng bậc 6 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn tạo một bức tường lưỡi kiếm xoay tít bằng năng lượng ma thuật. Bức tường xuất hiện trong tầm và tồn tại suốt thời lượng. Bạn tạo một bức tường thẳng dài tối đa 30 m (100 feet), cao 6 m (20 feet), dày 1,5 m (5 feet), hoặc một bức tường vòng đường kính tối đa 18 m (60 feet), cao 6 m (20 feet), dày 1,5 m (5 feet). Bức tường cho che chắn ba phần tư, và chỗ của nó là địa hình khó đi.
+
+Mọi sinh vật trong chỗ của bức tường cứu nguy Khéo léo, chịu 6d10 sát thương lực nếu thất bại hoặc một nửa nếu thành công. Sinh vật cũng cứu nguy như vậy khi đi vào chỗ của bức tường hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
+
+### Ban phước (Bless)
+
+*Yểm thuật bậc 1 (Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một Biểu tượng thánh trị giá 5+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn ban phước cho tối đa ba sinh vật trong tầm. Mỗi khi một mục tiêu tung tấn công hoặc cứu nguy trước khi phép kết thúc, nó cộng thêm 1d4 vào kết quả.
+
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
+
+### Tàn lụi (Blight)
+
+*Tử linh bậc 4 (Druid, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Một sinh vật mà bạn nhìn thấy trong tầm cứu nguy Thể chất, chịu 8d8 sát thương hoại tử nếu thất bại hoặc một nửa nếu thành công. Sinh vật Thực vật tự động thất bại.
+
+Ngoài ra, bạn có thể nhắm vào một cây cỏ không ma thuật và không phải sinh vật, như cây hay bụi rậm. Nó không cứu nguy mà chỉ đơn giản héo úa và chết.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 4.
 
 ### Mù/Điếc (Blindness/Deafness)
-*Cấp độ 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V
-- Duration: 1 minute
 
-Một creature mà bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Constitution saving throw, nếu không nó có condition Blinded hoặc Deafened (tùy bạn chọn) trong suốt thời lượng. Vào cuối mỗi turn của nó, mục tiêu lặp lại save, kết thúc hiệu ứng trên bản thân nếu thành công.
+*Biến đổi bậc 2 (Thi sĩ, Giáo sĩ, Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V
+- **Thời lượng:** 1 phút
 
-### Chớp Ẩn (Blink)
-*Cấp độ 3 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: 1 minute
+Một sinh vật mà bạn nhìn thấy trong tầm phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Mù hoặc Điếc (tùy bạn chọn) suốt thời lượng. Cuối mỗi lượt của mình, mục tiêu lặp lại lần cứu nguy, chấm dứt hiệu ứng lên bản thân nếu thành công.
 
-Tung 1d6 vào cuối mỗi turn của bạn trong suốt thời lượng. Nếu ra 4–6, bạn biến mất khỏi plane hiện tại và xuất hiện trên Ethereal Plane (phép thuật kết thúc ngay nếu bạn đã ở trên plane đó). Khi ở trên Ethereal Plane, bạn có thể cảm nhận plane bạn đã rời khỏi, hiện lên trong các sắc thái xám, nhưng bạn không thể nhìn thấy bất cứ thứ gì ở đó cách xa hơn 60 feet. Bạn chỉ có thể ảnh hưởng và bị ảnh hưởng bởi các creature khác trên Ethereal Plane, và các creature trên plane kia không thể cảm nhận bạn trừ khi chúng có một khả năng đặc biệt cho phép cảm nhận những thứ trên Ethereal Plane.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 2.
 
-Bạn quay lại plane kia vào đầu turn tiếp theo của mình và khi phép thuật kết thúc nếu bạn đang ở trên Ethereal Plane. Bạn quay lại một không gian trống theo lựa chọn của mình mà bạn có thể nhìn thấy trong vòng 10 feet của không gian bạn đã rời đi. Nếu không có không gian trống nào trong tầm đó, bạn xuất hiện tại không gian trống gần nhất.
+### Chớp ẩn (Blink)
 
-### Mờ Ảo (Blur)
-*Cấp độ 2 Illusion (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V
-- Duration: Concentration, up to 1 minute
+*Biến đổi bậc 3 (Thuật sĩ, Pháp sư)*
 
-Cơ thể bạn trở nên mờ ảo. Trong suốt thời lượng, bất kỳ creature nào có Disadvantage trên attack roll nhắm vào bạn. Một kẻ tấn công miễn nhiễm với hiệu ứng này nếu nó cảm nhận bạn bằng Blindsight hoặc Truesight.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 1 phút
 
-### Tay Lửa (Burning Hands)
-*Cấp độ 1 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Instantaneous
+Tung 1d6 vào cuối mỗi lượt của bạn trong suốt thời lượng. Nếu ra 4–6, bạn biến mất khỏi cõi hiện tại và xuất hiện ở Cõi Ethereal (Ethereal Plane) (phép kết thúc ngay nếu bạn đã ở cõi đó). Khi ở Cõi Ethereal, bạn cảm nhận được cõi vừa rời đi dưới những sắc xám, nhưng không nhìn thấy gì ở đó xa quá 18 m (60 feet). Bạn chỉ tác động và bị tác động bởi sinh vật khác ở Cõi Ethereal, và sinh vật ở cõi kia không cảm nhận được bạn trừ khi có khả năng đặc biệt cho phép cảm nhận thứ ở Cõi Ethereal.
 
-Một tấm lửa mỏng phóng ra từ bạn. Mỗi creature trong một 15-foot Cone thực hiện một Dexterity saving throw, nhận 3d6 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Các object dễ cháy trong Cone không đang được mặc hay mang theo bắt đầu bốc cháy.
+Bạn trở về cõi kia vào đầu lượt kế tiếp và khi phép kết thúc nếu đang ở Cõi Ethereal. Bạn trở về một chỗ trống tùy chọn mà bạn nhìn thấy trong phạm vi 3 m (10 feet) quanh chỗ đã rời đi. Nếu không có chỗ trống trong phạm vi đó, bạn xuất hiện ở chỗ trống gần nhất.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+### Mờ nhòe (Blur)
 
-### Triệu Hồi Sét (Call Lightning)
-*Cấp độ 3 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+*Ảo ảnh bậc 2 (Thuật sĩ, Pháp sư)*
 
-Một đám mây bão xuất hiện tại một điểm trong tầm đánh mà bạn có thể nhìn thấy phía trên bạn. Nó có hình dạng một Cylinder cao 10 feet với bán kính 60 feet.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Khi thi triển spell, hãy chọn một điểm bạn có thể nhìn thấy dưới đám mây. Một tia sét phóng từ đám mây đến điểm đó. Mỗi creature trong vòng 5 feet của điểm đó thực hiện một Dexterity saving throw, nhận 3d10 damage Lightning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Cơ thể bạn trở nên mờ nhòe. Trong suốt thời lượng, mọi sinh vật chịu bất lợi khi tung tấn công nhắm vào bạn. Kẻ tấn công không bị ảnh hưởng nếu cảm nhận bạn bằng cảm nhận mù hoặc chân thị.
 
-Cho đến khi phép thuật kết thúc, bạn có thể thực hiện Magic action để gọi sét xuống theo cách đó lần nữa, nhắm vào cùng điểm đó hoặc một điểm khác.
+### Bàn tay bốc lửa (Burning Hands)
 
-Nếu bạn đang ở ngoài trời trong một cơn bão khi thi triển spell này, spell cho bạn quyền kiểm soát cơn bão đó thay vì tạo ra một đám mây mới. Trong điều kiện như vậy, damage của spell tăng thêm 1d10.
+*Gọi năng lượng bậc 1 (Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-### Trấn An Cảm Xúc (Calm Emotions)
-*Cấp độ 2 Enchantment (Bard, Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Một màn lửa mỏng phóng ra từ bạn. Mỗi sinh vật trong hình nón 4,5 m (15 feet) cứu nguy Khéo léo, chịu 3d6 sát thương lửa nếu thất bại hoặc một nửa nếu thành công. Đồ vật dễ cháy trong hình nón không có ai mặc hay mang bắt đầu bốc cháy.
 
-Mỗi Humanoid trong một Sphere bán kính 20-foot có tâm tại một điểm bạn chọn trong tầm đánh phải thành công trong một Charisma saving throw hoặc chịu một trong các hiệu ứng sau (chọn cho mỗi creature):
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 1.
 
-- Creature có Immunity với condition Charmed và Frightened cho đến khi phép thuật kết thúc. Nếu creature đã bị Charmed hoặc Frightened từ trước, các condition đó bị vô hiệu hóa trong suốt thời lượng.
-- Creature trở nên Indifferent với các creature theo lựa chọn của bạn mà nó đang Hostile. Sự thờ ơ này kết thúc nếu mục tiêu nhận damage hoặc chứng kiến đồng minh của nó nhận damage. Khi phép thuật kết thúc, thái độ của creature trở lại bình thường.
+### Triệu hồi sét (Call Lightning)
 
-### Xích Sét (Chain Lightning)
-*Cấp độ 6 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (ba chiếc ghim bạc)
-- Duration: Instantaneous
+*Triệu hồi bậc 3 (Druid)*
 
-Bạn phóng một tia sét về phía một mục tiêu bạn có thể nhìn thấy trong tầm đánh. Ba tia sét sau đó phóng từ mục tiêu đó đến tối đa ba mục tiêu khác theo lựa chọn của bạn, mỗi mục tiêu phải trong vòng 30 feet của mục tiêu đầu tiên. Một mục tiêu có thể là một creature hoặc một object và chỉ có thể bị nhắm bởi một trong các tia sét.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Mỗi mục tiêu thực hiện một Dexterity saving throw, nhận 10d8 damage Lightning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Một đám mây giông xuất hiện tại một điểm trong tầm mà bạn nhìn thấy ở phía trên mình. Nó có dạng hình trụ cao 3 m (10 feet), bán kính 18 m (60 feet).
 
-*Using a Higher-Level Spell Slot:* Một tia sét thêm phóng từ mục tiêu đầu tiên đến một mục tiêu khác cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+Khi thi triển, chọn một điểm bạn nhìn thấy bên dưới đám mây. Một tia sét giáng từ mây xuống điểm đó. Mỗi sinh vật trong phạm vi 1,5 m (5 feet) quanh điểm đó cứu nguy Khéo léo, chịu 3d10 sát thương sét nếu thất bại hoặc một nửa nếu thành công.
 
-### Mê Hoặc Quái Vật (Charm Monster)
-*Cấp độ 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: 1 giờ
+Cho đến khi phép kết thúc, bạn có thể dùng hành động Ma thuật để gọi sét giáng xuống lần nữa, nhắm cùng điểm hoặc điểm khác.
 
-Một creature bạn có thể nhìn thấy trong tầm đánh thực hiện một Wisdom saving throw. Nó thực hiện với Advantage nếu bạn hoặc đồng minh của bạn đang chiến đấu với nó. Nếu thất bại, mục tiêu có condition Charmed cho đến khi phép thuật kết thúc hoặc cho đến khi bạn hoặc đồng minh của bạn gây damage lên nó. Creature bị Charmed coi bạn là bạn bè thân thiết. Khi phép thuật kết thúc, mục tiêu biết nó đã bị bạn Charmed.
+Nếu đang ở ngoài trời trong cơn giông khi thi triển, phép cho bạn điều khiển cơn giông đó thay vì tạo mây mới. Trong điều kiện ấy, sát thương của phép tăng 1d10.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 3.
 
-### Mê Hoặc Người (Charm Person)
-*Cấp độ 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: 1 giờ
+### Trấn an cảm xúc (Calm Emotions)
 
-Một Humanoid bạn có thể nhìn thấy trong tầm đánh thực hiện một Wisdom saving throw. Nó thực hiện với Advantage nếu bạn hoặc đồng minh của bạn đang chiến đấu với nó. Nếu thất bại, mục tiêu có condition Charmed cho đến khi phép thuật kết thúc hoặc cho đến khi bạn hoặc đồng minh của bạn gây damage lên nó. Creature bị Charmed coi bạn là bạn bè thân thiết. Khi phép thuật kết thúc, mục tiêu biết nó đã bị bạn Charmed.
+*Yểm thuật bậc 2 (Thi sĩ, Giáo sĩ)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Chạm Lạnh Giá (Chill Touch)
-*Cantrip Necromancy (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+Mỗi Hình người trong hình cầu bán kính 6 m (20 feet) lấy một điểm tùy chọn trong tầm làm tâm phải thành công cứu nguy Sức hút, nếu không chịu một trong các hiệu ứng sau (chọn cho từng sinh vật):
 
-Khơi dòng cái lạnh của nấm mồ, thực hiện một melee spell attack nhắm vào một mục tiêu trong tầm với. Nếu trúng, mục tiêu nhận 1d10 damage Necrotic, và nó không thể phục hồi Hit Points cho đến hết turn tiếp theo của bạn.
+- Sinh vật miễn nhiễm trạng thái Mê hoặc và Hoảng sợ đến khi phép kết thúc. Nếu sinh vật đang bị Mê hoặc hoặc Hoảng sợ, các trạng thái đó bị vô hiệu hóa suốt thời lượng.
+- Sinh vật trở nên Thờ ơ với những sinh vật tùy chọn mà nó đang Thù địch. Sự thờ ơ chấm dứt nếu mục tiêu chịu sát thương hoặc chứng kiến đồng minh chịu sát thương. Khi phép kết thúc, thái độ của sinh vật trở lại như cũ.
 
-*Cantrip Upgrade:* Damage tăng thêm 1d10 khi bạn đạt cấp độ 5 (2d10), 11 (3d10), và 17 (4d10).
+### Sét dây chuyền (Chain Lightning)
 
-### Cầu Năng Lượng Ngũ Sắc (Chromatic Orb)
-*Cấp độ 1 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một viên kim cương trị giá 50+ GP)
-- Duration: Instantaneous
+*Gọi năng lượng bậc 6 (Thuật sĩ, Pháp sư)*
 
-Bạn ném một quả cầu năng lượng về phía một mục tiêu trong tầm đánh. Chọn Acid, Cold, Fire, Lightning, Poison, hoặc Thunder cho loại quả cầu bạn tạo ra, rồi thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 3d8 damage loại đã chọn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (ba chiếc ghim bạc)
+- **Thời lượng:** Tức thời
 
-Nếu bạn tung ra cùng một số trên hai hoặc nhiều xúc xắc d8, quả cầu nhảy sang một mục tiêu khác theo lựa chọn của bạn trong vòng 30 feet của mục tiêu. Thực hiện một attack roll nhắm vào mục tiêu mới, và tung một damage roll mới. Quả cầu không thể nhảy lần nữa trừ khi bạn thi triển spell bằng một ô phép thuật cấp độ 2+.
+Bạn phóng một tia sét về phía một mục tiêu bạn nhìn thấy trong tầm. Ba tia sét tiếp tục nhảy từ mục tiêu đó sang tối đa ba mục tiêu khác tùy chọn, mỗi mục tiêu phải ở trong phạm vi 9 m (30 feet) quanh mục tiêu đầu tiên. Mục tiêu có thể là sinh vật hoặc đồ vật, và mỗi mục tiêu chỉ bị một tia sét nhắm vào.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 1. Quả cầu có thể nhảy tối đa số lần bằng cấp độ của ô đã dùng, và một creature chỉ có thể bị nhắm một lần bởi mỗi lần thi triển spell này.
+Mỗi mục tiêu cứu nguy Khéo léo, chịu 10d8 sát thương sét nếu thất bại hoặc một nửa nếu thành công.
 
-### Vòng Tròn Tử Thần (Circle of Death)
-*Cấp độ 6 Necromancy (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (bột từ một viên ngọc trai đen nghiền nát trị giá 500+ GP)
-- Duration: Instantaneous
+*Dùng ô phép bậc cao hơn.* Có thêm một tia sét nhảy từ mục tiêu đầu tiên sang mục tiêu khác cho mỗi bậc ô phép trên 6.
 
-Năng lượng tiêu cực lan tỏa trong một Sphere bán kính 60-foot từ một điểm bạn chọn trong tầm đánh. Mỗi creature trong khu vực đó thực hiện một Constitution saving throw, nhận 8d8 damage Necrotic nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+### Mê hoặc quái vật (Charm Monster)
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 2d8 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+*Yểm thuật bậc 4 (Thi sĩ, Druid, Thuật sĩ, Warlock, Pháp sư)*
 
-### Thấu Thị (Clairvoyance)
-*Cấp độ 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
-- Casting Time: 10 phút
-- Range: 1 dặm
-- Components: V, S, M (một vật dẫn trị giá 100+ GP, hoặc một chiếc sừng nạm ngọc để nghe hoặc một con mắt thủy tinh để nhìn)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
 
-Bạn tạo ra một cảm biến Invisible trong tầm đánh tại một địa điểm quen thuộc với bạn (một nơi bạn từng đến hoặc từng thấy) hoặc tại một địa điểm rõ ràng mà bạn không quen thuộc (chẳng hạn sau một cánh cửa, quanh một góc, hoặc trong một khu rừng nhỏ). Cảm biến vô hình, bất khả xâm phạm này giữ nguyên vị trí trong suốt thời lượng.
+Một sinh vật mà bạn nhìn thấy trong tầm cứu nguy Minh triết, có lợi thế nếu bạn hoặc đồng minh đang giao chiến với nó. Nếu thất bại, mục tiêu rơi vào trạng thái Mê hoặc đến khi phép kết thúc hoặc đến khi bạn hay đồng minh gây sát thương lên nó. Sinh vật bị Mê hoặc coi bạn là người quen thân thiện. Khi phép kết thúc, mục tiêu biết mình đã bị bạn mê hoặc.
 
-Khi thi triển spell, hãy chọn nhìn hoặc nghe. Bạn có thể dùng giác quan đã chọn thông qua cảm biến như thể bạn đang ở không gian của nó. Như một Bonus Action, bạn có thể chuyển đổi giữa nhìn và nghe.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 4.
 
-Một creature nhìn thấy cảm biến (chẳng hạn một creature hưởng lợi từ See Invisibility hoặc Truesight) thấy một quả cầu phát sáng cỡ nắm tay của bạn.
+### Mê hoặc người (Charm Person)
 
-### Nhân Bản (Clone)
-*Cấp độ 8 Necromancy (Wizard)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (một viên kim cương trị giá 1.000+ GP, bị phép thuật tiêu thụ, và một bình có thể đậy kín trị giá 2.000+ GP đủ lớn để chứa creature được nhân bản)
-- Duration: Instantaneous
+*Yểm thuật bậc 1 (Thi sĩ, Druid, Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn chạm vào một creature hoặc ít nhất 1 cubic inch thịt của nó. Một bản sao bất động của creature đó hình thành bên trong bình dùng khi thi triển spell và hoàn thành phát triển sau 120 ngày; bạn chọn liệu bản sao hoàn chỉnh cùng tuổi với creature hay trẻ hơn. Bản sao vẫn bất động và tồn tại vô thời hạn miễn là bình chứa nó không bị xáo trộn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
 
-Nếu creature gốc chết sau khi bản sao hoàn thành hình thành, linh hồn của creature chuyển sang bản sao nếu linh hồn tự do và sẵn lòng quay lại. Bản sao giống hệt về mặt thể chất với bản gốc và có cùng tính cách, ký ức, và khả năng, nhưng không có bất kỳ trang bị nào của bản gốc. Xác của creature gốc, nếu còn, trở nên bất động và không thể hồi sinh, vì linh hồn của creature ở nơi khác.
+Một Hình người mà bạn nhìn thấy trong tầm cứu nguy Minh triết, có lợi thế nếu bạn hoặc đồng minh đang giao chiến với nó. Nếu thất bại, mục tiêu rơi vào trạng thái Mê hoặc đến khi phép kết thúc hoặc đến khi bạn hay đồng minh gây sát thương lên nó. Sinh vật bị Mê hoặc coi bạn là người quen thân thiện. Khi phép kết thúc, mục tiêu biết mình đã bị bạn mê hoặc.
 
-### Đám Mây Tử Khí (Cloudkill)
-*Cấp độ 5 Conjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-Bạn tạo ra một Sphere bán kính 20-foot sương mù vàng-lục có tâm tại một điểm trong tầm đánh. Sương mù tồn tại trong suốt thời lượng hoặc cho đến khi gió mạnh (chẳng hạn gió được tạo bởi Gust of Wind) làm nó tan đi, kết thúc phép thuật. Khu vực của nó bị Heavily Obscured.
+### Chạm lạnh giá (Chill Touch)
 
-Mỗi creature trong Sphere thực hiện một Constitution saving throw, nhận 5d8 damage Poison nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature cũng phải thực hiện save này khi Sphere di chuyển vào không gian của nó và khi nó vào Sphere hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save này một lần mỗi turn.
+*Phép sơ cấp Tử linh (Thuật sĩ, Warlock, Pháp sư)*
 
-Sphere di chuyển 10 feet ra xa bạn vào đầu mỗi turn của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+Khơi dòng cái lạnh của nấm mồ, bạn tung tấn công cận chiến bằng phép nhắm vào một mục tiêu trong tầm với. Nếu trúng, mục tiêu chịu 1d10 sát thương hoại tử và không thể hồi HP cho đến hết lượt kế tiếp của bạn.
 
-### Tia Sáng Ngũ Sắc (Color Spray)
-*Cấp độ 1 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một nhúm cát nhiều màu)
-- Duration: Instantaneous
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d10 khi bạn đạt cấp 5 (2d10), 11 (3d10) và 17 (4d10).
 
-Bạn phóng ra một loạt ánh sáng nhiều màu chói lóa. Mỗi creature trong một 15-foot Cone xuất phát từ bạn phải thành công trong một Constitution saving throw hoặc có condition Blinded cho đến hết turn tiếp theo của bạn.
+### Cầu năng lượng ngũ sắc (Chromatic Orb)
 
-### Mệnh Lệnh (Command)
-*Cấp độ 1 Enchantment (Bard, Cleric, Paladin)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+*Gọi năng lượng bậc 1 (Thuật sĩ, Pháp sư)*
 
-Bạn nói một mệnh lệnh một từ với một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thành công trong một Wisdom saving throw hoặc tuân theo mệnh lệnh trong turn tiếp theo của nó. Chọn mệnh lệnh từ các lựa chọn sau:
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (một viên kim cương trị giá 50+ gp)
+- **Thời lượng:** Tức thời
 
-- **Approach.** Mục tiêu di chuyển về phía bạn theo đường ngắn nhất và trực tiếp nhất, kết thúc turn nếu nó di chuyển trong vòng 5 feet của bạn.
-- **Drop.** Mục tiêu thả bất cứ thứ gì nó đang cầm rồi kết thúc turn.
-- **Flee.** Mục tiêu dùng turn của nó để di chuyển ra xa bạn bằng phương tiện nhanh nhất có sẵn.
-- **Grovel.** Mục tiêu có condition Prone rồi kết thúc turn.
-- **Halt.** Trong turn của nó, mục tiêu không di chuyển và không thực hiện action hay Bonus Action.
+Bạn ném một quả cầu năng lượng về phía một mục tiêu trong tầm. Chọn loại quả cầu là axit, lạnh, lửa, sét, độc hoặc sấm, rồi tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 3d8 sát thương loại đã chọn.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể ảnh hưởng thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Nếu hai viên d8 trở lên ra cùng một số, quả cầu nảy sang một mục tiêu khác tùy chọn trong phạm vi 9 m (30 feet) quanh mục tiêu. Tung tấn công mục tiêu mới và tung sát thương mới. Quả cầu không thể nảy tiếp trừ khi bạn thi triển bằng ô phép bậc 2 trở lên.
 
-### Giao Tiếp Thần Linh (Commune)
-*Cấp độ 5 Divination (Cleric)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Self
-- Components: V, S, M (nhang)
-- Duration: 1 phút
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 1. Quả cầu có thể nảy tối đa số lần bằng bậc của ô đã dùng, và mỗi sinh vật chỉ bị nhắm một lần trong mỗi lần thi triển phép.
 
-Bạn liên lạc với một vị thần hoặc một đại diện thần thánh và hỏi tối đa ba câu hỏi có thể trả lời bằng có hoặc không. Bạn phải hỏi các câu hỏi trước khi phép thuật kết thúc. Bạn nhận một câu trả lời chính xác cho mỗi câu hỏi.
+### Vòng tròn tử thần (Circle of Death)
 
-Các thực thể thần thánh không nhất thiết toàn tri, vì vậy bạn có thể nhận câu trả lời "không rõ" nếu một câu hỏi liên quan đến thông tin nằm ngoài kiến thức của vị thần. Trong trường hợp một câu trả lời một từ có thể gây hiểu lầm hoặc trái với lợi ích của vị thần, GM có thể đưa ra một cụm từ ngắn làm câu trả lời thay thế.
+*Tử linh bậc 6 (Thuật sĩ, Warlock, Pháp sư)*
 
-Nếu bạn thi triển spell nhiều hơn một lần trước khi hoàn thành một Long Rest, có 25 phần trăm cơ hội tích lũy cho mỗi lần thi triển sau lần đầu tiên rằng bạn không nhận được câu trả lời.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (bột ngọc trai đen nghiền trị giá 500+ gp)
+- **Thời lượng:** Tức thời
 
-### Giao Tiếp Thiên Nhiên (Commune with Nature)
-*Cấp độ 5 Divination (Druid, Ranger)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Self
-- Components: V, S
-- Duration: Instantaneous
+Năng lượng âm lan tỏa trong hình cầu bán kính 18 m (60 feet) từ một điểm tùy chọn trong tầm. Mỗi sinh vật trong vùng cứu nguy Thể chất, chịu 8d8 sát thương hoại tử nếu thất bại hoặc một nửa nếu thành công.
 
-Bạn giao tiếp với các linh hồn thiên nhiên và nhận kiến thức về khu vực xung quanh. Ở ngoài trời, spell cho bạn kiến thức về khu vực trong vòng 3 dặm quanh bạn. Trong hang động và các môi trường ngầm tự nhiên khác, bán kính bị giới hạn còn 300 feet. Spell không hoạt động ở nơi thiên nhiên đã bị thay thế bởi công trình xây dựng, chẳng hạn lâu đài và khu định cư.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 2d8 cho mỗi bậc ô phép trên 6.
 
-Chọn ba trong số các sự thật sau; bạn biết những sự thật đó liên quan đến khu vực của spell:
+### Thấu thị (Clairvoyance)
 
-- Vị trí các khu định cư
-- Vị trí các portal đến các plane tồn tại khác
-- Vị trí của một creature Challenge Rating 10+ (GM chọn) thuộc loại Celestial, Elemental, Fey, Fiend, hoặc Undead
-- Loại cây, khoáng chất, hoặc Beast phổ biến nhất (bạn chọn muốn biết loại nào)
-- Vị trí các vùng nước
+*Tiên tri bậc 3 (Thi sĩ, Giáo sĩ, Thuật sĩ, Pháp sư)*
 
-Ví dụ, bạn có thể xác định vị trí của một quái vật mạnh trong khu vực, vị trí các vùng nước, và vị trí bất kỳ thị trấn nào.
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 1,6 km (1 mile)
+- **Thành phần:** V, S, M (một tiêu điểm trị giá 100+ gp: tù và nạm ngọc để nghe, hoặc con mắt thủy tinh để nhìn)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-### Hiểu Ngôn Ngữ (Comprehend Languages)
-*Cấp độ 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S, M (một nhúm bồ hóng và muối)
-- Duration: 1 giờ
+Bạn tạo một cảm biến Vô hình trong tầm, tại nơi quen thuộc với bạn (nơi từng đến hoặc từng thấy) hoặc nơi hiển nhiên dù bạn chưa quen (như sau cánh cửa, quanh góc tường hay trong lùm cây). Cảm biến vô hình và không thể bị tổn thương này đứng yên tại chỗ suốt thời lượng.
 
-Trong suốt thời lượng, bạn hiểu nghĩa đen của bất kỳ ngôn ngữ nào bạn nghe thấy hoặc thấy được ký hiệu. Bạn cũng hiểu bất kỳ ngôn ngữ viết nào bạn thấy, nhưng bạn phải đang chạm vào bề mặt nơi các từ được viết. Cần khoảng 1 phút để đọc một trang văn bản. Spell này không giải mã ký hiệu hay thông điệp bí mật.
+Khi thi triển, chọn nhìn hoặc nghe. Bạn dùng giác quan đã chọn qua cảm biến như thể đang ở chỗ của nó. Bằng một hành động phụ, bạn có thể chuyển giữa nhìn và nghe.
 
-### Cưỡng Ép (Compulsion)
-*Cấp độ 4 Enchantment (Bard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Sinh vật nhìn thấy được cảm biến (như sinh vật được hưởng *Thấy vô hình* — See Invisibility — hoặc có chân thị) thấy một quả cầu sáng to bằng nắm tay bạn.
 
-Mỗi creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Wisdom saving throw hoặc có condition Charmed cho đến khi phép thuật kết thúc.
+### Nhân bản (Clone)
 
-Trong suốt thời lượng, bạn có thể thực hiện một Bonus Action để chỉ định một hướng nằm ngang với bạn. Mỗi mục tiêu bị Charmed phải dùng càng nhiều movement càng tốt để di chuyển theo hướng đó trong turn tiếp theo của nó, đi theo tuyến đường an toàn nhất. Sau khi di chuyển theo cách này, một mục tiêu lặp lại save, kết thúc phép thuật trên bản thân nếu thành công.
+*Tử linh bậc 8 (Pháp sư)*
 
-### Nón Băng Giá (Cone of Cold)
-*Cấp độ 5 Evocation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một hình nón pha lê hoặc thủy tinh nhỏ)
-- Duration: Instantaneous
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên kim cương trị giá 1.000+ gp, bị phép tiêu hao, và một bình đậy kín trị giá 2.000+ gp đủ lớn để chứa sinh vật được nhân bản)
+- **Thời lượng:** Tức thời
 
-Bạn giải phóng một luồng khí lạnh. Mỗi creature trong một 60-foot Cone xuất phát từ bạn thực hiện một Constitution saving throw, nhận 8d8 damage Cold nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature bị giết bởi spell này trở thành một bức tượng đông cứng cho đến khi tan băng.
+Bạn chạm vào một sinh vật hoặc ít nhất 16 cm³ (1 inch khối) thịt của nó. Một bản sao trơ lì của sinh vật hình thành trong bình dùng để thi triển và phát triển xong sau 120 ngày; bạn chọn bản sao hoàn chỉnh cùng tuổi với sinh vật hay trẻ hơn. Bản sao vẫn trơ lì và tồn tại vô thời hạn, miễn là bình chứa không bị xáo trộn.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+Nếu sinh vật gốc chết sau khi bản sao đã hoàn chỉnh, linh hồn của nó chuyển sang bản sao nếu linh hồn tự do và sẵn lòng trở lại. Bản sao giống hệt bản gốc về thể chất, có cùng tính cách, ký ức và năng lực, nhưng không có trang bị của bản gốc. Thi thể của bản gốc (nếu còn) trở nên trơ lì và không thể hồi sinh, vì linh hồn đã ở nơi khác.
 
-### Hỗn Loạn (Confusion)
-*Cấp độ 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (ba vỏ hạt)
-- Duration: Concentration, up to 1 minute
+### Đám mây tử khí (Cloudkill)
 
-Mỗi creature trong một Sphere bán kính 10-foot có tâm tại một điểm bạn chọn trong tầm đánh phải thành công trong một Wisdom saving throw, nếu không mục tiêu đó không thể thực hiện Bonus Action hay Reaction và phải tung 1d10 vào đầu mỗi turn của nó để xác định hành vi của nó trong turn đó, tham khảo bảng dưới đây.
+*Triệu hồi bậc 5 (Thuật sĩ, Pháp sư)*
 
-| 1d10 | Hành vi trong Turn |
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn tạo một hình cầu sương mù vàng lục bán kính 6 m (20 feet) lấy một điểm trong tầm làm tâm. Sương mù tồn tại suốt thời lượng hoặc đến khi gió mạnh (như gió của *Cơn gió lốc* — Gust of Wind) thổi tan, chấm dứt phép. Vùng sương bị che khuất nặng.
+
+Mỗi sinh vật trong hình cầu cứu nguy Thể chất, chịu 5d8 sát thương độc nếu thất bại hoặc một nửa nếu thành công. Sinh vật cũng phải cứu nguy khi hình cầu di chuyển vào chỗ của nó, khi nó đi vào hình cầu hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
+
+Đầu mỗi lượt của bạn, hình cầu trôi ra xa bạn 3 m (10 feet).
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 5.
+
+### Tia sáng ngũ sắc (Color Spray)
+
+*Ảo ảnh bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một nhúm cát nhiều màu)
+- **Thời lượng:** Tức thời
+
+Bạn phóng ra một chùm ánh sáng nhiều màu chói lòa. Mỗi sinh vật trong hình nón 4,5 m (15 feet) xuất phát từ bạn phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Mù cho đến hết lượt kế tiếp của bạn.
+
+### Ra lệnh (Command)
+
+*Yểm thuật bậc 1 (Thi sĩ, Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Bạn nói một mệnh lệnh một từ với một sinh vật mà bạn nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không phải làm theo lệnh trong lượt kế tiếp của nó. Chọn lệnh trong các lựa chọn sau:
+
+- **Lại đây (Approach).** Mục tiêu di chuyển về phía bạn theo đường ngắn và thẳng nhất, kết thúc lượt nếu đến trong phạm vi 1,5 m (5 feet) quanh bạn.
+- **Buông (Drop).** Mục tiêu buông mọi thứ đang cầm rồi kết thúc lượt.
+- **Chạy (Flee).** Mục tiêu dùng lượt để chạy xa bạn bằng cách nhanh nhất có thể.
+- **Quỳ (Grovel).** Mục tiêu rơi vào trạng thái Ngã sấp rồi kết thúc lượt.
+- **Dừng (Halt).** Trong lượt của mình, mục tiêu không di chuyển và không dùng hành động hay hành động phụ.
+
+*Dùng ô phép bậc cao hơn.* Bạn có thể tác động thêm một sinh vật cho mỗi bậc ô phép trên 1.
+
+### Thỉnh ý thần (Commune)
+
+*Tiên tri bậc 5 (Giáo sĩ)*
+
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (nhang)
+- **Thời lượng:** 1 phút
+
+Bạn liên lạc với một vị thần hoặc sứ giả của thần và hỏi tối đa ba câu hỏi dạng có/không. Bạn phải hỏi trước khi phép kết thúc. Bạn nhận câu trả lời chính xác cho mỗi câu.
+
+Thần linh không nhất thiết biết mọi điều, nên bạn có thể nhận câu trả lời "không rõ" nếu câu hỏi nằm ngoài hiểu biết của thần. Trường hợp câu trả lời một từ có thể gây hiểu lầm hoặc đi ngược lợi ích của thần, GM có thể trả lời bằng một cụm từ ngắn.
+
+Nếu thi triển phép nhiều lần trước khi hoàn thành nghỉ dài, mỗi lần thi triển sau lần đầu có thêm 25% cơ hội cộng dồn rằng bạn không nhận được câu trả lời.
+
+### Giao tiếp thiên nhiên (Commune with Nature)
+
+*Tiên tri bậc 5 (Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn giao cảm với các linh hồn thiên nhiên và thu nhận hiểu biết về vùng xung quanh. Ngoài trời, phép cho bạn hiểu biết về khu vực trong phạm vi 4,8 km (3 mile). Trong hang động và môi trường ngầm tự nhiên khác, bán kính giới hạn còn 90 m (300 feet). Phép không hoạt động ở nơi thiên nhiên đã bị công trình xây dựng thay thế, như lâu đài và khu dân cư.
+
+Chọn ba điều dưới đây; bạn biết những điều đó về khu vực của phép:
+
+- Vị trí các khu dân cư
+- Vị trí các cổng dẫn sang cõi tồn tại khác
+- Vị trí một sinh vật có Mức thách thức 10+ (GM chọn) thuộc loại Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống
+- Loại thực vật, khoáng chất hoặc Thú phổ biến nhất (bạn chọn muốn biết loại nào)
+- Vị trí các nguồn nước
+
+Ví dụ, bạn có thể xác định vị trí một quái vật mạnh trong khu vực, vị trí các nguồn nước và vị trí mọi thị trấn.
+
+### Hiểu ngôn ngữ (Comprehend Languages)
+
+*Tiên tri bậc 1 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một nhúm bồ hóng và muối)
+- **Thời lượng:** 1 giờ
+
+Trong suốt thời lượng, bạn hiểu nghĩa đen của mọi ngôn ngữ nói hoặc ký hiệu mà bạn nghe hay thấy. Bạn cũng hiểu mọi văn bản viết mà bạn thấy, nhưng phải chạm vào bề mặt có chữ. Đọc một trang văn bản mất khoảng 1 phút. Phép không giải mã được ký hiệu hay thông điệp mật.
+
+### Cưỡng ép (Compulsion)
+
+*Yểm thuật bậc 4 (Thi sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Mỗi sinh vật tùy chọn mà bạn nhìn thấy trong tầm phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc đến khi phép kết thúc.
+
+Trong suốt thời lượng, bạn có thể dùng hành động phụ để chỉ định một hướng nằm ngang so với bạn. Mỗi mục tiêu bị Mê hoặc phải dùng hết khả năng di chuyển để đi theo hướng đó trong lượt kế tiếp, theo đường an toàn nhất. Sau khi di chuyển như vậy, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
+
+### Nón băng giá (Cone of Cold)
+
+*Gọi năng lượng bậc 5 (Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một hình nón nhỏ bằng pha lê hoặc thủy tinh)
+- **Thời lượng:** Tức thời
+
+Bạn giải phóng một luồng khí lạnh buốt. Mỗi sinh vật trong hình nón 18 m (60 feet) xuất phát từ bạn cứu nguy Thể chất, chịu 8d8 sát thương lạnh nếu thất bại hoặc một nửa nếu thành công. Sinh vật bị phép này giết chết trở thành bức tượng băng cho đến khi tan.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 5.
+
+### Hỗn loạn (Confusion)
+
+*Yểm thuật bậc 4 (Thi sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (ba vỏ hạt)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Mỗi sinh vật trong hình cầu bán kính 3 m (10 feet) lấy một điểm tùy chọn trong tầm làm tâm phải thành công cứu nguy Minh triết, nếu không nó không thể dùng hành động phụ hay phản ứng, và phải tung 1d10 đầu mỗi lượt để xác định hành vi trong lượt đó, theo bảng dưới đây.
+
+| 1d10 | Hành vi trong lượt |
 |---|---|
-| 1 | Mục tiêu không thực hiện action, và dùng hết movement để di chuyển. Tung 1d4 để xác định hướng: 1, bắc; 2, đông; 3, nam; hoặc 4, tây. |
-| 2–6 | Mục tiêu không di chuyển hay thực hiện action. |
-| 7–8 | Mục tiêu không di chuyển, và thực hiện action Attack để thực hiện một melee attack nhắm vào một creature ngẫu nhiên trong tầm với. Nếu không có creature nào trong tầm với, mục tiêu không thực hiện action. |
-| 9–10 | Mục tiêu tự chọn hành vi của mình. |
+| 1 | Mục tiêu không dùng hành động và dùng hết lượng di chuyển để di chuyển. Tung 1d4 để chọn hướng: 1 bắc; 2 đông; 3 nam; 4 tây. |
+| 2–6 | Mục tiêu không di chuyển và không dùng hành động. |
+| 7–8 | Mục tiêu không di chuyển và dùng hành động Tấn công để tấn công cận chiến một sinh vật ngẫu nhiên trong tầm với. Nếu không có sinh vật nào trong tầm với, mục tiêu không dùng hành động. |
+| 9–10 | Mục tiêu tự chọn hành vi. |
 
-Vào cuối mỗi turn của nó, một mục tiêu bị ảnh hưởng lặp lại save, kết thúc phép thuật trên bản thân nếu thành công.
+Cuối mỗi lượt của mình, mục tiêu bị ảnh hưởng lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-*Using a Higher-Level Spell Slot:* Bán kính của Sphere tăng thêm 5 feet cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+*Dùng ô phép bậc cao hơn.* Bán kính hình cầu tăng 1,5 m (5 feet) cho mỗi bậc ô phép trên 4.
 
-### Triệu Hồi Muông Thú (Conjure Animals)
-*Cấp độ 3 Conjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+### Triệu hồi muông thú (Conjure Animals)
 
-Bạn triệu hồi các linh hồn thiên nhiên xuất hiện dưới dạng một bầy động vật ma quái, phi vật chất kích thước Large trong một không gian trống mà bạn có thể nhìn thấy trong tầm đánh. Bầy này tồn tại trong suốt thời lượng, và bạn chọn hình dạng động vật của các linh hồn, chẳng hạn sói, rắn, hoặc chim.
+*Triệu hồi bậc 3 (Druid, Kiểm lâm)*
 
-Bạn có Advantage trên Strength saving throw khi bạn trong vòng 5 feet của bầy, và khi di chuyển trong turn của mình, bạn cũng có thể di chuyển bầy tối đa 30 feet đến một không gian trống bạn có thể nhìn thấy.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bất cứ khi nào bầy di chuyển trong vòng 10 feet của một creature bạn có thể nhìn thấy và bất cứ khi nào một creature bạn có thể nhìn thấy vào một không gian trong vòng 10 feet của bầy hoặc kết thúc turn ở đó, bạn có thể buộc creature đó thực hiện một Dexterity saving throw. Nếu thất bại, creature nhận 3d10 damage Slashing. Một creature chỉ thực hiện save này một lần mỗi turn.
+Bạn triệu gọi các linh hồn thiên nhiên hiện ra thành một bầy thú ma quái, phi vật chất cỡ Lớn tại một chỗ trống mà bạn nhìn thấy trong tầm. Bầy thú tồn tại suốt thời lượng, và bạn chọn hình dạng động vật cho các linh hồn, như sói, rắn hay chim.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+Bạn có lợi thế khi cứu nguy Sức mạnh khi ở trong phạm vi 1,5 m (5 feet) quanh bầy, và khi di chuyển trong lượt, bạn cũng có thể di chuyển bầy tối đa 9 m (30 feet) đến một chỗ trống mà bạn nhìn thấy.
 
-### Triệu Hồi Thiên Thần (Conjure Celestial)
-*Cấp độ 7 Conjuration (Cleric)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+Mỗi khi bầy di chuyển đến trong phạm vi 3 m (10 feet) quanh một sinh vật bạn nhìn thấy, và mỗi khi một sinh vật bạn nhìn thấy đi vào chỗ trong phạm vi 3 m (10 feet) quanh bầy hoặc kết thúc lượt ở đó, bạn có thể buộc sinh vật đó cứu nguy Khéo léo. Nếu thất bại, sinh vật chịu 3d10 sát thương chém. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
 
-Bạn triệu hồi một linh hồn từ các Upper Plane, hiện lên như một cột ánh sáng trong một Cylinder bán kính 10-foot, cao 40-foot có tâm tại một điểm trong tầm đánh. Với mỗi creature bạn có thể nhìn thấy trong Cylinder, hãy chọn ánh sáng nào chiếu lên nó:
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 3.
 
-- **Healing Light.** Mục tiêu phục hồi Hit Points bằng 4d12 cộng spellcasting ability modifier của bạn.
-- **Searing Light.** Mục tiêu thực hiện một Dexterity saving throw, nhận 6d12 damage Radiant nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+### Triệu hồi thiên thần (Conjure Celestial)
 
-Cho đến khi phép thuật kết thúc, Bright Light tràn ngập Cylinder, và khi bạn di chuyển trong turn của mình, bạn cũng có thể di chuyển Cylinder tối đa 30 feet.
+*Triệu hồi bậc 7 (Giáo sĩ)*
 
-Bất cứ khi nào Cylinder di chuyển vào không gian của một creature bạn có thể nhìn thấy và bất cứ khi nào một creature bạn có thể nhìn thấy vào Cylinder hoặc kết thúc turn ở đó, bạn có thể dùng một trong các ánh sáng đó lên nó. Một creature chỉ có thể bị ảnh hưởng bởi spell này một lần mỗi turn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị và damage tăng thêm 1d12 cho mỗi cấp độ ô phép thuật trên cấp độ 7.
+Bạn triệu gọi một linh hồn từ các Thượng giới (Upper Planes), hiện ra như một cột sáng trong hình trụ bán kính 3 m (10 feet), cao 12 m (40 feet) lấy một điểm trong tầm làm tâm. Với mỗi sinh vật bạn nhìn thấy trong hình trụ, chọn loại ánh sáng chiếu lên nó:
 
-### Triệu Hồi Nguyên Tố (Conjure Elemental)
-*Cấp độ 5 Conjuration (Druid, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+- **Ánh sáng chữa lành (Healing Light).** Mục tiêu hồi HP bằng 4d12 + hệ số thuộc tính thi triển phép của bạn.
+- **Ánh sáng thiêu đốt (Searing Light).** Mục tiêu cứu nguy Khéo léo, chịu 6d12 sát thương quang nếu thất bại hoặc một nửa nếu thành công.
 
-Bạn triệu hồi một linh hồn phi vật chất kích thước Large từ các Elemental Plane xuất hiện trong một không gian trống trong tầm đánh. Chọn nguyên tố của linh hồn, quyết định loại damage của nó: khí (Lightning), đất (Thunder), lửa (Fire), hoặc nước (Cold). Linh hồn tồn tại trong suốt thời lượng.
+Cho đến khi phép kết thúc, ánh sáng rõ tràn ngập hình trụ, và khi di chuyển trong lượt, bạn cũng có thể di chuyển hình trụ tối đa 9 m (30 feet).
 
-Bất cứ khi nào một creature bạn có thể nhìn thấy vào không gian của linh hồn hoặc bắt đầu turn của nó trong vòng 5 feet của linh hồn, bạn có thể buộc creature đó thực hiện một Dexterity saving throw nếu linh hồn chưa Restrain creature nào. Nếu thất bại, mục tiêu nhận 8d8 damage loại của linh hồn, và mục tiêu có condition Restrained cho đến khi phép thuật kết thúc. Vào đầu mỗi turn của nó, mục tiêu bị Restrained lặp lại save. Nếu thất bại, mục tiêu nhận 4d8 damage loại của linh hồn. Nếu thành công, mục tiêu không còn bị Restrain bởi linh hồn.
+Mỗi khi hình trụ di chuyển vào chỗ của một sinh vật bạn nhìn thấy, và mỗi khi một sinh vật bạn nhìn thấy đi vào hình trụ hoặc kết thúc lượt ở đó, bạn có thể chiếu một trong hai loại ánh sáng lên nó. Mỗi lượt một sinh vật chỉ chịu ảnh hưởng của phép này một lần.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+*Dùng ô phép bậc cao hơn.* Lượng chữa lành và sát thương tăng 1d12 cho mỗi bậc ô phép trên 7.
 
-### Triệu Hồi Yêu Tinh (Conjure Fey)
-*Cấp độ 6 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+### Triệu hồi nguyên tố (Conjure Elemental)
 
-Bạn triệu hồi một linh hồn kích thước Medium từ Feywild trong một không gian trống bạn có thể nhìn thấy trong tầm đánh. Linh hồn tồn tại trong suốt thời lượng, và nó trông như một creature loại Fey theo lựa chọn của bạn. Khi linh hồn xuất hiện, bạn có thể thực hiện một melee spell attack nhắm vào một creature trong vòng 5 feet của nó. Nếu trúng, mục tiêu nhận damage Psychic bằng 3d12 cộng spellcasting ability modifier của bạn, và mục tiêu có condition Frightened cho đến khi bắt đầu turn tiếp theo của bạn, với cả bạn lẫn linh hồn là nguồn gốc của nỗi sợ.
+*Triệu hồi bậc 5 (Druid, Pháp sư)*
 
-Như một Bonus Action ở các turn sau, bạn có thể dịch chuyển linh hồn đến một không gian trống bạn có thể nhìn thấy trong vòng 30 feet của không gian nó vừa rời khỏi và thực hiện cuộc tấn công nhắm vào một creature trong vòng 5 feet của nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d12 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+Bạn triệu gọi một linh hồn phi vật chất cỡ Lớn từ các Cõi Nguyên tố (Elemental Planes), xuất hiện tại một chỗ trống trong tầm. Chọn nguyên tố của linh hồn, quyết định loại sát thương: khí (sét), đất (sấm), lửa (lửa) hoặc nước (lạnh). Linh hồn tồn tại suốt thời lượng.
 
-### Triệu Hồi Nguyên Tố Nhỏ (Conjure Minor Elementals)
-*Cấp độ 4 Conjuration (Druid, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+Mỗi khi một sinh vật bạn nhìn thấy đi vào chỗ của linh hồn hoặc bắt đầu lượt trong phạm vi 1,5 m (5 feet) quanh linh hồn, bạn có thể buộc nó cứu nguy Khéo léo nếu linh hồn chưa kiềm giữ sinh vật nào. Nếu thất bại, mục tiêu chịu 8d8 sát thương theo loại của linh hồn và rơi vào trạng thái Kiềm giữ đến khi phép kết thúc. Đầu mỗi lượt của mình, mục tiêu bị Kiềm giữ lặp lại lần cứu nguy. Nếu thất bại, nó chịu 4d8 sát thương theo loại của linh hồn. Nếu thành công, nó thoát khỏi sự kiềm giữ của linh hồn.
 
-Bạn triệu hồi các linh hồn từ các Elemental Plane bay lượn quanh bạn trong một 15-foot Emanation trong suốt thời lượng. Cho đến khi phép thuật kết thúc, bất kỳ cuộc tấn công nào bạn thực hiện gây thêm 2d8 damage khi bạn đánh trúng một creature trong Emanation. Damage này là Acid, Cold, Fire, hoặc Lightning (tùy bạn chọn khi tấn công). Ngoài ra, mặt đất trong Emanation là Difficult Terrain đối với kẻ địch của bạn.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 5.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+### Triệu hồi tiên (Conjure Fey)
 
-### Triệu Hồi Sinh Vật Rừng (Conjure Woodland Beings)
-*Cấp độ 4 Conjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+*Triệu hồi bậc 6 (Druid)*
 
-Bạn triệu hồi các linh hồn thiên nhiên bay lượn quanh bạn trong một 10-foot Emanation trong suốt thời lượng. Bất cứ khi nào Emanation vào không gian của một creature bạn có thể nhìn thấy và bất cứ khi nào một creature bạn có thể nhìn thấy vào Emanation hoặc kết thúc turn ở đó, bạn có thể buộc creature đó thực hiện một Wisdom saving throw. Creature nhận 5d8 damage Force nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature chỉ thực hiện save này một lần mỗi turn. Ngoài ra, bạn có thể dùng action Disengage như một Bonus Action trong suốt thời lượng của spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+Bạn triệu gọi một linh hồn cỡ Trung bình từ Feywild tại một chỗ trống mà bạn nhìn thấy trong tầm. Linh hồn tồn tại suốt thời lượng và mang hình dạng một sinh vật Tiên tùy bạn chọn. Khi linh hồn xuất hiện, bạn có thể tung tấn công cận chiến bằng phép nhắm vào một sinh vật trong phạm vi 1,5 m (5 feet) quanh nó. Nếu trúng, mục tiêu chịu sát thương tâm linh bằng 3d12 + hệ số thuộc tính thi triển phép của bạn, và rơi vào trạng thái Hoảng sợ cho đến đầu lượt kế tiếp của bạn, với cả bạn lẫn linh hồn là nguồn gây sợ.
 
-### Liên Lạc Ngoại Giới (Contact Other Plane)
-*Cấp độ 5 Divination (Warlock, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Self
-- Components: V
-- Duration: 1 phút
+Bằng hành động phụ ở các lượt sau, bạn có thể dịch chuyển tức thời linh hồn đến một chỗ trống bạn nhìn thấy trong phạm vi 9 m (30 feet) quanh chỗ nó vừa rời, rồi tấn công một sinh vật trong phạm vi 1,5 m (5 feet) quanh nó.
 
-Bạn liên lạc bằng tinh thần với một bán thần, linh hồn của một nhà hiền triết đã khuất từ lâu, hoặc một thực thể hiểu biết khác từ một plane khác. Liên lạc với trí tuệ ngoại giới này có thể làm tổn thương tâm trí bạn. Khi thi triển spell này, hãy thực hiện một DC 15 Intelligence saving throw.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d12 cho mỗi bậc ô phép trên 6.
 
-Nếu thành công, bạn có thể hỏi thực thể đó tối đa năm câu hỏi. Bạn phải hỏi các câu hỏi trước khi phép thuật kết thúc. GM trả lời mỗi câu hỏi bằng một từ, chẳng hạn "có," "không," "có thể," "không bao giờ," "không liên quan," hoặc "không rõ" (nếu thực thể không biết câu trả lời). Nếu một câu trả lời một từ có thể gây hiểu lầm, GM có thể đưa ra một cụm từ ngắn thay thế.
+### Triệu hồi nguyên tố nhỏ (Conjure Minor Elementals)
 
-Nếu thất bại trong save, bạn nhận 6d6 damage Psychic và có condition Incapacitated cho đến khi hoàn thành một Long Rest. Một spell Greater Restoration thi triển lên bạn kết thúc hiệu ứng này.
+*Triệu hồi bậc 4 (Druid, Pháp sư)*
 
-### Bệnh Dịch (Contagion)
-*Cấp độ 5 Necromancy (Cleric, Druid)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: 7 ngày
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Cú chạm của bạn gây ra một bệnh dịch phép thuật. Mục tiêu phải thành công trong một Constitution saving throw hoặc nhận 11d8 damage Necrotic và có condition Poisoned. Ngoài ra, hãy chọn một ability khi thi triển spell. Khi đang Poisoned, mục tiêu có Disadvantage trên saving throw dùng ability đã chọn.
+Bạn triệu gọi các linh hồn từ Cõi Nguyên tố bay lượn quanh bạn trong vùng tỏa 4,5 m (15 feet) suốt thời lượng. Cho đến khi phép kết thúc, mọi đòn tấn công của bạn gây thêm 2d8 sát thương khi đánh trúng sinh vật trong vùng tỏa. Sát thương này là axit, lạnh, lửa hoặc sét (chọn khi tấn công). Ngoài ra, mặt đất trong vùng tỏa là địa hình khó đi với kẻ thù của bạn.
 
-Mục tiêu phải lặp lại saving throw vào cuối mỗi turn của nó cho đến khi đạt được ba lần thành công hoặc thất bại. Nếu mục tiêu thành công trong ba lần save này, phép thuật kết thúc trên mục tiêu. Nếu mục tiêu thất bại ba lần, phép thuật kéo dài trên nó trong 7 ngày.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 4.
 
-Bất cứ khi nào mục tiêu bị Poisoned nhận một hiệu ứng sẽ kết thúc condition Poisoned, mục tiêu phải thành công trong một Constitution saving throw, nếu không condition Poisoned không kết thúc trên nó.
+### Triệu hồi sinh vật rừng (Conjure Woodland Beings)
 
-### Tình Huống Dự Phòng (Contingency)
-*Cấp độ 6 Abjuration (Wizard)*
-- Casting Time: 10 phút
-- Range: Self
-- Components: V, S, M (một bức tượng nhỏ nạm ngọc của chính bạn trị giá 1.500+ GP)
-- Duration: 10 ngày
+*Triệu hồi bậc 4 (Druid, Kiểm lâm)*
 
-Chọn một spell cấp độ 5 trở xuống mà bạn có thể thi triển, có thời gian thi triển là một action, và có thể nhắm vào bạn. Bạn thi triển spell đó — gọi là spell dự phòng (contingent spell) — như một phần của việc thi triển Contingency, dùng hết ô phép thuật cho cả hai, nhưng spell dự phòng không có hiệu lực ngay. Thay vào đó, nó có hiệu lực khi một điều kiện kích hoạt nhất định xảy ra. Bạn mô tả điều kiện kích hoạt đó khi thi triển hai spell này. Ví dụ, một Contingency được thi triển cùng Water Breathing có thể quy định rằng Water Breathing có hiệu lực khi bạn bị nhấn chìm trong nước hoặc chất lỏng tương tự.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Spell dự phòng có hiệu lực ngay sau khi điều kiện kích hoạt xảy ra lần đầu tiên, dù bạn có muốn hay không, rồi kết thúc. Spell dự phòng chỉ có hiệu lực lên bạn, ngay cả khi nó thường có thể nhắm vào người khác.
+Bạn triệu gọi các linh hồn thiên nhiên bay lượn quanh bạn trong vùng tỏa 3 m (10 feet) suốt thời lượng. Mỗi khi vùng tỏa đi vào chỗ của một sinh vật bạn nhìn thấy, và mỗi khi một sinh vật bạn nhìn thấy đi vào vùng tỏa hoặc kết thúc lượt ở đó, bạn có thể buộc nó cứu nguy Minh triết. Sinh vật chịu 5d8 sát thương lực nếu thất bại hoặc một nửa nếu thành công. Mỗi lượt một sinh vật chỉ cứu nguy một lần. Ngoài ra, trong suốt thời lượng, bạn có thể dùng hành động Rút lui bằng hành động phụ.
 
-Bạn chỉ có thể dùng một Contingency tại một thời điểm. Nếu bạn thi triển spell này lần nữa, hiệu ứng của một Contingency khác trên bạn kết thúc. Ngoài ra, Contingency kết thúc trên bạn nếu Material component của nó không còn trên người bạn.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 4.
 
-### Ngọn Lửa Vĩnh Cửu (Continual Flame)
-*Cấp độ 2 Evocation (Cleric, Druid, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bụi ruby trị giá 50+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+### Liên lạc cõi khác (Contact Other Plane)
 
-Một ngọn lửa bùng lên từ một object bạn chạm vào. Hiệu ứng tỏa Bright Light trong bán kính 20 feet và Dim Light thêm 20 feet nữa. Nó trông như một ngọn lửa bình thường, nhưng không tạo nhiệt và không tiêu thụ nhiên liệu. Ngọn lửa có thể bị che phủ hoặc giấu đi nhưng không thể bị dập tắt hay bóp nghẹt.
+*Tiên tri bậc 5 (Warlock, Pháp sư)*
 
-### Điều Khiển Nước (Control Water)
-*Cấp độ 4 Transmutation (Cleric, Druid, Wizard)*
-- Casting Time: Action
-- Range: 300 feet
-- Components: V, S, M (hỗn hợp nước và bụi)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** 1 phút
 
-Cho đến khi phép thuật kết thúc, bạn điều khiển bất kỳ khối nước nào bên trong một khu vực bạn chọn có dạng Cube tối đa 100 feet mỗi cạnh, dùng một trong các hiệu ứng sau. Như một Magic action ở các turn sau, bạn có thể lặp lại cùng hiệu ứng hoặc chọn một hiệu ứng khác.
+Bạn liên lạc bằng tâm trí với một á thần, vong hồn của một hiền nhân đã khuất từ lâu, hoặc một thực thể hiểu biết khác ở cõi khác. Tiếp xúc với trí tuệ dị giới này có thể làm tổn hại tâm trí bạn. Khi thi triển phép, hãy cứu nguy Trí tuệ DC 15.
 
-- **Flood.** Bạn khiến mực nước của tất cả nước tĩnh trong khu vực dâng lên tối đa 20 feet. Nếu bạn chọn một khu vực trong một vùng nước lớn, thay vào đó bạn tạo ra một con sóng cao 20-foot di chuyển từ một bên của khu vực sang bên kia rồi đổ ập xuống. Bất kỳ phương tiện Huge trở xuống nào trong đường đi của sóng đều bị cuốn theo nó sang phía bên kia. Bất kỳ phương tiện Huge trở xuống nào bị sóng đánh trúng có 25 phần trăm cơ hội bị lật.
+Nếu thành công, bạn có thể hỏi thực thể tối đa năm câu. Bạn phải hỏi trước khi phép kết thúc. GM trả lời mỗi câu bằng một từ, như "có", "không", "có thể", "không bao giờ", "không liên quan" hoặc "không rõ" (nếu thực thể không biết). Nếu câu trả lời một từ có thể gây hiểu lầm, GM có thể trả lời bằng một cụm từ ngắn.
 
-  Mực nước vẫn dâng cao cho đến khi phép thuật kết thúc hoặc bạn chọn một hiệu ứng khác. Nếu hiệu ứng này tạo ra một con sóng, sóng lặp lại vào đầu turn tiếp theo của bạn trong khi hiệu ứng lũ lụt còn kéo dài.
+Nếu cứu nguy thất bại, bạn chịu 6d6 sát thương tâm linh và ở trạng thái Mất năng lực hành động cho đến khi hoàn thành nghỉ dài. Phép *Phục hồi cao cấp* (Greater Restoration) thi triển lên bạn sẽ chấm dứt hiệu ứng này.
 
-- **Part Water.** Bạn rẽ nước trong khu vực và tạo ra một rãnh. Rãnh trải dài khắp khu vực của spell, và phần nước bị tách ra tạo thành một bức tường ở mỗi bên. Rãnh giữ nguyên cho đến khi phép thuật kết thúc hoặc bạn chọn một hiệu ứng khác. Nước sau đó từ từ lấp đầy rãnh trong round tiếp theo cho đến khi mực nước bình thường được khôi phục.
+### Bệnh dịch (Contagion)
 
-- **Redirect Flow.** Bạn khiến dòng nước chảy trong khu vực di chuyển theo một hướng bạn chọn, ngay cả khi nước phải chảy qua chướng ngại vật, lên tường, hoặc theo các hướng khác thường. Nước trong khu vực di chuyển theo hướng bạn chỉ định, nhưng một khi nó di chuyển ra ngoài khu vực của spell, nó tiếp tục chảy theo địa hình. Nước tiếp tục di chuyển theo hướng bạn chọn cho đến khi phép thuật kết thúc hoặc bạn chọn một hiệu ứng khác.
+*Tử linh bậc 5 (Giáo sĩ, Druid)*
 
-- **Whirlpool.** Bạn tạo ra một xoáy nước ở trung tâm khu vực, phải rộng ít nhất 50 feet vuông và sâu 25 feet. Xoáy nước tồn tại cho đến khi bạn chọn hiệu ứng khác hoặc phép thuật kết thúc. Xoáy nước rộng 5 feet ở đáy, rộng tối đa 50 feet ở đỉnh, và cao 25 feet. Bất kỳ creature nào trong nước và trong vòng 25 feet của xoáy nước bị kéo 10 feet về phía nó. Khi một creature vào xoáy nước lần đầu trong một turn hoặc kết thúc turn ở đó, nó thực hiện một Strength saving throw. Nếu thất bại, creature nhận 2d8 damage Bludgeoning. Nếu thành công, creature nhận một nửa lượng damage đó. Một creature chỉ có thể bơi ra khỏi xoáy nước nếu trước tiên nó thực hiện một action để kéo ra và thành công trong một Strength (Athletics) check chống lại spell save DC của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 7 ngày
 
-### Điều Khiển Thời Tiết (Control Weather)
-*Cấp độ 8 Transmutation (Cleric, Druid, Wizard)*
-- Casting Time: 10 phút
-- Range: Self
-- Components: V, S, M (nhang đang cháy)
-- Duration: Concentration, up to 8 hours
+Cú chạm của bạn gieo một căn bệnh ma thuật. Mục tiêu phải thành công cứu nguy Thể chất, nếu không chịu 11d8 sát thương hoại tử và rơi vào trạng thái Trúng độc. Ngoài ra, chọn một thuộc tính khi thi triển. Khi đang Trúng độc, mục tiêu chịu bất lợi khi cứu nguy bằng thuộc tính đã chọn.
 
-Bạn nắm quyền kiểm soát thời tiết trong vòng 5 dặm quanh bạn trong suốt thời lượng. Bạn phải ở ngoài trời để thi triển spell này, và nó kết thúc sớm nếu bạn vào trong nhà.
+Mục tiêu phải lặp lại lần cứu nguy cuối mỗi lượt cho đến khi có ba lần thành công hoặc ba lần thất bại. Nếu thành công ba lần, phép kết thúc với mục tiêu. Nếu thất bại ba lần, phép kéo dài trên nó 7 ngày.
 
-Khi thi triển spell, bạn thay đổi điều kiện thời tiết hiện tại, được xác định bởi GM. Bạn có thể thay đổi lượng mưa, nhiệt độ, và gió. Cần 1d4 × 10 phút để điều kiện mới có hiệu lực. Sau khi có hiệu lực, bạn có thể thay đổi điều kiện lần nữa. Khi phép thuật kết thúc, thời tiết dần trở lại bình thường.
+Mỗi khi mục tiêu Trúng độc nhận một hiệu ứng lẽ ra chấm dứt trạng thái Trúng độc, nó phải thành công cứu nguy Thể chất, nếu không trạng thái Trúng độc không chấm dứt.
 
-Khi thay đổi điều kiện thời tiết, hãy tìm một điều kiện hiện tại trong các bảng sau và thay đổi giai đoạn của nó lên hoặc xuống một bậc. Khi thay đổi gió, bạn có thể thay đổi hướng của nó.
+### Tình huống dự phòng (Contingency)
 
-**Precipitation (Lượng mưa)**
+*Phòng hộ bậc 6 (Pháp sư)*
 
-| Stage | Condition |
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một bức tượng nhỏ nạm ngọc hình chính bạn, trị giá 1.500+ gp)
+- **Thời lượng:** 10 ngày
+
+Chọn một phép bậc 5 trở xuống mà bạn thi triển được, có thời gian thi triển một hành động và có thể nhắm vào bạn. Bạn thi triển phép đó — gọi là phép dự phòng — như một phần của việc thi triển *Tình huống dự phòng*, tiêu ô phép cho cả hai, nhưng phép dự phòng chưa có hiệu lực ngay. Thay vào đó, nó có hiệu lực khi một tác nhân kích hoạt nhất định xảy ra. Bạn mô tả tác nhân đó khi thi triển hai phép. Ví dụ, *Tình huống dự phòng* thi triển cùng *Thở dưới nước* (Water Breathing) có thể quy định *Thở dưới nước* có hiệu lực khi bạn bị nhấn chìm trong nước hay chất lỏng tương tự.
+
+Phép dự phòng có hiệu lực ngay sau khi tác nhân kích hoạt xảy ra lần đầu, dù bạn muốn hay không, rồi *Tình huống dự phòng* kết thúc. Phép dự phòng chỉ có hiệu lực lên bạn, kể cả khi bình thường nó có thể nhắm vào người khác.
+
+Mỗi lúc bạn chỉ dùng được một *Tình huống dự phòng*. Nếu thi triển lại phép này, hiệu ứng của *Tình huống dự phòng* khác trên bạn kết thúc. Ngoài ra, *Tình huống dự phòng* kết thúc nếu thành phần vật chất của nó không còn trên người bạn.
+
+### Ngọn lửa vĩnh cửu (Continual Flame)
+
+*Gọi năng lượng bậc 2 (Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bụi hồng ngọc trị giá 50+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Một ngọn lửa bùng lên từ đồ vật bạn chạm vào. Hiệu ứng tỏa ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet). Nó trông như ngọn lửa bình thường nhưng không tỏa nhiệt và không tiêu hao nhiên liệu. Ngọn lửa có thể bị che hoặc giấu đi nhưng không thể bị dập tắt hay làm ngạt.
+
+### Điều khiển nước (Control Water)
+
+*Biến đổi bậc 4 (Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (hỗn hợp nước và bụi)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Cho đến khi phép kết thúc, bạn điều khiển mọi khối nước trong một khu vực tùy chọn dạng khối lập phương cạnh tối đa 30 m (100 feet), dùng một trong các hiệu ứng sau. Bằng hành động Ma thuật ở các lượt sau, bạn có thể lặp lại hiệu ứng hoặc chọn hiệu ứng khác.
+
+- **Lũ (Flood).** Bạn khiến mực nước tĩnh trong khu vực dâng lên tối đa 6 m (20 feet). Nếu chọn khu vực trong một vùng nước lớn, bạn tạo ra một con sóng cao 6 m (20 feet) chạy từ bên này sang bên kia khu vực rồi đổ ập xuống. Mọi phương tiện cỡ Khổng lồ trở xuống trên đường đi của sóng bị cuốn sang bờ bên kia. Phương tiện cỡ Khổng lồ trở xuống bị sóng đánh trúng có 25% cơ hội bị lật.
+
+  Mực nước giữ nguyên độ cao đến khi phép kết thúc hoặc bạn chọn hiệu ứng khác. Nếu hiệu ứng tạo sóng, sóng lặp lại vào đầu lượt kế tiếp của bạn khi hiệu ứng lũ còn duy trì.
+
+- **Rẽ nước (Part Water).** Bạn rẽ nước trong khu vực, tạo một rãnh xuyên suốt khu vực của phép, nước dồn thành hai bức tường ở hai bên. Rãnh tồn tại đến khi phép kết thúc hoặc bạn chọn hiệu ứng khác. Sau đó nước từ từ lấp đầy rãnh trong vòng kế tiếp cho đến khi trở lại mực bình thường.
+
+- **Đổi dòng chảy (Redirect Flow).** Bạn khiến dòng nước trong khu vực chảy theo hướng tùy chọn, kể cả khi phải vượt qua chướng ngại, leo lên tường hoặc chảy theo hướng bất thường. Nước trong khu vực chảy theo hướng bạn chỉ định, nhưng khi ra khỏi khu vực của phép, nó chảy tiếp theo địa hình. Nước tiếp tục chảy theo hướng đã chọn đến khi phép kết thúc hoặc bạn chọn hiệu ứng khác.
+
+- **Xoáy nước (Whirlpool).** Bạn tạo một xoáy nước ở giữa khu vực, khu vực phải rộng ít nhất 15 m (50 feet) mỗi cạnh và sâu 7,5 m (25 feet). Xoáy nước tồn tại đến khi bạn chọn hiệu ứng khác hoặc phép kết thúc. Xoáy rộng 1,5 m (5 feet) ở đáy, rộng tối đa 15 m (50 feet) ở miệng và cao 7,5 m (25 feet). Mọi sinh vật ở dưới nước trong phạm vi 7,5 m (25 feet) quanh xoáy bị kéo về phía nó 3 m (10 feet). Khi sinh vật lần đầu đi vào xoáy trong một lượt hoặc kết thúc lượt ở đó, nó cứu nguy Sức mạnh, chịu 2d8 sát thương đập nếu thất bại hoặc một nửa nếu thành công. Sinh vật chỉ bơi thoát được khỏi xoáy nếu trước đó dùng một hành động để vùng ra và thành công phép kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn.
+
+### Điều khiển thời tiết (Control Weather)
+
+*Biến đổi bậc 8 (Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (nhang đang cháy)
+- **Thời lượng:** Tập trung, tối đa 8 giờ
+
+Bạn nắm quyền điều khiển thời tiết trong phạm vi 8 km (5 mile) quanh mình suốt thời lượng. Bạn phải ở ngoài trời để thi triển, và phép kết thúc sớm nếu bạn vào trong nhà.
+
+Khi thi triển, bạn thay đổi điều kiện thời tiết hiện tại do GM xác định. Bạn có thể thay đổi lượng mưa, nhiệt độ và gió. Điều kiện mới cần 1d4 × 10 phút để có hiệu lực. Khi đã có hiệu lực, bạn có thể thay đổi lần nữa. Khi phép kết thúc, thời tiết dần trở lại bình thường.
+
+Khi thay đổi thời tiết, tìm điều kiện hiện tại trong các bảng sau và dịch nó lên hoặc xuống một mức. Khi thay đổi gió, bạn có thể đổi cả hướng gió.
+
+**Lượng mưa (Precipitation)**
+
+| Mức | Điều kiện |
 |---|---|
-| 1 | Quang đãng (Clear) |
-| 2 | Mây nhẹ (Light clouds) |
-| 3 | U ám hoặc sương mù mặt đất (Overcast or ground fog) |
-| 4 | Mưa, mưa đá, hoặc tuyết (Rain, hail, or snow) |
-| 5 | Mưa như trút, mưa đá dữ dội, hoặc bão tuyết (Torrential rain, driving hail, or blizzard) |
+| 1 | Quang đãng |
+| 2 | Mây nhẹ |
+| 3 | U ám hoặc sương mù sát mặt đất |
+| 4 | Mưa, mưa đá hoặc tuyết |
+| 5 | Mưa như trút, mưa đá dữ dội hoặc bão tuyết |
 
-**Temperature (Nhiệt độ)**
+**Nhiệt độ (Temperature)**
 
-| Stage | Condition |
+| Mức | Điều kiện |
 |---|---|
-| 1 | Nắng nóng gay gắt (Heat wave) |
-| 2 | Nóng (Hot) |
-| 3 | Ấm (Warm) |
-| 4 | Mát (Cool) |
-| 5 | Lạnh (Cold) |
-| 6 | Đóng băng (Freezing) |
+| 1 | Nắng nóng gay gắt |
+| 2 | Nóng |
+| 3 | Ấm |
+| 4 | Mát |
+| 5 | Lạnh |
+| 6 | Giá buốt |
 
-**Wind (Gió)**
+**Gió (Wind)**
 
-| Stage | Condition |
+| Mức | Điều kiện |
 |---|---|
-| 1 | Lặng gió (Calm) |
-| 2 | Gió vừa (Moderate wind) |
-| 3 | Gió mạnh (Strong wind) |
-| 4 | Gió giật (Gale) |
-| 5 | Bão (Storm) |
+| 1 | Lặng gió |
+| 2 | Gió vừa |
+| 3 | Gió mạnh |
+| 4 | Gió giật |
+| 5 | Bão |
 
-### Phản Phép (Counterspell)
-*Cấp độ 3 Abjuration (Sorcerer, Warlock, Wizard)*
-- Casting Time: Reaction, thực hiện khi bạn thấy một creature trong vòng 60 feet của bạn đang thi triển một spell có thành phần Verbal, Somatic, hoặc Material
-- Range: 60 feet
-- Components: S
-- Duration: Instantaneous
+### Phản phép (Counterspell)
 
-Bạn cố ngắt lời một creature đang trong quá trình thi triển một spell. Creature đó thực hiện một Constitution saving throw. Nếu thất bại, spell tan biến mà không có hiệu ứng, và action, Bonus Action, hoặc Reaction dùng để thi triển nó bị lãng phí. Nếu spell đó được thi triển bằng một ô phép thuật, ô đó không bị dùng hết.
+*Phòng hộ bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
-### Tạo Thức Ăn và Nước Uống (Create Food and Water)
-*Cấp độ 3 Conjuration (Cleric, Paladin)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
+- **Thời gian thi triển:** Phản ứng, dùng khi bạn thấy một sinh vật trong phạm vi 18 m (60 feet) đang thi triển phép có thành phần lời nói, cử chỉ hoặc vật chất
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** S
+- **Thời lượng:** Tức thời
 
-Bạn tạo ra 45 pound thức ăn và 30 gallon nước sạch trên mặt đất hoặc trong các vật đựng trong tầm đánh — cả hai đều hữu ích để chống lại nguy cơ mất nước và suy dinh dưỡng. Thức ăn nhạt nhẽo nhưng bổ dưỡng và trông như một loại thức ăn theo lựa chọn của bạn, và nước sạch. Thức ăn hỏng sau 24 giờ nếu không ăn.
+Bạn cố cắt ngang một sinh vật đang thi triển phép. Sinh vật đó cứu nguy Thể chất. Nếu thất bại, phép tan biến không có tác dụng, và hành động, hành động phụ hoặc phản ứng dùng để thi triển bị lãng phí. Nếu phép đó được thi triển bằng ô phép, ô phép không bị tiêu hao.
 
-### Tạo hoặc Hủy Nước (Create or Destroy Water)
-*Cấp độ 1 Transmutation (Cleric, Druid)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (hỗn hợp nước và cát)
-- Duration: Instantaneous
+### Tạo thức ăn và nước uống (Create Food and Water)
 
-Bạn thực hiện một trong các việc sau:
+*Triệu hồi bậc 3 (Giáo sĩ, Thánh kỵ sĩ)*
 
-- **Create Water.** Bạn tạo tối đa 10 gallon nước sạch trong tầm đánh trong một vật đựng hở. Ngoài ra, nước rơi như mưa trong một Cube 30-foot trong tầm đánh, dập tắt lửa lộ thiên ở đó.
-- **Destroy Water.** Bạn phá hủy tối đa 10 gallon nước trong một vật đựng hở trong tầm đánh. Ngoài ra, bạn phá hủy sương mù trong một Cube 30-foot trong tầm đánh.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Bạn tạo hoặc phá hủy thêm 10 gallon nước, hoặc kích thước Cube tăng thêm 5 feet, cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Bạn tạo ra 20,25 kg (45 pound) thức ăn và 114 lít (30 gallon) nước sạch trên mặt đất hoặc trong vật chứa trong tầm — đủ để chống mất nước và suy dinh dưỡng. Thức ăn nhạt nhẽo nhưng bổ dưỡng, trông như món ăn tùy bạn chọn, và nước thì sạch. Thức ăn hỏng sau 24 giờ nếu không ăn.
 
-### Tạo Xác Sống (Create Undead)
-*Cấp độ 6 Necromancy (Cleric, Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: 10 feet
-- Components: V, S, M (một viên đá onyx đen trị giá 150+ GP cho mỗi xác chết)
-- Duration: Instantaneous
+### Tạo hoặc hủy nước (Create or Destroy Water)
 
-Bạn chỉ có thể thi triển spell này vào ban đêm. Chọn tối đa ba xác chết của Humanoid kích thước Medium hoặc Small trong tầm đánh. Mỗi xác trở thành một Ghoul dưới quyền kiểm soát của bạn (xem "Monsters" để biết stat block).
+*Biến đổi bậc 1 (Giáo sĩ, Druid)*
 
-Như một Bonus Action vào mỗi turn của mình, bạn có thể ra lệnh bằng tinh thần cho bất kỳ creature nào bạn đã hoạt hóa bằng spell này nếu creature đó trong vòng 120 feet của bạn (nếu bạn kiểm soát nhiều creature, bạn có thể ra lệnh cho bất kỳ creature nào cùng lúc, ban cùng một lệnh cho chúng). Bạn quyết định creature sẽ thực hiện action nào và di chuyển đến đâu trong turn tiếp theo của nó, hoặc bạn có thể ban một lệnh chung, chẳng hạn canh gác một nơi cụ thể. Nếu bạn không ra lệnh gì, creature thực hiện action Dodge và chỉ di chuyển để tránh nguy hiểm. Khi đã được ra lệnh, creature tiếp tục tuân theo cho đến khi hoàn thành nhiệm vụ.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (hỗn hợp nước và cát)
+- **Thời lượng:** Tức thời
 
-Creature nằm dưới sự kiểm soát của bạn trong 24 giờ, sau đó nó ngừng tuân theo bất kỳ lệnh nào bạn đã đưa ra. Để duy trì quyền kiểm soát creature thêm 24 giờ nữa, bạn phải thi triển phép thuật này lên creature đó trước khi khoảng thời gian 24 giờ hiện tại kết thúc. Lần dùng này của spell tái khẳng định quyền kiểm soát của bạn lên tối đa bốn creature bạn đã tạo bằng spell này thay vì tạo creature mới.
+Bạn làm một trong các việc sau:
 
-Nếu dùng một ô phép thuật cấp độ 7, bạn có thể hoạt hóa hoặc tái khẳng định quyền kiểm soát lên bốn Ghoul. Nếu dùng một ô cấp độ 8, bạn có thể hoạt hóa hoặc tái khẳng định quyền kiểm soát lên năm Ghast hoặc Ghoul. Nếu dùng một ô cấp độ 9, bạn có thể hoạt hóa hoặc tái khẳng định quyền kiểm soát lên sáu Ghoul, ba Ghast hoặc Wight, hoặc hai Mummy. Xem "Monsters" để biết các stat block này.
+- **Tạo nước (Create Water).** Bạn tạo tối đa 38 lít (10 gallon) nước sạch trong một vật chứa hở trong tầm. Hoặc, nước rơi như mưa trong một khối lập phương 9 m (30 feet) trong tầm, dập tắt lửa lộ thiên ở đó.
+- **Hủy nước (Destroy Water).** Bạn hủy tối đa 38 lít (10 gallon) nước trong một vật chứa hở trong tầm. Hoặc, bạn xua tan sương mù trong một khối lập phương 9 m (30 feet) trong tầm.
 
-### Sáng Tạo (Creation)
-*Cấp độ 5 Illusion (Sorcerer, Wizard)*
-- Casting Time: 1 phút
-- Range: 30 feet
-- Components: V, S, M (một cây cọ vẽ)
-- Duration: Special
+*Dùng ô phép bậc cao hơn.* Bạn tạo hoặc hủy thêm 38 lít (10 gallon) nước, hoặc cạnh khối lập phương tăng 1,5 m (5 feet), cho mỗi bậc ô phép trên 1.
 
-Bạn rút những sợi bóng tối từ Shadowfell để tạo ra một object trong tầm đánh. Đó là một object bằng vật liệu thực vật (hàng mềm, dây thừng, gỗ, v.v.) hoặc vật liệu khoáng chất (đá, tinh thể, kim loại, v.v.). Object không được lớn hơn một Cube 5-foot, và object phải có hình dạng và vật liệu mà bạn đã từng thấy.
+### Tạo xác sống (Create Undead)
 
-Thời lượng của spell phụ thuộc vào vật liệu của object, như trong bảng **Materials**. Nếu object được cấu thành từ nhiều vật liệu, hãy dùng thời lượng ngắn nhất. Dùng bất kỳ object nào được tạo bởi spell này làm Material component của một spell khác khiến spell kia thất bại.
+*Tử linh bậc 6 (Giáo sĩ, Warlock, Pháp sư)*
 
-| Material | Duration |
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (một viên mã não đen trị giá 150+ gp cho mỗi thi thể)
+- **Thời lượng:** Tức thời
+
+Bạn chỉ có thể thi triển phép này vào ban đêm. Chọn tối đa ba thi thể Hình người cỡ Trung bình hoặc Nhỏ trong tầm. Mỗi thi thể trở thành một Ghoul dưới quyền điều khiển của bạn (xem [Quái vật A–Z](12-Monsters-A-Z.md) để biết khối thông số).
+
+Bằng hành động phụ mỗi lượt, bạn có thể ra lệnh bằng tâm trí cho bất kỳ sinh vật nào đã hoạt hóa bằng phép này nếu nó ở trong phạm vi 36 m (120 feet) (nếu điều khiển nhiều sinh vật, bạn có thể ra lệnh cho bất kỳ sinh vật nào cùng lúc, cùng một mệnh lệnh). Bạn quyết định sinh vật dùng hành động gì và di chuyển đến đâu trong lượt kế tiếp, hoặc ra lệnh chung như canh gác một nơi. Nếu không có lệnh, sinh vật dùng hành động Né tránh và chỉ di chuyển để tránh nguy hiểm. Khi đã nhận lệnh, sinh vật tiếp tục làm theo cho đến khi hoàn thành nhiệm vụ.
+
+Sinh vật chịu sự điều khiển của bạn trong 24 giờ, sau đó không còn tuân lệnh. Để giữ quyền điều khiển thêm 24 giờ, bạn phải thi triển phép lên sinh vật trước khi hết 24 giờ hiện tại. Lần thi triển này tái khẳng định quyền điều khiển tối đa bốn sinh vật đã tạo bằng phép thay vì tạo sinh vật mới.
+
+Nếu dùng ô phép bậc 7, bạn có thể hoạt hóa hoặc tái khẳng định quyền điều khiển bốn Ghoul. Nếu dùng ô bậc 8, năm Ghast hoặc Ghoul. Nếu dùng ô bậc 9, sáu Ghoul, ba Ghast hoặc Wight, hoặc hai Xác ướp (Mummy). Xem [Quái vật A–Z](12-Monsters-A-Z.md) để biết các khối thông số này.
+
+### Sáng tạo (Creation)
+
+*Ảo ảnh bậc 5 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một cây cọ vẽ)
+- **Thời lượng:** Đặc biệt
+
+Bạn rút những sợi bóng tối từ Shadowfell để tạo một đồ vật trong tầm. Đó là đồ vật bằng chất liệu thực vật (vải vóc, dây thừng, gỗ, v.v.) hoặc khoáng vật (đá, pha lê, kim loại, v.v.). Đồ vật không được lớn hơn khối lập phương 1,5 m (5 feet), và phải có hình dạng, chất liệu mà bạn đã từng thấy.
+
+Thời lượng phụ thuộc vào chất liệu của đồ vật, như trong bảng **Chất liệu**. Nếu đồ vật gồm nhiều chất liệu, dùng thời lượng ngắn nhất. Dùng bất kỳ đồ vật nào do phép này tạo ra làm thành phần vật chất của phép khác sẽ khiến phép kia thất bại.
+
+**Chất liệu (Materials)**
+
+| Chất liệu | Thời lượng |
 |---|---|
-| Vật liệu thực vật | 24 giờ |
-| Đá hoặc tinh thể | 12 giờ |
+| Chất liệu thực vật | 24 giờ |
+| Đá hoặc pha lê | 12 giờ |
 | Kim loại quý | 1 giờ |
 | Đá quý | 10 phút |
 | Adamantine hoặc mithral | 1 phút |
 
-*Using a Higher-Level Spell Slot:* Cube tăng thêm 5 feet cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+*Dùng ô phép bậc cao hơn.* Cạnh khối lập phương tăng 1,5 m (5 feet) cho mỗi bậc ô phép trên 5.
 
-### Chữa Thương (Cure Wounds)
-*Cấp độ 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+### Chữa vết thương (Cure Wounds)
 
-Một creature bạn chạm vào phục hồi một lượng Hit Points bằng 2d8 cộng spellcasting ability modifier của bạn.
+*Phòng hộ bậc 1 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 2d8 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-### Ánh Sáng Nhảy Múa (Dancing Lights)
-*Cantrip Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một mẩu phốt pho)
-- Duration: Concentration, up to 1 minute
+Một sinh vật bạn chạm vào hồi HP bằng 2d8 + hệ số thuộc tính thi triển phép của bạn.
 
-Bạn tạo ra tối đa bốn ánh sáng cỡ đuốc trong tầm đánh, khiến chúng trông như đuốc, đèn lồng, hoặc quả cầu phát sáng lơ lửng trong suốt thời lượng. Ngoài ra, bạn kết hợp bốn ánh sáng thành một hình dạng phát sáng kích thước Medium mơ hồ giống người. Dù bạn chọn hình dạng nào, mỗi ánh sáng tỏa Dim Light trong bán kính 10 feet.
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 2d8 cho mỗi bậc ô phép trên 1.
 
-Như một Bonus Action, bạn có thể di chuyển các ánh sáng tối đa 60 feet đến một không gian trong tầm đánh. Một ánh sáng phải trong vòng 20 feet của một ánh sáng khác được tạo bởi spell này, và một ánh sáng biến mất nếu nó vượt quá tầm đánh của spell.
+### Ánh sáng nhảy múa (Dancing Lights)
 
-### Bóng Tối (Darkness)
-*Cấp độ 2 Evocation (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, M (lông dơi và một mẩu than)
-- Duration: Concentration, up to 10 minutes
+*Phép sơ cấp Ảo ảnh (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Trong suốt thời lượng, Bóng Tối phép thuật lan tỏa từ một điểm trong tầm đánh và bao phủ một Sphere bán kính 15-foot. Darkvision không thể nhìn xuyên qua nó, và ánh sáng phi phép thuật không thể chiếu sáng nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một mẩu phốt pho)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Ngoài ra, bạn thi triển spell lên một object không đang được mặc hay mang theo, khiến Bóng Tối bao phủ một 15-foot Emanation xuất phát từ object đó. Che object đó bằng thứ gì đó không trong suốt, chẳng hạn một cái bát hay mũ giáp, chặn Bóng Tối.
+Bạn tạo tối đa bốn đốm sáng cỡ ngọn đuốc trong tầm, trông như đuốc, đèn lồng hoặc quả cầu sáng lơ lửng suốt thời lượng. Hoặc, bạn gộp bốn đốm sáng thành một hình người mờ ảo phát sáng cỡ Trung bình. Dù chọn dạng nào, mỗi đốm sáng tỏa ánh sáng yếu trong bán kính 3 m (10 feet).
 
-Nếu bất kỳ khu vực nào của spell này chồng lấp với khu vực Bright Light hoặc Dim Light được tạo bởi một spell cấp độ 2 trở xuống, spell kia bị dispel.
+Bằng một hành động phụ, bạn có thể di chuyển các đốm sáng tối đa 18 m (60 feet) đến một chỗ trong tầm. Mỗi đốm sáng phải ở trong phạm vi 6 m (20 feet) quanh một đốm sáng khác do phép tạo ra, và đốm sáng biến mất nếu ra ngoài tầm của phép.
 
-### Thị Giác Bóng Tối (Darkvision)
-*Cấp độ 2 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một củ cà rốt khô)
-- Duration: 8 hours
+### Bóng tối (Darkness)
 
-Trong suốt thời lượng, một creature tự nguyện bạn chạm vào có Darkvision với tầm 150 feet.
+*Gọi năng lượng bậc 2 (Thuật sĩ, Warlock, Pháp sư)*
 
-### Ánh Sáng Ban Ngày (Daylight)
-*Cấp độ 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, M (lông dơi và một mẩu than)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Trong suốt thời lượng, ánh nắng lan tỏa từ một điểm trong tầm đánh và bao phủ một Sphere bán kính 60-foot. Khu vực ánh nắng là Bright Light và tỏa Dim Light thêm 60 feet nữa.
+Trong suốt thời lượng, bóng tối ma thuật lan ra từ một điểm trong tầm và phủ một hình cầu bán kính 4,5 m (15 feet). Thị giác bóng tối không nhìn xuyên được, và ánh sáng không ma thuật không chiếu sáng được vùng này.
 
-Ngoài ra, bạn thi triển spell lên một object không đang được mặc hay mang theo, khiến ánh nắng bao phủ một 60-foot Emanation xuất phát từ object đó. Che object đó bằng thứ gì đó không trong suốt, chẳng hạn một cái bát hay mũ giáp, chặn ánh nắng.
+Hoặc, bạn thi triển phép lên một đồ vật không có ai mặc hay mang, khiến bóng tối phủ vùng tỏa 4,5 m (15 feet) từ đồ vật đó. Che đồ vật bằng vật không trong suốt, như cái bát hay mũ giáp, sẽ chặn bóng tối.
 
-Nếu bất kỳ khu vực nào của spell này chồng lấp với khu vực Darkness được tạo bởi một spell cấp độ 3 trở xuống, spell kia bị dispel.
+Nếu bất kỳ vùng nào của phép này chồng lên vùng ánh sáng rõ hoặc ánh sáng yếu do một phép bậc 2 trở xuống tạo ra, phép kia bị giải trừ.
 
-### Lá Chắn Tử Thần (Death Ward)
-*Cấp độ 4 Abjuration (Cleric, Paladin)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: 8 hours
+### Thị giác bóng tối (Darkvision)
 
-Bạn chạm vào một creature và ban cho nó một mức độ bảo vệ khỏi cái chết. Lần đầu tiên mục tiêu sẽ giảm xuống 0 Hit Points trước khi phép thuật kết thúc, thay vào đó mục tiêu giảm xuống 1 Hit Point, và phép thuật kết thúc.
+*Biến đổi bậc 2 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-Nếu spell vẫn còn hiệu lực khi mục tiêu chịu một hiệu ứng sẽ giết nó ngay lập tức mà không gây damage, hiệu ứng đó bị vô hiệu hóa đối với mục tiêu, và spell kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một củ cà rốt khô)
+- **Thời lượng:** 8 giờ
 
-### Cầu Lửa Trì Hoãn (Delayed Blast Fireball)
-*Cấp độ 7 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một viên phân dơi và lưu huỳnh)
-- Duration: Concentration, up to 1 minute
+Trong suốt thời lượng, một sinh vật tự nguyện bạn chạm vào có thị giác bóng tối trong phạm vi 45 m (150 feet).
 
-Một tia sáng vàng lóe lên từ bạn, rồi ngưng tụ tại một điểm bạn chọn trong tầm đánh thành một hạt phát sáng trong suốt thời lượng. Khi phép thuật kết thúc, hạt đó nổ tung, và mỗi creature trong một Sphere bán kính 20-foot có tâm tại điểm đó thực hiện một Dexterity saving throw. Một creature nhận damage Fire bằng tổng damage tích lũy nếu thất bại hoặc một nửa lượng đó nếu thành công.
+### Ánh sáng ban ngày (Daylight)
 
-Damage cơ bản của spell là 12d6, và damage tăng thêm 1d6 mỗi khi turn của bạn kết thúc và spell chưa kết thúc.
+*Gọi năng lượng bậc 3 (Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ)*
 
-Nếu một creature chạm vào hạt phát sáng trước khi phép thuật kết thúc, creature đó thực hiện một Dexterity saving throw. Nếu thất bại, phép thuật kết thúc, khiến hạt nổ tung. Nếu thành công, creature có thể ném hạt đó xa tối đa 40 feet. Nếu hạt được ném vào không gian của một creature hoặc va chạm với một object rắn, phép thuật kết thúc, và hạt nổ tung.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
 
-Khi hạt nổ tung, các object dễ cháy không đang được mặc hay mang theo trong vụ nổ bắt đầu bốc cháy.
+Trong suốt thời lượng, ánh nắng lan ra từ một điểm trong tầm và phủ một hình cầu bán kính 18 m (60 feet). Vùng ánh nắng là ánh sáng rõ và tỏa ánh sáng yếu thêm 18 m (60 feet).
 
-*Using a Higher-Level Spell Slot:* Damage cơ bản tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 7.
+Hoặc, bạn thi triển phép lên một đồ vật không có ai mặc hay mang, khiến ánh nắng phủ vùng tỏa 18 m (60 feet) từ đồ vật đó. Che đồ vật bằng vật không trong suốt, như cái bát hay mũ giáp, sẽ chặn ánh nắng.
 
-### Bán Diện (Demiplane)
-*Cấp độ 8 Conjuration (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: S
-- Duration: 1 giờ
+Nếu bất kỳ vùng nào của phép này chồng lên vùng bóng tối do một phép bậc 3 trở xuống tạo ra, phép kia bị giải trừ.
 
-Bạn tạo ra một cánh cửa bóng tối kích thước Medium trên một bề mặt phẳng, rắn mà bạn có thể nhìn thấy trong tầm đánh. Cánh cửa này có thể mở và đóng, và nó dẫn đến một demiplane là một căn phòng trống rộng 30 feet mỗi chiều, làm bằng gỗ hoặc đá (tùy bạn chọn).
+### Bảo hộ khỏi chết (Death Ward)
 
-Khi phép thuật kết thúc, cánh cửa biến mất, và bất kỳ object nào bên trong demiplane vẫn ở lại đó. Bất kỳ creature nào bên trong cũng ở lại trừ khi chúng chọn bị đẩy qua cánh cửa khi nó biến mất, tiếp đất với condition Prone tại các không gian trống gần nhất với vị trí cũ của cánh cửa.
+*Phòng hộ bậc 4 (Giáo sĩ, Thánh kỵ sĩ)*
 
-Mỗi lần thi triển spell này, bạn có thể tạo một demiplane mới hoặc kết nối cánh cửa bóng tối với một demiplane bạn đã tạo bằng một lần thi triển spell này trước đó. Ngoài ra, nếu bạn biết bản chất và nội dung của một demiplane được tạo bởi một lần thi triển spell này bởi một creature khác, bạn có thể kết nối cánh cửa bóng tối với demiplane đó thay vào đó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 8 giờ
 
-### Phát Hiện Thiện Ác (Detect Evil and Good)
-*Cấp độ 1 Divination (Cleric, Paladin)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+Bạn chạm vào một sinh vật và ban cho nó sự che chở trước cái chết. Lần đầu tiên HP của mục tiêu lẽ ra về 0 trước khi phép kết thúc, thay vào đó nó còn 1 HP, và phép kết thúc.
 
-Trong suốt thời lượng, bạn cảm nhận vị trí của bất kỳ Aberration, Celestial, Elemental, Fey, Fiend, hoặc Undead nào trong vòng 30 feet của bạn. Bạn cũng cảm nhận liệu spell đó đang hoạt động ở đó không và, nếu có, ở đâu.
+Nếu phép vẫn còn hiệu lực khi mục tiêu chịu một hiệu ứng giết chết ngay mà không gây sát thương, hiệu ứng đó bị vô hiệu hóa với mục tiêu, và phép kết thúc.
 
-Spell bị chặn bởi 1 foot đá, đất, hoặc gỗ; 1 inch kim loại; hoặc một tấm chì mỏng.
+### Quả cầu lửa trì hoãn (Delayed Blast Fireball)
 
-### Phát Hiện Phép Thuật (Detect Magic)
-*Cấp độ 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+*Gọi năng lượng bậc 7 (Thuật sĩ, Pháp sư)*
 
-Trong suốt thời lượng, bạn cảm nhận sự hiện diện của các hiệu ứng phép thuật trong vòng 30 feet của bạn. Nếu cảm nhận được các hiệu ứng như vậy, bạn có thể thực hiện Magic action để thấy một hào quang mờ nhạt quanh bất kỳ creature hoặc object nào có thể nhìn thấy trong khu vực mang phép thuật, và nếu một hiệu ứng được tạo bởi một spell, bạn biết trường phái phép thuật của spell đó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một viên nhỏ phân dơi trộn lưu huỳnh)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Spell bị chặn bởi 1 foot đá, đất, hoặc gỗ; 1 inch kim loại; hoặc một tấm chì mỏng.
+Một tia sáng vàng lóe ra từ bạn rồi ngưng tụ tại một điểm tùy chọn trong tầm thành một hạt sáng lấp lánh suốt thời lượng. Khi phép kết thúc, hạt sáng phát nổ, và mỗi sinh vật trong hình cầu bán kính 6 m (20 feet) lấy điểm đó làm tâm cứu nguy Khéo léo. Sinh vật chịu sát thương lửa bằng tổng sát thương tích lũy nếu thất bại hoặc một nửa nếu thành công.
 
-### Phát Hiện Độc và Bệnh (Detect Poison and Disease)
-*Cấp độ 1 Divination (Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S, M (một lá thủy tùng)
-- Duration: Concentration, up to 10 minutes
+Sát thương cơ bản của phép là 12d6, và tăng 1d6 mỗi khi lượt của bạn kết thúc mà phép chưa kết thúc.
 
-Trong suốt thời lượng, bạn cảm nhận vị trí của chất độc, các creature có nọc độc hoặc độc tính, và các bệnh dịch phép thuật trong vòng 30 feet của bạn. Bạn cảm nhận loại chất độc, creature, hoặc bệnh dịch trong mỗi trường hợp.
+Nếu một sinh vật chạm vào hạt sáng trước khi phép kết thúc, sinh vật đó cứu nguy Khéo léo. Nếu thất bại, phép kết thúc và hạt sáng phát nổ. Nếu thành công, sinh vật có thể ném hạt sáng xa tối đa 12 m (40 feet). Nếu hạt sáng bị ném vào chỗ của một sinh vật hoặc va vào vật rắn, phép kết thúc và hạt sáng phát nổ.
 
-Spell bị chặn bởi 1 foot đá, đất, hoặc gỗ; 1 inch kim loại; hoặc một tấm chì mỏng.
+Khi hạt sáng nổ, các đồ vật dễ cháy trong vụ nổ không có ai mặc hay mang bắt đầu bốc cháy.
 
-### Đọc Suy Nghĩ (Detect Thoughts)
-*Cấp độ 2 Divination (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (1 Copper Piece)
-- Duration: Concentration, up to 1 minute
+*Dùng ô phép bậc cao hơn.* Sát thương cơ bản tăng 1d6 cho mỗi bậc ô phép trên 7.
 
-Bạn kích hoạt một trong các hiệu ứng dưới đây. Cho đến khi phép thuật kết thúc, bạn có thể kích hoạt một trong hai hiệu ứng như một Magic action ở các turn sau.
+### Bán diện (Demiplane)
 
-- **Sense Thoughts.** Bạn cảm nhận sự hiện diện của suy nghĩ trong vòng 30 feet của bạn thuộc về các creature biết ngôn ngữ hoặc có khả năng thần giao cách cảm (telepathic). Bạn không đọc được suy nghĩ, nhưng bạn biết một creature đang suy nghĩ hiện diện.
-- **Read Thoughts.** Nhắm vào một creature bạn có thể nhìn thấy trong vòng 30 feet của bạn hoặc một creature trong vòng 30 feet của bạn mà bạn đã phát hiện bằng lựa chọn Sense Thoughts. Bạn biết điều gì đang chiếm lĩnh tâm trí mục tiêu ngay lúc này. Nếu mục tiêu không biết ngôn ngữ nào và không có telepathy, bạn không học được gì.
+*Triệu hồi bậc 8 (Thuật sĩ, Warlock, Pháp sư)*
 
-  Như một Magic action vào turn tiếp theo của bạn, bạn có thể cố thăm dò sâu hơn vào tâm trí mục tiêu. Nếu bạn thăm dò sâu hơn, mục tiêu thực hiện một Wisdom saving throw. Nếu thất bại, bạn nhận biết lý lẽ, cảm xúc, và điều gì đó đang chiếm lĩnh lớn trong tâm trí nó (chẳng hạn một mối lo, tình yêu, hoặc hận thù). Nếu thành công, phép thuật kết thúc. Dù thế nào, mục tiêu biết bạn đang thăm dò tâm trí nó, và cho đến khi bạn chuyển sự chú ý khỏi tâm trí mục tiêu, mục tiêu có thể thực hiện một action trong turn của nó để thực hiện một Intelligence (Arcana) check chống lại spell save DC của bạn, kết thúc spell nếu thành công.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** S
+- **Thời lượng:** 1 giờ
 
-Spell bị chặn bởi 1 foot đá, đất, hoặc gỗ; 1 inch kim loại; hoặc một tấm chì mỏng (cho hiệu ứng Sense Thoughts).
+Bạn tạo một cánh cửa bóng tối cỡ Trung bình trên một bề mặt phẳng, rắn mà bạn nhìn thấy trong tầm. Cánh cửa đóng mở được và dẫn vào một bán diện (demiplane): một căn phòng trống rộng 9 m (30 feet) mỗi chiều, bằng gỗ hoặc đá (tùy bạn chọn).
 
-### Cánh Cửa Không Gian (Dimension Door)
-*Cấp độ 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 500 feet
-- Components: V
-- Duration: Instantaneous
+Khi phép kết thúc, cánh cửa biến mất, và mọi đồ vật trong bán diện vẫn ở lại đó. Mọi sinh vật bên trong cũng ở lại, trừ khi chọn bị hất ra qua cánh cửa khi nó biến mất, rơi vào trạng thái Ngã sấp tại chỗ trống gần nhất với vị trí cũ của cánh cửa.
 
-Bạn dịch chuyển đến một địa điểm trong tầm đánh. Bạn đến chính xác điểm mong muốn. Đó có thể là một nơi bạn có thể nhìn thấy, một nơi bạn có thể hình dung, hoặc một nơi bạn có thể mô tả bằng cách nêu khoảng cách và hướng, chẳng hạn "200 feet thẳng xuống dưới" hoặc "300 feet lên trên theo hướng tây bắc ở góc 45 độ."
+Mỗi lần thi triển phép, bạn có thể tạo bán diện mới hoặc nối cánh cửa bóng tối với bán diện đã tạo từ lần thi triển trước. Ngoài ra, nếu biết bản chất và nội dung của một bán diện do sinh vật khác tạo bằng phép này, bạn có thể nối cánh cửa bóng tối với bán diện đó.
 
-Bạn cũng có thể dịch chuyển một creature tự nguyện. Creature đó phải trong vòng 5 feet của bạn khi bạn dịch chuyển, và nó dịch chuyển đến một không gian trong vòng 5 feet của không gian đích của bạn.
+### Phát hiện thiện ác (Detect Evil and Good)
 
-Nếu bạn, creature kia, hoặc cả hai sẽ đến một không gian đã bị một creature chiếm giữ hoặc bị lấp đầy hoàn toàn bởi một hoặc nhiều object, bạn và bất kỳ creature nào đi cùng bạn mỗi bên nhận 4d6 damage Force, và việc dịch chuyển thất bại.
+*Tiên tri bậc 1 (Giáo sĩ, Thánh kỵ sĩ)*
 
-### Cải Trang (Disguise Self)
-*Cấp độ 1 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bạn khiến bản thân — bao gồm quần áo, giáp, weapon, và các vật khác trên người bạn — trông khác đi cho đến khi phép thuật kết thúc. Bạn có thể trông thấp hơn hoặc cao hơn 1 foot và có thể trông nặng hơn hoặc nhẹ hơn. Bạn phải mang một hình dạng có cùng cấu trúc chi cơ bản như bạn. Ngoài ra, mức độ của ảo ảnh tùy thuộc vào bạn.
+Trong suốt thời lượng, bạn cảm nhận được vị trí của mọi Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống trong phạm vi 9 m (30 feet). Bạn cũng cảm nhận được phép *Thánh hóa* (Hallow) có đang hoạt động quanh đó không, và nếu có thì ở đâu.
 
-Những thay đổi do spell này tạo ra không chịu được kiểm tra vật lý. Ví dụ, nếu bạn dùng spell này để thêm một chiếc mũ vào trang phục, các object xuyên qua chiếc mũ, và bất kỳ ai chạm vào nó sẽ không cảm thấy gì.
+Phép bị chặn bởi 30 cm (1 foot) đá, đất hoặc gỗ; 2,5 cm (1 inch) kim loại; hoặc một lớp chì mỏng.
 
-Để nhận ra bạn đang cải trang, một creature phải thực hiện action Study để kiểm tra ngoại hình của bạn và thành công trong một Intelligence (Investigation) check chống lại spell save DC của bạn.
+### Phát hiện ma thuật (Detect Magic)
 
-### Phân Rã (Disintegrate)
-*Cấp độ 6 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một nam châm đá và bụi)
-- Duration: Instantaneous
+*Tiên tri bậc 1 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn phóng một tia sáng xanh về phía một mục tiêu bạn có thể nhìn thấy trong tầm đánh. Mục tiêu có thể là một creature, một object phi phép thuật, hoặc một tạo vật bằng lực phép thuật, chẳng hạn bức tường được tạo bởi Wall of Force.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Một creature bị nhắm bởi spell này thực hiện một Dexterity saving throw. Nếu thất bại, mục tiêu nhận 10d6 + 40 damage Force. Nếu damage này giảm nó xuống 0 Hit Points, nó và mọi thứ phi phép thuật nó đang mặc và mang theo bị phân rã thành bụi xám. Mục tiêu chỉ có thể được hồi sinh bằng một spell True Resurrection hoặc Wish.
+Trong suốt thời lượng, bạn cảm nhận được sự hiện diện của hiệu ứng ma thuật trong phạm vi 9 m (30 feet). Nếu cảm nhận được, bạn có thể dùng hành động Ma thuật để thấy một vầng hào quang mờ quanh mọi sinh vật hoặc đồ vật nhìn thấy được trong khu vực có mang ma thuật, và nếu hiệu ứng do phép tạo ra, bạn biết trường phái của phép đó.
 
-Spell này tự động phân rã một object phi phép thuật kích thước Large trở xuống hoặc một tạo vật bằng lực phép thuật. Nếu một mục tiêu như vậy có kích thước Huge trở lên, spell này phân rã một phần Cube 10-foot của nó.
+Phép bị chặn bởi 30 cm (1 foot) đá, đất hoặc gỗ; 2,5 cm (1 inch) kim loại; hoặc một lớp chì mỏng.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 3d6 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+### Phát hiện độc và bệnh (Detect Poison and Disease)
 
-### Xua Đuổi Thiện Ác (Dispel Evil and Good)
-*Cấp độ 5 Abjuration (Cleric, Paladin)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (bột bạc và sắt)
-- Duration: Concentration, up to 1 minute
+*Tiên tri bậc 1 (Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-Trong suốt thời lượng, Celestial, Elemental, Fey, Fiend, và Undead có Disadvantage trên attack roll nhắm vào bạn. Bạn có thể kết thúc spell sớm bằng cách dùng một trong các chức năng đặc biệt sau.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một chiếc lá thủy tùng)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-- **Break Enchantment.** Như một Magic action, bạn chạm vào một creature bị chiếm hữu hoặc có condition Charmed hoặc Frightened từ một hoặc nhiều creature thuộc các loại trên. Mục tiêu không còn bị chiếm hữu, Charmed, hoặc Frightened bởi các creature như vậy nữa.
-- **Dismissal.** Như một Magic action, bạn nhắm vào một creature bạn có thể nhìn thấy trong vòng 5 feet của bạn thuộc một trong các creature type trên. Mục tiêu phải thành công trong một Charisma saving throw hoặc bị đưa về plane quê hương của nó nếu nó chưa ở đó. Nếu chúng không ở plane quê hương, Undead bị đưa đến Shadowfell, và Fey bị đưa đến Feywild.
+Trong suốt thời lượng, bạn cảm nhận được vị trí của chất độc, sinh vật có nọc hoặc độc, và bệnh dịch ma thuật trong phạm vi 9 m (30 feet). Bạn cũng nhận biết được loại chất độc, sinh vật hoặc bệnh dịch trong từng trường hợp.
 
-### Giải Trừ Phép Thuật (Dispel Magic)
-*Cấp độ 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+Phép bị chặn bởi 30 cm (1 foot) đá, đất hoặc gỗ; 2,5 cm (1 inch) kim loại; hoặc một lớp chì mỏng.
 
-Chọn một creature, object, hoặc hiệu ứng phép thuật trong tầm đánh. Bất kỳ spell đang diễn ra nào cấp độ 3 trở xuống trên mục tiêu kết thúc. Với mỗi spell đang diễn ra cấp độ 4 trở lên trên mục tiêu, hãy thực hiện một ability check dùng spellcasting ability của bạn (DC 10 cộng cấp độ của spell đó). Nếu check thành công, spell kết thúc.
+### Đọc suy nghĩ (Detect Thoughts)
 
-*Using a Higher-Level Spell Slot:* Bạn tự động kết thúc một spell trên mục tiêu nếu cấp độ của spell đó bằng hoặc thấp hơn cấp độ của ô phép thuật bạn dùng.
+*Tiên tri bậc 2 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-### Lời Thì Thầm Bất Hòa (Dissonant Whispers)
-*Cấp độ 1 Enchantment (Bard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (1 đồng đồng)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Một creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh nghe thấy một giai điệu bất hòa trong tâm trí nó. Mục tiêu thực hiện một Wisdom saving throw. Nếu thất bại, nó nhận 3d6 damage Psychic và phải ngay lập tức dùng Reaction của nó, nếu có, để di chuyển càng xa bạn càng tốt, theo tuyến đường an toàn nhất. Nếu thành công, mục tiêu chỉ nhận một nửa lượng damage đó.
+Bạn kích hoạt một trong các hiệu ứng dưới đây. Cho đến khi phép kết thúc, bạn có thể kích hoạt một trong hai hiệu ứng bằng hành động Ma thuật ở các lượt sau.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Cảm nhận suy nghĩ (Sense Thoughts).** Bạn cảm nhận được sự hiện diện của suy nghĩ trong phạm vi 9 m (30 feet) từ các sinh vật biết ngôn ngữ hoặc có thần giao cách cảm. Bạn không đọc được suy nghĩ nhưng biết có một sinh vật đang suy nghĩ ở đó.
+- **Đọc suy nghĩ (Read Thoughts).** Nhắm vào một sinh vật bạn nhìn thấy trong phạm vi 9 m (30 feet), hoặc một sinh vật trong phạm vi 9 m (30 feet) mà bạn đã phát hiện bằng Cảm nhận suy nghĩ. Bạn biết điều gì đang chiếm lấy tâm trí mục tiêu lúc này. Nếu mục tiêu không biết ngôn ngữ nào và không có thần giao cách cảm, bạn không biết được gì.
 
-### Chiêm Bốc (Divination)
-*Cấp độ 4 Divination (Cleric, Druid, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S, M (nhang trị giá 25+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+  Bằng hành động Ma thuật ở lượt kế tiếp, bạn có thể cố thăm dò sâu hơn vào tâm trí mục tiêu. Khi đó, mục tiêu cứu nguy Minh triết. Nếu thất bại, bạn biết được lập luận, cảm xúc và điều đang đè nặng trong tâm trí nó (như một mối lo, tình yêu hay thù hận). Nếu thành công, phép kết thúc. Dù thế nào, mục tiêu biết bạn đang dò xét tâm trí nó, và cho đến khi bạn rời sự chú ý khỏi tâm trí mục tiêu, nó có thể dùng hành động trong lượt để kiểm tra Trí tuệ (Huyền thuật) với DC cứu nguy phép của bạn, chấm dứt phép nếu thành công.
 
-Spell này đưa bạn liên lạc với một vị thần hoặc các đầy tớ của vị thần đó. Bạn hỏi một câu hỏi về một mục tiêu, sự kiện, hoặc hoạt động cụ thể sẽ xảy ra trong vòng 7 ngày. GM đưa ra một câu trả lời trung thực, có thể là một cụm từ ngắn hoặc một câu vần bí ẩn. Spell không tính đến các hoàn cảnh có thể thay đổi câu trả lời, chẳng hạn việc thi triển các spell khác.
+Phép bị chặn bởi 30 cm (1 foot) đá, đất hoặc gỗ; 2,5 cm (1 inch) kim loại; hoặc một lớp chì mỏng.
 
-Nếu bạn thi triển spell nhiều hơn một lần trước khi hoàn thành một Long Rest, có 25 phần trăm cơ hội tích lũy cho mỗi lần thi triển sau lần đầu tiên rằng bạn không nhận được câu trả lời.
+### Cửa chiều không gian (Dimension Door)
 
-### Ân Sủng Thần Thánh (Divine Favor)
-*Cấp độ 1 Transmutation (Paladin)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V, S
-- Duration: 1 phút
+*Triệu hồi bậc 4 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Cho đến khi phép thuật kết thúc, các cuộc tấn công bằng weapon của bạn gây thêm 1d4 damage Radiant khi trúng.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 150 m (500 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
 
-### Đòn Đánh Thần Thánh (Divine Smite)
-*Cấp độ 1 Evocation (Paladin)*
-- Casting Time: Bonus Action, thực hiện ngay sau khi đánh trúng một mục tiêu bằng một Melee weapon hoặc Unarmed Strike
-- Range: Self
-- Components: V
-- Duration: Instantaneous
+Bạn dịch chuyển tức thời đến một nơi trong tầm, đến đúng vị trí mong muốn. Đó có thể là nơi bạn nhìn thấy, nơi bạn hình dung được, hoặc nơi bạn mô tả được bằng khoảng cách và hướng, như "60 m (200 feet) thẳng xuống dưới" hay "90 m (300 feet) lên trên về hướng tây bắc, chếch 45 độ".
 
-Mục tiêu nhận thêm 2d8 damage Radiant từ cuộc tấn công. Damage tăng thêm 1d8 nếu mục tiêu là một Fiend hoặc Undead.
+Bạn cũng có thể đưa theo một sinh vật tự nguyện. Sinh vật đó phải ở trong phạm vi 1,5 m (5 feet) quanh bạn khi dịch chuyển, và nó xuất hiện tại một chỗ trong phạm vi 1,5 m (5 feet) quanh điểm đến của bạn.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Nếu bạn, sinh vật kia hoặc cả hai sẽ xuất hiện tại chỗ đã có sinh vật chiếm hoặc bị đồ vật lấp kín, mỗi người trong các bạn chịu 4d6 sát thương lực, và việc dịch chuyển thất bại.
 
-### Lời Nói Thần Thánh (Divine Word)
-*Cấp độ 7 Evocation (Cleric)*
-- Casting Time: Bonus Action
-- Range: 30 feet
-- Components: V
-- Duration: Instantaneous
+### Cải dạng bản thân (Disguise Self)
 
-Bạn thốt ra một từ mang sức mạnh từ các Upper Plane. Mỗi creature theo lựa chọn của bạn trong tầm đánh thực hiện một Charisma saving throw. Nếu thất bại, một mục tiêu có 50 Hit Points trở xuống chịu một hiệu ứng dựa trên Hit Points hiện tại của nó, như trong bảng **Divine Word Effects**. Bất kể Hit Points của nó, một mục tiêu Celestial, Elemental, Fey, hoặc Fiend thất bại trong save bị đẩy về plane gốc của nó (nếu chưa ở đó) và không thể quay lại plane hiện tại trong 24 giờ bằng bất kỳ phương tiện nào kém hơn một spell Wish.
+*Ảo ảnh bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-**Divine Word Effects**
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
 
-| Hit Points | Effect |
+Bạn khiến bản thân — cả quần áo, giáp, vũ khí và đồ đạc trên người — trông khác đi đến khi phép kết thúc. Bạn có thể trông thấp hơn hoặc cao hơn 30 cm (1 foot), béo hơn hoặc gầy hơn. Bạn phải giữ hình thể có cùng kiểu chi cơ bản như mình. Ngoài ra, ảo ảnh chi tiết đến đâu tùy bạn.
+
+Những thay đổi do phép tạo ra không chịu được kiểm tra bằng xúc giác. Ví dụ, nếu bạn dùng phép thêm một chiếc mũ vào trang phục, đồ vật sẽ xuyên qua mũ, và ai chạm vào sẽ không cảm thấy gì.
+
+Để nhận ra bạn đang cải trang, sinh vật phải dùng hành động Nghiên cứu xem xét ngoại hình bạn và thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn.
+
+### Phân rã (Disintegrate)
+
+*Biến đổi bậc 6 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (đá nam châm và bụi)
+- **Thời lượng:** Tức thời
+
+Bạn phóng một tia sáng xanh lục về phía một mục tiêu bạn nhìn thấy trong tầm. Mục tiêu có thể là sinh vật, đồ vật không ma thuật, hoặc một tạo vật bằng lực ma thuật như bức tường của *Tường lực* (Wall of Force).
+
+Sinh vật bị nhắm cứu nguy Khéo léo. Nếu thất bại, nó chịu 10d6 + 40 sát thương lực. Nếu sát thương này làm HP của nó về 0, nó cùng mọi đồ không ma thuật đang mặc và mang bị phân rã thành bụi xám. Mục tiêu chỉ có thể được hồi sinh bằng *Phục sinh đích thực* (True Resurrection) hoặc *Ước nguyện* (Wish).
+
+Phép tự động phân rã một đồ vật không ma thuật cỡ Lớn trở xuống hoặc một tạo vật bằng lực ma thuật. Nếu mục tiêu như vậy cỡ Khổng lồ trở lên, phép phân rã một phần khối lập phương 3 m (10 feet) của nó.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 3d6 cho mỗi bậc ô phép trên 6.
+
+### Xua đuổi thiện ác (Dispel Evil and Good)
+
+*Phòng hộ bậc 5 (Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (bột bạc và bột sắt)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Trong suốt thời lượng, Thiên thể, Nguyên tố, Tiên, Ác quỷ và Xác sống chịu bất lợi khi tung tấn công nhắm vào bạn. Bạn có thể kết thúc phép sớm bằng một trong các chức năng đặc biệt sau:
+
+- **Phá bùa yểm (Break Enchantment).** Bằng hành động Ma thuật, bạn chạm vào một sinh vật đang bị chiếm hữu, hoặc bị Mê hoặc hay Hoảng sợ bởi một hoặc nhiều sinh vật thuộc các loại trên. Mục tiêu không còn bị chiếm hữu, Mê hoặc hay Hoảng sợ bởi các sinh vật đó nữa.
+- **Trục xuất (Dismissal).** Bằng hành động Ma thuật, bạn nhắm vào một sinh vật bạn nhìn thấy trong phạm vi 1,5 m (5 feet) thuộc một trong các loại trên. Mục tiêu phải thành công cứu nguy Sức hút, nếu không bị đưa về cõi quê hương nếu chưa ở đó. Nếu không ở cõi quê hương, Xác sống bị đưa đến Shadowfell và Tiên bị đưa đến Feywild.
+
+### Giải trừ ma thuật (Dispel Magic)
+
+*Phòng hộ bậc 3 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Chọn một sinh vật, đồ vật hoặc hiệu ứng ma thuật trong tầm. Mọi phép đang duy trì bậc 3 trở xuống trên mục tiêu kết thúc. Với mỗi phép đang duy trì bậc 4 trở lên, hãy kiểm tra thuộc tính bằng thuộc tính thi triển phép (DC bằng 10 + bậc của phép đó). Nếu thành công, phép đó kết thúc.
+
+*Dùng ô phép bậc cao hơn.* Bạn tự động kết thúc một phép trên mục tiêu nếu bậc của phép bằng hoặc thấp hơn bậc ô phép bạn dùng.
+
+### Lời thì thầm bất hòa (Dissonant Whispers)
+
+*Yểm thuật bậc 1 (Thi sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Một sinh vật tùy chọn mà bạn nhìn thấy trong tầm nghe thấy một giai điệu chói tai trong tâm trí. Mục tiêu cứu nguy Minh triết. Nếu thất bại, nó chịu 3d6 sát thương tâm linh và phải lập tức dùng phản ứng (nếu còn) để chạy xa bạn nhất có thể theo đường an toàn nhất. Nếu thành công, nó chỉ chịu một nửa sát thương.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 1.
+
+### Thần đoán (Divination)
+
+*Tiên tri bậc 4 (Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (nhang trị giá 25+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
+
+Phép này đưa bạn tiếp xúc với một vị thần hoặc tôi tớ của thần. Bạn hỏi một câu về một mục tiêu, sự kiện hay hoạt động cụ thể sẽ xảy ra trong vòng 7 ngày. GM đưa ra câu trả lời đúng sự thật, có thể là một cụm từ ngắn hoặc một vần thơ bí ẩn. Phép không tính đến những hoàn cảnh có thể thay đổi câu trả lời, như việc thi triển phép khác.
+
+Nếu thi triển phép nhiều lần trước khi hoàn thành nghỉ dài, mỗi lần thi triển sau lần đầu có thêm 25% cơ hội cộng dồn rằng bạn không nhận được câu trả lời.
+
+### Ân sủng thần thánh (Divine Favor)
+
+*Biến đổi bậc 1 (Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 1 phút
+
+Cho đến khi phép kết thúc, các đòn tấn công bằng vũ khí của bạn gây thêm 1d4 sát thương quang khi trúng.
+
+### Trừng phạt thần thánh (Divine Smite)
+
+*Gọi năng lượng bậc 1 (Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn tay không
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Mục tiêu chịu thêm 2d8 sát thương quang từ đòn tấn công. Sát thương tăng thêm 1d8 nếu mục tiêu là Ác quỷ hoặc Xác sống.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 1.
+
+### Lời nói thần thánh (Divine Word)
+
+*Gọi năng lượng bậc 7 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Bạn thốt lên một từ mang sức mạnh của các Thượng giới. Mỗi sinh vật tùy chọn trong tầm cứu nguy Sức hút. Nếu thất bại, mục tiêu có 50 HP trở xuống chịu hiệu ứng tùy theo HP hiện tại, như trong bảng **Hiệu ứng Lời nói thần thánh**. Bất kể HP, mục tiêu là Thiên thể, Nguyên tố, Tiên hoặc Ác quỷ cứu nguy thất bại bị đẩy về cõi gốc (nếu chưa ở đó) và không thể trở lại cõi hiện tại trong 24 giờ bằng bất kỳ cách nào kém hơn phép *Ước nguyện* (Wish).
+
+**Hiệu ứng Lời nói thần thánh (Divine Word Effects)**
+
+| HP | Hiệu ứng |
 |---|---|
 | 0–20 | Mục tiêu chết. |
-| 21–30 | Mục tiêu có condition Blinded, Deafened, và Stunned trong 1 giờ. |
-| 31–40 | Mục tiêu có condition Blinded và Deafened trong 10 phút. |
-| 41–50 | Mục tiêu có condition Deafened trong 1 phút. |
+| 21–30 | Mục tiêu rơi vào trạng thái Mù, Điếc và Choáng trong 1 giờ. |
+| 31–40 | Mục tiêu rơi vào trạng thái Mù và Điếc trong 10 phút. |
+| 41–50 | Mục tiêu rơi vào trạng thái Điếc trong 1 phút. |
 
-### Khống Chế Muông Thú (Dominate Beast)
-*Cấp độ 4 Enchantment (Druid, Ranger, Sorcerer)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+### Thống trị muông thú (Dominate Beast)
 
-Một Beast bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Mục tiêu có Advantage trên save nếu bạn hoặc đồng minh của bạn đang chiến đấu với nó. Bất cứ khi nào mục tiêu nhận damage, nó lặp lại save, kết thúc spell trên bản thân nếu thành công.
+*Yểm thuật bậc 4 (Druid, Kiểm lâm, Thuật sĩ)*
 
-Bạn có một liên kết thần giao cách cảm với mục tiêu bị Charmed trong khi cả hai ở cùng một plane tồn tại. Trong turn của mình, bạn có thể dùng liên kết này để ra lệnh cho mục tiêu (không cần action), chẳng hạn "Tấn công creature đó," "Di chuyển đến đó," hoặc "Lấy object đó." Mục tiêu cố gắng hết sức tuân theo trong turn của nó. Nếu nó hoàn thành một lệnh và không nhận thêm chỉ dẫn từ bạn, nó hành động và di chuyển theo ý mình, tập trung vào việc bảo vệ bản thân.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Bạn có thể ra lệnh cho mục tiêu thực hiện một Reaction, nhưng phải dùng Reaction của chính mình để làm vậy.
+Một Thú mà bạn nhìn thấy trong tầm phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng. Mục tiêu có lợi thế khi cứu nguy nếu bạn hoặc đồng minh đang giao chiến với nó. Mỗi khi chịu sát thương, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-*Using a Higher-Level Spell Slot:* Concentration của bạn có thể kéo dài hơn với một ô phép thuật cấp độ 5 (tối đa 10 phút), 6 (tối đa 1 giờ), hoặc 7+ (tối đa 8 giờ).
+Bạn có liên kết thần giao cách cảm với mục tiêu bị Mê hoặc khi cả hai ở cùng một cõi tồn tại. Trong lượt của mình, bạn có thể dùng liên kết này ra lệnh cho mục tiêu (không cần hành động), như "Tấn công sinh vật kia", "Chạy tới đó" hay "Nhặt đồ vật kia". Mục tiêu cố hết sức làm theo trong lượt của nó. Nếu hoàn thành mệnh lệnh mà không nhận thêm chỉ dẫn, nó tự hành động và di chuyển theo ý mình, ưu tiên bảo vệ bản thân.
 
-### Khống Chế Quái Vật (Dominate Monster)
-*Cấp độ 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 hour
+Bạn có thể ra lệnh cho mục tiêu dùng phản ứng, nhưng phải tiêu phản ứng của chính mình.
 
-Một creature bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Mục tiêu có Advantage trên save nếu bạn hoặc đồng minh của bạn đang chiến đấu với nó. Bất cứ khi nào mục tiêu nhận damage, nó lặp lại save, kết thúc spell trên bản thân nếu thành công.
+*Dùng ô phép bậc cao hơn.* Tập trung của bạn có thể kéo dài hơn với ô phép bậc 5 (tối đa 10 phút), 6 (tối đa 1 giờ) hoặc 7+ (tối đa 8 giờ).
 
-Bạn có một liên kết thần giao cách cảm với mục tiêu bị Charmed trong khi cả hai ở cùng một plane tồn tại. Trong turn của mình, bạn có thể dùng liên kết này để ra lệnh cho mục tiêu (không cần action). Mục tiêu cố gắng hết sức tuân theo trong turn của nó. Nếu nó hoàn thành một lệnh và không nhận thêm chỉ dẫn, nó hành động theo ý mình, tập trung bảo vệ bản thân.
+### Thống trị quái vật (Dominate Monster)
 
-Bạn có thể ra lệnh cho mục tiêu thực hiện một Reaction, nhưng phải dùng Reaction của chính mình để làm vậy.
+*Yểm thuật bậc 8 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Concentration của bạn có thể kéo dài hơn với một ô phép thuật cấp độ 9 (tối đa 8 giờ).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-### Khống Chế Người (Dominate Person)
-*Cấp độ 5 Enchantment (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Một sinh vật mà bạn nhìn thấy trong tầm phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng. Mục tiêu có lợi thế khi cứu nguy nếu bạn hoặc đồng minh đang giao chiến với nó. Mỗi khi chịu sát thương, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-Một Humanoid bạn có thể nhìn thấy trong tầm đánh phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Mục tiêu có Advantage trên save nếu bạn hoặc đồng minh của bạn đang chiến đấu với nó. Bất cứ khi nào mục tiêu nhận damage, nó lặp lại save, kết thúc spell trên bản thân nếu thành công.
+Bạn có liên kết thần giao cách cảm với mục tiêu bị Mê hoặc khi cả hai ở cùng một cõi tồn tại. Trong lượt của mình, bạn có thể dùng liên kết này ra lệnh cho mục tiêu (không cần hành động). Mục tiêu cố hết sức làm theo trong lượt của nó. Nếu hoàn thành mệnh lệnh mà không nhận thêm chỉ dẫn, nó tự hành động theo ý mình, ưu tiên bảo vệ bản thân.
 
-Bạn có một liên kết thần giao cách cảm với mục tiêu bị Charmed trong khi cả hai ở cùng một plane tồn tại. Trong turn của mình, bạn có thể dùng liên kết này để ra lệnh cho mục tiêu (không cần action). Mục tiêu cố gắng hết sức tuân theo trong turn của nó. Nếu nó hoàn thành một lệnh và không nhận thêm chỉ dẫn, nó hành động theo ý mình, tập trung bảo vệ bản thân.
+Bạn có thể ra lệnh cho mục tiêu dùng phản ứng, nhưng phải tiêu phản ứng của chính mình.
 
-Bạn có thể ra lệnh cho mục tiêu thực hiện một Reaction, nhưng phải dùng Reaction của chính mình để làm vậy.
+*Dùng ô phép bậc cao hơn.* Tập trung của bạn có thể kéo dài hơn với ô phép bậc 9 (tối đa 8 giờ).
 
-*Using a Higher-Level Spell Slot:* Concentration của bạn có thể kéo dài hơn với một ô phép thuật cấp độ 6 (tối đa 10 phút), 7 (tối đa 1 giờ), hoặc 8+ (tối đa 8 giờ).
+### Thống trị người (Dominate Person)
 
-### Hơi Thở Rồng (Dragon's Breath)
-*Cấp độ 2 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Bonus Action
-- Range: Touch
-- Components: V, S, M (một quả ớt cay)
-- Duration: Concentration, up to 1 minute
+*Yểm thuật bậc 5 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Bạn chạm vào một creature tự nguyện, và chọn Acid, Cold, Fire, Lightning, hoặc Poison. Cho đến khi phép thuật kết thúc, mục tiêu có thể thực hiện Magic action để phả ra một 15-foot Cone. Mỗi creature trong khu vực đó thực hiện một Dexterity saving throw, nhận 3d6 damage loại đã chọn nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Một Hình người mà bạn nhìn thấy trong tầm phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng. Mục tiêu có lợi thế khi cứu nguy nếu bạn hoặc đồng minh đang giao chiến với nó. Mỗi khi chịu sát thương, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-### Giấc Mơ (Dream)
-*Cấp độ 5 Illusion (Bard, Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: Special
-- Components: V, S, M (một nắm cát)
-- Duration: 8 hours
+Bạn có liên kết thần giao cách cảm với mục tiêu bị Mê hoặc khi cả hai ở cùng một cõi tồn tại. Trong lượt của mình, bạn có thể dùng liên kết này ra lệnh cho mục tiêu (không cần hành động). Mục tiêu cố hết sức làm theo trong lượt của nó. Nếu hoàn thành mệnh lệnh mà không nhận thêm chỉ dẫn, nó tự hành động theo ý mình, ưu tiên bảo vệ bản thân.
 
-Bạn nhắm vào một creature bạn biết trên cùng plane tồn tại. Bạn hoặc một creature tự nguyện bạn chạm vào bước vào trạng thái xuất thần để làm sứ giả giấc mơ. Khi trong trạng thái xuất thần, sứ giả có condition Incapacitated và có Speed bằng 0.
+Bạn có thể ra lệnh cho mục tiêu dùng phản ứng, nhưng phải tiêu phản ứng của chính mình.
 
-Nếu mục tiêu đang ngủ, sứ giả xuất hiện trong giấc mơ của mục tiêu và có thể trò chuyện với mục tiêu miễn là nó vẫn đang ngủ, trong suốt thời lượng của spell. Sứ giả cũng có thể định hình môi trường của giấc mơ, tạo ra cảnh quan, object, và hình ảnh khác. Sứ giả có thể thoát khỏi trạng thái xuất thần bất cứ lúc nào, kết thúc spell. Mục tiêu nhớ lại giấc mơ hoàn hảo khi thức dậy.
+*Dùng ô phép bậc cao hơn.* Tập trung của bạn có thể kéo dài hơn với ô phép bậc 6 (tối đa 10 phút), 7 (tối đa 1 giờ) hoặc 8+ (tối đa 8 giờ).
 
-Nếu mục tiêu đang thức khi bạn thi triển spell, sứ giả biết điều đó và có thể hoặc kết thúc trạng thái xuất thần (và spell) hoặc chờ mục tiêu ngủ, lúc đó sứ giả bước vào giấc mơ của nó.
+### Hơi thở rồng (Dragon's Breath)
 
-Bạn có thể khiến sứ giả trở nên đáng sợ đối với mục tiêu. Nếu làm vậy, sứ giả có thể chuyển một thông điệp không quá mười từ, rồi mục tiêu thực hiện một Wisdom saving throw. Nếu thất bại, mục tiêu không nhận được lợi ích nào từ giấc ngủ của nó, và nó nhận 3d6 damage Psychic khi thức dậy.
+*Biến đổi bậc 2 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một quả ớt cay)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn chạm vào một sinh vật tự nguyện và chọn axit, lạnh, lửa, sét hoặc độc. Cho đến khi phép kết thúc, mục tiêu có thể dùng hành động Ma thuật để phun ra một hình nón 4,5 m (15 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo, chịu 3d6 sát thương loại đã chọn nếu thất bại hoặc một nửa nếu thành công.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 2.
+
+### Giấc mơ (Dream)
+
+*Ảo ảnh bậc 5 (Thi sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Đặc biệt
+- **Thành phần:** V, S, M (một nắm cát)
+- **Thời lượng:** 8 giờ
+
+Bạn nhắm vào một sinh vật mà bạn biết đang ở cùng cõi tồn tại. Bạn hoặc một sinh vật tự nguyện bạn chạm vào rơi vào trạng thái xuất thần để làm sứ giả giấc mơ. Khi xuất thần, sứ giả ở trạng thái Mất năng lực hành động và có Tốc độ 0.
+
+Nếu mục tiêu đang ngủ, sứ giả xuất hiện trong giấc mơ và có thể trò chuyện với mục tiêu khi nó còn ngủ, trong suốt thời lượng của phép. Sứ giả cũng có thể định hình khung cảnh giấc mơ, tạo cảnh vật, đồ vật và hình ảnh khác. Sứ giả có thể thoát khỏi xuất thần bất cứ lúc nào, chấm dứt phép. Mục tiêu nhớ rõ giấc mơ khi thức dậy.
+
+Nếu mục tiêu đang thức khi bạn thi triển, sứ giả biết điều đó và có thể chấm dứt xuất thần (và phép) hoặc chờ mục tiêu ngủ, khi đó sứ giả bước vào giấc mơ của nó.
+
+Bạn có thể khiến sứ giả hiện ra đáng sợ với mục tiêu. Khi đó, sứ giả có thể chuyển một thông điệp không quá mười chữ, rồi mục tiêu cứu nguy Minh triết. Nếu thất bại, mục tiêu không nhận được lợi ích gì từ giấc ngủ, và chịu 3d6 sát thương tâm linh khi thức dậy.
 
 ### Thuật Druid (Druidcraft)
-*Cantrip Transmutation (Druid)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
 
-Thì thầm với các linh hồn thiên nhiên, bạn tạo ra một trong các hiệu ứng sau trong tầm đánh.
+*Phép sơ cấp Biến đổi (Druid)*
 
-- **Weather Sense.** Bạn tạo ra một hiệu ứng cảm giác Tiny, vô hại dự đoán thời tiết sẽ ra sao tại vị trí của bạn trong 24 giờ tới. Hiệu ứng có thể hiện lên như một quả cầu vàng cho trời quang, một đám mây cho mưa, những bông tuyết rơi cho tuyết, v.v. Hiệu ứng này tồn tại 1 round.
-- **Bloom.** Bạn ngay lập tức khiến một bông hoa nở, một quả hạt mở ra, hoặc một chồi lá nảy mầm.
-- **Sensory Effect.** Bạn tạo ra một hiệu ứng cảm giác vô hại, chẳng hạn lá rơi, tiên nữ ma quái nhảy múa, một cơn gió nhẹ, âm thanh của một con vật, hoặc mùi chồn hôi thoảng qua. Hiệu ứng phải vừa trong một Cube 5-foot.
-- **Fire Play.** Bạn thắp hoặc dập tắt một cây nến, đuốc, hoặc lửa trại.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-### Động Đất (Earthquake)
-*Cấp độ 8 Transmutation (Cleric, Druid, Sorcerer)*
-- Casting Time: Action
-- Range: 500 feet
-- Components: V, S, M (một tảng đá vỡ)
-- Duration: Concentration, up to 1 minute
+Thì thầm với các linh hồn thiên nhiên, bạn tạo một trong các hiệu ứng sau trong tầm:
 
-Chọn một điểm trên mặt đất mà bạn có thể nhìn thấy trong tầm đánh. Trong suốt thời lượng, một cơn rung chấn dữ dội xé toạc mặt đất trong một vòng tròn bán kính 100-foot có tâm tại điểm đó. Mặt đất ở đó là Difficult Terrain.
+- **Cảm nhận thời tiết (Weather Sense).** Bạn tạo một hiệu ứng Tí hon, vô hại, dự báo thời tiết tại chỗ bạn trong 24 giờ tới. Hiệu ứng có thể là quả cầu vàng khi trời quang, đám mây khi có mưa, bông tuyết rơi khi có tuyết, v.v. Hiệu ứng kéo dài 1 vòng.
+- **Nở hoa (Bloom).** Bạn khiến một bông hoa nở, một quả hạt tách vỏ hoặc một chồi lá nhú lên ngay lập tức.
+- **Hiệu ứng giác quan (Sensory Effect).** Bạn tạo một hiệu ứng giác quan vô hại, như lá rơi, những tiên nữ ma quái nhảy múa, một làn gió nhẹ, tiếng kêu của một con thú hay mùi chồn hôi thoang thoảng. Hiệu ứng phải nằm gọn trong khối lập phương 1,5 m (5 feet).
+- **Đùa với lửa (Fire Play).** Bạn thắp hoặc dập tắt một cây nến, ngọn đuốc hay đống lửa trại.
 
-Khi thi triển spell này và vào cuối mỗi turn của bạn trong suốt thời lượng, mỗi creature trên mặt đất trong khu vực thực hiện một Dexterity saving throw. Nếu thất bại, một creature có condition Prone, và Concentration của nó bị phá vỡ.
+### Động đất (Earthquake)
 
-Bạn cũng có thể gây ra các hiệu ứng dưới đây.
+*Biến đổi bậc 8 (Giáo sĩ, Druid, Thuật sĩ)*
 
-- **Fissures.** Tổng cộng 1d6 khe nứt mở ra trong khu vực của spell vào cuối turn bạn thi triển nó. Bạn chọn vị trí các khe nứt, không được nằm dưới công trình. Mỗi khe nứt sâu 1d10 × 10 feet và rộng 10 feet, và kéo dài từ một cạnh của khu vực spell đến cạnh khác. Một creature ở cùng không gian với một khe nứt phải thành công trong một Dexterity saving throw hoặc rơi xuống. Một creature thành công trong save di chuyển cùng cạnh của khe nứt khi nó mở ra.
-- **Structural Damage.** Cơn rung chấn gây 50 damage Bludgeoning lên bất kỳ công trình nào tiếp xúc với mặt đất trong khu vực khi bạn thi triển spell và vào cuối mỗi turn của bạn cho đến khi spell kết thúc. Nếu một công trình giảm xuống 0 Hit Points, nó sụp đổ.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 150 m (500 feet)
+- **Thành phần:** V, S, M (một hòn đá vỡ)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-  Một creature trong khoảng cách bằng một nửa chiều cao của công trình đang sụp đổ thực hiện một Dexterity saving throw. Nếu thất bại, creature nhận 12d6 damage Bludgeoning, có condition Prone, và bị chôn vùi trong đống đổ nát, cần một DC 20 Strength (Athletics) check như một action để thoát ra. Nếu thành công, creature chỉ nhận một nửa lượng damage đó.
+Chọn một điểm trên mặt đất mà bạn nhìn thấy trong tầm. Trong suốt thời lượng, một cơn chấn động dữ dội xé toạc mặt đất trong vòng tròn bán kính 30 m (100 feet) lấy điểm đó làm tâm. Mặt đất ở đó là địa hình khó đi.
 
-### Tia Sáng Eldritch (Eldritch Blast)
-*Cantrip Evocation (Warlock)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+Khi thi triển và cuối mỗi lượt của bạn trong suốt thời lượng, mỗi sinh vật trên mặt đất trong khu vực cứu nguy Khéo léo. Nếu thất bại, sinh vật rơi vào trạng thái Ngã sấp, và Tập trung của nó bị phá vỡ.
 
-Bạn phóng một tia năng lượng tanh tách. Thực hiện một ranged spell attack nhắm vào một creature hoặc object trong tầm đánh. Nếu trúng, mục tiêu nhận 1d10 damage Force.
+Bạn cũng có thể gây các hiệu ứng dưới đây.
 
-*Cantrip Upgrade:* Spell tạo ra hai tia ở cấp độ 5, ba tia ở cấp độ 11, và bốn tia ở cấp độ 17. Bạn có thể hướng các tia vào cùng một mục tiêu hoặc các mục tiêu khác nhau. Thực hiện một attack roll riêng cho mỗi tia.
+- **Khe nứt (Fissures).** Tổng cộng 1d6 khe nứt mở ra trong khu vực của phép vào cuối lượt bạn thi triển. Bạn chọn vị trí khe nứt, không được nằm dưới công trình. Mỗi khe sâu 1d10 × 3 m (1d10 × 10 feet), rộng 3 m (10 feet), và kéo dài từ mép này sang mép kia của khu vực. Sinh vật đứng ở chỗ có khe nứt phải thành công cứu nguy Khéo léo, nếu không rơi xuống. Sinh vật cứu nguy thành công di chuyển theo mép khe khi nó mở ra.
+- **Hư hại công trình (Structural Damage).** Chấn động gây 50 sát thương đập lên mọi công trình tiếp xúc mặt đất trong khu vực khi bạn thi triển và cuối mỗi lượt của bạn cho đến khi phép kết thúc. Nếu HP của công trình về 0, nó sụp đổ.
 
-### Nguyên Tố Thuật (Elementalism)
-*Cantrip Transmutation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
+  Sinh vật ở trong khoảng cách bằng một nửa chiều cao của công trình đang sụp cứu nguy Khéo léo. Nếu thất bại, sinh vật chịu 12d6 sát thương đập, rơi vào trạng thái Ngã sấp và bị vùi dưới đống đổ nát, phải dùng một hành động và thành công phép kiểm tra Sức mạnh (Điền kinh) DC 20 để thoát ra. Nếu thành công, sinh vật chỉ chịu một nửa sát thương.
 
-Bạn thực thi quyền kiểm soát đối với các nguyên tố, tạo ra một trong các hiệu ứng sau trong tầm đánh.
+### Luồng năng lượng huyền bí (Eldritch Blast)
 
-- **Air Current.** Bạn tạo ra một cơn gió nhẹ đủ mạnh để làm gợn vải, khuấy động bụi, xào xạc lá cây, và đóng các cửa và cửa chớp đang mở, tất cả trong một Cube 5-foot. Cửa và cửa chớp đang bị ai đó hoặc thứ gì đó giữ mở không bị ảnh hưởng.
-- **Bedeck Earth.** Bạn tạo ra một lớp bụi hoặc cát mỏng phủ lên các bề mặt trong một khu vực vuông 5-foot, hoặc bạn khiến một từ đơn xuất hiện bằng nét chữ của bạn trên một khoảng đất hoặc cát.
-- **Beckon Fire.** Bạn tạo ra một đám mây mỏng than hồng vô hại và khói có màu, có mùi trong một Cube 5-foot. Bạn chọn màu sắc và mùi, và các than hồng có thể thắp nến, đuốc, hoặc đèn trong khu vực đó. Mùi khói lưu lại trong 1 phút.
-- **Beckon Water.** Bạn tạo ra một làn sương mát làm ẩm nhẹ các creature và object trong một Cube 5-foot. Ngoài ra, bạn tạo ra 1 cốc nước sạch hoặc trong một vật đựng hoặc trên một bề mặt, và nước bốc hơi sau 1 phút.
-- **Sculpt Element.** Bạn khiến đất, cát, lửa, khói, sương mù, hoặc nước có thể vừa trong một Cube 1-foot mang một hình dạng thô sơ (chẳng hạn hình dạng một creature) trong 1 giờ.
+*Phép sơ cấp Gọi năng lượng (Warlock)*
 
-### Tăng Cường Năng Lực (Enhance Ability)
-*Cấp độ 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (lông thú hoặc lông vũ)
-- Duration: Concentration, up to 1 hour
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bạn chạm vào một creature và chọn Strength, Dexterity, Intelligence, Wisdom, hoặc Charisma. Trong suốt thời lượng, mục tiêu có Advantage trên ability check dùng ability đã chọn.
+Bạn phóng một luồng năng lượng lách tách. Tung tấn công tầm xa bằng phép nhắm vào một sinh vật hoặc đồ vật trong tầm. Nếu trúng, mục tiêu chịu 1d10 sát thương lực.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 2. Bạn có thể chọn một ability khác cho mỗi mục tiêu.
+*Nâng cấp phép sơ cấp.* Phép tạo hai luồng ở cấp 5, ba luồng ở cấp 11 và bốn luồng ở cấp 17. Bạn có thể nhắm các luồng vào cùng một mục tiêu hoặc nhiều mục tiêu khác nhau. Tung tấn công riêng cho từng luồng.
 
-### Phóng To/Thu Nhỏ (Enlarge/Reduce)
-*Cấp độ 2 Transmutation (Bard, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một nhúm bột sắt)
-- Duration: Concentration, up to 1 minute
+### Nguyên tố thuật (Elementalism)
 
-Trong suốt thời lượng, spell phóng to hoặc thu nhỏ một creature hoặc object bạn có thể nhìn thấy trong tầm đánh (xem hiệu ứng đã chọn dưới đây). Một object bị nhắm mục tiêu không được đang mặc hay mang theo. Nếu mục tiêu là một creature bất đắc dĩ, nó có thể thực hiện một Constitution saving throw. Nếu thành công, spell không có hiệu lực.
+*Phép sơ cấp Biến đổi (Druid, Thuật sĩ, Pháp sư)*
 
-Mọi thứ mà một creature bị nhắm mục tiêu đang mặc và mang theo thay đổi kích thước cùng nó. Bất kỳ vật nào nó thả rơi trở về kích thước bình thường ngay lập tức. Một weapon ném hoặc viên đạn trở về kích thước bình thường ngay sau khi nó trúng hoặc trượt mục tiêu.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-- **Enlarge.** Kích thước của mục tiêu tăng thêm một cấp — từ Medium thành Large, chẳng hạn. Mục tiêu cũng có Advantage trên Strength check và Strength saving throw. Các cuộc tấn công của mục tiêu bằng weapon đã phóng to hoặc Unarmed Strike gây thêm 1d4 damage khi trúng.
-- **Reduce.** Kích thước của mục tiêu giảm một cấp — từ Medium thành Small, chẳng hạn. Mục tiêu cũng có Disadvantage trên Strength check và Strength saving throw. Các cuộc tấn công của mục tiêu bằng weapon đã thu nhỏ hoặc Unarmed Strike gây ít hơn 1d4 damage khi trúng (điều này không thể giảm damage xuống dưới 1).
+Bạn thể hiện quyền năng với các nguyên tố, tạo một trong các hiệu ứng sau trong tầm:
 
-### Đòn Trói Buộc (Ensnaring Strike)
-*Cấp độ 1 Conjuration (Ranger)*
-- Casting Time: Bonus Action, thực hiện ngay sau khi đánh trúng một creature bằng một weapon
-- Range: Self
-- Components: V
-- Duration: Concentration, up to 1 minute
+- **Luồng gió (Air Current).** Bạn tạo một làn gió đủ mạnh để làm vải bay phần phật, cuốn bụi, lá cây xào xạc và đóng cửa ra vào, cửa chớp đang mở, tất cả trong khối lập phương 1,5 m (5 feet). Cửa ra vào và cửa chớp đang có người hay vật giữ mở không bị ảnh hưởng.
+- **Phủ đất (Bedeck Earth).** Bạn tạo một lớp bụi hoặc cát mỏng phủ lên bề mặt trong khu vực vuông 1,5 m (5 feet), hoặc khiến một từ hiện lên bằng nét chữ của bạn trên một khoảng đất hay cát.
+- **Gọi lửa (Beckon Fire).** Bạn tạo một đám tàn lửa vô hại lẫn khói có màu và mùi trong khối lập phương 1,5 m (5 feet). Bạn chọn màu và mùi, và tàn lửa có thể thắp nến, đuốc hay đèn trong khu vực đó. Mùi khói còn vương lại 1 phút.
+- **Gọi nước (Beckon Water).** Bạn tạo một làn sương mát làm ẩm nhẹ sinh vật và đồ vật trong khối lập phương 1,5 m (5 feet). Hoặc, bạn tạo 1 cốc nước sạch trong vật chứa hoặc trên bề mặt, nước bay hơi sau 1 phút.
+- **Nặn nguyên tố (Sculpt Element).** Bạn khiến một lượng đất, cát, lửa, khói, sương mù hoặc nước vừa trong khối lập phương 30 cm (1 foot) giữ một hình dạng thô sơ (như hình một sinh vật) trong 1 giờ.
 
-Khi bạn đánh trúng mục tiêu, dây leo bám lấy nó xuất hiện, và nó thực hiện một Strength saving throw. Một creature Large trở lên có Advantage trên save này. Nếu thất bại, mục tiêu có condition Restrained cho đến khi phép thuật kết thúc. Nếu thành công, dây leo héo rụng, và phép thuật kết thúc.
+### Tăng cường năng lực (Enhance Ability)
 
-Trong khi bị Restrained, mục tiêu nhận 1d6 damage Piercing vào đầu mỗi turn của nó. Mục tiêu hoặc một creature trong tầm với của nó có thể thực hiện một action để thực hiện một Strength (Athletics) check chống lại spell save DC của bạn. Nếu thành công, phép thuật kết thúc.
+*Biến đổi bậc 2 (Thi sĩ, Giáo sĩ, Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (lông thú hoặc lông vũ)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-### Dây Leo Trói Buộc (Entangle)
-*Cấp độ 1 Conjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Bạn chạm vào một sinh vật và chọn Sức mạnh, Khéo léo, Trí tuệ, Minh triết hoặc Sức hút. Trong suốt thời lượng, mục tiêu có lợi thế khi kiểm tra thuộc tính bằng thuộc tính đã chọn.
 
-Các cây bám lấy mọc lên từ mặt đất trong một khu vực vuông 20-foot trong tầm đánh. Trong suốt thời lượng, các cây này biến mặt đất trong khu vực thành Difficult Terrain. Chúng biến mất khi phép thuật kết thúc.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 2. Bạn có thể chọn thuộc tính khác nhau cho mỗi mục tiêu.
 
-Mỗi creature (ngoài bạn) trong khu vực khi bạn thi triển spell phải thành công trong một Strength saving throw hoặc có condition Restrained cho đến khi phép thuật kết thúc. Một creature bị Restrained có thể thực hiện một action để thực hiện một Strength (Athletics) check chống lại spell save DC của bạn. Nếu thành công, nó tự giải thoát khỏi các cây bám và không còn bị Restrain bởi chúng nữa.
+### Phóng to/thu nhỏ (Enlarge/Reduce)
 
-### Mê Hoặc Đám Đông (Enthrall)
-*Cấp độ 2 Enchantment (Bard, Warlock)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Biến đổi bậc 2 (Thi sĩ, Druid, Thuật sĩ, Pháp sư)*
 
-Bạn dệt nên một chuỗi lời nói gây xao nhãng, khiến các creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh thực hiện một Wisdom saving throw. Bất kỳ creature nào bạn hoặc đồng đội của bạn đang chiến đấu tự động thành công trong save này. Nếu thất bại, một mục tiêu chịu penalty −10 vào Wisdom (Perception) check và Passive Perception cho đến khi phép thuật kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một nhúm bột sắt)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Diện Giới (Etherealness)
-*Cấp độ 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Up to 8 hours
+Trong suốt thời lượng, phép phóng to hoặc thu nhỏ một sinh vật hoặc đồ vật bạn nhìn thấy trong tầm (xem hiệu ứng được chọn bên dưới). Đồ vật bị nhắm không được có ai mặc hay mang. Nếu mục tiêu là sinh vật không tự nguyện, nó có thể cứu nguy Thể chất. Nếu thành công, phép không có tác dụng.
 
-Bạn bước vào vùng biên giới của Ethereal Plane, nơi nó chồng lấp với plane hiện tại của bạn. Bạn ở lại Border Ethereal trong suốt thời lượng. Trong thời gian này, bạn có thể di chuyển theo bất kỳ hướng nào. Nếu di chuyển lên hoặc xuống, mỗi foot di chuyển tốn thêm một foot. Bạn có thể cảm nhận plane bạn đã rời khỏi, trông có màu xám, và bạn không thể nhìn thấy bất cứ thứ gì ở đó cách xa hơn 60 feet.
+Mọi thứ sinh vật mục tiêu đang mặc và mang đổi kích cỡ theo nó. Vật nào bị nó đánh rơi lập tức trở về kích cỡ thường. Vũ khí ném hoặc đạn trở về kích cỡ thường ngay sau khi trúng hoặc trượt mục tiêu.
 
-Khi ở trên Ethereal Plane, bạn chỉ có thể ảnh hưởng và bị ảnh hưởng bởi các creature, object, và hiệu ứng trên plane đó. Các creature không ở trên Ethereal Plane không thể cảm nhận hay tương tác với bạn trừ khi một feature cho chúng khả năng đó.
+- **Phóng to (Enlarge).** Kích cỡ mục tiêu tăng một hạng — chẳng hạn từ Trung bình thành Lớn. Mục tiêu cũng có lợi thế khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã phóng to hoặc đòn tay không gây thêm 1d4 sát thương khi trúng.
+- **Thu nhỏ (Reduce).** Kích cỡ mục tiêu giảm một hạng — chẳng hạn từ Trung bình thành Nhỏ. Mục tiêu cũng chịu bất lợi khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã thu nhỏ hoặc đòn tay không gây ít hơn 1d4 sát thương khi trúng (không thể giảm sát thương xuống dưới 1).
 
-Khi phép thuật kết thúc, bạn quay lại plane bạn đã rời đi tại vị trí tương ứng với không gian của bạn trên Border Ethereal. Nếu bạn xuất hiện tại một không gian đã bị chiếm, bạn bị đẩy đến không gian trống gần nhất và nhận damage Force bằng hai lần số feet bạn bị di chuyển.
+### Đòn trói buộc (Ensnaring Strike)
 
-Spell này kết thúc ngay lập tức nếu bạn thi triển nó khi đang ở trên Ethereal Plane hoặc trên một plane không giáp với nó, chẳng hạn một trong các Outer Plane.
+*Triệu hồi bậc 1 (Kiểm lâm)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm tối đa ba creature tự nguyện (bao gồm cả bản thân) cho mỗi cấp độ ô phép thuật trên cấp độ 7. Các creature phải trong vòng 10 feet của bạn khi bạn thi triển spell.
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng một sinh vật bằng vũ khí
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Rút Lui Thần Tốc (Expeditious Retreat)
-*Cấp độ 1 Transmutation (Sorcerer, Warlock, Wizard)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+Khi bạn đánh trúng, những dây leo bám víu xuất hiện trên mục tiêu, và nó cứu nguy Sức mạnh. Sinh vật cỡ Lớn trở lên có lợi thế ở lần cứu nguy này. Nếu thất bại, mục tiêu rơi vào trạng thái Kiềm giữ đến khi phép kết thúc. Nếu thành công, dây leo héo rụng và phép kết thúc.
 
-Bạn thực hiện action Dash, và cho đến khi phép thuật kết thúc, bạn có thể thực hiện action đó lần nữa như một Bonus Action.
+Khi bị Kiềm giữ, mục tiêu chịu 1d6 sát thương xuyên vào đầu mỗi lượt của nó. Mục tiêu hoặc một sinh vật trong tầm với của nó có thể dùng một hành động kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn. Nếu thành công, phép kết thúc.
 
-### Ánh Mắt Rắn Độc (Eyebite)
-*Cấp độ 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 1.
 
-Trong suốt thời lượng, đôi mắt bạn trở thành một khoảng không đen kịt. Một creature theo lựa chọn của bạn trong vòng 60 feet của bạn mà bạn có thể nhìn thấy phải thành công trong một Wisdom saving throw hoặc chịu một trong các hiệu ứng sau theo lựa chọn của bạn trong suốt thời lượng.
+### Dây leo trói buộc (Entangle)
 
-Vào mỗi turn của mình cho đến khi phép thuật kết thúc, bạn có thể thực hiện Magic action để nhắm vào một creature khác nhưng không thể nhắm lại một creature nếu nó đã thành công trong save chống lại lần thi triển spell này.
+*Triệu hồi bậc 1 (Druid, Kiểm lâm)*
 
-- **Asleep.** Mục tiêu có condition Unconscious. Nó thức dậy nếu nhận bất kỳ damage nào hoặc nếu một creature khác thực hiện một action để lay nó dậy.
-- **Panicked.** Mục tiêu có condition Frightened. Vào mỗi turn của nó, mục tiêu bị Frightened phải thực hiện action Dash và di chuyển ra xa bạn theo tuyến đường an toàn và ngắn nhất có sẵn. Nếu mục tiêu di chuyển đến một không gian cách bạn ít nhất 60 feet nơi nó không thể nhìn thấy bạn, hiệu ứng này kết thúc.
-- **Sickened.** Mục tiêu có condition Poisoned.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Chế Tạo (Fabricate)
-*Cấp độ 4 Transmutation (Wizard)*
-- Casting Time: 10 phút
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+Cây cỏ bám víu trồi lên từ mặt đất trong khu vực vuông 6 m (20 feet) trong tầm. Trong suốt thời lượng, cây cỏ biến mặt đất trong khu vực thành địa hình khó đi. Chúng biến mất khi phép kết thúc.
 
-Bạn chuyển đổi nguyên liệu thô thành sản phẩm cùng chất liệu. Ví dụ, bạn có thể chế tạo một cây cầu gỗ từ một cụm cây, một sợi dây thừng từ một khóm gai dầu, hoặc quần áo từ lanh hay len.
+Mỗi sinh vật (trừ bạn) trong khu vực khi bạn thi triển phải thành công cứu nguy Sức mạnh, nếu không rơi vào trạng thái Kiềm giữ đến khi phép kết thúc. Sinh vật bị Kiềm giữ có thể dùng một hành động kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn. Nếu thành công, nó thoát khỏi cây cỏ và không còn bị chúng kiềm giữ.
 
-Chọn nguyên liệu thô bạn có thể nhìn thấy trong tầm đánh. Bạn có thể chế tạo một object kích thước Large trở xuống (nằm trong một Cube 10-foot hoặc tám Cube 5-foot liên kết) với đủ số lượng vật liệu. Tuy nhiên, nếu đang làm việc với kim loại, đá, hoặc chất khoáng khác, object được chế tạo không được lớn hơn Medium (nằm trong một Cube 5-foot). Chất lượng của bất kỳ object nào được chế tạo dựa trên chất lượng của nguyên liệu thô.
+### Mê hoặc đám đông (Enthrall)
 
-Spell này không thể tạo ra creature hay magic item. Bạn cũng không thể dùng nó để tạo ra các vật phẩm đòi hỏi kỹ năng cao — chẳng hạn weapon và armor — trừ khi bạn có proficiency với loại Artisan's Tools dùng để chế tạo các object đó.
+*Yểm thuật bậc 2 (Thi sĩ, Warlock)*
 
-### Lửa Yêu Tinh (Faerie Fire)
-*Cấp độ 1 Evocation (Bard, Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Các object trong một Cube 20-foot trong tầm đánh được viền bằng ánh sáng xanh dương, xanh lục, hoặc tím (tùy bạn chọn). Mỗi creature trong Cube cũng được viền sáng nếu nó thất bại trong một Dexterity saving throw. Trong suốt thời lượng, các object và creature bị ảnh hưởng tỏa Dim Light trong bán kính 10 feet và không thể hưởng lợi từ condition Invisible. Attack roll nhắm vào một creature hoặc object bị ảnh hưởng có Advantage nếu kẻ tấn công có thể nhìn thấy nó.
+Bạn dệt nên một chuỗi lời lẽ cuốn hút, khiến các sinh vật tùy chọn mà bạn nhìn thấy trong tầm phải cứu nguy Minh triết. Sinh vật nào đang giao chiến với bạn hoặc đồng đội tự động thành công. Nếu thất bại, mục tiêu bị −10 khi kiểm tra Minh triết (Tri giác) và vào Tri giác thụ động cho đến khi phép kết thúc.
 
-### Chó Canh Trung Thành (Faithful Hound)
-*Cấp độ 4 Conjuration (Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một chiếc còi bạc)
-- Duration: 8 hours
+### Hóa Ethereal (Etherealness)
 
-Bạn triệu hồi một con chó canh ma quái trong một không gian trống bạn có thể nhìn thấy trong tầm đánh. Con chó tồn tại trong suốt thời lượng hoặc cho đến khi hai bên cách nhau hơn 300 feet.
+*Triệu hồi bậc 7 (Thi sĩ, Giáo sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Chỉ mình bạn có thể nhìn thấy con chó, và nó phi vật chất và bất khả xâm phạm. Khi một creature Small trở lên đến trong vòng 30 feet của nó mà không nói mật khẩu bạn chỉ định khi thi triển spell này, con chó bắt đầu sủa lớn. Con chó có Truesight với tầm 30 feet.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tối đa 8 giờ
 
-Vào đầu mỗi turn của bạn, con chó cố cắn một kẻ địch trong vòng 5 feet của nó. Kẻ địch đó phải thành công trong một Dexterity saving throw hoặc nhận 4d8 damage Force.
+Bạn bước vào vùng biên của Cõi Ethereal, nơi nó chồng lên cõi hiện tại. Bạn ở lại Vùng biên Ethereal (Border Ethereal) suốt thời lượng. Trong thời gian đó, bạn có thể di chuyển theo mọi hướng. Nếu đi lên hoặc xuống, mỗi 30 cm (1 foot) di chuyển tốn thêm 30 cm (1 foot). Bạn cảm nhận được cõi vừa rời, hiện lên xám xịt, nhưng không nhìn thấy gì ở đó xa quá 18 m (60 feet).
 
-Ở các turn sau, bạn có thể thực hiện Magic action để di chuyển con chó tối đa 30 feet.
+Khi ở Cõi Ethereal, bạn chỉ tác động và bị tác động bởi sinh vật, đồ vật và hiệu ứng ở cõi đó. Sinh vật không ở Cõi Ethereal không cảm nhận hay tương tác được với bạn, trừ khi có đặc tính cho phép.
 
-### Giả Sinh Mệnh (False Life)
-*Cấp độ 1 Necromancy (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một giọt cồn)
-- Duration: Instantaneous
+Khi phép kết thúc, bạn trở về cõi đã rời, tại vị trí tương ứng với chỗ của bạn ở Vùng biên Ethereal. Nếu xuất hiện ở chỗ đã bị chiếm, bạn bị đẩy đến chỗ trống gần nhất và chịu sát thương lực bằng hai lần số feet bị đẩy (tức 2 sát thương mỗi 30 cm).
 
-Bạn nhận 2d4 + 4 Temporary Hit Points.
+Phép kết thúc ngay nếu bạn thi triển khi đang ở Cõi Ethereal hoặc ở một cõi không giáp với nó, như một trong các Cõi Ngoài.
 
-*Using a Higher-Level Spell Slot:* Bạn nhận thêm 5 Temporary Hit Points cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm tối đa ba sinh vật tự nguyện (tính cả bạn) cho mỗi bậc ô phép trên 7. Các sinh vật phải ở trong phạm vi 3 m (10 feet) quanh bạn khi thi triển.
 
-### Sợ Hãi (Fear)
-*Cấp độ 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một chiếc lông trắng)
-- Duration: Concentration, up to 1 minute
+### Rút lui thần tốc (Expeditious Retreat)
 
-Mỗi creature trong một 30-foot Cone phải thành công trong một Wisdom saving throw hoặc thả bất cứ thứ gì nó đang cầm và có condition Frightened trong suốt thời lượng. Một creature bị Frightened thực hiện action Dash và di chuyển ra xa bạn theo tuyến đường an toàn nhất vào mỗi turn của nó trừ khi không còn nơi nào để di chuyển. Nếu creature kết thúc turn tại một không gian mà nó không có đường ngắm đến bạn, creature thực hiện một Wisdom saving throw. Nếu thành công, phép thuật kết thúc trên creature đó.
+*Biến đổi bậc 1 (Thuật sĩ, Warlock, Pháp sư)*
 
-### Rơi Nhẹ Như Lông (Feather Fall)
-*Cấp độ 1 Transmutation (Bard, Sorcerer, Wizard)*
-- Casting Time: Reaction, thực hiện khi bạn hoặc một creature bạn có thể nhìn thấy trong vòng 60 feet của bạn đang rơi
-- Range: 60 feet
-- Components: V, M (một chiếc lông nhỏ hoặc lông tơ)
-- Duration: 1 phút
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Chọn tối đa năm creature đang rơi trong tầm đánh. Tốc độ rơi của một creature đang rơi chậm lại còn 60 feet mỗi round cho đến khi phép thuật kết thúc. Nếu một creature tiếp đất trước khi phép thuật kết thúc, creature đó không nhận damage từ cú rơi, và phép thuật kết thúc đối với creature đó.
+Bạn dùng hành động Chạy nước rút, và cho đến khi phép kết thúc, bạn có thể dùng lại hành động đó bằng hành động phụ.
 
-### Tìm Sinh Vật Quen Thuộc (Find Familiar)
-*Cấp độ 1 Conjuration (Wizard)*
-- Casting Time: 1 giờ hoặc Ritual
-- Range: 10 feet
-- Components: V, S, M (nhang đang cháy trị giá 10+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+### Ánh mắt rắn độc (Eyebite)
 
-Bạn nhận được sự phục vụ của một familiar (sinh vật quen thuộc), một linh hồn mang một hình dạng động vật bạn chọn: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, hoặc một Beast khác có Challenge Rating 0.
+*Tử linh bậc 6 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Xuất hiện trong một không gian trống trong tầm đánh, familiar có chỉ số của hình dạng đã chọn (xem "Monsters"), dù nó là một Celestial, Fey, hoặc Fiend (tùy bạn chọn) thay vì một Beast. Familiar của bạn hành động độc lập với bạn, nhưng nó tuân theo lệnh của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-**Combat.** Familiar là đồng minh của bạn và đồng minh của bạn. Nó tung Initiative riêng và hành động trong turn của chính nó. Một familiar không thể tấn công, nhưng nó có thể thực hiện các action khác như bình thường.
+Trong suốt thời lượng, hai mắt bạn biến thành hai hốc đen thẳm. Một sinh vật tùy chọn mà bạn nhìn thấy trong phạm vi 18 m (60 feet) phải thành công cứu nguy Minh triết, nếu không chịu một trong các hiệu ứng sau (tùy bạn chọn) suốt thời lượng.
 
-**Sense.** Khi familiar của bạn trong vòng 100 feet của bạn, bạn có thể giao tiếp với nó bằng thần giao cách cảm. Ngoài ra, như một Bonus Action, bạn có thể nhìn qua mắt của familiar và nghe những gì nó nghe cho đến khi bắt đầu turn tiếp theo của bạn, nhận lợi ích từ bất kỳ giác quan đặc biệt nào nó có.
+Mỗi lượt cho đến khi phép kết thúc, bạn có thể dùng hành động Ma thuật để nhắm một sinh vật khác, nhưng không thể nhắm lại sinh vật đã cứu nguy thành công trước lần thi triển này.
 
-Cuối cùng, khi thi triển một spell có tầm đánh là touch, familiar của bạn có thể chuyển cú chạm đó. Familiar của bạn phải trong vòng 100 feet của bạn, và nó phải dùng Reaction để chuyển cú chạm khi bạn thi triển spell.
+- **Ngủ mê (Asleep).** Mục tiêu rơi vào trạng thái Bất tỉnh. Nó tỉnh dậy nếu chịu bất kỳ sát thương nào hoặc nếu một sinh vật khác dùng hành động lay nó dậy.
+- **Hoảng loạn (Panicked).** Mục tiêu rơi vào trạng thái Hoảng sợ. Mỗi lượt, mục tiêu Hoảng sợ phải dùng hành động Chạy nước rút và chạy xa bạn theo đường an toàn và ngắn nhất. Nếu mục tiêu đến chỗ cách bạn ít nhất 18 m (60 feet) mà không nhìn thấy bạn, hiệu ứng kết thúc.
+- **Buồn nôn (Sickened).** Mục tiêu rơi vào trạng thái Trúng độc.
 
-**Disappearance.** Khi familiar giảm xuống 0 Hit Points, nó biến mất. Nó xuất hiện trở lại sau khi bạn thi triển spell này lần nữa. Như một Magic action, bạn có thể tạm thời loại bỏ familiar vào một chiều không gian túi. Ngoài ra, bạn có thể loại bỏ nó vĩnh viễn. Như một Magic action trong khi nó tạm thời bị loại bỏ, bạn có thể khiến nó xuất hiện trở lại trong một không gian trống trong vòng 30 feet của bạn. Bất cứ khi nào familiar giảm xuống 0 Hit Points hoặc biến mất vào chiều không gian túi, nó để lại trong không gian của nó bất cứ thứ gì nó đang mặc hoặc mang theo.
+### Chế tạo (Fabricate)
 
-**One Familiar.** Bạn không thể có nhiều hơn một familiar tại một thời điểm. Nếu bạn thi triển spell này trong khi đã có một familiar, thay vào đó bạn khiến nó chuyển sang một hình dạng đủ điều kiện mới.
+*Biến đổi bậc 4 (Pháp sư)*
 
-### Tìm Chiến Mã (Find Steed)
-*Cấp độ 2 Conjuration (Paladin)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bạn triệu hồi một thực thể ngoại giới xuất hiện dưới dạng một chiến mã (Otherworldly Steed) trong một không gian trống theo lựa chọn của bạn trong tầm đánh. Creature này dùng stat block Otherworldly Steed. Nếu bạn đã có một chiến mã từ spell này, chiến mã đó được thay thế bằng chiến mã mới.
+Bạn biến nguyên liệu thô thành sản phẩm cùng chất liệu. Ví dụ, bạn có thể làm một cây cầu gỗ từ một lùm cây, một sợi dây thừng từ khóm gai dầu, hoặc quần áo từ lanh hay len.
 
-Chiến mã trông giống một con vật kích thước Large có thể cưỡi theo lựa chọn của bạn, chẳng hạn một con ngựa, lạc đà, dire wolf, hoặc nai sừng tấm. Bất cứ khi nào thi triển spell, hãy chọn creature type của chiến mã — Celestial, Fey, hoặc Fiend — xác định một số trait nhất định trong stat block.
+Chọn nguyên liệu thô mà bạn nhìn thấy trong tầm. Bạn có thể chế tạo một đồ vật cỡ Lớn trở xuống (nằm gọn trong khối lập phương 3 m (10 feet) hoặc tám khối lập phương 1,5 m (5 feet) liền nhau) nếu đủ nguyên liệu. Tuy nhiên, nếu làm việc với kim loại, đá hoặc khoáng chất khác, đồ vật không được lớn hơn cỡ Trung bình (nằm gọn trong khối lập phương 1,5 m (5 feet)). Chất lượng đồ vật tùy thuộc chất lượng nguyên liệu.
 
-**Combat.** Chiến mã là đồng minh của bạn và đồng minh của bạn. Trong combat, nó chia sẻ Initiative của bạn, và nó hoạt động như một controlled mount khi bạn cưỡi nó (như định nghĩa trong luật mounted combat). Nếu bạn có condition Incapacitated, chiến mã hành động độc lập ngay sau turn của bạn, tập trung bảo vệ bạn.
+Phép không thể tạo sinh vật hay vật phẩm ma thuật. Bạn cũng không thể dùng phép để làm những món cần tay nghề cao — như vũ khí và giáp — trừ khi thành thạo loại công cụ thợ thủ công dùng để làm chúng.
 
-**Disappearance.** Chiến mã biến mất nếu nó giảm xuống 0 Hit Points hoặc nếu bạn chết. Khi biến mất, nó để lại bất cứ thứ gì nó đang mặc hoặc mang theo. Nếu bạn thi triển spell này lần nữa, bạn quyết định triệu hồi chiến mã đã biến mất hoặc một chiến mã khác.
+### Lửa yêu tinh (Faerie Fire)
 
-*Using a Higher-Level Spell Slot:* Dùng cấp độ của ô phép thuật cho cấp độ của spell trong stat block.
+*Gọi năng lượng bậc 1 (Thi sĩ, Druid)*
 
-**Otherworldly Steed**
-*Large Celestial, Fey, hoặc Fiend (tùy bạn chọn), Neutral*
-- AC 10 + 1 mỗi spell level
-- HP 5 + 10 mỗi spell level (chiến mã có một số Hit Dice [d10] bằng cấp độ của spell)
-- Speed 60 ft., Fly 60 ft. (yêu cầu spell cấp độ 4+)
-- Str 18 (+4, +4) Dex 12 (+1, +1) Con 14 (+2, +2) Int 6 (−2, −2) Wis 12 (+1, +1) Cha 8 (−1, −1)
-- Senses: Passive Perception 11
-- Languages: Telepathy 1 dặm (chỉ hoạt động với bạn)
-- CR None (XP 0; PB bằng Proficiency Bonus của bạn)
-- **Traits.** *Life Bond.* Khi bạn phục hồi Hit Points từ một spell cấp độ 1+, chiến mã phục hồi cùng số Hit Points nếu bạn trong vòng 5 feet của nó.
-- **Actions.** *Otherworldly Slam.* Melee Attack Roll: Bonus bằng spell attack modifier của bạn, reach 5 ft. Hit: 1d8 cộng cấp độ của spell damage Radiant (Celestial), Psychic (Fey), hoặc Necrotic (Fiend).
-- **Bonus Actions.** *Fell Glare (chỉ Fiend; nạp lại sau một Long Rest).* Wisdom Saving Throw: DC bằng spell save DC của bạn, một creature trong vòng 60 feet mà chiến mã có thể nhìn thấy. Failure: Mục tiêu có condition Frightened cho đến hết turn tiếp theo của bạn. *Fey Step (chỉ Fey; nạp lại sau một Long Rest).* Chiến mã dịch chuyển, cùng với người cưỡi, đến một không gian trống theo lựa chọn của bạn cách nó tối đa 60 feet. *Healing Touch (chỉ Celestial; nạp lại sau một Long Rest).* Một creature trong vòng 5 feet của chiến mã phục hồi một lượng Hit Points bằng 2d8 cộng cấp độ của spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Tìm Đường (Find the Path)
-*Cấp độ 6 Divination (Bard, Cleric, Druid)*
-- Casting Time: 1 phút
-- Range: Self
-- Components: V, S, M (một bộ công cụ bói toán — chẳng hạn thẻ bài hay rune — trị giá 100+ GP)
-- Duration: Concentration, up to 1 day
+Các đồ vật trong khối lập phương 6 m (20 feet) trong tầm được viền ánh sáng xanh lam, xanh lục hoặc tím (tùy bạn chọn). Mỗi sinh vật trong khối lập phương cũng bị viền sáng nếu cứu nguy Khéo léo thất bại. Trong suốt thời lượng, đồ vật và sinh vật bị ảnh hưởng tỏa ánh sáng yếu trong bán kính 3 m (10 feet) và không được hưởng lợi từ trạng thái Vô hình. Lần tung tấn công nhắm vào sinh vật hoặc đồ vật bị ảnh hưởng có lợi thế nếu kẻ tấn công nhìn thấy nó.
 
-Bạn cảm nhận bằng phép thuật con đường vật lý trực tiếp nhất đến một địa điểm bạn nêu tên. Bạn phải quen thuộc với địa điểm đó, và spell thất bại nếu bạn nêu tên một đích đến trên một plane tồn tại khác, một đích đến di động (chẳng hạn một pháo đài di động), hoặc một đích đến không cụ thể (chẳng hạn "hang ổ của một con rồng xanh lục").
+### Chó canh trung thành (Faithful Hound)
 
-Trong suốt thời lượng, miễn là bạn ở cùng plane tồn tại với đích đến, bạn biết nó cách bao xa và theo hướng nào. Bất cứ khi nào bạn đối mặt với lựa chọn giữa các con đường trên đường đi, bạn biết con đường nào trực tiếp nhất.
+*Triệu hồi bậc 4 (Pháp sư)*
 
-### Tìm Bẫy (Find Traps)
-*Cấp độ 2 Divination (Cleric, Druid, Ranger)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một chiếc còi bạc)
+- **Thời lượng:** 8 giờ
 
-Bạn cảm nhận bất kỳ bẫy nào trong tầm đánh nằm trong đường ngắm. Một bẫy, theo mục đích của spell này, bao gồm bất kỳ object hoặc cơ chế nào được tạo ra để gây damage hoặc nguy hiểm khác. Vì vậy, spell sẽ cảm nhận được spell Alarm hoặc Glyph of Warding hoặc một bẫy hố cơ khí, nhưng nó sẽ không tiết lộ một điểm yếu tự nhiên trên sàn nhà, một trần nhà không ổn định, hay một hố sụt ẩn.
+Bạn triệu gọi một con chó canh ma quái tại một chỗ trống bạn nhìn thấy trong tầm. Con chó tồn tại suốt thời lượng hoặc đến khi nó và bạn cách nhau hơn 90 m (300 feet).
 
-Spell này tiết lộ rằng một bẫy đang hiện diện nhưng không tiết lộ vị trí của nó. Bạn biết bản chất chung của mối nguy do một bẫy bạn cảm nhận được gây ra.
+Chỉ bạn nhìn thấy con chó; nó phi vật chất và không thể bị tổn thương. Khi một sinh vật cỡ Nhỏ trở lên đến trong phạm vi 9 m (30 feet) quanh nó mà không nói mật khẩu bạn đặt khi thi triển, con chó sủa vang. Con chó có chân thị trong phạm vi 9 m (30 feet).
 
-### Ngón Tay Tử Thần (Finger of Death)
-*Cấp độ 7 Necromancy (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Đầu mỗi lượt của bạn, con chó cố cắn một kẻ thù trong phạm vi 1,5 m (5 feet) quanh nó. Kẻ thù đó phải thành công cứu nguy Khéo léo, nếu không chịu 4d8 sát thương lực.
 
-Bạn giải phóng năng lượng tiêu cực về phía một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu thực hiện một Constitution saving throw, nhận 7d8 + 30 damage Necrotic nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Ở các lượt sau, bạn có thể dùng hành động Ma thuật để di chuyển con chó tối đa 9 m (30 feet).
 
-Một Humanoid bị giết bởi spell này trỗi dậy vào đầu turn tiếp theo của bạn dưới dạng một Zombie (xem "Monsters") tuân theo mệnh lệnh bằng lời của bạn.
+### Giả sinh mệnh (False Life)
 
-### Cầu Lửa (Fireball)
-*Cấp độ 3 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một viên phân dơi và lưu huỳnh)
-- Duration: Instantaneous
+*Tử linh bậc 1 (Thuật sĩ, Pháp sư)*
 
-Một tia sáng chói lóe từ bạn đến một điểm bạn chọn trong tầm đánh rồi bùng nổ với một tiếng gầm nhỏ thành một vụ nổ lửa. Mỗi creature trong một Sphere bán kính 20-foot có tâm tại điểm đó thực hiện một Dexterity saving throw, nhận 8d6 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một giọt rượu)
+- **Thời lượng:** Tức thời
 
-Các object dễ cháy không đang được mặc hay mang theo trong khu vực đó bắt đầu bốc cháy.
+Bạn nhận 2d4 + 4 điểm sinh lực tạm thời.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+*Dùng ô phép bậc cao hơn.* Bạn nhận thêm 5 điểm sinh lực tạm thời cho mỗi bậc ô phép trên 1.
 
-### Tia Lửa (Fire Bolt)
-*Cantrip Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+### Sợ hãi (Fear)
 
-Bạn ném một hạt lửa về phía một creature hoặc object trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d10 damage Fire. Một object dễ cháy bị spell này đánh trúng bắt đầu bốc cháy nếu nó không đang được mặc hay mang theo.
+*Ảo ảnh bậc 3 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-*Cantrip Upgrade:* Damage tăng thêm 1d10 khi bạn đạt cấp độ 5 (2d10), 11 (3d10), và 17 (4d10).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một chiếc lông trắng)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Khiên Lửa (Fire Shield)
-*Cấp độ 4 Evocation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một mẩu phốt pho hoặc một con đom đóm)
-- Duration: 10 phút
+Mỗi sinh vật trong hình nón 9 m (30 feet) phải thành công cứu nguy Minh triết, nếu không buông mọi thứ đang cầm và rơi vào trạng thái Hoảng sợ suốt thời lượng. Mỗi lượt, sinh vật Hoảng sợ dùng hành động Chạy nước rút và chạy xa bạn theo đường an toàn nhất, trừ khi không còn chỗ để đi. Nếu sinh vật kết thúc lượt ở chỗ không có đường nhìn đến bạn, nó cứu nguy Minh triết. Nếu thành công, phép kết thúc với sinh vật đó.
 
-Những ngọn lửa mỏng manh bao quanh cơ thể bạn trong suốt thời lượng, tỏa Bright Light trong bán kính 10 feet và Dim Light thêm 10 feet nữa.
+### Rơi nhẹ như lông (Feather Fall)
 
-Ngọn lửa cung cấp cho bạn một lá chắn ấm hoặc một lá chắn lạnh, tùy bạn chọn. Lá chắn ấm cho bạn Resistance với damage Cold, và lá chắn lạnh cho bạn Resistance với damage Fire.
+*Biến đổi bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Ngoài ra, bất cứ khi nào một creature trong vòng 5 feet của bạn đánh trúng bạn bằng một melee attack roll, lá chắn bùng lên ngọn lửa. Kẻ tấn công nhận 2d8 damage Fire từ lá chắn ấm hoặc 2d8 damage Cold từ lá chắn lạnh.
+- **Thời gian thi triển:** Phản ứng, dùng khi bạn hoặc một sinh vật bạn nhìn thấy trong phạm vi 18 m (60 feet) đang rơi
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, M (một chiếc lông vũ nhỏ hoặc một nhúm lông tơ)
+- **Thời lượng:** 1 phút
 
-### Bão Lửa (Fire Storm)
-*Cấp độ 7 Evocation (Cleric, Druid, Sorcerer)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S
-- Duration: Instantaneous
+Chọn tối đa năm sinh vật đang rơi trong tầm. Tốc độ rơi của chúng chậm lại còn 18 m (60 feet) mỗi vòng cho đến khi phép kết thúc. Nếu sinh vật chạm đất trước khi phép kết thúc, nó không chịu sát thương do rơi, và phép kết thúc với nó.
 
-Một cơn bão lửa xuất hiện trong tầm đánh. Khu vực của cơn bão gồm tối đa mười Cube 10-foot, bạn sắp xếp tùy ý. Mỗi Cube phải liền kề với ít nhất một Cube khác. Mỗi creature trong khu vực thực hiện một Dexterity saving throw, nhận 7d10 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+### Tìm sinh vật quen thuộc (Find Familiar)
 
-Các object dễ cháy trong khu vực không đang được mặc hay mang theo bắt đầu bốc cháy.
+*Triệu hồi bậc 1 (Pháp sư)*
 
-### Lưỡi Kiếm Lửa (Flame Blade)
-*Cấp độ 2 Evocation (Druid, Sorcerer)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V, S, M (một lá sumac)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** 1 giờ hoặc Nghi thức
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (nhang đang cháy trị giá 10+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-Bạn khơi dậy một lưỡi kiếm lửa trong bàn tay rảnh của mình. Lưỡi kiếm có kích thước và hình dạng tương tự một scimitar, và nó tồn tại trong suốt thời lượng. Nếu bạn buông lưỡi kiếm, nó biến mất, nhưng bạn có thể khơi dậy nó lần nữa như một Bonus Action.
+Bạn có được sự phục vụ của một sinh vật quen thuộc (familiar), một linh hồn mang hình dạng động vật tùy chọn: Dơi (Bat), Mèo (Cat), Ếch (Frog), Diều hâu (Hawk), Thằn lằn (Lizard), Bạch tuộc (Octopus), Cú (Owl), Chuột (Rat), Quạ (Raven), Nhện (Spider), Chồn (Weasel) hoặc một Thú khác có Mức thách thức 0.
 
-Như một Magic action, bạn có thể thực hiện một melee spell attack bằng lưỡi kiếm lửa. Nếu trúng, mục tiêu nhận damage Fire bằng 3d6 cộng spellcasting ability modifier của bạn.
+Xuất hiện tại một chỗ trống trong tầm, sinh vật quen thuộc có chỉ số của dạng đã chọn (xem [Động vật](13-Animals.md)), nhưng nó là Thiên thể, Tiên hoặc Ác quỷ (tùy bạn chọn) thay vì Thú. Nó hành động độc lập với bạn nhưng tuân lệnh bạn.
 
-Lưỡi kiếm tỏa Bright Light trong bán kính 10 feet và Dim Light thêm 10 feet nữa.
+**Chiến đấu (Combat).** Sinh vật quen thuộc là đồng minh của bạn và các đồng minh của bạn. Nó tung Sáng kiến riêng và hành động trong lượt của mình. Sinh vật quen thuộc không thể tấn công, nhưng có thể dùng các hành động khác như bình thường.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+**Giác quan (Sense).** Khi sinh vật quen thuộc ở trong phạm vi 30 m (100 feet), bạn có thể giao tiếp với nó bằng thần giao cách cảm. Ngoài ra, bằng một hành động phụ, bạn có thể nhìn qua mắt và nghe qua tai nó cho đến đầu lượt kế tiếp, hưởng mọi giác quan đặc biệt nó có.
 
-### Đòn Đánh Lửa Thiêu (Flame Strike)
-*Cấp độ 5 Evocation (Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một nhúm lưu huỳnh)
-- Duration: Instantaneous
+Cuối cùng, khi bạn thi triển phép có tầm Chạm, sinh vật quen thuộc có thể truyền cú chạm thay bạn. Nó phải ở trong phạm vi 30 m (100 feet) và dùng phản ứng để truyền cú chạm khi bạn thi triển.
 
-Một cột lửa rực rỡ thẳng đứng gầm rú từ trên cao. Mỗi creature trong một Cylinder bán kính 10-foot, cao 40-foot có tâm tại một điểm trong tầm đánh thực hiện một Dexterity saving throw, nhận 5d6 damage Fire và 5d6 damage Radiant nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+**Biến mất (Disappearance).** Khi HP về 0, sinh vật quen thuộc biến mất. Nó xuất hiện lại khi bạn thi triển lại phép này. Bằng hành động Ma thuật, bạn có thể tạm cất sinh vật quen thuộc vào một chiều không gian túi, hoặc giải tán nó vĩnh viễn. Bằng hành động Ma thuật khi nó đang bị tạm cất, bạn có thể gọi nó xuất hiện tại một chỗ trống trong phạm vi 9 m (30 feet). Mỗi khi HP của nó về 0 hoặc nó biến vào chiều không gian túi, nó để lại tại chỗ mọi thứ đang mặc hay mang.
 
-*Using a Higher-Level Spell Slot:* Damage Fire và damage Radiant tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+**Một sinh vật quen thuộc (One Familiar).** Mỗi lúc bạn chỉ có một sinh vật quen thuộc. Nếu thi triển phép này khi đã có, bạn khiến nó chuyển sang một dạng đủ điều kiện mới.
 
-### Cầu Lửa Bay (Flaming Sphere)
-*Cấp độ 2 Conjuration (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một cục sáp)
-- Duration: Concentration, up to 1 minute
+### Tìm chiến mã (Find Steed)
 
-Bạn tạo ra một quả cầu lửa đường kính 5-foot trong một không gian trống trên mặt đất trong tầm đánh. Nó tồn tại trong suốt thời lượng. Bất kỳ creature nào kết thúc turn trong vòng 5 feet của quả cầu thực hiện một Dexterity saving throw, nhận 2d6 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+*Triệu hồi bậc 2 (Thánh kỵ sĩ)*
 
-Như một Bonus Action, bạn có thể di chuyển quả cầu tối đa 30 feet, lăn nó dọc mặt đất. Nếu bạn di chuyển quả cầu vào không gian của một creature, creature đó thực hiện save chống lại quả cầu, và quả cầu dừng di chuyển trong turn đó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Khi di chuyển quả cầu, bạn có thể hướng nó vượt qua các rào chắn cao tới 5 feet và nhảy qua các hố rộng tới 10 feet. Các object dễ cháy không đang được mặc hay mang theo bắt đầu bốc cháy nếu bị quả cầu chạm vào, và nó tỏa Bright Light trong bán kính 20 feet và Dim Light thêm 20 feet nữa.
+Bạn triệu gọi một thực thể dị giới hiện ra dưới dạng chiến mã tại một chỗ trống tùy chọn trong tầm. Sinh vật dùng khối thông số Chiến mã dị giới. Nếu bạn đã có chiến mã từ phép này, nó được thay bằng chiến mã mới.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Chiến mã trông như một con vật cỡ Lớn cưỡi được tùy bạn chọn, như ngựa, lạc đà, sói dữ (dire wolf) hay nai sừng tấm. Mỗi lần thi triển, chọn loại sinh vật của chiến mã — Thiên thể, Tiên hoặc Ác quỷ — quyết định một số đặc điểm trong khối thông số.
 
-### Hóa Đá Thịt (Flesh to Stone)
-*Cấp độ 6 Transmutation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một lông vũ cockatrice)
-- Duration: Concentration, up to 1 minute
+**Chiến đấu (Combat).** Chiến mã là đồng minh của bạn và các đồng minh của bạn. Trong chiến đấu, nó dùng chung Sáng kiến với bạn và hoạt động như thú cưỡi được điều khiển khi bạn cưỡi nó (theo luật chiến đấu trên thú cưỡi). Nếu bạn ở trạng thái Mất năng lực hành động, chiến mã tự hành động ngay sau lượt bạn, ưu tiên bảo vệ bạn.
 
-Bạn cố biến một creature bạn có thể nhìn thấy trong tầm đánh thành đá. Mục tiêu thực hiện một Constitution saving throw. Nếu thất bại, nó có condition Restrained trong suốt thời lượng. Nếu thành công, Speed của nó bằng 0 cho đến khi bắt đầu turn tiếp theo của bạn. Construct tự động thành công trong save.
+**Biến mất (Disappearance).** Chiến mã biến mất nếu HP của nó về 0 hoặc nếu bạn chết. Khi biến mất, nó để lại mọi thứ đang mặc hay mang. Nếu thi triển lại phép, bạn quyết định gọi lại chiến mã đã biến mất hay một chiến mã khác.
 
-Một mục tiêu bị Restrained thực hiện thêm một Constitution saving throw vào cuối mỗi turn của nó. Nếu nó thành công trong save chống lại spell này ba lần, spell kết thúc. Nếu nó thất bại ba lần, nó biến thành đá và có condition Petrified trong suốt thời lượng. Các lần thành công và thất bại không cần liên tiếp; hãy theo dõi cả hai cho đến khi mục tiêu đạt được ba lần cùng loại.
+*Dùng ô phép bậc cao hơn.* Dùng bậc của ô phép làm bậc phép trong khối thông số.
 
-Nếu bạn duy trì Concentration trong suốt toàn bộ thời lượng có thể, mục tiêu bị Petrified cho đến khi condition đó được kết thúc bằng Greater Restoration hoặc phép thuật tương tự.
+**Chiến mã dị giới (Otherworldly Steed)**
 
-### Đĩa Bay (Floating Disk)
-*Cấp độ 1 Conjuration (Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (một giọt thủy ngân)
-- Duration: 1 giờ
+*Thiên thể, Tiên hoặc Ác quỷ cỡ Lớn (tùy bạn chọn), trung lập*
 
-Spell này tạo ra một mặt phẳng lực tròn, nằm ngang, đường kính 3 feet và dày 1 inch, lơ lửng 3 feet trên mặt đất trong một không gian trống theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh. Đĩa tồn tại trong suốt thời lượng và có thể chịu tối đa 500 pound. Nếu đặt thêm trọng lượng lên nó, spell kết thúc, và mọi thứ trên đĩa rơi xuống đất.
+- **AC** 10 + 1 mỗi bậc phép
+- **HP** 5 + 10 mỗi bậc phép (chiến mã có số xúc xắc sinh lực [d10] bằng bậc phép)
+- **Tốc độ** 18 m (60 ft.), Bay 18 m (60 ft.) (cần phép bậc 4+)
+- **STR** 18 (+4, cứu nguy +4) · **DEX** 12 (+1, +1) · **CON** 14 (+2, +2) · **INT** 6 (−2, −2) · **WIS** 12 (+1, +1) · **CHA** 8 (−1, −1)
+- **Giác quan:** Tri giác thụ động 11
+- **Ngôn ngữ:** thần giao cách cảm 1,6 km (1 mile) (chỉ với bạn)
+- **CR** không có (XP 0; PB bằng thưởng thành thạo của bạn)
 
-Đĩa bất động khi bạn trong vòng 20 feet của nó. Nếu bạn di chuyển xa hơn 20 feet, đĩa theo bạn để luôn trong vòng 20 feet của bạn. Nó có thể di chuyển qua địa hình gồ ghề, lên hoặc xuống cầu thang, dốc, v.v., nhưng nó không thể vượt qua một sự thay đổi độ cao 10 feet trở lên. Ví dụ, đĩa không thể di chuyển qua một hố sâu 10-foot, cũng không thể rời khỏi một hố như vậy nếu nó được tạo ra ở đáy hố.
+*Đặc điểm*
 
-Nếu bạn di chuyển xa hơn 100 feet từ đĩa (thường vì nó không thể di chuyển qua một chướng ngại vật để theo bạn), spell kết thúc.
+- *Liên kết sinh mệnh (Life Bond).* Khi bạn hồi HP từ một phép bậc 1+, chiến mã hồi cùng lượng HP nếu bạn ở trong phạm vi 1,5 m (5 feet) quanh nó.
+
+*Hành động*
+
+- *Đòn dị giới (Otherworldly Slam).* Tung tấn công cận chiến: điểm cộng bằng hệ số tấn công bằng phép của bạn, tầm với 1,5 m (5 ft.). Trúng: 1d8 + bậc phép sát thương quang (Thiên thể), tâm linh (Tiên) hoặc hoại tử (Ác quỷ).
+
+*Hành động phụ*
+
+- *Ánh nhìn hiểm ác (Fell Glare; chỉ Ác quỷ; hồi sau nghỉ dài).* Cứu nguy Minh triết: DC bằng DC cứu nguy phép của bạn, một sinh vật trong phạm vi 18 m (60 ft.) mà chiến mã nhìn thấy. Thất bại: Mục tiêu rơi vào trạng thái Hoảng sợ cho đến hết lượt kế tiếp của bạn.
+- *Bước tiên (Fey Step; chỉ Tiên; hồi sau nghỉ dài).* Chiến mã cùng người cưỡi dịch chuyển tức thời đến một chỗ trống tùy chọn cách nó tối đa 18 m (60 ft.).
+- *Cú chạm chữa lành (Healing Touch; chỉ Thiên thể; hồi sau nghỉ dài).* Một sinh vật trong phạm vi 1,5 m (5 ft.) quanh chiến mã hồi HP bằng 2d8 + bậc phép.
+
+### Tìm lối (Find the Path)
+
+*Tiên tri bậc 6 (Thi sĩ, Giáo sĩ, Druid)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một bộ dụng cụ bói toán — như thẻ bài hay đá rune — trị giá 100+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 ngày
+
+Bằng ma thuật, bạn cảm nhận con đường vật lý ngắn nhất đến một nơi bạn gọi tên. Bạn phải quen thuộc với nơi đó, và phép thất bại nếu bạn gọi tên một đích đến ở cõi tồn tại khác, một đích đến di động (như pháo đài di động), hoặc một đích đến không cụ thể (như "hang của một con rồng lục").
+
+Trong suốt thời lượng, khi còn ở cùng cõi tồn tại với đích đến, bạn biết nó cách bao xa và theo hướng nào. Mỗi khi gặp ngã rẽ trên đường, bạn biết lối nào ngắn nhất.
+
+### Tìm bẫy (Find Traps)
+
+*Tiên tri bậc 2 (Giáo sĩ, Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn cảm nhận mọi cái bẫy trong tầm nằm trong tầm nhìn. Với phép này, bẫy là mọi đồ vật hay cơ chế được tạo ra để gây sát thương hoặc nguy hiểm khác. Vì vậy, phép cảm nhận được phép *Báo động* (Alarm), *Chú văn trấn yểm* (Glyph of Warding) hay bẫy hố cơ khí, nhưng không phát hiện được chỗ sàn yếu tự nhiên, trần nhà sắp sập hay hố sụt ẩn.
+
+Phép cho biết có bẫy nhưng không cho biết vị trí. Bạn biết bản chất chung của mối nguy từ cái bẫy cảm nhận được.
+
+### Ngón tay tử vong (Finger of Death)
+
+*Tử linh bậc 7 (Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn phóng năng lượng âm vào một sinh vật bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Thể chất, chịu 7d8 + 30 sát thương hoại tử nếu thất bại hoặc một nửa nếu thành công.
+
+Hình người bị phép này giết chết sống dậy vào đầu lượt kế tiếp của bạn thành một Xác sống thây ma (Zombie, xem [Quái vật A–Z](12-Monsters-A-Z.md)) tuân theo lệnh nói của bạn.
+
+### Quả cầu lửa (Fireball)
+
+*Gọi năng lượng bậc 3 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một viên nhỏ phân dơi trộn lưu huỳnh)
+- **Thời lượng:** Tức thời
+
+Một vệt sáng lóe ra từ bạn đến một điểm tùy chọn trong tầm rồi bùng thành vụ nổ lửa với tiếng gầm trầm. Mỗi sinh vật trong hình cầu bán kính 6 m (20 feet) lấy điểm đó làm tâm cứu nguy Khéo léo, chịu 8d6 sát thương lửa nếu thất bại hoặc một nửa nếu thành công.
+
+Đồ vật dễ cháy trong vùng không có ai mặc hay mang bắt đầu bốc cháy.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 3.
+
+### Tia lửa (Fire Bolt)
+
+*Phép sơ cấp Gọi năng lượng (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn ném một đốm lửa về phía một sinh vật hoặc đồ vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d10 sát thương lửa. Đồ vật dễ cháy bị phép đánh trúng bắt đầu bốc cháy nếu không có ai mặc hay mang.
+
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d10 khi bạn đạt cấp 5 (2d10), 11 (3d10) và 17 (4d10).
+
+### Khiên lửa (Fire Shield)
+
+*Gọi năng lượng bậc 4 (Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một mẩu phốt pho hoặc một con đom đóm)
+- **Thời lượng:** 10 phút
+
+Những ngọn lửa mảnh bao quanh cơ thể bạn suốt thời lượng, tỏa ánh sáng rõ trong bán kính 3 m (10 feet) và ánh sáng yếu thêm 3 m (10 feet).
+
+Ngọn lửa cho bạn khiên ấm hoặc khiên lạnh, tùy bạn chọn. Khiên ấm cho bạn kháng sát thương lạnh, khiên lạnh cho bạn kháng sát thương lửa.
+
+Ngoài ra, mỗi khi một sinh vật trong phạm vi 1,5 m (5 feet) đánh trúng bạn bằng lần tung tấn công cận chiến, khiên bùng lửa. Kẻ tấn công chịu 2d8 sát thương lửa từ khiên ấm hoặc 2d8 sát thương lạnh từ khiên lạnh.
+
+### Bão lửa (Fire Storm)
+
+*Gọi năng lượng bậc 7 (Giáo sĩ, Druid, Thuật sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Một cơn bão lửa xuất hiện trong tầm. Vùng bão gồm tối đa mười khối lập phương 3 m (10 feet), bạn sắp xếp tùy ý. Mỗi khối phải liền với ít nhất một khối khác. Mỗi sinh vật trong vùng cứu nguy Khéo léo, chịu 7d10 sát thương lửa nếu thất bại hoặc một nửa nếu thành công.
+
+Đồ vật dễ cháy trong vùng không có ai mặc hay mang bắt đầu bốc cháy.
+
+### Lưỡi kiếm lửa (Flame Blade)
+
+*Gọi năng lượng bậc 2 (Druid, Thuật sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một lá cây sơn)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn khơi lên một lưỡi kiếm lửa trong bàn tay rảnh. Lưỡi kiếm có kích cỡ và hình dáng tương tự Đao cong (Scimitar) và tồn tại suốt thời lượng. Nếu buông ra, nó biến mất, nhưng bạn có thể khơi lại bằng hành động phụ.
+
+Bằng hành động Ma thuật, bạn có thể tung tấn công cận chiến bằng phép với lưỡi kiếm lửa. Nếu trúng, mục tiêu chịu sát thương lửa bằng 3d6 + hệ số thuộc tính thi triển phép của bạn.
+
+Lưỡi kiếm tỏa ánh sáng rõ trong bán kính 3 m (10 feet) và ánh sáng yếu thêm 3 m (10 feet).
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 2.
+
+### Lửa thần giáng (Flame Strike)
+
+*Gọi năng lượng bậc 5 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một nhúm lưu huỳnh)
+- **Thời lượng:** Tức thời
+
+Một cột lửa thẳng đứng rực rỡ gầm thét giáng xuống từ trời cao. Mỗi sinh vật trong hình trụ bán kính 3 m (10 feet), cao 12 m (40 feet) lấy một điểm trong tầm làm tâm cứu nguy Khéo léo, chịu 5d6 sát thương lửa và 5d6 sát thương quang nếu thất bại, hoặc một nửa nếu thành công.
+
+*Dùng ô phép bậc cao hơn.* Sát thương lửa và sát thương quang mỗi loại tăng 1d6 cho mỗi bậc ô phép trên 5.
+
+### Cầu lửa rực (Flaming Sphere)
+
+*Triệu hồi bậc 2 (Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một viên sáp ong)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn tạo một quả cầu lửa đường kính 1,5 m (5 feet) tại một chỗ trống trên mặt đất trong tầm. Nó tồn tại suốt thời lượng. Mọi sinh vật kết thúc lượt trong phạm vi 1,5 m (5 feet) quanh quả cầu cứu nguy Khéo léo, chịu 2d6 sát thương lửa nếu thất bại hoặc một nửa nếu thành công.
+
+Bằng một hành động phụ, bạn có thể lăn quả cầu dọc mặt đất tối đa 9 m (30 feet). Nếu bạn lăn quả cầu vào chỗ của một sinh vật, sinh vật đó cứu nguy chống quả cầu, và quả cầu dừng lại trong lượt đó.
+
+Khi di chuyển quả cầu, bạn có thể cho nó vượt chướng ngại cao đến 1,5 m (5 feet) và nhảy qua hố rộng đến 3 m (10 feet). Đồ vật dễ cháy không có ai mặc hay mang bắt đầu bốc cháy khi bị quả cầu chạm vào, và quả cầu tỏa ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet).
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 2.
+
+### Hóa đá thịt (Flesh to Stone)
+
+*Biến đổi bậc 6 (Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một chiếc lông cockatrice)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn cố biến một sinh vật bạn nhìn thấy trong tầm thành đá. Mục tiêu cứu nguy Thể chất. Nếu thất bại, nó rơi vào trạng thái Kiềm giữ suốt thời lượng. Nếu thành công, Tốc độ của nó bằng 0 cho đến đầu lượt kế tiếp của bạn. Cấu thể tự động thành công.
+
+Mục tiêu bị Kiềm giữ cứu nguy Thể chất thêm một lần cuối mỗi lượt của nó. Nếu thành công ba lần, phép kết thúc. Nếu thất bại ba lần, nó hóa đá và rơi vào trạng thái Hóa đá suốt thời lượng. Các lần thành công và thất bại không cần liên tiếp; hãy đếm cả hai đến khi một loại đạt ba lần.
+
+Nếu bạn duy trì Tập trung trọn thời lượng tối đa, mục tiêu bị Hóa đá cho đến khi trạng thái được hóa giải bằng *Phục hồi cao cấp* (Greater Restoration) hoặc ma thuật tương tự.
+
+### Đĩa lơ lửng (Floating Disk)
+
+*Triệu hồi bậc 1 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một giọt thủy ngân)
+- **Thời lượng:** 1 giờ
+
+Phép tạo một mặt phẳng lực tròn nằm ngang, đường kính 0,9 m (3 feet), dày 2,5 cm (1 inch), lơ lửng cách mặt đất 0,9 m (3 feet) tại một chỗ trống tùy chọn bạn nhìn thấy trong tầm. Đĩa tồn tại suốt thời lượng và chở được tối đa 225 kg (500 pound). Nếu đặt thêm trọng lượng, phép kết thúc và mọi thứ trên đĩa rơi xuống đất.
+
+Đĩa đứng yên khi bạn ở trong phạm vi 6 m (20 feet) quanh nó. Nếu bạn đi xa quá 6 m (20 feet), đĩa đi theo để luôn ở trong phạm vi 6 m (20 feet) quanh bạn. Nó đi được trên địa hình gồ ghề, lên xuống cầu thang, dốc, v.v., nhưng không vượt được độ chênh cao từ 3 m (10 feet) trở lên. Ví dụ, đĩa không thể đi qua hố sâu 3 m (10 feet), cũng không thể ra khỏi hố như vậy nếu được tạo dưới đáy.
+
+Nếu bạn đi xa quá 30 m (100 feet) khỏi đĩa (thường do nó không vượt được chướng ngại để theo bạn), phép kết thúc.
 
 ### Bay (Fly)
-*Cấp độ 3 Transmutation (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một chiếc lông vũ)
-- Duration: Concentration, up to 10 minutes
 
-Bạn chạm vào một creature tự nguyện. Trong suốt thời lượng, mục tiêu nhận Fly Speed 60 feet và có thể bay lơ lửng. Khi phép thuật kết thúc, mục tiêu rơi xuống nếu vẫn đang bay trừ khi nó có thể dừng cú rơi.
+*Biến đổi bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một chiếc lông vũ)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-### Sương Mù (Fog Cloud)
-*Cấp độ 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 1 hour
+Bạn chạm vào một sinh vật tự nguyện. Trong suốt thời lượng, mục tiêu có Tốc độ bay 18 m (60 feet) và có thể lơ lửng. Khi phép kết thúc, mục tiêu rơi xuống nếu vẫn đang ở trên không, trừ khi có cách dừng cú rơi.
 
-Bạn tạo ra một Sphere bán kính 20-foot sương mù có tâm tại một điểm trong tầm đánh. Sphere bị Heavily Obscured. Nó tồn tại trong suốt thời lượng hoặc cho đến khi gió mạnh (chẳng hạn gió được tạo bởi Gust of Wind) làm nó tan đi.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 3.
 
-*Using a Higher-Level Spell Slot:* Bán kính của sương mù tăng thêm 20 feet cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+### Sương mù (Fog Cloud)
 
-### Cấm Địa (Forbiddance)
-*Cấp độ 6 Abjuration (Cleric)*
-- Casting Time: 10 phút hoặc Ritual
-- Range: Touch
-- Components: V, S, M (bụi ruby trị giá 1.000+ GP)
-- Duration: 1 ngày
+*Triệu hồi bậc 1 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-Bạn tạo ra một lá bùa chống lại việc di chuyển bằng phép thuật, bảo vệ tối đa 40.000 square feet diện tích sàn lên đến độ cao 30 feet trên sàn. Trong suốt thời lượng, các creature không thể dịch chuyển vào khu vực hoặc dùng portal, chẳng hạn những portal được tạo bởi spell Gate, để vào khu vực. Spell chống lại việc du hành liên plane trong khu vực, và do đó ngăn các creature tiếp cận khu vực bằng cách qua Astral Plane, Ethereal Plane, Feywild, Shadowfell, hoặc spell Plane Shift.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Ngoài ra, spell gây damage cho các loại creature bạn chọn khi thi triển nó. Chọn một hoặc nhiều loại sau: Aberration, Celestial, Elemental, Fey, Fiend, và Undead. Khi một creature thuộc loại đã chọn vào khu vực của spell lần đầu trong một turn hoặc kết thúc turn ở đó, creature nhận 5d10 damage Radiant hoặc Necrotic (tùy bạn chọn khi thi triển spell này).
+Bạn tạo một hình cầu sương mù bán kính 6 m (20 feet) lấy một điểm trong tầm làm tâm. Hình cầu bị che khuất nặng. Nó tồn tại suốt thời lượng hoặc đến khi gió mạnh (như gió của *Cơn gió lốc* — Gust of Wind) thổi tan.
 
-Bạn có thể chỉ định một mật khẩu khi thi triển spell. Một creature nói mật khẩu khi vào khu vực không nhận damage từ Forbiddance.
+*Dùng ô phép bậc cao hơn.* Bán kính sương mù tăng 6 m (20 feet) cho mỗi bậc ô phép trên 1.
 
-Khu vực của spell không thể chồng lấp với khu vực của một spell Forbiddance khác. Nếu bạn thi triển spell này mỗi ngày trong 30 ngày tại cùng địa điểm, spell kéo dài cho đến khi bị dispel, và các Material component bị tiêu thụ ở lần thi triển cuối cùng.
+### Cấm địa (Forbiddance)
 
-### Lồng Lực (Forcecage)
-*Cấp độ 7 Evocation (Bard, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 100 feet
-- Components: V, S, M (bụi ruby trị giá 1.500+ GP, bị phép thuật tiêu thụ)
-- Duration: Concentration, up to 1 hour
+*Phòng hộ bậc 6 (Giáo sĩ)*
 
-Một nhà tù bất động, Invisible, hình khối làm từ lực phép thuật xuất hiện quanh một khu vực bạn chọn trong tầm đánh. Nhà tù có thể là một cái lồng hoặc một hộp rắn, tùy bạn chọn.
+- **Thời gian thi triển:** 10 phút hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bụi hồng ngọc trị giá 1.000+ gp)
+- **Thời lượng:** 1 ngày
 
-Một nhà tù hình lồng có thể rộng tới 20 feet mỗi cạnh và được làm từ các thanh đường kính 1/2-inch cách nhau 1/2 inch. Một nhà tù hình hộp có thể rộng tới 10 feet mỗi cạnh, tạo ra một rào chắn rắn ngăn mọi vật chất đi qua nó và chặn bất kỳ spell nào thi triển vào hoặc ra khỏi khu vực.
+Bạn tạo một kết giới chống di chuyển bằng ma thuật, bảo vệ tối đa khoảng 3.700 m² (40.000 foot vuông) mặt sàn, lên cao đến 9 m (30 feet) tính từ sàn. Trong suốt thời lượng, sinh vật không thể dịch chuyển tức thời vào khu vực hoặc dùng cổng, như cổng do phép *Cổng cõi* (Gate) tạo ra, để vào khu vực. Phép chặn du hành liên cõi vào khu vực, nên ngăn sinh vật đến đó qua Cõi Astral, Cõi Ethereal, Feywild, Shadowfell hoặc bằng phép *Dịch chuyển liên cõi* (Plane Shift).
 
-Khi thi triển spell, bất kỳ creature nào hoàn toàn bên trong khu vực của cái lồng đều bị mắc kẹt. Các creature chỉ một phần bên trong khu vực, hoặc những creature quá lớn để vừa bên trong, bị đẩy ra xa trung tâm khu vực cho đến khi chúng hoàn toàn ở bên ngoài.
+Ngoài ra, phép gây hại cho các loại sinh vật bạn chọn khi thi triển. Chọn một hoặc nhiều loại: Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ và Xác sống. Khi sinh vật thuộc loại đã chọn lần đầu đi vào khu vực trong một lượt hoặc kết thúc lượt ở đó, nó chịu 5d10 sát thương quang hoặc hoại tử (chọn khi thi triển).
 
-Một creature bên trong lồng không thể rời khỏi nó bằng phương tiện phi phép thuật. Nếu creature cố dùng dịch chuyển hoặc du hành liên plane để rời đi, trước tiên nó phải thực hiện một Charisma saving throw. Nếu thành công, creature có thể dùng phép thuật đó để thoát khỏi lồng. Nếu thất bại, creature không thoát khỏi lồng và lãng phí spell hoặc hiệu ứng đó. Lồng cũng mở rộng vào Ethereal Plane, chặn việc du hành ethereal.
+Bạn có thể đặt mật khẩu khi thi triển. Sinh vật nói mật khẩu khi đi vào khu vực không chịu sát thương từ phép.
 
-Spell này không thể bị dispel bằng Dispel Magic.
+Khu vực của phép không thể chồng lên khu vực của một phép *Cấm địa* khác. Nếu thi triển phép này mỗi ngày trong 30 ngày tại cùng một nơi, phép kéo dài đến khi bị giải trừ, và thành phần vật chất bị tiêu hao ở lần thi triển cuối.
 
-### Tiên Tri (Foresight)
-*Cấp độ 9 Divination (Bard, Druid, Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: Touch
-- Components: V, S, M (một chiếc lông chim ruồi)
-- Duration: 8 hours
+### Lồng lực (Forcecage)
 
-Bạn chạm vào một creature tự nguyện và ban cho nó khả năng hạn chế nhìn thấy tương lai gần. Trong suốt thời lượng, mục tiêu có Advantage trên D20 Test, và các creature khác có Disadvantage trên attack roll nhắm vào nó. Spell kết thúc sớm nếu bạn thi triển nó lần nữa.
+*Gọi năng lượng bậc 7 (Thi sĩ, Warlock, Pháp sư)*
 
-### Tự Do Vận Động (Freedom of Movement)
-*Cấp độ 4 Abjuration (Bard, Cleric, Druid, Ranger)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một dây đai da)
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 30 m (100 feet)
+- **Thành phần:** V, S, M (bụi hồng ngọc trị giá 1.500+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Bạn chạm vào một creature tự nguyện. Trong suốt thời lượng, việc di chuyển của mục tiêu không bị ảnh hưởng bởi Difficult Terrain, và các spell và hiệu ứng phép thuật khác không thể vừa giảm Speed của mục tiêu vừa khiến mục tiêu có condition Paralyzed hoặc Restrained. Mục tiêu cũng có Swim Speed bằng Speed của nó.
+Một nhà tù hình khối Vô hình, bất động, làm bằng lực ma thuật xuất hiện quanh một khu vực tùy chọn trong tầm. Nhà tù có thể là lồng hoặc hộp kín, tùy bạn chọn.
 
-Ngoài ra, mục tiêu có thể dùng 5 feet movement để tự động thoát khỏi các ràng buộc phi phép thuật, chẳng hạn các phương tiện hoặc một creature áp đặt condition Grappled lên nó.
+Nhà tù dạng lồng có thể rộng tới 6 m (20 feet) mỗi cạnh, làm từ các thanh đường kính 1,25 cm (1/2 inch) cách nhau 1,25 cm (1/2 inch). Nhà tù dạng hộp có thể rộng tới 3 m (10 feet) mỗi cạnh, tạo thành bức chắn kín ngăn mọi vật chất đi qua và chặn mọi phép thi triển vào hoặc ra khỏi khu vực.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+Khi bạn thi triển, mọi sinh vật hoàn toàn nằm trong khu vực bị giam. Sinh vật chỉ nằm một phần trong khu vực, hoặc quá lớn để vừa bên trong, bị đẩy ra xa tâm khu vực cho đến khi hoàn toàn ở ngoài.
 
-### Cầu Băng (Freezing Sphere)
-*Cấp độ 6 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 300 feet
-- Components: V, S, M (một quả cầu pha lê thu nhỏ)
-- Duration: Instantaneous
+Sinh vật trong lồng không thể ra ngoài bằng cách không ma thuật. Nếu sinh vật cố dùng dịch chuyển tức thời hoặc du hành liên cõi để thoát, trước tiên nó phải cứu nguy Sức hút. Nếu thành công, nó dùng được ma thuật đó để thoát. Nếu thất bại, nó không thoát được và phép hay hiệu ứng đó bị lãng phí. Lồng cũng mở rộng vào Cõi Ethereal, chặn du hành qua cõi đó.
 
-Một quả cầu lạnh giá phóng từ bạn đến một điểm theo lựa chọn của bạn trong tầm đánh, nơi nó nổ tung trong một Sphere bán kính 60-foot. Mỗi creature trong khu vực đó thực hiện một Constitution saving throw, nhận 10d6 damage Cold nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Phép này không thể bị giải trừ bằng *Giải trừ ma thuật* (Dispel Magic).
 
-Nếu quả cầu đánh trúng một vùng nước, nó đóng băng nước sâu 6 inch trên một khu vực vuông 30 feet. Lớp băng này tồn tại trong 1 phút. Các creature đang bơi trên mặt nước bị đóng băng bị mắc kẹt trong băng và có condition Restrained. Một creature bị mắc kẹt có thể thực hiện một action để thực hiện một Strength (Athletics) check chống lại spell save DC của bạn để thoát ra.
+### Thấy trước (Foresight)
 
-Bạn có thể không bắn quả cầu sau khi hoàn thành việc thi triển spell. Nếu làm vậy, một quả cầu cỡ viên đạn ná, lạnh khi chạm vào, xuất hiện trong tay bạn. Bất cứ lúc nào, bạn hoặc một creature bạn đưa quả cầu cho có thể ném quả cầu (tầm 40 feet) hoặc bắn nó bằng ná (tầm bình thường của ná). Nó vỡ tan khi va chạm, với cùng hiệu ứng như một lần thi triển spell bình thường. Bạn cũng có thể đặt quả cầu xuống mà không kích hoạt nó. Sau 1 phút, nếu quả cầu chưa vỡ, nó nổ tung.
+*Tiên tri bậc 9 (Thi sĩ, Druid, Warlock, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một chiếc lông chim ruồi)
+- **Thời lượng:** 8 giờ
 
-### Hình Dạng Khí (Gaseous Form)
-*Cấp độ 3 Transmutation (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một mẩu gạc)
-- Duration: Concentration, up to 1 hour
+Bạn chạm vào một sinh vật tự nguyện và ban cho nó khả năng thoáng thấy tương lai gần. Trong suốt thời lượng, mục tiêu có lợi thế ở các phép thử d20, và sinh vật khác chịu bất lợi khi tung tấn công nhắm vào nó. Phép kết thúc sớm nếu bạn thi triển lại.
 
-Một creature tự nguyện bạn chạm vào biến hình, cùng với mọi thứ nó đang mặc và mang theo, thành một đám mây sương mù trong suốt thời lượng. Spell kết thúc trên mục tiêu nếu nó giảm xuống 0 Hit Points hoặc nếu nó thực hiện Magic action để tự kết thúc spell.
+### Tự do di chuyển (Freedom of Movement)
 
-Khi ở dạng này, phương thức di chuyển duy nhất của mục tiêu là Fly Speed 10 feet, và nó có thể bay lơ lửng. Mục tiêu có thể vào và chiếm không gian của một creature khác. Mục tiêu có Resistance với damage Bludgeoning, Piercing, và Slashing; nó có Immunity với condition Prone; và nó có Advantage trên Strength, Dexterity, và Constitution saving throw. Mục tiêu có thể đi qua các khe hở hẹp, nhưng nó coi chất lỏng như bề mặt rắn.
+*Phòng hộ bậc 4 (Thi sĩ, Giáo sĩ, Druid, Kiểm lâm)*
 
-Mục tiêu không thể nói hay thao tác object, và bất kỳ object nào nó đang mang hoặc cầm không thể bị thả, sử dụng, hoặc tương tác theo cách khác. Cuối cùng, mục tiêu không thể tấn công hay thi triển spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một dải dây da)
+- **Thời lượng:** 1 giờ
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+Bạn chạm vào một sinh vật tự nguyện. Trong suốt thời lượng, việc di chuyển của mục tiêu không bị địa hình khó đi ảnh hưởng, và phép cùng hiệu ứng ma thuật khác không thể giảm Tốc độ của mục tiêu hay khiến nó rơi vào trạng thái Tê liệt hoặc Kiềm giữ. Mục tiêu cũng có Tốc độ bơi bằng Tốc độ của nó.
 
-### Cổng (Gate)
-*Cấp độ 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một viên kim cương trị giá 5.000+ GP)
-- Duration: Concentration, up to 1 minute
+Ngoài ra, mục tiêu có thể tiêu 1,5 m (5 feet) di chuyển để tự động thoát khỏi trói buộc không ma thuật, như còng tay hoặc sinh vật đang vật lộn với nó.
 
-Bạn triệu hồi một portal nối một không gian trống bạn có thể nhìn thấy trong tầm đánh với một địa điểm chính xác trên một plane tồn tại khác. Portal là một lỗ mở hình tròn, bạn có thể tạo với đường kính 5 đến 20 feet. Bạn có thể định hướng portal theo bất kỳ hướng nào bạn chọn. Portal tồn tại trong suốt thời lượng, và đích đến của portal có thể nhìn thấy qua nó.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 4.
 
-Portal có mặt trước và mặt sau trên mỗi plane nơi nó xuất hiện. Việc di chuyển qua portal chỉ có thể thực hiện bằng cách đi qua mặt trước của nó. Bất cứ thứ gì làm vậy đều được vận chuyển ngay lập tức đến plane kia, xuất hiện tại không gian trống gần portal nhất.
+### Cầu băng (Freezing Sphere)
 
-Các vị thần và những kẻ cai trị plane khác có thể ngăn các portal được tạo bởi spell này mở ra trước sự hiện diện của họ hoặc bất cứ đâu trong lãnh địa của họ.
+*Gọi năng lượng bậc 6 (Thuật sĩ, Pháp sư)*
 
-Khi thi triển spell này, bạn có thể nói tên của một creature cụ thể (một bút danh, danh xưng, hoặc biệt danh không có tác dụng). Nếu creature đó ở một plane khác với plane bạn đang ở, portal mở ra bên cạnh creature được nêu tên và vận chuyển nó đến không gian trống gần nhất ở phía bạn của portal. Bạn không nhận được quyền lực đặc biệt nào lên creature đó, và nó tự do hành động theo cách GM cho là phù hợp. Nó có thể rời đi, tấn công bạn, hoặc giúp đỡ bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (một quả cầu pha lê nhỏ)
+- **Thời lượng:** Tức thời
 
-### Lời Nguyền Sai Khiến (Geas)
-*Cấp độ 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)*
-- Casting Time: 1 phút
-- Range: 60 feet
-- Components: V
-- Duration: 30 ngày
+Một quả cầu năng lượng lạnh giá lao từ bạn đến một điểm tùy chọn trong tầm rồi vỡ ra thành hình cầu bán kính 18 m (60 feet). Mỗi sinh vật trong vùng cứu nguy Thể chất, chịu 10d6 sát thương lạnh nếu thất bại hoặc một nửa nếu thành công.
 
-Bạn đưa ra một mệnh lệnh bằng lời cho một creature bạn có thể nhìn thấy trong tầm đánh, ra lệnh cho nó thực hiện một dịch vụ nào đó hoặc kiềm chế khỏi một hành động hay chuỗi hoạt động theo quyết định của bạn. Mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Mục tiêu tự động thành công nếu nó không thể hiểu mệnh lệnh của bạn.
+Nếu quả cầu rơi trúng vùng nước, nó làm đóng băng nước sâu 15 cm (6 inch) trên khu vực vuông 9 m (30 feet). Lớp băng tồn tại 1 phút. Sinh vật đang bơi trên mặt nước bị đóng băng bị kẹt trong băng và rơi vào trạng thái Kiềm giữ. Sinh vật bị kẹt có thể dùng một hành động kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn để thoát ra.
 
-Khi đang Charmed, creature nhận 5d10 damage Psychic nếu nó hành động theo cách trực tiếp trái ngược với mệnh lệnh của bạn. Nó chỉ nhận damage này tối đa một lần mỗi ngày.
+Bạn có thể chọn không phóng quả cầu sau khi thi triển xong. Khi đó, một quả cầu cỡ viên đạn ná, lạnh buốt khi chạm vào, xuất hiện trong tay bạn. Bất cứ lúc nào, bạn hoặc sinh vật được bạn trao quả cầu có thể ném nó (tầm 12 m; 40 feet) hoặc bắn bằng ná (tầm thường của ná). Quả cầu vỡ khi va chạm, với hiệu ứng như lần thi triển bình thường. Bạn cũng có thể đặt quả cầu xuống mà không làm nó vỡ. Sau 1 phút, nếu quả cầu chưa vỡ, nó phát nổ.
 
-Bạn có thể đưa ra bất kỳ mệnh lệnh nào bạn chọn, ngoại trừ một hoạt động sẽ dẫn đến cái chết chắc chắn. Nếu bạn sử dụng lời nguyền của mình một cách tàn nhẫn, spell nên kết thúc. Một spell Remove Curse, Greater Restoration, hoặc Wish kết thúc spell này.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 6.
 
-*Using a Higher-Level Spell Slot:* Nếu dùng một ô phép thuật cấp độ 7 hoặc 8, thời lượng là 365 ngày. Nếu dùng một ô cấp độ 9, spell kéo dài cho đến khi bị kết thúc bởi một trong các spell nêu trên.
+### Hình dạng khí (Gaseous Form)
 
-### Bảo Quản Xác (Gentle Repose)
-*Cấp độ 2 Necromancy (Cleric, Paladin, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: Touch
-- Components: V, S, M (2 Copper Pieces, bị phép thuật tiêu thụ)
-- Duration: 10 ngày
+*Biến đổi bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn chạm vào một xác chết hoặc di hài khác. Trong suốt thời lượng, mục tiêu được bảo vệ khỏi sự phân hủy và không thể trở thành Undead.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một mẩu vải màn)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Spell cũng kéo dài giới hạn thời gian để hồi sinh mục tiêu từ cõi chết, vì những ngày trải qua dưới ảnh hưởng của spell này không tính vào giới hạn thời gian của các spell như Raise Dead.
+Một sinh vật tự nguyện bạn chạm vào, cùng mọi thứ nó mặc và mang, biến thành một đám sương mù suốt thời lượng. Phép kết thúc với mục tiêu nếu HP của nó về 0 hoặc nó dùng hành động Ma thuật để tự kết thúc phép.
 
-### Côn Trùng Khổng Lồ (Giant Insect)
-*Cấp độ 4 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+Ở dạng này, cách di chuyển duy nhất của mục tiêu là Tốc độ bay 3 m (10 feet), và nó có thể lơ lửng. Mục tiêu có thể đi vào và chiếm chỗ của sinh vật khác. Mục tiêu kháng sát thương đập, xuyên và chém; miễn nhiễm trạng thái Ngã sấp; và có lợi thế khi cứu nguy Sức mạnh, Khéo léo và Thể chất. Mục tiêu có thể lọt qua khe hẹp, nhưng coi chất lỏng như bề mặt rắn.
 
-Bạn triệu hồi một con rết, nhện, hoặc ong bắp cày khổng lồ (chọn khi thi triển spell). Nó xuất hiện trong một không gian trống bạn có thể nhìn thấy trong tầm đánh và dùng stat block Giant Insect. Hình dạng bạn chọn quyết định một số chi tiết trong stat block của nó. Creature biến mất khi nó giảm xuống 0 Hit Points hoặc khi spell kết thúc.
+Mục tiêu không thể nói hay cầm nắm đồ vật, và không thể thả, sử dụng hay tương tác với đồ vật đang mang hoặc cầm. Cuối cùng, mục tiêu không thể tấn công hay thi triển phép.
 
-Creature là đồng minh của bạn và đồng minh của bạn. Trong combat, creature chia sẻ Initiative của bạn, nhưng thực hiện turn ngay sau turn của bạn. Nó tuân theo mệnh lệnh bằng lời của bạn (không cần action từ bạn). Nếu bạn không đưa ra lệnh nào, nó thực hiện action Dodge và dùng movement để tránh nguy hiểm.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 3.
 
-*Using a Higher-Level Spell Slot:* Dùng cấp độ của ô phép thuật cho cấp độ của spell trong stat block.
+### Cổng cõi (Gate)
 
-**Giant Insect**
-*Large Beast, Unaligned*
-- AC 11 + cấp độ của spell
-- HP 30 + 10 cho mỗi cấp độ spell trên cấp độ 4
-- Speed 40 ft., Climb 40 ft., Fly 40 ft. (chỉ Wasp)
-- Str 17 (+3, +3) Dex 13 (+1, +1) Con 15 (+2, +2) Int 4 (−3, −3) Wis 14 (+2, +2) Cha 3 (−4, −4)
-- Senses: Darkvision 60 ft.; Passive Perception 12
-- Languages: Hiểu các ngôn ngữ bạn biết
-- CR None (XP 0; PB bằng Proficiency Bonus của bạn)
-- **Traits.** *Spider Climb.* Côn trùng có thể leo các bề mặt khó, kể cả trên trần nhà, mà không cần thực hiện ability check.
-- **Actions.** *Multiattack.* Côn trùng thực hiện một số cuộc tấn công bằng một nửa cấp độ của spell (làm tròn xuống). *Poison Jab.* Melee Attack Roll: Bonus bằng spell attack modifier của bạn, reach 10 ft. Hit: 1d6 + 3 cộng cấp độ của spell damage Piercing cộng 1d4 damage Poison. *Web Bolt (chỉ Spider).* Ranged Attack Roll: Bonus bằng spell attack modifier của bạn, range 60 ft. Hit: 1d10 + 3 cộng cấp độ của spell damage Bludgeoning, và Speed của mục tiêu giảm xuống 0 cho đến khi bắt đầu turn tiếp theo của côn trùng.
-- **Bonus Actions.** *Venomous Spew (chỉ Centipede).* Constitution Saving Throw: Spell save DC của bạn, một creature côn trùng có thể nhìn thấy trong vòng 10 feet. Failure: Mục tiêu có condition Poisoned cho đến khi bắt đầu turn tiếp theo của côn trùng.
+*Triệu hồi bậc 9 (Giáo sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-### Khéo Ăn Nói (Glibness)
-*Cấp độ 8 Enchantment (Bard, Warlock)*
-- Casting Time: Action
-- Range: Self
-- Components: V
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một viên kim cương trị giá 5.000+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Cho đến khi phép thuật kết thúc, khi thực hiện một Charisma check, bạn có thể thay số bạn tung được bằng 15. Ngoài ra, bất kể bạn nói gì, phép thuật xác định liệu bạn có đang nói thật hay không sẽ cho thấy bạn đang trung thực.
+Bạn mở một cánh cổng nối một chỗ trống bạn nhìn thấy trong tầm với một vị trí chính xác ở một cõi tồn tại khác. Cổng là một lỗ tròn, đường kính từ 1,5 đến 6 m (5 đến 20 feet) tùy bạn. Bạn có thể xoay cổng theo hướng tùy ý. Cổng tồn tại suốt thời lượng, và có thể nhìn thấy nơi đến qua cổng.
 
-### Cầu Vô Địch (Globe of Invulnerability)
-*Cấp độ 6 Abjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một hạt thủy tinh)
-- Duration: Concentration, up to 1 minute
+Cổng có mặt trước và mặt sau ở mỗi cõi nó xuất hiện. Chỉ đi qua mặt trước mới đi qua cổng được. Bất cứ thứ gì đi qua đều lập tức được đưa sang cõi bên kia, xuất hiện ở chỗ trống gần cổng nhất.
 
-Một rào chắn lấp lánh, bất động xuất hiện trong một 10-foot Emanation quanh bạn và tồn tại trong suốt thời lượng.
+Thần linh và những kẻ cai trị cõi khác có thể ngăn cổng do phép này tạo ra mở trước mặt họ hoặc ở bất cứ đâu trong lãnh địa của họ.
 
-Bất kỳ spell cấp độ 5 trở xuống nào thi triển từ bên ngoài rào chắn không thể ảnh hưởng đến bất cứ thứ gì bên trong nó. Một spell như vậy có thể nhắm vào creature và object bên trong rào chắn, nhưng spell không có hiệu ứng lên chúng. Tương tự, khu vực bên trong rào chắn bị loại trừ khỏi khu vực hiệu ứng được tạo bởi các spell như vậy.
+Khi thi triển, bạn có thể nói tên thật của một sinh vật cụ thể (bí danh, tước hiệu hay biệt danh không có tác dụng). Nếu sinh vật đó ở cõi khác với bạn, cổng mở ngay cạnh nó và kéo nó đến chỗ trống gần nhất ở phía bên bạn. Bạn không có quyền năng đặc biệt nào với sinh vật đó, và nó tự do hành động theo cách GM thấy hợp lý: có thể bỏ đi, tấn công hoặc giúp bạn.
 
-*Using a Higher-Level Spell Slot:* Rào chắn chặn các spell cao hơn 1 cấp độ cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+### Lời nguyền sai khiến (Geas)
 
-### Chú Văn Trấn Yểm (Glyph of Warding)
-*Cấp độ 3 Abjuration (Bard, Cleric, Wizard)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (bột kim cương trị giá 200+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled or triggered
+*Yểm thuật bậc 5 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Pháp sư)*
 
-Bạn khắc một chú văn (glyph) sau này sẽ giải phóng một hiệu ứng phép thuật. Bạn khắc nó trên một bề mặt (chẳng hạn một cái bàn hoặc một phần sàn nhà) hoặc bên trong một object có thể đóng lại (chẳng hạn một cuốn sách hoặc rương) để giấu chú văn. Chú văn có thể bao phủ một khu vực không lớn hơn 10 feet đường kính. Nếu bề mặt hoặc object bị di chuyển hơn 10 feet từ nơi bạn thi triển spell này, chú văn bị phá vỡ, và spell kết thúc mà không được kích hoạt.
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** 30 ngày
 
-Chú văn gần như không thể nhận thấy và cần một Wisdom (Perception) check thành công chống lại spell save DC của bạn để phát hiện.
+Bạn ra lệnh bằng lời cho một sinh vật bạn nhìn thấy trong tầm, buộc nó thực hiện một việc hoặc kiêng một hành động hay chuỗi hoạt động nào đó tùy bạn quyết định. Mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng. Mục tiêu tự động thành công nếu không hiểu được mệnh lệnh.
 
-Khi khắc chú văn, bạn đặt điều kiện kích hoạt của nó và chọn liệu nó là một rune nổ (explosive rune) hay một chú văn spell (spell glyph), như giải thích dưới đây.
+Khi bị Mê hoặc, sinh vật chịu 5d10 sát thương tâm linh nếu hành động trực tiếp đi ngược mệnh lệnh. Mỗi ngày nó chỉ chịu sát thương này tối đa một lần.
 
-**Set the Trigger.** Bạn quyết định điều gì kích hoạt chú văn khi thi triển spell. Với các chú văn khắc trên bề mặt, các điều kiện kích hoạt phổ biến bao gồm chạm vào hoặc bước lên chú văn, di chuyển một object khác đang che nó, hoặc đến gần nó trong một khoảng cách nhất định. Với các chú văn khắc bên trong một object, các điều kiện kích hoạt phổ biến bao gồm mở object đó hoặc nhìn thấy chú văn. Khi một chú văn được kích hoạt, spell này kết thúc.
+Bạn có thể ra bất kỳ mệnh lệnh nào, trừ việc chắc chắn dẫn đến cái chết. Nếu bạn dùng lời nguyền để bắt nó tự sát, phép kết thúc. Phép *Gỡ lời nguyền* (Remove Curse), *Phục hồi cao cấp* (Greater Restoration) hoặc *Ước nguyện* (Wish) chấm dứt phép này.
 
-Bạn có thể tinh chỉnh điều kiện kích hoạt để chỉ các creature thuộc loại nhất định mới kích hoạt nó (ví dụ, chú văn có thể được đặt để ảnh hưởng đến Aberration). Bạn cũng có thể đặt điều kiện cho các creature không kích hoạt chú văn, chẳng hạn những creature nói một mật khẩu nhất định.
+*Dùng ô phép bậc cao hơn.* Nếu dùng ô phép bậc 7 hoặc 8, thời lượng là 365 ngày. Nếu dùng ô bậc 9, phép kéo dài đến khi bị một trong các phép kể trên chấm dứt.
 
-**Explosive Rune.** Khi được kích hoạt, chú văn bùng nổ năng lượng phép thuật trong một Sphere bán kính 20-foot có tâm tại chú văn. Mỗi creature trong khu vực thực hiện một Dexterity saving throw. Một creature nhận 5d8 damage Acid, Cold, Fire, Lightning, hoặc Thunder (tùy bạn chọn khi tạo chú văn) nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+### Bảo quản xác (Gentle Repose)
 
-**Spell Glyph.** Bạn có thể lưu trữ một spell đã chuẩn bị cấp độ 3 trở xuống vào chú văn bằng cách thi triển nó như một phần của việc tạo chú văn. Spell phải nhắm vào một creature duy nhất hoặc một khu vực. Spell được lưu trữ không có hiệu ứng ngay lập tức khi thi triển theo cách này.
+*Tử linh bậc 2 (Giáo sĩ, Thánh kỵ sĩ, Pháp sư)*
 
-Khi chú văn được kích hoạt, spell được lưu trữ có hiệu lực. Nếu spell có một mục tiêu, nó nhắm vào creature đã kích hoạt chú văn. Nếu spell ảnh hưởng đến một khu vực, khu vực đó có tâm tại creature đó. Nếu spell triệu hồi các creature Hostile hoặc tạo ra các object hay bẫy có hại, chúng xuất hiện càng gần kẻ xâm nhập càng tốt và tấn công nó. Nếu spell yêu cầu Concentration, nó kéo dài đến hết toàn bộ thời lượng của nó.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (2 đồng đồng, bị phép tiêu hao)
+- **Thời lượng:** 10 ngày
 
-*Using a Higher-Level Spell Slot:* Damage của một explosive rune tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 3. Nếu bạn tạo một spell glyph, bạn có thể lưu trữ bất kỳ spell nào có cấp độ tối đa bằng cấp độ của ô phép thuật bạn dùng cho Glyph of Warding.
+Bạn chạm vào một thi thể hoặc hài cốt. Trong suốt thời lượng, mục tiêu được bảo vệ khỏi phân hủy và không thể trở thành Xác sống.
 
-### Quả Mọng Tốt Lành (Goodberry)
-*Cấp độ 1 Conjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một nhánh tầm gửi)
-- Duration: 24 hours
+Phép cũng kéo dài thời hạn để hồi sinh mục tiêu, vì những ngày chịu ảnh hưởng của phép không tính vào thời hạn của các phép như *Gọi người chết dậy* (Raise Dead).
 
-Mười quả mọng xuất hiện trong tay bạn và được truyền phép thuật trong suốt thời lượng. Một creature có thể thực hiện một Bonus Action để ăn một quả. Ăn một quả phục hồi 1 Hit Point, và quả mọng cung cấp đủ dinh dưỡng để nuôi sống một creature trong một ngày. Các quả chưa ăn biến mất khi phép thuật kết thúc.
+### Côn trùng khổng lồ (Giant Insect)
 
-### Mỡ Trơn (Grease)
-*Cấp độ 1 Conjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mẩu da heo hoặc bơ)
-- Duration: 1 phút
+*Triệu hồi bậc 4 (Druid)*
 
-Mỡ không cháy phủ mặt đất trong một khu vực vuông 10-foot có tâm tại một điểm trong tầm đánh và biến nó thành Difficult Terrain trong suốt thời lượng.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Khi lớp mỡ xuất hiện, mỗi creature đang đứng trong khu vực của nó phải thành công trong một Dexterity saving throw hoặc có condition Prone. Một creature vào khu vực hoặc kết thúc turn ở đó cũng phải thành công trong save đó hoặc ngã Prone.
+Bạn triệu gọi một con rết, nhện hoặc ong bắp cày khổng lồ (chọn khi thi triển). Nó xuất hiện tại một chỗ trống bạn nhìn thấy trong tầm và dùng khối thông số Côn trùng khổng lồ. Dạng bạn chọn quyết định một số chi tiết trong khối thông số. Sinh vật biến mất khi HP về 0 hoặc khi phép kết thúc.
 
-### Vô Hình Cấp Cao (Greater Invisibility)
-*Cấp độ 4 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Sinh vật là đồng minh của bạn và các đồng minh của bạn. Trong chiến đấu, nó dùng chung Sáng kiến với bạn nhưng đi lượt ngay sau bạn. Nó tuân lệnh nói của bạn (bạn không cần dùng hành động). Nếu bạn không ra lệnh, nó dùng hành động Né tránh và di chuyển để tránh nguy hiểm.
 
-Một creature bạn chạm vào có condition Invisible cho đến khi phép thuật kết thúc.
+*Dùng ô phép bậc cao hơn.* Dùng bậc của ô phép làm bậc phép trong khối thông số.
 
-### Phục Hồi Cấp Cao (Greater Restoration)
-*Cấp độ 5 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bột kim cương trị giá 100+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+**Côn trùng khổng lồ (Giant Insect)**
 
-Bạn chạm vào một creature và bằng phép thuật loại bỏ một trong các hiệu ứng sau khỏi nó:
+*Thú cỡ Lớn, không khuynh hướng*
 
-- 1 level Exhaustion
-- Condition Charmed hoặc Petrified
-- Một lời nguyền, kể cả Attunement của mục tiêu với một magic item bị nguyền
-- Bất kỳ sự suy giảm nào đối với một ability score của mục tiêu
-- Bất kỳ sự suy giảm nào đối với Hit Point maximum của mục tiêu
+- **AC** 11 + bậc phép
+- **HP** 30 + 10 cho mỗi bậc phép trên 4
+- **Tốc độ** 12 m (40 ft.), Leo 12 m (40 ft.), Bay 12 m (40 ft.) (chỉ ong bắp cày)
+- **STR** 17 (+3, cứu nguy +3) · **DEX** 13 (+1, +1) · **CON** 15 (+2, +2) · **INT** 4 (−3, −3) · **WIS** 14 (+2, +2) · **CHA** 3 (−4, −4)
+- **Giác quan:** thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** hiểu các ngôn ngữ bạn biết
+- **CR** không có (XP 0; PB bằng thưởng thành thạo của bạn)
 
-### Vệ Thần Đức Tin (Guardian of Faith)
-*Cấp độ 4 Conjuration (Cleric)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V
-- Duration: 8 hours
+*Đặc điểm*
 
-Một vệ thần ma quái kích thước Large xuất hiện và lơ lửng trong suốt thời lượng tại một không gian trống bạn có thể nhìn thấy trong tầm đánh. Vệ thần chiếm không gian đó và bất khả xâm phạm, và nó xuất hiện dưới một hình dạng phù hợp với vị thần hay đấng thần linh của bạn.
+- *Leo như nhện (Spider Climb).* Côn trùng có thể leo trên bề mặt khó leo, kể cả bò ngược trên trần, mà không cần kiểm tra thuộc tính.
 
-Bất kỳ kẻ địch nào di chuyển đến một không gian trong vòng 10 feet của vệ thần lần đầu trong một turn hoặc bắt đầu turn ở đó thực hiện một Dexterity saving throw, nhận 20 damage Radiant nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Vệ thần biến mất khi nó đã gây tổng cộng 60 damage.
+*Hành động*
 
-### Canh Gác và Trấn Yểm (Guards and Wards)
-*Cấp độ 6 Abjuration (Bard, Wizard)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (một thanh bạc trị giá 10+ GP)
-- Duration: 24 hours
+- *Đa đòn (Multiattack).* Côn trùng thực hiện số đòn tấn công bằng một nửa bậc phép (làm tròn xuống).
+- *Chích độc (Poison Jab).* Tung tấn công cận chiến: điểm cộng bằng hệ số tấn công bằng phép của bạn, tầm với 3 m (10 ft.). Trúng: 1d6 + 3 + bậc phép sát thương xuyên cộng 1d4 sát thương độc.
+- *Phun tơ (Web Bolt; chỉ nhện).* Tung tấn công tầm xa: điểm cộng bằng hệ số tấn công bằng phép của bạn, tầm 18 m (60 ft.). Trúng: 1d10 + 3 + bậc phép sát thương đập, và Tốc độ của mục tiêu về 0 cho đến đầu lượt kế tiếp của côn trùng.
 
-Bạn tạo ra một lá bùa bảo vệ tối đa 2.500 square feet diện tích sàn. Khu vực được bảo vệ có thể cao tới 20 feet, và bạn định hình nó thành một khu vực vuông 50-foot, một trăm khu vực vuông 5-foot liền kề, hoặc hai mươi lăm khu vực vuông 10-foot liền kề.
+*Hành động phụ*
 
-Khi thi triển spell này, bạn có thể chỉ định các cá nhân không bị ảnh hưởng bởi hiệu ứng của spell. Bạn cũng có thể chỉ định một mật khẩu mà khi nói to trong vòng 5 feet của khu vực được bảo vệ, khiến người nói miễn nhiễm với hiệu ứng của nó.
+- *Phun nọc (Venomous Spew; chỉ rết).* Cứu nguy Thể chất: DC cứu nguy phép của bạn, một sinh vật côn trùng nhìn thấy trong phạm vi 3 m (10 ft.). Thất bại: Mục tiêu rơi vào trạng thái Trúng độc cho đến đầu lượt kế tiếp của côn trùng.
 
-Spell tạo ra các hiệu ứng dưới đây trong khu vực được bảo vệ. Dispel Magic không có tác dụng lên bản thân Guards and Wards, nhưng mỗi hiệu ứng sau có thể bị dispel riêng lẻ. Nếu cả bốn bị dispel, Guards and Wards kết thúc. Nếu bạn thi triển spell mỗi ngày trong 365 ngày tại cùng khu vực, spell sau đó kéo dài cho đến khi tất cả hiệu ứng của nó bị dispel.
+### Khéo ăn nói (Glibness)
 
-- **Corridors.** Sương mù tràn ngập tất cả các hành lang được bảo vệ, khiến chúng Heavily Obscured. Ngoài ra, tại mỗi giao lộ hoặc lối rẽ nhánh có sự lựa chọn hướng đi, có 50 phần trăm cơ hội rằng một creature khác ngoài bạn tin rằng nó đang đi theo hướng ngược lại với hướng nó thực sự chọn.
-- **Doors.** Tất cả các cánh cửa trong khu vực được bảo vệ bị khóa bằng phép thuật, như thể được niêm phong bởi spell Arcane Lock. Ngoài ra, bạn có thể phủ tối đa mười cánh cửa bằng một ảo ảnh để chúng trông như những đoạn tường trơn.
-- **Stairs.** Mạng nhện phủ kín tất cả cầu thang trong khu vực được bảo vệ từ trên xuống dưới, như trong spell Web. Những sợi mạng này mọc lại sau 10 phút nếu bị phá hủy trong khi Guards and Wards còn hiệu lực.
-- **Other Spell Effect.** Đặt một trong các hiệu ứng phép thuật sau vào khu vực được bảo vệ:
-  - Dancing Lights trong bốn hành lang, với một chương trình đơn giản khiến ánh sáng lặp lại miễn là Guards and Wards còn kéo dài
-  - Magic Mouth tại hai địa điểm
-  - Stinking Cloud tại hai địa điểm (hơi độc quay lại sau 10 phút nếu bị phân tán trong khi Guards and Wards còn hiệu lực)
-  - Gust of Wind trong một hành lang hoặc phòng (gió thổi liên tục trong khi spell còn hiệu lực)
-  - Suggestion trong một khu vực vuông 5-foot; bất kỳ creature nào vào khu vực đó nhận gợi ý bằng tinh thần
+*Yểm thuật bậc 8 (Thi sĩ, Warlock)*
 
-### Hướng Dẫn (Guidance)
-*Cantrip Divination (Cleric, Druid)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** 1 giờ
 
-Bạn chạm vào một creature tự nguyện và chọn một skill. Cho đến khi phép thuật kết thúc, creature cộng 1d4 vào bất kỳ ability check nào dùng skill đã chọn.
+Cho đến khi phép kết thúc, khi kiểm tra Sức hút, bạn có thể thay kết quả d20 bằng 15. Ngoài ra, bất kể bạn nói gì, ma thuật dò lời nói dối luôn cho thấy bạn đang nói thật.
 
-### Tia Sáng Dẫn Đường (Guiding Bolt)
-*Cấp độ 1 Evocation (Cleric)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: 1 round
+### Cầu bất khả xâm phạm (Globe of Invulnerability)
 
-Bạn phóng một tia sáng về phía một creature trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, nó nhận 4d6 damage Radiant, và attack roll tiếp theo nhắm vào nó trước khi kết thúc turn tiếp theo của bạn có Advantage.
+*Phòng hộ bậc 6 (Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một hạt thủy tinh)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Cơn Gió Lốc (Gust of Wind)
-*Cấp độ 2 Evocation (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một hạt đậu)
-- Duration: Concentration, up to 1 minute
+Một bức chắn lung linh, bất động xuất hiện trong vùng tỏa 3 m (10 feet) quanh bạn và tồn tại suốt thời lượng.
 
-Một Line gió mạnh dài 60 feet và rộng 10 feet thổi từ bạn theo một hướng bạn chọn trong suốt thời lượng. Mỗi creature trong Line phải thành công trong một Strength saving throw hoặc bị đẩy 15 feet ra xa bạn theo hướng của Line. Một creature kết thúc turn trong Line phải thực hiện cùng save đó.
+Phép bậc 5 trở xuống thi triển từ bên ngoài bức chắn không thể ảnh hưởng đến thứ gì bên trong. Phép như vậy vẫn nhắm được sinh vật và đồ vật bên trong nhưng không có tác dụng lên chúng. Tương tự, khoảng bên trong bức chắn bị loại khỏi vùng hiệu ứng của các phép đó.
 
-Bất kỳ creature nào trong Line phải tốn 2 feet movement cho mỗi 1 foot nó di chuyển khi tiến lại gần bạn.
+*Dùng ô phép bậc cao hơn.* Bức chắn chặn thêm phép cao hơn 1 bậc cho mỗi bậc ô phép trên 6.
 
-Cơn gió làm tan khí hoặc hơi, và nó dập tắt nến và các ngọn lửa không được bảo vệ tương tự trong khu vực. Nó khiến các ngọn lửa được bảo vệ, chẳng hạn của đèn lồng, nhảy múa dữ dội và có 50 phần trăm cơ hội dập tắt chúng.
+### Chú văn trấn yểm (Glyph of Warding)
 
-Như một Bonus Action ở các turn sau, bạn có thể thay đổi hướng Line thổi từ bạn.
+*Phòng hộ bậc 3 (Thi sĩ, Giáo sĩ, Pháp sư)*
 
-### Thánh Hóa (Hallow)
-*Cấp độ 5 Abjuration (Cleric)*
-- Casting Time: 24 giờ
-- Range: Touch
-- Components: V, S, M (nhang trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột kim cương trị giá 200+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ hoặc kích hoạt
 
-Bạn chạm vào một điểm và truyền vào khu vực xung quanh nó sức mạnh thiêng liêng hoặc tà ác. Khu vực có thể có bán kính tối đa 60 feet, và spell thất bại nếu bán kính đó bao gồm một khu vực đã chịu hiệu ứng Hallow khác. Khu vực bị ảnh hưởng có các hiệu ứng sau.
+Bạn khắc một chú văn sẽ giải phóng hiệu ứng ma thuật về sau. Bạn khắc nó lên một bề mặt (như mặt bàn hay một phần sàn) hoặc bên trong một đồ vật đóng lại được (như cuốn sách hay rương) để giấu chú văn. Chú văn phủ khu vực không lớn hơn đường kính 3 m (10 feet). Nếu bề mặt hoặc đồ vật bị dời xa hơn 3 m (10 feet) khỏi nơi thi triển, chú văn bị phá vỡ và phép kết thúc mà không kích hoạt.
 
-Chọn bất kỳ loại creature nào sau đây: Aberration, Celestial, Elemental, Fey, Fiend, hoặc Undead. Các creature thuộc loại đã chọn không thể tự nguyện vào khu vực, và bất kỳ creature nào bị chiếm hữu hoặc có condition Charmed hoặc Frightened từ các creature như vậy không bị chiếm hữu, Charmed, hoặc Frightened bởi chúng khi ở trong khu vực.
+Chú văn gần như vô hình, cần thành công phép kiểm tra Minh triết (Tri giác) với DC cứu nguy phép của bạn mới phát hiện được.
 
-**Extra Effect.** Bạn gắn thêm một hiệu ứng vào khu vực từ danh sách dưới đây:
+Khi khắc chú văn, bạn đặt tác nhân kích hoạt và chọn nó là ấn nổ hay chú văn phép, như giải thích dưới đây.
 
-- **Courage.** Các creature thuộc bất kỳ loại nào bạn chọn không thể nhận condition Frightened khi ở trong khu vực.
-- **Darkness.** Bóng tối tràn ngập khu vực. Ánh sáng thường, cũng như ánh sáng phép thuật được tạo bởi spell cấp độ thấp hơn spell này, không thể chiếu sáng khu vực.
-- **Daylight.** Ánh sáng chói lóa tràn ngập khu vực. Bóng tối phép thuật được tạo bởi spell cấp độ thấp hơn spell này không thể dập tắt ánh sáng.
-- **Extradimensional Interference.** Các creature không thể vào hoặc ra khỏi khu vực bằng dịch chuyển hoặc du hành liên plane.
-- **Fear.** Các creature thuộc bất kỳ loại nào bạn chọn có condition Frightened khi ở trong khu vực.
-- **Resistance.** Các creature thuộc bất kỳ loại nào bạn chọn có Resistance với một loại damage theo lựa chọn của bạn khi ở trong khu vực.
-- **Silence.** Không âm thanh nào có thể phát ra từ bên trong khu vực, và không âm thanh nào có thể lọt vào đó.
-- **Tongues.** Các creature thuộc bất kỳ loại nào bạn chọn có thể giao tiếp với bất kỳ creature khác nào trong khu vực ngay cả khi chúng không chung ngôn ngữ.
-- **Vulnerability.** Các creature thuộc bất kỳ loại nào bạn chọn có Vulnerability với một loại damage theo lựa chọn của bạn khi ở trong khu vực.
+**Đặt tác nhân kích hoạt (Set the Trigger).** Bạn quyết định điều gì kích hoạt chú văn khi thi triển. Với chú văn trên bề mặt, tác nhân thường gặp gồm chạm hoặc bước lên chú văn, dịch chuyển đồ vật che nó, hoặc đến gần trong một khoảng cách nhất định. Với chú văn bên trong đồ vật, tác nhân thường gặp gồm mở đồ vật hoặc nhìn thấy chú văn. Khi chú văn được kích hoạt, phép kết thúc.
 
-### Địa Hình Ảo Ảnh (Hallucinatory Terrain)
-*Cấp độ 4 Illusion (Bard, Druid, Warlock, Wizard)*
-- Casting Time: 10 phút
-- Range: 300 feet
-- Components: V, S, M (một cây nấm)
-- Duration: 24 hours
+Bạn có thể tinh chỉnh để chỉ sinh vật thuộc loại nhất định mới kích hoạt (chẳng hạn chỉ Dị thể). Bạn cũng có thể đặt điều kiện để một số sinh vật không kích hoạt, như những ai nói mật khẩu.
 
-Bạn khiến địa hình tự nhiên trong một Cube 150-foot trong tầm đánh trông, nghe, và có mùi như một loại địa hình tự nhiên khác. Vì vậy, đồng trống hay con đường có thể được biến thành trông như đầm lầy, đồi, khe núi, hoặc địa hình khó khăn hay không thể vượt qua khác. Một ao có thể trông như một đồng cỏ xanh, một vách đá như một sườn dốc nhẹ, hoặc một khe rải đá như một con đường rộng và bằng phẳng. Các công trình nhân tạo, trang bị, và creature trong khu vực không bị thay đổi.
+**Ấn nổ (Explosive Rune).** Khi kích hoạt, chú văn bùng nổ năng lượng ma thuật trong hình cầu bán kính 6 m (20 feet) lấy chú văn làm tâm. Mỗi sinh vật trong vùng cứu nguy Khéo léo, chịu 5d8 sát thương axit, lạnh, lửa, sét hoặc sấm (chọn khi tạo chú văn) nếu thất bại, hoặc một nửa nếu thành công.
 
-Đặc điểm xúc giác của địa hình không thay đổi, vì vậy các creature vào khu vực có khả năng nhận ra ảo ảnh. Nếu sự khác biệt không rõ ràng qua xúc giác, một creature kiểm tra ảo ảnh có thể thực hiện action Study để thực hiện một Intelligence (Investigation) check chống lại spell save DC của bạn để không tin vào nó. Nếu một creature nhận ra địa hình là ảo ảnh, creature đó thấy một hình ảnh mờ nhạt chồng lên địa hình thực.
+**Chú văn phép (Spell Glyph).** Bạn có thể lưu một phép đã chuẩn bị bậc 3 trở xuống vào chú văn bằng cách thi triển nó khi tạo chú văn. Phép phải nhắm vào một sinh vật duy nhất hoặc một khu vực. Phép được lưu không có tác dụng ngay khi thi triển theo cách này.
 
-### Tổn Thương (Harm)
-*Cấp độ 6 Necromancy (Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Khi chú văn kích hoạt, phép được lưu có hiệu lực. Nếu phép có mục tiêu, nó nhắm vào sinh vật đã kích hoạt chú văn. Nếu phép tác động lên khu vực, khu vực lấy sinh vật đó làm tâm. Nếu phép triệu gọi sinh vật Thù địch hoặc tạo đồ vật hay bẫy gây hại, chúng xuất hiện gần kẻ xâm nhập nhất có thể và tấn công nó. Nếu phép cần Tập trung, nó kéo dài trọn thời lượng.
 
-Bạn giải phóng phép thuật độc hại lên một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu thực hiện một Constitution saving throw. Nếu thất bại, nó nhận 14d6 damage Necrotic, và Hit Point maximum của nó bị giảm một lượng bằng damage Necrotic nó đã nhận. Nếu thành công, nó chỉ nhận một nửa lượng damage đó. Spell này không thể giảm Hit Point maximum của một mục tiêu xuống dưới 1.
+*Dùng ô phép bậc cao hơn.* Sát thương của ấn nổ tăng 1d8 cho mỗi bậc ô phép trên 3. Nếu tạo chú văn phép, bạn có thể lưu bất kỳ phép nào có bậc tối đa bằng bậc ô phép dùng cho *Chú văn trấn yểm*.
 
-### Tăng Tốc (Haste)
-*Cấp độ 3 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một lát rễ cam thảo)
-- Duration: Concentration, up to 1 minute
+### Quả mọng tốt lành (Goodberry)
 
-Chọn một creature tự nguyện bạn có thể nhìn thấy trong tầm đánh. Cho đến khi phép thuật kết thúc, Speed của mục tiêu được nhân đôi, nó nhận bonus +2 vào Armor Class, nó có Advantage trên Dexterity saving throw, và nó nhận thêm một action trong mỗi turn của nó. Action đó chỉ có thể được dùng để thực hiện action Attack (chỉ một cuộc tấn công), Dash, Disengage, Hide, hoặc Utilize.
+*Triệu hồi bậc 1 (Druid, Kiểm lâm)*
 
-Khi phép thuật kết thúc, mục tiêu có condition Incapacitated và có Speed bằng 0 cho đến hết turn tiếp theo của nó, khi một làn sóng uể oải tràn qua nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một nhánh tầm gửi)
+- **Thời lượng:** 24 giờ
 
-### Chữa Lành Toàn Diện (Heal)
-*Cấp độ 6 Abjuration (Cleric, Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Mười quả mọng xuất hiện trong tay bạn, được truyền ma thuật suốt thời lượng. Một sinh vật có thể dùng hành động phụ để ăn một quả. Ăn một quả hồi 1 HP, và mỗi quả cung cấp đủ dinh dưỡng nuôi một sinh vật trong một ngày. Quả chưa ăn biến mất khi phép kết thúc.
 
-Chọn một creature bạn có thể nhìn thấy trong tầm đánh. Năng lượng tích cực tràn qua mục tiêu, phục hồi 70 Hit Points. Spell này cũng kết thúc condition Blinded, Deafened, và Poisoned trên mục tiêu.
+### Mỡ trơn (Grease)
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 10 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+*Triệu hồi bậc 1 (Thuật sĩ, Pháp sư)*
 
-### Lời Chữa Lành (Healing Word)
-*Cấp độ 1 Abjuration (Bard, Cleric, Druid)*
-- Casting Time: Bonus Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một mẩu bì lợn hoặc bơ)
+- **Thời lượng:** 1 phút
 
-Một creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh phục hồi một lượng Hit Points bằng 2d4 cộng spellcasting ability modifier của bạn.
+Mỡ trơn không cháy phủ mặt đất trong khu vực vuông 3 m (10 feet) lấy một điểm trong tầm làm tâm, biến nó thành địa hình khó đi suốt thời lượng.
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 2d4 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Khi mỡ xuất hiện, mỗi sinh vật đang đứng trong khu vực phải thành công cứu nguy Khéo léo, nếu không rơi vào trạng thái Ngã sấp. Sinh vật đi vào khu vực hoặc kết thúc lượt ở đó cũng phải thành công lần cứu nguy đó, nếu không bị Ngã sấp.
 
-### Nung Kim Loại (Heat Metal)
-*Cấp độ 2 Transmutation (Bard, Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mẩu sắt và một ngọn lửa)
-- Duration: Concentration, up to 1 minute
+### Vô hình cao cấp (Greater Invisibility)
 
-Chọn một object kim loại được chế tạo, chẳng hạn một weapon kim loại hoặc một bộ Heavy hay Medium armor bằng kim loại, mà bạn có thể nhìn thấy trong tầm đánh. Bạn khiến object đó nóng đỏ. Bất kỳ creature nào tiếp xúc vật lý với object nhận 2d8 damage Fire khi bạn thi triển spell. Cho đến khi phép thuật kết thúc, bạn có thể thực hiện một Bonus Action ở mỗi turn sau để gây damage này lần nữa nếu object trong tầm đánh.
+*Ảo ảnh bậc 4 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Nếu một creature đang cầm hoặc mặc object và nhận damage từ nó, creature đó phải thành công trong một Constitution saving throw hoặc thả object nếu có thể. Nếu không thả object, nó có Disadvantage trên attack roll và ability check cho đến khi bắt đầu turn tiếp theo của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Một sinh vật bạn chạm vào rơi vào trạng thái Vô hình đến khi phép kết thúc.
 
-### Quở Trách Địa Ngục (Hellish Rebuke)
-*Cấp độ 1 Evocation (Warlock)*
-- Casting Time: Reaction, thực hiện để phản ứng lại việc nhận damage từ một creature bạn có thể nhìn thấy trong vòng 60 feet của bạn
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+### Phục hồi cao cấp (Greater Restoration)
 
-Creature đã gây damage cho bạn tạm thời bị bao quanh bởi ngọn lửa xanh. Nó thực hiện một Dexterity saving throw, nhận 2d10 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+*Phòng hộ bậc 5 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột kim cương trị giá 100+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-### Đại Tiệc Anh Hùng (Heroes' Feast)
-*Cấp độ 6 Conjuration (Bard, Cleric, Druid)*
-- Casting Time: 10 phút
-- Range: Self
-- Components: V, S, M (một cái bát nạm ngọc trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+Bạn chạm vào một sinh vật và dùng ma thuật loại bỏ một trong các hiệu ứng sau khỏi nó:
 
-Bạn triệu hồi một bữa tiệc xuất hiện trên một bề mặt trong một Cube 10-foot trống bên cạnh bạn. Bữa tiệc mất 1 giờ để ăn hết và biến mất sau thời gian đó, và các hiệu ứng có lợi không phát huy cho đến khi hết giờ đó. Tối đa mười hai creature có thể dự tiệc.
+- 1 cấp độ Kiệt sức
+- Trạng thái Mê hoặc hoặc Hóa đá
+- Một lời nguyền, kể cả sự hòa hợp của mục tiêu với một vật phẩm ma thuật bị nguyền
+- Mọi sự suy giảm điểm thuộc tính của mục tiêu
+- Mọi sự suy giảm điểm sinh lực tối đa của mục tiêu
 
-Một creature dự tiệc nhận một số lợi ích, kéo dài 24 giờ. Creature có Resistance với damage Poison, và nó có Immunity với condition Frightened và Poisoned. Hit Point maximum của nó cũng tăng thêm 2d10, và nó nhận cùng số Hit Points đó.
+### Hộ vệ đức tin (Guardian of Faith)
 
-### Anh Hùng Khí Khái (Heroism)
-*Cấp độ 1 Enchantment (Bard, Paladin)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Triệu hồi bậc 4 (Giáo sĩ)*
 
-Một creature tự nguyện bạn chạm vào được truyền lòng dũng cảm. Cho đến khi phép thuật kết thúc, creature miễn nhiễm với condition Frightened và nhận Temporary Hit Points bằng spellcasting ability modifier của bạn vào đầu mỗi turn của nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V
+- **Thời lượng:** 8 giờ
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Một vị hộ vệ ma quái cỡ Lớn xuất hiện và lơ lửng suốt thời lượng tại một chỗ trống bạn nhìn thấy trong tầm. Hộ vệ chiếm chỗ đó, không thể bị tổn thương, và mang hình dạng phù hợp với vị thần của bạn.
 
-### Lời Nguyền Độc (Hex)
-*Cấp độ 1 Enchantment (Warlock)*
-- Casting Time: Bonus Action
-- Range: 90 feet
-- Components: V, S, M (con mắt hóa đá của một con kỳ giông)
-- Duration: Concentration, up to 1 hour
+Kẻ thù nào lần đầu trong một lượt di chuyển đến chỗ trong phạm vi 3 m (10 feet) quanh hộ vệ, hoặc bắt đầu lượt ở đó, phải cứu nguy Khéo léo, chịu 20 sát thương quang nếu thất bại hoặc một nửa nếu thành công. Hộ vệ biến mất khi đã gây tổng cộng 60 sát thương.
 
-Bạn đặt một lời nguyền lên một creature bạn có thể nhìn thấy trong tầm đánh. Cho đến khi phép thuật kết thúc, bạn gây thêm 1d6 damage Necrotic lên mục tiêu bất cứ khi nào đánh trúng nó bằng một attack roll. Ngoài ra, hãy chọn một ability khi thi triển spell. Mục tiêu có Disadvantage trên ability check dùng ability đã chọn.
+### Canh gác và trấn yểm (Guards and Wards)
 
-Nếu mục tiêu giảm xuống 0 Hit Points trước khi spell này kết thúc, bạn có thể dùng một Bonus Action ở một turn sau để nguyền một creature mới.
+*Phòng hộ bậc 6 (Thi sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Concentration của bạn có thể kéo dài hơn với một ô phép thuật cấp độ 2 (tối đa 4 giờ), 3–4 (tối đa 8 giờ), hoặc 5+ (24 giờ).
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một thanh bạc trị giá 10+ gp)
+- **Thời lượng:** 24 giờ
 
-### Cười Ngặt Nghẽo (Hideous Laughter)
-*Cấp độ 1 Enchantment (Bard, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một cái bánh tart và một chiếc lông vũ)
-- Duration: Concentration, up to 1 minute
+Bạn tạo kết giới bảo vệ tối đa khoảng 232 m² (2.500 foot vuông) mặt sàn. Khu vực được bảo vệ cao tối đa 6 m (20 feet), và bạn định hình nó thành một khu vực vuông 15 m (50 feet), một trăm khu vực vuông 1,5 m (5 feet) liền nhau, hoặc hai mươi lăm khu vực vuông 3 m (10 feet) liền nhau.
 
-Một creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh thực hiện một Wisdom saving throw. Nếu thất bại, nó có condition Prone và Incapacitated trong suốt thời lượng. Trong thời gian đó, nó cười không kiểm soát được nếu nó có khả năng cười, và nó không thể tự kết thúc condition Prone.
+Khi thi triển, bạn có thể chỉ định những cá nhân không chịu hiệu ứng của phép. Bạn cũng có thể đặt mật khẩu; ai nói to mật khẩu trong phạm vi 1,5 m (5 feet) quanh khu vực được bảo vệ sẽ miễn nhiễm hiệu ứng của nó.
 
-Vào cuối mỗi turn của nó và mỗi lần nhận damage, nó thực hiện thêm một Wisdom saving throw. Mục tiêu có Advantage trên save nếu save được kích hoạt bởi damage. Nếu save thành công, spell kết thúc.
+Phép tạo các hiệu ứng dưới đây trong khu vực được bảo vệ. *Giải trừ ma thuật* (Dispel Magic) không có tác dụng với bản thân *Canh gác và trấn yểm*, nhưng từng hiệu ứng dưới đây có thể bị giải trừ riêng. Nếu cả bốn bị giải trừ, phép kết thúc. Nếu thi triển phép mỗi ngày trong 365 ngày tại cùng khu vực, phép sau đó kéo dài đến khi mọi hiệu ứng bị giải trừ.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Hành lang (Corridors).** Sương mù tràn ngập mọi hành lang được bảo vệ, khiến chúng bị che khuất nặng. Ngoài ra, ở mỗi ngã rẽ hoặc chỗ phân nhánh có nhiều lựa chọn hướng đi, có 50% cơ hội một sinh vật khác ngoài bạn tin rằng mình đang đi theo hướng ngược với hướng thực sự đã chọn.
+- **Cửa (Doors).** Mọi cánh cửa trong khu vực được bảo vệ bị khóa bằng ma thuật, như bị niêm bằng phép *Khóa huyền thuật* (Arcane Lock). Ngoài ra, bạn có thể phủ ảo ảnh lên tối đa mười cánh cửa để chúng trông như tường trơn.
+- **Cầu thang (Stairs).** Mạng nhện phủ kín mọi cầu thang trong khu vực từ trên xuống dưới, như phép *Mạng nhện* (Web). Nếu bị phá, mạng nhện mọc lại sau 10 phút khi phép còn hiệu lực.
+- **Hiệu ứng phép khác (Other Spell Effect).** Đặt một trong các hiệu ứng ma thuật sau trong khu vực được bảo vệ:
+  - *Ánh sáng nhảy múa* (Dancing Lights) ở bốn hành lang, với một chương trình đơn giản để các đốm sáng lặp lại chừng nào phép còn duy trì
+  - *Miệng ma thuật* (Magic Mouth) ở hai nơi
+  - *Đám mây hôi thối* (Stinking Cloud) ở hai nơi (hơi độc tụ lại sau 10 phút nếu bị thổi tan khi phép còn hiệu lực)
+  - *Cơn gió lốc* (Gust of Wind) trong một hành lang hoặc căn phòng (gió thổi liên tục khi phép còn hiệu lực)
+  - *Gợi ý* (Suggestion) trong một khu vực vuông 1,5 m (5 feet); mọi sinh vật bước vào khu vực nhận lời gợi ý trong tâm trí
 
-### Giam Cầm Quái Vật (Hold Monster)
-*Cấp độ 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một thanh sắt thẳng)
-- Duration: Concentration, up to 1 minute
+### Chỉ dẫn (Guidance)
 
-Chọn một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Paralyzed trong suốt thời lượng. Vào cuối mỗi turn của nó, mục tiêu lặp lại save, kết thúc spell trên bản thân nếu thành công.
+*Phép sơ cấp Tiên tri (Giáo sĩ, Druid)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Giam Cầm Người (Hold Person)
-*Cấp độ 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một thanh sắt thẳng)
-- Duration: Concentration, up to 1 minute
+Bạn chạm vào một sinh vật tự nguyện và chọn một kỹ năng. Cho đến khi phép kết thúc, sinh vật cộng 1d4 vào mọi phép kiểm tra thuộc tính dùng kỹ năng đã chọn.
 
-Chọn một Humanoid bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Paralyzed trong suốt thời lượng. Vào cuối mỗi turn của nó, mục tiêu lặp lại save, kết thúc spell trên bản thân nếu thành công.
+### Tia dẫn đường (Guiding Bolt)
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một Humanoid cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+*Gọi năng lượng bậc 1 (Giáo sĩ)*
 
-### Hào Quang Thiêng Liêng (Holy Aura)
-*Cấp độ 8 Abjuration (Cleric)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một hộp thánh tích trị giá 1.000+ GP)
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 vòng
 
-Trong suốt thời lượng, bạn tỏa ra một hào quang trong một 30-foot Emanation. Khi ở trong hào quang, các creature theo lựa chọn của bạn có Advantage trên tất cả saving throw, và các creature khác có Disadvantage trên attack roll nhắm vào chúng. Ngoài ra, khi một Fiend hoặc Undead đánh trúng một creature bị ảnh hưởng bằng một melee attack roll, kẻ tấn công phải thành công trong một Constitution saving throw hoặc có condition Blinded cho đến hết turn tiếp theo của nó.
+Bạn phóng một tia sáng về phía một sinh vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, nó chịu 4d6 sát thương quang, và lần tung tấn công kế tiếp nhắm vào nó trước khi kết thúc lượt kế tiếp của bạn có lợi thế.
 
-### Dấu Ấn Thợ Săn (Hunter's Mark)
-*Cấp độ 1 Divination (Ranger)*
-- Casting Time: Bonus Action
-- Range: 90 feet
-- Components: V
-- Duration: Concentration, up to 1 hour
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 1.
 
-Bạn đánh dấu bằng phép thuật một creature bạn có thể nhìn thấy trong tầm đánh làm con mồi của mình. Cho đến khi phép thuật kết thúc, bạn gây thêm 1d6 damage Force lên mục tiêu bất cứ khi nào đánh trúng nó bằng một attack roll. Bạn cũng có Advantage trên bất kỳ Wisdom (Perception hoặc Survival) check nào bạn thực hiện để tìm nó.
+### Cơn gió lốc (Gust of Wind)
 
-Nếu mục tiêu giảm xuống 0 Hit Points trước khi spell này kết thúc, bạn có thể dùng một Bonus Action ở một turn sau để chuyển dấu ấn sang một creature mới bạn có thể nhìn thấy trong tầm đánh.
+*Gọi năng lượng bậc 2 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Concentration của bạn có thể kéo dài hơn với một ô phép thuật cấp độ 3–4 (tối đa 8 giờ) hoặc 5+ (tối đa 24 giờ).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một hạt đậu)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Hoa Văn Thôi Miên (Hypnotic Pattern)
-*Cấp độ 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: S, M (một nhúm giấy vụn confetti)
-- Duration: Concentration, up to 1 minute
+Một luồng gió mạnh hình đường thẳng dài 18 m (60 feet), rộng 3 m (10 feet) thổi từ bạn theo hướng tùy chọn suốt thời lượng. Mỗi sinh vật trong đường thẳng phải thành công cứu nguy Sức mạnh, nếu không bị đẩy ra xa bạn 4,5 m (15 feet) theo hướng gió. Sinh vật kết thúc lượt trong đường thẳng phải cứu nguy như vậy.
 
-Bạn tạo ra một hoa văn xoắn màu sắc trong một Cube 30-foot trong tầm đánh. Hoa văn xuất hiện trong chốc lát rồi biến mất. Mỗi creature trong khu vực có thể nhìn thấy hoa văn phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng. Khi đang Charmed, creature có condition Incapacitated và Speed bằng 0.
+Mọi sinh vật trong đường thẳng phải tốn gấp đôi lượng di chuyển khi tiến về phía bạn.
 
-Spell kết thúc đối với một creature bị ảnh hưởng nếu nó nhận bất kỳ damage nào hoặc nếu ai đó dùng một action để lay creature ra khỏi trạng thái mê man.
+Cơn gió thổi tan khí và hơi, dập tắt nến và những ngọn lửa không được che chắn tương tự trong khu vực. Nó khiến ngọn lửa có che chắn, như lửa đèn lồng, chao đảo dữ dội và có 50% cơ hội bị tắt.
 
-### Dao Băng (Ice Knife)
-*Cấp độ 1 Conjuration (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: S, M (một giọt nước hoặc một mẩu băng)
-- Duration: Instantaneous
+Bằng hành động phụ ở các lượt sau, bạn có thể đổi hướng gió thổi ra từ bạn.
 
-Bạn tạo ra một mảnh băng và ném nó vào một creature trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d10 damage Piercing. Dù trúng hay trượt, mảnh băng sau đó nổ tung. Mục tiêu và mỗi creature trong vòng 5 feet của nó phải thành công trong một Dexterity saving throw hoặc nhận 2d6 damage Cold.
+### Thánh hóa (Hallow)
 
-*Using a Higher-Level Spell Slot:* Damage Cold tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+*Phòng hộ bậc 5 (Giáo sĩ)*
 
-### Bão Băng (Ice Storm)
-*Cấp độ 4 Evocation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 300 feet
-- Components: V, S, M (một chiếc găng tay)
-- Duration: Instantaneous
+- **Thời gian thi triển:** 24 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (nhang trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
 
-Mưa đá rơi trong một Cylinder bán kính 20-foot, cao 40-foot có tâm tại một điểm trong tầm đánh. Mỗi creature trong Cylinder thực hiện một Dexterity saving throw. Một creature nhận 2d10 damage Bludgeoning và 4d6 damage Cold nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Bạn chạm vào một điểm và truyền vào vùng xung quanh sức mạnh thánh thiện hoặc báng bổ. Vùng có bán kính tối đa 18 m (60 feet), và phép thất bại nếu bán kính đó chạm vào vùng đang chịu hiệu ứng *Thánh hóa* khác. Vùng bị ảnh hưởng có các hiệu ứng sau.
 
-Đá mưa biến mặt đất trong Cylinder thành Difficult Terrain cho đến hết turn tiếp theo của bạn.
+Chọn các loại sinh vật trong số: Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống. Sinh vật thuộc loại đã chọn không thể tự nguyện đi vào vùng, và sinh vật nào đang bị chúng chiếm hữu, Mê hoặc hay Hoảng sợ thì không còn bị như vậy khi ở trong vùng.
 
-*Using a Higher-Level Spell Slot:* Damage Bludgeoning tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+**Hiệu ứng thêm (Extra Effect).** Bạn gắn thêm một hiệu ứng vào vùng từ danh sách dưới đây:
 
-### Nhận Diện (Identify)
-*Cấp độ 1 Divination (Bard, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Touch
-- Components: V, S, M (một viên ngọc trai trị giá 100+ GP)
-- Duration: Instantaneous
+- **Can đảm (Courage).** Sinh vật thuộc các loại tùy chọn không thể rơi vào trạng thái Hoảng sợ khi ở trong vùng.
+- **Bóng tối (Darkness).** Bóng tối tràn ngập vùng. Ánh sáng thường, cũng như ánh sáng ma thuật do phép có bậc thấp hơn phép này tạo ra, không chiếu sáng được vùng.
+- **Ánh sáng ban ngày (Daylight).** Ánh sáng rực rỡ tràn ngập vùng. Bóng tối ma thuật do phép có bậc thấp hơn phép này tạo ra không thể dập tắt ánh sáng.
+- **Nhiễu loạn chiều không gian (Extradimensional Interference).** Sinh vật không thể vào hay ra khỏi vùng bằng dịch chuyển tức thời hoặc du hành liên cõi.
+- **Sợ hãi (Fear).** Sinh vật thuộc các loại tùy chọn rơi vào trạng thái Hoảng sợ khi ở trong vùng.
+- **Kháng cự (Resistance).** Sinh vật thuộc các loại tùy chọn kháng một loại sát thương tùy chọn khi ở trong vùng.
+- **Im lặng (Silence).** Không âm thanh nào phát ra được từ trong vùng, và không âm thanh nào lọt vào được.
+- **Thông ngôn (Tongues).** Sinh vật thuộc các loại tùy chọn có thể giao tiếp với mọi sinh vật khác trong vùng dù không chung ngôn ngữ.
+- **Dễ tổn thương (Vulnerability).** Sinh vật thuộc các loại tùy chọn dễ tổn thương trước một loại sát thương tùy chọn khi ở trong vùng.
 
-Bạn chạm vào một object trong suốt quá trình thi triển spell. Nếu object đó là một magic item hoặc một object phép thuật khác, bạn biết các thuộc tính của nó và cách sử dụng chúng, liệu nó có yêu cầu Attunement hay không, và nó có bao nhiêu charge, nếu có. Bạn biết liệu có spell nào đang diễn ra ảnh hưởng đến item đó hay không và chúng là gì. Nếu item được tạo bởi một spell, bạn biết tên của spell đó.
+### Địa hình ảo ảnh (Hallucinatory Terrain)
 
-Nếu thay vào đó bạn chạm vào một creature trong suốt quá trình thi triển, bạn biết những spell nào đang diễn ra, nếu có, hiện đang ảnh hưởng đến nó.
+*Ảo ảnh bậc 4 (Thi sĩ, Druid, Warlock, Pháp sư)*
 
-### Chữ Viết Ảo Ảnh (Illusory Script)
-*Cấp độ 1 Illusion (Bard, Warlock, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Touch
-- Components: S, M (mực trị giá 10+ GP, bị phép thuật tiêu thụ)
-- Duration: 10 ngày
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (một cây nấm)
+- **Thời lượng:** 24 giờ
 
-Bạn viết lên giấy da, giấy, hoặc vật liệu phù hợp khác và truyền vào đó một ảo ảnh kéo dài trong suốt thời lượng. Đối với bạn và bất kỳ creature nào bạn chỉ định khi thi triển spell, chữ viết trông bình thường, có vẻ như được viết bởi tay bạn, và truyền tải bất kỳ ý nghĩa nào bạn định khi viết văn bản. Đối với tất cả những người khác, chữ viết trông như thể được viết bằng một thứ chữ viết chưa biết hoặc phép thuật không thể đọc được. Ngoài ra, ảo ảnh có thể thay đổi ý nghĩa, nét chữ, và ngôn ngữ của văn bản, dù ngôn ngữ đó phải là một ngôn ngữ bạn biết.
+Bạn khiến địa hình tự nhiên trong một khối lập phương 45 m (150 feet) trong tầm trông, nghe và có mùi như một loại địa hình tự nhiên khác. Nhờ đó, cánh đồng hay con đường có thể trông như đầm lầy, đồi, khe núi hay địa hình hiểm trở, không thể vượt qua. Một cái ao có thể trông như đồng cỏ, vách đá trông như dốc thoai thoải, khe núi lởm chởm đá trông như con đường rộng bằng phẳng. Công trình nhân tạo, trang bị và sinh vật trong vùng không đổi.
 
-Nếu spell bị dispel, cả chữ viết gốc lẫn ảo ảnh đều biến mất.
+Cảm giác xúc giác của địa hình không thay đổi, nên sinh vật đi vào vùng dễ nhận ra ảo ảnh. Nếu sự khác biệt không rõ khi chạm, sinh vật xem xét ảo ảnh có thể dùng hành động Nghiên cứu kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn để hoài nghi nó. Sinh vật nhận ra địa hình là ảo ảnh sẽ thấy một hình ảnh mờ chồng lên địa hình thật.
 
-Một creature có Truesight có thể đọc thông điệp ẩn.
+### Gây hại (Harm)
 
-### Giam Cầm Vĩnh Viễn (Imprisonment)
-*Cấp độ 9 Abjuration (Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: 30 feet
-- Components: V, S, M (một bức tượng nhỏ của mục tiêu trị giá 5.000+ GP)
-- Duration: Until dispelled
+*Tử linh bậc 6 (Giáo sĩ)*
 
-Bạn tạo ra một sự trói buộc phép thuật để giam giữ một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thực hiện một Wisdom saving throw. Nếu thành công, mục tiêu không bị ảnh hưởng, và nó miễn nhiễm với spell này trong 24 giờ tiếp theo. Nếu thất bại, mục tiêu bị giam cầm. Khi bị giam cầm, mục tiêu không cần thở, ăn, hay uống, và không già đi. Các spell Divination không thể định vị hay cảm nhận mục tiêu bị giam cầm, và mục tiêu không thể dịch chuyển.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Cho đến khi phép thuật kết thúc, mục tiêu cũng chịu một trong các hiệu ứng sau theo lựa chọn của bạn:
+Bạn phóng thứ ma thuật độc hại vào một sinh vật bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Thể chất. Nếu thất bại, nó chịu 14d6 sát thương hoại tử, và điểm sinh lực tối đa giảm một lượng bằng sát thương hoại tử đã chịu. Nếu thành công, nó chỉ chịu một nửa sát thương. Phép không thể làm điểm sinh lực tối đa của mục tiêu giảm dưới 1.
 
-- **Burial.** Mục tiêu bị chôn dưới lòng đất trong một quả cầu rỗng bằng lực phép thuật vừa đủ lớn để chứa mục tiêu. Không có gì có thể đi vào hoặc ra khỏi quả cầu.
-- **Chaining.** Các dây xích bám chắc vào mặt đất giữ mục tiêu tại chỗ. Mục tiêu có condition Restrained và không thể bị di chuyển bằng bất kỳ phương tiện nào.
-- **Hedged Prison.** Mục tiêu bị mắc kẹt trong một demiplane được bảo vệ chống dịch chuyển và du hành liên plane. Demiplane theo lựa chọn của bạn là một mê cung, một lồng, một tòa tháp, hoặc tương tự.
-- **Minimus Containment.** Mục tiêu thu nhỏ còn 1 inch và bị mắc kẹt bên trong một viên đá quý không thể phá hủy hoặc một object tương tự. Ánh sáng có thể xuyên qua viên đá quý (cho phép mục tiêu nhìn ra ngoài và các creature khác nhìn vào), nhưng không gì khác có thể xuyên qua bằng bất kỳ phương tiện nào.
-- **Slumber.** Mục tiêu có condition Unconscious và không thể bị đánh thức.
+### Gia tốc (Haste)
 
-**Ending the Spell.** Khi thi triển spell, hãy chỉ định một điều kiện kích hoạt sẽ kết thúc nó. Điều kiện kích hoạt có thể đơn giản hoặc phức tạp tùy bạn chọn, nhưng GM phải đồng ý rằng nó có khả năng cao xảy ra trong thập kỷ tới. Điều kiện kích hoạt phải là một hành động có thể quan sát được, chẳng hạn ai đó tạo ra một cống hiến cụ thể cho ngôi đền của thần bạn, cứu người yêu thật sự của bạn, hoặc đánh bại một quái vật cụ thể.
+*Biến đổi bậc 3 (Thuật sĩ, Pháp sư)*
 
-Một spell Dispel Magic chỉ có thể kết thúc spell này nếu nó được thi triển bằng một ô phép thuật cấp độ 9, nhắm vào nhà tù hoặc thành phần được dùng để tạo ra nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một lát rễ cam thảo)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Đám Mây Cháy (Incendiary Cloud)
-*Cấp độ 8 Conjuration (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Chọn một sinh vật tự nguyện bạn nhìn thấy trong tầm. Cho đến khi phép kết thúc, Tốc độ của mục tiêu nhân đôi, nó được +2 AC, có lợi thế khi cứu nguy Khéo léo, và có thêm một hành động mỗi lượt. Hành động thêm chỉ được dùng cho Tấn công (một đòn duy nhất), Chạy nước rút, Rút lui, Ẩn nấp hoặc Sử dụng.
 
-Một đám mây than hồng và khói xoáy tít lấp đầy một Sphere bán kính 20-foot có tâm tại một điểm trong tầm đánh. Khu vực của đám mây bị Heavily Obscured. Nó tồn tại trong suốt thời lượng hoặc cho đến khi gió mạnh (như gió được tạo bởi Gust of Wind) làm nó tan đi.
+Khi phép kết thúc, một cơn uể oải ập đến, khiến mục tiêu ở trạng thái Mất năng lực hành động và có Tốc độ 0 cho đến hết lượt kế tiếp của nó.
 
-Khi đám mây xuất hiện, mỗi creature trong đó thực hiện một Dexterity saving throw, nhận 10d8 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature cũng phải thực hiện save này khi Sphere di chuyển vào không gian của nó và khi nó vào Sphere hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save này một lần mỗi turn.
+### Chữa lành (Heal)
 
-Đám mây di chuyển 10 feet ra xa bạn theo hướng bạn chọn vào đầu mỗi turn của bạn.
+*Phòng hộ bậc 6 (Giáo sĩ, Druid)*
 
-### Gây Thương Tích (Inflict Wounds)
-*Cấp độ 1 Necromancy (Cleric)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Một creature bạn chạm vào thực hiện một Constitution saving throw, nhận 2d10 damage Necrotic nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Chọn một sinh vật bạn nhìn thấy trong tầm. Năng lượng tích cực tràn qua mục tiêu, hồi 70 HP. Phép cũng chấm dứt trạng thái Mù, Điếc và Trúng độc trên mục tiêu.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 10 cho mỗi bậc ô phép trên 6.
 
-### Ôn Dịch Côn Trùng (Insect Plague)
-*Cấp độ 5 Conjuration (Cleric, Druid, Sorcerer)*
-- Casting Time: Action
-- Range: 300 feet
-- Components: V, S, M (một con châu chấu)
-- Duration: Concentration, up to 10 minutes
+### Lời chữa lành (Healing Word)
 
-Đàn châu chấu bay đầy một Sphere bán kính 20-foot có tâm tại một điểm bạn chọn trong tầm đánh. Sphere tồn tại trong suốt thời lượng, và khu vực của nó bị Lightly Obscured và là Difficult Terrain.
+*Phòng hộ bậc 1 (Thi sĩ, Giáo sĩ, Druid)*
 
-Khi đàn xuất hiện, mỗi creature trong đó thực hiện một Constitution saving throw, nhận 4d10 damage Piercing nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature cũng thực hiện save này khi nó vào khu vực của spell lần đầu trong một turn hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save này một lần mỗi turn.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+Một sinh vật tùy chọn bạn nhìn thấy trong tầm hồi HP bằng 2d4 + hệ số thuộc tính thi triển phép của bạn.
 
-### Triệu Hồi Tức Thời (Instant Summons)
-*Cấp độ 6 Conjuration (Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Touch
-- Components: V, S, M (một viên sapphire trị giá 1.000+ GP)
-- Duration: Until dispelled
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 2d4 cho mỗi bậc ô phép trên 1.
 
-Bạn chạm vào viên sapphire dùng khi thi triển và một object nặng 10 pound trở xuống có kích thước dài nhất 6 feet trở xuống. Spell để lại một dấu Invisible trên object đó và khắc tên object đó lên viên sapphire một cách vô hình. Mỗi lần thi triển spell này, bạn phải dùng một viên sapphire khác.
+### Nung kim loại (Heat Metal)
 
-Sau đó, bạn có thể thực hiện Magic action để nói tên của object và nghiền nát viên sapphire. Object xuất hiện ngay lập tức trong tay bạn bất kể khoảng cách vật lý hay liên plane, và spell kết thúc.
+*Biến đổi bậc 2 (Thi sĩ, Druid)*
 
-Nếu một creature khác đang cầm hoặc mang object, việc nghiền nát viên sapphire không vận chuyển nó, mà thay vào đó bạn biết creature đó là ai và hiện đang ở đâu.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một mẩu sắt và một ngọn lửa)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Điệu Nhảy Cưỡng Chế (Irresistible Dance)
-*Cấp độ 6 Enchantment (Bard, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V
-- Duration: Concentration, up to 1 minute
+Chọn một đồ vật kim loại được chế tác, như vũ khí kim loại hoặc bộ giáp nặng hay trung bình bằng kim loại, mà bạn nhìn thấy trong tầm. Bạn làm nó nóng đỏ. Mọi sinh vật đang tiếp xúc với đồ vật chịu 2d8 sát thương lửa khi bạn thi triển. Cho đến khi phép kết thúc, bạn có thể dùng hành động phụ ở mỗi lượt sau để gây lại sát thương này nếu đồ vật còn trong tầm.
 
-Một creature bạn có thể nhìn thấy trong tầm đánh phải thực hiện một Wisdom saving throw. Nếu thành công, mục tiêu nhảy múa một cách buồn cười cho đến hết turn tiếp theo của nó, trong đó nó phải dùng hết movement để nhảy tại chỗ.
+Nếu sinh vật đang cầm hoặc mặc đồ vật chịu sát thương từ nó, sinh vật phải thành công cứu nguy Thể chất, nếu không phải buông đồ vật nếu có thể. Nếu không buông, nó chịu bất lợi khi tung tấn công và kiểm tra thuộc tính cho đến đầu lượt kế tiếp của bạn.
 
-Nếu thất bại, mục tiêu có condition Charmed trong suốt thời lượng. Khi đang Charmed, mục tiêu nhảy múa buồn cười, phải dùng hết movement để nhảy tại chỗ, và có Disadvantage trên Dexterity saving throw và attack roll, và các creature khác có Advantage trên attack roll nhắm vào nó. Vào mỗi turn của nó, mục tiêu có thể thực hiện một action để trấn tĩnh bản thân và lặp lại save, kết thúc spell trên bản thân nếu thành công.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 2.
 
-### Vô Hình (Invisibility)
-*Cấp độ 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một sợi lông mi trong keo Ả Rập)
-- Duration: Concentration, up to 1 hour
+### Quở trách địa ngục (Hellish Rebuke)
 
-Một creature bạn chạm vào có condition Invisible cho đến khi phép thuật kết thúc. Spell kết thúc sớm ngay khi mục tiêu thực hiện một attack roll, gây damage, hoặc thi triển một spell.
+*Gọi năng lượng bậc 1 (Warlock)*
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Phản ứng, dùng khi bạn chịu sát thương từ một sinh vật bạn nhìn thấy trong phạm vi 18 m (60 feet)
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-### Nhảy Vọt (Jump)
-*Cấp độ 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Bonus Action
-- Range: Touch
-- Components: V, S, M (chân sau của một con châu chấu)
-- Duration: 1 phút
+Sinh vật vừa gây sát thương cho bạn thoáng bị lửa địa ngục bao phủ. Nó cứu nguy Khéo léo, chịu 2d10 sát thương lửa nếu thất bại hoặc một nửa nếu thành công.
 
-Bạn chạm vào một creature tự nguyện. Một lần mỗi turn của nó cho đến khi spell kết thúc, creature có thể nhảy xa tới 30 feet bằng cách dùng 10 feet movement.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 1.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+### Yến tiệc anh hùng (Heroes' Feast)
 
-### Mở Khóa (Knock)
-*Cấp độ 2 Transmutation (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+*Triệu hồi bậc 6 (Thi sĩ, Giáo sĩ, Druid)*
 
-Chọn một object bạn có thể nhìn thấy trong tầm đánh. Object có thể là một cánh cửa, một cái hộp, một cái rương, một bộ cùm, một ổ khóa treo, hoặc một object khác chứa một phương tiện thông thường hoặc phép thuật ngăn cản việc tiếp cận.
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một chiếc bát nạm ngọc trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-Một mục tiêu bị giữ kín bởi một ổ khóa thông thường hoặc bị kẹt hay chốt lại sẽ được mở khóa, gỡ kẹt, hoặc mở chốt. Nếu object có nhiều ổ khóa, chỉ một trong số chúng được mở.
+Bạn triệu gọi một bữa yến tiệc hiện ra trên bề mặt trong một khối lập phương 3 m (10 feet) còn trống cạnh bạn. Bữa tiệc mất 1 giờ để ăn và biến mất sau đó, và lợi ích chỉ có hiệu lực khi giờ đó kết thúc. Tối đa mười hai sinh vật có thể dự tiệc.
 
-Nếu mục tiêu bị giữ kín bởi Arcane Lock, spell đó bị vô hiệu hóa trong 10 phút, trong thời gian đó mục tiêu có thể được mở và đóng.
+Sinh vật dự tiệc nhận các lợi ích kéo dài 24 giờ: kháng sát thương độc và miễn nhiễm trạng thái Hoảng sợ và Trúng độc. Điểm sinh lực tối đa của nó cũng tăng 2d10, và nó hồi đúng số HP đó.
 
-Khi thi triển spell, một tiếng gõ lớn, có thể nghe thấy trong vòng 300 feet, phát ra từ mục tiêu.
+### Anh hùng khí khái (Heroism)
 
-### Truyền Thuyết (Legend Lore)
-*Cấp độ 5 Divination (Bard, Cleric, Wizard)*
-- Casting Time: 10 phút
-- Range: Self
-- Components: V, S, M (nhang trị giá 250+ GP, bị phép thuật tiêu thụ, và bốn dải ngà voi trị giá 50+ GP mỗi dải)
-- Duration: Instantaneous
+*Yểm thuật bậc 1 (Thi sĩ, Thánh kỵ sĩ)*
 
-Nêu tên hoặc mô tả một người, địa điểm, hoặc object nổi tiếng. Spell mang đến tâm trí bạn một bản tóm tắt ngắn gọn về những truyền thuyết quan trọng liên quan đến thứ nổi tiếng đó, như được mô tả bởi GM.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Truyền thuyết có thể bao gồm các chi tiết quan trọng, những tiết lộ thú vị, hoặc thậm chí những kiến thức bí mật chưa từng được biết đến rộng rãi. Bạn càng biết nhiều thông tin về thứ đó, thông tin bạn nhận được càng chính xác và chi tiết. Thông tin đó chính xác nhưng có thể được diễn đạt bằng ngôn ngữ hình tượng hoặc thơ ca, tùy GM quyết định.
+Một sinh vật tự nguyện bạn chạm vào được truyền lòng dũng cảm. Cho đến khi phép kết thúc, sinh vật miễn nhiễm trạng thái Hoảng sợ và nhận số điểm sinh lực tạm thời bằng hệ số thuộc tính thi triển phép của bạn vào đầu mỗi lượt của nó.
 
-Nếu thứ nổi tiếng bạn chọn thực ra không nổi tiếng, bạn nghe thấy những nốt nhạc buồn phát ra từ một cây kèn trombone, và spell thất bại.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-### Phục Hồi Nhỏ (Lesser Restoration)
-*Cấp độ 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Bonus Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+### Nguyền độc (Hex)
 
-Bạn chạm vào một creature và kết thúc một condition trên nó: Blinded, Deafened, Paralyzed, hoặc Poisoned.
+*Yểm thuật bậc 1 (Warlock)*
 
-### Bay Lơ Lửng (Levitate)
-*Cấp độ 2 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một lò xo kim loại)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (con mắt hóa đá của một con sa giông)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Một creature hoặc object rời theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh bay lên theo phương thẳng đứng tối đa 20 feet và lơ lửng ở đó trong suốt thời lượng. Spell có thể khiến bay lơ lửng một object nặng tới 500 pound. Một creature bất đắc dĩ thành công trong một Constitution saving throw không bị ảnh hưởng.
+Bạn giáng lời nguyền lên một sinh vật bạn nhìn thấy trong tầm. Cho đến khi phép kết thúc, bạn gây thêm 1d6 sát thương hoại tử lên mục tiêu mỗi khi đánh trúng nó bằng lần tung tấn công. Ngoài ra, chọn một thuộc tính khi thi triển. Mục tiêu chịu bất lợi khi kiểm tra thuộc tính bằng thuộc tính đã chọn.
 
-Mục tiêu chỉ có thể di chuyển bằng cách đẩy hoặc kéo vào một object hay bề mặt cố định trong tầm với (chẳng hạn một bức tường hoặc trần nhà), cho phép nó di chuyển như thể đang leo trèo. Bạn có thể thay đổi độ cao của mục tiêu tối đa 20 feet theo một trong hai hướng trong turn của mình. Nếu bạn là mục tiêu, bạn có thể di chuyển lên hoặc xuống như một phần của lượt di chuyển. Nếu không, bạn có thể thực hiện Magic action để di chuyển mục tiêu, phải nằm trong tầm đánh của spell.
+Nếu HP của mục tiêu về 0 trước khi phép kết thúc, bạn có thể dùng hành động phụ ở lượt sau để nguyền một sinh vật mới.
 
-Khi phép thuật kết thúc, mục tiêu nhẹ nhàng trôi xuống đất nếu vẫn đang lơ lửng.
+*Dùng ô phép bậc cao hơn.* Tập trung của bạn có thể kéo dài hơn với ô phép bậc 2 (tối đa 4 giờ), 3–4 (tối đa 8 giờ) hoặc 5+ (24 giờ).
 
-### Ánh Sáng (Light)
-*Cantrip Evocation (Bard, Cleric, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, M (một con đom đóm hoặc rêu phát quang)
-- Duration: 1 giờ
+### Tràng cười kinh khủng (Hideous Laughter)
 
-Bạn chạm vào một object kích thước Large trở xuống không đang được mặc hoặc mang theo bởi người khác. Cho đến khi phép thuật kết thúc, object tỏa Bright Light trong bán kính 20 feet và Dim Light thêm 20 feet nữa. Ánh sáng có thể có màu tùy bạn thích.
+*Yểm thuật bậc 1 (Thi sĩ, Warlock, Pháp sư)*
 
-Che object bằng thứ gì đó không trong suốt chặn ánh sáng. Spell kết thúc nếu bạn thi triển nó lần nữa.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một chiếc bánh tart và một chiếc lông vũ)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Tia Sét (Lightning Bolt)
-*Cấp độ 3 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một mẩu lông thú và một thanh pha lê)
-- Duration: Instantaneous
+Một sinh vật tùy chọn bạn nhìn thấy trong tầm cứu nguy Minh triết. Nếu thất bại, nó rơi vào trạng thái Ngã sấp và Mất năng lực hành động suốt thời lượng. Trong thời gian đó, nó cười không kiểm soát nổi nếu biết cười, và không thể tự chấm dứt trạng thái Ngã sấp.
 
-Một tia sét tạo thành một Line dài 100-foot, rộng 5-foot phóng ra từ bạn theo một hướng bạn chọn. Mỗi creature trong Line thực hiện một Dexterity saving throw, nhận 8d6 damage Lightning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Cuối mỗi lượt của nó và mỗi khi chịu sát thương, nó cứu nguy Minh triết lần nữa, có lợi thế nếu lần cứu nguy do sát thương kích hoạt. Nếu thành công, phép kết thúc.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-### Định Vị Muông Thú hoặc Thực Vật (Locate Animals or Plants)
-*Cấp độ 2 Divination (Bard, Druid, Ranger)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S, M (lông từ một con chó săn)
-- Duration: Instantaneous
+### Giữ quái vật (Hold Monster)
 
-Mô tả hoặc nêu tên một loại Beast, creature Plant, hoặc cây phi phép thuật cụ thể. Bạn biết hướng và khoảng cách đến creature hoặc cây gần nhất thuộc loại đó trong vòng 5 dặm, nếu có.
+*Yểm thuật bậc 5 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-### Định Vị Creature (Locate Creature)
-*Cấp độ 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (lông từ một con chó săn)
-- Duration: Concentration, up to 1 hour
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (một thanh sắt thẳng)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Mô tả hoặc nêu tên một creature mà bạn quen thuộc. Bạn cảm nhận hướng đến vị trí của creature đó nếu nó trong vòng 1.000 feet của bạn. Nếu creature đang di chuyển, bạn biết hướng di chuyển của nó.
+Chọn một sinh vật bạn nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Tê liệt suốt thời lượng. Cuối mỗi lượt của mình, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-Spell có thể định vị một creature cụ thể mà bạn biết hoặc creature gần nhất thuộc một loại cụ thể (chẳng hạn một con người hoặc một kỳ lân) nếu bạn đã từng nhìn thấy một creature như vậy ở cự ly gần — trong vòng 30 feet — ít nhất một lần.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 5.
 
-Nếu creature bạn mô tả hoặc nêu tên đang ở dạng khác, chẳng hạn dưới hiệu ứng của spell Polymorph hoặc True Polymorph, spell này không thể định vị creature đó.
+### Giữ người (Hold Person)
 
-Spell này không thể định vị một creature nếu có bất kỳ độ dày chì nào chặn đường đi trực tiếp giữa bạn và creature đó.
+*Yểm thuật bậc 2 (Thi sĩ, Giáo sĩ, Druid, Thuật sĩ, Warlock, Pháp sư)*
 
-### Định Vị Vật Thể (Locate Object)
-*Cấp độ 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một cành cây chẻ đôi)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một thanh sắt thẳng)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Mô tả hoặc nêu tên một object mà bạn quen thuộc. Bạn cảm nhận hướng đến vị trí của object đó nếu nó trong vòng 1.000 feet của bạn. Nếu object đang di chuyển, bạn biết hướng di chuyển của nó.
+Chọn một Hình người bạn nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Tê liệt suốt thời lượng. Cuối mỗi lượt của mình, mục tiêu lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-Spell có thể định vị một object cụ thể mà bạn biết nếu bạn đã từng nhìn thấy nó ở cự ly gần — trong vòng 30 feet — ít nhất một lần. Ngoài ra, spell có thể định vị object gần nhất thuộc một loại cụ thể, chẳng hạn một loại trang phục, trang sức, đồ nội thất, tool, hoặc weapon nhất định.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một Hình người cho mỗi bậc ô phép trên 2.
 
-Spell này không thể định vị một object nếu có bất kỳ độ dày chì nào chặn đường đi trực tiếp giữa bạn và object đó.
+### Hào quang thánh (Holy Aura)
 
-### Sải Bước Dài (Longstrider)
-*Cấp độ 1 Transmutation (Bard, Druid, Ranger, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một nhúm đất)
-- Duration: 1 giờ
+*Phòng hộ bậc 8 (Giáo sĩ)*
 
-Bạn chạm vào một creature. Speed của mục tiêu tăng thêm 10 feet cho đến khi phép thuật kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một hộp thánh tích trị giá 1.000+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Trong suốt thời lượng, bạn tỏa ra hào quang trong vùng tỏa 9 m (30 feet). Khi ở trong hào quang, các sinh vật tùy chọn có lợi thế ở mọi lần cứu nguy, và sinh vật khác chịu bất lợi khi tung tấn công nhắm vào chúng. Ngoài ra, khi một Ác quỷ hoặc Xác sống đánh trúng sinh vật được hào quang ảnh hưởng bằng lần tung tấn công cận chiến, kẻ tấn công phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Mù cho đến hết lượt kế tiếp của nó.
 
-### Áo Giáp Pháp Sư (Mage Armor)
-*Cấp độ 1 Abjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một miếng da thuộc)
-- Duration: 8 hours
+### Dấu ấn thợ săn (Hunter's Mark)
 
-Bạn chạm vào một creature tự nguyện không đang mặc armor. Cho đến khi phép thuật kết thúc, base AC của mục tiêu trở thành 13 cộng với Dexterity modifier của nó. Spell kết thúc sớm nếu mục tiêu mặc armor.
+*Tiên tri bậc 1 (Kiểm lâm)*
 
-### Bàn Tay Pháp Sư (Mage Hand)
-*Cantrip Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: 1 phút
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Một bàn tay ma quái, lơ lửng xuất hiện tại một điểm bạn chọn trong tầm đánh. Bàn tay tồn tại trong suốt thời lượng. Bàn tay biến mất nếu nó từng cách bạn hơn 30 feet hoặc nếu bạn thi triển spell này lần nữa.
+Bạn dùng ma thuật đánh dấu một sinh vật bạn nhìn thấy trong tầm làm con mồi. Cho đến khi phép kết thúc, bạn gây thêm 1d6 sát thương lực lên mục tiêu mỗi khi đánh trúng nó bằng lần tung tấn công. Bạn cũng có lợi thế ở mọi phép kiểm tra Minh triết (Tri giác hoặc Sinh tồn) để tìm nó.
 
-Khi thi triển spell, bạn có thể dùng bàn tay để thao tác một object, mở một cánh cửa hay hộp đựng chưa khóa, cất hoặc lấy một vật từ một hộp đựng đang mở, hoặc đổ nội dung ra khỏi một lọ.
+Nếu HP của mục tiêu về 0 trước khi phép kết thúc, bạn có thể dùng hành động phụ ở lượt sau để chuyển dấu ấn sang một sinh vật mới bạn nhìn thấy trong tầm.
 
-Như một Magic action ở các turn sau, bạn có thể điều khiển bàn tay như vậy lần nữa. Như một phần của action đó, bạn có thể di chuyển bàn tay tối đa 30 feet.
+*Dùng ô phép bậc cao hơn.* Tập trung của bạn có thể kéo dài hơn với ô phép bậc 3–4 (tối đa 8 giờ) hoặc 5+ (tối đa 24 giờ).
 
-Bàn tay không thể tấn công, kích hoạt magic item, hoặc mang hơn 10 pound.
+### Hoa văn thôi miên (Hypnotic Pattern)
 
-### Vòng Tròn Phép Thuật (Magic Circle)
-*Cấp độ 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: 10 feet
-- Components: V, S, M (muối và bột bạc trị giá 100+ GP, bị phép thuật tiêu thụ)
-- Duration: 1 giờ
+*Ảo ảnh bậc 3 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn tạo ra một Cylinder bán kính 10-foot, cao 20-foot năng lượng phép thuật có tâm tại một điểm trên mặt đất mà bạn có thể nhìn thấy trong tầm đánh. Các rune phát sáng xuất hiện bất cứ nơi nào Cylinder giao với sàn nhà hoặc bề mặt khác.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** S, M (một nhúm giấy kim tuyến)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Chọn một hoặc nhiều loại creature sau: Celestial, Elemental, Fey, Fiend, hoặc Undead. Vòng tròn ảnh hưởng đến một creature thuộc loại đã chọn theo các cách sau:
+Bạn tạo một hoa văn màu sắc uốn lượn trong khối lập phương 9 m (30 feet) trong tầm. Hoa văn hiện ra trong chốc lát rồi biến mất. Mỗi sinh vật trong vùng nhìn thấy hoa văn phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng. Khi bị Mê hoặc, sinh vật ở trạng thái Mất năng lực hành động và có Tốc độ 0.
 
-- Creature không thể tự nguyện vào Cylinder bằng phương tiện phi phép thuật. Nếu creature cố dùng dịch chuyển hoặc du hành liên plane để làm vậy, trước tiên nó phải thành công trong một Charisma saving throw.
-- Creature có Disadvantage trên attack roll nhắm vào mục tiêu bên trong Cylinder.
-- Các mục tiêu bên trong Cylinder không thể bị chiếm hữu bởi hoặc nhận condition Charmed hay Frightened từ creature đó.
+Phép kết thúc với sinh vật bị ảnh hưởng nếu nó chịu bất kỳ sát thương nào hoặc nếu có người dùng hành động lay nó tỉnh khỏi cơn mê.
 
-Mỗi lần thi triển spell này, bạn có thể khiến phép thuật của nó hoạt động theo hướng ngược lại, ngăn một creature thuộc loại đã chỉ định rời khỏi Cylinder và bảo vệ các mục tiêu bên ngoài nó.
+### Dao băng (Ice Knife)
 
-*Using a Higher-Level Spell Slot:* Thời lượng tăng thêm 1 giờ cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+*Triệu hồi bậc 1 (Druid, Thuật sĩ, Pháp sư)*
 
-### Bình Chứa Linh Hồn (Magic Jar)
-*Cấp độ 6 Necromancy (Wizard)*
-- Casting Time: 1 phút
-- Range: Self
-- Components: V, S, M (một viên đá quý, tinh thể, hoặc hộp thánh tích trị giá 500+ GP)
-- Duration: Until dispelled
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** S, M (một giọt nước hoặc một mẩu băng)
+- **Thời lượng:** Tức thời
 
-Cơ thể bạn rơi vào trạng thái hôn mê khi linh hồn bạn rời khỏi nó và nhập vào vật đựng bạn dùng làm Material component của spell. Khi linh hồn bạn cư ngụ trong vật đựng, bạn nhận thức về môi trường xung quanh như thể bạn đang ở trong không gian của vật đựng. Bạn không thể di chuyển hay thực hiện Reaction. Action duy nhất bạn có thể thực hiện là phóng linh hồn ra ngoài vật đựng tối đa 100 feet, hoặc quay lại cơ thể sống của bạn (kết thúc spell) hoặc cố chiếm hữu cơ thể của một Humanoid.
+Bạn tạo một mảnh băng sắc và ném vào một sinh vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d10 sát thương xuyên. Dù trúng hay trượt, mảnh băng sau đó phát nổ. Mục tiêu và mỗi sinh vật trong phạm vi 1,5 m (5 feet) quanh nó phải thành công cứu nguy Khéo léo, nếu không chịu 2d6 sát thương lạnh.
 
-Bạn có thể cố chiếm hữu bất kỳ Humanoid nào trong vòng 100 feet của bạn mà bạn có thể nhìn thấy (các creature được bảo vệ bởi một spell Protection from Evil and Good hoặc Magic Circle không thể bị chiếm hữu). Mục tiêu thực hiện một Charisma saving throw. Nếu thất bại, linh hồn bạn nhập vào cơ thể mục tiêu, và linh hồn của mục tiêu bị mắc kẹt trong vật đựng. Nếu thành công, mục tiêu chống lại nỗ lực chiếm hữu của bạn, và bạn không thể cố chiếm hữu nó lần nữa trong 24 giờ.
+*Dùng ô phép bậc cao hơn.* Sát thương lạnh tăng 1d6 cho mỗi bậc ô phép trên 1.
 
-Một khi chiếm hữu cơ thể một creature, bạn kiểm soát nó. Hit Points, Hit Point Dice, Strength, Dexterity, Constitution, Speed, và giác quan của bạn được thay thế bằng của creature đó. Ngoài ra bạn giữ nguyên chỉ số trò chơi của mình. Trong khi đó, linh hồn của creature bị chiếm hữu có thể cảm nhận từ vật đựng bằng giác quan của chính nó, nhưng không thể di chuyển và có condition Incapacitated.
+### Bão băng (Ice Storm)
 
-Khi đang chiếm hữu một cơ thể, bạn có thể thực hiện Magic action để quay từ cơ thể vật chủ về vật đựng nếu nó trong vòng 100 feet của bạn, trả linh hồn của creature vật chủ về cơ thể nó. Nếu cơ thể vật chủ chết trong khi bạn đang ở trong đó, creature đó chết, và bạn thực hiện một Charisma saving throw chống lại spellcasting DC của chính bạn. Nếu thành công, bạn quay về vật đựng nếu nó trong vòng 100 feet của bạn. Nếu không, bạn chết.
+*Gọi năng lượng bậc 4 (Druid, Thuật sĩ, Pháp sư)*
 
-Nếu vật đựng bị phá hủy hoặc spell kết thúc, linh hồn bạn quay về cơ thể bạn. Nếu cơ thể bạn cách xa hơn 100 feet hoặc nếu cơ thể bạn đã chết, bạn chết. Nếu linh hồn của một creature khác đang ở trong vật đựng khi nó bị phá hủy, linh hồn của creature đó quay về cơ thể nó nếu cơ thể còn sống và trong vòng 100 feet. Nếu không, creature đó chết.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (một chiếc găng tay)
+- **Thời lượng:** Tức thời
 
-Khi phép thuật kết thúc, vật đựng bị phá hủy.
+Mưa đá trút xuống trong hình trụ bán kính 6 m (20 feet), cao 12 m (40 feet) lấy một điểm trong tầm làm tâm. Mỗi sinh vật trong hình trụ cứu nguy Khéo léo, chịu 2d10 sát thương đập và 4d6 sát thương lạnh nếu thất bại, hoặc một nửa nếu thành công.
 
-### Phi Tiêu Phép Thuật (Magic Missile)
-*Cấp độ 1 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+Mưa đá biến mặt đất trong hình trụ thành địa hình khó đi cho đến hết lượt kế tiếp của bạn.
 
-Bạn tạo ra ba mũi tên phát sáng bằng lực phép thuật. Mỗi mũi tên đánh trúng một creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh. Một mũi tên gây 1d4 + 1 damage Force lên mục tiêu của nó. Các mũi tên đánh trúng đồng thời, và bạn có thể hướng chúng vào một creature hoặc nhiều creature.
+*Dùng ô phép bậc cao hơn.* Sát thương đập tăng 1d10 cho mỗi bậc ô phép trên 4.
 
-*Using a Higher-Level Spell Slot:* Spell tạo thêm một mũi tên cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+### Nhận diện (Identify)
 
-### Miệng Phép Thuật (Magic Mouth)
-*Cấp độ 2 Illusion (Bard, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (bụi ngọc bích trị giá 10+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+*Tiên tri bậc 1 (Thi sĩ, Pháp sư)*
 
-Bạn cấy một thông điệp vào một object trong tầm đánh — một thông điệp được thốt ra khi một điều kiện kích hoạt được đáp ứng. Chọn một object bạn có thể nhìn thấy và không đang được mặc hay mang theo bởi một creature khác. Sau đó nói thông điệp, phải dài 25 từ trở xuống, dù nó có thể được truyền tải trong tối đa 10 phút. Cuối cùng, xác định hoàn cảnh sẽ kích hoạt spell truyền tải thông điệp của bạn.
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên ngọc trai trị giá 100+ gp)
+- **Thời lượng:** Tức thời
 
-Khi điều kiện kích hoạt đó xảy ra, một cái miệng phép thuật xuất hiện trên object và đọc lại thông điệp bằng giọng của bạn và ở cùng âm lượng bạn đã nói. Nếu object bạn chọn có một cái miệng hoặc thứ gì đó trông như miệng (ví dụ, miệng của một bức tượng), cái miệng phép thuật xuất hiện ở đó, vì vậy các từ có vẻ như phát ra từ miệng của object. Khi thi triển spell này, bạn có thể để spell kết thúc sau khi nó truyền tải thông điệp, hoặc nó có thể tồn tại và lặp lại thông điệp mỗi khi điều kiện kích hoạt xảy ra.
+Bạn chạm vào một đồ vật suốt quá trình thi triển. Nếu đó là vật phẩm ma thuật hoặc đồ vật mang ma thuật khác, bạn biết các thuộc tính và cách dùng, có cần hòa hợp hay không, và còn bao nhiêu lượt tích năng (nếu có). Bạn biết có phép nào đang ảnh hưởng lên nó không và đó là phép gì. Nếu vật phẩm được tạo bằng phép, bạn biết tên phép đó.
 
-Điều kiện kích hoạt có thể chung chung hoặc chi tiết tùy bạn thích, dù nó phải dựa trên các điều kiện thị giác hoặc thính giác xảy ra trong vòng 30 feet của object. Ví dụ, bạn có thể chỉ thị cái miệng nói khi bất kỳ creature nào di chuyển trong vòng 30 feet của object hoặc khi một chiếc chuông bạc reo trong vòng 30 feet của nó.
+Nếu thay vào đó bạn chạm vào một sinh vật suốt quá trình thi triển, bạn biết những phép nào đang ảnh hưởng lên nó (nếu có).
 
-### Weapon Phép Thuật (Magic Weapon)
-*Cấp độ 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)*
-- Casting Time: Bonus Action
-- Range: Touch
-- Components: V, S
-- Duration: 1 giờ
+### Chữ viết ảo ảnh (Illusory Script)
 
-Bạn chạm vào một weapon phi phép thuật. Cho đến khi phép thuật kết thúc, weapon đó trở thành một magic weapon với bonus +1 vào attack roll và damage roll. Spell kết thúc sớm nếu bạn thi triển nó lần nữa.
+*Ảo ảnh bậc 1 (Thi sĩ, Warlock, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Bonus tăng lên +2 với một ô phép thuật cấp độ 3–5. Bonus tăng lên +3 với một ô phép thuật cấp độ 6+.
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** S, M (mực trị giá 10+ gp, bị phép tiêu hao)
+- **Thời lượng:** 10 ngày
 
-### Dinh Thự Tráng Lệ (Magnificent Mansion)
-*Cấp độ 7 Conjuration (Bard, Wizard)*
-- Casting Time: 1 phút
-- Range: 300 feet
-- Components: V, S, M (một cánh cửa thu nhỏ trị giá 15+ GP)
-- Duration: 24 hours
+Bạn viết lên giấy da, giấy hoặc vật liệu phù hợp khác và phủ lên đó một ảo ảnh kéo dài suốt thời lượng. Với bạn và những sinh vật bạn chỉ định khi thi triển, chữ viết trông bình thường, như do bạn viết, và truyền đạt đúng ý nghĩa bạn muốn. Với mọi người khác, chữ viết trông như văn tự lạ hoặc ký tự ma thuật không thể đọc. Hoặc, ảo ảnh có thể thay đổi ý nghĩa, nét chữ và ngôn ngữ của văn bản, dù ngôn ngữ đó phải là thứ bạn biết.
 
-Bạn triệu hồi một cánh cửa lấp lánh trong tầm đánh tồn tại trong suốt thời lượng. Cánh cửa dẫn đến một nơi ở ngoại chiều và rộng 5 feet, cao 10 feet. Bạn và bất kỳ creature nào bạn chỉ định khi thi triển spell có thể vào nơi ở ngoại chiều đó miễn là cánh cửa còn mở. Bạn có thể mở hoặc đóng nó (không cần action) nếu bạn trong vòng 30 feet của nó. Khi đóng, cánh cửa không thể nhận ra được.
+Nếu phép bị giải trừ, cả chữ viết gốc lẫn ảo ảnh đều biến mất.
 
-Sau cánh cửa là một tiền sảnh tráng lệ với nhiều phòng phía sau. Bầu không khí của nơi ở này sạch sẽ, trong lành, và ấm áp.
+Sinh vật có chân thị đọc được thông điệp ẩn.
 
-Bạn có thể tạo bất kỳ sơ đồ mặt bằng nào bạn thích cho nơi ở, nhưng nó không thể vượt quá 50 Cube 10-foot liền kề. Nơi này được trang trí và bài trí tùy bạn chọn. Nó chứa đủ thức ăn để phục vụ một bữa tiệc chín món cho tối đa 100 người. Đồ nội thất và các object khác được tạo bởi spell này tan thành khói nếu bị đưa ra khỏi đó.
+### Giam cầm (Imprisonment)
 
-Một đội ngũ 100 người hầu gần như trong suốt phục vụ tất cả những ai vào. Bạn quyết định diện mạo của những người hầu này và trang phục của họ. Họ bất khả xâm phạm và tuân theo mệnh lệnh của bạn. Mỗi người hầu có thể thực hiện các nhiệm vụ mà một con người có thể làm, nhưng họ không thể tấn công hay thực hiện bất kỳ action nào trực tiếp gây hại cho một creature khác. Vì vậy những người hầu có thể lấy đồ, dọn dẹp, vá quần áo, gấp quần áo, nhóm lửa, phục vụ thức ăn, rót rượu, v.v. Những người hầu không thể rời khỏi nơi ở.
+*Phòng hộ bậc 9 (Warlock, Pháp sư)*
 
-Khi phép thuật kết thúc, bất kỳ creature hoặc object nào còn lại bên trong không gian ngoại chiều bị đẩy ra các không gian trống gần lối vào nhất.
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một bức tượng nhỏ hình mục tiêu trị giá 5.000+ gp)
+- **Thời lượng:** Đến khi bị giải trừ
 
-### Hình Ảnh Lớn (Major Image)
-*Cấp độ 3 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một mẩu lông cừu)
-- Duration: Concentration, up to 10 minutes
+Bạn tạo một sự trói buộc ma thuật để giam giữ một sinh vật bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Minh triết. Nếu thành công, mục tiêu không bị ảnh hưởng và miễn nhiễm phép này trong 24 giờ kế tiếp. Nếu thất bại, mục tiêu bị giam cầm. Khi bị giam, mục tiêu không cần thở, ăn hay uống, và không già đi. Phép Tiên tri không thể định vị hay cảm nhận mục tiêu bị giam, và mục tiêu không thể dịch chuyển tức thời.
 
-Bạn tạo ra hình ảnh của một object, một creature, hoặc một hiện tượng có thể nhìn thấy khác không lớn hơn một Cube 20-foot. Hình ảnh xuất hiện tại một điểm bạn có thể nhìn thấy trong tầm đánh và tồn tại trong suốt thời lượng. Nó trông có vẻ thật, bao gồm âm thanh, mùi, và nhiệt độ phù hợp với thứ được mô tả, nhưng nó không thể gây damage hay tạo condition.
+Cho đến khi phép kết thúc, mục tiêu cũng chịu một trong các hiệu ứng sau (tùy bạn chọn):
 
-Nếu bạn trong tầm đánh của ảo ảnh, bạn có thể thực hiện Magic action để khiến hình ảnh di chuyển đến bất kỳ điểm nào khác trong tầm đánh. Khi hình ảnh thay đổi vị trí, bạn có thể thay đổi diện mạo của nó để chuyển động trông tự nhiên với hình ảnh. Ví dụ, nếu bạn tạo hình ảnh của một creature và di chuyển nó, bạn có thể thay đổi hình ảnh để nó trông như đang đi bộ. Tương tự, bạn có thể khiến ảo ảnh tạo ra các âm thanh khác nhau vào những thời điểm khác nhau, thậm chí khiến nó trò chuyện, ví dụ vậy.
+- **Chôn vùi (Burial).** Mục tiêu bị chôn sâu dưới lòng đất trong một quả cầu rỗng bằng lực ma thuật vừa đủ chứa nó. Không gì đi vào hay ra khỏi quả cầu được.
+- **Xiềng xích (Chaining).** Xiềng xích cắm chặt xuống đất giữ mục tiêu tại chỗ. Mục tiêu rơi vào trạng thái Kiềm giữ và không thể bị di chuyển bằng bất kỳ cách nào.
+- **Ngục kết giới (Hedged Prison).** Mục tiêu bị nhốt trong một bán diện được bảo vệ chống dịch chuyển tức thời và du hành liên cõi. Bán diện có thể là mê cung, lồng, tháp hay thứ tương tự tùy bạn chọn.
+- **Thu nhỏ giam giữ (Minimus Containment).** Mục tiêu thu nhỏ còn 2,5 cm (1 inch) và bị nhốt trong một viên đá quý không thể phá hủy hoặc đồ vật tương tự. Ánh sáng xuyên qua được viên đá (cho phép mục tiêu nhìn ra và người khác nhìn vào), nhưng không gì khác lọt qua được bằng bất kỳ cách nào.
+- **Ngủ mê (Slumber).** Mục tiêu rơi vào trạng thái Bất tỉnh và không thể bị đánh thức.
 
-Tương tác vật lý với hình ảnh tiết lộ nó là một ảo ảnh, vì mọi thứ có thể xuyên qua nó. Một creature thực hiện action Study để kiểm tra hình ảnh có thể xác định nó là một ảo ảnh bằng một Intelligence (Investigation) check thành công chống lại spell save DC của bạn. Nếu một creature nhận ra ảo ảnh là gì, creature đó có thể nhìn xuyên qua hình ảnh, và các đặc tính giác quan khác của nó trở nên mờ nhạt đối với creature đó.
+**Chấm dứt phép (Ending the Spell).** Khi thi triển, chỉ định một tác nhân kích hoạt sẽ chấm dứt phép. Tác nhân có thể đơn giản hoặc phức tạp tùy ý, nhưng GM phải đồng ý rằng nó có khả năng cao xảy ra trong vòng mười năm tới. Tác nhân phải là hành động quan sát được, như ai đó dâng một lễ vật cụ thể lên đền thờ thần của bạn, cứu người bạn yêu thật lòng, hoặc đánh bại một quái vật cụ thể.
 
-*Using a Higher-Level Spell Slot:* Spell kéo dài cho đến khi bị dispel, không cần Concentration, nếu thi triển bằng một ô phép thuật cấp độ 4+.
+Phép *Giải trừ ma thuật* (Dispel Magic) chỉ chấm dứt được phép này nếu thi triển bằng ô phép bậc 9, nhắm vào nhà ngục hoặc thành phần dùng để tạo ra nó.
 
-### Chữa Thương Hàng Loạt (Mass Cure Wounds)
-*Cấp độ 5 Abjuration (Bard, Cleric, Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+### Đám mây cháy (Incendiary Cloud)
 
-Một làn sóng năng lượng chữa trị tràn ra từ một điểm bạn có thể nhìn thấy trong tầm đánh. Chọn tối đa sáu creature trong một Sphere bán kính 30-foot có tâm tại điểm đó. Mỗi mục tiêu phục hồi Hit Points bằng 5d8 cộng spellcasting ability modifier của bạn.
+*Triệu hồi bậc 8 (Druid, Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 5.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Chữa Lành Toàn Diện Hàng Loạt (Mass Heal)
-*Cấp độ 9 Abjuration (Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Một đám mây tàn lửa và khói cuộn xoáy phủ kín hình cầu bán kính 6 m (20 feet) lấy một điểm trong tầm làm tâm. Vùng mây bị che khuất nặng. Nó tồn tại suốt thời lượng hoặc đến khi gió mạnh (như gió của *Cơn gió lốc* — Gust of Wind) thổi tan.
 
-Một dòng năng lượng chữa trị chảy từ bạn vào các creature xung quanh bạn. Bạn phục hồi tối đa 700 Hit Points, chia theo lựa chọn của bạn cho bất kỳ số lượng creature nào bạn có thể nhìn thấy trong tầm đánh. Các creature được chữa trị bởi spell này cũng được loại bỏ condition Blinded, Deafened, và Poisoned.
+Khi mây xuất hiện, mỗi sinh vật bên trong cứu nguy Khéo léo, chịu 10d8 sát thương lửa nếu thất bại hoặc một nửa nếu thành công. Sinh vật cũng phải cứu nguy khi hình cầu di chuyển vào chỗ của nó, khi nó đi vào hình cầu hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
 
-### Lời Chữa Lành Hàng Loạt (Mass Healing Word)
-*Cấp độ 3 Abjuration (Bard, Cleric)*
-- Casting Time: Bonus Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+Đầu mỗi lượt của bạn, đám mây trôi 3 m (10 feet) ra xa bạn theo hướng tùy chọn.
 
-Tối đa sáu creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh phục hồi Hit Points bằng 2d4 cộng spellcasting ability modifier của bạn.
+### Gây vết thương (Inflict Wounds)
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 1d4 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+*Tử linh bậc 1 (Giáo sĩ)*
 
-### Gợi Ý Hàng Loạt (Mass Suggestion)
-*Cấp độ 6 Enchantment (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, M (lưỡi của một con rắn)
-- Duration: 24 hours
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bạn gợi ý một chuỗi hoạt động — mô tả trong không quá 25 từ — cho mười hai creature trở xuống mà bạn có thể nhìn thấy trong tầm đánh có thể nghe và hiểu bạn. Gợi ý phải nghe có vẻ khả thi và không liên quan đến điều gì rõ ràng sẽ gây damage cho bất kỳ mục tiêu nào hoặc đồng minh của họ. Ví dụ, bạn có thể nói, "Hãy đi bộ đến ngôi làng cuối con đường đó, và giúp dân làng ở đó thu hoạch mùa màng cho đến khi mặt trời lặn." Hoặc bạn có thể nói, "Bây giờ không phải lúc để bạo lực. Hãy bỏ vũ khí xuống, và nhảy múa! Dừng lại sau một giờ."
+Một sinh vật bạn chạm vào cứu nguy Thể chất, chịu 2d10 sát thương hoại tử nếu thất bại hoặc một nửa nếu thành công.
 
-Mỗi mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng hoặc cho đến khi bạn hoặc đồng minh của bạn gây damage lên mục tiêu. Mỗi mục tiêu bị Charmed theo đuổi gợi ý hết khả năng của mình. Hoạt động được gợi ý có thể tiếp tục trong suốt toàn bộ thời lượng, nhưng nếu hoạt động được gợi ý có thể hoàn thành trong thời gian ngắn hơn, spell kết thúc đối với một mục tiêu khi hoàn thành nó.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 1.
 
-*Using a Higher-Level Spell Slot:* Thời lượng dài hơn với một ô phép thuật cấp độ 7 (10 ngày), 8 (30 ngày), hoặc 9 (366 ngày).
+### Ôn dịch côn trùng (Insect Plague)
 
-### Mê Cung (Maze)
-*Cấp độ 8 Conjuration (Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+*Triệu hồi bậc 5 (Giáo sĩ, Druid, Thuật sĩ)*
 
-Bạn trục xuất một creature mà bạn có thể nhìn thấy trong tầm đánh vào một demiplane hình mê cung. Mục tiêu ở lại đó trong suốt thời lượng hoặc cho đến khi nó thoát khỏi mê cung.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (một con châu chấu)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Mục tiêu có thể thực hiện một action Study để cố thoát ra. Khi làm vậy, nó thực hiện một DC 20 Intelligence (Investigation) check. Nếu thành công, nó thoát ra, và spell kết thúc.
+Bầy châu chấu tràn ngập hình cầu bán kính 6 m (20 feet) lấy một điểm tùy chọn trong tầm làm tâm. Hình cầu tồn tại suốt thời lượng; vùng của nó bị che khuất nhẹ và là địa hình khó đi.
 
-Khi phép thuật kết thúc, mục tiêu xuất hiện trở lại tại không gian nó đã rời đi hoặc, nếu không gian đó đã bị chiếm, tại không gian trống gần nhất.
+Khi bầy xuất hiện, mỗi sinh vật bên trong cứu nguy Thể chất, chịu 4d10 sát thương xuyên nếu thất bại hoặc một nửa nếu thành công. Sinh vật cũng cứu nguy khi lần đầu đi vào vùng của phép trong một lượt hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
 
-### Hòa Vào Đá (Meld into Stone)
-*Cấp độ 3 Transmutation (Cleric, Druid, Ranger)*
-- Casting Time: Action hoặc Ritual
-- Range: Touch
-- Components: V, S
-- Duration: 8 hours
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 5.
 
-Bạn bước vào một object hay bề mặt đá đủ lớn để chứa hoàn toàn cơ thể bạn, hòa nhập bản thân và trang bị của bạn với đá trong suốt thời lượng. Bạn phải chạm vào đá để làm vậy. Không có dấu vết nào về sự hiện diện của bạn còn nhìn thấy được hay có thể phát hiện bằng giác quan phi phép thuật.
+### Triệu vật tức thời (Instant Summons)
 
-Khi hòa vào đá, bạn không thể thấy những gì xảy ra bên ngoài nó, và bất kỳ Wisdom (Perception) check nào bạn thực hiện để nghe âm thanh bên ngoài đều có Disadvantage. Bạn vẫn nhận thức được thời gian trôi qua và có thể thi triển spell lên bản thân khi đang hòa trong đá. Bạn có thể dùng 5 feet movement để rời khỏi đá tại nơi bạn đã vào, điều này kết thúc spell. Ngoài ra bạn không thể di chuyển.
+*Triệu hồi bậc 6 (Pháp sư)*
 
-Thiệt hại vật lý nhỏ lên đá không gây hại cho bạn, nhưng việc phá hủy một phần của nó hoặc thay đổi hình dạng của nó (đến mức bạn không còn vừa bên trong nó) sẽ đẩy bạn ra ngoài và gây 6d6 damage Force lên bạn. Việc phá hủy hoàn toàn đá (hoặc biến đổi nó thành một chất khác) đẩy bạn ra ngoài và gây 50 damage Force lên bạn. Nếu bị đẩy ra, bạn di chuyển vào không gian trống gần nhất nơi bạn đã vào lần đầu và có condition Prone.
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên sapphire trị giá 1.000+ gp)
+- **Thời lượng:** Đến khi bị giải trừ
 
-### Sửa Chữa (Mending)
-*Cantrip Transmutation (Bard, Cleric, Druid, Sorcerer, Wizard)*
-- Casting Time: 1 phút
-- Range: Touch
-- Components: V, S, M (hai nam châm đá)
-- Duration: Instantaneous
+Bạn chạm vào viên sapphire dùng để thi triển và một đồ vật nặng tối đa 4,5 kg (10 pound), chiều dài lớn nhất không quá 1,8 m (6 feet). Phép để lại một dấu Vô hình trên đồ vật và khắc vô hình tên đồ vật lên viên sapphire. Mỗi lần thi triển phép, bạn phải dùng một viên sapphire khác.
 
-Spell này sửa một vết gãy hoặc rách duy nhất trên một object bạn chạm vào, chẳng hạn một mắt xích bị gãy, hai nửa của một chiếc chìa khóa bị vỡ, một chiếc áo choàng bị rách, hoặc một túi đựng rượu bị rò rỉ. Miễn là vết gãy hoặc rách không lớn hơn 1 foot theo bất kỳ chiều nào, bạn sửa nó, không để lại dấu vết nào của hư hại trước đó.
+Sau đó, bạn có thể dùng hành động Ma thuật để nói tên đồ vật và bóp nát viên sapphire. Đồ vật lập tức xuất hiện trong tay bạn bất kể khoảng cách vật lý hay liên cõi, và phép kết thúc.
 
-Spell này có thể sửa chữa vật lý một magic item, nhưng nó không thể khôi phục phép thuật cho object đó.
+Nếu một sinh vật khác đang cầm hoặc mang đồ vật, bóp nát viên sapphire không đưa đồ vật đến, mà thay vào đó bạn biết sinh vật đó là ai và đang ở đâu.
 
-### Tin Nhắn (Message)
-*Cantrip Transmutation (Bard, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: S, M (một sợi dây đồng)
-- Duration: 1 round
+### Điệu nhảy không thể cưỡng (Irresistible Dance)
 
-Bạn chỉ về phía một creature trong tầm đánh và thì thầm một thông điệp. Mục tiêu (và chỉ mục tiêu) nghe thấy thông điệp và có thể trả lời bằng một lời thì thầm mà chỉ bạn có thể nghe thấy.
+*Yểm thuật bậc 6 (Thi sĩ, Pháp sư)*
 
-Bạn có thể thi triển spell này xuyên qua các object rắn nếu bạn quen thuộc với mục tiêu và biết nó ở phía sau rào chắn. Sự im lặng phép thuật; 1 foot đá, kim loại, hoặc gỗ; hoặc một tấm chì mỏng chặn spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Mưa Sao Băng (Meteor Swarm)
-*Cấp độ 9 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 1 dặm
-- Components: V, S
-- Duration: Instantaneous
+Một sinh vật bạn nhìn thấy trong tầm phải cứu nguy Minh triết. Nếu thành công, mục tiêu nhảy múa lố bịch đến hết lượt kế tiếp của nó, phải dùng hết lượng di chuyển để nhảy tại chỗ.
 
-Các quả cầu lửa rực cháy rơi xuống đất tại bốn điểm khác nhau bạn có thể nhìn thấy trong tầm đánh. Mỗi creature trong một Sphere bán kính 40-foot có tâm tại mỗi điểm đó thực hiện một Dexterity saving throw. Một creature nhận 20d6 damage Fire và 20d6 damage Bludgeoning nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature trong khu vực của nhiều hơn một Sphere lửa chỉ bị ảnh hưởng một lần.
+Nếu thất bại, mục tiêu rơi vào trạng thái Mê hoặc suốt thời lượng. Khi bị Mê hoặc, mục tiêu nhảy múa lố bịch, phải dùng hết lượng di chuyển để nhảy tại chỗ, chịu bất lợi khi cứu nguy Khéo léo và tung tấn công, còn sinh vật khác có lợi thế khi tung tấn công nhắm vào nó. Mỗi lượt, mục tiêu có thể dùng một hành động để trấn tĩnh và lặp lại lần cứu nguy, chấm dứt phép lên bản thân nếu thành công.
 
-Một object phi phép thuật không đang được mặc hay mang theo cũng nhận damage nếu nó trong khu vực của spell, và object bắt đầu bốc cháy nếu nó dễ cháy.
+### Vô hình (Invisibility)
 
-### Khiên Tâm Trí (Mind Blank)
-*Cấp độ 8 Abjuration (Bard, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: 24 hours
+*Ảo ảnh bậc 2 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Cho đến khi phép thuật kết thúc, một creature tự nguyện bạn chạm vào có Immunity với damage Psychic và condition Charmed. Mục tiêu cũng không bị ảnh hưởng bởi bất cứ thứ gì cảm nhận cảm xúc hay alignment của nó, đọc suy nghĩ của nó, hoặc phát hiện vị trí của nó bằng phép thuật, và không spell nào — kể cả Wish — có thể thu thập thông tin về mục tiêu, quan sát nó từ xa, hoặc kiểm soát tâm trí nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một sợi lông mi bọc trong nhựa keo)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-### Gai Tâm Trí (Mind Spike)
-*Cấp độ 2 Divination (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: S
-- Duration: Concentration, up to 1 hour
+Một sinh vật bạn chạm vào rơi vào trạng thái Vô hình đến khi phép kết thúc. Phép kết thúc sớm ngay khi mục tiêu tung tấn công, gây sát thương hoặc thi triển phép.
 
-Bạn đâm một gai năng lượng tâm linh vào tâm trí của một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu thực hiện một Wisdom saving throw, nhận 3d8 damage Psychic nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Nếu thất bại, bạn cũng luôn biết vị trí của mục tiêu cho đến khi phép thuật kết thúc, nhưng chỉ khi cả hai ở cùng một plane tồn tại. Trong khi có kiến thức này, mục tiêu không thể trở nên ẩn giấu khỏi bạn, và nếu nó có condition Invisible, nó không được hưởng lợi từ condition đó chống lại bạn.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 2.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+### Nhảy vọt (Jump)
 
-### Ảo Ảnh Nhỏ (Minor Illusion)
-*Cantrip Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: S, M (một mẩu lông cừu)
-- Duration: 1 phút
+*Biến đổi bậc 1 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-Bạn tạo ra một âm thanh hoặc hình ảnh của một object trong tầm đánh tồn tại trong suốt thời lượng. Xem mô tả dưới đây để biết hiệu ứng của mỗi loại. Ảo ảnh kết thúc nếu bạn thi triển spell này lần nữa.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (chân sau của một con châu chấu)
+- **Thời lượng:** 1 phút
 
-Nếu một creature thực hiện action Study để kiểm tra âm thanh hoặc hình ảnh, creature đó có thể xác định nó là một ảo ảnh bằng một Intelligence (Investigation) check thành công chống lại spell save DC của bạn. Nếu một creature nhận ra ảo ảnh là gì, ảo ảnh trở nên mờ nhạt đối với creature đó.
+Bạn chạm vào một sinh vật tự nguyện. Một lần mỗi lượt cho đến khi phép kết thúc, sinh vật có thể nhảy xa tối đa 9 m (30 feet) bằng cách tiêu 3 m (10 feet) di chuyển.
 
-- **Sound.** Nếu bạn tạo một âm thanh, âm lượng của nó có thể dao động từ tiếng thì thầm đến tiếng hét. Nó có thể là giọng của bạn, giọng của người khác, tiếng gầm của sư tử, tiếng trống, hoặc bất kỳ âm thanh nào khác bạn chọn. Âm thanh tiếp tục không ngừng trong suốt thời lượng, hoặc bạn có thể tạo ra các âm thanh riêng biệt vào những thời điểm khác nhau trước khi spell kết thúc.
-- **Image.** Nếu bạn tạo hình ảnh của một object — chẳng hạn một cái ghế, dấu chân bùn, hoặc một cái rương nhỏ — nó không được lớn hơn một Cube 5-foot. Hình ảnh không thể tạo ra âm thanh, ánh sáng, mùi, hay bất kỳ hiệu ứng giác quan nào khác. Tương tác vật lý với hình ảnh tiết lộ nó là một ảo ảnh, vì mọi thứ có thể xuyên qua nó.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-### Ảo Cảnh Huyền Bí (Mirage Arcane)
-*Cấp độ 7 Illusion (Bard, Druid, Wizard)*
-- Casting Time: 10 phút
-- Range: Sight
-- Components: V, S
-- Duration: 10 ngày
+### Gõ mở (Knock)
 
-Bạn khiến địa hình trong một khu vực rộng tới 1 dặm vuông trông, nghe, có mùi, và thậm chí cảm giác như một loại địa hình khác. Đồng trống hoặc con đường có thể được biến thành trông như đầm lầy, đồi, khe núi, hoặc địa hình gồ ghề hay không thể vượt qua khác. Một ao có thể trông như một đồng cỏ xanh, một vách đá như một sườn dốc nhẹ, hoặc một khe rải đá như một con đường rộng và bằng phẳng.
+*Biến đổi bậc 2 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Tương tự, bạn có thể thay đổi diện mạo của các công trình hoặc thêm chúng vào nơi không có. Spell không ngụy trang, che giấu, hay thêm creature.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
 
-Ảo ảnh bao gồm các yếu tố thính giác, thị giác, xúc giác, và khứu giác, vì vậy nó có thể biến mặt đất trống thành Difficult Terrain (hoặc ngược lại) hoặc cản trở việc di chuyển qua khu vực theo cách khác. Bất kỳ mảnh nào của địa hình ảo ảnh (chẳng hạn một tảng đá hay cành cây) bị đưa ra khỏi khu vực của spell biến mất ngay lập tức.
+Chọn một đồ vật bạn nhìn thấy trong tầm. Đồ vật có thể là cửa, hộp, rương, bộ còng, ổ khóa móc hoặc thứ khác có cơ chế thường hoặc ma thuật ngăn việc tiếp cận.
 
-Các creature có Truesight có thể nhìn xuyên qua ảo ảnh để thấy hình dạng thật của địa hình; tuy nhiên, tất cả các yếu tố khác của ảo ảnh vẫn còn, vì vậy dù creature nhận thức được sự hiện diện của ảo ảnh, creature vẫn có thể tương tác vật lý với nó.
+Mục tiêu bị khóa bằng ổ khóa thường, bị kẹt hoặc bị cài then sẽ được mở khóa, gỡ kẹt hoặc tháo then. Nếu đồ vật có nhiều ổ khóa, chỉ một ổ được mở.
 
-### Hình Ảnh Phản Chiếu (Mirror Image)
-*Cấp độ 2 Illusion (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: 1 phút
+Nếu mục tiêu bị giữ bằng *Khóa huyền thuật* (Arcane Lock), phép đó bị vô hiệu trong 10 phút, trong thời gian đó mục tiêu có thể mở và đóng.
 
-Ba bản sao ảo ảnh của chính bạn xuất hiện trong không gian của bạn. Cho đến khi phép thuật kết thúc, các bản sao di chuyển cùng bạn và bắt chước hành động của bạn, thay đổi vị trí để không thể biết hình ảnh nào là thật.
+Khi thi triển, một tiếng gõ lớn, nghe được trong phạm vi 90 m (300 feet), vang lên từ mục tiêu.
 
-Mỗi lần một creature đánh trúng bạn bằng một attack roll trong suốt thời lượng của spell, hãy tung một d6 cho mỗi bản sao còn lại của bạn. Nếu bất kỳ viên d6 nào ra 3 trở lên, một trong các bản sao bị đánh trúng thay vì bạn, và bản sao đó bị phá hủy. Các bản sao ngoài ra bỏ qua mọi damage và hiệu ứng khác. Spell kết thúc khi cả ba bản sao bị phá hủy.
+### Truyền thuyết (Legend Lore)
 
-Một creature không bị ảnh hưởng bởi spell này nếu nó có condition Blinded, Blindsight, hoặc Truesight.
+*Tiên tri bậc 5 (Thi sĩ, Giáo sĩ, Pháp sư)*
 
-### Đánh Lạc Hướng (Mislead)
-*Cấp độ 5 Illusion (Bard, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: S
-- Duration: Concentration, up to 1 hour
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (nhang trị giá 250+ gp, bị phép tiêu hao, và bốn thẻ ngà voi trị giá 50+ gp mỗi thẻ)
+- **Thời lượng:** Tức thời
 
-Bạn nhận condition Invisible cùng lúc một bản sao ảo ảnh của bạn xuất hiện tại nơi bạn đang đứng. Bản sao tồn tại trong suốt thời lượng, nhưng tính vô hình kết thúc ngay sau khi bạn thực hiện một attack roll, gây damage, hoặc thi triển một spell.
+Gọi tên hoặc mô tả một nhân vật, địa danh hay đồ vật nổi tiếng. Phép đem đến tâm trí bạn bản tóm tắt ngắn gọn về những truyền thuyết quan trọng liên quan đến nó, do GM mô tả.
 
-Như một Magic action, bạn có thể di chuyển bản sao ảo ảnh tối đa gấp đôi Speed của bạn và khiến nó ra cử chỉ, nói, và hành xử theo bất kỳ cách nào bạn chọn. Nó phi vật chất và bất khả xâm phạm.
+Truyền thuyết có thể gồm chi tiết quan trọng, những tiết lộ thú vị, hay cả tri thức bí mật chưa từng lan truyền. Bạn càng biết nhiều về đối tượng, thông tin nhận được càng chính xác và chi tiết. Thông tin đúng sự thật nhưng có thể được diễn đạt bằng ngôn ngữ ẩn dụ hay thơ ca, tùy GM.
 
-Bạn có thể nhìn qua mắt nó và nghe qua tai nó như thể bạn đang ở vị trí của nó.
+Nếu thứ bạn chọn thực ra không nổi tiếng, bạn nghe thấy những nốt kèn trombone buồn bã, và phép thất bại.
 
-### Bước Chân Sương Mù (Misty Step)
-*Cấp độ 2 Conjuration (Sorcerer, Warlock, Wizard)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V
-- Duration: Instantaneous
+### Phục hồi cơ bản (Lesser Restoration)
 
-Được bao quanh trong chốc lát bởi sương mù bạc, bạn dịch chuyển tối đa 30 feet đến một không gian trống bạn có thể nhìn thấy.
+*Phòng hộ bậc 2 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-### Chỉnh Sửa Ký Ức (Modify Memory)
-*Cấp độ 5 Enchantment (Bard, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bạn cố định hình lại ký ức của một creature khác. Một creature bạn có thể nhìn thấy trong tầm đánh thực hiện một Wisdom saving throw. Nếu bạn đang chiến đấu với creature đó, nó có Advantage trên save. Nếu thất bại, mục tiêu có condition Charmed trong suốt thời lượng. Khi đang Charmed theo cách này, mục tiêu cũng có condition Incapacitated và không nhận thức được môi trường xung quanh, dù nó có thể nghe thấy bạn. Nếu nó nhận bất kỳ damage nào hoặc bị nhắm mục tiêu bởi một spell khác, spell này kết thúc, và không ký ức nào bị chỉnh sửa.
+Bạn chạm vào một sinh vật và chấm dứt một trạng thái trên nó: Mù, Điếc, Tê liệt hoặc Trúng độc.
 
-Trong khi lời mê hoặc này còn hiệu lực, bạn có thể ảnh hưởng đến ký ức của mục tiêu về một sự kiện mà nó đã trải qua trong 24 giờ qua và kéo dài không quá 10 phút. Bạn có thể xóa vĩnh viễn mọi ký ức về sự kiện đó, cho phép mục tiêu nhớ lại sự kiện với sự rõ ràng hoàn hảo, thay đổi ký ức của nó về các chi tiết của sự kiện, hoặc tạo ra một ký ức về một sự kiện khác.
+### Nâng lơ lửng (Levitate)
 
-Bạn phải nói với mục tiêu để mô tả cách ký ức của nó bị ảnh hưởng, và nó phải có thể hiểu ngôn ngữ của bạn để các ký ức đã chỉnh sửa bén rễ. Tâm trí nó tự lấp đầy bất kỳ khoảng trống nào trong chi tiết mô tả của bạn. Nếu spell kết thúc trước khi bạn hoàn thành việc mô tả các ký ức đã chỉnh sửa, ký ức của creature không bị thay đổi. Ngược lại, các ký ức đã chỉnh sửa bén rễ khi spell kết thúc.
+*Biến đổi bậc 2 (Thuật sĩ, Pháp sư)*
 
-Một ký ức đã chỉnh sửa không nhất thiết ảnh hưởng đến cách một creature hành xử, đặc biệt nếu ký ức mâu thuẫn với thiên hướng tự nhiên, alignment, hoặc niềm tin của creature. Một ký ức đã chỉnh sửa phi logic, chẳng hạn một ký ức giả về việc creature thích bơi trong acid đến mức nào, bị coi là một giấc mơ xấu và không có tác dụng. GM có thể coi một ký ức đã chỉnh sửa là quá vô lý để ảnh hưởng đến một creature.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một lò xo kim loại)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Một spell Greater Restoration hoặc Remove Curse thi triển lên mục tiêu khôi phục ký ức thật của creature.
+Một sinh vật hoặc đồ vật rời tùy chọn mà bạn nhìn thấy trong tầm bay thẳng lên tối đa 6 m (20 feet) và lơ lửng ở đó suốt thời lượng. Phép có thể nâng đồ vật nặng tối đa 225 kg (500 pound). Sinh vật không tự nguyện cứu nguy Thể chất thành công thì không bị ảnh hưởng.
 
-*Using a Higher-Level Spell Slot:* Bạn có thể thay đổi ký ức của mục tiêu về một sự kiện xảy ra tối đa 7 ngày trước (ô cấp độ 6), 30 ngày trước (ô cấp độ 7), 365 ngày trước (ô cấp độ 8), hoặc bất kỳ thời điểm nào trong quá khứ của creature (ô cấp độ 9).
+Mục tiêu chỉ di chuyển được bằng cách đẩy hoặc kéo vào vật cố định hay bề mặt trong tầm với (như tường hoặc trần), cho phép nó di chuyển như đang leo. Trong lượt của mình, bạn có thể thay đổi độ cao của mục tiêu tối đa 6 m (20 feet) theo một trong hai chiều. Nếu bạn là mục tiêu, bạn có thể lên xuống như một phần lượng di chuyển. Nếu không, bạn có thể dùng hành động Ma thuật để di chuyển mục tiêu, và mục tiêu phải còn trong tầm của phép.
 
-### Tia Trăng (Moonbeam)
-*Cấp độ 2 Evocation (Druid)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một lá moonseed)
-- Duration: Concentration, up to 1 minute
+Khi phép kết thúc, mục tiêu nhẹ nhàng hạ xuống đất nếu vẫn đang lơ lửng.
 
-Một tia sáng bạc nhạt chiếu xuống trong một Cylinder bán kính 5-foot, cao 40-foot có tâm tại một điểm trong tầm đánh. Cho đến khi phép thuật kết thúc, Dim Light tràn ngập Cylinder, và bạn có thể thực hiện Magic action ở các turn sau để di chuyển Cylinder tối đa 60 feet.
+### Ánh sáng (Light)
 
-Khi Cylinder xuất hiện, mỗi creature trong đó thực hiện một Constitution saving throw. Nếu thất bại, một creature nhận 2d10 damage Radiant, và nếu creature đó đã biến hình (do kết quả của spell Polymorph, ví dụ), nó trở lại hình dạng thật và không thể biến hình cho đến khi nó rời khỏi Cylinder. Nếu thành công, một creature chỉ nhận một nửa lượng damage đó. Một creature cũng thực hiện save này khi khu vực của spell di chuyển vào không gian của nó và khi nó vào khu vực của spell hoặc kết thúc turn ở đó. Một creature chỉ thực hiện save này một lần mỗi turn.
+*Phép sơ cấp Gọi năng lượng (Thi sĩ, Giáo sĩ, Thuật sĩ, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, M (một con đom đóm hoặc rêu phát quang)
+- **Thời lượng:** 1 giờ
 
-### Dịch Chuyển Đất (Move Earth)
-*Cấp độ 6 Transmutation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một cái xẻng thu nhỏ)
-- Duration: Concentration, up to 2 hours
+Bạn chạm vào một đồ vật cỡ Lớn trở xuống không do người khác mặc hay mang. Cho đến khi phép kết thúc, đồ vật tỏa ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet). Ánh sáng có màu tùy bạn muốn.
 
-Chọn một khu vực địa hình không lớn hơn 40 feet mỗi cạnh trong tầm đánh. Bạn có thể định hình lại đất, cát, hoặc đất sét trong khu vực theo bất kỳ cách nào bạn chọn trong suốt thời lượng. Bạn có thể nâng hoặc hạ độ cao của khu vực, tạo hoặc lấp một rãnh, dựng hoặc san phẳng một bức tường, hoặc tạo một cột trụ. Mức độ của bất kỳ thay đổi nào như vậy không thể vượt quá một nửa chiều lớn nhất của khu vực. Ví dụ, nếu bạn ảnh hưởng một khu vực vuông 40-foot, bạn có thể tạo một cột trụ cao tới 20 feet, nâng hoặc hạ độ cao của khu vực vuông đó tới 20 feet, đào một rãnh sâu tới 20 feet, v.v. Cần 10 phút để hoàn thành những thay đổi này. Vì sự biến đổi của địa hình diễn ra chậm, các creature trong khu vực thường không thể bị mắc kẹt hay bị thương bởi chuyển động của mặt đất.
+Che đồ vật bằng thứ không trong suốt sẽ chặn ánh sáng. Phép kết thúc nếu bạn thi triển lại.
 
-Vào cuối mỗi 10 phút bạn dành để Concentration vào spell, bạn có thể chọn một khu vực địa hình mới để ảnh hưởng trong tầm đánh.
+### Tia sét (Lightning Bolt)
 
-Spell này không thể thao túng đá tự nhiên hay công trình bằng đá. Đá và công trình dịch chuyển để phù hợp với địa hình mới. Nếu cách bạn định hình địa hình khiến một công trình không ổn định, nó có thể sụp đổ.
+*Gọi năng lượng bậc 3 (Thuật sĩ, Pháp sư)*
 
-Tương tự, spell này không trực tiếp ảnh hưởng đến sự phát triển của cây cối. Đất được di chuyển mang theo bất kỳ cây nào cùng với nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một nhúm lông thú và một thanh pha lê)
+- **Thời lượng:** Tức thời
 
-### Vô Hiệu Dò Tìm (Nondetection)
-*Cấp độ 3 Abjuration (Bard, Ranger, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một nhúm bột kim cương trị giá 25+ GP, bị phép thuật tiêu thụ)
-- Duration: 8 hours
+Một tia sét tạo thành đường thẳng dài 30 m (100 feet), rộng 1,5 m (5 feet) phóng ra từ bạn theo hướng tùy chọn. Mỗi sinh vật trong đường thẳng cứu nguy Khéo léo, chịu 8d6 sát thương sét nếu thất bại hoặc một nửa nếu thành công.
 
-Trong suốt thời lượng, bạn giấu một mục tiêu bạn chạm vào khỏi các spell Divination. Mục tiêu có thể là một creature tự nguyện, hoặc nó có thể là một nơi chốn hay object không lớn hơn 10 feet theo bất kỳ chiều nào. Mục tiêu không thể bị nhắm bởi bất kỳ spell Divination nào hay bị cảm nhận qua các cảm biến do thám phép thuật.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 3.
 
-### Xuyên Tường (Passwall)
-*Cấp độ 5 Transmutation (Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một nhúm hạt vừng)
-- Duration: 1 giờ
+### Định vị muông thú hoặc thực vật (Locate Animals or Plants)
 
-Một lối đi xuất hiện tại một điểm bạn có thể nhìn thấy trên một bề mặt gỗ, thạch cao, hoặc đá (chẳng hạn một bức tường, trần nhà, hoặc sàn nhà) trong tầm đánh và tồn tại trong suốt thời lượng. Bạn chọn kích thước của lỗ mở: rộng tới 5 feet, cao 8 feet, và sâu 20 feet. Lối đi không tạo ra sự bất ổn nào trong công trình xung quanh nó.
+*Tiên tri bậc 2 (Thi sĩ, Druid, Kiểm lâm)*
 
-Khi lỗ mở biến mất, bất kỳ creature hoặc object nào vẫn còn trong lối đi được tạo bởi spell được đẩy ra an toàn đến không gian trống gần bề mặt bạn đã thi triển spell nhất.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (lông của một con chó săn)
+- **Thời lượng:** Tức thời
 
-### Không Dấu Vết (Pass without Trace)
-*Cấp độ 2 Abjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (tro từ tầm gửi đã đốt)
-- Duration: Concentration, up to 1 hour
+Mô tả hoặc gọi tên một loại Thú, sinh vật Thực vật hoặc cây cỏ không ma thuật cụ thể. Bạn biết hướng và khoảng cách đến sinh vật hoặc cây gần nhất thuộc loại đó trong phạm vi 8 km (5 mile), nếu có.
 
-Bạn tỏa ra một hào quang che giấu trong một 30-foot Emanation trong suốt thời lượng. Khi ở trong hào quang, bạn và mỗi creature bạn chọn nhận bonus +10 vào Dexterity (Stealth) check và không để lại dấu vết.
+### Định vị sinh vật (Locate Creature)
 
-### Lực Ảo Ảnh (Phantasmal Force)
-*Cấp độ 2 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mẩu lông cừu)
-- Duration: Concentration, up to 1 minute
+*Tiên tri bậc 4 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Pháp sư)*
 
-Bạn cố tạo ra một ảo ảnh trong tâm trí của một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu thực hiện một Intelligence saving throw. Nếu thất bại, bạn tạo ra một object, creature, hoặc hiện tượng ảo ảnh không lớn hơn một Cube 10-foot và chỉ có thể được cảm nhận bởi mục tiêu trong suốt thời lượng. Ảo ảnh bao gồm âm thanh, nhiệt độ, và các kích thích khác.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (lông của một con chó săn)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Mục tiêu có thể thực hiện action Study để kiểm tra ảo ảnh bằng một Intelligence (Investigation) check chống lại spell save DC của bạn. Nếu check thành công, mục tiêu nhận ra ảo ảnh là một ảo ảnh, và spell kết thúc.
+Mô tả hoặc gọi tên một sinh vật mà bạn quen thuộc. Bạn cảm nhận được hướng đến vị trí của nó nếu nó ở trong phạm vi 300 m (1.000 feet). Nếu sinh vật đang di chuyển, bạn biết hướng di chuyển của nó.
 
-Khi bị ảnh hưởng bởi spell, mục tiêu coi ảo ảnh như thể nó là thật và hợp lý hóa bất kỳ kết quả phi logic nào từ việc tương tác với nó. Ví dụ, nếu mục tiêu bước qua một cây cầu ảo ảnh và sống sót sau cú ngã, nó tin rằng cây cầu tồn tại và điều gì đó khác đã khiến nó ngã.
+Phép có thể định vị một sinh vật cụ thể mà bạn biết, hoặc sinh vật gần nhất thuộc một loại cụ thể (như con người hay kỳ lân) nếu bạn từng nhìn thấy sinh vật như vậy ở cự ly gần — trong phạm vi 9 m (30 feet) — ít nhất một lần.
 
-Một mục tiêu bị ảnh hưởng thậm chí có thể nhận damage từ ảo ảnh nếu ảo ảnh mô tả một creature hay mối nguy hiểm. Vào mỗi turn của bạn, một ảo ảnh như vậy có thể gây 2d8 damage Psychic lên mục tiêu nếu nó trong khu vực của ảo ảnh hoặc trong vòng 5 feet của ảo ảnh. Mục tiêu cảm nhận damage đó như một loại phù hợp với ảo ảnh.
+Nếu sinh vật bạn mô tả hoặc gọi tên đang ở dạng khác, chẳng hạn chịu hiệu ứng của *Biến hình* (Polymorph) hoặc *Biến hình toàn vẹn* (True Polymorph), phép không định vị được nó.
 
-### Kẻ Giết Chóc Ảo Ảnh (Phantasmal Killer)
-*Cấp độ 4 Illusion (Bard, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Phép không định vị được sinh vật nếu có lớp chì, dù mỏng đến đâu, chắn đường thẳng giữa bạn và nó.
 
-Bạn khai thác những cơn ác mộng của một creature bạn có thể nhìn thấy trong tầm đánh và tạo ra một ảo ảnh về nỗi sợ hãi sâu thẳm nhất của nó, chỉ có thể nhìn thấy bởi creature đó. Mục tiêu thực hiện một Wisdom saving throw. Nếu thất bại, mục tiêu nhận 4d10 damage Psychic và có Disadvantage trên ability check và attack roll trong suốt thời lượng. Nếu thành công, mục tiêu chỉ nhận một nửa lượng damage đó, và spell kết thúc.
+### Định vị vật thể (Locate Object)
 
-Trong suốt thời lượng, mục tiêu thực hiện một Wisdom saving throw vào cuối mỗi turn của nó. Nếu thất bại, nó nhận damage Psychic tương tự lần nữa. Nếu thành công, spell kết thúc.
+*Tiên tri bậc 2 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d10 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một cành cây chạc đôi)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-### Chiến Mã Ảo Ảnh (Phantom Steed)
-*Cấp độ 3 Illusion (Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: 30 feet
-- Components: V, S
-- Duration: 1 giờ
+Mô tả hoặc gọi tên một đồ vật mà bạn quen thuộc. Bạn cảm nhận được hướng đến vị trí của nó nếu nó ở trong phạm vi 300 m (1.000 feet). Nếu đồ vật đang di chuyển, bạn biết hướng di chuyển của nó.
 
-Một creature giống ngựa kích thước Large, gần như thật xuất hiện trên mặt đất trong một không gian trống theo lựa chọn của bạn trong tầm đánh. Bạn quyết định diện mạo của creature, và nó được trang bị yên, hàm thiếc, và dây cương. Bất kỳ trang bị nào được tạo bởi spell biến mất trong một làn khói nếu nó bị mang xa hơn 10 feet khỏi chiến mã.
+Phép có thể định vị một đồ vật cụ thể mà bạn biết nếu từng nhìn thấy nó ở cự ly gần — trong phạm vi 9 m (30 feet) — ít nhất một lần. Hoặc, phép có thể định vị đồ vật gần nhất thuộc một loại cụ thể, như một kiểu trang phục, trang sức, đồ nội thất, công cụ hay vũ khí nhất định.
 
-Trong suốt thời lượng, bạn hoặc một creature bạn chọn có thể cưỡi chiến mã. Chiến mã dùng stat block Riding Horse (xem "Monsters"), ngoại trừ nó có Speed 100 feet và có thể di chuyển 13 dặm trong một giờ. Khi phép thuật kết thúc, chiến mã dần mờ đi, cho người cưỡi 1 phút để xuống ngựa. Spell kết thúc sớm nếu chiến mã nhận bất kỳ damage nào.
+Phép không định vị được đồ vật nếu có lớp chì, dù mỏng đến đâu, chắn đường thẳng giữa bạn và nó.
 
-### Đồng Minh Liên Plane (Planar Ally)
-*Cấp độ 6 Conjuration (Cleric)*
-- Casting Time: 10 phút
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+### Sải bước dài (Longstrider)
 
-Bạn khẩn cầu một thực thể ngoại giới trợ giúp. Thực thể đó phải là thứ bạn biết: một vị thần, một demon prince, hoặc một thế lực vũ trụ khác. Thực thể đó gửi một Celestial, Elemental, hoặc Fiend trung thành với nó để giúp bạn, khiến creature đó xuất hiện trong một không gian trống trong tầm đánh. Nếu bạn biết tên cụ thể của một creature, bạn có thể nói tên đó khi thi triển spell này để yêu cầu creature đó, dù bạn có thể vẫn nhận một creature khác (GM chọn).
+*Biến đổi bậc 1 (Thi sĩ, Druid, Kiểm lâm, Pháp sư)*
 
-Khi creature xuất hiện, nó không bị ép buộc hành xử theo bất kỳ cách cụ thể nào. Bạn có thể yêu cầu nó thực hiện một dịch vụ để đổi lấy tiền công, nhưng nó không có nghĩa vụ phải làm vậy. Nhiệm vụ được yêu cầu có thể từ đơn giản (bay chúng tôi qua vực thẳm, hoặc giúp chúng tôi trong một trận chiến) đến phức tạp (do thám kẻ địch của chúng tôi, hoặc bảo vệ chúng tôi trong cuộc thám hiểm dungeon). Bạn phải có thể giao tiếp với creature để thương lượng về dịch vụ của nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một nhúm đất)
+- **Thời lượng:** 1 giờ
 
-Tiền công có thể ở nhiều hình thức. Một Celestial có thể yêu cầu một khoản quyên góp đáng kể bằng vàng hoặc magic item cho một ngôi đền đồng minh, trong khi một Fiend có thể đòi hỏi một vật hiến tế sống hoặc một món quà kho báu. Một số creature có thể đổi dịch vụ của mình lấy một nhiệm vụ do bạn thực hiện.
+Bạn chạm vào một sinh vật. Tốc độ của mục tiêu tăng 3 m (10 feet) đến khi phép kết thúc.
 
-Một nhiệm vụ có thể đo bằng phút cần một khoản tiền công trị giá 100 GP mỗi phút. Một nhiệm vụ đo bằng giờ cần 1.000 GP mỗi giờ. Và một nhiệm vụ đo bằng ngày (tối đa 10 ngày) cần 10.000 GP mỗi ngày. GM có thể điều chỉnh các khoản tiền công này dựa trên hoàn cảnh bạn thi triển spell. Nếu nhiệm vụ phù hợp với đạo đức của creature, tiền công có thể giảm một nửa hoặc thậm chí được miễn. Các nhiệm vụ không nguy hiểm thường chỉ cần một nửa tiền công được đề xuất, trong khi các nhiệm vụ đặc biệt nguy hiểm có thể cần một món quà lớn hơn. Các creature hiếm khi chấp nhận các nhiệm vụ có vẻ tự sát.
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 1.
 
-Sau khi creature hoàn thành nhiệm vụ, hoặc khi thời hạn dịch vụ đã thỏa thuận hết hạn, creature quay về plane quê hương của nó sau khi báo cáo lại cho bạn nếu có thể. Nếu bạn không thể thỏa thuận về giá cho dịch vụ của creature, creature ngay lập tức quay về plane quê hương của nó.
+### Giáp pháp sư (Mage Armor)
 
-### Trói Buộc Liên Plane (Planar Binding)
-*Cấp độ 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)*
-- Casting Time: 1 giờ
-- Range: 60 feet
-- Components: V, S, M (một viên đá quý trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: 24 hours
+*Phòng hộ bậc 1 (Thuật sĩ, Pháp sư)*
 
-Bạn cố trói buộc một Celestial, Elemental, Fey, hoặc Fiend vào sự phục vụ của bạn. Creature phải trong tầm đánh trong suốt quá trình thi triển spell. (Thông thường, creature trước tiên được triệu hồi vào trung tâm của phiên bản đảo ngược của spell Magic Circle để bẫy nó trong khi spell này được thi triển.) Khi hoàn thành việc thi triển, mục tiêu phải thành công trong một Charisma saving throw hoặc bị trói buộc để phục vụ bạn trong suốt thời lượng. Nếu creature được triệu hồi hoặc tạo ra bởi một spell khác, thời lượng của spell đó được kéo dài để khớp với thời lượng của spell này.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một mảnh da thuộc)
+- **Thời lượng:** 8 giờ
 
-Một creature bị trói buộc phải tuân theo mệnh lệnh của bạn hết khả năng của nó. Bạn có thể ra lệnh cho creature đi cùng bạn trong một cuộc phiêu lưu, canh gác một địa điểm, hoặc chuyển một thông điệp. Nếu creature là Hostile, nó cố xoay chuyển mệnh lệnh của bạn để đạt được mục tiêu riêng của nó. Nếu creature hoàn thành mệnh lệnh của bạn hoàn toàn trước khi spell kết thúc, nó di chuyển đến chỗ bạn để báo cáo điều này nếu bạn ở cùng plane tồn tại. Nếu bạn ở một plane khác, nó quay về nơi bạn đã trói buộc nó và ở lại đó cho đến khi spell kết thúc.
+Bạn chạm vào một sinh vật tự nguyện không mặc giáp. Cho đến khi phép kết thúc, AC cơ bản của mục tiêu là 13 + hệ số Khéo léo của nó. Phép kết thúc sớm nếu mục tiêu mặc giáp.
 
-*Using a Higher-Level Spell Slot:* Thời lượng tăng lên với một ô phép thuật cấp độ 6 (10 ngày), 7 (30 ngày), 8 (180 ngày), và 9 (366 ngày).
+### Bàn tay pháp sư (Mage Hand)
 
-### Dịch Chuyển Liên Plane (Plane Shift)
-*Cấp độ 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một thanh kim loại chẻ đôi trị giá 250+ GP và được attune với một plane tồn tại)
-- Duration: Instantaneous
+*Phép sơ cấp Triệu hồi (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn và tối đa tám creature tự nguyện nắm tay nhau thành vòng tròn được vận chuyển đến một plane tồn tại khác. Bạn có thể chỉ định một đích đến chung chung, chẳng hạn một thành phố cụ thể trên Elemental Plane of Fire hoặc một cung điện trên tầng thứ hai của Nine Hells, và bạn xuất hiện tại hoặc gần đích đến đó, tùy GM quyết định.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 phút
 
-Ngoài ra, nếu bạn biết chuỗi ký hiệu (sigil sequence) của một teleportation circle trên một plane tồn tại khác, spell này có thể đưa bạn đến circle đó. Nếu teleportation circle quá nhỏ để chứa tất cả các creature bạn vận chuyển, họ xuất hiện tại các không gian trống gần circle nhất.
+Một bàn tay ma quái lơ lửng xuất hiện tại một điểm tùy chọn trong tầm. Bàn tay tồn tại suốt thời lượng. Nó biến mất nếu có lúc cách bạn hơn 9 m (30 feet) hoặc nếu bạn thi triển lại phép.
 
-### Tăng Trưởng Thực Vật (Plant Growth)
-*Cấp độ 3 Transmutation (Bard, Druid, Ranger)*
-- Casting Time: Action (Overgrowth) hoặc 8 giờ (Enrichment)
-- Range: 150 feet
-- Components: V, S
-- Duration: Instantaneous
+Khi thi triển, bạn có thể dùng bàn tay để thao tác một đồ vật, mở cửa hoặc thùng chứa không khóa, cất hoặc lấy một món đồ từ thùng chứa đang mở, hoặc đổ đồ trong lọ ra.
 
-Spell này truyền sức sống vào thực vật. Thời gian thi triển xác định liệu spell có hiệu ứng Overgrowth hay Enrichment dưới đây.
+Bằng hành động Ma thuật ở các lượt sau, bạn có thể điều khiển bàn tay làm việc tương tự. Trong hành động đó, bạn có thể di chuyển bàn tay tối đa 9 m (30 feet).
 
-- **Overgrowth.** Chọn một điểm trong tầm đánh. Tất cả thực vật bình thường trong một Sphere bán kính 100-foot có tâm tại điểm đó trở nên rậm rạp và um tùm. Một creature di chuyển qua khu vực đó phải tốn 4 feet movement cho mỗi 1 foot nó di chuyển. Bạn có thể loại trừ một hoặc nhiều khu vực bất kỳ kích thước nào trong khu vực của spell khỏi bị ảnh hưởng.
-- **Enrichment.** Tất cả thực vật trong bán kính nửa dặm có tâm tại một điểm trong tầm đánh được làm giàu trong 365 ngày. Các cây trồng cho sản lượng gấp đôi lượng thức ăn bình thường khi thu hoạch. Chúng chỉ có thể hưởng lợi từ một lần mỗi năm.
+Bàn tay không thể tấn công, kích hoạt vật phẩm ma thuật hay mang quá 4,5 kg (10 pound).
 
-### Phun Độc (Poison Spray)
-*Cantrip Necromancy (Druid, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: Instantaneous
+### Vòng tròn ma thuật (Magic Circle)
 
-Bạn phun sương độc vào một creature trong tầm đánh. Thực hiện một melee spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d12 damage Poison.
+*Phòng hộ bậc 3 (Giáo sĩ, Thánh kỵ sĩ, Warlock, Pháp sư)*
 
-*Cantrip Upgrade:* Damage tăng thêm 1d12 khi bạn đạt cấp độ 5 (2d12), 11 (3d12), và 17 (4d12).
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (muối và bột bạc trị giá 100+ gp, bị phép tiêu hao)
+- **Thời lượng:** 1 giờ
 
-### Biến Hình (Polymorph)
-*Cấp độ 4 Transmutation (Bard, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một cái kén sâu bướm)
-- Duration: Concentration, up to 1 hour
+Bạn tạo một hình trụ năng lượng ma thuật bán kính 3 m (10 feet), cao 6 m (20 feet), lấy một điểm trên mặt đất bạn nhìn thấy trong tầm làm tâm. Ký tự rune phát sáng hiện ra ở mọi chỗ hình trụ giao với sàn hay bề mặt khác.
 
-Bạn cố biến đổi một creature bạn có thể nhìn thấy trong tầm đánh thành một Beast. Mục tiêu phải thành công trong một Wisdom saving throw hoặc biến hình thành một Beast form trong suốt thời lượng. Hình dạng đó có thể là bất kỳ Beast nào bạn chọn có Challenge Rating bằng hoặc thấp hơn của mục tiêu (hoặc level của mục tiêu nếu nó không có Challenge Rating). Chỉ số trò chơi của mục tiêu được thay thế bằng stat block của Beast đã chọn, nhưng mục tiêu giữ lại alignment, tính cách, creature type, Hit Points, và Hit Point Dice của nó. Xem phần "Animals" của "Monsters" để biết mẫu stat block Beast.
+Chọn một hoặc nhiều loại sinh vật: Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống. Vòng tròn tác động lên sinh vật thuộc loại đã chọn như sau:
 
-Mục tiêu nhận một lượng Temporary Hit Points bằng Hit Points của Beast form. Các Temporary Hit Points này biến mất nếu còn lại khi spell kết thúc. Spell kết thúc sớm trên mục tiêu nếu nó không còn Temporary Hit Points nào.
+- Sinh vật không thể tự nguyện vào hình trụ bằng cách không ma thuật. Nếu dùng dịch chuyển tức thời hay du hành liên cõi để vào, trước tiên nó phải thành công cứu nguy Sức hút.
+- Sinh vật chịu bất lợi khi tung tấn công nhắm vào mục tiêu bên trong hình trụ.
+- Mục tiêu bên trong hình trụ không thể bị sinh vật đó chiếm hữu, Mê hoặc hay làm Hoảng sợ.
 
-Mục tiêu bị giới hạn trong các action nó có thể thực hiện bởi cấu tạo cơ thể của hình dạng mới, và nó không thể nói hay thi triển spell.
+Mỗi lần thi triển, bạn có thể khiến ma thuật hoạt động theo chiều ngược lại: ngăn sinh vật thuộc loại đã chọn rời khỏi hình trụ và bảo vệ các mục tiêu ở bên ngoài.
 
-Trang bị của mục tiêu hòa vào hình dạng mới. Creature không thể dùng hoặc hưởng lợi theo cách khác từ bất kỳ trang bị nào đó.
+*Dùng ô phép bậc cao hơn.* Thời lượng tăng 1 giờ cho mỗi bậc ô phép trên 3.
 
-### Lời Sức Mạnh: Chữa Lành (Power Word Heal)
-*Cấp độ 9 Enchantment (Bard, Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+### Bình chứa linh hồn (Magic Jar)
 
-Một làn sóng năng lượng chữa trị tràn qua một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phục hồi tất cả Hit Points của nó. Nếu creature có condition Charmed, Frightened, Paralyzed, Poisoned, hoặc Stunned, condition đó kết thúc. Nếu creature có condition Prone, nó có thể dùng Reaction của mình để đứng dậy.
+*Tử linh bậc 6 (Pháp sư)*
 
-### Lời Sức Mạnh: Giết Chóc (Power Word Kill)
-*Cấp độ 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một viên đá quý, pha lê hoặc hộp thánh tích trị giá 500+ gp)
+- **Thời lượng:** Đến khi bị giải trừ
 
-Bạn ép buộc một creature bạn có thể nhìn thấy trong tầm đánh phải chết. Nếu mục tiêu có 100 Hit Points trở xuống, nó chết. Nếu không, nó nhận 12d12 damage Psychic.
+Cơ thể bạn rơi vào trạng thái hôn mê khi linh hồn rời khỏi nó và nhập vào vật chứa dùng làm thành phần vật chất. Khi linh hồn trú trong vật chứa, bạn nhận biết xung quanh như thể đang ở chỗ của vật chứa. Bạn không thể di chuyển hay dùng phản ứng. Hành động duy nhất bạn làm được là phóng linh hồn ra khỏi vật chứa tối đa 30 m (100 feet), hoặc để trở về cơ thể sống của mình (chấm dứt phép), hoặc để cố chiếm hữu cơ thể một Hình người.
 
-### Lời Sức Mạnh: Choáng (Power Word Stun)
-*Cấp độ 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+Bạn có thể cố chiếm hữu bất kỳ Hình người nào trong phạm vi 30 m (100 feet) mà bạn nhìn thấy (sinh vật được *Chống thiện ác* — Protection from Evil and Good — hoặc *Vòng tròn ma thuật* — Magic Circle — bảo vệ thì không thể bị chiếm hữu). Mục tiêu cứu nguy Sức hút. Nếu thất bại, linh hồn bạn nhập vào cơ thể mục tiêu, và linh hồn mục tiêu bị nhốt trong vật chứa. Nếu thành công, mục tiêu chống lại được, và bạn không thể thử chiếm hữu nó lần nữa trong 24 giờ.
 
-Bạn áp đảo tâm trí của một creature bạn có thể nhìn thấy trong tầm đánh. Nếu mục tiêu có 150 Hit Points trở xuống, nó có condition Stunned. Nếu không, Speed của nó bằng 0 cho đến khi bắt đầu turn tiếp theo của bạn.
+Khi đã chiếm hữu cơ thể một sinh vật, bạn điều khiển nó. HP, xúc xắc sinh lực, Sức mạnh, Khéo léo, Thể chất, Tốc độ và giác quan của bạn được thay bằng của sinh vật đó. Ngoài ra bạn giữ nguyên chỉ số của mình. Trong khi đó, linh hồn của sinh vật bị chiếm hữu cảm nhận từ vật chứa bằng giác quan của chính nó, nhưng không thể di chuyển và ở trạng thái Mất năng lực hành động.
 
-Mục tiêu bị Stunned thực hiện một Constitution saving throw vào cuối mỗi turn của nó, kết thúc condition trên bản thân nếu thành công.
+Khi đang chiếm hữu, bạn có thể dùng hành động Ma thuật để rời cơ thể vật chủ trở về vật chứa nếu nó ở trong phạm vi 30 m (100 feet), trả linh hồn vật chủ về cơ thể. Nếu cơ thể vật chủ chết khi bạn đang ở trong đó, sinh vật đó chết, và bạn cứu nguy Sức hút với DC thi triển phép của chính mình. Nếu thành công, bạn trở về vật chứa nếu nó ở trong phạm vi 30 m (100 feet). Nếu không, bạn chết.
 
-### Lời Cầu Nguyện Chữa Lành (Prayer of Healing)
-*Cấp độ 2 Abjuration (Cleric, Paladin)*
-- Casting Time: 10 phút
-- Range: 30 feet
-- Components: V
-- Duration: Instantaneous
+Nếu vật chứa bị phá hủy hoặc phép kết thúc, linh hồn bạn trở về cơ thể. Nếu cơ thể cách xa hơn 30 m (100 feet) hoặc đã chết, bạn chết. Nếu linh hồn sinh vật khác đang ở trong vật chứa khi nó bị phá hủy, linh hồn đó trở về cơ thể nếu cơ thể còn sống và ở trong phạm vi 30 m (100 feet). Nếu không, sinh vật đó chết.
 
-Tối đa năm creature theo lựa chọn của bạn ở lại trong tầm đánh suốt toàn bộ quá trình thi triển spell nhận lợi ích của một Short Rest và cũng phục hồi 2d8 Hit Points. Một creature không thể bị ảnh hưởng bởi spell này lần nữa cho đến khi creature đó hoàn thành một Long Rest.
+Khi phép kết thúc, vật chứa bị phá hủy.
 
-*Using a Higher-Level Spell Slot:* Lượng chữa trị tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+### Phi tiêu ma thuật (Magic Missile)
 
-### Ảo Thuật Vặt (Prestidigitation)
-*Cantrip Transmutation (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 10 feet
-- Components: V, S
-- Duration: Up to 1 hour
+*Gọi năng lượng bậc 1 (Thuật sĩ, Pháp sư)*
 
-Bạn tạo ra một hiệu ứng phép thuật trong tầm đánh. Chọn hiệu ứng từ các lựa chọn dưới đây. Nếu bạn thi triển spell này nhiều lần, bạn có thể có tối đa ba hiệu ứng không tức thời của nó hoạt động cùng lúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-- **Sensory Effect.** Bạn tạo ra một hiệu ứng cảm giác tức thời, vô hại, chẳng hạn một trận mưa tia lửa, một luồng gió, những nốt nhạc mờ nhạt, hoặc một mùi lạ.
-- **Clean or Soil.** Bạn ngay lập tức thắp hoặc dập tắt một cây nến, đuốc, hoặc lửa trại nhỏ.
-- **Minor Sensation.** Bạn ngay lập tức làm sạch hoặc làm bẩn một object không lớn hơn 1 cubic foot.
-- **Magic Mark.** Bạn làm lạnh, làm ấm, hoặc tạo hương vị cho tối đa 1 cubic foot vật liệu vô tri trong 1 giờ.
-- **Minor Creation.** Bạn khiến một màu sắc, một dấu nhỏ, hoặc một biểu tượng xuất hiện trên một object hoặc bề mặt trong 1 giờ.
-- **Trinket.** Bạn tạo ra một vật nhỏ phi phép thuật hoặc một hình ảnh ảo ảnh có thể vừa trong tay bạn. Nó tồn tại cho đến hết turn tiếp theo của bạn. Một vật nhỏ không thể gây damage và không có giá trị tiền tệ.
+Bạn tạo ba mũi phi tiêu phát sáng bằng lực ma thuật. Mỗi mũi trúng một sinh vật tùy chọn bạn nhìn thấy trong tầm, gây 1d4 + 1 sát thương lực. Các mũi trúng cùng lúc, và bạn có thể nhắm chúng vào một hoặc nhiều sinh vật.
 
-### Tia Ngũ Sắc (Prismatic Spray)
-*Cấp độ 7 Evocation (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Instantaneous
+*Dùng ô phép bậc cao hơn.* Phép tạo thêm một mũi phi tiêu cho mỗi bậc ô phép trên 1.
 
-Tám tia sáng lóe lên từ bạn trong một 60-foot Cone. Mỗi creature trong Cone thực hiện một Dexterity saving throw. Với mỗi mục tiêu, tung 1d8 để xác định tia màu nào ảnh hưởng đến nó, tham khảo bảng **Prismatic Rays**.
+### Miệng ma thuật (Magic Mouth)
 
-**Prismatic Rays**
+*Ảo ảnh bậc 2 (Thi sĩ, Pháp sư)*
 
-| 1d8 | Ray |
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (bụi ngọc bích trị giá 10+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Bạn cài một thông điệp vào đồ vật trong tầm — thông điệp được nói ra khi điều kiện kích hoạt xảy ra. Chọn một đồ vật bạn nhìn thấy và không do sinh vật khác mặc hay mang. Sau đó nói thông điệp, tối đa 25 chữ, dù nó có thể được phát ra kéo dài tới 10 phút. Cuối cùng, xác định hoàn cảnh sẽ kích hoạt phép truyền thông điệp.
+
+Khi điều kiện kích hoạt xảy ra, một cái miệng ma thuật hiện lên trên đồ vật và nói lại thông điệp bằng giọng và âm lượng của bạn. Nếu đồ vật có miệng hoặc thứ trông như miệng (như miệng tượng), miệng ma thuật hiện ở đó để lời nói như phát ra từ miệng đồ vật. Khi thi triển, bạn có thể cho phép kết thúc sau khi truyền thông điệp, hoặc để nó duy trì và lặp lại thông điệp mỗi khi điều kiện xảy ra.
+
+Điều kiện kích hoạt có thể chung chung hay chi tiết tùy ý, nhưng phải dựa trên điều kiện nhìn thấy hoặc nghe thấy xảy ra trong phạm vi 9 m (30 feet) quanh đồ vật. Ví dụ, bạn có thể bảo miệng nói khi có sinh vật đến trong phạm vi 9 m (30 feet) quanh đồ vật, hoặc khi một chiếc chuông bạc reo trong phạm vi đó.
+
+### Vũ khí ma thuật (Magic Weapon)
+
+*Biến đổi bậc 2 (Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
+
+Bạn chạm vào một vũ khí không ma thuật. Cho đến khi phép kết thúc, vũ khí trở thành vũ khí ma thuật với +1 vào lần tung tấn công và lần tung sát thương. Phép kết thúc sớm nếu bạn thi triển lại.
+
+*Dùng ô phép bậc cao hơn.* Điểm cộng thành +2 với ô phép bậc 3–5, và +3 với ô phép bậc 6+.
+
+### Dinh thự tráng lệ (Magnificent Mansion)
+
+*Triệu hồi bậc 7 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 90 m (300 feet)
+- **Thành phần:** V, S, M (một cánh cửa thu nhỏ trị giá 15+ gp)
+- **Thời lượng:** 24 giờ
+
+Bạn gọi ra một cánh cửa lung linh trong tầm, tồn tại suốt thời lượng. Cửa rộng 1,5 m (5 feet), cao 3 m (10 feet), dẫn vào một dinh thự ngoài chiều không gian. Bạn và những sinh vật bạn chỉ định khi thi triển có thể vào dinh thự khi cửa mở. Bạn có thể mở hoặc đóng cửa (không cần hành động) nếu ở trong phạm vi 9 m (30 feet) quanh nó. Khi đóng, không thể nhận ra cánh cửa.
+
+Sau cửa là một tiền sảnh lộng lẫy với nhiều phòng phía sau. Không khí trong dinh thự sạch sẽ, trong lành và ấm áp.
+
+Bạn có thể tạo mặt bằng tùy ý, nhưng không vượt quá 50 khối lập phương 3 m (10 feet) liền nhau. Nơi này được trang trí và bày biện tùy bạn chọn, có đủ thức ăn cho một bữa tiệc chín món phục vụ tối đa 100 người. Đồ nội thất và đồ vật khác do phép tạo ra tan thành khói nếu bị mang ra ngoài.
+
+Một đội 100 người hầu gần như trong suốt phục vụ mọi người vào dinh thự. Bạn quyết định dáng vẻ và trang phục của họ. Họ không thể bị tổn thương và tuân lệnh bạn. Mỗi người hầu làm được những việc con người bình thường làm được, nhưng không thể tấn công hay làm bất cứ điều gì trực tiếp gây hại cho sinh vật khác. Họ có thể mang vác đồ, dọn dẹp, vá và gấp quần áo, nhóm lửa, dọn thức ăn, rót rượu, v.v. Người hầu không thể rời dinh thự.
+
+Khi phép kết thúc, mọi sinh vật hay đồ vật còn trong không gian ngoài chiều bị đẩy ra các chỗ trống gần lối vào nhất.
+
+### Ảo ảnh lớn (Major Image)
+
+*Ảo ảnh bậc 3 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một nhúm lông cừu)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn tạo hình ảnh của một đồ vật, sinh vật hoặc hiện tượng nhìn thấy được khác, không lớn hơn khối lập phương 6 m (20 feet). Hình ảnh xuất hiện tại một điểm bạn nhìn thấy trong tầm và tồn tại suốt thời lượng. Nó trông như thật, kể cả âm thanh, mùi và nhiệt độ phù hợp với thứ được mô phỏng, nhưng không thể gây sát thương hay trạng thái.
+
+Nếu ở trong tầm của ảo ảnh, bạn có thể dùng hành động Ma thuật để di chuyển hình ảnh đến điểm khác trong tầm. Khi hình ảnh đổi chỗ, bạn có thể thay đổi dáng vẻ để chuyển động trông tự nhiên. Ví dụ, nếu tạo hình ảnh một sinh vật rồi di chuyển nó, bạn có thể làm nó trông như đang bước đi. Tương tự, bạn có thể khiến ảo ảnh phát ra âm thanh khác nhau vào những lúc khác nhau, thậm chí trò chuyện.
+
+Tương tác vật lý với hình ảnh sẽ lộ ra nó là ảo ảnh, vì mọi thứ xuyên qua được. Sinh vật dùng hành động Nghiên cứu xem xét hình ảnh có thể nhận ra nó là ảo ảnh nếu thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Sinh vật nhận ra ảo ảnh có thể nhìn xuyên qua hình ảnh, và các đặc tính giác quan khác của nó trở nên mờ nhạt với sinh vật đó.
+
+*Dùng ô phép bậc cao hơn.* Nếu thi triển bằng ô phép bậc 4+, phép kéo dài đến khi bị giải trừ, không cần Tập trung.
+
+### Chữa vết thương hàng loạt (Mass Cure Wounds)
+
+*Phòng hộ bậc 5 (Thi sĩ, Giáo sĩ, Druid)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Một làn sóng năng lượng chữa lành lan ra từ một điểm bạn nhìn thấy trong tầm. Chọn tối đa sáu sinh vật trong hình cầu bán kính 9 m (30 feet) lấy điểm đó làm tâm. Mỗi mục tiêu hồi HP bằng 5d8 + hệ số thuộc tính thi triển phép của bạn.
+
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 1d8 cho mỗi bậc ô phép trên 5.
+
+### Chữa lành hàng loạt (Mass Heal)
+
+*Phòng hộ bậc 9 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Một dòng năng lượng chữa lành tuôn từ bạn vào các sinh vật xung quanh. Bạn hồi tổng cộng tối đa 700 HP, chia tùy ý cho bất kỳ số sinh vật nào bạn nhìn thấy trong tầm. Sinh vật được chữa lành bằng phép này cũng thoát khỏi trạng thái Mù, Điếc và Trúng độc.
+
+### Lời chữa lành hàng loạt (Mass Healing Word)
+
+*Phòng hộ bậc 3 (Thi sĩ, Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Tối đa sáu sinh vật tùy chọn bạn nhìn thấy trong tầm hồi HP bằng 2d4 + hệ số thuộc tính thi triển phép của bạn.
+
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 1d4 cho mỗi bậc ô phép trên 3.
+
+### Gợi ý hàng loạt (Mass Suggestion)
+
+*Yểm thuật bậc 6 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, M (lưỡi của một con rắn)
+- **Thời lượng:** 24 giờ
+
+Bạn gợi ý một chuỗi hành động — mô tả không quá 25 chữ — cho tối đa mười hai sinh vật bạn nhìn thấy trong tầm, nghe và hiểu được bạn. Lời gợi ý phải nghe có vẻ hợp lý và không liên quan đến việc hiển nhiên gây hại cho bất kỳ mục tiêu nào hay đồng minh của chúng. Ví dụ, bạn có thể nói: "Hãy đi bộ đến ngôi làng cuối con đường kia và giúp dân làng gặt lúa đến khi mặt trời lặn." Hoặc: "Giờ không phải lúc đánh nhau. Bỏ vũ khí xuống và nhảy múa đi! Một giờ sau thì dừng."
+
+Mỗi mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng hoặc đến khi bạn hay đồng minh gây sát thương lên nó. Mỗi mục tiêu bị Mê hoặc làm theo lời gợi ý hết khả năng. Hoạt động được gợi ý có thể kéo dài trọn thời lượng, nhưng nếu hoàn thành sớm hơn, phép kết thúc với mục tiêu khi nó hoàn thành.
+
+*Dùng ô phép bậc cao hơn.* Thời lượng dài hơn với ô phép bậc 7 (10 ngày), 8 (30 ngày) hoặc 9 (366 ngày).
+
+### Mê cung (Maze)
+
+*Triệu hồi bậc 8 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn đày một sinh vật bạn nhìn thấy trong tầm vào một bán diện dạng mê cung. Mục tiêu ở lại đó suốt thời lượng hoặc đến khi thoát khỏi mê cung.
+
+Mục tiêu có thể dùng hành động Nghiên cứu để cố thoát ra. Khi làm vậy, nó kiểm tra Trí tuệ (Điều tra) DC 20. Nếu thành công, nó thoát ra và phép kết thúc.
+
+Khi phép kết thúc, mục tiêu xuất hiện lại tại chỗ cũ hoặc, nếu chỗ đó bị chiếm, tại chỗ trống gần nhất.
+
+### Hòa vào đá (Meld into Stone)
+
+*Biến đổi bậc 3 (Giáo sĩ, Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 8 giờ
+
+Bạn bước vào một khối đá hoặc bề mặt đá đủ lớn để chứa trọn cơ thể, hòa bản thân cùng trang bị vào đá suốt thời lượng. Bạn phải chạm vào đá để làm vậy. Không còn dấu vết nào cho thấy sự hiện diện của bạn có thể nhìn thấy hay phát hiện bằng giác quan không ma thuật.
+
+Khi hòa vào đá, bạn không nhìn thấy gì bên ngoài, và mọi phép kiểm tra Minh triết (Tri giác) để nghe âm thanh bên ngoài đều chịu bất lợi. Bạn vẫn nhận biết thời gian trôi qua và có thể thi triển phép lên bản thân khi ở trong đá. Bạn có thể tiêu 1,5 m (5 feet) di chuyển để bước ra khỏi đá tại chỗ đã vào, chấm dứt phép. Ngoài ra bạn không thể di chuyển.
+
+Tổn hại nhỏ lên khối đá không ảnh hưởng đến bạn, nhưng phá hủy một phần hoặc thay đổi hình dạng của nó (đến mức bạn không còn vừa bên trong) sẽ đẩy bạn ra và gây 6d6 sát thương lực. Phá hủy hoàn toàn khối đá (hoặc biến nó thành chất khác) đẩy bạn ra và gây 50 sát thương lực. Nếu bị đẩy ra, bạn xuất hiện ở chỗ trống gần nhất với nơi đã vào và rơi vào trạng thái Ngã sấp.
+
+### Sửa chữa (Mending)
+
+*Phép sơ cấp Biến đổi (Thi sĩ, Giáo sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (hai viên đá nam châm)
+- **Thời lượng:** Tức thời
+
+Phép sửa một chỗ gãy hoặc rách duy nhất trên đồ vật bạn chạm vào, như mắt xích bị đứt, hai nửa chiếc chìa khóa gãy, áo choàng rách hay túi da đựng rượu bị rò. Miễn là chỗ gãy hoặc rách không quá 30 cm (1 foot) theo mọi chiều, bạn sửa lành nó, không để lại dấu vết hư hại.
+
+Phép có thể sửa chữa phần vật lý của vật phẩm ma thuật, nhưng không khôi phục được ma thuật của nó.
+
+### Tin nhắn (Message)
+
+*Phép sơ cấp Biến đổi (Thi sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** S, M (một sợi dây đồng)
+- **Thời lượng:** 1 vòng
+
+Bạn chỉ tay về phía một sinh vật trong tầm và thì thầm một thông điệp. Mục tiêu (và chỉ mục tiêu) nghe được thông điệp và có thể thì thầm trả lời mà chỉ bạn nghe thấy.
+
+Bạn có thể thi triển phép xuyên qua vật rắn nếu quen thuộc với mục tiêu và biết nó ở sau vật chắn. Sự im lặng ma thuật; 30 cm (1 foot) đá, kim loại hoặc gỗ; hoặc một lớp chì mỏng sẽ chặn phép.
+
+### Mưa thiên thạch (Meteor Swarm)
+
+*Gọi năng lượng bậc 9 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 1,6 km (1 mile)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Những quả cầu lửa rực cháy lao xuống mặt đất tại bốn điểm khác nhau bạn nhìn thấy trong tầm. Mỗi sinh vật trong hình cầu bán kính 12 m (40 feet) lấy mỗi điểm làm tâm cứu nguy Khéo léo, chịu 20d6 sát thương lửa và 20d6 sát thương đập nếu thất bại, hoặc một nửa nếu thành công. Sinh vật nằm trong nhiều hình cầu lửa chỉ chịu ảnh hưởng một lần.
+
+Đồ vật không ma thuật không có ai mặc hay mang trong vùng của phép cũng chịu sát thương, và bắt đầu bốc cháy nếu dễ cháy.
+
+### Khiên tâm trí (Mind Blank)
+
+*Phòng hộ bậc 8 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 24 giờ
+
+Cho đến khi phép kết thúc, một sinh vật tự nguyện bạn chạm vào miễn nhiễm sát thương tâm linh và trạng thái Mê hoặc. Mục tiêu cũng không chịu ảnh hưởng của bất cứ thứ gì dò cảm xúc hay khuynh hướng đạo đức, đọc suy nghĩ hay dùng ma thuật dò vị trí của nó, và không phép nào — kể cả *Ước nguyện* (Wish) — có thể thu thập thông tin về mục tiêu, quan sát nó từ xa hay điều khiển tâm trí nó.
+
+### Gai tâm trí (Mind Spike)
+
+*Tiên tri bậc 2 (Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn đâm một mũi gai năng lượng tâm linh vào tâm trí một sinh vật bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Minh triết, chịu 3d8 sát thương tâm linh nếu thất bại hoặc một nửa nếu thành công. Nếu thất bại, bạn còn luôn biết vị trí của mục tiêu cho đến khi phép kết thúc, nhưng chỉ khi cả hai ở cùng cõi tồn tại. Khi bạn nắm được điều này, mục tiêu không thể ẩn nấp khỏi bạn, và nếu ở trạng thái Vô hình, nó không được hưởng lợi từ trạng thái đó trước bạn.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 2.
+
+### Ảo ảnh nhỏ (Minor Illusion)
+
+*Phép sơ cấp Ảo ảnh (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** S, M (một nhúm lông cừu)
+- **Thời lượng:** 1 phút
+
+Bạn tạo một âm thanh hoặc hình ảnh một đồ vật trong tầm, tồn tại suốt thời lượng. Xem mô tả dưới đây để biết hiệu ứng từng loại. Ảo ảnh kết thúc nếu bạn thi triển lại phép.
+
+Nếu một sinh vật dùng hành động Nghiên cứu xem xét âm thanh hay hình ảnh, nó có thể nhận ra đó là ảo ảnh nếu thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Sinh vật nhận ra ảo ảnh sẽ thấy nó trở nên mờ nhạt.
+
+- **Âm thanh (Sound).** Nếu tạo âm thanh, âm lượng có thể từ lời thì thầm đến tiếng hét. Đó có thể là giọng bạn, giọng người khác, tiếng sư tử gầm, tiếng trống hay bất kỳ âm thanh nào khác. Âm thanh kéo dài liên tục suốt thời lượng, hoặc bạn có thể tạo những âm thanh rời rạc vào những lúc khác nhau trước khi phép kết thúc.
+- **Hình ảnh (Image).** Nếu tạo hình ảnh một đồ vật — như cái ghế, dấu chân lấm bùn hay chiếc rương nhỏ — nó không được lớn hơn khối lập phương 1,5 m (5 feet). Hình ảnh không phát ra âm thanh, ánh sáng, mùi hay hiệu ứng giác quan nào khác. Tương tác vật lý với hình ảnh sẽ lộ ra nó là ảo ảnh, vì mọi thứ xuyên qua được.
+
+### Ảo cảnh huyền bí (Mirage Arcane)
+
+*Ảo ảnh bậc 7 (Thi sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Tầm nhìn
+- **Thành phần:** V, S
+- **Thời lượng:** 10 ngày
+
+Bạn khiến địa hình trong khu vực rộng tối đa khoảng 2,6 km² (1 mile vuông) trông, nghe, có mùi và thậm chí sờ vào như một loại địa hình khác. Cánh đồng hay con đường có thể trông như đầm lầy, đồi, khe núi hay địa hình hiểm trở, không thể vượt qua. Một cái ao có thể trông như đồng cỏ, vách đá trông như dốc thoai thoải, khe núi lởm chởm đá trông như con đường rộng bằng phẳng.
+
+Tương tự, bạn có thể thay đổi dáng vẻ công trình hoặc thêm công trình vào nơi chưa có. Phép không ngụy trang, che giấu hay thêm sinh vật.
+
+Ảo ảnh gồm yếu tố thính giác, thị giác, xúc giác và khứu giác, nên có thể biến đất trống thành địa hình khó đi (hoặc ngược lại) hay cản trở việc di chuyển qua khu vực theo cách khác. Mọi mảnh địa hình ảo ảnh (như hòn đá hay cành cây) bị mang ra khỏi vùng của phép lập tức biến mất.
+
+Sinh vật có chân thị nhìn xuyên được ảo ảnh để thấy hình dạng thật của địa hình; tuy nhiên, mọi yếu tố khác của ảo ảnh vẫn còn, nên dù biết có ảo ảnh, sinh vật vẫn tương tác vật lý được với nó.
+
+### Hình ảnh phản chiếu (Mirror Image)
+
+*Ảo ảnh bậc 2 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 1 phút
+
+Ba bản sao ảo ảnh của bạn xuất hiện trong chỗ bạn đứng. Cho đến khi phép kết thúc, các bản sao di chuyển theo bạn, bắt chước hành động của bạn và liên tục đổi chỗ, khiến không thể biết đâu là bạn thật.
+
+Mỗi khi một sinh vật đánh trúng bạn bằng lần tung tấn công trong thời lượng của phép, tung một d6 cho mỗi bản sao còn lại. Nếu có viên nào ra 3 trở lên, một bản sao bị đánh trúng thay cho bạn và bị phá hủy. Ngoài ra, các bản sao bỏ qua mọi sát thương và hiệu ứng khác. Phép kết thúc khi cả ba bản sao bị phá hủy.
+
+Sinh vật không bị phép ảnh hưởng nếu đang ở trạng thái Mù, hoặc có cảm nhận mù hay chân thị.
+
+### Đánh lạc hướng (Mislead)
+
+*Ảo ảnh bậc 5 (Thi sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn rơi vào trạng thái Vô hình, cùng lúc một bản sao ảo ảnh của bạn xuất hiện ở chỗ bạn đứng. Bản sao tồn tại suốt thời lượng, nhưng trạng thái vô hình kết thúc ngay khi bạn tung tấn công, gây sát thương hoặc thi triển phép.
+
+Bằng hành động Ma thuật, bạn có thể di chuyển bản sao tối đa gấp đôi Tốc độ của bạn và khiến nó ra hiệu, nói năng và cư xử theo ý bạn. Bản sao phi vật chất và không thể bị tổn thương.
+
+Bạn có thể nhìn qua mắt và nghe qua tai bản sao như thể đang ở chỗ của nó.
+
+### Bước sương (Misty Step)
+
+*Triệu hồi bậc 2 (Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Thoáng được sương mù bạc bao phủ, bạn dịch chuyển tức thời tối đa 9 m (30 feet) đến một chỗ trống bạn nhìn thấy.
+
+### Chỉnh sửa ký ức (Modify Memory)
+
+*Yểm thuật bậc 5 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn cố nhào nặn lại ký ức của một sinh vật khác. Một sinh vật bạn nhìn thấy trong tầm cứu nguy Minh triết, có lợi thế nếu bạn đang giao chiến với nó. Nếu thất bại, mục tiêu rơi vào trạng thái Mê hoặc suốt thời lượng. Khi bị Mê hoặc theo cách này, mục tiêu cũng ở trạng thái Mất năng lực hành động và không nhận biết xung quanh, dù vẫn nghe được bạn. Nếu nó chịu bất kỳ sát thương nào hoặc bị phép khác nhắm vào, phép này kết thúc và không ký ức nào bị sửa.
+
+Khi bùa mê còn hiệu lực, bạn có thể tác động đến ký ức của mục tiêu về một sự kiện nó trải qua trong 24 giờ qua và kéo dài không quá 10 phút. Bạn có thể xóa vĩnh viễn mọi ký ức về sự kiện, cho phép mục tiêu nhớ lại sự kiện rõ ràng hoàn hảo, thay đổi ký ức về các chi tiết, hoặc tạo ký ức về một sự kiện khác.
+
+Bạn phải nói với mục tiêu để mô tả ký ức bị thay đổi thế nào, và nó phải hiểu ngôn ngữ của bạn để ký ức mới bén rễ. Tâm trí nó tự lấp những chỗ trống trong mô tả của bạn. Nếu phép kết thúc trước khi bạn mô tả xong, ký ức của sinh vật không thay đổi. Nếu không, ký ức mới bén rễ khi phép kết thúc.
+
+Ký ức bị sửa không nhất thiết ảnh hưởng đến cách sinh vật hành xử, nhất là khi nó mâu thuẫn với bản tính, khuynh hướng đạo đức hay niềm tin của sinh vật. Ký ức phi lý, như ký ức giả về việc sinh vật thích bơi trong axit đến thế nào, bị coi là cơn ác mộng và bị gạt bỏ. GM có thể cho rằng một ký ức bị sửa quá vô lý để ảnh hưởng đến sinh vật.
+
+Phép *Phục hồi cao cấp* (Greater Restoration) hoặc *Gỡ lời nguyền* (Remove Curse) thi triển lên mục tiêu sẽ khôi phục ký ức thật.
+
+*Dùng ô phép bậc cao hơn.* Bạn có thể sửa ký ức của mục tiêu về sự kiện xảy ra tối đa 7 ngày trước (ô bậc 6), 30 ngày trước (ô bậc 7), 365 ngày trước (ô bậc 8), hoặc bất kỳ lúc nào trong quá khứ của sinh vật (ô bậc 9).
+
+### Tia trăng (Moonbeam)
+
+*Gọi năng lượng bậc 2 (Druid)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một lá cây dây trăng — moonseed)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Một chùm sáng bạc nhạt rọi xuống trong hình trụ bán kính 1,5 m (5 feet), cao 12 m (40 feet) lấy một điểm trong tầm làm tâm. Cho đến khi phép kết thúc, ánh sáng yếu tràn ngập hình trụ, và bạn có thể dùng hành động Ma thuật ở các lượt sau để di chuyển hình trụ tối đa 18 m (60 feet).
+
+Khi hình trụ xuất hiện, mỗi sinh vật bên trong cứu nguy Thể chất. Nếu thất bại, sinh vật chịu 2d10 sát thương quang, và nếu đang biến hình (chẳng hạn do phép *Biến hình* — Polymorph), nó trở lại dạng thật và không thể biến hình cho đến khi rời hình trụ. Nếu thành công, sinh vật chỉ chịu một nửa sát thương. Sinh vật cũng cứu nguy như vậy khi vùng của phép di chuyển vào chỗ của nó, khi nó đi vào vùng của phép hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 2.
+
+### Dịch chuyển đất (Move Earth)
+
+*Biến đổi bậc 6 (Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một cái xẻng nhỏ xíu)
+- **Thời lượng:** Tập trung, tối đa 2 giờ
+
+Chọn một khu vực địa hình mỗi cạnh không quá 12 m (40 feet) trong tầm. Suốt thời lượng, bạn có thể nhào nặn đất, cát hoặc đất sét trong khu vực theo ý muốn. Bạn có thể nâng hoặc hạ độ cao khu vực, đào hoặc lấp hào, dựng hoặc san phẳng tường, hoặc tạo cột trụ. Mức thay đổi không vượt quá một nửa chiều lớn nhất của khu vực. Ví dụ, nếu tác động một khu vực vuông 12 m (40 feet), bạn có thể dựng cột cao tới 6 m (20 feet), nâng hay hạ độ cao khu vực tới 6 m (20 feet), đào hào sâu tới 6 m (20 feet), v.v. Các thay đổi mất 10 phút để hoàn tất. Vì địa hình biến đổi chậm, sinh vật trong khu vực thường không bị kẹt hay bị thương do mặt đất chuyển động.
+
+Cuối mỗi 10 phút bạn duy trì Tập trung vào phép, bạn có thể chọn một khu vực địa hình mới trong tầm để tác động.
+
+Phép không thể thao túng đá tự nhiên hay công trình bằng đá. Đá và công trình dịch chuyển theo địa hình mới. Nếu cách bạn nhào nặn địa hình khiến công trình mất ổn định, nó có thể sụp đổ.
+
+Tương tự, phép không trực tiếp ảnh hưởng đến sự sinh trưởng của cây cối. Đất bị di chuyển mang theo cây cối trên nó.
+
+### Vô hiệu dò tìm (Nondetection)
+
+*Phòng hộ bậc 3 (Thi sĩ, Kiểm lâm, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một nhúm bột kim cương trị giá 25+ gp, bị phép tiêu hao)
+- **Thời lượng:** 8 giờ
+
+Trong suốt thời lượng, bạn che giấu mục tiêu mình chạm vào khỏi phép Tiên tri. Mục tiêu có thể là sinh vật tự nguyện, hoặc một nơi chốn hay đồ vật không quá 3 m (10 feet) theo mọi chiều. Mục tiêu không thể bị phép Tiên tri nhắm vào hay bị cảm nhận qua cảm biến dò xét ma thuật.
+
+### Xuyên tường (Passwall)
+
+*Biến đổi bậc 5 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một nhúm hạt vừng)
+- **Thời lượng:** 1 giờ
+
+Một lối đi xuất hiện tại một điểm bạn nhìn thấy trên bề mặt gỗ, vữa hoặc đá (như tường, trần hay sàn) trong tầm và tồn tại suốt thời lượng. Bạn chọn kích thước lối mở: rộng tối đa 1,5 m (5 feet), cao 2,4 m (8 feet) và sâu 6 m (20 feet). Lối đi không làm công trình xung quanh mất ổn định.
+
+Khi lối mở biến mất, mọi sinh vật hay đồ vật còn trong lối đi bị đẩy ra an toàn đến chỗ trống gần bề mặt nơi bạn thi triển nhất.
+
+### Không dấu vết (Pass without Trace)
+
+*Phòng hộ bậc 2 (Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (tro của cành tầm gửi đã đốt)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn tỏa ra hào quang che giấu trong vùng tỏa 9 m (30 feet) suốt thời lượng. Khi ở trong hào quang, bạn và mỗi sinh vật tùy chọn được +10 khi kiểm tra Khéo léo (Lén lút) và không để lại dấu vết.
+
+### Lực ảo ảnh (Phantasmal Force)
+
+*Ảo ảnh bậc 2 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một nhúm lông cừu)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn cố gieo một ảo ảnh vào tâm trí một sinh vật bạn nhìn thấy trong tầm. Mục tiêu cứu nguy Trí tuệ. Nếu thất bại, bạn tạo ra một đồ vật, sinh vật hay hiện tượng ảo không lớn hơn khối lập phương 3 m (10 feet), chỉ mục tiêu cảm nhận được, suốt thời lượng. Ảo ảnh gồm cả âm thanh, nhiệt độ và các cảm giác khác.
+
+Mục tiêu có thể dùng hành động Nghiên cứu xem xét ảo ảnh bằng phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Nếu thành công, mục tiêu nhận ra đó là ảo ảnh, và phép kết thúc.
+
+Khi chịu ảnh hưởng của phép, mục tiêu coi ảo ảnh là thật và tự lý giải mọi kết quả phi lý khi tương tác với nó. Ví dụ, nếu mục tiêu bước lên cây cầu ảo rồi sống sót sau cú rơi, nó tin cây cầu có thật và thứ gì khác đã khiến nó ngã.
+
+Mục tiêu bị ảnh hưởng thậm chí có thể chịu sát thương từ ảo ảnh nếu ảo ảnh là sinh vật hay mối nguy. Mỗi lượt của bạn, ảo ảnh như vậy có thể gây 2d8 sát thương tâm linh lên mục tiêu nếu nó ở trong vùng ảo ảnh hoặc trong phạm vi 1,5 m (5 feet) quanh ảo ảnh. Mục tiêu cảm nhận sát thương đó như loại phù hợp với ảo ảnh.
+
+### Kẻ giết chóc ảo ảnh (Phantasmal Killer)
+
+*Ảo ảnh bậc 4 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn khai thác ác mộng của một sinh vật bạn nhìn thấy trong tầm và tạo ảo ảnh về nỗi sợ sâu thẳm nhất của nó, chỉ nó thấy được. Mục tiêu cứu nguy Minh triết. Nếu thất bại, mục tiêu chịu 4d10 sát thương tâm linh và chịu bất lợi khi kiểm tra thuộc tính và tung tấn công suốt thời lượng. Nếu thành công, mục tiêu chỉ chịu một nửa sát thương, và phép kết thúc.
+
+Trong suốt thời lượng, mục tiêu cứu nguy Minh triết vào cuối mỗi lượt. Nếu thất bại, nó lại chịu sát thương tâm linh như trên. Nếu thành công, phép kết thúc.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d10 cho mỗi bậc ô phép trên 4.
+
+### Chiến mã ảo ảnh (Phantom Steed)
+
+*Ảo ảnh bậc 3 (Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
+
+Một sinh vật như ngựa cỡ Lớn, nửa thực nửa ảo, xuất hiện trên mặt đất tại một chỗ trống tùy chọn trong tầm. Bạn quyết định dáng vẻ của nó, và nó được trang bị yên, hàm thiếc và dây cương. Mọi trang bị do phép tạo ra tan thành làn khói nếu bị mang xa quá 3 m (10 feet) khỏi chiến mã.
+
+Trong suốt thời lượng, bạn hoặc một sinh vật tùy chọn có thể cưỡi chiến mã. Chiến mã dùng khối thông số Ngựa cưỡi (Riding Horse, xem [Động vật](13-Animals.md)), trừ việc nó có Tốc độ 30 m (100 feet) và có thể đi 20,8 km (13 mile) trong một giờ. Khi phép kết thúc, chiến mã dần tan biến, cho người cưỡi 1 phút để xuống ngựa. Phép kết thúc sớm nếu chiến mã chịu bất kỳ sát thương nào.
+
+### Đồng minh liên cõi (Planar Ally)
+
+*Triệu hồi bậc 6 (Giáo sĩ)*
+
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn khẩn cầu một thực thể dị giới giúp đỡ. Thực thể phải là kẻ bạn biết: một vị thần, một hoàng tử quỷ (demon prince) hay quyền năng vũ trụ khác. Thực thể phái một Thiên thể, Nguyên tố hoặc Ác quỷ trung thành với nó đến giúp bạn, xuất hiện tại một chỗ trống trong tầm. Nếu biết tên cụ thể của một sinh vật, bạn có thể gọi tên khi thi triển để yêu cầu sinh vật đó, dù vẫn có thể nhận sinh vật khác (GM chọn).
+
+Khi sinh vật xuất hiện, nó không bị buộc phải hành xử theo cách nào. Bạn có thể nhờ nó làm một việc để đổi lấy thù lao, nhưng nó không bắt buộc nhận lời. Việc được nhờ có thể đơn giản (chở chúng tôi bay qua vực, hoặc giúp chúng tôi đánh trận này) hoặc phức tạp (do thám kẻ thù, hoặc bảo vệ chúng tôi khi thám hiểm hầm ngục). Bạn phải giao tiếp được với sinh vật để mặc cả.
+
+Thù lao có nhiều dạng. Thiên thể có thể đòi khoản quyên góp lớn bằng vàng hay vật phẩm ma thuật cho một đền thờ đồng minh, còn Ác quỷ có thể đòi vật hiến tế sống hoặc một món báu vật. Một số sinh vật đổi sự giúp đỡ lấy một nhiệm vụ do bạn thực hiện.
+
+Việc tính bằng phút cần thù lao 100 gp mỗi phút. Việc tính bằng giờ cần 1.000 gp mỗi giờ. Việc tính bằng ngày (tối đa 10 ngày) cần 10.000 gp mỗi ngày. GM có thể điều chỉnh tùy hoàn cảnh thi triển. Nếu việc phù hợp với lý tưởng của sinh vật, thù lao có thể giảm một nửa hoặc được miễn. Việc không nguy hiểm thường chỉ cần một nửa thù lao đề xuất, còn việc đặc biệt nguy hiểm có thể đòi món quà lớn hơn. Sinh vật hiếm khi nhận những việc có vẻ tự sát.
+
+Sau khi hoàn thành nhiệm vụ, hoặc khi hết thời hạn phục vụ đã thỏa thuận, sinh vật trở về cõi quê nhà sau khi báo cáo với bạn nếu có thể. Nếu không thỏa thuận được giá, sinh vật lập tức trở về cõi quê nhà.
+
+### Trói buộc liên cõi (Planar Binding)
+
+*Phòng hộ bậc 5 (Thi sĩ, Giáo sĩ, Druid, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một viên đá quý trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** 24 giờ
+
+Bạn cố trói buộc một Thiên thể, Nguyên tố, Tiên hoặc Ác quỷ phục vụ mình. Sinh vật phải ở trong tầm suốt quá trình thi triển. (Thông thường, sinh vật được triệu gọi vào giữa một *Vòng tròn ma thuật* — Magic Circle — đảo ngược để bẫy nó trong lúc thi triển phép này.) Khi thi triển xong, mục tiêu phải thành công cứu nguy Sức hút, nếu không bị trói buộc phục vụ bạn suốt thời lượng. Nếu sinh vật được triệu gọi hoặc tạo ra bởi phép khác, thời lượng của phép đó được kéo dài bằng thời lượng phép này.
+
+Sinh vật bị trói buộc phải tuân lệnh bạn hết khả năng. Bạn có thể ra lệnh cho nó theo bạn phiêu lưu, canh gác một nơi hoặc đưa tin. Nếu sinh vật Thù địch, nó cố xoay chuyển mệnh lệnh để đạt mục đích riêng. Nếu hoàn thành trọn vẹn mệnh lệnh trước khi phép kết thúc, nó đến chỗ bạn báo cáo nếu hai bên ở cùng cõi tồn tại. Nếu bạn ở cõi khác, nó trở về nơi bị trói buộc và ở đó cho đến khi phép kết thúc.
+
+*Dùng ô phép bậc cao hơn.* Thời lượng tăng với ô phép bậc 6 (10 ngày), 7 (30 ngày), 8 (180 ngày) và 9 (366 ngày).
+
+### Dịch chuyển liên cõi (Plane Shift)
+
+*Triệu hồi bậc 7 (Giáo sĩ, Druid, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một thanh kim loại chạc đôi trị giá 250+ gp, cộng hưởng với một cõi tồn tại)
+- **Thời lượng:** Tức thời
+
+Bạn cùng tối đa tám sinh vật tự nguyện nắm tay thành vòng tròn được đưa sang một cõi tồn tại khác. Bạn có thể chỉ định nơi đến chung chung, như một thành phố cụ thể ở Cõi Nguyên tố Lửa hay một cung điện ở tầng hai của Cửu Ngục (Nine Hells), và bạn xuất hiện tại hoặc gần nơi đó, tùy GM.
+
+Hoặc, nếu biết chuỗi ký hiệu của một vòng dịch chuyển ở cõi khác, phép có thể đưa bạn đến vòng đó. Nếu vòng dịch chuyển quá nhỏ để chứa mọi sinh vật được đưa đi, họ xuất hiện ở các chỗ trống gần vòng nhất.
+
+### Tăng trưởng thực vật (Plant Growth)
+
+*Biến đổi bậc 3 (Thi sĩ, Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động (Um tùm) hoặc 8 giờ (Làm màu mỡ)
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Phép truyền sức sống vào cây cỏ. Thời gian thi triển quyết định phép có hiệu ứng Um tùm hay Làm màu mỡ dưới đây.
+
+- **Um tùm (Overgrowth).** Chọn một điểm trong tầm. Mọi cây cỏ bình thường trong hình cầu bán kính 30 m (100 feet) lấy điểm đó làm tâm trở nên rậm rạp, chằng chịt. Sinh vật di chuyển qua khu vực phải tốn gấp bốn lượng di chuyển (4 m cho mỗi 1 m). Bạn có thể loại trừ một hoặc nhiều khu vực với kích cỡ bất kỳ trong vùng của phép.
+- **Làm màu mỡ (Enrichment).** Mọi cây cỏ trong bán kính 800 m (nửa mile) lấy một điểm trong tầm làm tâm được làm màu mỡ trong 365 ngày. Cây trồng cho sản lượng gấp đôi khi thu hoạch. Mỗi năm chúng chỉ được hưởng lợi ích này một lần.
+
+### Phun độc (Poison Spray)
+
+*Phép sơ cấp Tử linh (Druid, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn phun một luồng sương độc vào một sinh vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d12 sát thương độc.
+
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d12 khi bạn đạt cấp 5 (2d12), 11 (3d12) và 17 (4d12).
+
+### Biến hình (Polymorph)
+
+*Biến đổi bậc 4 (Thi sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một cái kén sâu bướm)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn cố biến một sinh vật bạn nhìn thấy trong tầm thành Thú. Mục tiêu phải thành công cứu nguy Minh triết, nếu không biến thành dạng Thú suốt thời lượng. Dạng đó có thể là bất kỳ Thú nào tùy chọn có Mức thách thức bằng hoặc thấp hơn của mục tiêu (hoặc bằng cấp của mục tiêu nếu nó không có Mức thách thức). Chỉ số của mục tiêu được thay bằng khối thông số của Thú đã chọn, nhưng mục tiêu giữ khuynh hướng đạo đức, tính cách, loại sinh vật, HP và xúc xắc sinh lực. Xem [Động vật](13-Animals.md) để có các khối thông số Thú mẫu.
+
+Mục tiêu nhận số điểm sinh lực tạm thời bằng HP của dạng Thú. Số điểm tạm thời còn lại biến mất khi phép kết thúc. Phép kết thúc sớm với mục tiêu nếu nó hết điểm sinh lực tạm thời.
+
+Hành động của mục tiêu bị giới hạn bởi cơ thể dạng mới, và nó không thể nói hay thi triển phép.
+
+Trang bị của mục tiêu hòa vào dạng mới. Sinh vật không thể dùng hay hưởng lợi từ bất kỳ trang bị nào trong số đó.
+
+### Quyền ngôn chữa lành (Power Word Heal)
+
+*Yểm thuật bậc 9 (Thi sĩ, Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Một làn sóng năng lượng chữa lành tràn qua một sinh vật bạn nhìn thấy trong tầm. Mục tiêu hồi toàn bộ HP. Nếu sinh vật đang ở trạng thái Mê hoặc, Hoảng sợ, Tê liệt, Trúng độc hoặc Choáng, trạng thái đó kết thúc. Nếu đang Ngã sấp, nó có thể dùng phản ứng để đứng dậy.
+
+### Quyền ngôn giết chết (Power Word Kill)
+
+*Yểm thuật bậc 9 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Bạn ra lệnh cho một sinh vật bạn nhìn thấy trong tầm phải chết. Nếu mục tiêu có 100 HP trở xuống, nó chết. Nếu không, nó chịu 12d12 sát thương tâm linh.
+
+### Quyền ngôn làm choáng (Power Word Stun)
+
+*Yểm thuật bậc 8 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Bạn áp đảo tâm trí một sinh vật bạn nhìn thấy trong tầm. Nếu mục tiêu có 150 HP trở xuống, nó rơi vào trạng thái Choáng. Nếu không, Tốc độ của nó bằng 0 cho đến đầu lượt kế tiếp của bạn.
+
+Mục tiêu bị Choáng cứu nguy Thể chất vào cuối mỗi lượt của nó, chấm dứt trạng thái lên bản thân nếu thành công.
+
+### Lời cầu chữa lành (Prayer of Healing)
+
+*Phòng hộ bậc 2 (Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Tối đa năm sinh vật tùy chọn ở trong tầm suốt quá trình thi triển nhận lợi ích của một lần nghỉ ngắn và hồi thêm 2d8 HP. Sinh vật không thể chịu ảnh hưởng của phép này lần nữa cho đến khi hoàn thành nghỉ dài.
+
+*Dùng ô phép bậc cao hơn.* Lượng hồi tăng 1d8 cho mỗi bậc ô phép trên 2.
+
+### Tiểu xảo ma thuật (Prestidigitation)
+
+*Phép sơ cấp Biến đổi (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tối đa 1 giờ
+
+Bạn tạo một hiệu ứng ma thuật trong tầm. Chọn hiệu ứng trong các lựa chọn dưới đây. Nếu thi triển phép nhiều lần, bạn có thể duy trì tối đa ba hiệu ứng không tức thời cùng lúc.
+
+- **Hiệu ứng giác quan (Sensory Effect).** Bạn tạo một hiệu ứng giác quan tức thời, vô hại, như mưa tia lửa, một làn gió thoảng, vài nốt nhạc khe khẽ hay một mùi hương lạ.
+- **Đùa với lửa (Fire Play).** Bạn lập tức thắp hoặc dập tắt một ngọn nến, ngọn đuốc hay đống lửa trại nhỏ.
+- **Lau sạch hoặc làm bẩn (Clean or Soil).** Bạn lập tức làm sạch hoặc làm bẩn một đồ vật không lớn hơn 28 lít (1 foot khối).
+- **Cảm giác nhỏ (Minor Sensation).** Bạn làm lạnh, làm ấm hoặc tạo hương vị cho tối đa 28 lít (1 foot khối) vật chất vô tri trong 1 giờ.
+- **Dấu ấn ma thuật (Magic Mark).** Bạn khiến một màu sắc, vết dấu nhỏ hay biểu tượng hiện lên trên đồ vật hoặc bề mặt trong 1 giờ.
+- **Tạo vật nhỏ (Minor Creation).** Bạn tạo một món đồ lặt vặt không ma thuật hoặc một hình ảnh ảo vừa lòng bàn tay. Nó tồn tại đến hết lượt kế tiếp của bạn. Món đồ không thể gây sát thương và không có giá trị tiền bạc.
+
+### Tia ngũ sắc (Prismatic Spray)
+
+*Gọi năng lượng bậc 7 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Tám tia sáng lóe ra từ bạn trong hình nón 18 m (60 feet). Mỗi sinh vật trong hình nón cứu nguy Khéo léo. Với mỗi mục tiêu, tung 1d8 để xác định tia màu nào tác động lên nó, theo bảng **Tia ngũ sắc**.
+
+**Tia ngũ sắc (Prismatic Rays)**
+
+| 1d8 | Tia |
 |---|---|
-| 1 | Red. Nếu thất bại: 12d6 damage Fire. Nếu thành công: một nửa lượng damage đó. |
-| 2 | Orange. Nếu thất bại: 12d6 damage Acid. Nếu thành công: một nửa lượng damage đó. |
-| 3 | Yellow. Nếu thất bại: 12d6 damage Lightning. Nếu thành công: một nửa lượng damage đó. |
-| 4 | Green. Nếu thất bại: 12d6 damage Poison. Nếu thành công: một nửa lượng damage đó. |
-| 5 | Blue. Nếu thất bại: 12d6 damage Cold. Nếu thành công: một nửa lượng damage đó. |
-| 6 | Indigo. Nếu thất bại: Mục tiêu có condition Restrained và thực hiện một Constitution saving throw vào cuối mỗi turn của nó. Nếu thành công ba lần, condition kết thúc. Nếu thất bại ba lần, nó có condition Petrified cho đến khi được giải thoát bởi một hiệu ứng như spell Greater Restoration. Các lần thành công và thất bại không cần liên tiếp; hãy theo dõi cả hai cho đến khi mục tiêu đạt ba lần cùng loại. |
-| 7 | Violet. Nếu thất bại: Mục tiêu có condition Blinded và thực hiện một Wisdom saving throw vào đầu turn tiếp theo của bạn. Nếu thành công, condition kết thúc. Nếu thất bại, condition kết thúc, và creature dịch chuyển đến một plane tồn tại khác (GM chọn). |
-| 8 | Special. Mục tiêu bị đánh trúng bởi hai tia. Tung lại hai lần, tung lại bất kỳ kết quả 8 nào. |
+| 1 | Đỏ. Thất bại: 12d6 sát thương lửa. Thành công: một nửa sát thương. |
+| 2 | Cam. Thất bại: 12d6 sát thương axit. Thành công: một nửa sát thương. |
+| 3 | Vàng. Thất bại: 12d6 sát thương sét. Thành công: một nửa sát thương. |
+| 4 | Lục. Thất bại: 12d6 sát thương độc. Thành công: một nửa sát thương. |
+| 5 | Lam. Thất bại: 12d6 sát thương lạnh. Thành công: một nửa sát thương. |
+| 6 | Chàm. Thất bại: Mục tiêu rơi vào trạng thái Kiềm giữ và cứu nguy Thể chất vào cuối mỗi lượt. Nếu thành công ba lần, trạng thái kết thúc. Nếu thất bại ba lần, nó rơi vào trạng thái Hóa đá cho đến khi được giải thoát bằng hiệu ứng như phép *Phục hồi cao cấp* (Greater Restoration). Các lần thành công và thất bại không cần liên tiếp; đếm cả hai đến khi một loại đạt ba lần. |
+| 7 | Tím. Thất bại: Mục tiêu rơi vào trạng thái Mù và cứu nguy Minh triết vào đầu lượt kế tiếp của bạn. Nếu thành công, trạng thái kết thúc. Nếu thất bại, trạng thái kết thúc và sinh vật bị dịch chuyển tức thời sang một cõi tồn tại khác (GM chọn). |
+| 8 | Đặc biệt. Mục tiêu trúng hai tia. Tung lại hai lần, tung lại nếu ra 8. |
 
-### Bức Tường Ngũ Sắc (Prismatic Wall)
-*Cấp độ 9 Abjuration (Bard, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: 10 phút
+### Tường ngũ sắc (Prismatic Wall)
 
-Một mặt phẳng ánh sáng lấp lánh, nhiều màu tạo thành một bức tường thẳng đứng không trong suốt — dài tới 90 feet, cao 30 feet, và dày 1 inch — có tâm tại một điểm trong tầm đánh. Ngoài ra, bạn định hình bức tường thành một quả cầu đường kính tới 30 feet có tâm tại một điểm trong tầm đánh. Bức tường tồn tại trong suốt thời lượng. Nếu bạn đặt bức tường vào một không gian đã bị một creature chiếm giữ, spell kết thúc ngay lập tức mà không có hiệu ứng.
+*Phòng hộ bậc 9 (Thi sĩ, Pháp sư)*
 
-Bức tường tỏa Bright Light trong vòng 100 feet và Dim Light thêm 100 feet nữa. Bạn và các creature bạn chỉ định khi thi triển spell có thể đi qua và ở gần bức tường mà không bị hại. Nếu một creature khác có thể nhìn thấy bức tường di chuyển trong vòng 20 feet của nó hoặc bắt đầu turn ở đó, creature đó phải thành công trong một Constitution saving throw hoặc có condition Blinded trong 1 phút.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 10 phút
 
-Bức tường gồm bảy lớp, mỗi lớp một màu khác nhau. Khi một creature với tay vào hoặc đi qua bức tường, nó làm vậy từng lớp một qua tất cả các lớp. Mỗi lớp buộc creature thực hiện một Dexterity saving throw hoặc bị ảnh hưởng bởi thuộc tính của lớp đó như mô tả trong bảng **Prismatic Layers**.
+Một mặt phẳng ánh sáng lung linh nhiều màu tạo thành bức tường thẳng đứng không trong suốt — dài tối đa 27 m (90 feet), cao 9 m (30 feet), dày 2,5 cm (1 inch) — lấy một điểm trong tầm làm tâm. Hoặc, bạn tạo bức tường thành quả cầu đường kính tối đa 9 m (30 feet) lấy một điểm trong tầm làm tâm. Bức tường tồn tại suốt thời lượng. Nếu bạn đặt tường vào chỗ có sinh vật chiếm, phép kết thúc ngay mà không có tác dụng.
 
-Bức tường, có AC 10, có thể bị phá hủy từng lớp một, theo thứ tự từ đỏ đến tím, bằng các phương tiện cụ thể cho mỗi lớp. Nếu một lớp bị phá hủy, nó biến mất trong suốt thời lượng. Antimagic Field không có tác dụng lên bức tường, và Dispel Magic chỉ có thể ảnh hưởng đến lớp tím.
+Bức tường tỏa ánh sáng rõ trong phạm vi 30 m (100 feet) và ánh sáng yếu thêm 30 m (100 feet). Bạn và các sinh vật bạn chỉ định khi thi triển có thể đi qua và ở gần bức tường mà không bị hại. Nếu một sinh vật khác nhìn thấy bức tường đến trong phạm vi 6 m (20 feet) quanh nó hoặc bắt đầu lượt ở đó, sinh vật phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Mù trong 1 phút.
 
-**Prismatic Layers**
+Bức tường gồm bảy lớp, mỗi lớp một màu. Khi sinh vật thò tay vào hoặc đi qua tường, nó lần lượt đi qua từng lớp. Mỗi lớp buộc sinh vật cứu nguy Khéo léo, nếu không chịu tác dụng của lớp đó như mô tả trong bảng **Các lớp ngũ sắc**.
 
-| Order | Effects |
+Bức tường có AC 10 và có thể bị phá từng lớp một, theo thứ tự từ đỏ đến tím, bằng cách riêng cho mỗi lớp. Lớp bị phá biến mất suốt thời lượng. *Trường phản ma thuật* (Antimagic Field) không có tác dụng với bức tường, và *Giải trừ ma thuật* (Dispel Magic) chỉ tác động được lớp tím.
+
+**Các lớp ngũ sắc (Prismatic Layers)**
+
+| Thứ tự | Hiệu ứng |
 |---|---|
-| 1 | Red. Nếu thất bại: 12d6 damage Fire. Nếu thành công: một nửa lượng damage đó. Hiệu ứng bổ sung: Ranged attack phi phép thuật không thể xuyên qua lớp này, bị phá hủy nếu nhận ít nhất 25 damage Cold. |
-| 2 | Orange. Nếu thất bại: 12d6 damage Acid. Nếu thành công: một nửa lượng damage đó. Hiệu ứng bổ sung: Ranged attack phép thuật không thể xuyên qua lớp này, bị phá hủy bởi gió mạnh (chẳng hạn gió được tạo bởi Gust of Wind). |
-| 3 | Yellow. Nếu thất bại: 12d6 damage Lightning. Nếu thành công: một nửa lượng damage đó. Hiệu ứng bổ sung: Lớp này bị phá hủy nếu nhận ít nhất 60 damage Force. |
-| 4 | Green. Nếu thất bại: 12d6 damage Poison. Nếu thành công: một nửa lượng damage đó. Hiệu ứng bổ sung: Một spell Passwall, hoặc một spell khác cấp độ bằng hoặc cao hơn có thể mở một portal trên bề mặt rắn, phá hủy lớp này. |
-| 5 | Blue. Nếu thất bại: 12d6 damage Cold. Nếu thành công: một nửa lượng damage đó. Hiệu ứng bổ sung: Lớp này bị phá hủy nếu nhận ít nhất 25 damage Fire. |
-| 6 | Indigo. Nếu thất bại: Mục tiêu có condition Restrained và thực hiện một Constitution saving throw vào cuối mỗi turn của nó. Nếu thành công ba lần, condition kết thúc. Nếu thất bại ba lần, nó có condition Petrified cho đến khi được giải thoát bởi một hiệu ứng như spell Greater Restoration. Các lần thành công và thất bại không cần liên tiếp; hãy theo dõi cả hai cho đến khi mục tiêu đạt ba lần cùng loại. Hiệu ứng bổ sung: Spell không thể được thi triển qua lớp này, bị phá hủy bởi Bright Light tỏa ra từ spell Daylight. |
-| 7 | Violet. Nếu thất bại: Mục tiêu có condition Blinded và thực hiện một Wisdom saving throw vào đầu turn tiếp theo của bạn. Nếu thành công, condition kết thúc. Nếu thất bại, condition kết thúc, và creature dịch chuyển đến một plane tồn tại khác (GM chọn). Hiệu ứng bổ sung: Lớp này bị phá hủy bởi Dispel Magic. |
+| 1 | Đỏ. Thất bại: 12d6 sát thương lửa. Thành công: một nửa sát thương. Hiệu ứng thêm: Đòn tấn công tầm xa không ma thuật không xuyên qua lớp này; lớp bị phá nếu chịu ít nhất 25 sát thương lạnh. |
+| 2 | Cam. Thất bại: 12d6 sát thương axit. Thành công: một nửa sát thương. Hiệu ứng thêm: Đòn tấn công tầm xa bằng ma thuật không xuyên qua lớp này; lớp bị phá bởi gió mạnh (như gió của *Cơn gió lốc* — Gust of Wind). |
+| 3 | Vàng. Thất bại: 12d6 sát thương sét. Thành công: một nửa sát thương. Hiệu ứng thêm: Lớp bị phá nếu chịu ít nhất 60 sát thương lực. |
+| 4 | Lục. Thất bại: 12d6 sát thương độc. Thành công: một nửa sát thương. Hiệu ứng thêm: Phép *Xuyên tường* (Passwall), hoặc phép khác cùng bậc trở lên có thể mở lối trên bề mặt rắn, phá được lớp này. |
+| 5 | Lam. Thất bại: 12d6 sát thương lạnh. Thành công: một nửa sát thương. Hiệu ứng thêm: Lớp bị phá nếu chịu ít nhất 25 sát thương lửa. |
+| 6 | Chàm. Thất bại: Mục tiêu rơi vào trạng thái Kiềm giữ và cứu nguy Thể chất vào cuối mỗi lượt. Nếu thành công ba lần, trạng thái kết thúc. Nếu thất bại ba lần, nó rơi vào trạng thái Hóa đá cho đến khi được giải thoát bằng hiệu ứng như *Phục hồi cao cấp*. Các lần thành công và thất bại không cần liên tiếp; đếm cả hai đến khi một loại đạt ba lần. Hiệu ứng thêm: Không thể thi triển phép xuyên qua lớp này; lớp bị phá bởi ánh sáng rõ của phép *Ánh sáng ban ngày* (Daylight). |
+| 7 | Tím. Thất bại: Mục tiêu rơi vào trạng thái Mù và cứu nguy Minh triết vào đầu lượt kế tiếp của bạn. Nếu thành công, trạng thái kết thúc. Nếu thất bại, trạng thái kết thúc và sinh vật bị dịch chuyển tức thời sang một cõi tồn tại khác (GM chọn). Hiệu ứng thêm: Lớp bị phá bởi *Giải trừ ma thuật*. |
 
-### Thánh Địa Riêng (Private Sanctum)
-*Cấp độ 4 Abjuration (Wizard)*
-- Casting Time: 10 phút
-- Range: 120 feet
-- Components: V, S, M (một tấm chì mỏng)
-- Duration: 24 hours
+### Thánh địa riêng (Private Sanctum)
 
-Bạn khiến một khu vực trong tầm đánh an toàn bằng phép thuật. Khu vực là một Cube có thể nhỏ tới 5 feet hoặc lớn tới 100 feet mỗi cạnh. Spell kéo dài trong suốt thời lượng.
+*Phòng hộ bậc 4 (Pháp sư)*
 
-Khi thi triển spell, bạn quyết định loại an ninh mà spell cung cấp, chọn bất kỳ thuộc tính nào sau đây:
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một tấm chì mỏng)
+- **Thời lượng:** 24 giờ
 
-- Âm thanh không thể xuyên qua rào chắn ở rìa khu vực được bảo vệ.
-- Rào chắn của khu vực được bảo vệ trông tối và mờ sương, ngăn cản tầm nhìn (kể cả Darkvision) xuyên qua nó.
-- Các cảm biến được tạo bởi spell Divination không thể xuất hiện bên trong khu vực được bảo vệ hoặc xuyên qua rào chắn ở chu vi của nó.
-- Các creature trong khu vực không thể bị nhắm bởi spell Divination.
-- Không có gì có thể dịch chuyển vào hoặc ra khỏi khu vực được bảo vệ.
-- Du hành liên plane bị chặn bên trong khu vực được bảo vệ.
+Bạn dùng ma thuật bảo vệ một khu vực trong tầm. Khu vực là khối lập phương cạnh từ 1,5 m (5 feet) đến 30 m (100 feet). Phép kéo dài suốt thời lượng.
 
-*Using a Higher-Level Spell Slot:* Thi triển spell này bằng cùng một ô phép thuật mỗi ngày trong 365 ngày khiến spell kéo dài cho đến khi bị dispel. Bạn có thể tăng kích thước của Cube thêm 100 feet cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+Khi thi triển, bạn chọn các hình thức bảo vệ mà phép mang lại, có thể chọn bất kỳ thuộc tính nào sau:
 
-### Tạo Lửa (Produce Flame)
-*Cantrip Conjuration (Druid)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V, S
-- Duration: 10 phút
+- Âm thanh không xuyên qua được lớp chắn ở rìa khu vực.
+- Lớp chắn của khu vực trông tối và mờ sương, ngăn tầm nhìn (kể cả thị giác bóng tối) xuyên qua.
+- Cảm biến do phép Tiên tri tạo ra không thể xuất hiện trong khu vực hoặc xuyên qua lớp chắn bao quanh.
+- Sinh vật trong khu vực không thể bị phép Tiên tri nhắm vào.
+- Không gì có thể dịch chuyển tức thời vào hay ra khỏi khu vực.
+- Du hành liên cõi bị chặn trong khu vực.
 
-Một ngọn lửa nhấp nháy xuất hiện trong tay bạn và tồn tại ở đó trong suốt thời lượng. Khi ở đó, ngọn lửa không tỏa nhiệt và không đốt cháy bất cứ thứ gì, và nó tỏa Bright Light trong bán kính 20 feet và Dim Light thêm 20 feet nữa. Spell kết thúc nếu bạn thi triển nó lần nữa.
+*Dùng ô phép bậc cao hơn.* Thi triển phép này bằng cùng một bậc ô phép mỗi ngày trong 365 ngày khiến phép kéo dài đến khi bị giải trừ. Bạn có thể tăng cạnh khối lập phương thêm 30 m (100 feet) cho mỗi bậc ô phép trên 4.
 
-Cho đến khi phép thuật kết thúc, bạn có thể thực hiện Magic action để ném lửa vào một creature hoặc object trong vòng 60 feet của bạn. Thực hiện một ranged spell attack. Nếu trúng, mục tiêu nhận 1d8 damage Fire.
+### Tạo lửa (Produce Flame)
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+*Phép sơ cấp Triệu hồi (Druid)*
 
-### Ảo Ảnh Lập Trình (Programmed Illusion)
-*Cấp độ 6 Illusion (Bard, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (bụi ngọc bích trị giá 25+ GP)
-- Duration: Until dispelled
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 10 phút
 
-Bạn tạo ra một ảo ảnh về một object, một creature, hoặc một hiện tượng có thể nhìn thấy khác trong tầm đánh kích hoạt khi một điều kiện kích hoạt cụ thể xảy ra. Ảo ảnh không thể nhận thấy được cho đến lúc đó. Nó không được lớn hơn một Cube 30-foot, và bạn quyết định khi thi triển spell ảo ảnh hành xử như thế nào và tạo ra âm thanh gì. Màn trình diễn theo kịch bản này có thể kéo dài tới 5 phút.
+Một ngọn lửa bập bùng xuất hiện trong tay bạn và ở đó suốt thời lượng. Khi ở trong tay, ngọn lửa không tỏa nhiệt, không đốt cháy gì, và tỏa ánh sáng rõ trong bán kính 6 m (20 feet) cùng ánh sáng yếu thêm 6 m (20 feet). Phép kết thúc nếu bạn thi triển lại.
 
-Khi điều kiện kích hoạt bạn chỉ định xảy ra, ảo ảnh bừng lên và trình diễn theo cách bạn đã mô tả. Khi ảo ảnh trình diễn xong, nó biến mất và ở trạng thái ngủ trong 10 phút, sau đó ảo ảnh có thể được kích hoạt lại.
+Cho đến khi phép kết thúc, bạn có thể dùng hành động Ma thuật ném lửa vào một sinh vật hoặc đồ vật trong phạm vi 18 m (60 feet). Tung tấn công tầm xa bằng phép. Nếu trúng, mục tiêu chịu 1d8 sát thương lửa.
 
-Điều kiện kích hoạt có thể chung chung hoặc chi tiết tùy bạn thích, dù nó phải dựa trên hiện tượng thị giác hoặc thính giác xảy ra trong vòng 30 feet của khu vực. Ví dụ, bạn có thể tạo một ảo ảnh về chính bạn xuất hiện để cảnh báo những người khác cố mở một cánh cửa có bẫy.
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 
-Tương tác vật lý với hình ảnh tiết lộ nó là ảo ảnh, vì mọi thứ có thể xuyên qua nó. Một creature thực hiện action Study để kiểm tra hình ảnh có thể xác định nó là một ảo ảnh bằng một Intelligence (Investigation) check thành công chống lại spell save DC của bạn. Nếu một creature nhận ra ảo ảnh là gì, creature có thể nhìn xuyên qua hình ảnh, và bất kỳ tiếng động nào nó tạo ra nghe rỗng tuếch đối với creature đó.
+### Ảo ảnh lập trình (Programmed Illusion)
 
-### Phóng Chiếu Hình Ảnh (Project Image)
-*Cấp độ 7 Illusion (Bard, Wizard)*
-- Casting Time: Action
-- Range: 500 dặm
-- Components: V, S, M (một bức tượng nhỏ của chính bạn trị giá 5+ GP)
-- Duration: Concentration, up to 1 day
+*Ảo ảnh bậc 6 (Thi sĩ, Pháp sư)*
 
-Bạn tạo ra một bản sao ảo ảnh của chính mình tồn tại trong suốt thời lượng. Bản sao có thể xuất hiện tại bất kỳ địa điểm nào trong tầm đánh mà bạn đã từng thấy trước đây, bất kể chướng ngại vật ở giữa. Ảo ảnh trông và nghe giống bạn, nhưng nó phi vật chất. Nếu ảo ảnh nhận bất kỳ damage nào, nó biến mất, và spell kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (bụi ngọc bích trị giá 25+ gp)
+- **Thời lượng:** Đến khi bị giải trừ
 
-Bạn có thể nhìn qua mắt ảo ảnh và nghe qua tai nó như thể bạn đang ở không gian của nó. Như một Magic action, bạn có thể di chuyển nó tối đa 60 feet và khiến nó ra cử chỉ, nói, và hành xử theo bất kỳ cách nào bạn chọn. Nó bắt chước hoàn hảo phong thái của bạn.
+Bạn tạo ảo ảnh một đồ vật, sinh vật hay hiện tượng nhìn thấy được khác trong tầm, kích hoạt khi một điều kiện cụ thể xảy ra. Trước đó ảo ảnh không thể bị phát hiện. Nó không được lớn hơn khối lập phương 9 m (30 feet), và khi thi triển bạn quyết định ảo ảnh hành xử ra sao và phát ra âm thanh gì. Màn trình diễn theo kịch bản này kéo dài tối đa 5 phút.
 
-Tương tác vật lý với hình ảnh tiết lộ nó là ảo ảnh, vì mọi thứ có thể xuyên qua nó. Một creature thực hiện action Study để kiểm tra hình ảnh có thể xác định nó là một ảo ảnh bằng một Intelligence (Investigation) check thành công chống lại spell save DC của bạn. Nếu một creature nhận ra ảo ảnh là gì, creature có thể nhìn xuyên qua hình ảnh, và bất kỳ tiếng động nào nó tạo ra nghe rỗng tuếch đối với creature đó.
+Khi điều kiện kích hoạt xảy ra, ảo ảnh hiện ra và trình diễn đúng như bạn đã mô tả. Khi trình diễn xong, ảo ảnh biến mất và ngủ yên trong 10 phút, sau đó có thể kích hoạt lại.
 
-### Chống Năng Lượng (Protection from Energy)
-*Cấp độ 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 hour
+Điều kiện kích hoạt có thể chung chung hay chi tiết tùy ý, nhưng phải dựa trên hiện tượng nhìn thấy hoặc nghe thấy xảy ra trong phạm vi 9 m (30 feet) quanh khu vực. Ví dụ, bạn có thể tạo ảo ảnh chính mình hiện ra cảnh báo kẻ cố mở một cánh cửa có bẫy.
 
-Trong suốt thời lượng, creature tự nguyện bạn chạm vào có Resistance với một loại damage theo lựa chọn của bạn: Acid, Cold, Fire, Lightning, hoặc Thunder.
+Tương tác vật lý với hình ảnh sẽ lộ ra nó là ảo ảnh, vì mọi thứ xuyên qua được. Sinh vật dùng hành động Nghiên cứu xem xét hình ảnh có thể nhận ra nó là ảo ảnh nếu thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Sinh vật nhận ra ảo ảnh có thể nhìn xuyên qua hình ảnh, và mọi âm thanh nó phát ra nghe trống rỗng với sinh vật đó.
 
-### Chống Thiện Ác (Protection from Evil and Good)
-*Cấp độ 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một bình Holy Water trị giá 25+ GP, bị phép thuật tiêu thụ)
-- Duration: Concentration up to 10 minutes
+### Phóng chiếu hình ảnh (Project Image)
 
-Cho đến khi phép thuật kết thúc, một creature tự nguyện bạn chạm vào được bảo vệ chống lại các creature thuộc loại Aberration, Celestial, Elemental, Fey, Fiend, hoặc Undead.
+*Ảo ảnh bậc 7 (Thi sĩ, Pháp sư)*
 
-Sự bảo vệ mang lại một số lợi ích. Các creature thuộc các loại đó có Disadvantage trên attack roll nhắm vào mục tiêu. Mục tiêu cũng không thể bị chiếm hữu bởi hoặc nhận condition Charmed hay Frightened từ chúng. Nếu mục tiêu đã bị chiếm hữu, Charmed, hoặc Frightened bởi một creature như vậy, mục tiêu có Advantage trên bất kỳ saving throw mới nào chống lại hiệu ứng liên quan.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 800 km (500 mile)
+- **Thành phần:** V, S, M (một bức tượng nhỏ hình chính bạn trị giá 5+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 ngày
 
-### Chống Độc (Protection from Poison)
-*Cấp độ 2 Abjuration (Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: 1 giờ
+Bạn tạo một bản sao ảo ảnh của mình, tồn tại suốt thời lượng. Bản sao có thể xuất hiện ở bất kỳ nơi nào trong tầm mà bạn từng thấy, bất kể chướng ngại ở giữa. Ảo ảnh trông và nghe giống bạn nhưng phi vật chất. Nếu ảo ảnh chịu bất kỳ sát thương nào, nó biến mất và phép kết thúc.
 
-Bạn chạm vào một creature và kết thúc condition Poisoned trên nó. Trong suốt thời lượng, mục tiêu có Advantage trên saving throw để tránh hoặc kết thúc condition Poisoned, và nó có Resistance với damage Poison.
+Bạn có thể nhìn qua mắt và nghe qua tai ảo ảnh như thể đang ở chỗ của nó. Bằng hành động Ma thuật, bạn có thể di chuyển nó tối đa 18 m (60 feet) và khiến nó ra hiệu, nói năng và cư xử theo ý bạn. Nó bắt chước phong thái của bạn hoàn hảo.
 
-### Thanh Lọc Thức Ăn và Nước Uống (Purify Food and Drink)
-*Cấp độ 1 Transmutation (Cleric, Druid, Paladin)*
-- Casting Time: Action hoặc Ritual
-- Range: 10 feet
-- Components: V, S
-- Duration: Instantaneous
+Tương tác vật lý với hình ảnh sẽ lộ ra nó là ảo ảnh, vì mọi thứ xuyên qua được. Sinh vật dùng hành động Nghiên cứu xem xét hình ảnh có thể nhận ra nó là ảo ảnh nếu thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Sinh vật nhận ra ảo ảnh có thể nhìn xuyên qua hình ảnh, và mọi âm thanh nó phát ra nghe trống rỗng với sinh vật đó.
 
-Bạn loại bỏ chất độc và sự thối rữa khỏi thức ăn và nước uống phi phép thuật trong một Sphere bán kính 5-foot có tâm tại một điểm trong tầm đánh.
+### Bảo vệ khỏi năng lượng (Protection from Energy)
 
-### Hồi Sinh (Raise Dead)
-*Cấp độ 5 Necromancy (Bard, Cleric, Paladin)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (một viên kim cương trị giá 500+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+*Phòng hộ bậc 3 (Giáo sĩ, Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-Bằng một cú chạm, bạn hồi sinh một creature đã chết nếu nó đã chết không quá 10 ngày và nó không phải Undead khi chết.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Creature trở lại sự sống với 1 Hit Point. Spell này cũng trung hòa bất kỳ chất độc nào ảnh hưởng đến creature vào thời điểm chết.
+Trong suốt thời lượng, sinh vật tự nguyện bạn chạm vào kháng một loại sát thương tùy chọn: axit, lạnh, lửa, sét hoặc sấm.
 
-Spell này đóng tất cả các vết thương chí mạng, nhưng nó không khôi phục các bộ phận cơ thể bị mất. Nếu creature thiếu các bộ phận cơ thể hoặc cơ quan thiết yếu cho sự sống còn của nó — chẳng hạn đầu — spell tự động thất bại.
+### Chống thiện ác (Protection from Evil and Good)
 
-Trở về từ cõi chết là một thử thách. Mục tiêu chịu penalty −4 vào D20 Test. Mỗi lần mục tiêu hoàn thành một Long Rest, penalty giảm 1 cho đến khi nó bằng 0.
+*Phòng hộ bậc 1 (Giáo sĩ, Druid, Thánh kỵ sĩ, Warlock, Pháp sư)*
 
-### Tia Suy Yếu (Ray of Enfeeblement)
-*Cấp độ 2 Necromancy (Warlock, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một bình Nước thánh trị giá 25+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Một tia năng lượng làm suy nhược phóng từ bạn về phía một creature trong tầm đánh. Mục tiêu phải thực hiện một Constitution saving throw. Nếu thành công, mục tiêu có Disadvantage trên attack roll tiếp theo của nó cho đến khi bắt đầu turn tiếp theo của bạn.
+Cho đến khi phép kết thúc, một sinh vật tự nguyện bạn chạm vào được bảo vệ trước sinh vật thuộc loại Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống.
 
-Nếu thất bại, mục tiêu có Disadvantage trên D20 Test dựa trên Strength trong suốt thời lượng. Trong thời gian đó, nó cũng trừ 1d8 khỏi tất cả damage roll của mình. Mục tiêu lặp lại save vào cuối mỗi turn của nó, kết thúc spell nếu thành công.
+Sự bảo vệ mang lại nhiều lợi ích. Sinh vật thuộc các loại đó chịu bất lợi khi tung tấn công nhắm vào mục tiêu. Mục tiêu cũng không thể bị chúng chiếm hữu, Mê hoặc hay làm Hoảng sợ. Nếu mục tiêu đã bị sinh vật như vậy chiếm hữu, Mê hoặc hay làm Hoảng sợ, nó có lợi thế ở mọi lần cứu nguy mới chống hiệu ứng liên quan.
 
-### Tia Sương Giá (Ray of Frost)
-*Cantrip Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+### Chống độc (Protection from Poison)
 
-Một tia sáng lạnh giá màu xanh trắng phóng về phía một creature trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, nó nhận 1d8 damage Cold, và Speed của nó giảm 10 feet cho đến khi bắt đầu turn tiếp theo của bạn.
+*Phòng hộ bậc 2 (Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** 1 giờ
 
-### Tái Sinh (Regenerate)
-*Cấp độ 7 Transmutation (Bard, Cleric, Druid)*
-- Casting Time: 1 phút
-- Range: Touch
-- Components: V, S, M (một bánh xe cầu nguyện)
-- Duration: 1 giờ
+Bạn chạm vào một sinh vật và chấm dứt trạng thái Trúng độc trên nó. Trong suốt thời lượng, mục tiêu có lợi thế khi cứu nguy để tránh hoặc chấm dứt trạng thái Trúng độc, và kháng sát thương độc.
 
-Một creature bạn chạm vào phục hồi 4d8 + 15 Hit Points. Trong suốt thời lượng, mục tiêu phục hồi 1 Hit Point vào đầu mỗi turn của nó, và bất kỳ bộ phận cơ thể nào bị đứt lìa mọc lại sau 2 phút.
+### Thanh lọc thức ăn và nước uống (Purify Food and Drink)
 
-### Tia Bệnh Tật (Ray of Sickness)
-*Cấp độ 1 Necromancy (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+*Biến đổi bậc 1 (Giáo sĩ, Druid, Thánh kỵ sĩ)*
 
-Bạn bắn một tia xanh lục về phía một creature trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 2d8 damage Poison và có condition Poisoned cho đến hết turn tiếp theo của bạn.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+Bạn loại bỏ chất độc và sự ôi thiu khỏi thức ăn và đồ uống không ma thuật trong hình cầu bán kính 1,5 m (5 feet) lấy một điểm trong tầm làm tâm.
 
-### Đầu Thai (Reincarnate)
-*Cấp độ 5 Necromancy (Druid)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (dầu hiếm trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+### Gọi người chết dậy (Raise Dead)
 
-Bạn chạm vào một Humanoid đã chết hoặc một phần của nó. Nếu creature đã chết không quá 10 ngày, spell tạo ra một thân xác mới cho nó và gọi linh hồn nhập vào thân xác đó. Tung 1d10 và tham khảo bảng dưới đây để xác định species của thân xác, hoặc GM chọn một species khả dụng khác.
+*Tử linh bậc 5 (Thi sĩ, Giáo sĩ, Thánh kỵ sĩ)*
 
-| 1d10 | Species | 1d10 | Species |
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên kim cương trị giá 500+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
+
+Bằng một cú chạm, bạn hồi sinh một sinh vật đã chết nếu nó chết chưa quá 10 ngày và không phải Xác sống khi chết.
+
+Sinh vật sống lại với 1 HP. Phép cũng hóa giải mọi chất độc đang ảnh hưởng sinh vật lúc chết.
+
+Phép khép mọi vết thương chí mạng nhưng không khôi phục bộ phận cơ thể bị mất. Nếu sinh vật thiếu bộ phận hay cơ quan thiết yếu cho sự sống — như cái đầu — phép tự động thất bại.
+
+Trở về từ cõi chết là thử thách gian nan. Mục tiêu bị −4 ở các phép thử d20. Mỗi khi mục tiêu hoàn thành nghỉ dài, điểm trừ giảm 1 cho đến khi về 0.
+
+### Tia suy yếu (Ray of Enfeeblement)
+
+*Tử linh bậc 2 (Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Một tia năng lượng làm kiệt sức phóng từ bạn về phía một sinh vật trong tầm. Mục tiêu phải cứu nguy Thể chất. Nếu thành công, mục tiêu chịu bất lợi ở lần tung tấn công kế tiếp trước đầu lượt kế tiếp của bạn.
+
+Nếu thất bại, mục tiêu chịu bất lợi ở các phép thử d20 dựa trên Sức mạnh suốt thời lượng. Trong thời gian đó, nó cũng trừ 1d8 khỏi mọi lần tung sát thương. Mục tiêu lặp lại lần cứu nguy cuối mỗi lượt, chấm dứt phép nếu thành công.
+
+### Tia băng giá (Ray of Frost)
+
+*Phép sơ cấp Gọi năng lượng (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Một tia sáng xanh trắng lạnh giá phóng về phía một sinh vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, nó chịu 1d8 sát thương lạnh, và Tốc độ giảm 3 m (10 feet) cho đến đầu lượt kế tiếp của bạn.
+
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
+
+### Tái sinh (Regenerate)
+
+*Biến đổi bậc 7 (Thi sĩ, Giáo sĩ, Druid)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một bánh xe cầu nguyện)
+- **Thời lượng:** 1 giờ
+
+Một sinh vật bạn chạm vào hồi 4d8 + 15 HP. Trong suốt thời lượng, mục tiêu hồi 1 HP vào đầu mỗi lượt, và mọi bộ phận cơ thể bị đứt lìa mọc lại sau 2 phút.
+
+### Tia bệnh tật (Ray of Sickness)
+
+*Tử linh bậc 1 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn bắn một tia xanh lục về phía một sinh vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 2d8 sát thương độc và rơi vào trạng thái Trúng độc cho đến hết lượt kế tiếp của bạn.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 1.
+
+### Đầu thai (Reincarnate)
+
+*Tử linh bậc 5 (Druid)*
+
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (dầu quý trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
+
+Bạn chạm vào một Hình người đã chết hoặc một phần thi thể của nó. Nếu sinh vật chết chưa quá 10 ngày, phép tạo một cơ thể mới và gọi linh hồn nhập vào. Tung 1d10 và tra bảng dưới đây để xác định giống loài của cơ thể, hoặc GM chọn một giống loài chơi được khác.
+
+| 1d10 | Giống loài | 1d10 | Giống loài |
 |---|---|---|---|
 | 1 | Tung lại. | 6 | Goliath |
 | 2 | Dragonborn | 7 | Halfling |
-| 3 | Dwarf | 8 | Human |
+| 3 | Người lùn | 8 | Con người |
 | 4 | Elf | 9 | Orc |
 | 5 | Gnome | 10 | Tiefling |
 
-Creature được đầu thai thực hiện bất kỳ lựa chọn nào mà mô tả của species đưa ra, và creature nhớ lại kiếp trước của nó. Nó giữ lại các khả năng nó có ở hình dạng gốc, ngoại trừ nó mất các trait của species trước đó và nhận các trait của species mới.
+Sinh vật được đầu thai đưa ra mọi lựa chọn mà mô tả giống loài yêu cầu, và nhớ kiếp trước. Nó giữ các năng lực có ở dạng cũ, trừ việc mất đặc điểm của giống loài cũ và nhận đặc điểm của giống loài mới.
 
-### Xóa Bỏ Lời Nguyền (Remove Curse)
-*Cấp độ 3 Abjuration (Cleric, Paladin, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+### Gỡ lời nguyền (Remove Curse)
 
-Khi bạn chạm vào, tất cả các lời nguyền ảnh hưởng đến một creature hoặc object kết thúc. Nếu object là một magic item bị nguyền, lời nguyền của nó vẫn còn, nhưng spell phá vỡ Attunement của chủ sở hữu với object đó để nó có thể được tháo ra hoặc vứt bỏ.
+*Phòng hộ bậc 3 (Giáo sĩ, Thánh kỵ sĩ, Warlock, Pháp sư)*
 
-### Cầu Kiên Cố (Resilient Sphere)
-*Cấp độ 4 Abjuration (Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một quả cầu thủy tinh)
-- Duration: Concentration, up to 1 minute
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Một quả cầu lấp lánh bao bọc một creature hoặc object kích thước Large trở xuống trong tầm đánh. Một creature bất đắc dĩ phải thành công trong một Dexterity saving throw hoặc bị bao bọc trong suốt thời lượng.
+Khi bạn chạm vào, mọi lời nguyền đang ảnh hưởng một sinh vật hoặc đồ vật chấm dứt. Nếu đồ vật là vật phẩm ma thuật bị nguyền, lời nguyền của nó vẫn còn, nhưng phép phá vỡ sự hòa hợp của chủ nhân với vật phẩm để có thể tháo ra hoặc vứt bỏ.
 
-Không có gì — không object vật lý, năng lượng, hay hiệu ứng spell khác — có thể xuyên qua rào chắn, vào hoặc ra, dù một creature trong quả cầu có thể thở ở đó. Quả cầu miễn nhiễm với tất cả damage, và một creature hoặc object bên trong không thể bị gây damage bởi các cuộc tấn công hoặc hiệu ứng xuất phát từ bên ngoài, cũng như một creature bên trong quả cầu không thể gây damage cho bất cứ thứ gì bên ngoài nó.
+### Cầu kiên cố (Resilient Sphere)
 
-Quả cầu không có trọng lượng và chỉ vừa đủ lớn để chứa creature hoặc object bên trong. Một creature bị bao bọc có thể thực hiện một action để đẩy vào thành quả cầu và do đó lăn quả cầu với tốc độ tối đa bằng một nửa Speed của creature. Tương tự, quả cầu có thể được nhặt lên và di chuyển bởi các creature khác.
+*Phòng hộ bậc 4 (Pháp sư)*
 
-Một spell Disintegrate nhắm vào quả cầu phá hủy nó mà không gây hại cho bất cứ thứ gì bên trong.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một quả cầu thủy tinh)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Kháng Cự (Resistance)
-*Cantrip Abjuration (Cleric, Druid)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Một quả cầu lung linh bao bọc một sinh vật hoặc đồ vật cỡ Lớn trở xuống trong tầm. Sinh vật không tự nguyện phải thành công cứu nguy Khéo léo, nếu không bị bao bọc suốt thời lượng.
 
-Bạn chạm vào một creature tự nguyện và chọn một loại damage: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, hoặc Thunder. Khi creature nhận damage loại đã chọn trước khi spell kết thúc, creature giảm tổng damage nhận được đi 1d4. Một creature chỉ có thể hưởng lợi từ spell này một lần mỗi turn.
+Không gì — vật thể, năng lượng hay hiệu ứng phép — xuyên qua được lớp chắn, dù vào hay ra, nhưng sinh vật trong quả cầu vẫn thở được. Quả cầu miễn nhiễm mọi sát thương, và sinh vật hay đồ vật bên trong không thể bị sát thương bởi đòn tấn công hay hiệu ứng xuất phát từ bên ngoài, cũng như sinh vật bên trong không thể gây sát thương ra bên ngoài.
 
-### Hồi Sinh Hoàn Toàn (Resurrection)
-*Cấp độ 7 Necromancy (Bard, Cleric)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (một viên kim cương trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+Quả cầu không có trọng lượng và vừa đủ lớn để chứa thứ bên trong. Sinh vật bị bao bọc có thể dùng một hành động đẩy vào thành cầu để lăn nó đi với tốc độ tối đa một nửa Tốc độ của sinh vật. Tương tự, sinh vật khác có thể nhấc và di chuyển quả cầu.
 
-Bằng một cú chạm, bạn hồi sinh một creature đã chết không quá một thế kỷ, không chết vì tuổi già, và không phải Undead khi chết.
+Phép *Phân rã* (Disintegrate) nhắm vào quả cầu phá hủy nó mà không làm hại thứ bên trong.
 
-Creature trở lại sự sống với đầy đủ Hit Points. Spell này cũng trung hòa bất kỳ chất độc nào ảnh hưởng đến creature vào thời điểm chết. Spell này đóng tất cả các vết thương chí mạng và khôi phục bất kỳ bộ phận cơ thể nào bị mất.
+### Chống chịu (Resistance)
 
-Trở về từ cõi chết là một thử thách. Mục tiêu chịu penalty −4 vào D20 Test. Mỗi lần mục tiêu hoàn thành một Long Rest, penalty giảm 1 cho đến khi nó bằng 0.
+*Phép sơ cấp Phòng hộ (Giáo sĩ, Druid)*
 
-Thi triển spell này để hồi sinh một creature đã chết từ 365 ngày trở lên gây tổn hại cho bạn. Cho đến khi hoàn thành một Long Rest, bạn không thể thi triển spell lần nữa, và bạn có Disadvantage trên D20 Test.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Đảo Ngược Trọng Lực (Reverse Gravity)
-*Cấp độ 7 Transmutation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 100 feet
-- Components: V, S, M (một nam châm đá và mạt sắt)
-- Duration: Concentration, up to 1 minute
+Bạn chạm vào một sinh vật tự nguyện và chọn một loại sát thương: axit, đập, lạnh, lửa, sét, hoại tử, xuyên, độc, quang, chém hoặc sấm. Khi sinh vật chịu sát thương loại đã chọn trước khi phép kết thúc, nó giảm tổng sát thương đi 1d4. Mỗi lượt sinh vật chỉ hưởng lợi từ phép này một lần.
 
-Spell này đảo ngược trọng lực trong một Cylinder bán kính 50-foot, cao 100-foot có tâm tại một điểm trong tầm đánh. Tất cả các creature và object trong khu vực đó không được neo vào mặt đất rơi lên trên và đến đỉnh Cylinder. Một creature có thể thực hiện một Dexterity saving throw để nắm lấy một object cố định trong tầm với, do đó tránh cú rơi lên trên.
+### Phục sinh (Resurrection)
 
-Nếu gặp một trần nhà hoặc một object được neo trong cú rơi lên trên này, các creature và object va vào nó giống như khi rơi xuống. Nếu một creature hoặc object bị ảnh hưởng đến đỉnh Cylinder mà không va vào gì, nó lơ lửng ở đó trong suốt thời lượng. Khi phép thuật kết thúc, các object và creature bị ảnh hưởng rơi xuống.
+*Tử linh bậc 7 (Thi sĩ, Giáo sĩ)*
 
-### Hồi Sinh Nhanh (Revivify)
-*Cấp độ 3 Necromancy (Cleric, Druid, Paladin, Ranger)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một viên kim cương trị giá 300+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên kim cương trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-Bạn chạm vào một creature đã chết trong vòng phút vừa qua. Creature đó hồi sinh với 1 Hit Point. Spell này không thể hồi sinh một creature đã chết vì tuổi già, cũng không khôi phục bất kỳ bộ phận cơ thể nào bị mất.
+Bằng một cú chạm, bạn hồi sinh một sinh vật đã chết chưa quá một thế kỷ, không chết vì già, và không phải Xác sống khi chết.
 
-### Mẹo Dây Thừng (Rope Trick)
-*Cấp độ 2 Transmutation (Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một đoạn dây thừng)
-- Duration: 1 giờ
+Sinh vật sống lại với đầy HP. Phép cũng hóa giải mọi chất độc đang ảnh hưởng sinh vật lúc chết, khép mọi vết thương chí mạng và khôi phục mọi bộ phận cơ thể bị mất.
 
-Bạn chạm vào một sợi dây thừng. Một đầu của nó bay lên cho đến khi sợi dây treo vuông góc với mặt đất hoặc chạm đến trần nhà. Ở đầu trên của sợi dây, một cổng Invisible rộng 3-foot-bởi-5-foot mở ra một không gian ngoại chiều tồn tại cho đến khi spell kết thúc. Không gian đó có thể được tiếp cận bằng cách leo lên sợi dây, có thể được kéo vào hoặc thả ra khỏi đó.
+Trở về từ cõi chết là thử thách gian nan. Mục tiêu bị −4 ở các phép thử d20. Mỗi khi mục tiêu hoàn thành nghỉ dài, điểm trừ giảm 1 cho đến khi về 0.
 
-Không gian có thể chứa tối đa tám creature kích thước Medium trở xuống. Các cuộc tấn công, spell, và hiệu ứng khác không thể xuyên vào hoặc ra khỏi không gian, nhưng các creature bên trong có thể nhìn xuyên qua cổng. Bất cứ thứ gì bên trong không gian rơi ra khi spell kết thúc.
+Thi triển phép để hồi sinh sinh vật đã chết từ 365 ngày trở lên làm bạn kiệt quệ. Cho đến khi hoàn thành nghỉ dài, bạn không thể thi triển lại phép này và chịu bất lợi ở các phép thử d20.
 
-### Ngọn Lửa Thiêng (Sacred Flame)
-*Cantrip Evocation (Cleric)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+### Đảo ngược trọng lực (Reverse Gravity)
 
-Ánh sáng như ngọn lửa giáng xuống một creature bạn có thể nhìn thấy trong tầm đánh. Mục tiêu phải thành công trong một Dexterity saving throw hoặc nhận 1d8 damage Radiant. Mục tiêu không nhận lợi ích từ Half Cover hay Three-Quarters Cover cho save này.
+*Biến đổi bậc 7 (Druid, Thuật sĩ, Pháp sư)*
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 30 m (100 feet)
+- **Thành phần:** V, S, M (đá nam châm và mạt sắt)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Nơi Trú Ẩn (Sanctuary)
-*Cấp độ 1 Abjuration (Cleric)*
-- Casting Time: Bonus Action
-- Range: 30 feet
-- Components: V, S, M (một mảnh vỡ gương)
-- Duration: 1 phút
+Phép đảo ngược trọng lực trong hình trụ bán kính 15 m (50 feet), cao 30 m (100 feet) lấy một điểm trong tầm làm tâm. Mọi sinh vật và đồ vật trong vùng không được neo xuống đất rơi ngược lên đến đỉnh hình trụ. Sinh vật có thể cứu nguy Khéo léo để bám lấy vật cố định trong tầm với, nhờ đó tránh bị rơi lên.
 
-Bạn bảo hộ một creature trong tầm đánh. Cho đến khi phép thuật kết thúc, bất kỳ creature nào nhắm vào creature được bảo hộ bằng một attack roll hoặc một spell gây damage phải thành công trong một Wisdom saving throw hoặc chọn một mục tiêu mới hoặc mất cuộc tấn công hay spell đó. Spell này không bảo vệ creature được bảo hộ khỏi các khu vực hiệu ứng. Spell kết thúc nếu creature được bảo hộ thực hiện một attack roll, thi triển một spell, hoặc gây damage.
+Nếu gặp trần nhà hay vật được neo khi rơi lên, sinh vật và đồ vật va vào nó như khi rơi xuống bình thường. Nếu sinh vật hay đồ vật lên đến đỉnh hình trụ mà không va vào gì, nó lơ lửng ở đó suốt thời lượng. Khi phép kết thúc, các đồ vật và sinh vật bị ảnh hưởng rơi xuống.
 
-### Tia Thiêu Đốt (Scorching Ray)
-*Cấp độ 2 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+### Hồi sinh tức thời (Revivify)
 
-Bạn ném ba tia lửa. Bạn có thể ném chúng vào một mục tiêu trong tầm đánh hoặc vào nhiều mục tiêu. Thực hiện một ranged spell attack cho mỗi tia. Nếu trúng, mục tiêu nhận 2d6 damage Fire.
+*Tử linh bậc 3 (Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
-*Using a Higher-Level Spell Slot:* Bạn tạo thêm một tia cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một viên kim cương trị giá 300+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-### Do Thám (Scrying)
-*Cấp độ 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)*
-- Casting Time: 10 phút
-- Range: Self
-- Components: V, S, M (một vật dẫn trị giá 1.000+ GP, chẳng hạn một quả cầu pha lê, gương, hoặc bồn nước)
-- Duration: Concentration, up to 10 minutes
+Bạn chạm vào một sinh vật vừa chết trong vòng một phút. Sinh vật sống lại với 1 HP. Phép không hồi sinh được sinh vật chết vì già, và không khôi phục bộ phận cơ thể bị mất.
 
-Bạn có thể nhìn và nghe một creature bạn chọn ở cùng plane tồn tại với bạn. Mục tiêu thực hiện một Wisdom saving throw, được điều chỉnh (xem các bảng dưới đây) bởi mức độ bạn biết về mục tiêu và loại liên kết vật lý bạn có với nó. Mục tiêu không biết nó đang thực hiện save chống lại điều gì, chỉ biết nó cảm thấy bất an.
+### Mẹo dây thừng (Rope Trick)
 
-| Kiến thức của bạn về mục tiêu | Save Modifier |
+*Biến đổi bậc 2 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một đoạn dây thừng)
+- **Thời lượng:** 1 giờ
+
+Bạn chạm vào một sợi dây thừng. Một đầu dây bay lên cho đến khi dây treo thẳng đứng vuông góc với mặt đất hoặc chạm trần. Ở đầu trên của dây, một lối vào Vô hình rộng 0,9 × 1,5 m (3 × 5 feet) mở ra không gian ngoài chiều, tồn tại đến khi phép kết thúc. Có thể vào không gian đó bằng cách leo dây; dây có thể được kéo lên vào trong hoặc thả xuống.
+
+Không gian chứa được tối đa tám sinh vật cỡ Trung bình trở xuống. Đòn tấn công, phép và hiệu ứng khác không thể đi vào hay ra khỏi không gian, nhưng sinh vật bên trong nhìn ra ngoài qua lối vào được. Mọi thứ bên trong rơi ra khi phép kết thúc.
+
+### Lửa thiêng (Sacred Flame)
+
+*Phép sơ cấp Gọi năng lượng (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Ánh sáng như lửa giáng xuống một sinh vật bạn nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Khéo léo, nếu không chịu 1d8 sát thương quang. Mục tiêu không được hưởng lợi từ che chắn một nửa hay ba phần tư ở lần cứu nguy này.
+
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
+
+### Nơi trú an toàn (Sanctuary)
+
+*Phòng hộ bậc 1 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một mảnh gương vỡ)
+- **Thời lượng:** 1 phút
+
+Bạn che chở một sinh vật trong tầm. Cho đến khi phép kết thúc, sinh vật nào nhắm vào sinh vật được che chở bằng lần tung tấn công hoặc phép gây sát thương phải thành công cứu nguy Minh triết, nếu không phải chọn mục tiêu khác hoặc mất đòn tấn công hay phép đó. Phép không bảo vệ sinh vật khỏi vùng hiệu ứng. Phép kết thúc nếu sinh vật được che chở tung tấn công, thi triển phép hoặc gây sát thương.
+
+### Tia thiêu đốt (Scorching Ray)
+
+*Gọi năng lượng bậc 2 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
+
+Bạn phóng ba tia lửa. Bạn có thể nhắm cả ba vào một mục tiêu trong tầm hoặc vào nhiều mục tiêu. Tung tấn công tầm xa bằng phép cho từng tia. Nếu trúng, mục tiêu chịu 2d6 sát thương lửa.
+
+*Dùng ô phép bậc cao hơn.* Bạn tạo thêm một tia cho mỗi bậc ô phép trên 2.
+
+### Do thám (Scrying)
+
+*Tiên tri bậc 5 (Thi sĩ, Giáo sĩ, Druid, Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** 10 phút
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một tiêu điểm trị giá 1.000+ gp, như quả cầu pha lê, gương hoặc chậu nước)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn có thể nhìn và nghe một sinh vật tùy chọn ở cùng cõi tồn tại với bạn. Mục tiêu cứu nguy Minh triết, được điều chỉnh (xem các bảng dưới đây) theo mức hiểu biết của bạn về mục tiêu và mối liên hệ vật chất bạn có với nó. Mục tiêu không biết mình đang chống lại điều gì, chỉ thấy bất an.
+
+| Hiểu biết của bạn về mục tiêu | Hệ số cứu nguy |
 |---|---|
-| Gián tiếp (đã nghe về mục tiêu) | +5 |
-| Trực tiếp (đã gặp mục tiêu) | +0 |
-| Sâu sắc (biết rõ mục tiêu) | −5 |
+| Gián tiếp (từng nghe về mục tiêu) | +5 |
+| Trực tiếp (từng gặp mục tiêu) | +0 |
+| Thân thuộc (biết rõ mục tiêu) | −5 |
 
-| Bạn có … của mục tiêu | Save Modifier |
+| Bạn có … của mục tiêu | Hệ số cứu nguy |
 |---|---|
-| Ảnh hoặc hình ảnh giống khác | −2 |
-| Quần áo hoặc vật sở hữu khác | −4 |
-| Bộ phận cơ thể, lọn tóc, hoặc mẩu móng | −10 |
+| Hình ảnh hoặc chân dung | −2 |
+| Quần áo hoặc vật dụng cá nhân | −4 |
+| Một phần cơ thể, lọn tóc hoặc mẩu móng | −10 |
 
-Nếu thành công trong save, mục tiêu không bị ảnh hưởng, và bạn không thể dùng spell này lên nó lần nữa trong 24 giờ.
+Nếu cứu nguy thành công, mục tiêu không bị ảnh hưởng, và bạn không thể dùng phép này lên nó lần nữa trong 24 giờ.
 
-Nếu thất bại trong save, spell tạo ra một cảm biến Invisible, phi vật chất trong vòng 10 feet của mục tiêu. Bạn có thể nhìn và nghe qua cảm biến như thể bạn đang ở đó. Cảm biến di chuyển cùng mục tiêu, giữ trong vòng 10 feet của nó trong suốt thời lượng. Nếu thứ gì đó có thể nhìn thấy cảm biến, nó xuất hiện như một quả cầu phát sáng cỡ nắm tay của bạn.
+Nếu cứu nguy thất bại, phép tạo một cảm biến Vô hình, phi vật chất trong phạm vi 3 m (10 feet) quanh mục tiêu. Bạn nhìn và nghe qua cảm biến như đang ở đó. Cảm biến di chuyển theo mục tiêu, luôn ở trong phạm vi 3 m (10 feet) quanh nó suốt thời lượng. Nếu thứ gì nhìn thấy được cảm biến, nó hiện ra như quả cầu sáng to bằng nắm tay bạn.
 
-Thay vì nhắm vào một creature, bạn có thể nhắm vào một địa điểm bạn đã từng thấy. Khi làm vậy, cảm biến xuất hiện tại địa điểm đó và không di chuyển.
+Thay vì nhắm vào sinh vật, bạn có thể nhắm vào một nơi bạn từng thấy. Khi đó, cảm biến xuất hiện tại nơi đó và đứng yên.
 
-### Đòn Đánh Thiêu Đốt (Searing Smite)
-*Cấp độ 1 Evocation (Paladin)*
-- Casting Time: Bonus Action, thực hiện ngay sau khi đánh trúng một mục tiêu bằng một Melee weapon hoặc Unarmed Strike
-- Range: Self
-- Components: V
-- Duration: 1 phút
+### Trừng phạt thiêu đốt (Searing Smite)
 
-Khi bạn đánh trúng mục tiêu, nó nhận thêm 1d6 damage Fire từ cuộc tấn công. Vào đầu mỗi turn của nó cho đến khi phép thuật kết thúc, mục tiêu nhận 1d6 damage Fire rồi thực hiện một Constitution saving throw. Nếu thất bại, spell tiếp tục. Nếu thành công, spell kết thúc.
+*Gọi năng lượng bậc 1 (Thánh kỵ sĩ)*
 
-*Using a Higher-Level Spell Slot:* Tất cả damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn tay không
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** 1 phút
 
-### Rương Bí Mật (Secret Chest)
-*Cấp độ 4 Conjuration (Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một cái rương, 3 feet x 2 feet x 2 feet, làm từ vật liệu hiếm trị giá 5.000+ GP, và một bản sao thu nhỏ của rương làm từ cùng vật liệu trị giá 50+ GP)
-- Duration: Until dispelled
+Khi bạn đánh trúng, mục tiêu chịu thêm 1d6 sát thương lửa từ đòn tấn công. Đầu mỗi lượt của mục tiêu cho đến khi phép kết thúc, nó chịu 1d6 sát thương lửa rồi cứu nguy Thể chất. Nếu thất bại, phép tiếp tục. Nếu thành công, phép kết thúc.
 
-Bạn giấu một cái rương và tất cả nội dung của nó trên Ethereal Plane. Bạn phải chạm vào cái rương và bản sao thu nhỏ dùng làm Material component cho spell. Rương có thể chứa tối đa 12 cubic feet vật liệu vô tri (3 feet x 2 feet x 2 feet).
+*Dùng ô phép bậc cao hơn.* Mọi sát thương của phép tăng 1d6 cho mỗi bậc ô phép trên 1.
 
-Trong khi rương vẫn ở trên Ethereal Plane, bạn có thể thực hiện Magic action và chạm vào bản sao để gọi rương trở lại. Nó xuất hiện tại một không gian trống trên mặt đất trong vòng 5 feet của bạn. Bạn có thể gửi rương trở lại Ethereal Plane bằng cách thực hiện Magic action để chạm vào cả rương và bản sao.
+### Rương bí mật (Secret Chest)
 
-Sau 60 ngày, có 5 phần trăm cơ hội tích lũy vào cuối mỗi ngày rằng spell kết thúc. Spell cũng kết thúc nếu bạn thi triển spell này lần nữa hoặc nếu bản sao thu nhỏ bị phá hủy. Nếu spell kết thúc và cái rương lớn hơn đang ở trên Ethereal Plane, rương vẫn ở đó để bạn hoặc người khác tìm thấy.
+*Triệu hồi bậc 4 (Pháp sư)*
 
-### Thấy Vô Hình (See Invisibility)
-*Cấp độ 2 Divination (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một nhúm bột talc)
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một chiếc rương 0,9 × 0,6 × 0,6 m — 3 × 2 × 2 feet — làm từ vật liệu quý hiếm trị giá 5.000+ gp, và một bản sao thu nhỏ cùng chất liệu trị giá 50+ gp)
+- **Thời lượng:** Đến khi bị giải trừ
 
-Trong suốt thời lượng, bạn thấy các creature và object có condition Invisible như thể chúng có thể nhìn thấy được, và bạn có thể nhìn vào Ethereal Plane. Các creature và object ở đó trông như bóng ma.
+Bạn cất giấu một chiếc rương cùng mọi thứ bên trong vào Cõi Ethereal. Bạn phải chạm vào rương và bản sao thu nhỏ dùng làm thành phần vật chất. Rương chứa được tối đa 340 lít (12 foot khối) vật chất vô tri (0,9 × 0,6 × 0,6 m).
 
-### Giả Dạng (Seeming)
-*Cấp độ 5 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S
-- Duration: 8 hours
+Khi rương còn ở Cõi Ethereal, bạn có thể dùng hành động Ma thuật chạm vào bản sao để gọi rương về. Nó xuất hiện tại một chỗ trống trên mặt đất trong phạm vi 1,5 m (5 feet) quanh bạn. Bạn có thể gửi rương trở lại Cõi Ethereal bằng hành động Ma thuật chạm vào cả rương và bản sao.
 
-Bạn ban cho mỗi creature theo lựa chọn của bạn mà bạn có thể nhìn thấy trong tầm đánh một diện mạo ảo ảnh. Một mục tiêu bất đắc dĩ có thể thực hiện một Charisma saving throw, và nếu thành công, nó không bị ảnh hưởng bởi spell này.
+Sau 60 ngày, cuối mỗi ngày có thêm 5% cơ hội cộng dồn rằng phép kết thúc. Phép cũng kết thúc nếu bạn thi triển lại phép này hoặc bản sao thu nhỏ bị phá hủy. Nếu phép kết thúc khi chiếc rương lớn đang ở Cõi Ethereal, nó ở lại đó chờ bạn hoặc ai khác tìm thấy.
 
-Bạn có thể cho các mục tiêu cùng một diện mạo hoặc các diện mạo khác nhau. Spell có thể thay đổi diện mạo cơ thể và trang bị của các mục tiêu. Bạn có thể khiến mỗi creature trông thấp hơn hoặc cao hơn 1 foot và trông nặng hơn hoặc nhẹ hơn. Diện mạo mới của một mục tiêu phải có cùng cấu trúc chi cơ bản như mục tiêu, nhưng mức độ của ảo ảnh ngoài ra tùy thuộc vào bạn. Spell kéo dài trong suốt thời lượng.
+### Thấy vô hình (See Invisibility)
 
-Những thay đổi do spell này tạo ra không chịu được kiểm tra vật lý. Ví dụ, nếu bạn dùng spell này để thêm một chiếc mũ vào trang phục của một creature, các object xuyên qua chiếc mũ.
+*Tiên tri bậc 2 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Một creature thực hiện action Study để kiểm tra một mục tiêu có thể thực hiện một Intelligence (Investigation) check chống lại spell save DC của bạn. Nếu thành công, nó nhận ra mục tiêu đang cải trang.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một nhúm bột talc)
+- **Thời lượng:** 1 giờ
 
-### Gửi Tin (Sending)
-*Cấp độ 3 Divination (Bard, Cleric, Wizard)*
-- Casting Time: Action
-- Range: Unlimited
-- Components: V, S, M (một sợi dây đồng)
-- Duration: Instantaneous
+Trong suốt thời lượng, bạn nhìn thấy sinh vật và đồ vật ở trạng thái Vô hình như thể chúng hữu hình, và bạn nhìn được vào Cõi Ethereal. Sinh vật và đồ vật ở đó trông mờ ảo như bóng ma.
 
-Bạn gửi một thông điệp ngắn không quá 25 từ đến một creature bạn đã từng gặp hoặc một creature được mô tả cho bạn bởi ai đó đã gặp nó. Mục tiêu nghe thấy thông điệp trong tâm trí nó, nhận ra bạn là người gửi nếu nó biết bạn, và có thể trả lời theo cách tương tự ngay lập tức. Spell cho phép các mục tiêu hiểu ý nghĩa của thông điệp của bạn.
+### Giả dạng (Seeming)
 
-Bạn có thể gửi thông điệp qua bất kỳ khoảng cách nào và thậm chí đến các plane tồn tại khác, nhưng nếu mục tiêu ở một plane khác với bạn, có 5 phần trăm cơ hội thông điệp không đến nơi. Bạn biết nếu việc gửi thất bại.
+*Ảo ảnh bậc 5 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Khi nhận được thông điệp của bạn, một creature có thể chặn khả năng bạn tiếp cận nó lần nữa bằng spell này trong 8 giờ. Nếu bạn cố gửi một thông điệp khác trong thời gian đó, bạn biết mình bị chặn, và spell thất bại.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 8 giờ
 
-### Cô Lập (Sequester)
-*Cấp độ 7 Transmutation (Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bụi đá quý trị giá 5.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+Bạn khoác cho mỗi sinh vật tùy chọn bạn nhìn thấy trong tầm một vẻ ngoài ảo. Mục tiêu không tự nguyện có thể cứu nguy Sức hút; nếu thành công, nó không chịu ảnh hưởng của phép.
 
-Bằng một cú chạm, bạn cô lập bằng phép thuật một object hoặc một creature tự nguyện. Trong suốt thời lượng, mục tiêu có condition Invisible và không thể bị nhắm bởi spell Divination, phát hiện bằng phép thuật, hoặc quan sát từ xa bằng phép thuật.
+Bạn có thể cho các mục tiêu cùng một vẻ ngoài hoặc những vẻ ngoài khác nhau. Phép có thể thay đổi dáng vẻ cơ thể và trang bị. Bạn có thể khiến mỗi sinh vật trông thấp hoặc cao hơn 30 cm (1 foot), béo hoặc gầy hơn. Vẻ ngoài mới phải giữ cùng kiểu chi cơ bản như mục tiêu, nhưng ngoài ra ảo ảnh chi tiết đến đâu tùy bạn. Phép kéo dài suốt thời lượng.
 
-Nếu mục tiêu là một creature, nó bước vào trạng thái ngủ đông; nó có condition Unconscious, không già đi, và không cần thức ăn, nước, hay không khí.
+Những thay đổi do phép tạo ra không chịu được kiểm tra bằng xúc giác. Ví dụ, nếu bạn dùng phép thêm một chiếc mũ vào trang phục của sinh vật, đồ vật sẽ xuyên qua mũ.
 
-Bạn có thể đặt một điều kiện để spell kết thúc sớm. Điều kiện có thể là bất cứ điều gì bạn chọn, nhưng nó phải xảy ra hoặc có thể nhìn thấy trong vòng 1 dặm của mục tiêu. Ví dụ bao gồm "sau 1.000 năm" hoặc "khi tarrasque thức dậy." Spell này cũng kết thúc nếu mục tiêu nhận bất kỳ damage nào.
+Sinh vật dùng hành động Nghiên cứu xem xét một mục tiêu có thể kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Nếu thành công, nó nhận ra mục tiêu đang cải trang.
 
-### Biến Hình Toàn Diện (Shapechange)
-*Cấp độ 9 Transmutation (Druid, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một vòng đầu ngọc bích trị giá 1.500+ GP)
-- Duration: Concentration, up to 1 hour
+### Gửi tin (Sending)
 
-Bạn biến hình thành một creature khác trong suốt thời lượng hoặc cho đến khi bạn thực hiện Magic action để biến hình thành một hình dạng đủ điều kiện khác. Hình dạng mới phải là một creature có Challenge Rating không cao hơn level hoặc Challenge Rating của bạn. Bạn phải đã từng thấy loại creature đó trước đây, và nó không được là một Construct hay Undead.
+*Tiên tri bậc 3 (Thi sĩ, Giáo sĩ, Pháp sư)*
 
-Khi thi triển spell, bạn nhận một lượng Temporary Hit Points bằng Hit Points của hình dạng đầu tiên bạn biến thành. Các Temporary Hit Points này biến mất nếu còn lại khi spell kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Không giới hạn
+- **Thành phần:** V, S, M (một sợi dây đồng)
+- **Thời lượng:** Tức thời
 
-Chỉ số trò chơi của bạn được thay thế bằng stat block của hình dạng đã chọn, nhưng bạn giữ lại creature type; alignment; tính cách; Intelligence, Wisdom, và Charisma score; Hit Points; Hit Point Dice; proficiency; và khả năng giao tiếp của mình. Nếu bạn có feature Spellcasting, bạn cũng giữ lại nó.
+Bạn gửi một thông điệp ngắn không quá 25 chữ đến một sinh vật bạn từng gặp hoặc được người từng gặp nó mô tả cho bạn. Mục tiêu nghe thấy thông điệp trong tâm trí, nhận ra bạn là người gửi nếu biết bạn, và có thể lập tức trả lời theo cách tương tự. Phép giúp mục tiêu hiểu ý nghĩa thông điệp.
 
-Khi biến hình, bạn quyết định liệu trang bị của bạn rơi xuống đất hay thay đổi kích thước và hình dạng để vừa với hình dạng mới trong khi bạn ở trong đó.
+Bạn có thể gửi thông điệp qua mọi khoảng cách, kể cả sang cõi tồn tại khác, nhưng nếu mục tiêu ở cõi khác với bạn, có 5% cơ hội thông điệp không đến nơi. Bạn biết nếu việc gửi thất bại.
 
-### Nổ Tung (Shatter)
-*Cấp độ 2 Evocation (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mảnh mica)
-- Duration: Instantaneous
+Khi nhận thông điệp, sinh vật có thể chặn không cho bạn liên lạc với nó bằng phép này trong 8 giờ. Nếu bạn cố gửi thông điệp khác trong thời gian đó, bạn biết mình bị chặn, và phép thất bại.
 
-Một tiếng nổ lớn phát ra từ một điểm theo lựa chọn của bạn trong tầm đánh. Mỗi creature trong một Sphere bán kính 10-foot có tâm ở đó thực hiện một Constitution saving throw, nhận 3d8 damage Thunder nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một Construct có Disadvantage trên save.
+### Cô lập (Sequester)
 
-Một object phi phép thuật không đang được mặc hay mang theo cũng nhận damage nếu nó trong khu vực của spell.
+*Biến đổi bậc 7 (Pháp sư)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bụi đá quý trị giá 5.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Bằng một cú chạm, bạn dùng ma thuật cô lập một đồ vật hoặc sinh vật tự nguyện. Trong suốt thời lượng, mục tiêu ở trạng thái Vô hình và không thể bị phép Tiên tri nhắm vào, dò tìm bằng ma thuật hay quan sát từ xa bằng ma thuật.
+
+Nếu mục tiêu là sinh vật, nó rơi vào trạng thái ngưng đọng; nó ở trạng thái Bất tỉnh, không già đi, và không cần ăn, uống hay thở.
+
+Bạn có thể đặt một điều kiện để phép kết thúc sớm. Điều kiện có thể là bất cứ gì, nhưng phải xảy ra hoặc nhìn thấy được trong phạm vi 1,6 km (1 mile) quanh mục tiêu. Ví dụ như "sau 1.000 năm" hay "khi tarrasque thức giấc". Phép cũng kết thúc nếu mục tiêu chịu bất kỳ sát thương nào.
+
+### Biến hình toàn diện (Shapechange)
+
+*Biến đổi bậc 9 (Druid, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một vòng đội đầu bằng ngọc bích trị giá 1.500+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn biến thành một sinh vật khác suốt thời lượng hoặc đến khi dùng hành động Ma thuật để biến sang dạng đủ điều kiện khác. Dạng mới phải là sinh vật có Mức thách thức không cao hơn cấp hoặc Mức thách thức của bạn. Bạn phải từng thấy loại sinh vật đó, và nó không được là Cấu thể hay Xác sống.
+
+Khi thi triển, bạn nhận số điểm sinh lực tạm thời bằng HP của dạng đầu tiên bạn biến thành. Số điểm tạm thời còn lại biến mất khi phép kết thúc.
+
+Chỉ số của bạn được thay bằng khối thông số của dạng đã chọn, nhưng bạn giữ loại sinh vật; khuynh hướng đạo đức; tính cách; điểm Trí tuệ, Minh triết và Sức hút; HP; xúc xắc sinh lực; các thành thạo; và khả năng giao tiếp. Nếu có đặc tính Thi triển phép, bạn cũng giữ nó.
+
+Khi biến hình, bạn quyết định trang bị rơi xuống đất hay đổi kích cỡ và hình dạng cho vừa dạng mới khi bạn ở trong dạng đó.
+
+### Phá vỡ (Shatter)
+
+*Gọi năng lượng bậc 2 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một mảnh mica)
+- **Thời lượng:** Tức thời
+
+Một tiếng nổ chói tai vang lên từ một điểm tùy chọn trong tầm. Mỗi sinh vật trong hình cầu bán kính 3 m (10 feet) lấy điểm đó làm tâm cứu nguy Thể chất, chịu 3d8 sát thương sấm nếu thất bại hoặc một nửa nếu thành công. Cấu thể chịu bất lợi khi cứu nguy.
+
+Đồ vật không ma thuật không có ai mặc hay mang trong vùng của phép cũng chịu sát thương.
+
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 2.
 
 ### Khiên (Shield)
-*Cấp độ 1 Abjuration (Sorcerer, Wizard)*
-- Casting Time: Reaction, thực hiện khi bạn bị đánh trúng bởi một attack roll hoặc bị nhắm bởi spell Magic Missile
-- Range: Self
-- Components: V, S
-- Duration: 1 round
 
-Một rào chắn vô hình bằng lực phép thuật bảo vệ bạn. Cho đến khi bắt đầu turn tiếp theo của bạn, bạn nhận bonus +5 vào AC, kể cả chống lại cuộc tấn công kích hoạt spell, và bạn không nhận damage từ Magic Missile.
+*Phòng hộ bậc 1 (Thuật sĩ, Pháp sư)*
 
-### Khiên Đức Tin (Shield of Faith)
-*Cấp độ 1 Abjuration (Cleric, Paladin)*
-- Casting Time: Bonus Action
-- Range: 60 feet
-- Components: V, S, M (một cuộn giấy cầu nguyện)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Phản ứng, dùng khi bạn bị lần tung tấn công đánh trúng hoặc bị phép *Phi tiêu ma thuật* (Magic Missile) nhắm vào
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 1 vòng
 
-Một trường năng lượng lấp lánh bao quanh một creature theo lựa chọn của bạn trong tầm đánh, cho nó bonus +2 vào AC trong suốt thời lượng.
+Một bức chắn vô hình bằng lực ma thuật bảo vệ bạn. Cho đến đầu lượt kế tiếp, bạn được +5 AC, kể cả trước đòn tấn công đã kích hoạt phép, và không chịu sát thương từ *Phi tiêu ma thuật*.
 
-### Gậy Phép (Shillelagh)
-*Cantrip Transmutation (Druid)*
-- Casting Time: Bonus Action
-- Range: Self
-- Components: V, S, M (tầm gửi)
-- Duration: 1 phút
+### Khiên đức tin (Shield of Faith)
 
-Một Club hoặc Quarterstaff bạn đang cầm được truyền sức mạnh của thiên nhiên. Trong suốt thời lượng, bạn có thể dùng spellcasting ability của mình thay vì Strength cho attack và damage roll của melee attack dùng weapon đó, và xúc xắc damage của weapon trở thành d8. Nếu cuộc tấn công gây damage, nó có thể là damage Force hoặc loại damage bình thường của weapon (tùy bạn chọn).
+*Phòng hộ bậc 1 (Giáo sĩ, Thánh kỵ sĩ)*
 
-Spell kết thúc sớm nếu bạn thi triển nó lần nữa hoặc nếu bạn buông weapon.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một cuộn giấy chép lời cầu nguyện)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-*Cantrip Upgrade:* Xúc xắc damage thay đổi khi bạn đạt cấp độ 5 (d10), 11 (d12), và 17 (2d6).
+Một trường năng lượng lung linh bao quanh một sinh vật tùy chọn trong tầm, cho nó +2 AC suốt thời lượng.
 
-### Đòn Đánh Rực Sáng (Shining Smite)
-*Cấp độ 2 Transmutation (Paladin)*
-- Casting Time: Bonus Action, thực hiện ngay sau khi đánh trúng một creature bằng một Melee weapon hoặc Unarmed Strike
-- Range: Self
-- Components: V
-- Duration: Concentration, up to 1 minute
+### Gậy phép (Shillelagh)
 
-Mục tiêu bị đánh trúng bởi đòn đánh nhận thêm 2d6 damage Radiant từ cuộc tấn công. Cho đến khi phép thuật kết thúc, mục tiêu tỏa Bright Light trong bán kính 5 feet, attack roll nhắm vào nó có Advantage, và nó không thể hưởng lợi từ condition Invisible.
+*Phép sơ cấp Biến đổi (Druid)*
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (tầm gửi)
+- **Thời lượng:** 1 phút
 
-### Nắm Tay Điện Giật (Shocking Grasp)
-*Cantrip Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S
-- Duration: Instantaneous
+Một cây Chùy (Club) hoặc Gậy (Quarterstaff) bạn đang cầm được truyền sức mạnh thiên nhiên. Trong suốt thời lượng, bạn có thể dùng thuộc tính thi triển phép thay cho Sức mạnh khi tung tấn công cận chiến và sát thương bằng vũ khí đó, và xúc xắc sát thương của vũ khí trở thành d8. Nếu đòn tấn công gây sát thương, đó có thể là sát thương lực hoặc loại sát thương thường của vũ khí (tùy bạn chọn).
 
-Sét phóng từ bạn đến một creature bạn cố chạm vào. Thực hiện một melee spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d8 damage Lightning, và nó không thể thực hiện Opportunity Attack cho đến khi bắt đầu turn tiếp theo của nó.
+Phép kết thúc sớm nếu bạn thi triển lại hoặc buông vũ khí.
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+*Nâng cấp phép sơ cấp.* Xúc xắc sát thương đổi thành d10 ở cấp 5, d12 ở cấp 11 và 2d6 ở cấp 17.
 
-### Im Lặng (Silence)
-*Cấp độ 2 Illusion (Bard, Cleric, Ranger)*
-- Casting Time: Action hoặc Ritual
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+### Trừng phạt rực sáng (Shining Smite)
 
-Trong suốt thời lượng, không âm thanh nào có thể được tạo ra bên trong hoặc xuyên qua một Sphere bán kính 20-foot có tâm tại một điểm bạn chọn trong tầm đánh. Bất kỳ creature hoặc object nào hoàn toàn bên trong Sphere có Immunity với damage Thunder, và các creature có condition Deafened khi hoàn toàn bên trong nó. Việc thi triển một spell có thành phần Verbal là không thể ở đó.
+*Biến đổi bậc 2 (Thánh kỵ sĩ)*
 
-### Hình Ảnh Im Lặng (Silent Image)
-*Cấp độ 1 Illusion (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mẩu lông cừu)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng một sinh vật bằng vũ khí cận chiến hoặc đòn tay không
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Bạn tạo ra hình ảnh của một object, một creature, hoặc một hiện tượng có thể nhìn thấy khác không lớn hơn một Cube 15-foot. Hình ảnh xuất hiện tại một điểm trong tầm đánh và tồn tại trong suốt thời lượng. Hình ảnh hoàn toàn mang tính thị giác; nó không đi kèm âm thanh, mùi, hay hiệu ứng giác quan khác.
+Mục tiêu trúng đòn chịu thêm 2d6 sát thương quang từ đòn tấn công. Cho đến khi phép kết thúc, mục tiêu tỏa ánh sáng rõ trong bán kính 1,5 m (5 feet), các lần tung tấn công nhắm vào nó có lợi thế, và nó không được hưởng lợi từ trạng thái Vô hình.
 
-Như một Magic action, bạn có thể khiến hình ảnh di chuyển đến bất kỳ điểm nào trong tầm đánh. Khi hình ảnh thay đổi vị trí, bạn có thể thay đổi diện mạo của nó để chuyển động trông tự nhiên với hình ảnh. Ví dụ, nếu bạn tạo hình ảnh của một creature và di chuyển nó, bạn có thể thay đổi hình ảnh để nó trông như đang đi bộ.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 2.
 
-Tương tác vật lý với hình ảnh tiết lộ nó là một ảo ảnh, vì mọi thứ có thể xuyên qua nó. Một creature thực hiện action Study để kiểm tra hình ảnh có thể xác định nó là một ảo ảnh bằng một Intelligence (Investigation) check thành công chống lại spell save DC của bạn. Nếu một creature nhận ra ảo ảnh là gì, creature có thể nhìn xuyên qua hình ảnh.
+### Nắm giật điện (Shocking Grasp)
 
-### Bản Sao (Simulacrum)
-*Cấp độ 7 Illusion (Wizard)*
-- Casting Time: 12 giờ
-- Range: Touch
-- Components: V, S, M (bột ruby trị giá 1.500+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled
+*Phép sơ cấp Gọi năng lượng (Thuật sĩ, Pháp sư)*
 
-Bạn tạo ra một bản sao của một Beast hoặc Humanoid trong vòng 10 feet của bạn trong suốt quá trình thi triển spell. Bạn hoàn thành việc thi triển bằng cách chạm vào cả creature lẫn một đống băng hoặc tuyết có cùng kích thước với creature đó, và đống đó biến thành bản sao, là một creature. Nó dùng chỉ số trò chơi của creature gốc tại thời điểm thi triển, ngoại trừ nó là một Construct, Hit Point maximum của nó bằng một nửa, và nó không thể thi triển spell này.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bản sao là Friendly với bạn và các creature bạn chỉ định. Nó tuân theo mệnh lệnh của bạn và hành động trong turn của bạn trong combat. Bản sao không thể lên level, và nó không thể thực hiện Short hay Long Rest.
+Tia sét phóng từ tay bạn vào sinh vật bạn cố chạm. Tung tấn công cận chiến bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d8 sát thương sét và không thể thực hiện tấn công cơ hội cho đến đầu lượt kế tiếp của nó.
 
-Nếu bản sao nhận damage, cách duy nhất để phục hồi Hit Points của nó là sửa chữa nó khi bạn thực hiện một Long Rest, trong đó bạn dùng hết các thành phần trị giá 100 GP cho mỗi Hit Point được phục hồi. Bản sao phải ở trong vòng 5 feet của bạn để được sửa chữa.
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 
-Bản sao tồn tại cho đến khi nó giảm xuống 0 Hit Points, lúc đó nó trở lại thành tuyết và tan chảy. Nếu bạn thi triển spell này lần nữa, bất kỳ bản sao nào bạn đã tạo bằng spell này ngay lập tức bị phá hủy.
+### Im lặng (Silence)
+
+*Ảo ảnh bậc 2 (Thi sĩ, Giáo sĩ, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Trong suốt thời lượng, không âm thanh nào phát ra được bên trong hoặc truyền qua hình cầu bán kính 6 m (20 feet) lấy một điểm tùy chọn trong tầm làm tâm. Mọi sinh vật hay đồ vật nằm hoàn toàn trong hình cầu miễn nhiễm sát thương sấm, và sinh vật ở trạng thái Điếc khi nằm hoàn toàn bên trong. Không thể thi triển phép có thành phần lời nói ở đó.
+
+### Hình ảnh im lặng (Silent Image)
+
+*Ảo ảnh bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một nhúm lông cừu)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn tạo hình ảnh một đồ vật, sinh vật hay hiện tượng nhìn thấy được khác, không lớn hơn khối lập phương 4,5 m (15 feet). Hình ảnh xuất hiện tại một điểm trong tầm và tồn tại suốt thời lượng. Hình ảnh chỉ là thị giác; không kèm âm thanh, mùi hay hiệu ứng giác quan khác.
+
+Bằng hành động Ma thuật, bạn có thể di chuyển hình ảnh đến bất kỳ điểm nào trong tầm. Khi hình ảnh đổi chỗ, bạn có thể thay đổi dáng vẻ để chuyển động trông tự nhiên. Ví dụ, nếu tạo hình ảnh một sinh vật rồi di chuyển nó, bạn có thể làm nó trông như đang bước đi.
+
+Tương tác vật lý với hình ảnh sẽ lộ ra nó là ảo ảnh, vì mọi thứ xuyên qua được. Sinh vật dùng hành động Nghiên cứu xem xét hình ảnh có thể nhận ra nó là ảo ảnh nếu thành công phép kiểm tra Trí tuệ (Điều tra) với DC cứu nguy phép của bạn. Sinh vật nhận ra ảo ảnh có thể nhìn xuyên qua hình ảnh.
+
+### Bản sao (Simulacrum)
+
+*Ảo ảnh bậc 7 (Pháp sư)*
+
+- **Thời gian thi triển:** 12 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột hồng ngọc trị giá 1.500+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ
+
+Bạn tạo bản sao của một Thú hoặc Hình người ở trong phạm vi 3 m (10 feet) quanh bạn suốt quá trình thi triển. Bạn hoàn tất bằng cách chạm vào cả sinh vật lẫn một đống băng hay tuyết cùng kích cỡ, và đống đó biến thành bản sao, một sinh vật. Bản sao dùng chỉ số của sinh vật gốc tại thời điểm thi triển, trừ việc nó là Cấu thể, điểm sinh lực tối đa bằng một nửa, và không thể thi triển phép này.
+
+Bản sao Thân thiện với bạn và các sinh vật bạn chỉ định. Nó tuân lệnh bạn và hành động trong lượt của bạn khi chiến đấu. Bản sao không thể lên cấp, nghỉ ngắn hay nghỉ dài.
+
+Nếu bản sao chịu sát thương, cách duy nhất hồi HP cho nó là sửa chữa khi bạn nghỉ dài, tiêu nguyên liệu trị giá 100 gp cho mỗi HP hồi lại. Bản sao phải ở trong phạm vi 1,5 m (5 feet) quanh bạn để được sửa.
+
+Bản sao tồn tại đến khi HP về 0, lúc đó nó trở lại thành tuyết và tan chảy. Nếu bạn thi triển lại phép này, mọi bản sao đã tạo bằng phép lập tức bị phá hủy.
 
 ### Ngủ (Sleep)
-*Cấp độ 1 Enchantment (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một nhúm cát hoặc cánh hoa hồng)
-- Duration: Concentration, up to 1 minute
 
-Mỗi creature theo lựa chọn của bạn trong một Sphere bán kính 5-foot có tâm tại một điểm trong tầm đánh phải thành công trong một Wisdom saving throw hoặc có condition Incapacitated cho đến hết turn tiếp theo của nó, lúc đó nó phải lặp lại save. Nếu mục tiêu thất bại trong save thứ hai, mục tiêu có condition Unconscious trong suốt thời lượng. Spell kết thúc trên một mục tiêu nếu nó nhận damage hoặc ai đó trong vòng 5 feet của nó thực hiện một action để lay nó ra khỏi hiệu ứng của spell.
+*Yểm thuật bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Các creature không ngủ, chẳng hạn elf, hoặc có Immunity với condition Exhaustion tự động thành công trong save chống lại spell này.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một nhúm cát hoặc cánh hoa hồng)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Bão Mưa Đá (Sleet Storm)
-*Cấp độ 3 Conjuration (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một chiếc ô thu nhỏ)
-- Duration: Concentration, up to 1 minute
+Mỗi sinh vật tùy chọn trong hình cầu bán kính 1,5 m (5 feet) lấy một điểm trong tầm làm tâm phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mất năng lực hành động cho đến hết lượt kế tiếp của nó, lúc đó nó phải cứu nguy lại. Nếu thất bại lần thứ hai, mục tiêu rơi vào trạng thái Bất tỉnh suốt thời lượng. Phép kết thúc với mục tiêu nếu nó chịu sát thương hoặc ai đó trong phạm vi 1,5 m (5 feet) dùng hành động lay nó dậy.
 
-Cho đến khi phép thuật kết thúc, mưa đá rơi trong một Cylinder cao 40-foot, bán kính 20-foot có tâm tại một điểm bạn chọn trong tầm đánh. Khu vực bị Heavily Obscured, và lửa lộ thiên trong khu vực bị dập tắt.
+Sinh vật không ngủ, như elf, hoặc miễn nhiễm trạng thái Kiệt sức tự động thành công lần cứu nguy chống phép này.
 
-Mặt đất trong Cylinder là Difficult Terrain. Khi một creature vào Cylinder lần đầu trong một turn hoặc bắt đầu turn ở đó, nó phải thành công trong một Dexterity saving throw hoặc có condition Prone và mất Concentration.
+### Bão mưa đá (Sleet Storm)
 
-### Chậm Lại (Slow)
-*Cấp độ 3 Transmutation (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một giọt mật đường)
-- Duration: Concentration, up to 1 minute
+*Triệu hồi bậc 3 (Druid, Thuật sĩ, Pháp sư)*
 
-Bạn thay đổi thời gian xung quanh tối đa sáu creature theo lựa chọn của bạn trong một Cube 40-foot trong tầm đánh. Mỗi mục tiêu phải thành công trong một Wisdom saving throw hoặc bị ảnh hưởng bởi spell này trong suốt thời lượng.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một chiếc ô nhỏ xíu)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Một mục tiêu bị ảnh hưởng có Speed giảm một nửa, chịu penalty −2 vào AC và Dexterity saving throw, và không thể thực hiện Reaction. Trong turn của nó, nó chỉ có thể thực hiện một action hoặc một Bonus Action, không phải cả hai, và nó chỉ có thể thực hiện một cuộc tấn công nếu nó thực hiện action Attack. Nếu nó thi triển một spell có thành phần Somatic, có 25 phần trăm cơ hội spell thất bại do mục tiêu thực hiện cử chỉ của spell quá chậm.
+Cho đến khi phép kết thúc, mưa băng trút xuống trong hình trụ cao 12 m (40 feet), bán kính 6 m (20 feet) lấy một điểm tùy chọn trong tầm làm tâm. Vùng bị che khuất nặng, và lửa lộ thiên trong vùng bị dập tắt.
 
-Một mục tiêu bị ảnh hưởng lặp lại save vào cuối mỗi turn của nó, kết thúc spell trên bản thân nếu thành công.
+Mặt đất trong hình trụ là địa hình khó đi. Khi sinh vật lần đầu đi vào hình trụ trong một lượt hoặc bắt đầu lượt ở đó, nó phải thành công cứu nguy Khéo léo, nếu không rơi vào trạng thái Ngã sấp và mất Tập trung.
 
-### Bùng Nổ Phù Thủy (Sorcerous Burst)
-*Cantrip Evocation (Sorcerer)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Instantaneous
+### Chậm lại (Slow)
 
-Bạn phóng năng lượng phù thủy vào một creature hoặc object trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d8 damage thuộc một loại bạn chọn: Acid, Cold, Fire, Lightning, Poison, Psychic, hoặc Thunder.
+*Biến đổi bậc 3 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Nếu bạn tung ra 8 trên một viên d8 cho spell này, bạn có thể tung thêm một d8, và cộng nó vào damage. Khi thi triển spell này, số lượng tối đa các viên d8 này bạn có thể cộng vào damage của spell bằng spellcasting ability modifier của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một giọt mật mía)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+Bạn làm biến đổi dòng thời gian quanh tối đa sáu sinh vật tùy chọn trong khối lập phương 12 m (40 feet) trong tầm. Mỗi mục tiêu phải thành công cứu nguy Minh triết, nếu không chịu ảnh hưởng của phép suốt thời lượng.
 
-### Tha Cho Người Hấp Hối (Spare the Dying)
-*Cantrip Necromancy (Cleric, Druid)*
-- Casting Time: Action
-- Range: 15 feet
-- Components: V, S
-- Duration: Instantaneous
+Mục tiêu bị ảnh hưởng có Tốc độ giảm một nửa, bị −2 AC và cứu nguy Khéo léo, và không thể dùng phản ứng. Trong lượt của mình, nó chỉ dùng được hành động hoặc hành động phụ, không được cả hai, và chỉ tấn công được một lần khi dùng hành động Tấn công. Nếu thi triển phép có thành phần cử chỉ, có 25% cơ hội phép thất bại do mục tiêu làm cử chỉ quá chậm.
 
-Bạn chạm vào một creature trong tầm đánh có 0 Hit Points và chưa chết. Creature trở nên Stable.
+Mục tiêu bị ảnh hưởng lặp lại lần cứu nguy cuối mỗi lượt, chấm dứt phép lên bản thân nếu thành công.
 
-*Cantrip Upgrade:* Tầm đánh nhân đôi khi bạn đạt cấp độ 5 (30 feet), 11 (60 feet), và 17 (120 feet).
+### Bùng nổ thuật lực (Sorcerous Burst)
 
-### Nói Chuyện Với Muông Thú (Speak with Animals)
-*Cấp độ 1 Divination (Bard, Druid, Ranger, Warlock)*
-- Casting Time: Action hoặc Ritual
-- Range: Self
-- Components: V, S
-- Duration: 10 phút
+*Phép sơ cấp Gọi năng lượng (Thuật sĩ)*
 
-Trong suốt thời lượng, bạn có thể hiểu và giao tiếp bằng lời với Beast, và bạn có thể dùng bất kỳ lựa chọn skill nào của action Influence với chúng.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Hầu hết các Beast không có nhiều điều để nói về các chủ đề không liên quan đến sự sống còn hay bầu bạn, nhưng tối thiểu, một Beast có thể cho bạn thông tin về các địa điểm và quái vật gần đó, bao gồm bất cứ điều gì nó đã cảm nhận trong ngày qua.
+Bạn phóng năng lượng thuật lực vào một sinh vật hoặc đồ vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d8 sát thương thuộc loại tùy chọn: axit, lạnh, lửa, sét, độc, tâm linh hoặc sấm.
 
-### Nói Chuyện Với Người Chết (Speak with Dead)
-*Cấp độ 3 Necromancy (Bard, Cleric, Wizard)*
-- Casting Time: Action
-- Range: 10 feet
-- Components: V, S, M (nhang đang cháy)
-- Duration: 10 phút
+Nếu một viên d8 của phép ra 8, bạn có thể tung thêm một d8 và cộng vào sát thương. Mỗi lần thi triển, số d8 thêm tối đa có thể cộng vào sát thương bằng hệ số thuộc tính thi triển phép của bạn.
 
-Bạn ban cho một xác chết theo lựa chọn của bạn trong tầm đánh dáng vẻ của sự sống, cho phép nó trả lời các câu hỏi bạn đặt ra. Xác chết phải có miệng, và spell này thất bại nếu creature đã khuất là Undead khi chết. Spell cũng thất bại nếu xác chết đã là mục tiêu của spell này trong 10 ngày qua.
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 
-Cho đến khi phép thuật kết thúc, bạn có thể hỏi xác chết tối đa năm câu hỏi. Xác chết chỉ biết những gì nó biết khi còn sống, bao gồm các ngôn ngữ nó biết. Câu trả lời thường ngắn gọn, bí ẩn, hoặc lặp lại, và xác chết không bị ép buộc đưa ra câu trả lời trung thực nếu bạn thù địch với nó hoặc nó nhận ra bạn là kẻ địch. Spell này không trả linh hồn của creature về thân xác nó, chỉ trả tinh thần hoạt hóa của nó. Vì vậy, xác chết không thể học thông tin mới, không hiểu bất cứ điều gì đã xảy ra kể từ khi nó chết, và không thể suy đoán về các sự kiện tương lai.
+### Cứu người hấp hối (Spare the Dying)
 
-### Nói Chuyện Với Thực Vật (Speak with Plants)
-*Cấp độ 3 Transmutation (Bard, Druid, Ranger)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: 10 phút
+*Phép sơ cấp Tử linh (Giáo sĩ, Druid)*
 
-Bạn truyền vào thực vật trong một 30-foot Emanation bất động một ý thức và khả năng vận động hạn chế, cho chúng khả năng giao tiếp với bạn và tuân theo các mệnh lệnh đơn giản của bạn. Bạn có thể hỏi thực vật về các sự kiện trong khu vực của spell trong ngày qua, nhận thông tin về các creature đã đi qua, thời tiết, và các hoàn cảnh khác.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 4,5 m (15 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Bạn cũng có thể biến Difficult Terrain do sự phát triển của thực vật gây ra (chẳng hạn bụi rậm và cây bụi) thành địa hình bình thường kéo dài trong suốt thời lượng. Hoặc bạn có thể biến địa hình bình thường nơi có thực vật thành Difficult Terrain kéo dài trong suốt thời lượng.
+Chọn một sinh vật trong tầm có 0 HP và chưa chết. Sinh vật trở nên Ổn định.
 
-Spell không cho phép thực vật tự nhổ rễ và di chuyển, nhưng chúng có thể di chuyển cành, tua cuốn, và thân cho bạn.
+*Nâng cấp phép sơ cấp.* Tầm nhân đôi khi bạn đạt cấp 5 (9 m; 30 feet), 11 (18 m; 60 feet) và 17 (36 m; 120 feet).
 
-Nếu một creature Plant ở trong khu vực, bạn có thể giao tiếp với nó như thể bạn chia sẻ một ngôn ngữ chung.
+### Nói chuyện với muông thú (Speak with Animals)
 
-### Leo Tường Nhện (Spider Climb)
-*Cấp độ 2 Transmutation (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một giọt hắc ín và một con nhện)
-- Duration: Concentration, up to 1 hour
+*Tiên tri bậc 1 (Thi sĩ, Druid, Kiểm lâm, Warlock)*
 
-Cho đến khi phép thuật kết thúc, một creature tự nguyện bạn chạm vào có được khả năng di chuyển lên, xuống, và ngang qua các bề mặt thẳng đứng và dọc theo trần nhà, trong khi vẫn để tay rảnh. Mục tiêu cũng nhận Climb Speed bằng Speed của nó.
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 10 phút
 
-*Using a Higher-Level Spell Slot:* Bạn có thể nhắm thêm một creature cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Trong suốt thời lượng, bạn hiểu và trò chuyện bằng lời được với Thú, và có thể dùng mọi lựa chọn kỹ năng của hành động Tác động với chúng.
 
-### Gai Tăng Trưởng (Spike Growth)
-*Cấp độ 2 Transmutation (Druid, Ranger)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (bảy cái gai)
-- Duration: Concentration, up to 10 minutes
+Hầu hết Thú không có nhiều điều để nói ngoài chuyện sinh tồn hay bầu bạn, nhưng ít nhất, một con Thú có thể cho bạn biết về các địa điểm và quái vật gần đó, kể cả những gì nó cảm nhận được trong ngày qua.
 
-Mặt đất trong một Sphere bán kính 20-foot có tâm tại một điểm trong tầm đánh mọc lên các gai và chông cứng. Khu vực trở thành Difficult Terrain trong suốt thời lượng. Khi một creature di chuyển vào hoặc trong khu vực, nó nhận 2d4 damage Piercing cho mỗi 5 feet nó di chuyển.
+### Nói với người chết (Speak with Dead)
 
-Sự biến đổi của mặt đất được ngụy trang để trông tự nhiên. Bất kỳ creature nào không thể nhìn thấy khu vực khi spell được thi triển phải thực hiện một action Search và thành công trong một Wisdom (Perception hoặc Survival) check chống lại spell save DC của bạn để nhận ra địa hình là nguy hiểm trước khi bước vào nó.
+*Tử linh bậc 3 (Thi sĩ, Giáo sĩ, Pháp sư)*
 
-### Linh Hồn Hộ Vệ (Spirit Guardians)
-*Cấp độ 3 Conjuration (Cleric)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một cuộn giấy cầu nguyện)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S, M (nhang đang cháy)
+- **Thời lượng:** 10 phút
 
-Các linh hồn hộ vệ bay lượn quanh bạn trong một 15-foot Emanation trong suốt thời lượng. Nếu bạn tốt hoặc trung lập, hình dạng ma quái của chúng trông giống thiên thần hoặc yêu tinh (tùy bạn chọn). Nếu bạn evil, chúng trông như ác quỷ.
+Bạn ban cho một thi thể tùy chọn trong tầm chút dáng vẻ sự sống, cho phép nó trả lời câu hỏi của bạn. Thi thể phải còn miệng, và phép thất bại nếu người chết là Xác sống khi chết. Phép cũng thất bại nếu thi thể đã là mục tiêu của phép này trong 10 ngày qua.
 
-Khi thi triển spell này, bạn có thể chỉ định các creature không bị ảnh hưởng bởi nó. Speed của bất kỳ creature nào khác giảm một nửa trong Emanation, và bất cứ khi nào Emanation vào không gian của một creature và bất cứ khi nào một creature vào Emanation hoặc kết thúc turn ở đó, creature phải thực hiện một Wisdom saving throw. Nếu thất bại, creature nhận 3d8 damage Radiant (nếu bạn tốt hoặc trung lập) hoặc 3d8 damage Necrotic (nếu bạn evil). Nếu thành công, creature chỉ nhận một nửa lượng damage đó. Một creature chỉ thực hiện save này một lần mỗi turn.
+Cho đến khi phép kết thúc, bạn có thể hỏi thi thể tối đa năm câu. Thi thể chỉ biết những gì nó biết khi còn sống, kể cả ngôn ngữ. Câu trả lời thường ngắn gọn, bí ẩn hoặc lặp lại, và thi thể không bị buộc phải trả lời thật nếu bạn thù địch với nó hoặc nó nhận ra bạn là kẻ thù. Phép không trả linh hồn về thể xác, chỉ gọi dậy chút sinh khí còn sót lại. Vì vậy thi thể không học được thông tin mới, không hiểu những gì xảy ra sau khi chết và không thể suy đoán về tương lai.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+### Nói chuyện với thực vật (Speak with Plants)
 
-### Weapon Linh Hồn (Spiritual Weapon)
-*Cấp độ 2 Evocation (Cleric)*
-- Casting Time: Bonus Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Biến đổi bậc 3 (Thi sĩ, Druid, Kiểm lâm)*
 
-Bạn tạo ra một lực ma quái lơ lửng giống một weapon theo lựa chọn của bạn và tồn tại trong suốt thời lượng. Lực xuất hiện trong tầm đánh tại một không gian theo lựa chọn của bạn, và bạn có thể ngay lập tức thực hiện một melee spell attack nhắm vào một creature trong vòng 5 feet của lực. Nếu trúng, mục tiêu nhận damage Force bằng 1d8 cộng spellcasting ability modifier của bạn.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** 10 phút
 
-Như một Bonus Action ở các turn sau, bạn có thể di chuyển lực tối đa 20 feet và lặp lại cuộc tấn công nhắm vào một creature trong vòng 5 feet của nó.
+Bạn truyền cho cây cỏ trong vùng tỏa 9 m (30 feet) cố định quanh mình chút tri giác và khả năng cử động hạn chế, giúp chúng giao tiếp với bạn và làm theo mệnh lệnh đơn giản. Bạn có thể hỏi cây cỏ về các sự kiện trong vùng của phép trong ngày qua, biết về sinh vật đã đi qua, thời tiết và những hoàn cảnh khác.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 2.
+Bạn cũng có thể biến địa hình khó đi do cây cỏ mọc um tùm (như bụi rậm, cây bụi) thành địa hình bình thường suốt thời lượng. Hoặc biến địa hình bình thường có cây cỏ thành địa hình khó đi suốt thời lượng.
 
-### Tia Sao (Starry Wisp)
-*Cantrip Evocation (Bard, Druid)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Instantaneous
+Phép không cho cây cỏ tự nhổ rễ và di chuyển, nhưng chúng có thể cử động cành, tua cuốn và thân theo ý bạn.
 
-Bạn phóng một hạt ánh sáng về phía một creature hoặc object trong tầm đánh. Thực hiện một ranged spell attack nhắm vào mục tiêu. Nếu trúng, mục tiêu nhận 1d8 damage Radiant, và cho đến hết turn tiếp theo của bạn, nó tỏa Dim Light trong bán kính 10 feet và không thể hưởng lợi từ condition Invisible.
+Nếu có sinh vật Thực vật trong vùng, bạn có thể giao tiếp với nó như thể chung ngôn ngữ.
 
-*Cantrip Upgrade:* Damage tăng thêm 1d8 khi bạn đạt cấp độ 5 (2d8), 11 (3d8), và 17 (4d8).
+### Leo như nhện (Spider Climb)
 
-### Đám Mây Hôi Thối (Stinking Cloud)
-*Cấp độ 3 Conjuration (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 90 feet
-- Components: V, S, M (một quả trứng thối)
-- Duration: Concentration, up to 1 minute
+*Biến đổi bậc 2 (Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn tạo ra một Sphere bán kính 20-foot khí gas vàng gây buồn nôn có tâm tại một điểm trong tầm đánh. Đám mây bị Heavily Obscured. Đám mây lưu lại trong không khí trong suốt thời lượng hoặc cho đến khi gió mạnh (chẳng hạn gió được tạo bởi Gust of Wind) làm nó tan đi.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một giọt nhựa đường và một con nhện)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-Mỗi creature bắt đầu turn của nó trong Sphere phải thành công trong một Constitution saving throw hoặc có condition Poisoned cho đến hết turn hiện tại. Khi đang Poisoned theo cách này, creature không thể thực hiện một action hay Bonus Action.
+Cho đến khi phép kết thúc, một sinh vật tự nguyện bạn chạm vào có thể di chuyển lên, xuống, ngang qua bề mặt thẳng đứng và bò ngược trên trần mà hai tay vẫn rảnh. Mục tiêu cũng có Tốc độ leo bằng Tốc độ của nó.
 
-### Định Hình Đá (Stone Shape)
-*Cấp độ 4 Transmutation (Cleric, Druid, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (đất sét mềm)
-- Duration: Instantaneous
+*Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 2.
 
-Bạn chạm vào một object bằng đá kích thước Medium trở xuống hoặc một phần đá không quá 5 feet theo bất kỳ chiều nào và tạo hình nó thành bất kỳ hình dạng nào bạn thích. Ví dụ, bạn có thể tạo hình một tảng đá lớn thành một weapon, tượng, hoặc hòm, hoặc bạn có thể tạo một lối đi nhỏ xuyên qua một bức tường dày 5 feet. Bạn cũng có thể tạo hình một cánh cửa đá hoặc khung của nó để niêm phong cánh cửa. Object bạn tạo có thể có tối đa hai bản lề và một chốt, nhưng chi tiết cơ khí tinh vi hơn thì không thể.
+### Gai tăng trưởng (Spike Growth)
 
-### Da Đá (Stoneskin)
-*Cấp độ 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bột kim cương trị giá 100+ GP, bị phép thuật tiêu thụ)
-- Duration: Concentration, up to 1 hour
+*Biến đổi bậc 2 (Druid, Kiểm lâm)*
 
-Cho đến khi phép thuật kết thúc, một creature tự nguyện bạn chạm vào có Resistance với damage Bludgeoning, Piercing, và Slashing.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (bảy chiếc gai)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-### Bão Báo Thù (Storm of Vengeance)
-*Cấp độ 9 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 1 dặm
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+Mặt đất trong hình cầu bán kính 6 m (20 feet) lấy một điểm trong tầm làm tâm mọc lên gai nhọn cứng. Khu vực trở thành địa hình khó đi suốt thời lượng. Khi sinh vật di chuyển vào hoặc trong khu vực, nó chịu 2d4 sát thương xuyên cho mỗi 1,5 m (5 feet) di chuyển.
 
-Một đám mây bão cuộn trào hình thành trong suốt thời lượng, có tâm tại một điểm trong tầm đánh và lan rộng đến bán kính 300 feet. Mỗi creature dưới đám mây khi nó xuất hiện phải thành công trong một Constitution saving throw hoặc nhận 2d6 damage Thunder và có condition Deafened trong suốt thời lượng.
+Sự biến đổi mặt đất được ngụy trang trông tự nhiên. Sinh vật không nhìn thấy khu vực lúc phép được thi triển phải dùng hành động Tìm kiếm và thành công phép kiểm tra Minh triết (Tri giác hoặc Sinh tồn) với DC cứu nguy phép của bạn mới nhận ra địa hình nguy hiểm trước khi bước vào.
 
-Vào đầu mỗi turn sau của bạn, cơn bão tạo ra các hiệu ứng khác nhau, như trình bày chi tiết dưới đây.
+### Linh thể hộ vệ (Spirit Guardians)
 
-- **Turn 2.** Mưa acid rơi xuống. Mỗi creature và object dưới đám mây nhận 4d6 damage Acid.
-- **Turn 3.** Bạn gọi sáu tia sét từ đám mây đánh vào sáu creature hoặc object khác nhau bên dưới nó. Mỗi mục tiêu thực hiện một Dexterity saving throw, nhận 10d6 damage Lightning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
-- **Turn 4.** Mưa đá trút xuống. Mỗi creature dưới đám mây nhận 2d6 damage Bludgeoning.
-- **Turns 5–10.** Gió giật và mưa lạnh buốt tấn công khu vực dưới đám mây. Mỗi creature ở đó nhận 1d6 damage Cold. Cho đến khi phép thuật kết thúc, khu vực là Difficult Terrain và Heavily Obscured, ranged attack bằng weapon là bất khả thi ở đó, và gió mạnh thổi qua khu vực.
+*Triệu hồi bậc 3 (Giáo sĩ)*
 
-### Gợi Ý (Suggestion)
-*Cấp độ 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, M (một giọt mật ong)
-- Duration: Concentration, up to 8 hours
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một cuộn giấy chép lời cầu nguyện)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bạn gợi ý một chuỗi hoạt động — mô tả trong không quá 25 từ — cho một creature bạn có thể nhìn thấy trong tầm đánh có thể nghe và hiểu bạn. Gợi ý phải nghe có vẻ khả thi và không liên quan đến điều gì rõ ràng sẽ gây damage cho mục tiêu hoặc đồng minh của nó. Ví dụ, bạn có thể nói, "Hãy lấy chìa khóa của kho báu giáo phái, và đưa chìa khóa cho tôi." Hoặc bạn có thể nói, "Dừng chiến đấu, rời khỏi thư viện này một cách hòa bình, và đừng quay lại."
+Linh thể hộ vệ bay lượn quanh bạn trong vùng tỏa 4,5 m (15 feet) suốt thời lượng. Nếu bạn thiện hoặc trung lập, hình dạng ma quái của chúng giống thiên thần hoặc tiên (tùy bạn chọn). Nếu bạn ác, chúng giống ác quỷ.
 
-Mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Charmed trong suốt thời lượng hoặc cho đến khi bạn hoặc đồng minh của bạn gây damage lên mục tiêu. Mục tiêu bị Charmed theo đuổi gợi ý hết khả năng của mình. Hoạt động được gợi ý có thể tiếp tục trong suốt toàn bộ thời lượng, nhưng nếu hoạt động được gợi ý có thể hoàn thành trong thời gian ngắn hơn, spell kết thúc đối với mục tiêu khi hoàn thành nó.
+Khi thi triển, bạn có thể chỉ định những sinh vật không chịu ảnh hưởng. Tốc độ của mọi sinh vật khác giảm một nửa trong vùng tỏa, và mỗi khi vùng tỏa đi vào chỗ của một sinh vật, và mỗi khi sinh vật đi vào vùng tỏa hoặc kết thúc lượt ở đó, nó phải cứu nguy Minh triết. Nếu thất bại, sinh vật chịu 3d8 sát thương quang (nếu bạn thiện hoặc trung lập) hoặc 3d8 sát thương hoại tử (nếu bạn ác). Nếu thành công, nó chỉ chịu một nửa. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
 
-### Triệu Hồi Rồng (Summon Dragon)
-*Cấp độ 5 Conjuration (Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một object có hình ảnh một con rồng khắc trên đó trị giá 500+ GP)
-- Duration: Concentration, up to 1 hour
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 3.
 
-Bạn gọi một Draconic Spirit. Nó hiện lên trong một không gian trống bạn có thể nhìn thấy trong tầm đánh và dùng stat block Draconic Spirit. Creature biến mất khi nó giảm xuống 0 Hit Points hoặc khi spell kết thúc.
+### Vũ khí linh thể (Spiritual Weapon)
 
-Creature là đồng minh của bạn và đồng minh của bạn. Trong combat, creature chia sẻ Initiative của bạn, nhưng thực hiện turn ngay sau turn của bạn. Nó tuân theo mệnh lệnh bằng lời của bạn (không cần action từ bạn). Nếu bạn không đưa ra lệnh nào, nó thực hiện action Dodge và dùng movement để tránh nguy hiểm.
+*Gọi năng lượng bậc 2 (Giáo sĩ)*
 
-*Using a Higher-Level Spell Slot:* Dùng cấp độ của ô phép thuật cho cấp độ của spell trong stat block.
+- **Thời gian thi triển:** Hành động phụ
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-**Draconic Spirit**
-*Large Dragon, Neutral*
-- AC 14 + cấp độ của spell
-- HP 50 + 10 cho mỗi cấp độ spell trên cấp độ 5
-- Speed 30 ft., Fly 60 ft., Swim 30 ft.
-- Str 19 (+4, +4) Dex 14 (+2, +2) Con 17 (+3, +3) Int 10 (+0, +0) Wis 14 (+2, +2) Cha 14 (+2, +2)
-- Resistances: Acid, Cold, Fire, Lightning, Poison
-- Immunities: Charmed, Frightened, Poisoned
-- Senses: Blindsight 30 ft., Darkvision 60 ft.; Passive Perception 12
-- Languages: Draconic, hiểu các ngôn ngữ bạn biết
-- CR None (XP 0; PB bằng Proficiency Bonus của bạn)
-- **Traits.** *Shared Resistances.* Khi bạn triệu hồi linh hồn, chọn một trong các Resistance của nó. Bạn có Resistance với loại damage đã chọn cho đến khi spell kết thúc.
-- **Actions.** *Multiattack.* Linh hồn thực hiện một số cuộc tấn công Rend bằng một nửa cấp độ của spell (làm tròn xuống), và nó dùng Breath Weapon. *Rend.* Melee Attack Roll: Bonus bằng spell attack modifier của bạn, reach 10 feet. Hit: 1d6 + 4 + cấp độ của spell damage Piercing. *Breath Weapon.* Dexterity Saving Throw: DC bằng spell save DC của bạn, mỗi creature trong một 30-foot Cone. Failure: 2d6 damage thuộc một loại linh hồn này có Resistance (tùy bạn chọn khi thi triển spell). Success: Một nửa damage.
+Bạn tạo một khối lực ma quái lơ lửng mang hình một vũ khí tùy chọn, tồn tại suốt thời lượng. Khối lực xuất hiện tại một chỗ tùy chọn trong tầm, và bạn có thể lập tức tung tấn công cận chiến bằng phép nhắm vào một sinh vật trong phạm vi 1,5 m (5 feet) quanh nó. Nếu trúng, mục tiêu chịu sát thương lực bằng 1d8 + hệ số thuộc tính thi triển phép của bạn.
 
-### Tia Nắng (Sunbeam)
-*Cấp độ 6 Evocation (Cleric, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S, M (một kính lúp)
-- Duration: Concentration, up to 1 minute
+Bằng hành động phụ ở các lượt sau, bạn có thể di chuyển khối lực tối đa 6 m (20 feet) và lặp lại đòn tấn công nhắm vào một sinh vật trong phạm vi 1,5 m (5 feet) quanh nó.
 
-Bạn phóng một tia nắng trong một Line rộng 5-foot, dài 60-foot. Mỗi creature trong Line thực hiện một Constitution saving throw. Nếu thất bại, một creature nhận 6d8 damage Radiant và có condition Blinded cho đến khi bắt đầu turn tiếp theo của bạn. Nếu thành công, nó chỉ nhận một nửa lượng damage đó.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 2.
 
-Cho đến khi phép thuật kết thúc, bạn có thể thực hiện Magic action để tạo một Line ánh sáng mới.
+### Đốm sao (Starry Wisp)
 
-Trong suốt thời lượng, một hạt ánh sáng rực rỡ tỏa sáng phía trên bạn. Nó tỏa Bright Light trong bán kính 30 feet và Dim Light thêm 30 feet nữa. Ánh sáng này là ánh nắng mặt trời.
+*Phép sơ cấp Gọi năng lượng (Thi sĩ, Druid)*
 
-### Bùng Nổ Mặt Trời (Sunburst)
-*Cấp độ 8 Evocation (Cleric, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một mẩu đá mặt trời)
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-Ánh nắng rực rỡ lóe lên trong một Sphere bán kính 60-foot có tâm tại một điểm bạn chọn trong tầm đánh. Mỗi creature trong Sphere thực hiện một Constitution saving throw. Nếu thất bại, một creature nhận 12d6 damage Radiant và có condition Blinded trong 1 phút. Nếu thành công, nó chỉ nhận một nửa lượng damage đó.
+Bạn phóng một đốm sáng về phía một sinh vật hoặc đồ vật trong tầm. Tung tấn công tầm xa bằng phép nhắm vào mục tiêu. Nếu trúng, mục tiêu chịu 1d8 sát thương quang, và cho đến hết lượt kế tiếp của bạn, nó tỏa ánh sáng yếu trong bán kính 3 m (10 feet) và không được hưởng lợi từ trạng thái Vô hình.
 
-Một creature bị Blinded bởi spell này thực hiện thêm một Constitution saving throw vào cuối mỗi turn của nó, kết thúc hiệu ứng trên bản thân nếu thành công.
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d8 khi bạn đạt cấp 5 (2d8), 11 (3d8) và 17 (4d8).
 
-Spell này dispel Darkness trong khu vực của nó được tạo bởi bất kỳ spell nào.
+### Đám mây hôi thối (Stinking Cloud)
 
-### Biểu Tượng (Symbol)
-*Cấp độ 7 Abjuration (Bard, Cleric, Druid, Wizard)*
-- Casting Time: 1 phút
-- Range: Touch
-- Components: V, S, M (bột kim cương trị giá 1.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Until dispelled or triggered
+*Triệu hồi bậc 3 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
-Bạn khắc một chú văn có hại trên một bề mặt (chẳng hạn một phần sàn hoặc tường) hoặc bên trong một object có thể đóng lại (chẳng hạn một cuốn sách hoặc rương). Chú văn có thể bao phủ một khu vực không lớn hơn 10 feet đường kính. Nếu bạn chọn một object, nó phải giữ nguyên vị trí; nếu nó bị di chuyển hơn 10 feet từ nơi bạn thi triển spell này, chú văn bị phá vỡ, và spell kết thúc mà không được kích hoạt.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 27 m (90 feet)
+- **Thành phần:** V, S, M (một quả trứng thối)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Chú văn gần như không thể nhận thấy và cần một Wisdom (Perception) check thành công chống lại spell save DC của bạn để phát hiện.
+Bạn tạo một hình cầu bán kính 6 m (20 feet) chứa khí vàng gây buồn nôn, lấy một điểm trong tầm làm tâm. Đám mây bị che khuất nặng, lơ lửng trong không khí suốt thời lượng hoặc đến khi gió mạnh (như gió của *Cơn gió lốc* — Gust of Wind) thổi tan.
 
-Khi khắc chú văn, bạn đặt điều kiện kích hoạt của nó và chọn hiệu ứng nào biểu tượng mang: Death, Discord, Fear, Pain, Sleep, hoặc Stunning. Mỗi loại được giải thích dưới đây.
+Mỗi sinh vật bắt đầu lượt trong hình cầu phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Trúng độc đến hết lượt hiện tại. Khi Trúng độc theo cách này, sinh vật không thể dùng hành động hay hành động phụ.
 
-**Set the Trigger.** Bạn quyết định điều gì kích hoạt chú văn khi thi triển spell. Với các chú văn khắc trên bề mặt, các điều kiện kích hoạt phổ biến bao gồm chạm vào hoặc bước lên chú văn, di chuyển một object khác đang che nó, hoặc đến gần nó trong một khoảng cách nhất định. Với các chú văn khắc bên trong một object, các điều kiện kích hoạt phổ biến bao gồm mở object đó hoặc nhìn thấy chú văn.
+### Định hình đá (Stone Shape)
 
-Bạn có thể tinh chỉnh điều kiện kích hoạt để chỉ các creature thuộc loại nhất định mới kích hoạt nó (ví dụ, chú văn có thể được đặt để ảnh hưởng đến Aberration). Bạn cũng có thể đặt điều kiện cho các creature không kích hoạt chú văn, chẳng hạn những creature nói một mật khẩu nhất định.
+*Biến đổi bậc 4 (Giáo sĩ, Druid, Pháp sư)*
 
-Khi được kích hoạt, chú văn phát sáng, lấp đầy một Sphere bán kính 60-foot với Dim Light trong 10 phút, sau đó spell kết thúc. Mỗi creature trong Sphere khi chú văn kích hoạt bị nhắm bởi hiệu ứng của nó, cũng như một creature vào Sphere lần đầu trong một turn hoặc kết thúc turn ở đó. Một creature chỉ bị nhắm mỗi turn một lần.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (đất sét mềm)
+- **Thời lượng:** Tức thời
 
-- **Death.** Mỗi mục tiêu thực hiện một Constitution saving throw, nhận 10d10 damage Necrotic nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
-- **Discord.** Mỗi mục tiêu thực hiện một Wisdom saving throw. Nếu thất bại, một mục tiêu tranh cãi với các creature khác trong 1 phút. Trong thời gian này, nó không thể giao tiếp có ý nghĩa và có Disadvantage trên attack roll và ability check.
-- **Fear.** Mỗi mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Frightened trong 1 phút. Khi đang Frightened, mục tiêu phải di chuyển ít nhất 30 feet ra xa chú văn trong mỗi turn của nó, nếu có thể.
-- **Pain.** Mỗi mục tiêu phải thành công trong một Constitution saving throw hoặc có condition Incapacitated trong 1 phút.
-- **Sleep.** Mỗi mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Unconscious trong 10 phút. Một creature thức dậy nếu nó nhận damage hoặc nếu ai đó thực hiện một action để lay nó dậy.
-- **Stunning.** Mỗi mục tiêu phải thành công trong một Wisdom saving throw hoặc có condition Stunned trong 1 phút.
+Bạn chạm vào một đồ vật bằng đá cỡ Trung bình trở xuống hoặc một khối đá không quá 1,5 m (5 feet) theo mọi chiều và nặn nó thành hình tùy ý. Ví dụ, bạn có thể nặn tảng đá lớn thành vũ khí, tượng hay rương, hoặc tạo lối đi nhỏ xuyên qua bức tường dày 1,5 m (5 feet). Bạn cũng có thể nặn cánh cửa đá hoặc khung cửa để bịt kín cửa. Đồ vật bạn tạo có thể có tối đa hai bản lề và một then cài, nhưng không thể có chi tiết cơ khí tinh vi hơn.
 
-### Niệm Lực (Telekinesis)
-*Cấp độ 5 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: Concentration, up to 10 minutes
+### Da đá (Stoneskin)
 
-Bạn có được khả năng di chuyển hoặc thao túng creature hoặc object bằng ý nghĩ. Khi thi triển spell và như một Magic action ở các turn sau trước khi spell kết thúc, bạn có thể thực thi ý chí lên một creature hoặc object mà bạn có thể nhìn thấy trong tầm đánh, gây ra hiệu ứng phù hợp dưới đây. Bạn có thể ảnh hưởng cùng một mục tiêu round này qua round khác hoặc chọn một mục tiêu mới bất cứ lúc nào. Nếu bạn đổi mục tiêu, mục tiêu trước không còn bị ảnh hưởng bởi spell.
+*Biến đổi bậc 4 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
 
-- **Creature.** Bạn có thể cố di chuyển một creature kích thước Huge trở xuống. Mục tiêu phải thành công trong một Strength saving throw, nếu không bạn di chuyển nó tối đa 30 feet theo bất kỳ hướng nào trong tầm đánh của spell. Cho đến hết turn tiếp theo của bạn, creature có condition Restrained, và nếu bạn nhấc nó lên không trung, nó lơ lửng. Object rơi xuống vào cuối turn tiếp theo của bạn trừ khi bạn dùng lựa chọn này lên nó lần nữa và nó thất bại trong save.
-- **Object.** Bạn có thể cố di chuyển một object kích thước Huge trở xuống. Nếu object không đang được mặc hay mang theo, bạn tự động di chuyển nó tối đa 30 feet theo bất kỳ hướng nào trong tầm đánh của spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột kim cương trị giá 100+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-  Nếu object đang được mặc hoặc mang theo bởi một creature, creature đó phải thành công trong một Strength saving throw, nếu không bạn kéo object ra và di chuyển nó tối đa 30 feet theo bất kỳ hướng nào trong tầm đánh của spell.
+Cho đến khi phép kết thúc, một sinh vật tự nguyện bạn chạm vào kháng sát thương đập, xuyên và chém.
 
-  Bạn có thể thực hiện điều khiển tinh vi lên các object bằng nắm giữ niệm lực của mình, chẳng hạn thao tác một công cụ đơn giản.
+### Bão báo thù (Storm of Vengeance)
 
-### Liên Kết Thần Giao (Telepathic Bond)
-*Cấp độ 5 Divination (Bard, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (hai quả trứng)
-- Duration: 1 giờ
+*Triệu hồi bậc 9 (Druid)*
 
-Bạn tạo ra một liên kết thần giao cách cảm giữa tối đa tám creature tự nguyện theo lựa chọn của bạn trong tầm đánh, kết nối tâm linh mỗi creature với tất cả những creature khác trong suốt thời lượng. Các creature không thể giao tiếp bằng bất kỳ ngôn ngữ nào không bị ảnh hưởng bởi spell này.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 1,6 km (1 mile)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Cho đến khi phép thuật kết thúc, các mục tiêu có thể giao tiếp bằng thần giao cách cảm qua liên kết dù họ có chung ngôn ngữ hay không. Việc giao tiếp có thể thực hiện qua bất kỳ khoảng cách nào, dù nó không thể mở rộng đến các plane tồn tại khác.
+Một đám mây bão cuồn cuộn hình thành suốt thời lượng, lấy một điểm trong tầm làm tâm và lan rộng bán kính 90 m (300 feet). Mỗi sinh vật dưới đám mây khi nó xuất hiện phải thành công cứu nguy Thể chất, nếu không chịu 2d6 sát thương sấm và rơi vào trạng thái Điếc suốt thời lượng.
 
-### Dịch Chuyển (Teleport)
-*Cấp độ 7 Conjuration (Bard, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 10 feet
-- Components: V
-- Duration: Instantaneous
+Đầu mỗi lượt sau của bạn, cơn bão tạo hiệu ứng khác nhau, như dưới đây.
 
-Spell này ngay lập tức vận chuyển bạn và tối đa tám creature tự nguyện mà bạn có thể nhìn thấy trong tầm đánh, hoặc một object duy nhất bạn có thể nhìn thấy trong tầm đánh, đến một đích đến bạn chọn. Nếu bạn nhắm vào một object, nó phải có kích thước Large trở xuống, và nó không được cầm hay mang bởi một creature bất đắc dĩ.
+- **Lượt 2.** Mưa axit trút xuống. Mỗi sinh vật và đồ vật dưới đám mây chịu 4d6 sát thương axit.
+- **Lượt 3.** Bạn gọi sáu tia sét từ đám mây giáng vào sáu sinh vật hoặc đồ vật khác nhau bên dưới. Mỗi mục tiêu cứu nguy Khéo léo, chịu 10d6 sát thương sét nếu thất bại hoặc một nửa nếu thành công.
+- **Lượt 4.** Mưa đá trút xuống. Mỗi sinh vật dưới đám mây chịu 2d6 sát thương đập.
+- **Lượt 5–10.** Gió giật và mưa lạnh buốt quật vào khu vực dưới đám mây. Mỗi sinh vật ở đó chịu 1d6 sát thương lạnh. Cho đến khi phép kết thúc, khu vực là địa hình khó đi và bị che khuất nặng, không thể tấn công tầm xa bằng vũ khí ở đó, và gió mạnh thổi khắp khu vực.
 
-Đích đến bạn chọn phải là nơi bạn biết, và nó phải ở cùng plane tồn tại với bạn. Mức độ quen thuộc của bạn với đích đến quyết định liệu bạn có đến đó thành công hay không. GM tung 1d100 và tham khảo bảng **Teleportation Outcome** và giải thích sau nó.
+### Gợi ý (Suggestion)
 
-**Teleportation Outcome**
+*Yểm thuật bậc 2 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-| Familiarity | Mishap | Similar Area | Off Target | On Target |
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, M (một giọt mật ong)
+- **Thời lượng:** Tập trung, tối đa 8 giờ
+
+Bạn gợi ý một chuỗi hành động — mô tả không quá 25 chữ — cho một sinh vật bạn nhìn thấy trong tầm, nghe và hiểu được bạn. Lời gợi ý phải nghe có vẻ hợp lý và không liên quan đến việc hiển nhiên gây hại cho mục tiêu hay đồng minh của nó. Ví dụ, bạn có thể nói: "Lấy chìa khóa kho báu của giáo phái và đưa cho tôi." Hoặc: "Ngừng đánh nhau, rời thư viện này trong hòa bình và đừng quay lại."
+
+Mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Mê hoặc suốt thời lượng hoặc đến khi bạn hay đồng minh gây sát thương lên nó. Mục tiêu bị Mê hoặc làm theo lời gợi ý hết khả năng. Hoạt động được gợi ý có thể kéo dài trọn thời lượng, nhưng nếu hoàn thành sớm hơn, phép kết thúc khi mục tiêu hoàn thành.
+
+### Triệu hồi rồng (Summon Dragon)
+
+*Triệu hồi bậc 5 (Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một đồ vật khắc hình rồng trị giá 500+ gp)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn triệu gọi một Linh hồn rồng. Nó hiện ra tại một chỗ trống bạn nhìn thấy trong tầm và dùng khối thông số Linh hồn rồng. Sinh vật biến mất khi HP về 0 hoặc khi phép kết thúc.
+
+Sinh vật là đồng minh của bạn và các đồng minh của bạn. Trong chiến đấu, nó dùng chung Sáng kiến với bạn nhưng đi lượt ngay sau bạn. Nó tuân lệnh nói của bạn (bạn không cần dùng hành động). Nếu bạn không ra lệnh, nó dùng hành động Né tránh và di chuyển để tránh nguy hiểm.
+
+*Dùng ô phép bậc cao hơn.* Dùng bậc của ô phép làm bậc phép trong khối thông số.
+
+**Linh hồn rồng (Draconic Spirit)**
+
+*Rồng cỡ Lớn, trung lập*
+
+- **AC** 14 + bậc phép
+- **HP** 50 + 10 cho mỗi bậc phép trên 5
+- **Tốc độ** 9 m (30 ft.), Bay 18 m (60 ft.), Bơi 9 m (30 ft.)
+- **STR** 19 (+4, cứu nguy +4) · **DEX** 14 (+2, +2) · **CON** 17 (+3, +3) · **INT** 10 (+0, +0) · **WIS** 14 (+2, +2) · **CHA** 14 (+2, +2)
+- **Kháng:** axit, lạnh, lửa, sét, độc
+- **Miễn nhiễm:** Mê hoặc, Hoảng sợ, Trúng độc
+- **Giác quan:** cảm nhận mù 9 m (30 ft.), thị giác bóng tối 18 m (60 ft.); Tri giác thụ động 12
+- **Ngôn ngữ:** Draconic, hiểu các ngôn ngữ bạn biết
+- **CR** không có (XP 0; PB bằng thưởng thành thạo của bạn)
+
+*Đặc điểm*
+
+- *Chia sẻ kháng (Shared Resistances).* Khi triệu gọi linh hồn, chọn một trong các loại kháng của nó. Bạn kháng loại sát thương đã chọn đến khi phép kết thúc.
+
+*Hành động*
+
+- *Đa đòn (Multiattack).* Linh hồn thực hiện số đòn Xé bằng một nửa bậc phép (làm tròn xuống), và dùng Hơi thở vũ khí.
+- *Xé (Rend).* Tung tấn công cận chiến: điểm cộng bằng hệ số tấn công bằng phép của bạn, tầm với 3 m (10 ft.). Trúng: 1d6 + 4 + bậc phép sát thương xuyên.
+- *Hơi thở vũ khí (Breath Weapon).* Cứu nguy Khéo léo: DC bằng DC cứu nguy phép của bạn, mỗi sinh vật trong hình nón 9 m (30 ft.). Thất bại: 2d6 sát thương thuộc một loại mà linh hồn kháng (chọn khi thi triển phép). Thành công: Một nửa sát thương.
+
+### Tia nắng (Sunbeam)
+
+*Gọi năng lượng bậc 6 (Giáo sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một kính lúp)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn phóng một tia nắng thành đường thẳng rộng 1,5 m (5 feet), dài 18 m (60 feet). Mỗi sinh vật trong đường thẳng cứu nguy Thể chất. Nếu thất bại, sinh vật chịu 6d8 sát thương quang và rơi vào trạng thái Mù cho đến đầu lượt kế tiếp của bạn. Nếu thành công, nó chỉ chịu một nửa sát thương.
+
+Cho đến khi phép kết thúc, bạn có thể dùng hành động Ma thuật để tạo một đường thẳng ánh sáng mới.
+
+Suốt thời lượng, một đốm sáng rực lấp lánh phía trên bạn. Nó tỏa ánh sáng rõ trong bán kính 9 m (30 feet) và ánh sáng yếu thêm 9 m (30 feet). Ánh sáng này là ánh sáng mặt trời.
+
+### Bùng sáng mặt trời (Sunburst)
+
+*Gọi năng lượng bậc 8 (Giáo sĩ, Druid, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một mẩu đá mặt trời)
+- **Thời lượng:** Tức thời
+
+Ánh mặt trời chói lòa bùng lên trong hình cầu bán kính 18 m (60 feet) lấy một điểm tùy chọn trong tầm làm tâm. Mỗi sinh vật trong hình cầu cứu nguy Thể chất. Nếu thất bại, sinh vật chịu 12d6 sát thương quang và rơi vào trạng thái Mù trong 1 phút. Nếu thành công, nó chỉ chịu một nửa sát thương.
+
+Sinh vật bị phép làm Mù cứu nguy Thể chất thêm một lần vào cuối mỗi lượt của nó, chấm dứt hiệu ứng lên bản thân nếu thành công.
+
+Phép giải trừ mọi bóng tối do phép tạo ra trong vùng của nó.
+
+### Biểu tượng (Symbol)
+
+*Phòng hộ bậc 7 (Thi sĩ, Giáo sĩ, Druid, Pháp sư)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột kim cương trị giá 1.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Đến khi bị giải trừ hoặc kích hoạt
+
+Bạn khắc một chú văn gây hại lên một bề mặt (như một phần sàn hay tường) hoặc bên trong một đồ vật đóng lại được (như cuốn sách hay rương). Chú văn phủ khu vực không lớn hơn đường kính 3 m (10 feet). Nếu chọn đồ vật, nó phải nằm yên tại chỗ; nếu bị dời xa hơn 3 m (10 feet) khỏi nơi thi triển, chú văn bị phá vỡ và phép kết thúc mà không kích hoạt.
+
+Chú văn gần như vô hình, cần thành công phép kiểm tra Minh triết (Tri giác) với DC cứu nguy phép của bạn mới phát hiện được.
+
+Khi khắc chú văn, bạn đặt tác nhân kích hoạt và chọn hiệu ứng của biểu tượng: Tử vong, Bất hòa, Sợ hãi, Đau đớn, Giấc ngủ hoặc Choáng váng. Mỗi loại được giải thích dưới đây.
+
+**Đặt tác nhân kích hoạt (Set the Trigger).** Bạn quyết định điều gì kích hoạt chú văn khi thi triển. Với chú văn trên bề mặt, tác nhân thường gặp gồm chạm hoặc bước lên chú văn, dịch chuyển đồ vật che nó, hoặc đến gần trong một khoảng cách nhất định. Với chú văn bên trong đồ vật, tác nhân thường gặp gồm mở đồ vật hoặc nhìn thấy chú văn.
+
+Bạn có thể tinh chỉnh để chỉ sinh vật thuộc loại nhất định mới kích hoạt (chẳng hạn chỉ Dị thể). Bạn cũng có thể đặt điều kiện để một số sinh vật không kích hoạt, như những ai nói mật khẩu.
+
+Khi kích hoạt, chú văn phát sáng, phủ hình cầu bán kính 18 m (60 feet) bằng ánh sáng yếu trong 10 phút, sau đó phép kết thúc. Mỗi sinh vật trong hình cầu lúc chú văn kích hoạt chịu hiệu ứng của nó, cũng như sinh vật lần đầu đi vào hình cầu trong một lượt hoặc kết thúc lượt ở đó. Mỗi lượt một sinh vật chỉ bị nhắm một lần.
+
+- **Tử vong (Death).** Mỗi mục tiêu cứu nguy Thể chất, chịu 10d10 sát thương hoại tử nếu thất bại hoặc một nửa nếu thành công.
+- **Bất hòa (Discord).** Mỗi mục tiêu cứu nguy Minh triết. Nếu thất bại, mục tiêu cãi vã với sinh vật khác trong 1 phút. Trong thời gian đó, nó không thể giao tiếp có ý nghĩa và chịu bất lợi khi tung tấn công và kiểm tra thuộc tính.
+- **Sợ hãi (Fear).** Mỗi mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Hoảng sợ trong 1 phút. Khi Hoảng sợ, mục tiêu phải di chuyển ra xa chú văn ít nhất 9 m (30 feet) mỗi lượt nếu có thể.
+- **Đau đớn (Pain).** Mỗi mục tiêu phải thành công cứu nguy Thể chất, nếu không rơi vào trạng thái Mất năng lực hành động trong 1 phút.
+- **Giấc ngủ (Sleep).** Mỗi mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Bất tỉnh trong 10 phút. Sinh vật tỉnh dậy nếu chịu sát thương hoặc có người dùng hành động lay dậy.
+- **Choáng váng (Stunning).** Mỗi mục tiêu phải thành công cứu nguy Minh triết, nếu không rơi vào trạng thái Choáng trong 1 phút.
+
+### Niệm lực (Telekinesis)
+
+*Biến đổi bậc 5 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn có khả năng dùng ý nghĩ để di chuyển hay thao túng sinh vật và đồ vật. Khi thi triển, và bằng hành động Ma thuật ở các lượt sau trước khi phép kết thúc, bạn có thể dùng ý chí tác động lên một sinh vật hoặc đồ vật bạn nhìn thấy trong tầm, gây hiệu ứng tương ứng dưới đây. Bạn có thể tác động cùng một mục tiêu qua nhiều vòng hoặc chọn mục tiêu mới bất cứ lúc nào. Nếu đổi mục tiêu, mục tiêu cũ không còn chịu ảnh hưởng của phép.
+
+- **Sinh vật (Creature).** Bạn có thể cố di chuyển một sinh vật cỡ Khổng lồ trở xuống. Mục tiêu phải thành công cứu nguy Sức mạnh, nếu không bạn di chuyển nó tối đa 9 m (30 feet) theo mọi hướng trong tầm của phép. Cho đến hết lượt kế tiếp của bạn, sinh vật ở trạng thái Kiềm giữ, và nếu bị nhấc lên không trung, nó lơ lửng tại đó. Nó rơi xuống vào cuối lượt kế tiếp của bạn, trừ khi bạn dùng lại lựa chọn này lên nó và nó cứu nguy thất bại.
+- **Đồ vật (Object).** Bạn có thể cố di chuyển một đồ vật cỡ Khổng lồ trở xuống. Nếu không có ai mặc hay mang, bạn tự động di chuyển nó tối đa 9 m (30 feet) theo mọi hướng trong tầm của phép.
+
+  Nếu đồ vật đang được một sinh vật mặc hoặc mang, sinh vật đó phải thành công cứu nguy Sức mạnh, nếu không bạn giật đồ vật khỏi nó và di chuyển tối đa 9 m (30 feet) theo mọi hướng trong tầm của phép.
+
+  Bạn có thể điều khiển đồ vật một cách tinh tế bằng niệm lực, chẳng hạn thao tác một công cụ đơn giản.
+
+### Liên kết thần giao (Telepathic Bond)
+
+*Tiên tri bậc 5 (Thi sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (hai quả trứng)
+- **Thời lượng:** 1 giờ
+
+Bạn tạo liên kết thần giao cách cảm giữa tối đa tám sinh vật tự nguyện tùy chọn trong tầm, nối tâm trí mỗi sinh vật với mọi sinh vật khác suốt thời lượng. Sinh vật không giao tiếp được bằng ngôn ngữ nào không chịu ảnh hưởng của phép.
+
+Cho đến khi phép kết thúc, các mục tiêu có thể giao tiếp bằng thần giao cách cảm qua liên kết dù có chung ngôn ngữ hay không. Việc giao tiếp không giới hạn khoảng cách, nhưng không vươn sang được cõi tồn tại khác.
+
+### Dịch chuyển tức thời (Teleport)
+
+*Triệu hồi bậc 7 (Thi sĩ, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Phép lập tức đưa bạn và tối đa tám sinh vật tự nguyện bạn nhìn thấy trong tầm, hoặc một đồ vật duy nhất bạn nhìn thấy trong tầm, đến nơi tùy chọn. Nếu nhắm vào đồ vật, nó phải cỡ Lớn trở xuống và không được sinh vật không tự nguyện cầm hay mang.
+
+Nơi đến phải là nơi bạn biết và ở cùng cõi tồn tại với bạn. Mức độ quen thuộc với nơi đến quyết định bạn có đến nơi thành công không. GM tung 1d100 và tra bảng **Kết quả dịch chuyển** cùng phần giải thích bên dưới.
+
+**Kết quả dịch chuyển (Teleportation Outcome)**
+
+| Mức quen thuộc | Sự cố | Khu vực tương tự | Lệch đích | Đúng đích |
 |---|---|---|---|---|
-| Permanent circle | — | — | — | 01–00 |
-| Linked object | — | — | — | 01–00 |
-| Very familiar | 01–05 | 06–13 | 14–24 | 25–00 |
-| Seen casually | 01–33 | 34–43 | 44–53 | 54–00 |
-| Viewed once or described | 01–43 | 44–53 | 54–73 | 74–00 |
-| False destination | 01–50 | 51–00 | — | — |
+| Vòng dịch chuyển cố định | — | — | — | 01–00 |
+| Đồ vật liên kết | — | — | — | 01–00 |
+| Rất quen thuộc | 01–05 | 06–13 | 14–24 | 25–00 |
+| Từng thấy thoáng qua | 01–33 | 34–43 | 44–53 | 54–00 |
+| Thấy một lần hoặc qua mô tả | 01–43 | 44–53 | 54–73 | 74–00 |
+| Nơi đến giả | 01–50 | 51–00 | — | — |
 
-**Familiarity.** Đây là ý nghĩa của các thuật ngữ trong cột Familiarity của bảng:
+**Mức quen thuộc (Familiarity).** Ý nghĩa các mục trong cột Mức quen thuộc:
 
-- "Permanent circle" nghĩa là một teleportation circle vĩnh viễn mà bạn biết chuỗi ký hiệu (sigil sequence).
-- "Linked object" nghĩa là bạn sở hữu một object lấy từ đích đến mong muốn trong sáu tháng qua, chẳng hạn một cuốn sách từ thư viện của một pháp sư.
-- "Very familiar" là một nơi bạn đã đến thường xuyên, một nơi bạn đã nghiên cứu kỹ lưỡng, hoặc một nơi bạn có thể nhìn thấy khi thi triển spell.
-- "Seen casually" là một nơi bạn đã thấy nhiều hơn một lần nhưng không quen thuộc lắm.
-- "Viewed once or described" là một nơi bạn đã thấy một lần, có thể bằng phép thuật, hoặc một nơi bạn biết qua mô tả của người khác, có lẽ từ một bản đồ.
-- "False destination" là một nơi không tồn tại. Có lẽ bạn đã cố do thám thánh địa của kẻ địch nhưng thay vào đó nhìn thấy một ảo ảnh, hoặc bạn đang cố dịch chuyển đến một địa điểm không còn tồn tại.
+- "Vòng dịch chuyển cố định" là một vòng dịch chuyển vĩnh viễn mà bạn biết chuỗi ký hiệu.
+- "Đồ vật liên kết" nghĩa là bạn có một đồ vật lấy từ nơi muốn đến trong sáu tháng qua, như một cuốn sách từ thư viện của pháp sư.
+- "Rất quen thuộc" là nơi bạn thường lui tới, đã nghiên cứu kỹ, hoặc nhìn thấy được khi thi triển.
+- "Từng thấy thoáng qua" là nơi bạn đã thấy nhiều lần nhưng không quen lắm.
+- "Thấy một lần hoặc qua mô tả" là nơi bạn thấy một lần, có thể qua ma thuật, hoặc biết qua mô tả của người khác, có lẽ từ bản đồ.
+- "Nơi đến giả" là nơi không tồn tại. Có thể bạn cố do thám thánh địa của kẻ thù nhưng chỉ thấy ảo ảnh, hoặc đang cố dịch chuyển đến nơi không còn nữa.
 
-**Mishap.** Phép thuật khó lường của spell dẫn đến một hành trình khó khăn. Mỗi creature dịch chuyển (hoặc object mục tiêu) nhận 3d10 damage Force, và GM tung lại trên bảng để xem bạn kết thúc ở đâu (nhiều sự cố có thể xảy ra, mỗi lần gây damage).
+**Sự cố (Mishap).** Ma thuật khó lường khiến chuyến đi trắc trở. Mỗi sinh vật được dịch chuyển (hoặc đồ vật mục tiêu) chịu 3d10 sát thương lực, và GM tung lại trên bảng để xem bạn đến đâu (có thể xảy ra nhiều sự cố liên tiếp, mỗi lần đều gây sát thương).
 
-**Similar Area.** Bạn và nhóm của bạn (hoặc object mục tiêu) xuất hiện tại một khu vực khác về mặt thị giác hoặc chủ đề tương tự với khu vực mục tiêu. Bạn xuất hiện tại nơi tương tự gần nhất. Nếu bạn hướng đến phòng thí nghiệm của mình, ví dụ, bạn có thể xuất hiện trong phòng thí nghiệm của người khác trong cùng thành phố.
+**Khu vực tương tự (Similar Area).** Bạn và nhóm (hoặc đồ vật mục tiêu) đến một khu vực trông giống hoặc cùng chủ đề với nơi muốn đến, ở chỗ tương tự gần nhất. Ví dụ, nếu định về phòng thí nghiệm của mình, bạn có thể xuất hiện trong phòng thí nghiệm của người khác cùng thành phố.
 
-**Off Target.** Bạn và nhóm của bạn (hoặc object mục tiêu) xuất hiện cách đích đến 2d12 dặm theo một hướng ngẫu nhiên. Tung 1d8 để xác định hướng: 1, đông; 2, đông nam; 3, nam; 4, tây nam; 5, tây; 6, tây bắc; 7, bắc; hoặc 8, đông bắc.
+**Lệch đích (Off Target).** Bạn và nhóm (hoặc đồ vật mục tiêu) xuất hiện cách nơi đến 2d12 × 1,6 km (2d12 mile) theo hướng ngẫu nhiên. Tung 1d8 để chọn hướng: 1 đông; 2 đông nam; 3 nam; 4 tây nam; 5 tây; 6 tây bắc; 7 bắc; 8 đông bắc.
 
-**On Target.** Bạn và nhóm của bạn (hoặc object mục tiêu) xuất hiện đúng nơi bạn dự định.
+**Đúng đích (On Target).** Bạn và nhóm (hoặc đồ vật mục tiêu) xuất hiện đúng nơi dự định.
 
-### Vòng Dịch Chuyển (Teleportation Circle)
-*Cấp độ 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: 1 phút
-- Range: 10 feet
-- Components: V, M (mực hiếm trị giá 50+ GP, bị phép thuật tiêu thụ)
-- Duration: 1 round
+### Vòng dịch chuyển (Teleportation Circle)
 
-Khi thi triển spell, bạn vẽ một vòng tròn bán kính 5-foot trên mặt đất được khắc với các ký hiệu liên kết vị trí của bạn với một teleportation circle vĩnh viễn theo lựa chọn của bạn mà bạn biết chuỗi ký hiệu và ở cùng plane tồn tại với bạn. Một portal lấp lánh mở ra bên trong vòng tròn bạn vẽ và vẫn mở cho đến hết turn tiếp theo của bạn. Bất kỳ creature nào vào portal ngay lập tức xuất hiện trong vòng 5 feet của vòng tròn đích hoặc tại không gian trống gần nhất nếu không gian đó đã bị chiếm.
+*Triệu hồi bậc 5 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Nhiều ngôi đền lớn, hội quán, và các địa điểm quan trọng khác có teleportation circle vĩnh viễn. Mỗi vòng tròn bao gồm một chuỗi ký hiệu duy nhất — một chuỗi rune được sắp xếp theo một mẫu cụ thể.
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, M (mực quý trị giá 50+ gp, bị phép tiêu hao)
+- **Thời lượng:** 1 vòng
 
-Khi bạn lần đầu có khả năng thi triển spell này, bạn học chuỗi ký hiệu cho hai đích đến trên Material Plane, do GM xác định. Bạn có thể học thêm chuỗi ký hiệu trong các cuộc phiêu lưu của mình. Bạn có thể ghi nhớ một chuỗi ký hiệu mới sau khi nghiên cứu nó trong 1 phút.
+Khi thi triển, bạn vẽ một vòng tròn bán kính 1,5 m (5 feet) trên mặt đất, khắc các ký hiệu nối vị trí của bạn với một vòng dịch chuyển cố định tùy chọn mà bạn biết chuỗi ký hiệu và ở cùng cõi tồn tại. Một cánh cổng lung linh mở ra trong vòng tròn và mở đến hết lượt kế tiếp của bạn. Mọi sinh vật bước vào cổng lập tức xuất hiện trong phạm vi 1,5 m (5 feet) quanh vòng tròn đích, hoặc ở chỗ trống gần nhất nếu chỗ đó bị chiếm.
 
-Bạn có thể tạo một teleportation circle vĩnh viễn bằng cách thi triển spell này tại cùng địa điểm mỗi ngày trong 365 ngày.
+Nhiều đền thờ lớn, phường hội và địa điểm quan trọng khác có vòng dịch chuyển cố định. Mỗi vòng có một chuỗi ký hiệu riêng — các ký tự rune sắp xếp theo một mẫu nhất định.
 
-### Thuật Kỳ Diệu (Thaumaturgy)
-*Cantrip Transmutation (Cleric)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V
-- Duration: Up to 1 minute
+Khi mới có khả năng thi triển phép này, bạn học chuỗi ký hiệu của hai nơi đến ở Cõi Vật chất, do GM xác định. Bạn có thể học thêm chuỗi ký hiệu trong các cuộc phiêu lưu. Bạn ghi nhớ được chuỗi ký hiệu mới sau khi nghiên cứu nó 1 phút.
 
-Bạn thể hiện một điều kỳ diệu nhỏ trong tầm đánh. Bạn tạo ra một trong các hiệu ứng dưới đây trong tầm đánh. Nếu bạn thi triển spell này nhiều lần, bạn có thể có tối đa ba hiệu ứng 1-phút của nó hoạt động cùng lúc.
+Bạn có thể tạo vòng dịch chuyển cố định bằng cách thi triển phép này tại cùng một nơi mỗi ngày trong 365 ngày.
 
-- **Alter Eyes.** Bạn thay đổi diện mạo mắt của mình trong 1 phút.
-- **Booming Voice.** Giọng của bạn vang lên tối đa gấp ba lần bình thường trong 1 phút. Trong thời gian đó, bạn có Advantage trên Charisma (Intimidation) check.
-- **Invisible Hand.** Bạn khiến ngọn lửa lập lòe, sáng lên, mờ đi, hoặc đổi màu trong 1 phút.
-- **Phantom Sound.** Bạn ngay lập tức khiến một cánh cửa hoặc cửa sổ chưa khóa bật mở hoặc đóng sầm lại.
-- **Tremors.** Bạn tạo ra một âm thanh tức thời xuất phát từ một điểm theo lựa chọn của bạn trong tầm đánh, chẳng hạn tiếng sấm rền, tiếng quạ kêu, hoặc những lời thì thầm đáng ngại. Bạn gây ra các rung động vô hại trên mặt đất trong 1 phút.
+### Hiển phép (Thaumaturgy)
 
-### Sóng Sấm (Thunderwave)
-*Cấp độ 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Instantaneous
+*Phép sơ cấp Biến đổi (Giáo sĩ)*
 
-Bạn giải phóng một làn sóng năng lượng sấm sét. Mỗi creature trong một Cube 15-foot xuất phát từ bạn thực hiện một Constitution saving throw. Nếu thất bại, một creature nhận 2d8 damage Thunder và bị đẩy 10 feet ra xa bạn. Nếu thành công, một creature chỉ nhận một nửa lượng damage đó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tối đa 1 phút
 
-Ngoài ra, các object không cố định hoàn toàn bên trong Cube bị đẩy 10 feet ra xa bạn, và một tiếng nổ sấm có thể nghe thấy trong vòng 300 feet.
+Bạn thể hiện một điều kỳ diệu nhỏ trong tầm, tạo một trong các hiệu ứng dưới đây. Nếu thi triển phép nhiều lần, bạn có thể duy trì tối đa ba hiệu ứng kéo dài 1 phút cùng lúc.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 1.
+- **Đổi mắt (Altered Eyes).** Bạn thay đổi dáng vẻ đôi mắt trong 1 phút.
+- **Giọng vang (Booming Voice).** Giọng bạn vang to gấp ba lần bình thường trong 1 phút. Trong thời gian đó, bạn có lợi thế khi kiểm tra Sức hút (Uy hiếp).
+- **Đùa với lửa (Fire Play).** Bạn khiến ngọn lửa bập bùng, bừng sáng, lụi dần hoặc đổi màu trong 1 phút.
+- **Bàn tay vô hình (Invisible Hand).** Bạn lập tức khiến một cánh cửa hoặc cửa sổ không khóa bật mở hoặc đóng sầm.
+- **Âm thanh ma (Phantom Sound).** Bạn tạo một âm thanh tức thời phát ra từ một điểm tùy chọn trong tầm, như tiếng sấm rền, tiếng quạ kêu hay những lời thì thầm rợn người.
+- **Rung chấn (Tremors).** Bạn gây những rung chấn vô hại trên mặt đất trong 1 phút.
 
-### Dừng Thời Gian (Time Stop)
-*Cấp độ 9 Transmutation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V
-- Duration: Instantaneous
+### Sóng sấm (Thunderwave)
 
-Bạn tạm dừng dòng chảy thời gian đối với tất cả trừ bản thân bạn. Không thời gian nào trôi qua đối với các creature khác, trong khi bạn thực hiện 1d4 + 1 turn liên tiếp, trong đó bạn có thể dùng action và di chuyển như bình thường.
+*Gọi năng lượng bậc 1 (Thi sĩ, Druid, Thuật sĩ, Pháp sư)*
 
-Spell này kết thúc nếu một trong các action bạn dùng trong khoảng thời gian này, hoặc bất kỳ hiệu ứng nào bạn tạo ra trong đó, ảnh hưởng đến một creature khác ngoài bạn hoặc một object đang được mặc hay mang theo bởi ai đó khác ngoài bạn. Ngoài ra, spell kết thúc nếu bạn di chuyển đến một nơi cách xa hơn 1.000 feet từ vị trí bạn đã thi triển nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tức thời
 
-### Lều Nhỏ (Tiny Hut)
-*Cấp độ 3 Evocation (Bard, Wizard)*
-- Casting Time: 1 phút hoặc Ritual
-- Range: Self
-- Components: V, S, M (một hạt pha lê)
-- Duration: 8 hours
+Bạn giải phóng một làn sóng năng lượng sấm. Mỗi sinh vật trong khối lập phương 4,5 m (15 feet) xuất phát từ bạn cứu nguy Thể chất. Nếu thất bại, sinh vật chịu 2d8 sát thương sấm và bị đẩy ra xa bạn 3 m (10 feet). Nếu thành công, nó chỉ chịu một nửa sát thương.
 
-Một 10-foot Emanation xuất hiện quanh bạn và đứng yên trong suốt thời lượng. Spell thất bại khi bạn thi triển nó nếu Emanation không đủ lớn để bao trọn tất cả các creature trong khu vực của nó.
+Ngoài ra, đồ vật không được cố định nằm hoàn toàn trong khối lập phương bị đẩy ra xa bạn 3 m (10 feet), và một tiếng sấm vang lên, nghe được trong phạm vi 90 m (300 feet).
 
-Các creature và object bên trong Emanation khi bạn thi triển spell có thể di chuyển tự do qua nó. Tất cả các creature và object khác bị cấm đi qua nó. Các spell cấp độ 3 trở xuống không thể được thi triển xuyên qua nó, và hiệu ứng của các spell như vậy không thể mở rộng vào nó.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 1.
 
-Bầu không khí bên trong Emanation dễ chịu và khô ráo, bất kể thời tiết bên ngoài. Cho đến khi phép thuật kết thúc, bạn có thể ra lệnh cho bên trong có Dim Light hoặc Darkness (không cần action). Emanation không trong suốt từ bên ngoài và có bất kỳ màu nào bạn chọn, nhưng nó trong suốt từ bên trong.
+### Dừng thời gian (Time Stop)
 
-Spell kết thúc sớm nếu bạn rời khỏi Emanation hoặc nếu bạn thi triển nó lần nữa.
+*Biến đổi bậc 9 (Thuật sĩ, Pháp sư)*
 
-### Ngôn Ngữ (Tongues)
-*Cấp độ 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, M (một kim tự tháp thu nhỏ)
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
 
-Spell này ban cho creature bạn chạm vào khả năng hiểu bất kỳ ngôn ngữ nói hoặc ký hiệu nào nó nghe thấy hoặc thấy được. Hơn nữa, khi mục tiêu giao tiếp bằng cách nói hoặc ra ký hiệu, bất kỳ creature nào biết ít nhất một ngôn ngữ có thể hiểu nó nếu creature đó có thể nghe lời nói hoặc thấy ký hiệu.
+Bạn tạm dừng dòng thời gian với mọi thứ trừ bản thân. Thời gian không trôi với sinh vật khác, trong khi bạn có 1d4 + 1 lượt liên tiếp, trong đó bạn dùng hành động và di chuyển như bình thường.
 
-### Vận Chuyển Qua Thực Vật (Transport via Plants)
-*Cấp độ 6 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 10 feet
-- Components: V, S
-- Duration: 1 phút
+Phép kết thúc nếu một hành động bạn dùng trong khoảng này, hoặc hiệu ứng bạn tạo ra trong đó, ảnh hưởng đến sinh vật khác ngoài bạn hoặc đồ vật do người khác mặc hay mang. Phép cũng kết thúc nếu bạn di chuyển đến nơi cách chỗ thi triển hơn 300 m (1.000 feet).
 
-Spell này tạo ra một liên kết phép thuật giữa một cây vô tri kích thước Large trở lên trong tầm đánh và một cây khác, ở bất kỳ khoảng cách nào, trên cùng plane tồn tại. Bạn phải đã từng thấy hoặc chạm vào cây đích ít nhất một lần trước đó. Trong suốt thời lượng, bất kỳ creature nào có thể bước vào cây mục tiêu và thoát ra từ cây đích bằng cách dùng 5 feet movement.
+### Lều nhỏ (Tiny Hut)
 
-### Sải Bước Cây (Tree Stride)
-*Cấp độ 5 Conjuration (Druid, Ranger)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Gọi năng lượng bậc 3 (Thi sĩ, Pháp sư)*
 
-Bạn có được khả năng vào một cái cây và di chuyển từ bên trong nó đến bên trong một cái cây cùng loại khác trong vòng 500 feet. Cả hai cây phải còn sống và ít nhất cùng kích thước với bạn. Bạn phải dùng 5 feet movement để vào một cái cây. Bạn ngay lập tức biết vị trí của tất cả các cây cùng loại khác trong vòng 500 feet và, như một phần của lượt di chuyển dùng để vào cây, có thể hoặc đi vào một trong các cây đó hoặc bước ra khỏi cây bạn đang ở. Bạn xuất hiện tại một điểm theo lựa chọn của bạn trong vòng 5 feet của cây đích, dùng thêm 5 feet movement. Nếu bạn không còn movement, bạn xuất hiện trong vòng 5 feet của cây bạn đã vào.
+- **Thời gian thi triển:** 1 phút hoặc Nghi thức
+- **Tầm:** Bản thân
+- **Thành phần:** V, S, M (một hạt pha lê)
+- **Thời lượng:** 8 giờ
 
-Bạn chỉ có thể dùng khả năng vận chuyển này một lần mỗi turn của mình. Bạn phải kết thúc mỗi turn bên ngoài một cái cây.
+Một vùng tỏa 3 m (10 feet) xuất hiện quanh bạn và đứng yên suốt thời lượng. Phép thất bại khi thi triển nếu vùng tỏa không đủ lớn để bao trọn mọi sinh vật trong khu vực.
 
-### Biến Hình Toàn Vẹn (True Polymorph)
-*Cấp độ 9 Transmutation (Bard, Warlock, Wizard)*
-- Casting Time: Action
-- Range: 30 feet
-- Components: V, S, M (một giọt thủy ngân, một cục keo Ả Rập, và một làn khói)
-- Duration: Concentration, up to 1 hour
+Sinh vật và đồ vật ở trong vùng tỏa lúc thi triển có thể tự do đi qua nó. Mọi sinh vật và đồ vật khác không thể đi qua. Phép bậc 3 trở xuống không thể thi triển xuyên qua nó, và hiệu ứng của những phép đó không lan vào bên trong.
 
-Chọn một creature hoặc object phi phép thuật bạn có thể nhìn thấy trong tầm đánh. Creature biến hình thành một creature khác hoặc một object phi phép thuật, hoặc object biến hình thành một creature (object không được đang mặc hay mang theo). Sự biến hình kéo dài trong suốt thời lượng hoặc cho đến khi mục tiêu chết hoặc bị phá hủy, nhưng nếu bạn duy trì Concentration trên spell này trong toàn bộ thời lượng, spell kéo dài cho đến khi bị dispel.
+Không khí trong vùng tỏa dễ chịu và khô ráo bất kể thời tiết bên ngoài. Cho đến khi phép kết thúc, bạn có thể ra lệnh để bên trong có ánh sáng yếu hoặc bóng tối (không cần hành động). Từ bên ngoài, vùng tỏa không trong suốt và có màu tùy bạn chọn, nhưng từ bên trong thì trong suốt.
 
-**Creature into Creature.** Một creature bất đắc dĩ có thể thực hiện một Wisdom saving throw, và nếu thành công, nó không bị ảnh hưởng bởi spell này.
+Phép kết thúc sớm nếu bạn rời vùng tỏa hoặc thi triển lại phép.
 
-Nếu bạn biến một creature thành một loại creature khác, hình dạng mới có thể là bất kỳ loại nào bạn chọn có Challenge Rating bằng hoặc thấp hơn Challenge Rating hoặc level của mục tiêu. Chỉ số trò chơi của mục tiêu được thay thế bằng stat block của hình dạng mới, nhưng nó giữ lại Hit Points, Hit Point Dice, alignment, và tính cách của nó.
+### Ngôn ngữ (Tongues)
 
-Mục tiêu nhận một lượng Temporary Hit Points bằng Hit Points của hình dạng mới. Các Temporary Hit Points này biến mất nếu còn lại khi spell kết thúc.
+*Tiên tri bậc 3 (Thi sĩ, Giáo sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Mục tiêu bị giới hạn trong các action nó có thể thực hiện bởi cấu tạo cơ thể của hình dạng mới, và nó không thể nói hay thi triển spell.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, M (một kim tự tháp nhỏ)
+- **Thời lượng:** 1 giờ
 
-Trang bị của mục tiêu hòa vào hình dạng mới. Creature không thể dùng hoặc hưởng lợi theo cách khác từ bất kỳ trang bị nào đó.
+Phép cho sinh vật bạn chạm vào khả năng hiểu mọi ngôn ngữ nói hoặc ký hiệu mà nó nghe hay thấy. Hơn nữa, khi mục tiêu nói hoặc ra ký hiệu, mọi sinh vật biết ít nhất một ngôn ngữ đều hiểu nó nếu nghe được lời hoặc thấy được ký hiệu.
 
-**Object into Creature.** Bạn có thể biến một object thành bất kỳ loại creature nào, miễn là kích thước của creature không lớn hơn kích thước của object và creature đó có Challenge Rating 9 trở xuống. Creature là Friendly với bạn và đồng minh của bạn. Trong combat, nó thực hiện turn ngay sau turn của bạn, và nó tuân theo mệnh lệnh của bạn.
+### Vận chuyển qua thực vật (Transport via Plants)
 
-Nếu spell kéo dài hơn một giờ, bạn không còn kiểm soát creature nữa. Nó có thể vẫn Friendly với bạn, tùy thuộc vào cách bạn đối xử với nó.
+*Triệu hồi bậc 6 (Druid)*
 
-**Creature into Object.** Nếu bạn biến một creature thành một object, nó biến hình cùng với bất cứ thứ gì nó đang mặc và mang theo thành hình dạng đó, miễn là kích thước của object không lớn hơn kích thước của creature. Chỉ số của creature trở thành chỉ số của object, và creature không có ký ức về thời gian ở hình dạng này sau khi spell kết thúc và nó trở lại bình thường.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 3 m (10 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 1 phút
 
-### Hồi Sinh Toàn Diện (True Resurrection)
-*Cấp độ 9 Necromancy (Cleric, Druid)*
-- Casting Time: 1 giờ
-- Range: Touch
-- Components: V, S, M (kim cương trị giá 25.000+ GP, bị phép thuật tiêu thụ)
-- Duration: Instantaneous
+Phép tạo liên kết ma thuật giữa một cây vô tri cỡ Lớn trở lên trong tầm và một cây khác ở bất kỳ khoảng cách nào trên cùng cõi tồn tại. Bạn phải từng thấy hoặc chạm vào cây đích ít nhất một lần. Trong suốt thời lượng, mọi sinh vật có thể bước vào cây mục tiêu và ra từ cây đích bằng cách tiêu 1,5 m (5 feet) di chuyển.
 
-Bạn chạm vào một creature đã chết không quá 200 năm và đã chết vì bất kỳ lý do nào ngoại trừ tuổi già. Creature được hồi sinh với đầy đủ Hit Points.
+### Sải bước cây (Tree Stride)
 
-Spell này đóng tất cả các vết thương, trung hòa bất kỳ chất độc nào, chữa khỏi tất cả các bệnh dịch phép thuật, và gỡ bỏ bất kỳ lời nguyền nào ảnh hưởng đến creature khi nó chết. Spell thay thế các cơ quan và chi bị hư hại hoặc mất.
+*Triệu hồi bậc 5 (Druid, Kiểm lâm)*
 
-Nếu creature là Undead, nó được khôi phục về hình dạng không phải Undead của nó.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Spell có thể cung cấp một thân xác mới nếu bản gốc không còn tồn tại, trong trường hợp đó bạn phải nói tên của creature. Creature sau đó xuất hiện trong một không gian trống theo lựa chọn của bạn trong vòng 10 feet của bạn.
+Bạn có khả năng bước vào một cái cây và di chuyển từ bên trong nó sang bên trong một cây cùng loài trong phạm vi 150 m (500 feet). Cả hai cây phải còn sống và ít nhất to bằng bạn. Bạn phải tiêu 1,5 m (5 feet) di chuyển để vào cây. Bạn lập tức biết vị trí của mọi cây cùng loài trong phạm vi 150 m (500 feet) và, như một phần lượng di chuyển dùng để vào cây, có thể chuyển sang một trong các cây đó hoặc bước ra khỏi cây đang ở. Bạn xuất hiện tại một điểm tùy chọn trong phạm vi 1,5 m (5 feet) quanh cây đích, tiêu thêm 1,5 m (5 feet) di chuyển. Nếu không còn lượng di chuyển, bạn xuất hiện trong phạm vi 1,5 m (5 feet) quanh cây đã vào.
 
-### Thấy Thật (True Seeing)
-*Cấp độ 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (bột nấm trị giá 25+ GP, bị phép thuật tiêu thụ)
-- Duration: 1 giờ
+Mỗi lượt bạn chỉ dùng khả năng di chuyển này một lần. Bạn phải kết thúc mỗi lượt ở bên ngoài cây.
 
-Trong suốt thời lượng, creature tự nguyện bạn chạm vào có Truesight với tầm 120 feet.
+### Biến hình toàn vẹn (True Polymorph)
 
-### Đòn Đánh Chuẩn Xác (True Strike)
-*Cantrip Divination (Bard, Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: S, M (một weapon mà bạn có proficiency và trị giá từ 1+ CP)
-- Duration: Instantaneous
+*Biến đổi bậc 9 (Thi sĩ, Warlock, Pháp sư)*
 
-Được dẫn dắt bởi một tia sáng nhận thức phép thuật, bạn thực hiện một cuộc tấn công bằng weapon dùng khi thi triển spell. Cuộc tấn công dùng spellcasting ability của bạn cho attack và damage roll thay vì dùng Strength hoặc Dexterity. Nếu cuộc tấn công gây damage, nó có thể là damage Radiant hoặc loại damage bình thường của weapon (tùy bạn chọn).
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một giọt thủy ngân, một cục nhựa keo và một làn khói)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
 
-*Cantrip Upgrade:* Dù bạn gây damage Radiant hay loại damage bình thường của weapon, cuộc tấn công gây thêm damage Radiant khi bạn đạt cấp độ 5 (1d6), 11 (2d6), và 17 (3d6).
+Chọn một sinh vật hoặc đồ vật không ma thuật bạn nhìn thấy trong tầm. Sinh vật biến thành sinh vật khác hoặc đồ vật không ma thuật, hoặc đồ vật biến thành sinh vật (đồ vật không được có ai mặc hay mang). Biến đổi kéo dài suốt thời lượng hoặc đến khi mục tiêu chết hay bị phá hủy, nhưng nếu bạn duy trì Tập trung trọn thời lượng, phép kéo dài đến khi bị giải trừ.
 
-### Sóng Thần (Tsunami)
-*Cấp độ 8 Conjuration (Druid)*
-- Casting Time: 1 phút
-- Range: 1 dặm
-- Components: V, S
-- Duration: Concentration, up to 6 rounds
+**Sinh vật thành sinh vật (Creature into Creature).** Sinh vật không tự nguyện có thể cứu nguy Minh triết; nếu thành công, nó không chịu ảnh hưởng.
 
-Một bức tường nước xuất hiện tại một điểm bạn chọn trong tầm đánh. Bạn có thể tạo bức tường dài tới 300 feet, cao 300 feet, và dày 50 feet. Bức tường tồn tại trong suốt thời lượng.
+Nếu biến sinh vật thành loại sinh vật khác, dạng mới có thể là bất kỳ loại nào tùy chọn có Mức thách thức bằng hoặc thấp hơn Mức thách thức hay cấp của mục tiêu. Chỉ số của mục tiêu được thay bằng khối thông số của dạng mới, nhưng nó giữ HP, xúc xắc sinh lực, khuynh hướng đạo đức và tính cách.
 
-Khi bức tường xuất hiện, mỗi creature trong khu vực của nó thực hiện một Strength saving throw, nhận 6d10 damage Bludgeoning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Mục tiêu nhận số điểm sinh lực tạm thời bằng HP của dạng mới. Số điểm tạm thời còn lại biến mất khi phép kết thúc.
 
-Vào đầu mỗi turn sau của bạn kể từ khi bức tường xuất hiện, bức tường, cùng với bất kỳ creature nào trong đó, di chuyển 50 feet ra xa bạn. Bất kỳ creature nào kích thước Huge trở xuống bên trong bức tường hoặc có không gian bị bức tường tiến vào khi nó di chuyển phải thành công trong một Strength saving throw hoặc nhận 5d10 damage Bludgeoning. Một creature chỉ có thể nhận damage này một lần mỗi round. Vào cuối turn, chiều cao của bức tường giảm 50 feet, và damage bức tường gây ra ở các round sau giảm 1d10. Khi bức tường đạt chiều cao 0 feet, spell kết thúc.
+Hành động của mục tiêu bị giới hạn bởi cơ thể dạng mới, và nó không thể nói hay thi triển phép.
 
-Một creature bị mắc kẹt trong bức tường có thể di chuyển bằng cách bơi. Tuy nhiên, do lực của con sóng, creature phải thành công trong một Strength (Athletics) check chống lại spell save DC của bạn để có thể di chuyển. Nếu thất bại trong check, nó không thể di chuyển. Một creature di chuyển ra khỏi bức tường rơi xuống đất.
+Trang bị của mục tiêu hòa vào dạng mới. Sinh vật không thể dùng hay hưởng lợi từ bất kỳ trang bị nào trong số đó.
 
-### Đầy Tớ Vô Hình (Unseen Servant)
-*Cấp độ 1 Conjuration (Bard, Warlock, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: 60 feet
-- Components: V, S, M (một mẩu dây và gỗ)
-- Duration: 1 giờ
+**Đồ vật thành sinh vật (Object into Creature).** Bạn có thể biến đồ vật thành bất kỳ loại sinh vật nào, miễn là sinh vật không lớn hơn đồ vật và có Mức thách thức 9 trở xuống. Sinh vật Thân thiện với bạn và đồng minh. Trong chiến đấu, nó đi lượt ngay sau bạn và tuân lệnh bạn.
 
-Spell này tạo ra một lực Invisible, vô tri, vô hình dạng, kích thước Medium thực hiện các nhiệm vụ đơn giản theo lệnh của bạn cho đến khi spell kết thúc. Đầy tớ xuất hiện trong một không gian trống trên mặt đất trong tầm đánh. Nó có AC 10, 1 Hit Point, và Strength 2, và nó không thể tấn công. Nếu nó giảm xuống 0 Hit Points, spell kết thúc.
+Nếu phép kéo dài quá một giờ, bạn không còn điều khiển sinh vật. Nó có thể vẫn Thân thiện với bạn, tùy cách bạn đối xử với nó.
 
-Một lần mỗi turn của bạn như một Bonus Action, bạn có thể ra lệnh bằng tinh thần cho đầy tớ di chuyển tối đa 15 feet và tương tác với một object. Đầy tớ có thể thực hiện các nhiệm vụ đơn giản mà một con người có thể làm, chẳng hạn lấy đồ, dọn dẹp, vá, gấp quần áo, nhóm lửa, phục vụ thức ăn, và rót đồ uống. Khi bạn đưa ra lệnh, đầy tớ thực hiện nhiệm vụ hết khả năng của nó cho đến khi hoàn thành, sau đó chờ lệnh tiếp theo của bạn.
+**Sinh vật thành đồ vật (Creature into Object).** Nếu biến sinh vật thành đồ vật, nó biến đổi cùng mọi thứ đang mặc và mang, miễn là đồ vật không lớn hơn sinh vật. Chỉ số của sinh vật trở thành chỉ số của đồ vật, và sau khi phép kết thúc, trở lại bình thường, sinh vật không nhớ gì về khoảng thời gian ở dạng này.
 
-Nếu bạn ra lệnh cho đầy tớ thực hiện một nhiệm vụ sẽ khiến nó di chuyển xa hơn 60 feet khỏi bạn, spell kết thúc.
+### Phục sinh đích thực (True Resurrection)
 
-### Chạm Hút Máu (Vampiric Touch)
-*Cấp độ 3 Necromancy (Sorcerer, Warlock, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Tử linh bậc 9 (Giáo sĩ, Druid)*
 
-Cú chạm của bàn tay được bao bọc bởi bóng tối của bạn có thể hút sinh lực từ người khác để chữa lành vết thương của bạn. Thực hiện một melee spell attack nhắm vào một creature trong tầm với. Nếu trúng, mục tiêu nhận 3d6 damage Necrotic, và bạn phục hồi Hit Points bằng một nửa lượng damage Necrotic đã gây ra.
+- **Thời gian thi triển:** 1 giờ
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (kim cương trị giá 25.000+ gp, bị phép tiêu hao)
+- **Thời lượng:** Tức thời
 
-Cho đến khi phép thuật kết thúc, bạn có thể thực hiện cuộc tấn công lần nữa vào mỗi turn của mình như một Magic action, nhắm vào cùng creature hoặc một creature khác.
+Bạn chạm vào một sinh vật đã chết chưa quá 200 năm và chết vì bất kỳ lý do nào ngoại trừ tuổi già. Sinh vật sống lại với đầy HP.
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 3.
+Phép khép mọi vết thương, hóa giải mọi chất độc, chữa mọi bệnh dịch ma thuật và gỡ mọi lời nguyền đang ảnh hưởng sinh vật lúc chết. Phép thay thế các cơ quan và chi bị hư hại hoặc mất.
 
-### Lời Nhạo Báng Cay Độc (Vicious Mockery)
-*Cantrip Enchantment (Bard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V
-- Duration: Instantaneous
+Nếu sinh vật là Xác sống, nó được khôi phục về dạng không phải Xác sống.
 
-Bạn tuôn ra một tràng lời sỉ nhục pha trộn với những câu thần chú tinh vi nhắm vào một creature bạn có thể nhìn thấy hoặc nghe thấy trong tầm đánh. Mục tiêu phải thành công trong một Wisdom saving throw hoặc nhận 1d6 damage Psychic và có Disadvantage trên attack roll tiếp theo nó thực hiện trước khi kết thúc turn tiếp theo của nó.
+Phép có thể tạo cơ thể mới nếu cơ thể gốc không còn, khi đó bạn phải gọi tên sinh vật. Sinh vật xuất hiện tại một chỗ trống tùy chọn trong phạm vi 3 m (10 feet) quanh bạn.
 
-*Cantrip Upgrade:* Damage tăng thêm 1d6 khi bạn đạt cấp độ 5 (2d6), 11 (3d6), và 17 (4d6).
+### Nhìn sự thật (True Seeing)
 
-### Cầu Ăn Mòn (Vitriolic Sphere)
-*Cấp độ 4 Evocation (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 150 feet
-- Components: V, S, M (một giọt mật)
-- Duration: Instantaneous
+*Tiên tri bậc 6 (Thi sĩ, Giáo sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Bạn chỉ vào một địa điểm trong tầm đánh, và một quả cầu acid phát sáng đường kính 1-foot phóng đến đó và nổ tung trong một Sphere bán kính 20-foot. Mỗi creature trong khu vực đó thực hiện một Dexterity saving throw. Nếu thất bại, một creature nhận 10d4 damage Acid và thêm 5d4 damage Acid nữa vào cuối turn tiếp theo của nó. Nếu thành công, một creature chỉ nhận một nửa damage ban đầu.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (bột nấm trị giá 25+ gp, bị phép tiêu hao)
+- **Thời lượng:** 1 giờ
 
-*Using a Higher-Level Spell Slot:* Damage ban đầu tăng thêm 2d4 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+Trong suốt thời lượng, sinh vật tự nguyện bạn chạm vào có chân thị trong phạm vi 36 m (120 feet).
 
-### Bức Tường Lửa (Wall of Fire)
-*Cấp độ 4 Evocation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một mẩu than củi)
-- Duration: Concentration, up to 1 minute
+### Đòn chuẩn xác (True Strike)
 
-Bạn tạo ra một bức tường lửa trên một bề mặt rắn trong tầm đánh. Bạn có thể tạo bức tường dài tới 60 feet, cao 20 feet, và dày 1 foot, hoặc một bức tường vòng đường kính tới 20 feet, cao 20 feet, và dày 1 foot. Bức tường không trong suốt và tồn tại trong suốt thời lượng.
+*Phép sơ cấp Tiên tri (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
-Khi bức tường xuất hiện, mỗi creature trong khu vực của nó thực hiện một Dexterity saving throw, nhận 5d8 damage Fire nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** S, M (một vũ khí bạn thành thạo, trị giá 1+ cp)
+- **Thời lượng:** Tức thời
 
-Một mặt của bức tường, do bạn chọn khi thi triển spell này, gây 5d8 damage Fire lên mỗi creature kết thúc turn trong vòng 10 feet của mặt đó hoặc bên trong bức tường. Một creature nhận cùng damage khi nó vào bức tường lần đầu trong một turn hoặc kết thúc turn ở đó. Mặt còn lại của bức tường không gây damage.
+Được dẫn đường bởi một tia sáng ma thuật thấu suốt, bạn tấn công bằng vũ khí dùng để thi triển phép. Đòn tấn công dùng thuộc tính thi triển phép của bạn thay cho Sức mạnh hoặc Khéo léo khi tung tấn công và sát thương. Nếu đòn tấn công gây sát thương, đó có thể là sát thương quang hoặc loại sát thương thường của vũ khí (tùy bạn chọn).
 
-*Using a Higher-Level Spell Slot:* Damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 4.
+*Nâng cấp phép sơ cấp.* Dù gây sát thương quang hay loại thường của vũ khí, đòn tấn công gây thêm sát thương quang khi bạn đạt cấp 5 (1d6), 11 (2d6) và 17 (3d6).
 
-### Bức Tường Lực (Wall of Force)
-*Cấp độ 5 Evocation (Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một mảnh thủy tinh)
-- Duration: Concentration, up to 10 minutes
+### Sóng thần (Tsunami)
 
-Một bức tường lực Invisible xuất hiện tại một điểm bạn chọn trong tầm đánh. Bức tường xuất hiện theo bất kỳ hướng nào bạn chọn, như một rào chắn ngang hoặc dọc hoặc theo một góc. Nó có thể lơ lửng tự do hoặc nằm trên một bề mặt rắn. Bạn có thể tạo nó thành một mái vòm bán cầu hoặc một quả cầu bán kính tới 10 feet, hoặc bạn có thể tạo hình một bề mặt phẳng gồm mười tấm 10-foot-bởi-10-foot. Mỗi tấm phải liền kề với một tấm khác. Ở bất kỳ hình dạng nào, bức tường dày 1/4 inch và tồn tại trong suốt thời lượng. Nếu bức tường cắt qua không gian của một creature khi nó xuất hiện, creature đó bị đẩy sang một bên của bức tường (bạn chọn bên nào).
+*Triệu hồi bậc 8 (Druid)*
 
-Không gì có thể xuyên qua bức tường vật lý. Nó miễn nhiễm với tất cả damage và không thể bị dispel bằng Dispel Magic. Tuy nhiên, một spell Disintegrate phá hủy bức tường ngay lập tức. Bức tường cũng mở rộng vào Ethereal Plane và chặn du hành ethereal qua bức tường.
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 1,6 km (1 mile)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 6 vòng
 
-### Bức Tường Băng (Wall of Ice)
-*Cấp độ 6 Evocation (Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một mẩu thạch anh)
-- Duration: Concentration, up to 10 minutes
+Một bức tường nước xuất hiện tại một điểm tùy chọn trong tầm. Bức tường dài tối đa 90 m (300 feet), cao 90 m (300 feet) và dày 15 m (50 feet). Nó tồn tại suốt thời lượng.
 
-Bạn tạo ra một bức tường băng trên một bề mặt rắn trong tầm đánh. Bạn có thể tạo nó thành một mái vòm bán cầu hoặc một quả cầu bán kính tới 10 feet, hoặc bạn có thể tạo hình một bề mặt phẳng gồm mười tấm vuông 10-foot. Mỗi tấm phải liền kề với một tấm khác. Ở bất kỳ hình dạng nào, bức tường dày 1 foot và tồn tại trong suốt thời lượng.
+Khi bức tường xuất hiện, mỗi sinh vật trong vùng của nó cứu nguy Sức mạnh, chịu 6d10 sát thương đập nếu thất bại hoặc một nửa nếu thành công.
 
-Nếu bức tường cắt qua không gian của một creature khi nó xuất hiện, creature đó bị đẩy sang một bên của bức tường (bạn chọn bên nào) và thực hiện một Dexterity saving throw, nhận 10d6 damage Cold nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+Đầu mỗi lượt sau của bạn kể từ khi bức tường xuất hiện, bức tường cùng mọi sinh vật bên trong di chuyển ra xa bạn 15 m (50 feet). Mọi sinh vật cỡ Khổng lồ trở xuống ở trong bức tường, hoặc ở chỗ bức tường tràn vào khi di chuyển, phải thành công cứu nguy Sức mạnh, nếu không chịu 5d10 sát thương đập. Mỗi vòng một sinh vật chỉ chịu sát thương này một lần. Cuối lượt, chiều cao bức tường giảm 15 m (50 feet), và sát thương bức tường gây ra ở các vòng sau giảm 1d10. Khi bức tường cao 0 m, phép kết thúc.
 
-Bức tường là một object có thể bị gây damage và do đó bị phá vỡ. Nó có AC 12 và 30 Hit Points mỗi đoạn 10-foot, và nó có Immunity với damage Cold, Poison, và Psychic và Vulnerability với damage Fire. Giảm một đoạn 10-foot của bức tường xuống 0 Hit Points phá hủy nó và để lại một lớp không khí lạnh buốt trong không gian bức tường đã chiếm.
+Sinh vật bị cuốn trong bức tường có thể di chuyển bằng cách bơi. Tuy nhiên, vì sức mạnh của con sóng, sinh vật phải thành công phép kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn mới di chuyển được. Nếu thất bại, nó không thể di chuyển. Sinh vật ra khỏi bức tường rơi xuống đất.
 
-Một creature di chuyển qua lớp không khí lạnh buốt lần đầu trong một turn thực hiện một Constitution saving throw, nhận 5d6 damage Cold nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+### Đầy tớ vô hình (Unseen Servant)
 
-*Using a Higher-Level Spell Slot:* Damage bức tường gây ra khi xuất hiện tăng thêm 2d6 và damage từ việc đi qua lớp không khí lạnh buốt tăng thêm 1d6 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+*Triệu hồi bậc 1 (Thi sĩ, Warlock, Pháp sư)*
 
-### Bức Tường Đá (Wall of Stone)
-*Cấp độ 5 Evocation (Druid, Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một khối granite)
-- Duration: Concentration, up to 10 minutes
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một mẩu dây và một mẩu gỗ)
+- **Thời lượng:** 1 giờ
 
-Một bức tường đá rắn phi phép thuật xuất hiện tại một điểm bạn chọn trong tầm đánh. Bức tường dày 6 inch và được cấu thành từ mười tấm 10-foot-bởi-10-foot. Mỗi tấm phải liền kề với một tấm khác. Ngoài ra, bạn có thể tạo các tấm 10-foot-bởi-20-foot chỉ dày 3 inch.
+Phép tạo một khối lực Vô hình, vô tri, không hình dạng, cỡ Trung bình, làm những việc đơn giản theo lệnh bạn đến khi phép kết thúc. Đầy tớ xuất hiện tại một chỗ trống trên mặt đất trong tầm. Nó có AC 10, 1 HP, Sức mạnh 2 và không thể tấn công. Nếu HP về 0, phép kết thúc.
 
-Nếu bức tường cắt qua không gian của một creature khi nó xuất hiện, creature đó bị đẩy sang một bên của bức tường (bạn chọn bên nào). Nếu một creature sẽ bị bao vây hoàn toàn bởi bức tường (hoặc bức tường và một bề mặt rắn khác), creature đó có thể thực hiện một Dexterity saving throw. Nếu thành công, nó có thể dùng Reaction của mình để di chuyển tối đa Speed của nó sao cho không còn bị bức tường bao vây.
+Một lần mỗi lượt, bằng hành động phụ, bạn có thể ra lệnh bằng tâm trí để đầy tớ di chuyển tối đa 4,5 m (15 feet) và tương tác với một đồ vật. Đầy tớ làm được những việc đơn giản như người hầu, như lấy đồ, dọn dẹp, vá và gấp quần áo, nhóm lửa, dọn thức ăn, rót đồ uống. Khi được giao việc, đầy tớ làm hết sức đến khi xong rồi chờ lệnh tiếp.
 
-Bức tường có thể có bất kỳ hình dạng nào bạn muốn, dù nó không thể chiếm cùng không gian với một creature hay object. Bức tường không cần thẳng đứng hay nằm trên nền móng vững chắc. Tuy nhiên, nó phải hòa nhập và được hỗ trợ vững chắc bởi đá hiện có. Vì vậy, bạn có thể dùng spell này để bắc cầu qua một khe núi hoặc tạo một đường dốc.
+Nếu bạn ra lệnh khiến đầy tớ phải đi xa bạn hơn 18 m (60 feet), phép kết thúc.
 
-Nếu bạn tạo một nhịp dài hơn 20 feet, bạn phải giảm một nửa kích thước mỗi tấm để tạo giá đỡ. Bạn có thể tạo hình thô cho bức tường để tạo lỗ châu mai và tương tự.
+### Chạm hút máu (Vampiric Touch)
 
-Bức tường là một object làm bằng đá có thể bị gây damage và do đó bị phá vỡ. Mỗi tấm có AC 15 và 30 Hit Points mỗi inch độ dày, và nó có Immunity với damage Poison và Psychic. Giảm một tấm xuống 0 Hit Points phá hủy nó và có thể khiến các tấm liền kề sụp đổ tùy GM quyết định.
+*Tử linh bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
-Nếu bạn duy trì Concentration trên spell này trong toàn bộ thời lượng, bức tường trở thành vĩnh viễn và không thể bị dispel. Nếu không, bức tường biến mất khi spell kết thúc.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-### Bức Tường Gai (Wall of Thorns)
-*Cấp độ 6 Conjuration (Druid)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một nắm gai)
-- Duration: Concentration, up to 10 minutes
+Cú chạm của bàn tay phủ bóng tối có thể hút sinh lực người khác để chữa lành vết thương cho bạn. Tung tấn công cận chiến bằng phép nhắm vào một sinh vật trong tầm với. Nếu trúng, mục tiêu chịu 3d6 sát thương hoại tử, và bạn hồi HP bằng một nửa lượng sát thương hoại tử đã gây ra.
 
-Bạn tạo ra một bức tường bụi rậm rối bời với gai sắc như kim. Bức tường xuất hiện trong tầm đánh trên một bề mặt rắn và tồn tại trong suốt thời lượng. Bạn chọn tạo bức tường dài tới 60 feet, cao 10 feet, và dày 5 feet hoặc một vòng tròn đường kính 20-foot cao tới 20 feet và dày 5 feet. Bức tường chặn đường ngắm.
+Cho đến khi phép kết thúc, mỗi lượt bạn có thể dùng hành động Ma thuật để tấn công lần nữa, nhắm cùng sinh vật hoặc sinh vật khác.
 
-Khi bức tường xuất hiện, mỗi creature trong khu vực của nó thực hiện một Dexterity saving throw, nhận 7d8 damage Piercing nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 3.
 
-Một creature có thể di chuyển qua bức tường, dù chậm chạp và đau đớn. Với mỗi 1 foot một creature di chuyển qua bức tường, nó phải tốn 4 feet movement. Hơn nữa, lần đầu tiên một creature vào một không gian trong bức tường trong một turn hoặc kết thúc turn ở đó, creature thực hiện một Dexterity saving throw, nhận 7d8 damage Slashing nếu thất bại hoặc một nửa lượng damage đó nếu thành công. Một creature chỉ thực hiện save này một lần mỗi turn.
+### Chế nhạo độc địa (Vicious Mockery)
 
-*Using a Higher-Level Spell Slot:* Cả hai loại damage tăng thêm 1d8 cho mỗi cấp độ ô phép thuật trên cấp độ 6.
+*Phép sơ cấp Yểm thuật (Thi sĩ)*
 
-### Ràng Buộc Bảo Vệ (Warding Bond)
-*Cấp độ 2 Abjuration (Cleric, Paladin)*
-- Casting Time: Action
-- Range: Touch
-- Components: V, S, M (một cặp nhẫn platinum trị giá 50+ GP mỗi chiếc, mà bạn và mục tiêu phải đeo trong suốt thời lượng)
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
 
-Bạn chạm vào một creature khác tự nguyện và tạo ra một liên kết huyền bí giữa bạn và mục tiêu cho đến khi phép thuật kết thúc. Khi mục tiêu trong vòng 60 feet của bạn, nó nhận bonus +1 vào AC và saving throw, và nó có Resistance với tất cả damage. Ngoài ra, mỗi lần nó nhận damage, bạn nhận cùng lượng damage đó.
+Bạn tuôn ra tràng lời lăng mạ xen lẫn những câu bùa chú tinh vi vào một sinh vật bạn nhìn thấy hoặc nghe thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không chịu 1d6 sát thương tâm linh và chịu bất lợi ở lần tung tấn công kế tiếp trước khi kết thúc lượt kế tiếp của nó.
 
-Spell kết thúc nếu bạn giảm xuống 0 Hit Points hoặc nếu bạn và mục tiêu cách xa nhau hơn 60 feet. Nó cũng kết thúc nếu spell được thi triển lần nữa lên một trong hai creature được kết nối.
+*Nâng cấp phép sơ cấp.* Sát thương tăng 1d6 khi bạn đạt cấp 5 (2d6), 11 (3d6) và 17 (4d6).
 
-### Thở Dưới Nước (Water Breathing)
-*Cấp độ 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)*
-- Casting Time: Action hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (một cọng sậy ngắn)
-- Duration: 24 hours
+### Cầu axit ăn mòn (Vitriolic Sphere)
 
-Spell này ban cho tối đa mười creature tự nguyện theo lựa chọn của bạn trong tầm đánh khả năng thở dưới nước cho đến khi spell kết thúc. Các creature bị ảnh hưởng cũng giữ được phương thức hô hấp bình thường của họ.
+*Gọi năng lượng bậc 4 (Thuật sĩ, Pháp sư)*
 
-### Đi Trên Nước (Water Walk)
-*Cấp độ 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)*
-- Casting Time: Action hoặc Ritual
-- Range: 30 feet
-- Components: V, S, M (một mẩu bần)
-- Duration: 1 giờ
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 45 m (150 feet)
+- **Thành phần:** V, S, M (một giọt mật)
+- **Thời lượng:** Tức thời
 
-Spell này ban cho khả năng di chuyển trên bất kỳ bề mặt chất lỏng nào — chẳng hạn nước, acid, bùn, tuyết, cát lún, hoặc dung nham — như thể đó là mặt đất rắn vô hại (các creature băng qua dung nham nóng chảy vẫn có thể nhận damage từ nhiệt). Tối đa mười creature tự nguyện theo lựa chọn của bạn trong tầm đánh nhận khả năng này trong suốt thời lượng.
+Bạn chỉ vào một vị trí trong tầm, và một quả cầu axit sáng rực đường kính 30 cm (1 foot) bay tới đó rồi nổ tung thành hình cầu bán kính 6 m (20 feet). Mỗi sinh vật trong vùng cứu nguy Khéo léo. Nếu thất bại, sinh vật chịu 10d4 sát thương axit và thêm 5d4 sát thương axit vào cuối lượt kế tiếp của nó. Nếu thành công, nó chỉ chịu một nửa sát thương ban đầu.
 
-Một mục tiêu bị ảnh hưởng phải thực hiện một Bonus Action để đi từ bề mặt chất lỏng vào bên trong chất lỏng và ngược lại, nhưng nếu mục tiêu rơi vào chất lỏng, mục tiêu đi qua bề mặt vào chất lỏng bên dưới.
+*Dùng ô phép bậc cao hơn.* Sát thương ban đầu tăng 2d4 cho mỗi bậc ô phép trên 4.
 
-### Mạng Nhện (Web)
-*Cấp độ 2 Conjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S, M (một mẩu mạng nhện)
-- Duration: Concentration, up to 1 hour
+### Tường lửa (Wall of Fire)
 
-Bạn triệu hồi một khối mạng nhện dính tại một điểm trong tầm đánh. Mạng nhện lấp đầy một Cube 20-foot ở đó trong suốt thời lượng. Mạng nhện là Difficult Terrain, và khu vực bên trong chúng bị Lightly Obscured.
+*Gọi năng lượng bậc 4 (Druid, Thuật sĩ, Pháp sư)*
 
-Nếu mạng nhện không được neo giữa hai khối rắn (chẳng hạn tường hoặc cây) hoặc phủ lớp trên một sàn, tường, hoặc trần nhà, mạng nhện sụp xuống, và spell kết thúc vào đầu turn tiếp theo của bạn. Mạng nhện phủ lớp trên một bề mặt phẳng có độ sâu 5 feet.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một mẩu than củi)
+- **Thời lượng:** Tập trung, tối đa 1 phút
 
-Lần đầu tiên một creature vào mạng nhện trong một turn hoặc bắt đầu turn ở đó, nó phải thành công trong một Dexterity saving throw hoặc có condition Restrained trong khi ở trong mạng nhện hoặc cho đến khi nó thoát ra.
+Bạn tạo một bức tường lửa trên bề mặt rắn trong tầm. Bức tường dài tối đa 18 m (60 feet), cao 6 m (20 feet), dày 30 cm (1 foot), hoặc là tường vòng đường kính tối đa 6 m (20 feet), cao 6 m (20 feet), dày 30 cm (1 foot). Bức tường không trong suốt và tồn tại suốt thời lượng.
 
-Một creature bị Restrained bởi mạng nhện có thể thực hiện một action để thực hiện một Strength (Athletics) check chống lại spell save DC của bạn. Nếu thành công, nó không còn bị Restrained.
+Khi bức tường xuất hiện, mỗi sinh vật trong vùng của nó cứu nguy Khéo léo, chịu 5d8 sát thương lửa nếu thất bại hoặc một nửa nếu thành công.
 
-Mạng nhện dễ cháy. Bất kỳ Cube 5-foot mạng nhện nào tiếp xúc với lửa cháy hết trong 1 round, gây 2d4 damage Fire lên bất kỳ creature nào bắt đầu turn của nó trong lửa.
+Một mặt tường, do bạn chọn khi thi triển, gây 5d8 sát thương lửa lên mỗi sinh vật kết thúc lượt trong phạm vi 3 m (10 feet) phía mặt đó hoặc bên trong tường. Sinh vật cũng chịu sát thương như vậy khi lần đầu đi vào tường trong một lượt hoặc kết thúc lượt ở đó. Mặt còn lại của tường không gây sát thương.
 
-### Kinh Hoàng (Weird)
-*Cấp độ 9 Illusion (Warlock, Wizard)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S
-- Duration: Concentration, up to 1 minute
+*Dùng ô phép bậc cao hơn.* Sát thương tăng 1d8 cho mỗi bậc ô phép trên 4.
 
-Bạn cố tạo ra những nỗi kinh hoàng ảo ảnh trong tâm trí người khác. Mỗi creature theo lựa chọn của bạn trong một Sphere bán kính 30-foot có tâm tại một điểm trong tầm đánh thực hiện một Wisdom saving throw. Nếu thất bại, một mục tiêu nhận 10d10 damage Psychic và có condition Frightened trong suốt thời lượng. Nếu thành công, một mục tiêu chỉ nhận một nửa lượng damage đó.
+### Tường lực (Wall of Force)
 
-Một mục tiêu bị Frightened thực hiện một Wisdom saving throw vào cuối mỗi turn của nó. Nếu thất bại, nó nhận 5d10 damage Psychic. Nếu thành công, spell kết thúc trên mục tiêu đó.
+*Gọi năng lượng bậc 5 (Pháp sư)*
 
-### Đi Trên Gió (Wind Walk)
-*Cấp độ 6 Transmutation (Druid)*
-- Casting Time: 1 phút
-- Range: 30 feet
-- Components: V, S, M (một cây nến)
-- Duration: 8 hours
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một mảnh thủy tinh)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bạn và tối đa mười creature tự nguyện theo lựa chọn của bạn trong tầm đánh mang hình dạng khí trong suốt thời lượng, xuất hiện như những làn mây. Khi ở dạng mây này, một mục tiêu có Fly Speed 300 feet và có thể bay lơ lửng; nó có Immunity với condition Prone; và nó có Resistance với damage Bludgeoning, Piercing, và Slashing. Các action duy nhất một mục tiêu có thể thực hiện ở dạng này là action Dash hoặc một Magic action để bắt đầu trở lại hình dạng bình thường. Việc trở lại tốn 1 phút, trong đó mục tiêu có condition Stunned. Cho đến khi phép thuật kết thúc, mục tiêu có thể trở lại dạng mây, cũng cần một Magic action theo sau bởi một sự biến đổi 1 phút.
+Một bức tường lực Vô hình xuất hiện tại một điểm tùy chọn trong tầm. Bức tường có thể đặt theo mọi hướng: nằm ngang, thẳng đứng hay nghiêng. Nó có thể lơ lửng tự do hoặc tựa trên bề mặt rắn. Bạn có thể tạo nó thành mái vòm bán cầu hoặc hình cầu bán kính tối đa 3 m (10 feet), hoặc thành mặt phẳng gồm mười tấm 3 × 3 m (10 × 10 feet). Mỗi tấm phải liền với một tấm khác. Ở mọi hình dạng, bức tường dày 6 mm (1/4 inch) và tồn tại suốt thời lượng. Nếu bức tường cắt qua chỗ của một sinh vật khi xuất hiện, sinh vật bị đẩy sang một bên tường (bạn chọn bên nào).
 
-Nếu một mục tiêu ở dạng mây và đang bay khi hiệu ứng kết thúc, mục tiêu hạ xuống 60 feet mỗi round trong 1 phút cho đến khi nó tiếp đất, việc này diễn ra an toàn. Nếu nó không thể tiếp đất sau 1 phút, nó rơi phần còn lại của khoảng cách.
+Không gì có thể vật lý xuyên qua bức tường. Nó miễn nhiễm mọi sát thương và không thể bị giải trừ bằng *Giải trừ ma thuật* (Dispel Magic). Tuy nhiên, phép *Phân rã* (Disintegrate) phá hủy nó ngay lập tức. Bức tường cũng mở rộng vào Cõi Ethereal, chặn du hành qua cõi đó xuyên tường.
 
-### Bức Tường Gió (Wind Wall)
-*Cấp độ 3 Evocation (Druid, Ranger)*
-- Casting Time: Action
-- Range: 120 feet
-- Components: V, S, M (một cây quạt và một chiếc lông vũ)
-- Duration: Concentration, up to 1 minute
+### Tường băng (Wall of Ice)
 
-Một bức tường gió mạnh dâng lên từ mặt đất tại một điểm bạn chọn trong tầm đánh. Bạn có thể tạo bức tường dài tới 50 feet, cao 15 feet, và dày 1 foot. Bạn có thể tạo hình bức tường theo bất kỳ cách nào bạn chọn miễn là nó tạo thành một đường liên tục dọc theo mặt đất. Bức tường tồn tại trong suốt thời lượng.
+*Gọi năng lượng bậc 6 (Pháp sư)*
 
-Khi bức tường xuất hiện, mỗi creature trong khu vực của nó thực hiện một Strength saving throw, nhận 4d8 damage Bludgeoning nếu thất bại hoặc một nửa lượng damage đó nếu thành công.
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một mẩu thạch anh)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Gió mạnh giữ sương mù, khói, và các khí khác ở xa. Các creature hoặc object bay kích thước Small trở xuống không thể xuyên qua bức tường. Các vật liệu rời, nhẹ được đưa vào bức tường bay lên trên. Mũi tên, bolt, và các viên đạn thông thường khác bắn vào mục tiêu phía sau bức tường bị lệch hướng lên trên và tự động trượt. Đá tảng ném bởi Giant hoặc máy công thành, và các viên đạn tương tự, không bị ảnh hưởng. Các creature ở dạng khí không thể xuyên qua nó.
+Bạn tạo một bức tường băng trên bề mặt rắn trong tầm. Bạn có thể tạo nó thành mái vòm bán cầu hoặc hình cầu bán kính tối đa 3 m (10 feet), hoặc mặt phẳng gồm mười tấm vuông 3 m (10 feet). Mỗi tấm phải liền với một tấm khác. Ở mọi hình dạng, bức tường dày 30 cm (1 foot) và tồn tại suốt thời lượng.
 
-### Ước Nguyện (Wish)
-*Cấp độ 9 Conjuration (Sorcerer, Wizard)*
-- Casting Time: Action
-- Range: Self
-- Components: V
-- Duration: Instantaneous
+Nếu bức tường cắt qua chỗ của một sinh vật khi xuất hiện, sinh vật bị đẩy sang một bên tường (bạn chọn bên nào) và cứu nguy Khéo léo, chịu 10d6 sát thương lạnh nếu thất bại hoặc một nửa nếu thành công.
 
-Wish là spell mạnh nhất mà một người phàm có thể thi triển. Chỉ đơn giản bằng cách nói to, bạn có thể thay đổi chính thực tại.
+Bức tường là đồ vật có thể bị gây sát thương và phá vỡ. Mỗi đoạn 3 m (10 feet) có AC 12 và 30 HP, miễn nhiễm sát thương lạnh, độc và tâm linh, và dễ tổn thương trước sát thương lửa. Làm HP của một đoạn 3 m (10 feet) về 0 sẽ phá hủy đoạn đó và để lại một màn khí lạnh buốt ở chỗ tường từng chiếm.
 
-Cách dùng cơ bản của spell này là sao chép bất kỳ spell nào khác cấp độ 8 trở xuống. Nếu bạn dùng theo cách này, bạn không cần đáp ứng bất kỳ yêu cầu nào để thi triển spell đó, kể cả các thành phần tốn kém. Spell đơn giản có hiệu lực.
+Sinh vật lần đầu đi qua màn khí lạnh buốt trong một lượt cứu nguy Thể chất, chịu 5d6 sát thương lạnh nếu thất bại hoặc một nửa nếu thành công.
 
-Ngoài ra, bạn có thể tạo ra một trong các hiệu ứng sau theo lựa chọn của bạn:
+*Dùng ô phép bậc cao hơn.* Sát thương khi tường xuất hiện tăng 2d6, và sát thương khi đi qua màn khí lạnh tăng 1d6, cho mỗi bậc ô phép trên 6.
 
-- **Object Creation.** Bạn tạo ra một object trị giá tối đa 25.000 GP không phải là một magic item. Object không được lớn hơn 300 feet theo bất kỳ chiều nào, và nó xuất hiện tại một không gian trống mà bạn có thể nhìn thấy trên mặt đất.
-- **Instant Health.** Bạn cho phép bản thân và tối đa hai mươi creature khác mà bạn có thể nhìn thấy phục hồi tất cả Hit Points, và bạn kết thúc tất cả các hiệu ứng trên họ được liệt kê trong spell Greater Restoration.
-- **Spell Resistance.** Bạn cho tối đa mười creature Resistance với một loại damage bạn chọn. Resistance này là vĩnh viễn.
-- **Sudden Learning.** Bạn cho tối đa mười creature Immunity với một spell hoặc hiệu ứng phép thuật duy nhất trong 8 giờ.
-- **Feat Replacement.** Bạn thay một trong các feat của mình bằng một feat khác mà bạn đủ điều kiện. Bạn mất tất cả lợi ích của feat cũ và nhận lợi ích của feat mới. Bạn không thể thay một feat là điều kiện tiên quyết cho bất kỳ feat hay feature nào khác của bạn.
-- **Reshape Reality.** Bạn hủy bỏ một sự kiện gần đây bằng cách buộc tung lại bất kỳ lượt tung xúc xắc nào được thực hiện trong round vừa qua (kể cả turn gần nhất của bạn). Thực tại tự định hình lại để phù hợp với kết quả mới. Ví dụ, một spell Wish có thể hủy bỏ một saving throw thất bại của đồng minh hoặc một Critical Hit của kẻ địch. Bạn có thể buộc lượt tung lại được thực hiện với Advantage hoặc Disadvantage, và bạn chọn liệu dùng lượt tung lại hay lượt tung gốc.
-- **Roll the Dice.** Bạn có thể ước nguyện điều gì đó không nằm trong bất kỳ hiệu ứng nào khác. Để làm vậy, hãy nói rõ điều ước của bạn với GM một cách chính xác nhất có thể. GM có quyền quyết định rộng rãi về những gì xảy ra trong trường hợp như vậy; điều ước càng lớn, khả năng xảy ra trục trặc càng cao. Spell này có thể đơn giản là thất bại, hiệu ứng bạn mong muốn có thể chỉ đạt được một phần, hoặc bạn có thể chịu một hậu quả không lường trước do cách bạn diễn đạt điều ước. Ví dụ, ước một kẻ phản diện chết có thể đẩy bạn về phía trước trong thời gian đến một giai đoạn khi kẻ phản diện đó không còn sống, hiệu quả loại bạn ra khỏi trò chơi. Tương tự, ước có một Legendary magic item hoặc một Artifact có thể ngay lập tức vận chuyển bạn đến sự hiện diện của chủ sở hữu hiện tại của item đó. Nếu điều ước của bạn được ban cho và hiệu ứng của nó có hậu quả cho cả một cộng đồng, khu vực, hay thế giới, bạn có khả năng thu hút những kẻ địch mạnh mẽ. Nếu điều ước của bạn ảnh hưởng đến một vị thần, các đầy tớ thần thánh của vị thần đó có thể ngay lập tức can thiệp để ngăn chặn nó hoặc khuyến khích bạn diễn đạt điều ước theo một cách cụ thể. Nếu điều ước của bạn sẽ hủy bỏ chính đa vũ trụ, điều ước của bạn thất bại.
+### Tường đá (Wall of Stone)
 
-Áp lực khi thi triển Wish để tạo ra bất kỳ hiệu ứng nào khác ngoài việc sao chép một spell khác làm suy yếu bạn. Sau khi chịu đựng áp lực đó, mỗi lần bạn thi triển một spell cho đến khi hoàn thành một Long Rest, bạn nhận 1d10 damage Necrotic cho mỗi cấp độ của spell đó. Damage này không thể bị giảm hay ngăn chặn bằng bất kỳ cách nào. Ngoài ra, Strength score của bạn trở thành 3 trong 2d4 ngày. Với mỗi ngày trong số đó bạn dành để nghỉ ngơi và không làm gì hơn ngoài hoạt động nhẹ, thời gian hồi phục còn lại của bạn giảm 2 ngày. Cuối cùng, có 33 phần trăm cơ hội bạn không thể thi triển Wish lần nào nữa nếu bạn chịu áp lực này.
+*Gọi năng lượng bậc 5 (Druid, Thuật sĩ, Pháp sư)*
 
-### Lời Triệu Hồi (Word of Recall)
-*Cấp độ 6 Conjuration (Cleric)*
-- Casting Time: Action
-- Range: 5 feet
-- Components: V
-- Duration: Instantaneous
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một khối đá granite)
+- **Thời lượng:** Tập trung, tối đa 10 phút
 
-Bạn và tối đa năm creature tự nguyện trong vòng 5 feet của bạn ngay lập tức dịch chuyển đến một thánh địa đã được chỉ định trước đó. Bạn và bất kỳ creature nào dịch chuyển cùng bạn xuất hiện tại không gian trống gần nhất với điểm bạn đã chỉ định khi chuẩn bị thánh địa của mình (xem dưới đây). Nếu bạn thi triển spell này mà không chuẩn bị trước một thánh địa, spell không có hiệu lực.
+Một bức tường đá rắn không ma thuật xuất hiện tại một điểm tùy chọn trong tầm. Bức tường dày 15 cm (6 inch), gồm mười tấm 3 × 3 m (10 × 10 feet). Mỗi tấm phải liền với một tấm khác. Hoặc, bạn có thể tạo các tấm 3 × 6 m (10 × 20 feet) chỉ dày 7,5 cm (3 inch).
 
-Bạn phải chỉ định một địa điểm, chẳng hạn một ngôi đền, làm thánh địa bằng cách thi triển spell này ở đó.
+Nếu bức tường cắt qua chỗ của một sinh vật khi xuất hiện, sinh vật bị đẩy sang một bên tường (bạn chọn bên nào). Nếu sinh vật sắp bị tường (hoặc tường cùng bề mặt rắn khác) vây kín hoàn toàn, nó có thể cứu nguy Khéo léo. Nếu thành công, nó có thể dùng phản ứng để di chuyển tối đa bằng Tốc độ để không còn bị vây.
 
-### Vùng Sự Thật (Zone of Truth)
-*Cấp độ 2 Enchantment (Bard, Cleric, Paladin)*
-- Casting Time: Action
-- Range: 60 feet
-- Components: V, S
-- Duration: 10 phút
+Bức tường có thể có hình dạng tùy ý, dù không thể chiếm cùng chỗ với sinh vật hay đồ vật. Tường không cần thẳng đứng hay đặt trên nền vững chắc, nhưng phải liền khối và được đá sẵn có đỡ chắc chắn. Nhờ đó, bạn có thể dùng phép bắc cầu qua khe núi hoặc tạo đường dốc.
 
-Bạn tạo ra một vùng phép thuật bảo vệ chống lại sự lừa dối trong một Sphere bán kính 15-foot có tâm tại một điểm trong tầm đánh. Cho đến khi phép thuật kết thúc, một creature vào khu vực của spell lần đầu trong một turn hoặc bắt đầu turn ở đó thực hiện một Charisma saving throw. Nếu thất bại, một creature không thể nói một lời nói dối có chủ ý khi ở trong bán kính đó. Bạn biết liệu một creature thành công hay thất bại trong save này.
+Nếu tạo nhịp dài hơn 6 m (20 feet), bạn phải giảm một nửa kích cỡ mỗi tấm để làm giá đỡ. Bạn có thể tạo hình thô cho tường, như lỗ châu mai hay tương tự.
 
-Một creature bị ảnh hưởng nhận thức được spell và có thể tránh trả lời các câu hỏi mà nó thường sẽ trả lời bằng một lời nói dối. Một creature như vậy có thể né tránh nhưng phải trung thực.
+Bức tường là đồ vật bằng đá có thể bị gây sát thương và phá vỡ. Mỗi tấm có AC 15 và 30 HP cho mỗi 2,5 cm (1 inch) độ dày, miễn nhiễm sát thương độc và tâm linh. Làm HP của một tấm về 0 sẽ phá hủy nó và có thể làm sụp các tấm liền kề, tùy GM.
+
+Nếu bạn duy trì Tập trung trọn thời lượng, bức tường trở nên vĩnh viễn và không thể bị giải trừ. Nếu không, tường biến mất khi phép kết thúc.
+
+### Tường gai (Wall of Thorns)
+
+*Triệu hồi bậc 6 (Druid)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một nắm gai)
+- **Thời lượng:** Tập trung, tối đa 10 phút
+
+Bạn tạo một bức tường bụi rậm chằng chịt gai nhọn như kim. Bức tường xuất hiện trên bề mặt rắn trong tầm và tồn tại suốt thời lượng. Bạn chọn tạo tường dài tối đa 18 m (60 feet), cao 3 m (10 feet), dày 1,5 m (5 feet), hoặc vòng tròn đường kính 6 m (20 feet), cao tối đa 6 m (20 feet), dày 1,5 m (5 feet). Bức tường chặn tầm nhìn.
+
+Khi bức tường xuất hiện, mỗi sinh vật trong vùng của nó cứu nguy Khéo léo, chịu 7d8 sát thương xuyên nếu thất bại hoặc một nửa nếu thành công.
+
+Sinh vật có thể đi xuyên qua tường, dù chậm chạp và đau đớn. Mỗi 30 cm (1 foot) đi qua tường tốn 1,2 m (4 feet) di chuyển. Hơn nữa, lần đầu trong một lượt sinh vật đi vào một chỗ trong tường hoặc kết thúc lượt ở đó, nó cứu nguy Khéo léo, chịu 7d8 sát thương chém nếu thất bại hoặc một nửa nếu thành công. Mỗi lượt một sinh vật chỉ cứu nguy một lần.
+
+*Dùng ô phép bậc cao hơn.* Cả hai loại sát thương tăng 1d8 cho mỗi bậc ô phép trên 6.
+
+### Liên kết bảo hộ (Warding Bond)
+
+*Phòng hộ bậc 2 (Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Chạm
+- **Thành phần:** V, S, M (một đôi nhẫn bạch kim trị giá 50+ gp mỗi chiếc, bạn và mục tiêu phải đeo suốt thời lượng)
+- **Thời lượng:** 1 giờ
+
+Bạn chạm vào một sinh vật tự nguyện khác và tạo liên kết huyền bí giữa hai người đến khi phép kết thúc. Khi mục tiêu ở trong phạm vi 18 m (60 feet) quanh bạn, nó được +1 AC và cứu nguy, và kháng mọi sát thương. Ngoài ra, mỗi khi nó chịu sát thương, bạn chịu cùng lượng sát thương đó.
+
+Phép kết thúc nếu HP của bạn về 0 hoặc hai người cách nhau hơn 18 m (60 feet). Phép cũng kết thúc nếu được thi triển lại lên một trong hai sinh vật đã liên kết.
+
+### Thở dưới nước (Water Breathing)
+
+*Biến đổi bậc 3 (Druid, Kiểm lâm, Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một đoạn sậy ngắn)
+- **Thời lượng:** 24 giờ
+
+Phép cho tối đa mười sinh vật tự nguyện tùy chọn trong tầm khả năng thở dưới nước đến khi phép kết thúc. Các sinh vật này vẫn giữ cách thở bình thường của mình.
+
+### Đi trên nước (Water Walk)
+
+*Biến đổi bậc 3 (Giáo sĩ, Druid, Kiểm lâm, Thuật sĩ)*
+
+- **Thời gian thi triển:** Hành động hoặc Nghi thức
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một mẩu nút bần)
+- **Thời lượng:** 1 giờ
+
+Phép cho khả năng đi trên mọi bề mặt chất lỏng — như nước, axit, bùn, tuyết, cát lún hay dung nham — như đi trên đất rắn vô hại (sinh vật đi trên dung nham nóng chảy vẫn có thể chịu sát thương do nhiệt). Tối đa mười sinh vật tự nguyện tùy chọn trong tầm có khả năng này suốt thời lượng.
+
+Mục tiêu bị ảnh hưởng phải dùng hành động phụ để chuyển từ mặt chất lỏng xuống trong chất lỏng và ngược lại, nhưng nếu rơi xuống chất lỏng, mục tiêu xuyên qua bề mặt vào chất lỏng bên dưới.
+
+### Mạng nhện (Web)
+
+*Triệu hồi bậc 2 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S, M (một mẩu mạng nhện)
+- **Thời lượng:** Tập trung, tối đa 1 giờ
+
+Bạn gọi ra một khối mạng nhện dính tại một điểm trong tầm. Mạng nhện lấp đầy khối lập phương 6 m (20 feet) ở đó suốt thời lượng. Mạng nhện là địa hình khó đi, và vùng bên trong bị che khuất nhẹ.
+
+Nếu mạng nhện không được neo giữa hai khối rắn (như tường hay cây) hoặc phủ thành lớp trên sàn, tường hay trần, nó sụp xuống và phép kết thúc vào đầu lượt kế tiếp của bạn. Mạng nhện phủ trên bề mặt phẳng dày 1,5 m (5 feet).
+
+Lần đầu trong một lượt sinh vật đi vào mạng nhện hoặc bắt đầu lượt ở đó, nó phải thành công cứu nguy Khéo léo, nếu không rơi vào trạng thái Kiềm giữ khi còn trong mạng nhện hoặc đến khi thoát ra.
+
+Sinh vật bị mạng nhện Kiềm giữ có thể dùng một hành động kiểm tra Sức mạnh (Điền kinh) với DC cứu nguy phép của bạn. Nếu thành công, nó thoát khỏi trạng thái Kiềm giữ.
+
+Mạng nhện dễ cháy. Mỗi khối lập phương 1,5 m (5 feet) mạng nhện tiếp xúc với lửa cháy rụi trong 1 vòng, gây 2d4 sát thương lửa cho mọi sinh vật bắt đầu lượt trong đám cháy.
+
+### Kinh hoàng (Weird)
+
+*Ảo ảnh bậc 9 (Warlock, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Bạn cố gieo những nỗi kinh hoàng ảo vào tâm trí người khác. Mỗi sinh vật tùy chọn trong hình cầu bán kính 9 m (30 feet) lấy một điểm trong tầm làm tâm cứu nguy Minh triết. Nếu thất bại, mục tiêu chịu 10d10 sát thương tâm linh và rơi vào trạng thái Hoảng sợ suốt thời lượng. Nếu thành công, nó chỉ chịu một nửa sát thương.
+
+Mục tiêu Hoảng sợ cứu nguy Minh triết vào cuối mỗi lượt. Nếu thất bại, nó chịu 5d10 sát thương tâm linh. Nếu thành công, phép kết thúc với mục tiêu đó.
+
+### Đi trên gió (Wind Walk)
+
+*Biến đổi bậc 6 (Druid)*
+
+- **Thời gian thi triển:** 1 phút
+- **Tầm:** 9 m (30 feet)
+- **Thành phần:** V, S, M (một cây nến)
+- **Thời lượng:** 8 giờ
+
+Bạn và tối đa mười sinh vật tự nguyện tùy chọn trong tầm hóa thành thể khí suốt thời lượng, trông như những làn mây. Khi ở dạng mây, mục tiêu có Tốc độ bay 90 m (300 feet) và có thể bay lơ lửng; nó miễn nhiễm trạng thái Ngã sấp; và nó kháng sát thương đập, xuyên và chém. Hành động duy nhất mục tiêu có thể làm ở dạng này là hành động Chạy nước rút hoặc hành động Ma thuật để bắt đầu trở về hình dạng bình thường. Việc trở về mất 1 phút, trong thời gian đó mục tiêu ở trạng thái Choáng. Cho đến khi phép kết thúc, mục tiêu có thể trở lại dạng mây, việc này cũng cần một hành động Ma thuật và 1 phút biến đổi.
+
+Nếu mục tiêu đang ở dạng mây và đang bay khi hiệu ứng kết thúc, nó hạ xuống 18 m (60 feet) mỗi vòng trong 1 phút cho đến khi chạm đất an toàn. Nếu không thể chạm đất sau 1 phút, nó rơi nốt quãng đường còn lại.
+
+### Tường gió (Wind Wall)
+
+*Gọi năng lượng bậc 3 (Druid, Kiểm lâm)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 36 m (120 feet)
+- **Thành phần:** V, S, M (một chiếc quạt và một chiếc lông vũ)
+- **Thời lượng:** Tập trung, tối đa 1 phút
+
+Một bức tường gió mạnh bốc lên từ mặt đất tại một điểm tùy chọn trong tầm. Bức tường dài tối đa 15 m (50 feet), cao 4,5 m (15 feet) và dày 30 cm (1 foot). Bạn có thể uốn bức tường theo hình tùy ý, miễn là nó tạo thành một đường liền dọc mặt đất. Bức tường tồn tại suốt thời lượng.
+
+Khi bức tường xuất hiện, mỗi sinh vật trong vùng của nó cứu nguy Sức mạnh, chịu 4d8 sát thương đập nếu thất bại hoặc một nửa nếu thành công.
+
+Gió mạnh đẩy sương mù, khói và các loại khí khác ra xa. Sinh vật hoặc đồ vật đang bay cỡ Nhỏ trở xuống không thể đi xuyên qua tường. Vật liệu rời, nhẹ đưa vào tường bị thổi bay lên trên. Mũi tên, tên nỏ và các loại đạn thông thường khác bắn vào mục tiêu sau tường bị hất lệch lên trên và tự động trượt. Đá tảng do Người khổng lồ hay khí cụ công thành ném, và các loại đạn tương tự, không bị ảnh hưởng. Sinh vật ở thể khí không thể đi xuyên qua tường.
+
+### Ước nguyện (Wish)
+
+*Triệu hồi bậc 9 (Thuật sĩ, Pháp sư)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** Bản thân
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+*Điều ước* là phép mạnh nhất mà một người phàm có thể thi triển. Chỉ cần nói thành lời, bạn có thể thay đổi chính thực tại.
+
+Cách dùng cơ bản của phép này là sao chép bất kỳ phép nào khác bậc 8 trở xuống. Nếu dùng theo cách này, bạn không cần đáp ứng yêu cầu nào để thi triển phép đó, kể cả các thành phần tốn kém. Phép cứ thế có hiệu lực.
+
+Ngoài ra, bạn có thể tạo một trong các hiệu ứng sau:
+
+- **Tạo đồ vật.** Bạn tạo một đồ vật trị giá tối đa 25.000 gp mà không phải vật phẩm ma thuật. Đồ vật không được lớn hơn 90 m (300 feet) ở bất kỳ chiều nào, và nó xuất hiện tại một chỗ trống bạn nhìn thấy trên mặt đất.
+- **Hồi phục tức thì.** Bạn cho bản thân và tối đa hai mươi sinh vật khác mà bạn nhìn thấy hồi toàn bộ HP, và bạn chấm dứt mọi hiệu ứng trên họ được liệt kê trong phép *Phục hồi cao cấp* (Greater Restoration).
+- **Kháng cự.** Bạn cho tối đa mười sinh vật kháng một loại sát thương bạn chọn. Khả năng kháng này là vĩnh viễn.
+- **Miễn nhiễm phép.** Bạn cho tối đa mười sinh vật miễn nhiễm một phép hoặc hiệu ứng ma thuật cụ thể trong 8 giờ.
+- **Thay kỳ tài.** Bạn thay một kỳ tài của mình bằng một kỳ tài khác mà bạn đủ điều kiện. Bạn mất mọi lợi ích của kỳ tài cũ và nhận lợi ích của kỳ tài mới. Bạn không thể thay kỳ tài là điều kiện tiên quyết cho kỳ tài hay tính năng khác của mình.
+- **Định hình lại thực tại.** Bạn xóa bỏ một sự kiện gần đây bằng cách buộc tung lại bất kỳ lần tung xúc xắc nào trong vòng vừa qua (kể cả lượt gần nhất của bạn). Thực tại tự định hình lại cho khớp với kết quả mới. Ví dụ, *Điều ước* có thể xóa bỏ lần cứu nguy thất bại của đồng minh hay đòn chí mạng của kẻ thù. Bạn có thể buộc lần tung lại có lợi thế hoặc bất lợi, và bạn chọn dùng kết quả tung lại hay kết quả gốc.
+- **Thử vận may.** Bạn có thể ước điều gì đó nằm ngoài các hiệu ứng trên. Để làm vậy, hãy nói điều ước với Quản trò chính xác nhất có thể. Quản trò có toàn quyền quyết định điều gì xảy ra; điều ước càng lớn, khả năng trục trặc càng cao. Phép có thể đơn giản là thất bại, hiệu ứng mong muốn có thể chỉ đạt được một phần, hoặc bạn có thể gánh hậu quả không lường trước do cách diễn đạt điều ước. Chẳng hạn, ước một kẻ ác chết đi có thể đẩy bạn tới thời điểm kẻ đó không còn sống, thực chất loại bạn khỏi trò chơi. Tương tự, ước có một vật phẩm ma thuật Huyền thoại hay một Thánh tích có thể tức thì đưa bạn đến trước mặt chủ nhân hiện tại của món đồ đó. Nếu điều ước được ban và hiệu ứng của nó ảnh hưởng đến cả một cộng đồng, vùng đất hay thế giới, nhiều khả năng bạn sẽ thu hút những kẻ thù hùng mạnh. Nếu điều ước ảnh hưởng đến một vị thần, các sứ giả thần thánh của vị thần đó có thể lập tức can thiệp để ngăn cản hoặc thúc bạn diễn đạt điều ước theo một cách nhất định. Nếu điều ước sẽ hủy diệt chính đa vũ trụ, điều ước thất bại.
+
+Gắng sức thi triển *Điều ước* để tạo bất kỳ hiệu ứng nào ngoài việc sao chép phép khác sẽ làm bạn suy kiệt. Sau khi chịu gắng sức đó, mỗi lần bạn thi triển một phép cho đến khi hoàn thành một lần nghỉ dài, bạn chịu 1d10 sát thương hoại tử cho mỗi bậc của phép đó. Sát thương này không thể bị giảm hay ngăn chặn bằng bất kỳ cách nào. Ngoài ra, chỉ số Sức mạnh của bạn thành 3 trong 2d4 ngày. Với mỗi ngày trong số đó bạn chỉ nghỉ ngơi và làm việc nhẹ, thời gian hồi phục còn lại giảm 2 ngày. Cuối cùng, có 33 phần trăm khả năng bạn không bao giờ thi triển được *Điều ước* nữa nếu chịu gắng sức này.
+
+### Lời triệu hồi (Word of Recall)
+
+*Triệu hồi bậc 6 (Giáo sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 1,5 m (5 feet)
+- **Thành phần:** V
+- **Thời lượng:** Tức thời
+
+Bạn và tối đa năm sinh vật tự nguyện trong phạm vi 1,5 m (5 feet) quanh bạn tức thì dịch chuyển đến một thánh địa đã chỉ định từ trước. Bạn và các sinh vật dịch chuyển cùng xuất hiện tại chỗ trống gần nhất với điểm bạn đã chỉ định khi chuẩn bị thánh địa (xem bên dưới). Nếu thi triển phép này khi chưa chuẩn bị thánh địa, phép không có tác dụng.
+
+Bạn phải chỉ định một địa điểm, như một ngôi đền, làm thánh địa bằng cách thi triển phép này tại đó.
+
+### Vùng sự thật (Zone of Truth)
+
+*Mê hoặc bậc 2 (Thi sĩ, Giáo sĩ, Thánh kỵ sĩ)*
+
+- **Thời gian thi triển:** Hành động
+- **Tầm:** 18 m (60 feet)
+- **Thành phần:** V, S
+- **Thời lượng:** 10 phút
+
+Bạn tạo một vùng ma thuật chống lừa dối trong hình cầu bán kính 4,5 m (15 feet) lấy một điểm trong tầm làm tâm. Cho đến khi phép kết thúc, sinh vật lần đầu đi vào vùng phép trong một lượt hoặc bắt đầu lượt ở đó phải cứu nguy Sức hút. Nếu thất bại, sinh vật không thể cố ý nói dối khi ở trong vùng. Bạn biết mỗi sinh vật thành công hay thất bại lần cứu nguy này.
+
+Sinh vật bị ảnh hưởng biết mình đang chịu phép và có thể tránh trả lời những câu hỏi mà bình thường nó sẽ đáp bằng lời nói dối. Sinh vật đó có thể lảng tránh nhưng phải nói thật.

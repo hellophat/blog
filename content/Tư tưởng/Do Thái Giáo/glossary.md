@@ -387,7 +387,7 @@ Các phạm trù nghi lễ trong Lêvi 15 dành cho người nam hoặc nữ có
 <a id="tzaraat"></a>
 ### Tzaraat — צָרַעַת
 
-Trạng thái nghi lễ được Lêvi 13–14 mô tả trên da người, quần áo và nhà cửa, do tư tế xem xét và tuyên bố tình trạng. Từ này thường từng được dịch là “phong cùi”, nhưng không đồng nhất với bệnh Hansen hiện đại: vật liệu và nhà cửa cũng có thể mang *tzaraat* theo văn bản. Tư tế thực hiện phân loại nghi lễ, không hành nghề chẩn đoán y khoa theo nghĩa hiện đại.
+Trạng thái nghi lễ được Lêvi 13–14 mô tả trên da người, quần áo và nhà cửa, do tư tế xem xét và tuyên bố tình trạng. **Metzora** là người được xác định mang trạng thái ấy; **beged menugga** và **bayit menugga** lần lượt là y phục/vật liệu và ngôi nhà mang dấu hiệu. Từ *tzaraat* thường từng được dịch là “phong cùi”, nhưng không đồng nhất với bệnh Hansen hiện đại: vật liệu và nhà cửa cũng có thể mang trạng thái này theo văn bản. Tư tế thực hiện phân loại nghi lễ, không hành nghề chẩn đoán y khoa theo nghĩa hiện đại.
 
 <a id="childbirth-offering"></a>
 ### Korban yoledet / lễ vật của sản phụ — קָרְבַּן יוֹלֶדֶת
@@ -512,7 +512,7 @@ Con bò cái chưa mang ách, không tì vết và có màu được Hebrew gọ
 <a id="arakhin"></a>
 ### Arakhin và hekdesh / định giá và tài sản thánh hiến — עֲרָכִין / הֶקְדֵּשׁ
 
-**Arakhin** là hệ thống lời khấn định giá trong Lêvi 27: con người có các mức quy ước, còn động vật, nhà và ruộng theo những cơ chế định giá riêng. **Hekdesh** là tài sản được biệt cho mục đích thánh hoặc Đền Thờ. Các khoản này không phải giá thị trường của một con người, thuế tài sản thông thường hay việc tư tế sở hữu cá nhân mọi vật đã dâng.
+**Arakhin** là hệ thống lời khấn định giá trong Lêvi 27: *erekh* là mức định giá quy ước đối với con người, còn động vật, nhà và ruộng theo những cơ chế riêng. Trong phần này, *behemah temeah* là con vật không thuộc loại thích hợp để dâng trên bàn thờ. **Hekdesh** là tài sản được biệt cho mục đích thánh hoặc Đền Thờ. Các khoản này không phải giá thị trường của một con người, thuế tài sản thông thường hay việc tư tế sở hữu cá nhân mọi vật đã dâng.
 
 <a id="jubilee"></a>
 ### Yovel / Năm Toàn Xá — יוֹבֵל
@@ -522,7 +522,7 @@ Năm thứ năm mươi sau bảy chu kỳ bảy năm theo Lêvi 25, được cô
 <a id="meilah"></a>
 ### Meilah / xâm phạm vật thánh — מְעִילָה
 
-Việc sử dụng, hưởng lợi hoặc làm giảm giá trị tài sản đã thánh hiến trái với địa vị của nó. Khi vô ý, Lêvi 5 quy định hoàn trả, phần bổ sung và lễ vật đền lỗi. *Meilah* không chỉ là trộm cắp thông thường: ngay cả người không định chiếm hữu vẫn có thể phải chịu trách nhiệm vì đã dùng vật dành cho nơi thánh.
+Việc sử dụng, hưởng lợi hoặc làm giảm giá trị tài sản đã thánh hiến trái với địa vị của nó. Khi vô ý, Lêvi 5 quy định hoàn trả, phần bổ sung gọi là *chomesh* và lễ vật đền lỗi; trong phép tính rabbi, phần bổ sung bằng một phần tư giá trị gốc, tức một phần năm của tổng mới. *Meilah* không chỉ là trộm cắp thông thường: ngay cả người không định chiếm hữu vẫn có thể phải chịu trách nhiệm vì đã dùng vật dành cho nơi thánh.
 
 <a id="neta-revai"></a>
 ### Neta revai / hoa trái năm thứ tư — נֶטַע רְבָעִי
@@ -652,7 +652,7 @@ Khi gặp một tổ thuộc phạm vi luật với chim mẹ đang ở trên tr
 <a id="kosher-signs"></a>
 ### Simanei kashrut / dấu hiệu phân loại thực phẩm — סִימָנֵי כַּשְׁרוּת
 
-Các đặc điểm pháp lý dùng nhận diện loài được phép ăn: thú trên cạn cần nhai lại và móng chẻ hoàn toàn; cá cần vây và vảy; côn trùng và chim có hệ tiêu chí cùng truyền thống nhận diện riêng. Đây không phải bảng phân loại sinh học hiện đại. Loài hợp lệ mới là một bước—cách giết mổ, kiểm tra, lấy máu và chế biến vẫn có thể quyết định thực phẩm có kosher hay không.
+Các đặc điểm pháp lý dùng nhận diện loài được phép ăn: thú trên cạn cần nhai lại và móng chẻ hoàn toàn; cá cần *snapir* (vây) và *kaskeset* (loại vảy được luật xác định); côn trùng và chim có hệ tiêu chí cùng truyền thống nhận diện riêng. Đây không phải bảng phân loại sinh học hiện đại. Loài hợp lệ mới là một bước—cách giết mổ, kiểm tra, lấy máu và chế biến vẫn có thể quyết định thực phẩm có kosher hay không.
 
 <a id="kosher-locusts"></a>
 ### Chagavim / châu chấu được phép ăn — חֲגָבִים
@@ -662,7 +662,7 @@ Nhóm côn trùng nhảy mà Lêvi 11 cho ngoại lệ khỏi lệnh cấm côn 
 <a id="calendar-sanctification"></a>
 ### Kiddush hachodesh / thánh hóa tháng mới — קִדּוּשׁ הַחֹדֶשׁ
 
-Thẩm quyền của tòa án Do Thái trong việc xác lập đầu tháng và điều chỉnh năm để lịch âm phù hợp mùa mặt trời. Thời cổ, thủ tục gắn với lời chứng nhìn thấy trăng mới; lịch Hebrew hiện hành dùng hệ tính toán cố định. Đây không phải thờ Mặt Trăng và cá nhân không tự tạo lịch tôn giáo riêng chỉ vì quan sát được trăng non.
+Thẩm quyền của *beit din*—tòa án Do Thái—trong việc xác lập đầu tháng và thực hiện *ibur hashanah*, điều chỉnh năm nhuận để lịch âm phù hợp mùa mặt trời. Thời cổ, thủ tục gắn với lời chứng nhìn thấy trăng mới; lịch Hebrew hiện hành dùng hệ tính toán cố định. Đây không phải thờ Mặt Trăng và cá nhân không tự tạo lịch tôn giáo riêng chỉ vì quan sát được trăng non.
 
 <a id="kiddush-havdalah"></a>
 ### Kiddush và Havdalah — קִדּוּשׁ / הַבְדָּלָה
@@ -793,17 +793,17 @@ Lều tạm dùng trong lễ Sukkot, có mái che bằng vật liệu thực v�
 <a id="get"></a>
 ### Get / chứng thư ly hôn — גֵּט
 
-Văn kiện ly hôn theo halakhah. Dịch đơn thuần là “ly hôn” làm mất ý rằng điều răn nói đến một văn bản pháp lý cụ thể.
+Văn kiện ly hôn theo halakhah, phải được viết và trao với các điều kiện về ý hướng, tên, nhân chứng và thủ tục. Dịch đơn thuần là “ly hôn” làm mất ý rằng điều răn nói đến một văn bản pháp lý cụ thể. Khi việc trao bị từ chối, người vợ có thể thành *agunah*—người bị “neo” trong hôn nhân—một vấn đề mà các cộng đồng tìm cơ chế phòng ngừa và giải quyết.
 
 <a id="sotah"></a>
 ### Sotah — סוֹטָה
 
-Người vợ bị chồng nghi ngoại tình trong thủ tục của Dân Số 5. Đây là một địa vị pháp lý–nghi lễ cổ đại, không phải từ đồng nghĩa chung cho “người ngoại tình”.
+Người vợ thuộc thủ tục Dân Số 5 khi chồng ghen tuông nghi ngoại tình trong những điều kiện pháp lý nhất định. Nghi thức gắn với Đền Thờ, lễ phẩm, lời thề và “nước đắng”; không phải xét nghiệm pháp y và không được thực hiện ngày nay. Đây là một địa vị pháp lý–nghi lễ cổ đại, không phải từ đồng nghĩa chung cho “người ngoại tình”.
 
 <a id="yefat-toar"></a>
 ### Yefat to'ar — יְפַת תֹּאַר
 
-Nghĩa đen là “người phụ nữ dung mạo đẹp”, chỉ nữ tù binh chiến tranh trong thủ tục đặc thù của Đệ Nhị Luật 21. Thuật ngữ không nên tách khỏi bối cảnh chiến tranh cổ đại ấy.
+Nghĩa đen là “người phụ nữ dung mạo đẹp”, chỉ nữ tù binh chiến tranh trong thủ tục đặc thù của Đệ Nhị Luật 21. Luật trì hoãn hành vi của người chiến thắng, dành một tháng tang chế và cấm bán nàng nếu quan hệ không tiếp tục, nhưng vẫn nằm trong bất đối xứng quyền lực của cảnh tù binh. Thuật ngữ không nên tách khỏi bối cảnh chiến tranh cổ đại hoặc dùng để hợp thức hóa cưỡng ép hiện đại.
 
 <a id="ov-and-yidoni"></a>
 ### Ov và yid'oni — אוֹב / יִדְּעֹנִי
@@ -914,4 +914,299 @@ Dân thù địch được Xuất Hành và Đệ Nhị Luật mô tả là tấ
 ### Milchemet reshut / chiến tranh tự nguyện — מִלְחֶמֶת הָרְשׁוּת
 
 Trong phân loại rabbi, cuộc chiến do nhà vua lựa chọn vì mục tiêu chính trị hoặc lãnh thổ, đối lập với loại chiến tranh được coi là bắt buộc. Maimonides đặt nó dưới thẩm quyền công cộng và các giới hạn pháp lý; thuật ngữ không có nghĩa cá nhân được tự ý gây chiến.
+
+<a id="inui-nefesh"></a>
+### Inui nefesh / tự hạ mình trong Yom Kippur — עִנּוּי נֶפֶשׁ
+
+Cụm chỉ việc “làm khổ” hay “tự hạ mình” trong Yom Kippur. Torah không dùng trực tiếp động từ thông thường “nhịn ăn”; truyền thống halakhah xác định nghĩa vụ gồm kiêng ăn uống và một số hình thức hưởng thụ thân thể khác.
+
+<a id="festival-rest"></a>
+### Shabbaton và melekhet avodah / nghỉ lễ và công việc lao dịch — שַׁבָּתוֹן / מְלֶאכֶת עֲבֹדָה
+
+*Shabbaton* chỉ một kỳ nghỉ trọng thể; *melekhet avodah* là loại công việc lao dịch bị cấm trong ngày lễ. Hai thuật ngữ giúp phân biệt ngày lễ với Shabbat hằng tuần và tránh hiểu “nghỉ” là hoàn toàn bất động.
+
+<a id="litigants"></a>
+### Baalei dinin / các bên tranh tụng — בַּעֲלֵי דִּינִין
+
+Những người có quyền lợi đối nghịch đang được tòa xét xử. Trong luật rabbi, yêu cầu đối xử bình đẳng bao gồm cách tòa lắng nghe, xưng hô và sắp xếp tư thế của các bên, không chỉ kết quả cuối cùng.
+
+<a id="witness-examination"></a>
+### Derishah va-chakirah / thẩm tra nhân chứng — דְּרִישָׁה וַחֲקִירָה
+
+Hệ thống hỏi và kiểm tra lời chứng, đặc biệt về thời gian, địa điểm và hoàn cảnh sự việc. Đây là phạm trù tố tụng rabbi, không hoàn toàn tương đương thủ tục đối chất của một hệ thống tòa án hiện đại.
+
+<a id="migrash"></a>
+### Migrash / đất mở quanh thành — מִגְרָשׁ
+
+Vùng đất trống hoặc đồng cỏ bao quanh một thành, dùng cho gia súc và nhu cầu cộng đồng. Trong luật về các thành của người Lêvi, nghĩa vụ cấp đất không chỉ bao gồm nhà ở bên trong tường thành.
+
+<a id="maakeh"></a>
+### Maakeh / lan can mái nhà — מַעֲקֶה
+
+Rào chắn bảo vệ trên mái phẳng có người sử dụng. Điều luật phản ánh kiến trúc nhà cổ nơi mái là không gian sinh hoạt; truyền thống rabbi phát triển từ đây nguyên tắc rộng hơn về loại bỏ nguy hiểm có thể dự liệu.
+
+<a id="avodah-zarah"></a>
+### Avodah zarah và meshamsheha / thờ thần khác và vật phụ trợ — עֲבוֹדָה זָרָה / מְשַׁמְּשֶׁיהָ
+
+*Avodah zarah* nghĩa chữ là “sự phụng tự xa lạ”, thuật ngữ rabbi cho việc thờ thần khác hoặc ngẫu tượng. *Meshamsheha* là các đồ vật phục vụ trực tiếp cho sự thờ cúng ấy, không phải mọi tài sản từng thuộc về một người ngoài Do Thái.
+
+<a id="war-herem"></a>
+### Herem trong chiến tranh — חֵרֶם
+
+Trong một số văn bản chiến tranh của Torah, *herem* chỉ việc đặt người hoặc vật dưới sự biệt hiến dẫn đến hủy diệt và không được chiếm dụng thông thường. Cần phân biệt nghĩa này với những loại tài sản hiến định khác cũng dùng gốc từ *cherem* trong halakhah.
+
+<a id="majority-rule"></a>
+### Acharei rabbim le-hatot / nghiêng theo số đông — אַחֲרֵי רַבִּים לְהַטֹּת
+
+Mệnh đề trong Xuất Hành 23:2 được truyền thống rabbi dùng làm cơ sở cho quyết định theo đa số trong tòa. Nó không phải nguyên tắc rằng bất kỳ đa số xã hội nào cũng luôn đúng; cách áp dụng phụ thuộc loại vụ án, thành phần tòa và các bảo đảm tố tụng.
+
+<a id="nefesh"></a>
+### Nefesh / sinh mạng, con người sống — נֶפֶשׁ
+
+Từ Hebrew có thể chỉ cổ họng, hơi sống, sinh mạng, bản thân hoặc một con người sống tùy ngữ cảnh. Dịch cố định thành “linh hồn” dễ đưa mô hình nhị nguyên thân–hồn muộn hơn vào những câu không mang nghĩa ấy.
+
+<a id="avad-service"></a>
+### Avad / làm việc, phục vụ và phụng sự — עָבַד
+
+Động từ có thể mô tả lao động, phục vụ một chủ, phục dịch cưỡng bức hoặc phụng sự thần linh. Trong P5, việc Maimonides rút nghĩa vụ cầu nguyện từ ngôn ngữ “phụng sự bằng tấm lòng” là một bước diễn giải pháp lý, không phải nghĩa từ điển duy nhất của động từ.
+
+<a id="ephah"></a>
+### Ephah / đơn vị dung tích — אֵיפָה
+
+Đơn vị đo dung tích khô trong Kinh Thánh, dùng cho ngũ cốc và bột. Giá trị tuyệt đối không thể quy đổi hoàn toàn chắc chắn sang lít hiện đại, nên các con số quy đổi chỉ là ước tính; một phần mười ephah được gọi là *omer*.
+
+<a id="shifchah-charufah"></a>
+### Shifchah charufah / nữ tỳ đã được chỉ định hôn phối — שִׁפְחָה חֲרוּפָה
+
+Địa vị pháp lý đặc thù trong Lêvi 19:20–22, thường được truyền thống rabbi hiểu là một nữ tỳ chưa hoàn toàn tự do nhưng đã được chỉ định cho một người nam. Không nên dịch giản đơn thành “vợ chưa cưới”, vì tình trạng nô lệ và mức tự do chưa hoàn tất là phần thiết yếu của luật cổ này.
+
+<a id="seh"></a>
+### Seh / chiên hoặc dê non — שֶׂה
+
+Danh từ Hebrew chỉ một con vật nhỏ thuộc đàn chiên hoặc dê; bản thân từ này không luôn xác định riêng cừu hay dê. Vì vậy, trong luật chuộc lừa đầu lòng ở Xuất Hành 13 và 34, dịch *seh* chỉ thành “chiên con” có thể hẹp hơn nguyên văn.
+
+<a id="basar-kodesh"></a>
+### Basar kodesh / thịt thánh — בְּשַׂר קֹדֶשׁ
+
+Thịt mang địa vị thánh do thuộc một lễ vật, và vì thế chịu các quy tắc riêng về người được ăn, nơi ăn, thời hạn và trạng thái thanh sạch. Cụm này không chỉ mọi món thịt dùng trong một bữa ăn tôn giáo; ở P90, nó nói đến thịt lễ vật đã tiếp nhận ô uế và phải bị thiêu.
+
+<a id="yoledet"></a>
+### Yoledet / người nữ sau sinh — יוֹלֶדֶת
+
+Dạng giống cái của động từ “sinh”, dùng cho người nữ vừa sinh con. Trong Lêvi 12, *yoledet* bước vào một chuỗi trạng thái và thời hạn nghi lễ liên quan máu hậu sản; thuật ngữ không hàm ý rằng sinh nở là tội lỗi, mất vệ sinh hay làm giảm phẩm giá của người mẹ.
+
+<a id="mesorah"></a>
+### Mesorah / truyền thống được trao truyền — מְסוֹרָה
+
+Một chuỗi truyền nhận có thẩm quyền trong cộng đồng, dùng để bảo tồn cách đọc, tập tục hoặc nhận diện pháp lý. Trong luật thực phẩm, *mesorah* đặc biệt quan trọng khi tên loài cổ và dấu hiệu hình thể chưa đủ chắc chắn, chẳng hạn với nhiều loài chim và châu chấu. Nó không đơn giản là tin đồn, sở thích gia đình hay một tập quán mới tự tuyên bố là cổ truyền.
+
+<a id="melakhah"></a>
+### Melakhah / công việc sáng tạo bị điều chỉnh — מְלָאכָה
+
+Phạm trù công việc bị cấm trong Shabbat và, với phạm vi có khác biệt, trong ngày lễ. Truyền thống rabbi hệ thống hóa ba mươi chín loại chính dựa trên các hoạt động liên hệ việc dựng Lều Hội Ngộ. *Melakhah* không đồng nhất với mọi vận động thể lực, việc làm có lương hay điều khiến một người cảm thấy mệt.
+
+<a id="mikra-kodesh"></a>
+### Mikra kodesh, Yom Tov và chol hamoed — מִקְרָא־קֹדֶשׁ / יוֹם טוֹב / חוֹל הַמּוֹעֵד
+
+*Mikra kodesh* là “cuộc triệu tập thánh” hoặc thời gian cộng đồng được biệt riêng trong lịch lễ. *Yom Tov* là tên rabbi thông dụng cho những ngày lễ có quy tắc nghỉ lao động, nhưng các quy tắc không hoàn toàn giống Shabbat. *Chol hamoed* là những ngày trung gian của Pesach hoặc Sukkot: vẫn thuộc kỳ lễ nhưng có địa vị khác các ngày mở đầu và kết thúc. Ba thuật ngữ không nên gộp thành một nghĩa chung là “ngày nghỉ”.
+
+<a id="mashuach-milchamah"></a>
+### Mashuach milchamah / tư tế được xức dầu cho chiến tranh — מְשׁוּחַ מִלְחָמָה
+
+Tư tế được bổ nhiệm bằng nghi thức xức dầu để đọc lời hiệu triệu theo Đệ Nhị Luật 20 trước khi quân đội giao chiến. Ông không phải tướng chỉ huy chiến thuật và chức vụ không trao quyền tự phát động chiến tranh. Phạm trù thuộc thiết chế công cộng của Israel cổ và pháp điển Maimonides, không thể tự gán cho giáo sĩ hay quân đội hiện đại.
+
+<a id="camp-sanitation"></a>
+### Yad và yated trong doanh trại — יָד / יָתֵד
+
+Trong Đệ Nhị Luật 23, *yad* là địa điểm được chỉ định bên ngoài doanh trại để đi vệ sinh, không mang nghĩa thông thường “bàn tay”; *yated* là cọc hoặc dụng cụ đào dùng để đào và lấp chất thải, nên có thể dịch theo chức năng là “xẻng nhỏ”. Hai quy tắc kết hợp trật tự vệ sinh với yêu cầu giữ doanh trại phù hợp sự hiện diện thánh.
+
+<a id="theft-restitution"></a>
+### Hashavat gezel / hoàn trả tài sản chiếm đoạt — הֲשָׁבַת גְּזֵלָה
+
+Nghĩa vụ trả lại chính vật đã chiếm đoạt hoặc giá trị phải bồi hoàn theo luật. *Gezel* nói đến việc lấy hoặc giữ tài sản trái quyền của chủ; lời xin lỗi, lễ vật hay hình phạt không thay thế việc khôi phục tài sản cho người bị hại. Nó khác *hashavat aveidah*, hoàn trả vật người khác vô ý đánh mất.
+
+<a id="tzedakah"></a>
+### Tzedakah / nghĩa vụ trợ giúp công chính — צְדָקָה
+
+Nghĩa vụ hỗ trợ người thiếu thốn, từ gốc từ liên hệ “công chính/đúng đắn”. Vì vậy *tzedakah* rộng hơn cảm hứng làm từ thiện tùy ý: pháp điển bàn về mức ưu tiên, nhu cầu, phẩm giá người nhận và việc giúp họ tự đứng vững. Thuật ngữ không đồng nhất với bố thí để tích công hoặc quyền của người cho kiểm soát đời sống người nhận.
+
+<a id="hebrew-servant-gift"></a>
+### Ha’anakah cho eved Ivri / khoản cấp khi tôi tớ Hebrew được tự do — הַעֲנָקָה / עֶבֶד עִבְרִי
+
+Khoản đàn vật, nông sản và của cải chủ phải cấp khi một *eved Ivri* kết thúc thời kỳ phục dịch theo Đệ Nhị Luật 15. *Eved Ivri* là địa vị lệ thuộc pháp lý cổ, thường do nghèo túng hoặc cơ chế tư pháp; không hoàn toàn tương đương nhân viên hiện đại, nhưng cũng không nên nhập máy móc với chế độ nô lệ chủng tộc cận đại. *Ha’anakah* giúp người được tự do không ra đi tay trắng.
+
+<a id="loans-poor"></a>
+### Halva’ah la-ani / cho người nghèo vay — הַלְוָאָה לֶעָנִי
+
+Tín dụng dành cho người đang thiếu thốn, được Torah đặt trong nghĩa vụ “mở tay” và cấm khai thác cảnh nghèo bằng lãi vay trong cộng đồng. Khoản vay khác quà *tzedakah* vì có nghĩa vụ hoàn trả, nhưng có thể giữ tính chủ động và ngăn người nhận rơi sâu hơn vào lệ thuộc. Nó không cho phép chủ nợ làm nhục, đe dọa hoặc tước vật thiết yếu.
+
+<a id="interest-nokhri"></a>
+### Ribbit đối với nokhri / lãi vay ngoài cộng đồng giao ước — רִבִּית / נָכְרִי
+
+Phạm trù trong Đệ Nhị Luật 23 phân biệt lãi vay với “anh em” và với *nokhri*, người ngoài cộng đồng Israel trong văn cảnh cổ. Maimonides đếm vế cho *nokhri* thành điều răn tích cực, nhưng phạm vi và mức bắt buộc đã được thảo luận trong truyền thống. Nó không phải giấy phép cho vay nặng lãi, gian lận hoặc kỳ thị người không phải Do Thái trong xã hội hiện đại.
+
+<a id="pledge"></a>
+### Mashkon / vật cầm cố — מַשְׁכּוֹן
+
+Tài sản được giữ làm bảo đảm cho một khoản nợ. Torah hạn chế cách chủ nợ lấy và giữ *mashkon*, đặc biệt phải trả vật thiết yếu như áo choàng vào lúc con nợ cần dùng. Trả vật cầm cố theo thời điểm không nhất thiết xóa món nợ; luật nhằm ngăn quyền bảo đảm biến thành xâm phạm nhà ở, sự sống và phẩm giá.
+
+<a id="timely-wages"></a>
+### Bi-zmano / trả lương đúng hạn — בִּזְמַנּוֹ
+
+Yêu cầu thanh toán tiền công trong thời hạn gắn với kỳ thuê và lúc công việc kết thúc. Trong nền kinh tế trả công theo ngày, giữ lương qua đêm có thể tước nguồn sống tức thời của người làm. Đây vừa là nghĩa vụ tích cực trả đúng hạn vừa đi cùng điều cấm trì hoãn; không nên thu hẹp thành tranh chấp hợp đồng không có chiều kích đạo đức.
+
+<a id="worker-eating"></a>
+### Akilat poel / quyền người làm thuê ăn tại chỗ — אֲכִילַת פּוֹעֵל
+
+Quyền của người làm thuê ăn một lượng hợp lý từ loại sản vật họ đang trực tiếp xử lý, trong thời điểm và điều kiện luật định. Quyền này không cho phép mang sản phẩm về, cho vào vật chứa hoặc lấy hàng hóa không liên quan công việc. Nó đặt một giới hạn cụ thể lên quyền sở hữu trong quan hệ lao động nông nghiệp.
+
+<a id="loading-unloading"></a>
+### Perikah và te’inah / dỡ và chất gánh — פְּרִיקָה / טְעִינָה
+
+*Perikah* là tháo tải khỏi con vật đang quỵ hoặc chịu gánh; *te’inah* là giúp nâng và chất lại gánh để tiếp tục hành trình. Pháp điển phân biệt hai nghĩa vụ vì dỡ gánh giải quyết đau đớn tức thời của động vật, còn chất gánh giúp chủ hoàn tất việc vận chuyển. Nghĩa vụ trợ giúp không miễn chủ hàng khỏi cùng tham gia hoặc cho phép đặt người giúp vào nguy hiểm.
+
+<a id="lost-property"></a>
+### Hashavat aveidah / hoàn trả đồ thất lạc — הֲשָׁבַת אֲבֵדָה
+
+Nghĩa vụ bảo quản, tìm chủ và trả tài sản người khác đánh mất khi các điều kiện pháp lý được đáp ứng. Dấu hiệu nhận dạng, nơi tìm thấy và việc chủ đã từ bỏ hy vọng lấy lại hay chưa ảnh hưởng cách xử lý. Nó khác hoàn trả đồ trộm: người nhặt không gây ra việc mất, nhưng không được vì thế mặc nhiên chiếm vật làm của riêng.
+
+<a id="rebuke"></a>
+### Tokhechah / khiển trách mang tính sửa chữa — תּוֹכֵחָה
+
+Lời góp ý hoặc khiển trách nhằm ngăn sai trái và khôi phục quan hệ, dựa trên Lêvi 19:17. *Tokhechah* không trao quyền làm nhục công khai, mắng nhiếc hay kiểm soát người khác; cách nói, hoàn cảnh và khả năng người kia tiếp nhận đều quan trọng. Câu luật đặt nghĩa vụ này cạnh việc không nuôi lòng ghét, nên mục tiêu không phải trút giận.
+
+<a id="love-neighbor"></a>
+### Ve’ahavta lere’akha kamokha / yêu người lân cận như mình — וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ
+
+Mệnh đề Lêvi 19:18 được pháp điển triển khai thành việc tìm điều tốt cho người khác và tôn trọng thân thể, tài sản cùng danh dự của họ. *Re’a* có thể mang nghĩa người lân cận, đồng bào hoặc người cùng cộng đồng tùy cách đọc. Điều răn không chỉ yêu cầu một cảm xúc và cũng không cung cấp lý do để ghét người ngoài phạm vi kỹ thuật của câu.
+
+<a id="love-convert"></a>
+### Ahavat ha-ger / yêu người cải đạo — אַהֲבַת הַגֵּר
+
+Trong pháp điển rabbi, nghĩa vụ dành tình yêu đặc biệt cho người đã gia nhập giao ước Do Thái, để họ không bị đối xử như thành viên hạng hai. Trong nhiều câu Torah, *ger* trước hết có nghĩa ngoại kiều cư trú; Maimonides áp dụng ngôn ngữ ấy cho người cải đạo pháp lý. Cần giữ hai tầng nghĩa lịch sử và halakhah thay vì giả định chúng hoàn toàn đồng nhất.
+
+<a id="weights-measures"></a>
+### Tzedek trong cân, quả cân và đơn vị đo — מֹאזְנֵי צֶדֶק / אַבְנֵי צֶדֶק
+
+Yêu cầu dụng cụ cân và chuẩn trọng lượng, dung tích phải chính xác, đồng thời cấm giữ hai bộ chuẩn để mua một giá trị và bán một giá trị khác. “Công chính” ở đây được vật chất hóa trong thiết bị và việc hiệu chuẩn, không chỉ là ý định trung thực. Nguyên tắc mở rộng tới nhiều hình thức đo lường thương mại nhưng không thay thế các tiêu chuẩn kỹ thuật hiện đại.
+
+<a id="honor-sages"></a>
+### Kavod talmidei chachamim / tôn kính học giả Torah — כְּבוֹד תַּלְמִידֵי חֲכָמִים
+
+Sự tôn kính dành cho người có học vấn Torah và tư cách phù hợp, gồm đứng dậy và cách ứng xử lễ độ. *Talmid chacham* nghĩa chữ là “học trò của người khôn ngoan”, tên gọi học giả vẫn tiếp tục học. Tôn kính không đồng nghĩa phục tùng mù quáng, miễn trách nhiệm đạo đức hoặc chấp nhận việc lạm dụng quyền uy.
+
+<a id="honor-parents"></a>
+### Kibbud av va’em / tôn kính cha mẹ — כִּבּוּד אָב וָאֵם
+
+Nghĩa vụ chăm lo và hành xử tôn kính đối với cha và mẹ, được truyền thống cụ thể hóa qua việc cung cấp thức ăn, đồ uống, y phục, hỗ trợ di chuyển và cách xưng xử. Nó được phân biệt với *mora*, thái độ kính sợ/tôn trọng ở P211. Nghĩa vụ không trao cho cha mẹ quyền yêu cầu con vi phạm luật hoặc buộc nạn nhân phải ở trong hoàn cảnh bạo hành.
+
+<a id="procreation"></a>
+### Peru u-revu / sinh sôi và gia tăng — פְּרוּ וּרְבוּ
+
+Mệnh lệnh và phúc lành về sự tiếp nối nhân loại trong Sáng Thế 1 và 9, được pháp điển Do Thái triển khai thành nghĩa vụ sinh sản với các điều kiện cụ thể. Thuật ngữ không có nghĩa người vô sinh, độc thân, không thể mang thai hoặc không có con kém phẩm giá. Các quyết định y khoa và nguy cơ sức khỏe không thể được giải quyết chỉ bằng việc lặp lại khẩu hiệu này.
+
+<a id="kiddushin"></a>
+### Kiddushin và nissuin / thiết lập và hoàn tất hôn nhân — קִדּוּשִׁין / נִשּׂוּאִין
+
+*Kiddushin* tạo quan hệ hôn nhân độc quyền về pháp lý; *nissuin* đưa hai người vào đời sống hôn nhân hoàn chỉnh. Trong lễ cưới Do Thái ngày nay, hai giai đoạn thường diễn ra liên tiếp dưới *chuppah*. *Kiddushin* không đơn giản là đính hôn hiện đại và không có nghĩa quan hệ tình dục tự động tạo thành hôn nhân hợp lệ.
+
+<a id="newlywed-year"></a>
+### Vesimach et ishto / làm vợ mới cưới được vui — וְשִׂמַּח אֶת־אִשְׁתּוֹ
+
+Trách nhiệm của người chồng mới cưới dành năm đầu để xây dựng hộ gia đình và đem niềm vui, sự ổn định cho vợ, trong khi được miễn một số nghĩa vụ quân sự–công cộng. Trọng tâm ngữ pháp là làm người vợ vui, không chỉ cho chú rể một năm nghỉ hưởng thụ. Điều này không trao quyền cô lập hoặc kiểm soát người vợ.
+
+<a id="brit-milah"></a>
+### Brit milah / giao ước cắt bao quy đầu — בְּרִית מִילָה
+
+Nghi thức cắt bao quy đầu cho bé trai Do Thái, thường vào ngày thứ tám nếu sức khỏe cho phép, làm dấu giao ước Abraham. Người thực hiện có kỹ năng được gọi là *mohel*. Đây vừa là nghi thức tôn giáo vừa là can thiệp thân thể, nên an toàn và đánh giá y khoa không được thay thế bằng lời chúc hay áp lực giữ đúng ngày khi có nguy hiểm.
+
+<a id="rape-marriage-law"></a>
+### Ones và luật trách nhiệm sau cưỡng hiếp — אוֹנֵס
+
+*Ones* trong nhóm luật này là kẻ cưỡng ép tình dục. Đệ Nhị Luật 22 đặt lên hắn trách nhiệm tài chính và cấm ly hôn nếu hôn nhân diễn ra; trong pháp điển Maimonides, người nữ và cha nàng có thể từ chối cuộc hôn nhân. Luật không ra lệnh nạn nhân phải cưới thủ phạm và tuyệt đối không được dùng để ép một người bị xâm hại duy trì quan hệ nguy hiểm.
+
+<a id="defaming-wife"></a>
+### Motzi shem ra / người vu khống vợ mới cưới — מוֹצִיא שֵׁם רָע
+
+Nghĩa chữ là người “đưa ra tiếng xấu”, nhưng trong Đệ Nhị Luật 22 đây là phạm trù hẹp: người chồng đưa cáo buộc tình dục sai đối với vợ mới cưới theo thủ tục luật định. Chế tài gồm phạt tiền và mất quyền ly hôn nàng. Nó không bao gồm mọi lời xúc phạm giữa vợ chồng và không được dùng để buộc người vợ ở lại quan hệ bạo hành.
+
+<a id="seducer-law"></a>
+### Mefateh / người dụ dỗ trong luật cổ — מְפַתֶּה
+
+Người nam dụ dỗ một thiếu nữ chưa đính hôn trong phạm trù Xuất Hành 22, được phân biệt với *ones* là cưỡng ép. Luật đặt trách nhiệm hôn nhân–tài chính nhưng cho người cha quyền từ chối trong cấu trúc phụ hệ cổ. Trả khoản tiền không mua quyền sở hữu người nữ, không làm hành vi trở thành đúng và không thay thế luật hiện đại về đồng thuận cùng độ tuổi bảo vệ.
+
+<a id="malkot"></a>
+### Malkot / hình phạt roi của tòa — מַלְקוֹת
+
+Hình phạt thân thể do tòa đủ thẩm quyền áp dụng cho một số vi phạm, với số roi và đánh giá sức khỏe được giới hạn. Truyền thống rabbi đặt mức tối đa thực hành là ba mươi chín, dưới giới hạn bốn mươi của Đệ Nhị Luật. Đây không phải quyền của cha mẹ, giáo sĩ, cộng đồng hay đám đông tự đánh người bị coi là có lỗi.
+
+<a id="four-death-penalties"></a>
+### Bốn hình thức tử hình của tòa rabbi — אַרְבַּע מִיתוֹת בֵּית דִּין
+
+Mishnah phân loại *sekilah* (ném đá), *serefah* (“thiêu” theo thủ tục rabbi), *hereg/sayif* (gươm) và *chenek* (siết cổ). Việc kết án giả định tòa đủ thẩm quyền, ít nhất hai nhân chứng hợp lệ, cảnh báo trước và nhiều điều kiện nghiêm ngặt. Không có Sanhedrin thi hành án tử ngày nay; các phạm trù này không trao quyền hành quyết cho cá nhân, cộng đồng tự phát hoặc nhà nước hiện đại.
+
+<a id="post-execution-hanging"></a>
+### Teliyah sau hành quyết / treo thi thể — תְּלִיָּה
+
+Việc phơi thi thể trong thời gian ngắn sau khi người thuộc một số án đã bị hành quyết, không phải treo cổ như phương thức gây chết. Đệ Nhị Luật cấm để thi thể qua đêm và yêu cầu chôn trong ngày. Luật vừa dùng việc treo làm dấu công khai vừa đặt giới hạn mạnh lên sự nhục mạ thi thể.
+
+<a id="same-day-burial"></a>
+### Kevurah bo bayom / chôn trong chính ngày — קְבוּרָה בּוֹ בַיּוֹם
+
+Nghĩa vụ không để thi thể người bị hành quyết và treo qua đêm mà phải hạ xuống, chôn trong ngày. Luật giới hạn việc bêu nhục thi thể và được truyền thống liên hệ giá trị mai táng kịp thời rộng hơn. Đây không có nghĩa bỏ qua điều tra pháp y hoặc các yêu cầu hợp pháp hiện đại khi cái chết chưa được làm rõ.
+
+<a id="eved-ivri"></a>
+### Eved Ivri / người Hebrew phục dịch lệ thuộc — עֶבֶד עִבְרִי
+
+Một người Hebrew/Israel bước vào địa vị phục dịch có thời hạn do nghèo túng, tự bán sức lao động hoặc trong một số trường hợp tư pháp. Torah và pháp điển giới hạn thời hạn, cách đối xử và trả tự do. Địa vị này không phải lao động tự do hiện đại, nhưng cũng khác chế độ nô lệ hàng hóa chủng tộc cận đại; phân biệt lịch sử không làm mọi hình thức lệ thuộc trở nên chấp nhận được ngày nay.
+
+<a id="amah-ivriyah"></a>
+### Amah Ivriyah, yi’ud và pidyon / nữ tỳ Hebrew, định hôn và chuộc — אָמָה עִבְרִיָּה / יִעוּד / פִּדְיוֹן
+
+*Amah Ivriyah* là bé gái/người nữ Hebrew chưa thành niên được cha đưa vào địa vị phục dịch theo hệ luật cổ. *Yi’ud* là việc chủ hoặc con trai ông định nàng vào hôn nhân; *pidyon* là chuộc để chấm dứt phục dịch. Torah đặt giới hạn và quyền vật chất, nhưng thiết chế vẫn phản ánh quyền lực phụ hệ không tương thích với chuẩn hiện đại về trẻ em và đồng thuận hôn nhân.
+
+<a id="eved-kenaani"></a>
+### Eved Kena’ani / tôi tớ không thuộc Israel — עֶבֶד כְּנַעֲנִי
+
+Phạm trù pháp lý rabbi dành cho người phục dịch không thuộc Israel, có thể ở trong địa vị lâu dài và được truyền như tài sản, đồng thời nhận một số nghĩa vụ tôn giáo. “Canaanite” ở đây là nhãn pháp lý truyền thống, không nhất thiết xác định dân tộc lịch sử. Các hạn chế đối xử không xóa bản chất bất bình đẳng và không thể dùng để biện hộ cho nô lệ, buôn người hay lao động cưỡng bức.
+
+<a id="personal-injury-damages"></a>
+### Chovel và năm khoản bồi thường thương tích — חוֹבֵל
+
+*Chovel* là người làm thân thể người khác bị thương. Luật rabbi phân bồi thường thành tổn hại thân thể (*nezek*), đau đớn (*tza’ar*), chữa trị (*ripui*), mất thời gian lao động (*shevet*) và nhục hại (*boshet*). Cách đọc này hiểu “mắt đền mắt” là trách nhiệm tiền tệ, không trao quyền tự gây thương tích trả đũa.
+
+<a id="civil-damages"></a>
+### Các nguồn thiệt hại: shor, bor, shen, regel và esh — שׁוֹר / בּוֹר / שֵׁן / רֶגֶל / אֵשׁ
+
+Các mẫu trách nhiệm dân sự trong Xuất Hành và Mishnah: *shor* là gia súc gây hại, đặc biệt bò húc; *bor* là hố hoặc hiểm họa thụ động; *shen* là súc vật ăn phá; *regel* là thiệt hại thông thường do bước đi; *esh* là lửa lan. Đây là các loại phân tích trách nhiệm, không phải danh sách mọi tai nạn hiện đại.
+
+<a id="theft-law"></a>
+### Genevah / trộm cắp kín đáo và trách nhiệm — גְּנֵבָה
+
+Việc bí mật lấy tài sản hoặc người, phân biệt với *gezel* thường chỉ chiếm đoạt công khai. Trách nhiệm có thể là hoàn trả, bồi thường gấp đôi hoặc nhiều lần tùy đối tượng; án tử không áp dụng cho trộm tài sản thông thường mà liên quan những phạm trù riêng như bắt cóc người. Không nên đọc bản tóm tắt “bồi thường hoặc tử hình” như một chế tài duy nhất cho mọi vụ trộm.
+
+<a id="four-guardians"></a>
+### Bốn loại người giữ tài sản — אַרְבָּעָה שׁוֹמְרִים
+
+*Shomer chinam* giữ không công; *shomer sachar* giữ có công; *sokher* thuê để sử dụng; *sho’el* mượn miễn phí. Mức trách nhiệm tăng giảm theo lợi ích và loại rủi ro mà mỗi bên nhận. Trường hợp *be’alav imo*, chủ đang làm việc cùng người mượn, tạo ngoại lệ kỹ thuật. Các loại này là mô hình hợp đồng cổ, không khớp hoàn toàn dịch vụ lưu kho, thuê và bảo hiểm hiện đại.
+
+<a id="sales-law"></a>
+### Mekach u-memkar / luật mua bán — מִקָּח וּמִמְכָּר
+
+Hệ luật về cách giao dịch có hiệu lực, chuyển quyền sở hữu, sai lệch giá, nhầm lẫn, điều kiện và hủy giao dịch. Nó cụ thể hóa lệnh không làm thiệt nhau trong thương mại. Các phương thức chuyển quyền cổ không tự động thay thế luật hợp đồng và bảo vệ người tiêu dùng của quốc gia hiện đại.
+
+<a id="claims-law"></a>
+### To’en, nit’an và kofer / yêu sách, đáp kiện và phủ nhận — טוֹעֵן / נִטְעָן / כּוֹפֵר
+
+Các vai trong tranh tụng tài sản: *to’en* đưa yêu sách, *nit’an* là bên phải trả lời, còn *kofer* phủ nhận toàn bộ hoặc một phần nghĩa vụ. Hệ luật xác định gánh nặng chứng minh, lời thề và tác động của việc thừa nhận. *Kofer* ở đây là thuật ngữ tố tụng, không mang nghĩa thần học “kẻ vô thần”.
+
+<a id="rodef"></a>
+### Din rodef / luật về kẻ đang truy đuổi — דִּין רוֹדֵף
+
+Nghĩa vụ cứu người đang bị truy đuổi trước nguy cơ bị giết hoặc một số xâm hại nghiêm trọng. Phải dùng mức lực đủ để dừng nguy cơ; chỉ khi không thể cứu bằng cách ít gây hại hơn mới được giết kẻ truy đuổi. *Rodef* không phải nhãn để xử tử đối thủ chính trị, trả thù sau sự việc hay hành động dựa trên suy đoán xa xôi.
+
+<a id="inheritance-law"></a>
+### Nachalot / luật thừa kế — נַחֲלוֹת
+
+Hệ luật về thứ tự người nhận tài sản khi một người chết, gắn với đất gia sản và dòng họ Israel cổ. Dân Số 27 ưu tiên con trai, rồi mở nhánh cho con gái khi không có con trai, sau đó đến các họ hàng khác. Cấu trúc này khác chế độ chia đều và quyền vợ chồng trong nhiều luật dân sự hiện đại; di chúc và chuyển tài sản khi còn sống tạo thêm vấn đề pháp lý riêng.
 

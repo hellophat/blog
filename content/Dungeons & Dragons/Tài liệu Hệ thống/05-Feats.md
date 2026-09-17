@@ -1,169 +1,174 @@
 ---
-title: Chương 5 - Feats (Tài năng đặc biệt)
+title: Chương 5 - Kỳ tài
+description: Kỳ tài trong SRD 5.2.1 - kỳ tài nguồn gốc, kỳ tài chung, kỳ tài phong cách chiến đấu và kỳ tài ân huệ sử thi.
+tags:
+  - DnD
+  - Dungeons & Dragons
+  - SRD 5.2.1
 ---
 
-# Feats (Tài năng đặc biệt)
+Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Feats".
 
-## Feat Descriptions (Mô Tả Feat)
+## Mô tả kỳ tài (Feat Descriptions)
 
-Các feat sau đây được sắp xếp theo danh mục — Origin, General, Fighting Style, hoặc Epic Boon — và theo thứ tự bảng chữ cái trong mỗi danh mục.
+Các kỳ tài dưới đây được xếp theo nhóm — Nguồn gốc, Chung, Phong cách chiến đấu hoặc Ân huệ sử thi — và theo thứ tự chữ cái tên tiếng Anh trong mỗi nhóm.
 
-**Parts of a Feat**
+**Các thành phần của kỳ tài (Parts of a Feat)**
 
-Mô tả của một feat chứa các phần sau, được trình bày sau tên của feat.
+Mô tả một kỳ tài gồm các phần sau, trình bày sau tên kỳ tài:
 
-- **The Category.** Một feat là thành viên của một danh mục, được ghi chú trong feat đó. Nếu bạn được yêu cầu chọn một feat từ một danh mục cụ thể, chẳng hạn danh mục Origin, danh mục đó phải xuất hiện dưới tên của feat. Nếu bạn được yêu cầu chọn một feat mà không có danh mục cụ thể nào được nêu, bạn có thể chọn từ bất kỳ danh mục nào.
-- **Prerequisites.** Để nhận một feat, bạn phải đáp ứng bất kỳ điều kiện tiên quyết nào trong mô tả của nó trừ khi một feature cho phép bạn nhận feat mà không cần điều kiện tiên quyết đó. Nếu một điều kiện tiên quyết bao gồm một class, bạn phải có ít nhất 1 level trong class đó để nhận feat.
-- **Benefits.** Các lợi ích của một feat được trình bày chi tiết sau khi bất kỳ điều kiện tiên quyết nào được liệt kê. Nếu bạn có một feat, bạn nhận các lợi ích của nó.
-- **Repeatable.** Một feat chỉ có thể được nhận một lần trừ khi mô tả của nó nói khác trong một tiểu mục "Repeatable".
+- **Nhóm (The Category).** Mỗi kỳ tài thuộc một nhóm, được ghi trong kỳ tài. Nếu được yêu cầu chọn kỳ tài thuộc một nhóm cụ thể, chẳng hạn nhóm Nguồn gốc, nhóm đó phải xuất hiện dưới tên kỳ tài. Nếu được yêu cầu chọn kỳ tài mà không nêu nhóm, bạn có thể chọn từ bất kỳ nhóm nào.
+- **Điều kiện tiên quyết (Prerequisites).** Để nhận kỳ tài, bạn phải đáp ứng mọi điều kiện tiên quyết trong mô tả, trừ khi một đặc tính cho phép bạn nhận kỳ tài mà không cần điều kiện đó. Nếu điều kiện tiên quyết là một lớp nhân vật, bạn phải có ít nhất 1 cấp trong lớp đó.
+- **Lợi ích (Benefits).** Lợi ích của kỳ tài được trình bày sau phần điều kiện tiên quyết (nếu có). Khi có kỳ tài, bạn nhận các lợi ích đó.
+- **Có thể nhận lại (Repeatable).** Mỗi kỳ tài chỉ nhận được một lần, trừ khi mô tả có mục "Có thể nhận lại" nói khác.
 
-## Origin Feats (Origin Feat)
+## Kỳ tài nguồn gốc (Origin Feats)
 
-### Alert (Cảnh Giác)
+### Cảnh giác (Alert)
 
-*Origin Feat*
+*Kỳ tài nguồn gốc*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Initiative Proficiency.** Khi tung Initiative, bạn có thể cộng Proficiency Bonus vào lượt tung.
-- **Initiative Swap.** Ngay sau khi tung Initiative, bạn có thể đổi Initiative của mình với Initiative của một đồng minh tự nguyện trong cùng combat. Bạn không thể thực hiện đổi này nếu bạn hoặc đồng minh đó có condition Incapacitated.
+- **Thành thạo Sáng kiến (Initiative Proficiency).** Khi tung Sáng kiến, bạn có thể cộng thưởng thành thạo vào lần tung.
+- **Hoán đổi Sáng kiến (Initiative Swap).** Ngay sau khi tung Sáng kiến, bạn có thể đổi Sáng kiến của mình với một đồng minh tự nguyện trong cùng trận chiến. Bạn không thể hoán đổi nếu bạn hoặc đồng minh đang ở trạng thái Mất năng lực hành động.
 
-### Magic Initiate (Người Mới Học Phép)
+### Nhập môn ma thuật (Magic Initiate)
 
-*Origin Feat*
+*Kỳ tài nguồn gốc*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Two Cantrips.** Bạn học hai cantrip theo lựa chọn của mình từ Cleric, Druid, hoặc Wizard spell list. Intelligence, Wisdom, hoặc Charisma là spellcasting ability của bạn cho các spell của feat này (chọn khi nhận feat này).
-- **Level 1 Spell.** Chọn một spell level 1 từ cùng danh sách bạn đã chọn cho cantrip của feat này. Bạn luôn có spell đó ở trạng thái đã chuẩn bị. Bạn có thể thi triển nó một lần mà không dùng spell slot, và bạn phục hồi khả năng thi triển nó theo cách đó khi hoàn thành một Long Rest. Bạn cũng có thể thi triển spell đó bằng bất kỳ spell slot nào bạn có.
-- **Spell Change.** Bất cứ khi nào lên một level mới, bạn có thể thay một trong các spell bạn đã chọn cho feat này bằng một spell khác cùng level từ danh sách đã chọn.
+- **Hai phép sơ cấp (Two Cantrips).** Bạn học hai phép sơ cấp tùy chọn từ danh sách phép Giáo sĩ, Druid hoặc Pháp sư. Trí tuệ, Minh triết hoặc Sức hút là thuộc tính thi triển phép cho các phép của kỳ tài này (chọn khi nhận kỳ tài).
+- **Phép bậc 1 (Level 1 Spell).** Chọn một phép bậc 1 trong cùng danh sách đã chọn cho phép sơ cấp. Bạn luôn chuẩn bị sẵn phép đó. Bạn có thể thi triển nó một lần mà không tiêu ô phép, và hồi khả năng này khi hoàn thành nghỉ dài. Bạn cũng có thể thi triển phép đó bằng bất kỳ ô phép nào bạn có.
+- **Đổi phép (Spell Change).** Mỗi khi lên cấp mới, bạn có thể thay một phép đã chọn cho kỳ tài này bằng phép khác cùng bậc trong danh sách đã chọn.
 
-*Repeatable.* Bạn có thể nhận feat này nhiều hơn một lần, nhưng bạn phải chọn một spell list khác mỗi lần.
+*Có thể nhận lại (Repeatable).* Bạn có thể nhận kỳ tài này nhiều lần, nhưng mỗi lần phải chọn một danh sách phép khác.
 
-### Savage Attacker (Kẻ Tấn Công Tàn Bạo)
+### Kẻ tấn công tàn bạo (Savage Attacker)
 
-*Origin Feat*
+*Kỳ tài nguồn gốc*
 
-Bạn đã luyện tập để giáng những đòn đặc biệt gây thiệt hại. Một lần mỗi turn khi đánh trúng một mục tiêu bằng một weapon, bạn có thể tung xúc xắc damage của weapon đó hai lần và dùng một trong hai kết quả nhắm vào mục tiêu.
+Bạn đã luyện cách tung những đòn đặc biệt tàn khốc. Một lần mỗi lượt, khi đánh trúng mục tiêu bằng vũ khí, bạn có thể tung xúc xắc sát thương của vũ khí hai lần và dùng một trong hai kết quả.
 
-### Skilled (Đa Tài)
+### Thành thạo đa dạng (Skilled)
 
-*Origin Feat*
+*Kỳ tài nguồn gốc*
 
-Bạn nhận proficiency trong bất kỳ tổ hợp nào của ba skill hoặc tool theo lựa chọn của mình.
+Bạn thành thạo ba kỹ năng hoặc công cụ tùy chọn, theo bất kỳ tổ hợp nào.
 
-*Repeatable.* Bạn có thể nhận feat này nhiều hơn một lần.
+*Có thể nhận lại (Repeatable).* Bạn có thể nhận kỳ tài này nhiều lần.
 
-## General Feats (General Feat)
+## Kỳ tài chung (General Feats)
 
-### Ability Score Improvement (Cải Thiện Chỉ Số)
+### Tăng điểm thuộc tính (Ability Score Improvement)
 
-*General Feat (Điều kiện tiên quyết: Level 4+)*
+*Kỳ tài chung (điều kiện tiên quyết: cấp 4+)*
 
-Tăng một ability score theo lựa chọn của bạn thêm 2, hoặc tăng hai ability score theo lựa chọn của bạn mỗi thứ thêm 1. Feat này không thể tăng một ability score vượt quá 20.
+Tăng một điểm thuộc tính tùy chọn thêm 2, hoặc tăng hai điểm thuộc tính tùy chọn mỗi điểm thêm 1. Kỳ tài này không thể đưa điểm thuộc tính vượt quá 20.
 
-*Repeatable.* Bạn có thể nhận feat này nhiều hơn một lần.
+*Có thể nhận lại (Repeatable).* Bạn có thể nhận kỳ tài này nhiều lần.
 
-### Grappler (Đô Vật)
+### Đô vật (Grappler)
 
-*General Feat (Điều kiện tiên quyết: Level 4+, Strength hoặc Dexterity 13+)*
+*Kỳ tài chung (điều kiện tiên quyết: cấp 4+, Sức mạnh hoặc Khéo léo 13+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng Strength hoặc Dexterity score của bạn thêm 1, tối đa đến 20.
-- **Punch and Grab.** Khi đánh trúng một creature bằng một Unarmed Strike như một phần của action Attack trong turn của mình, bạn có thể nhận cả tùy chọn Damage lẫn Grapple. Bạn chỉ có thể dùng lợi ích này một lần mỗi turn.
-- **Fast Wrestler.** Bạn có Advantage trên attack roll nhắm vào một creature đang bị bạn Grapple.
-- **Advantage.** Bạn không cần tốn thêm movement để di chuyển một creature đang bị bạn Grapple nếu creature đó có kích thước bằng hoặc nhỏ hơn bạn.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng Sức mạnh hoặc Khéo léo thêm 1, tối đa 20.
+- **Đấm và tóm (Punch and Grab).** Khi đánh trúng một sinh vật bằng đòn tay không trong hành động Tấn công của lượt mình, bạn có thể dùng cả lựa chọn Sát thương lẫn Vật lộn. Mỗi lượt bạn chỉ dùng được lợi ích này một lần.
+- **Lợi thế tấn công (Attack Advantage).** Bạn có lợi thế khi tung tấn công sinh vật đang bị bạn vật lộn.
+- **Đô vật nhanh (Fast Wrestler).** Bạn không tốn thêm lượng di chuyển khi kéo theo một sinh vật đang bị bạn vật lộn nếu nó cùng cỡ hoặc nhỏ hơn bạn.
 
-## Fighting Style Feats (Fighting Style Feat)
+## Kỳ tài phong cách chiến đấu (Fighting Style Feats)
 
-### Archery (Cung Thuật)
+### Bắn cung (Archery)
 
-*Fighting Style Feat (Điều kiện tiên quyết: Fighting Style Feature)*
+*Kỳ tài phong cách chiến đấu (điều kiện tiên quyết: đặc tính Phong cách chiến đấu)*
 
-Bạn nhận bonus +2 vào attack roll bạn thực hiện với Ranged weapon.
+Bạn được +2 khi tung tấn công bằng vũ khí tầm xa.
 
-### Defense (Phòng Thủ)
+### Phòng thủ (Defense)
 
-*Fighting Style Feat (Điều kiện tiên quyết: Fighting Style Feature)*
+*Kỳ tài phong cách chiến đấu (điều kiện tiên quyết: đặc tính Phong cách chiến đấu)*
 
-Khi mặc Light, Medium, hoặc Heavy armor, bạn nhận bonus +1 vào Armor Class.
+Khi mặc giáp nhẹ, trung bình hoặc nặng, bạn được +1 vào Chỉ số giáp.
 
-### Great Weapon Fighting (Chiến Đấu Vũ Khí Lớn)
+### Chiến đấu vũ khí lớn (Great Weapon Fighting)
 
-*Fighting Style Feat (Điều kiện tiên quyết: Fighting Style Feature)*
+*Kỳ tài phong cách chiến đấu (điều kiện tiên quyết: đặc tính Phong cách chiến đấu)*
 
-Khi tung damage cho một cuộc tấn công bạn thực hiện bằng một Melee weapon mà bạn đang cầm bằng hai tay, bạn có thể coi bất kỳ kết quả 1 hoặc 2 nào trên một xúc xắc damage là 3. Weapon đó phải có thuộc tính Two-Handed hoặc Versatile để nhận lợi ích này.
+Khi tung sát thương cho đòn tấn công bằng vũ khí cận chiến đang cầm hai tay, bạn có thể coi mọi kết quả 1 hoặc 2 trên xúc xắc sát thương là 3. Vũ khí phải có thuộc tính Hai tay hoặc Đa dụng để được hưởng lợi ích này.
 
-### Two-Weapon Fighting (Chiến Đấu Song Kiếm)
+### Chiến đấu hai vũ khí (Two-Weapon Fighting)
 
-*Fighting Style Feat (Điều kiện tiên quyết: Fighting Style Feature)*
+*Kỳ tài phong cách chiến đấu (điều kiện tiên quyết: đặc tính Phong cách chiến đấu)*
 
-Khi thực hiện một cuộc tấn công thêm nhờ dùng một weapon có thuộc tính Light, bạn có thể cộng ability modifier của mình vào damage của cuộc tấn công đó nếu bạn chưa cộng nó vào damage.
+Khi thực hiện đòn tấn công thêm nhờ dùng vũ khí có thuộc tính Nhẹ, bạn có thể cộng hệ số thuộc tính vào sát thương của đòn đó nếu chưa cộng.
 
-## Epic Boon Feats (Epic Boon Feat)
+## Kỳ tài ân huệ sử thi (Epic Boon Feats)
 
-### Boon of Combat Prowess (Ân Sủng Tinh Thông Chiến Đấu)
+### Ân huệ Tài chiến đấu (Boon of Combat Prowess)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng một ability score theo lựa chọn của bạn thêm 1, tối đa đến 30.
-- **Peerless Aim.** Khi trượt một attack roll, bạn có thể chuyển nó thành trúng. Sau khi dùng lợi ích này, bạn không thể dùng lại cho đến khi bắt đầu turn tiếp theo của bạn.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng một điểm thuộc tính tùy chọn thêm 1, tối đa 30.
+- **Nhắm bắn vô song (Peerless Aim).** Khi tung tấn công trượt, bạn có thể biến nó thành trúng. Sau khi dùng lợi ích này, bạn không thể dùng lại cho đến đầu lượt kế tiếp.
 
-### Boon of Dimensional Travel (Ân Sủng Du Hành Không Gian)
+### Ân huệ Du hành chiều không gian (Boon of Dimensional Travel)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng một ability score theo lựa chọn của bạn thêm 1, tối đa đến 30.
-- **Blink Steps.** Ngay sau khi thực hiện action Attack hoặc Magic action, bạn có thể dịch chuyển tối đa 30 feet đến một không gian trống mà bạn có thể nhìn thấy.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng một điểm thuộc tính tùy chọn thêm 1, tối đa 30.
+- **Bước chớp (Blink Steps).** Ngay sau khi dùng hành động Tấn công hoặc hành động Ma thuật, bạn có thể dịch chuyển tức thời tối đa 9 m (30 feet) đến một chỗ trống mà bạn nhìn thấy.
 
-### Boon of Fate (Ân Sủng Số Mệnh)
+### Ân huệ Định mệnh (Boon of Fate)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng một ability score theo lựa chọn của bạn thêm 1, tối đa đến 30.
-- **Improve Fate.** Khi bạn hoặc một creature khác trong vòng 60 feet của bạn thành công hoặc thất bại trong một D20 Test, bạn có thể tung 2d4 và áp dụng tổng số đó như một bonus hoặc penalty vào lượt tung d20. Sau khi dùng lợi ích này, bạn không thể dùng lại cho đến khi tung Initiative hoặc hoàn thành một Short hoặc Long Rest.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng một điểm thuộc tính tùy chọn thêm 1, tối đa 30.
+- **Xoay chuyển vận mệnh (Improve Fate).** Khi bạn hoặc một sinh vật khác trong phạm vi 18 m (60 feet) thành công hoặc thất bại một phép thử d20, bạn có thể tung 2d4 và áp tổng đó làm điểm cộng hoặc điểm trừ cho kết quả d20. Sau khi dùng lợi ích này, bạn không thể dùng lại cho đến khi tung Sáng kiến hoặc hoàn thành nghỉ ngắn hay nghỉ dài.
 
-### Boon of Irresistible Offense (Ân Sủng Công Kích Bất Khả Kháng)
+### Ân huệ Tấn công không thể cản (Boon of Irresistible Offense)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng Strength hoặc Dexterity score của bạn thêm 1, tối đa đến 30.
-- **Overcome Defenses.** Damage Bludgeoning, Piercing, và Slashing bạn gây ra luôn bỏ qua Resistance.
-- **Overwhelming Strike.** Khi tung ra 20 trên d20 cho một attack roll, bạn có thể gây thêm damage lên mục tiêu bằng ability score đã được tăng bởi feat này. Loại damage thêm giống với loại của cuộc tấn công.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng Sức mạnh hoặc Khéo léo thêm 1, tối đa 30.
+- **Vượt qua phòng thủ (Overcome Defenses).** Sát thương đập, xuyên và chém bạn gây ra luôn bỏ qua kháng.
+- **Đòn áp đảo (Overwhelming Strike).** Khi tung được 20 trên d20 ở lần tung tấn công, bạn có thể gây thêm sát thương lên mục tiêu bằng điểm thuộc tính đã được kỳ tài này tăng. Sát thương thêm cùng loại với sát thương của đòn tấn công.
 
-### Boon of Spell Recall (Ân Sủng Hồi Phục Phép Thuật)
+### Ân huệ Hồi tưởng phép (Boon of Spell Recall)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+, feature Spellcasting)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+, đặc tính Thi triển phép)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng Intelligence, Wisdom, hoặc Charisma score của bạn thêm 1, tối đa đến 30.
-- **Free Casting.** Bất cứ khi nào thi triển một spell bằng một spell slot level 1–4, hãy tung 1d4. Nếu số bạn tung được bằng level của slot đó, slot không bị dùng hết.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng Trí tuệ, Minh triết hoặc Sức hút thêm 1, tối đa 30.
+- **Thi triển miễn phí (Free Casting).** Mỗi khi thi triển phép bằng ô phép bậc 1–4, tung 1d4. Nếu kết quả bằng bậc của ô phép, ô đó không bị tiêu hao.
 
-### Boon of the Night Spirit (Ân Sủng Linh Hồn Bóng Đêm)
+### Ân huệ Linh hồn bóng đêm (Boon of the Night Spirit)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng một ability score theo lựa chọn của bạn thêm 1, tối đa đến 30.
-- **Merge with Shadows.** Khi ở trong Dim Light hoặc Darkness, bạn có thể tự cho mình condition Invisible như một Bonus Action. Condition kết thúc trên bạn ngay sau khi bạn thực hiện một action, Bonus Action, hoặc Reaction.
-- **Shadowy Form.** Khi ở trong Dim Light hoặc Darkness, bạn có Resistance với tất cả damage ngoại trừ Psychic và Radiant.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng một điểm thuộc tính tùy chọn thêm 1, tối đa 30.
+- **Hòa vào bóng tối (Merge with Shadows).** Khi ở trong ánh sáng yếu hoặc bóng tối, bạn có thể dùng hành động phụ để rơi vào trạng thái Vô hình. Trạng thái kết thúc ngay sau khi bạn thực hiện một hành động, hành động phụ hoặc phản ứng.
+- **Hình bóng (Shadowy Form).** Khi ở trong ánh sáng yếu hoặc bóng tối, bạn kháng mọi sát thương trừ tâm linh và quang.
 
-### Boon of Truesight (Ân Sủng Chân Nhãn)
+### Ân huệ Chân thị (Boon of Truesight)
 
-*Epic Boon Feat (Điều kiện tiên quyết: Level 19+)*
+*Kỳ tài ân huệ sử thi (điều kiện tiên quyết: cấp 19+)*
 
-Bạn nhận các lợi ích sau.
+Bạn nhận các lợi ích sau:
 
-- **Ability Score Increase.** Tăng một ability score theo lựa chọn của bạn thêm 1, tối đa đến 30.
-- **Truesight.** Bạn có Truesight với tầm 60 feet.
+- **Tăng điểm thuộc tính (Ability Score Increase).** Tăng một điểm thuộc tính tùy chọn thêm 1, tối đa 30.
+- **Chân thị (Truesight).** Bạn có chân thị trong phạm vi 18 m (60 feet).
