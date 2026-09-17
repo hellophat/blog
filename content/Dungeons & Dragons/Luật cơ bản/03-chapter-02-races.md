@@ -8,11 +8,11 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 13-21.
 
 *Các dân tộc khác nhau cùng bước vào một thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Một chuyến thăm những thành phố lớn của thế giới Dungeons & Dragons, như Waterdeep, Thành phố Tự do Greyhawk, hay thậm chí Sigil kỳ lạ, Thành phố của Những Cánh Cửa, sẽ khiến các giác quan choáng ngợp. Tiếng trò chuyện vang lên bằng vô số ngôn ngữ. Mùi thức ăn của hàng chục nền ẩm thực hòa với mùi đường phố đông đúc và điều kiện vệ sinh kém. Những công trình mang muôn vàn phong cách kiến trúc thể hiện nguồn gốc đa dạng của cư dân.
+Một chuyến thăm những thành phố lớn của thế giới [Dungeons & Dragons](99-glossary.md#dungeons-and-dragons), như Waterdeep, Thành phố Tự do Greyhawk, hay thậm chí Sigil kỳ lạ, Thành phố của Những Cánh Cửa, sẽ khiến các giác quan choáng ngợp. Tiếng trò chuyện vang lên bằng vô số ngôn ngữ. Mùi thức ăn của hàng chục nền ẩm thực hòa với mùi đường phố đông đúc và điều kiện vệ sinh kém. Những công trình mang muôn vàn phong cách kiến trúc thể hiện nguồn gốc đa dạng của cư dân.
 
-Và chính cư dân, với đủ kích thước, hình dáng, màu da, khoác trang phục rực rỡ về kiểu cách và màu sắc, đại diện cho nhiều chủng tộc: từ halfling nhỏ bé, người lùn vạm vỡ đến elf đẹp uy nghi, hòa lẫn với nhiều sắc dân con người.
+Và chính cư dân, với đủ kích thước, hình dáng, màu da, khoác trang phục rực rỡ về kiểu cách và màu sắc, đại diện cho nhiều [chủng tộc](99-glossary.md#race): từ [halfling](99-glossary.md#halfling) nhỏ bé, [người lùn](99-glossary.md#dwarf) vạm vỡ đến [elf](99-glossary.md#elf) đẹp uy nghi, hòa lẫn với nhiều sắc dân [con người](99-glossary.md#human).
 
-Xen giữa những chủng tộc phổ biến ấy là những người thực sự khác lạ: một dragonborn đồ sộ chen qua đám đông, một tiefling ranh mãnh nấp trong bóng tối với ánh mắt tinh nghịch. Một nhóm gnome cười khi một người kích hoạt món đồ chơi gỗ khéo léo có thể tự chuyển động. Người lai elf (half-elf) và người lai orc (half-orc) sống, làm việc bên cạnh con người, nhưng không hoàn toàn thuộc về chủng tộc của cha hoặc mẹ. Và ở kia, tránh xa ánh mặt trời, là một drow đơn độc, kẻ chạy trốn khỏi vùng ngầm rộng lớn Underdark, cố tìm chỗ đứng trong một thế giới sợ hãi đồng loại của mình. *Player’s Handbook* cung cấp thêm thông tin về các chủng tộc khác thường này.
+Xen giữa những chủng tộc phổ biến ấy là những người thực sự khác lạ: một [dragonborn](99-glossary.md#dragonborn) đồ sộ chen qua đám đông, một [tiefling](99-glossary.md#tiefling) ranh mãnh nấp trong bóng tối với ánh mắt tinh nghịch. Một nhóm [gnome](99-glossary.md#gnome) cười khi một người kích hoạt món đồ chơi gỗ khéo léo có thể tự chuyển động. Người lai elf ([half-elf](99-glossary.md#half-elf)) và [người lai orc](99-glossary.md#half-orc) (half-[orc](99-glossary.md#orc)) sống, làm việc bên cạnh con người, nhưng không hoàn toàn thuộc về chủng tộc của cha hoặc mẹ. Và ở kia, tránh xa ánh mặt trời, là một drow đơn độc, kẻ chạy trốn khỏi vùng ngầm rộng lớn Underdark, cố tìm chỗ đứng trong một thế giới sợ hãi đồng loại của mình. *Player’s Handbook* cung cấp thêm thông tin về các chủng tộc khác thường này.
 
 ## Chọn chủng tộc (Choosing a Race)
 
@@ -22,11 +22,11 @@ Xen giữa những chủng tộc phổ biến ấy là những người thực s
 
 Con người là cư dân phổ biến nhất trong các thế giới D&D, nhưng họ sống, làm việc bên cạnh người lùn, elf, halfling và vô số loài kỳ ảo khác. Nhân vật của bạn thuộc một trong những dân tộc ấy.
 
-Không phải mọi chủng tộc thông minh của đa vũ trụ đều phù hợp làm nhà phiêu lưu do người chơi điều khiển. Người lùn, elf, halfling và con người là những chủng tộc phổ biến nhất sinh ra kiểu nhà phiêu lưu thường thấy trong các nhóm. Những chủng tộc và phân chủng khác ít xuất hiện hơn trong vai trò này.
+Không phải mọi chủng tộc thông minh của [đa vũ trụ](99-glossary.md#multiverse) đều phù hợp làm [nhà phiêu lưu](99-glossary.md#adventurer) do người chơi điều khiển. Người lùn, elf, halfling và con người là những chủng tộc phổ biến nhất sinh ra kiểu nhà phiêu lưu thường thấy trong các nhóm. Những chủng tộc và [phân chủng](99-glossary.md#subrace) khác ít xuất hiện hơn trong vai trò này.
 
-Lựa chọn chủng tộc ảnh hưởng đến nhiều khía cạnh của nhân vật, xác định những phẩm chất nền tảng tồn tại suốt sự nghiệp phiêu lưu. Khi chọn, nhớ đến kiểu nhân vật muốn chơi. Chẳng hạn, halfling phù hợp với đạo tặc lén lút, người lùn có thể thành chiến binh bền bỉ, còn elf có thể làm bậc thầy huyền thuật.
+Lựa chọn chủng tộc ảnh hưởng đến nhiều khía cạnh của nhân vật, xác định những phẩm chất nền tảng tồn tại suốt sự nghiệp phiêu lưu. Khi chọn, nhớ đến kiểu nhân vật muốn chơi. Chẳng hạn, halfling phù hợp với [đạo tặc](99-glossary.md#rogue) lén lút, người lùn có thể thành [chiến binh](99-glossary.md#fighter) bền bỉ, còn elf có thể làm bậc thầy [huyền thuật](99-glossary.md#arcane-divine).
 
-Chủng tộc không chỉ ảnh hưởng điểm thuộc tính và đặc điểm, mà còn gợi ý để xây dựng câu chuyện nhân vật. Mỗi mô tả trong chương cung cấp thông tin giúp nhập vai, gồm tính cách, ngoại hình, đặc điểm xã hội và xu hướng đạo đức. Đây là gợi ý để suy nghĩ về nhân vật; các nhà phiêu lưu có thể khác rất xa chuẩn mực chủng tộc. Cân nhắc vì sao nhân vật khác biệt sẽ giúp xây dựng xuất thân và tính cách.
+Chủng tộc không chỉ ảnh hưởng [điểm thuộc tính](99-glossary.md#ability-score) và đặc điểm, mà còn gợi ý để xây dựng câu chuyện nhân vật. Mỗi mô tả trong chương cung cấp thông tin giúp nhập vai, gồm tính cách, ngoại hình, đặc điểm xã hội và xu hướng đạo đức. Đây là gợi ý để suy nghĩ về nhân vật; các nhà phiêu lưu có thể khác rất xa chuẩn mực chủng tộc. Cân nhắc vì sao nhân vật khác biệt sẽ giúp xây dựng [xuất thân](99-glossary.md#background) và tính cách.
 
 ## Đặc điểm chủng tộc (Racial Traits)
 
@@ -38,15 +38,15 @@ Mỗi chủng tộc tăng một hoặc nhiều điểm thuộc tính của nhân
 
 ### Tuổi (Age)
 
-Mục này ghi tuổi được coi là trưởng thành và tuổi thọ dự kiến. Thông tin giúp chọn tuổi khi bắt đầu trò chơi. Bạn có thể chọn bất kỳ tuổi nào; tuổi có thể giải thích một số điểm thuộc tính. Chẳng hạn, nhân vật rất trẻ hoặc rất già có thể vì vậy mà Sức mạnh hay Thể chất thấp, trong khi tuổi cao có thể giải thích Trí tuệ hoặc Minh triết cao.
+Mục này ghi tuổi được coi là trưởng thành và tuổi thọ dự kiến. Thông tin giúp chọn tuổi khi bắt đầu trò chơi. Bạn có thể chọn bất kỳ tuổi nào; tuổi có thể giải thích một số điểm thuộc tính. Chẳng hạn, nhân vật rất trẻ hoặc rất già có thể vì vậy mà [Sức mạnh](99-glossary.md#strength) hay [Thể chất](99-glossary.md#constitution) thấp, trong khi tuổi cao có thể giải thích [Trí tuệ](99-glossary.md#intelligence) hoặc [Minh triết](99-glossary.md#wisdom) cao.
 
 ### Khuynh hướng đạo đức (Alignment)
 
-Phần lớn chủng tộc thiên về một số khuynh hướng được mô tả tại đây. Chúng không bắt buộc với nhân vật người chơi. Tuy nhiên, suy nghĩ vì sao người lùn của bạn thiên về hỗn loạn, trái với xã hội người lùn trọng luật, có thể giúp định hình nhân vật rõ hơn.
+Phần lớn chủng tộc thiên về một số khuynh hướng được mô tả tại đây. Chúng không bắt buộc với [nhân vật người chơi](99-glossary.md#player-character). Tuy nhiên, suy nghĩ vì sao người lùn của bạn thiên về hỗn loạn, trái với xã hội người lùn trọng luật, có thể giúp định hình nhân vật rõ hơn.
 
 ### Kích cỡ (Size)
 
-Phần lớn chủng tộc có kích cỡ **Trung bình (Medium)**, nhóm gồm những sinh vật cao khoảng **4-8 feet**. Một vài chủng tộc có kích cỡ **Nhỏ (Small)**, cao **2-4 feet**, nên chịu tác động khác của một số quy tắc. Quan trọng nhất là nhân vật Nhỏ gặp khó khi dùng vũ khí nặng, như giải thích ở chương 5.
+Phần lớn chủng tộc có kích cỡ **Trung bình (Medium)**, nhóm gồm những sinh vật cao khoảng **4-8 [feet](99-glossary.md#feet)**. Một vài chủng tộc có kích cỡ **Nhỏ (Small)**, cao **2-4 feet**, nên chịu tác động khác của một số quy tắc. Quan trọng nhất là nhân vật Nhỏ gặp khó khi dùng vũ khí nặng, như giải thích ở chương 5.
 
 ### Tốc độ (Speed)
 
@@ -58,7 +58,7 @@ Chủng tộc cho nhân vật khả năng nói, đọc và viết một số ng�
 
 ### Phân chủng (Subraces)
 
-Một số chủng tộc có phân chủng. Thành viên phân chủng có đặc điểm của chủng tộc gốc **cộng thêm** các đặc điểm riêng. Quan hệ giữa phân chủng thay đổi đáng kể tùy chủng tộc và thế giới. Chẳng hạn, ở Dragonlance, người lùn núi và người lùn đồi sống cùng nhau như các thị tộc khác nhau của cùng một dân tộc. Ở Forgotten Realms, họ sống xa nhau trong những vương quốc riêng, lần lượt tự gọi là người lùn khiên (shield dwarf) và người lùn vàng (gold dwarf).
+Một số chủng tộc có phân chủng. Thành viên phân chủng có đặc điểm của chủng tộc gốc **cộng thêm** các đặc điểm riêng. Quan hệ giữa phân chủng thay đổi đáng kể tùy chủng tộc và thế giới. Chẳng hạn, ở Dragonlance, người lùn núi và người lùn đồi sống cùng nhau như các thị tộc khác nhau của cùng một dân tộc. Ở [Forgotten Realms](99-glossary.md#forgotten-realms), họ sống xa nhau trong những vương quốc riêng, lần lượt tự gọi là người lùn [khiên](99-glossary.md#shield) (shield dwarf) và người lùn vàng (gold dwarf).
 
 ## Người lùn (Dwarf)
 
@@ -66,11 +66,11 @@ Một số chủng tộc có phân chủng. Thành viên phân chủng có đặ
 
 *Người lùn nổi tiếng với sức bền, thị tộc lâu đời và tài nghệ thủ công. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-> “Ngươi muộn rồi, elf!” Giọng nói quen thuộc vang lên cộc cằn. Bruenor Battlehammer bước lên lưng kẻ thù đã chết, mặc kệ con quái vật nặng nề đang đè trên người bạn elf. Dù càng thêm khó chịu, Drizzt vẫn vui mừng nhìn thấy chiếc mũi dài, nhọn, từng gãy nhiều lần và bộ râu đỏ rực vẫn còn cháy màu lửa dù đã lẫn sợi bạc. “Biết ngay là ra tìm ngươi thì sẽ thấy ngươi đang gặp rắc rối mà!”
+> “Ngươi muộn rồi, elf!” Giọng nói quen thuộc vang lên cộc cằn. Bruenor Battlehammer bước lên lưng kẻ thù đã chết, mặc kệ con [quái vật](99-glossary.md#monster) nặng nề đang đè trên người bạn elf. Dù càng thêm khó chịu, Drizzt vẫn vui mừng nhìn thấy chiếc mũi dài, nhọn, từng gãy nhiều lần và bộ râu đỏ rực vẫn còn cháy màu lửa dù đã lẫn sợi bạc. “Biết ngay là ra tìm ngươi thì sẽ thấy ngươi đang gặp rắc rối mà!”
 >
 > — R. A. Salvatore, *The Crystal Shard*
 
-Những vương quốc mang vẻ tráng lệ cổ xưa, đại sảnh đục vào gốc núi, tiếng cuốc và búa vang trong mỏ sâu cùng lò rèn rực lửa, lòng gắn bó với thị tộc và truyền thống, sự căm ghét cháy bỏng đối với goblin và orc: những nét chung ấy gắn kết mọi người lùn.
+Những vương quốc mang vẻ tráng lệ cổ xưa, đại sảnh đục vào gốc núi, tiếng cuốc và búa vang trong mỏ sâu cùng lò rèn rực lửa, lòng gắn bó với thị tộc và truyền thống, sự căm ghét cháy bỏng đối với [goblin](99-glossary.md#goblin) và orc: những nét chung ấy gắn kết mọi người lùn.
 
 ### Thấp và vạm vỡ (Short and Stout)
 
@@ -100,13 +100,13 @@ Người lùn phiêu lưu có thể vì muốn kho báu: vì chính kho báu, v�
 
 > **Khó trao lòng tin (Slow to Trust)**
 >
-> Người lùn hòa hợp tương đối với phần lớn chủng tộc. “Khoảng cách giữa người quen và bạn bè là chừng một trăm năm”, câu nói có thể phóng đại nhưng thể hiện rõ người thuộc chủng tộc sống ngắn như con người khó giành lòng tin của họ đến mức nào.
+> Người lùn [hòa hợp](99-glossary.md#attunement) tương đối với phần lớn chủng tộc. “Khoảng cách giữa người quen và bạn bè là chừng một trăm năm”, câu nói có thể phóng đại nhưng thể hiện rõ người thuộc chủng tộc sống ngắn như con người khó giành lòng tin của họ đến mức nào.
 >
 > **Elf:** “Dựa vào elf chẳng khôn ngoan đâu. Không biết tiếp theo họ sẽ làm gì; khi búa đập vào đầu orc, họ có khi cất tiếng hát thay vì rút kiếm. Họ thất thường, phù phiếm. Nhưng cũng phải nói hai điều tốt: họ không có nhiều thợ rèn, song những người có thì làm rất giỏi. Và khi orc hay goblin tràn xuống từ núi, có một elf bảo vệ phía sau cũng tốt. Có lẽ không bằng người lùn, nhưng chắc chắn họ ghét orc chẳng kém chúng ta.”
 >
 > **Halfling:** “Ừ, họ dễ mến. Nhưng hãy chỉ cho ta một anh hùng halfling. Một đế quốc, một đạo quân chiến thắng. Ngay cả một kho báu lưu danh muôn đời do tay halfling làm ra. Chẳng có gì. Làm sao coi trọng họ được?”
 >
-> **Con người:** “Ngươi dành thời gian tìm hiểu một con người, rồi đến lúc đó cô ấy đã nằm trên giường hấp hối. Nếu may, cô ấy có người thân, có lẽ con gái hoặc cháu gái, cũng khéo tay và tốt bụng như mình. Khi ấy ngươi mới kết bạn được với con người. Và xem họ tiến lên kìa! Một khi đã quyết tâm, họ sẽ đạt được, dù là kho báu rồng hay ngai vàng đế quốc. Phải ngưỡng mộ quyết tâm ấy, dù nó thường khiến họ gặp rắc rối.”
+> **Con người:** “Ngươi dành thời gian tìm hiểu một con người, rồi đến lúc đó cô ấy đã nằm trên giường hấp hối. Nếu may, cô ấy có người thân, có lẽ con gái hoặc cháu gái, cũng khéo tay và tốt bụng như mình. Khi ấy ngươi mới kết bạn được với con người. Và xem họ tiến lên kìa! Một khi đã quyết tâm, họ sẽ đạt được, dù là kho báu [rồng](99-glossary.md#dragon) hay ngai vàng đế quốc. Phải ngưỡng mộ quyết tâm ấy, dù nó thường khiến họ gặp rắc rối.”
 
 ### Tên người lùn (Dwarf Names)
 
@@ -127,11 +127,11 @@ Nhân vật người lùn có các năng lực bẩm sinh sau, vốn là một p
 - **Khuynh hướng đạo đức:** Phần lớn trọng luật, tin vào lợi ích của xã hội có trật tự. Họ cũng thiên về thiện, có tinh thần công bằng mạnh và tin mọi người xứng đáng chia sẻ lợi ích của trật tự công chính.
 - **Kích cỡ:** Cao **4-5 feet**, nặng trung bình khoảng **150 pounds**. Kích cỡ **Trung bình (Medium)**.
 - **Tốc độ:** Tốc độ đi bộ cơ bản **25 feet**. Mặc giáp nặng không làm giảm tốc độ của bạn.
-- **Thị giác bóng tối (Darkvision):** Quen sống dưới đất, bạn nhìn tốt trong điều kiện tối và ánh sáng yếu. Trong phạm vi **60 feet**, bạn nhìn trong ánh sáng yếu như ánh sáng rõ, và trong bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy các sắc xám, không phân biệt màu.
-- **Sức chịu đựng người lùn (Dwarven Resilience):** Có **lợi thế** khi tung cứu nguy chống độc, và có **kháng sát thương độc (resistance to poison damage)**; xem chương 9.
+- **[Thị giác bóng tối](99-glossary.md#darkvision) (Darkvision):** Quen sống dưới đất, bạn nhìn tốt trong điều kiện tối và ánh sáng yếu. Trong phạm vi **60 feet**, bạn nhìn trong ánh sáng yếu như ánh sáng rõ, và trong bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy các sắc xám, không phân biệt màu.
+- **Sức chịu đựng người lùn (Dwarven Resilience):** Có **[lợi thế](99-glossary.md#advantage)** khi [tung cứu nguy](99-glossary.md#saving-throw) chống độc, và có **[kháng sát thương](99-glossary.md#resistance-immunity) độc (resistance to poison damage)**; xem chương 9.
 - **Huấn luyện chiến đấu người lùn (Dwarven Combat Training):** Thành thạo **rìu chiến, rìu tay, búa nhẹ (light hammer) và búa chiến (warhammer)**.
 - **Thành thạo công cụ (Tool Proficiency):** Chọn thành thạo một bộ công cụ thủ công: **dụng cụ thợ rèn (smith’s tools), dụng cụ nấu bia (brewer’s supplies)** hoặc **dụng cụ thợ xây đá (mason’s tools)**.
-- **Am hiểu đá (Stonecunning):** Khi thực hiện phép kiểm tra **Trí tuệ (Lịch sử)**, tức Intelligence (History), liên quan đến nguồn gốc công trình chế tác đá, bạn được coi là thành thạo kỹ năng Lịch sử và cộng **gấp đôi thưởng thành thạo**, thay cho thưởng thông thường.
+- **Am hiểu đá (Stonecunning):** Khi thực hiện phép kiểm tra **Trí tuệ (Lịch sử)**, tức Intelligence (History), liên quan đến nguồn gốc công trình chế tác đá, bạn được coi là thành thạo kỹ năng Lịch sử và cộng **gấp đôi [thưởng thành thạo](99-glossary.md#proficiency)**, thay cho thưởng thông thường.
 - **Ngôn ngữ:** Nói, đọc và viết **Tiếng Chung** và **tiếng Người lùn**. Tiếng Người lùn có nhiều phụ âm cứng và âm cổ họng; những nét này cũng ảnh hưởng đến ngôn ngữ khác người lùn nói.
 - **Phân chủng:** Chọn **người lùn đồi** hoặc **người lùn núi**, hai phân chủng chính trong các thế giới D&D.
 
@@ -144,7 +144,7 @@ Nhân vật người lùn có các năng lực bẩm sinh sau, vốn là một p
 Bạn có giác quan nhạy, trực giác sâu sắc và sức chịu đựng đáng kể. Người lùn vàng của Faerûn trong vương quốc hùng mạnh phương nam là người lùn đồi; các Neidar bị lưu đày và Klar sa sút của Krynn trong Dragonlance cũng vậy.
 
 - **Tăng điểm thuộc tính:** Minh triết tăng **1**.
-- **Sự cứng cỏi người lùn (Dwarven Toughness):** HP tối đa tăng **1**, và tăng thêm **1 mỗi lần tăng cấp**.
+- **Sự cứng cỏi người lùn (Dwarven Toughness):** [HP](99-glossary.md#hit-points) tối đa tăng **1**, và tăng thêm **1 mỗi lần tăng cấp**.
 
 #### Người lùn núi (Mountain Dwarf)
 
@@ -155,7 +155,7 @@ Bạn có giác quan nhạy, trực giác sâu sắc và sức chịu đựng đ
 Bạn mạnh mẽ, bền bỉ, quen cuộc sống khó khăn trên địa hình hiểm trở. Bạn có lẽ khá cao so với người lùn và thường có màu da, tóc nhạt hơn. Người lùn khiên ở bắc Faerûn, thị tộc Hylar cầm quyền và thị tộc Daewar quý tộc của Dragonlance đều là người lùn núi.
 
 - **Tăng điểm thuộc tính:** Sức mạnh tăng **2**.
-- **Huấn luyện giáp người lùn (Dwarven Armor Training):** Thành thạo **giáp nhẹ và giáp trung bình**.
+- **Huấn luyện giáp người lùn (Dwarven Armor Training):** Thành thạo **[giáp nhẹ](99-glossary.md#armor) và giáp trung bình**.
 
 > **Duergar**
 >
@@ -225,16 +225,16 @@ Khi tuyên bố trưởng thành, elf chọn tên người lớn; những ngư�
 
 Nhân vật elf có các năng lực tự nhiên, kết quả của hàng nghìn năm phát triển tinh tế.
 
-- **Tăng điểm thuộc tính:** Khéo léo tăng **2**.
+- **Tăng điểm thuộc tính:** [Khéo léo](99-glossary.md#dexterity) tăng **2**.
 - **Tuổi:** Trưởng thành về thể chất gần cùng tuổi với con người, nhưng khái niệm trưởng thành của elf còn gồm kinh nghiệm sống. Elf thường tự nhận trưởng thành, chọn tên người lớn vào khoảng **100 tuổi**, và có thể sống tới **750 tuổi**.
 - **Khuynh hướng đạo đức:** Yêu tự do, đa dạng và tự thể hiện nên thiên mạnh về khía cạnh ôn hòa của hỗn loạn. Họ coi trọng, bảo vệ tự do người khác như của mình và thường thiên thiện.
 - **Kích cỡ:** Cao từ dưới **5** đến trên **6 feet**, thân hình mảnh. Kích cỡ **Trung bình**.
 - **Tốc độ:** Tốc độ đi bộ cơ bản **30 feet**.
 - **Thị giác bóng tối (Darkvision):** Quen rừng chạng vạng và trời đêm, bạn nhìn tốt trong bóng tối, ánh sáng yếu. Trong **60 feet**, nhìn ánh sáng yếu như ánh sáng rõ, bóng tối như ánh sáng yếu. Trong bóng tối chỉ thấy sắc xám, không phân biệt màu.
 - **Giác quan nhạy bén (Keen Senses):** Thành thạo kỹ năng **Tri giác (Perception)**.
-- **Dòng dõi Fey (Fey Ancestry):** Có **lợi thế** khi tung cứu nguy chống bị **mê hoặc (charmed)**; phép thuật không thể làm bạn ngủ.
+- **Dòng dõi [Fey](99-glossary.md#fey) (Fey Ancestry):** Có **lợi thế** khi tung cứu nguy chống bị **mê hoặc (charmed)**; phép thuật không thể làm bạn ngủ.
 - **Thiền định (Trance):** Elf không cần ngủ. Thay vào đó, họ thiền sâu, vẫn giữ một phần ý thức, **4 giờ mỗi ngày**. Tiếng Chung gọi cách thiền này là “trance”. Khi thiền, bạn có thể mơ theo một cách riêng; thực chất đó là bài tập tinh thần đã thành phản xạ sau nhiều năm luyện tập. Nghỉ như vậy cho lợi ích tương đương **8 giờ ngủ của con người**.
-- **Ngôn ngữ:** Nói, đọc, viết **Tiếng Chung** và **tiếng Elf (Elvish)**. Tiếng Elf uyển chuyển, ngữ điệu tinh tế, ngữ pháp phức tạp. Văn học phong phú, đa dạng; bài hát, thơ nổi tiếng giữa các chủng tộc. Nhiều thi sĩ học ngôn ngữ để thêm những bản ballad tiếng Elf vào vốn biểu diễn.
+- **Ngôn ngữ:** Nói, đọc, viết **Tiếng Chung** và **tiếng Elf (Elvish)**. Tiếng Elf uyển chuyển, ngữ điệu tinh tế, ngữ pháp phức tạp. Văn học phong phú, đa dạng; bài hát, thơ nổi tiếng giữa các chủng tộc. Nhiều [thi sĩ](99-glossary.md#bard) học ngôn ngữ để thêm những bản ballad tiếng Elf vào vốn biểu diễn.
 - **Phân chủng:** Những chia rẽ cổ xưa tạo ba phân chủng chính: **elf bậc cao, elf rừng và elf bóng tối (dark elf)**, thường gọi **drow**. Tài liệu này cho chọn hai phân chủng đầu. Một số thế giới chia nhỏ hơn, như elf mặt trời và elf mặt trăng của Forgotten Realms; nếu muốn, bạn có thể chọn nhóm cụ thể hơn.
 
 #### Elf bậc cao (High Elf)
@@ -249,7 +249,7 @@ Elf mặt trời của Faerûn, còn gọi elf vàng hoặc elf bình minh, có 
 
 - **Tăng điểm thuộc tính:** Trí tuệ tăng **1**.
 - **Huấn luyện vũ khí elf (Elf Weapon Training):** Thành thạo **kiếm dài (longsword), kiếm ngắn (shortsword), cung ngắn (shortbow) và cung dài (longbow)**.
-- **Phép sơ cấp (Cantrip):** Biết **một phép sơ cấp tùy chọn** từ danh sách phép pháp sư. **Trí tuệ** là thuộc tính thi triển phép đó.
+- **Phép sơ cấp (Cantrip):** Biết **một [phép sơ cấp](99-glossary.md#cantrip) tùy chọn** từ danh sách phép [pháp sư](99-glossary.md#wizard). **Trí tuệ** là thuộc tính [thi triển phép](99-glossary.md#spellcasting) đó.
 - **Ngôn ngữ bổ sung (Extra Language):** Nói, đọc, viết **một ngôn ngữ bổ sung tùy chọn**.
 
 #### Elf rừng (Wood Elf)
@@ -271,7 +271,7 @@ Da thường màu đồng đỏ, đôi khi pha xanh lá. Tóc thường nâu, đ
 >
 > Nếu không có một ngoại lệ nổi tiếng, chủng tộc drow hẳn bị khinh ghét khắp nơi. Xã hội sa đọa của họ luôn tìm sự ưu ái của nữ thần nhện Lolth, vị thần chấp thuận giết chóc và tiêu diệt cả gia đình khi các gia tộc quý tộc tranh địa vị. Drow lớn lên với niềm tin rằng các chủng tộc mặt đất vô giá trị, trừ khi làm nô lệ.
 >
-> Nhưng ít nhất một drow đã vượt khuôn mẫu. Trong Forgotten Realms, **Drizzt Do’Urden**, kiểm lâm phương Bắc (ranger of the North), đã chứng minh phẩm chất bằng việc nhân hậu bảo vệ người yếu và vô tội.
+> Nhưng ít nhất một drow đã vượt khuôn mẫu. Trong Forgotten Realms, **Drizzt Do’Urden**, [kiểm lâm](99-glossary.md#ranger) phương Bắc (ranger of the North), đã chứng minh phẩm chất bằng việc nhân hậu bảo vệ người yếu và vô tội.
 
 ## Halfling
 
@@ -344,7 +344,7 @@ Nhân vật của bạn có các đặc điểm chung của halfling.
 - **Khuynh hướng đạo đức:** Phần lớn **thiện, trọng luật**. Thường nhân hậu, tốt bụng, ghét thấy người khác đau khổ và không dung thứ áp bức. Họ cũng có trật tự, giữ truyền thống, dựa nhiều vào hỗ trợ cộng đồng và sự an tâm từ nếp sống cũ.
 - **Kích cỡ:** Cao trung bình **3 feet**, nặng khoảng **40 pounds**. Kích cỡ **Nhỏ (Small)**.
 - **Tốc độ:** Tốc độ đi bộ cơ bản **25 feet**.
-- **May mắn (Lucky):** Khi tung d20 ra **1** cho tấn công, kiểm tra thuộc tính hoặc cứu nguy, bạn có thể **tung lại viên đó và phải dùng kết quả mới**.
+- **May mắn (Lucky):** Khi tung [d20](99-glossary.md#dice-notation) ra **1** cho tấn công, kiểm tra thuộc tính hoặc cứu nguy, bạn có thể **tung lại viên đó và phải dùng kết quả mới**.
 - **Can đảm (Brave):** Có **lợi thế** khi tung cứu nguy chống bị **hoảng sợ (frightened)**.
 - **Sự lanh lẹ halfling (Halfling Nimbleness):** Có thể đi xuyên qua không gian của bất kỳ sinh vật nào có kích cỡ lớn hơn mình.
 - **Ngôn ngữ:** Nói, đọc, viết **Tiếng Chung** và **tiếng Halfling**. Tiếng Halfling không bí mật, nhưng họ không muốn chia sẻ với người ngoài. Họ viết ít nên không có kho văn học phong phú, nhưng truyền thống truyền miệng rất mạnh. Gần như mọi halfling nói Tiếng Chung để trò chuyện với cư dân nơi sống hoặc đi qua.
@@ -360,7 +360,7 @@ Bạn dễ ẩn mình, thậm chí dùng người khác làm vật che. Bạn th
 
 Họ thích du hành hơn halfling khác, thường sống bên chủng tộc khác hoặc theo đời du mục. Trong Greyhawk, những halfling này được gọi **hairfeet** hoặc **tallfellows**.
 
-- **Tăng điểm thuộc tính:** Sức hút tăng **1**.
+- **Tăng điểm thuộc tính:** [Sức hút](99-glossary.md#charisma) tăng **1**.
 - **Lén lút tự nhiên (Naturally Stealthy):** Có thể thử ẩn nấp ngay cả khi chỉ được che bởi **một sinh vật lớn hơn mình ít nhất một bậc kích cỡ**.
 
 #### Halfling vạm vỡ (Stout)
@@ -406,7 +406,7 @@ Con người thích nghi tốt nhất và tham vọng nhất trong các chủng 
 
 *Các thể chế giúp con người lưu giữ tri thức và di sản qua nhiều thế hệ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Trong khi một elf hoặc người lùn có thể tự đảm trách bảo vệ nơi đặc biệt hay bí mật mạnh mẽ, con người lập hội thiêng và thể chế để làm việc ấy. Trong khi thị tộc người lùn và trưởng lão halfling truyền truyền thống cổ cho từng thế hệ, đền thờ, chính quyền, thư viện, bộ luật con người khắc truyền thống vào nền tảng lịch sử. Con người mơ bất tử, nhưng trừ số ít tìm trạng thái bất tử xác sống (undeath) hoặc thăng lên thần để thoát chết, họ đạt điều ấy bằng cách bảo đảm được nhớ sau khi mất.
+Trong khi một elf hoặc người lùn có thể tự đảm trách bảo vệ nơi đặc biệt hay bí mật mạnh mẽ, con người lập hội thiêng và thể chế để làm việc ấy. Trong khi thị tộc người lùn và trưởng lão halfling truyền truyền thống cổ cho từng thế hệ, đền thờ, chính quyền, thư viện, bộ luật con người khắc truyền thống vào nền tảng lịch sử. Con người mơ bất tử, nhưng trừ số ít tìm [trạng thái](99-glossary.md#condition) bất tử [xác sống](99-glossary.md#undead) (undeath) hoặc thăng lên thần để thoát chết, họ đạt điều ấy bằng cách bảo đảm được nhớ sau khi mất.
 
 Dù một số người bài ngoại, nhìn chung xã hội con người bao dung. Vùng đất con người đón nhiều người phi nhân hơn so với tỷ lệ con người sống ở đất phi nhân.
 
@@ -529,7 +529,7 @@ Khó khái quát về con người, nhưng nhân vật của bạn có những �
 
 > **Biến thể đặc điểm con người (Variant Human Traits)**
 >
-> Nếu chiến dịch dùng quy tắc tùy chọn về **kỳ tài (feats)** trong **chương 6 của Player’s Handbook**, DM có thể cho dùng các đặc điểm biến thể dưới đây. Tất cả chúng thay thế đặc điểm Tăng điểm thuộc tính thông thường của con người.
+> Nếu [chiến dịch](99-glossary.md#campaign) dùng quy tắc tùy chọn về **[kỳ tài](99-glossary.md#feat) (feats)** trong **chương 6 của Player’s Handbook**, DM có thể cho dùng các đặc điểm biến thể dưới đây. Tất cả chúng thay thế đặc điểm Tăng điểm thuộc tính thông thường của con người.
 >
 > - **Tăng điểm thuộc tính:** Chọn **hai thuộc tính khác nhau**, mỗi thuộc tính tăng **1**.
 > - **Kỹ năng:** Thành thạo **một kỹ năng tùy chọn**.

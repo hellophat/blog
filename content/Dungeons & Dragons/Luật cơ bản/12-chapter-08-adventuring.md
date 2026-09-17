@@ -6,13 +6,13 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 66-71.
 
 ![Nhóm nhà thám hiểm lên đường về phía thành phố và những miền đất xa](assets/chapter-08-adventuring-cover.png)
 
-*Phiêu lưu là hành trình qua những miền đất mới, nơi thời gian, địa hình, hiểm họa và con người đều định hình câu chuyện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Phiêu lưu là hành trình qua những miền đất mới, nơi thời gian, địa hình, hiểm họa và [con người](99-glossary.md#human) đều định hình câu chuyện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Thám hiểm Tomb of Horrors cổ xưa, lẻn qua những ngõ hẻm phía sau của Waterdeep, phát quang một lối đi mới xuyên rừng rậm trên Isle of Dread — đó là những điều tạo nên các cuộc phiêu lưu trong Dungeons & Dragons. Nhân vật của bạn có thể khám phá những phế tích bị lãng quên và vùng đất chưa được lập bản đồ, vạch trần bí mật đen tối và âm mưu hiểm độc, tiêu diệt những quái vật ghê tởm. Và nếu mọi chuyện thuận lợi, nhân vật sẽ sống sót để nhận những phần thưởng hậu hĩnh trước khi lên đường cho một cuộc phiêu lưu mới.
+Thám hiểm Tomb of Horrors cổ xưa, lẻn qua những ngõ hẻm phía sau của Waterdeep, phát quang một lối đi mới xuyên rừng rậm trên Isle of Dread — đó là những điều tạo nên các [cuộc phiêu lưu](99-glossary.md#adventure) trong [Dungeons & Dragons](99-glossary.md#dungeons-and-dragons). Nhân vật của bạn có thể khám phá những phế tích bị lãng quên và vùng đất chưa được lập bản đồ, vạch trần bí mật đen tối và âm mưu hiểm độc, tiêu diệt những [quái vật](99-glossary.md#monster) ghê tởm. Và nếu mọi chuyện thuận lợi, nhân vật sẽ sống sót để nhận những phần thưởng hậu hĩnh trước khi lên đường cho một cuộc phiêu lưu mới.
 
 Chương này bao quát những điều cơ bản của đời sống phiêu lưu, từ cơ chế di chuyển đến sự phức tạp của tương tác xã hội. Quy tắc nghỉ ngơi cũng nằm trong chương này, cùng phần bàn về các hoạt động nhân vật có thể theo đuổi giữa những cuộc phiêu lưu.
 
-Dù các nhà phiêu lưu đang khám phá một hầm ngục đầy bụi hay những mối quan hệ phức tạp của triều đình, trò chơi đều theo một nhịp tự nhiên, như trình bày trong phần giới thiệu của sách:
+Dù các [nhà phiêu lưu](99-glossary.md#adventurer) đang khám phá một hầm ngục đầy bụi hay những mối quan hệ phức tạp của triều đình, trò chơi đều theo một nhịp tự nhiên, như trình bày trong phần giới thiệu của sách:
 
 1. DM mô tả môi trường.
 2. Người chơi mô tả điều họ muốn làm.
@@ -30,7 +30,7 @@ Trong những tình huống cần theo dõi thời gian trôi qua, DM xác đị
 
 Trong thành phố hoặc vùng hoang dã, thang **giờ** thường thích hợp hơn. Các nhà phiêu lưu háo hức đến tòa tháp đơn độc giữa rừng vội vượt quãng đường mười lăm mile trong chưa đầy bốn giờ.
 
-Với hành trình dài, thang **ngày** thích hợp nhất. Đi theo con đường từ Baldur’s Gate đến Waterdeep, các nhà phiêu lưu trải qua bốn ngày bình yên trước khi một cuộc phục kích của goblin làm gián đoạn hành trình.
+Với hành trình dài, thang **ngày** thích hợp nhất. Đi theo con đường từ Baldur’s Gate đến Waterdeep, các nhà phiêu lưu trải qua bốn ngày bình yên trước khi một cuộc phục kích của [goblin](99-glossary.md#goblin) làm gián đoạn hành trình.
 
 Trong chiến đấu và những tình huống diễn ra nhanh khác, trò chơi dùng **vòng (round)**, khoảng thời gian 6 giây được mô tả ở chương 9.
 
@@ -42,13 +42,13 @@ Trong chiến đấu và những tình huống diễn ra nhanh khác, trò chơi
 
 Bơi qua dòng sông chảy xiết, lén đi dọc hành lang hầm ngục, leo lên sườn núi hiểm trở — mọi kiểu di chuyển đều đóng vai trò quan trọng trong các cuộc phiêu lưu D&D.
 
-DM có thể tóm tắt việc di chuyển của nhà phiêu lưu mà không tính khoảng cách hoặc thời gian hành trình chính xác: “Các bạn đi qua khu rừng và tìm thấy cửa vào hầm ngục vào cuối buổi tối ngày thứ ba.” Ngay cả trong hầm ngục, đặc biệt là hầm ngục lớn hoặc mạng lưới hang động, DM cũng có thể tóm tắt việc di chuyển giữa các cuộc chạm trán: “Sau khi giết kẻ canh giữ lối vào thành trì cổ của người lùn, các bạn xem bản đồ; nó dẫn các bạn qua nhiều mile hành lang vang vọng đến một vực sâu có vòm cầu đá hẹp bắc qua.”
+DM có thể tóm tắt việc di chuyển của nhà phiêu lưu mà không tính khoảng cách hoặc thời gian hành trình chính xác: “Các bạn đi qua khu rừng và tìm thấy cửa vào hầm ngục vào cuối buổi tối ngày thứ ba.” Ngay cả trong hầm ngục, đặc biệt là hầm ngục lớn hoặc mạng lưới hang động, DM cũng có thể tóm tắt việc di chuyển giữa các [cuộc chạm trán](99-glossary.md#encounter): “Sau khi giết kẻ canh giữ lối vào thành trì cổ của [người lùn](99-glossary.md#dwarf), các bạn xem bản đồ; nó dẫn các bạn qua nhiều mile hành lang vang vọng đến một vực sâu có vòm cầu đá hẹp bắc qua.”
 
 Tuy nhiên, đôi khi cần biết mất bao lâu để đi từ nơi này đến nơi khác, dù câu trả lời tính bằng ngày, giờ hay phút. Quy tắc xác định thời gian hành trình phụ thuộc vào hai yếu tố: tốc độ và nhịp hành trình của những sinh vật đang di chuyển, cùng địa hình họ đi qua.
 
 ### Tốc độ (Speed)
 
-Mọi nhân vật và quái vật đều có một tốc độ, là khoảng cách tính bằng feet mà nhân vật hoặc quái vật có thể đi bộ trong 1 vòng. Con số này giả định những đợt di chuyển mạnh mẽ, ngắn ngủi trong tình huống đe dọa tính mạng.
+Mọi nhân vật và quái vật đều có một tốc độ, là khoảng cách tính bằng [feet](99-glossary.md#feet) mà nhân vật hoặc quái vật có thể đi bộ trong 1 vòng. Con số này giả định những đợt di chuyển mạnh mẽ, ngắn ngủi trong tình huống đe dọa tính mạng.
 
 Các quy tắc sau xác định nhân vật hoặc quái vật có thể đi bao xa trong một phút, một giờ hoặc một ngày.
 
@@ -58,19 +58,19 @@ Khi đi đường, một nhóm nhà phiêu lưu có thể di chuyển với nh�
 
 **Hành quân cưỡng sức (Forced March).** Bảng Nhịp hành trình giả định nhân vật đi đường 8 giờ trong một ngày. Họ có thể tiếp tục vượt giới hạn đó nhưng có nguy cơ kiệt sức.
 
-Với mỗi giờ đi thêm sau 8 giờ, nhân vật đi được khoảng cách ghi ở cột Giờ ứng với nhịp của mình, và mỗi nhân vật phải tung cứu nguy Thể chất vào cuối giờ ấy. DC bằng 10 + 1 cho mỗi giờ vượt quá 8 giờ. Nếu cứu nguy thất bại, nhân vật chịu một mức kiệt sức (exhaustion), xem phụ lục A.
+Với mỗi giờ đi thêm sau 8 giờ, nhân vật đi được khoảng cách ghi ở cột Giờ ứng với nhịp của mình, và mỗi nhân vật phải [tung cứu nguy](99-glossary.md#saving-throw) [Thể chất](99-glossary.md#constitution) vào cuối giờ ấy. [DC](99-glossary.md#difficulty-class) bằng 10 + 1 cho mỗi giờ vượt quá 8 giờ. Nếu cứu nguy thất bại, nhân vật chịu một mức kiệt sức (exhaustion), xem phụ lục A.
 
 **Thú cưỡi và phương tiện (Mounts and Vehicles).** Trong khoảng thời gian ngắn, tối đa một giờ, nhiều động vật di chuyển nhanh hơn sinh vật dạng người rất nhiều. Nhân vật đang cưỡi có thể cho thú cưỡi phi nước đại khoảng một giờ, đi được gấp đôi khoảng cách thông thường của nhịp nhanh. Nếu cứ mỗi 8 đến 10 mile lại có thú cưỡi còn sung sức để thay, nhân vật có thể đi quãng đường dài hơn với nhịp này; tuy nhiên, điều đó rất hiếm ngoài các vùng đông dân.
 
 Nhân vật đi xe chở hàng, xe ngựa hoặc phương tiện đường bộ khác chọn nhịp như bình thường. Nhân vật trên phương tiện đường thủy bị giới hạn bởi tốc độ phương tiện, xem chương 5; họ không chịu phạt của nhịp nhanh hoặc nhận lợi ích của nhịp chậm. Tùy phương tiện và số lượng thủy thủ, tàu có thể đi đến 24 giờ mỗi ngày.
 
-Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương tiện đặc biệt, như thảm bay (*carpet of flying*), cho phép bạn đi nhanh hơn. *Dungeon Master’s Guide* có thêm thông tin về những phương thức di chuyển đặc biệt.
+Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương tiện đặc biệt, như thảm bay (*carpet of flying*), cho phép bạn đi nhanh hơn. *[Dungeon Master](99-glossary.md#dungeon-master)’s Guide* có thêm thông tin về những phương thức di chuyển đặc biệt.
 
 #### Nhịp hành trình
 
 | Nhịp | Khoảng cách mỗi phút | Khoảng cách mỗi giờ | Khoảng cách mỗi ngày | Ảnh hưởng |
 | --- | --- | --- | --- | --- |
-| Nhanh | 400 feet | 4 mile | 30 mile | Phạt -5 vào điểm Minh triết (Tri giác) thụ động |
+| Nhanh | 400 feet | 4 mile | 30 mile | Phạt -5 vào điểm [Minh triết](99-glossary.md#wisdom) (Tri giác) thụ động |
 | Bình thường | 300 feet | 3 mile | 24 mile | — |
 | Chậm | 200 feet | 2 mile | 18 mile | Có thể dùng Lén lút |
 
@@ -80,7 +80,7 @@ Một số thú cưỡi đặc biệt, như pegasus hoặc griffon, hay phương
 
 *Địa hình khó đi làm chậm bước chân và buộc cả nhóm phải thận trọng hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Tốc độ hành trình trong bảng Nhịp hành trình giả định địa hình tương đối dễ đi: đường sá, đồng bằng thoáng hoặc hành lang hầm ngục không có vật cản. Nhưng nhà phiêu lưu thường gặp rừng rậm, đầm lầy sâu, phế tích đầy gạch đá vụn, núi dốc và mặt đất phủ băng — tất cả đều được coi là địa hình khó đi.
+Tốc độ hành trình trong bảng Nhịp hành trình giả định địa hình tương đối dễ đi: đường sá, đồng bằng thoáng hoặc hành lang hầm ngục không có vật cản. Nhưng nhà phiêu lưu thường gặp rừng rậm, đầm lầy sâu, phế tích đầy gạch đá vụn, núi dốc và mặt đất phủ băng — tất cả đều được coi là [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
 Bạn di chuyển với nửa tốc độ trong địa hình khó đi: đi 1 foot trong địa hình khó đi tiêu tốn 2 feet tốc độ. Vì vậy, bạn chỉ đi được một nửa khoảng cách thông thường trong một phút, một giờ hoặc một ngày.
 
@@ -94,7 +94,7 @@ Di chuyển qua hầm ngục nguy hiểm hoặc vùng hoang dã thường không
 
 #### Leo, bơi và bò (Climbing, Swimming, and Crawling)
 
-Khi leo, bơi hoặc bò, mỗi foot di chuyển tiêu tốn thêm 1 foot, hoặc thêm 2 feet trong địa hình khó đi. Bạn bỏ qua phần tiêu tốn thêm này nếu có tốc độ leo và dùng nó để leo, hoặc có tốc độ bơi và dùng nó để bơi. Theo quyết định của DM, leo một bề mặt thẳng đứng trơn trượt hoặc có ít chỗ bám đòi hỏi kiểm tra Sức mạnh (Điền kinh) thành công. Tương tự, để tiến được bất kỳ khoảng cách nào trong vùng nước dữ, bạn có thể phải thành công kiểm tra Sức mạnh (Điền kinh).
+Khi leo, bơi hoặc bò, mỗi foot di chuyển tiêu tốn thêm 1 foot, hoặc thêm 2 feet trong địa hình khó đi. Bạn bỏ qua phần tiêu tốn thêm này nếu có tốc độ leo và dùng nó để leo, hoặc có tốc độ bơi và dùng nó để bơi. Theo quyết định của DM, leo một bề mặt thẳng đứng trơn trượt hoặc có ít chỗ bám đòi hỏi kiểm tra [Sức mạnh](99-glossary.md#strength) (Điền kinh) thành công. Tương tự, để tiến được bất kỳ khoảng cách nào trong vùng nước dữ, bạn có thể phải thành công kiểm tra Sức mạnh (Điền kinh).
 
 #### Nhảy (Jumping)
 
@@ -104,7 +104,7 @@ Sức mạnh xác định bạn có thể nhảy xa đến đâu.
 
 Quy tắc này giả định độ cao cú nhảy không quan trọng, như khi nhảy qua suối hoặc vực sâu. Theo quyết định của DM, bạn phải thành công kiểm tra Sức mạnh (Điền kinh) DC 10 để vượt một chướng ngại thấp, không cao hơn một phần tư khoảng cách cú nhảy, như hàng rào cây hoặc tường thấp. Nếu không, bạn va vào chướng ngại ấy.
 
-Khi tiếp đất trong địa hình khó đi, bạn phải thành công kiểm tra Khéo léo (Nhào lộn) DC 10 để đứng vững khi tiếp đất. Nếu không, bạn tiếp đất trong tư thế ngã sấp (prone).
+Khi tiếp đất trong địa hình khó đi, bạn phải thành công kiểm tra [Khéo léo](99-glossary.md#dexterity) (Nhào lộn) DC 10 để đứng vững khi tiếp đất. Nếu không, bạn tiếp đất trong tư thế ngã sấp (prone).
 
 **Nhảy cao (High Jump).** Khi nhảy cao, bạn bật lên số feet bằng 3 + hệ số Sức mạnh, tối thiểu 0 feet, nếu ngay trước cú nhảy bạn đã di chuyển ít nhất 10 feet bằng chân. Khi nhảy cao tại chỗ, bạn chỉ nhảy được một nửa khoảng cách đó. Trong cả hai trường hợp, mỗi foot vượt qua trong cú nhảy tiêu tốn một foot di chuyển. Trong một số hoàn cảnh, DM có thể cho phép thực hiện kiểm tra Sức mạnh (Điền kinh) để nhảy cao hơn mức thông thường.
 
@@ -134,7 +134,7 @@ Khi đi với nhịp chậm, nhân vật có thể di chuyển lén lút. Chừn
 
 Đôi khi chia nhóm nhà phiêu lưu là hợp lý, đặc biệt nếu bạn muốn một hoặc nhiều nhân vật trinh sát phía trước. Bạn có thể lập nhiều nhóm, mỗi nhóm đi với tốc độ khác nhau. Mỗi nhóm có hàng đầu, hàng giữa và hàng cuối riêng.
 
-Nhược điểm của cách này là nhóm sẽ bị chia thành nhiều nhóm nhỏ hơn khi bị tấn công. Ưu điểm là một nhóm nhỏ gồm các nhân vật giỏi lén lút, di chuyển chậm, có thể lẻn qua những kẻ địch mà các nhân vật vụng về hơn sẽ khiến chúng cảnh giác. Hai đạo tặc đi với nhịp chậm khó bị phát hiện hơn nhiều khi để người bạn chiến binh người lùn lại phía sau.
+Nhược điểm của cách này là nhóm sẽ bị chia thành nhiều nhóm nhỏ hơn khi bị tấn công. Ưu điểm là một nhóm nhỏ gồm các nhân vật giỏi lén lút, di chuyển chậm, có thể lẻn qua những kẻ địch mà các nhân vật vụng về hơn sẽ khiến chúng cảnh giác. Hai [đạo tặc](99-glossary.md#rogue) đi với nhịp chậm khó bị phát hiện hơn nhiều khi để người bạn [chiến binh](99-glossary.md#fighter) người lùn lại phía sau.
 
 #### Nhận ra mối đe dọa (Noticing Threats)
 
@@ -176,7 +176,7 @@ Khi kết thúc cú rơi, sinh vật chịu 1d6 sát thương đập (bludgeonin
 
 Sinh vật có thể nín thở trong số phút bằng 1 + hệ số Thể chất, tối thiểu 30 giây.
 
-Khi sinh vật hết hơi hoặc bị nghẹt thở, nó có thể sống sót trong số vòng bằng hệ số Thể chất, tối thiểu 1 vòng. Sau số vòng ấy, vào đầu lượt tiếp theo của nó, nó giảm xuống 0 điểm sinh lực và đang hấp hối; nó không thể hồi điểm sinh lực hoặc được ổn định cho đến khi thở lại được.
+Khi sinh vật hết hơi hoặc bị nghẹt thở, nó có thể sống sót trong số vòng bằng hệ số Thể chất, tối thiểu 1 vòng. Sau số vòng ấy, vào đầu lượt tiếp theo của nó, nó giảm xuống 0 [điểm sinh lực](99-glossary.md#hit-points) và đang hấp hối; nó không thể hồi điểm sinh lực hoặc được ổn định cho đến khi thở lại được.
 
 Ví dụ, sinh vật có Thể chất 14 có thể nín thở 3 phút. Nếu bắt đầu ngạt thở, nó có 2 vòng để tiếp cận không khí trước khi giảm xuống 0 điểm sinh lực.
 
@@ -190,7 +190,7 @@ Những nhiệm vụ cơ bản nhất của phiêu lưu — nhận ra nguy hiể
 
 Một khu vực có thể bị che khuất nhẹ hoặc nặng. Trong khu vực **bị che khuất nhẹ (lightly obscured)**, như ánh sáng yếu, sương mù từng mảng hoặc tán lá không quá dày, sinh vật có bất lợi trong kiểm tra Minh triết (Tri giác) dựa vào thị giác.
 
-Khu vực **bị che khuất nặng (heavily obscured)**, như bóng tối, sương mù không nhìn xuyên được hoặc tán lá dày đặc, chặn hoàn toàn thị giác. Sinh vật thực chất chịu trạng thái mù (blinded), xem phụ lục A, khi cố nhìn một thứ trong khu vực ấy.
+Khu vực **bị che khuất nặng (heavily obscured)**, như bóng tối, sương mù không nhìn xuyên được hoặc tán lá dày đặc, chặn hoàn toàn thị giác. Sinh vật thực chất chịu [trạng thái](99-glossary.md#condition) mù (blinded), xem phụ lục A, khi cố nhìn một thứ trong khu vực ấy.
 
 Sự hiện diện hoặc vắng mặt của ánh sáng trong môi trường tạo ra ba mức chiếu sáng: ánh sáng rõ, ánh sáng yếu và bóng tối.
 
@@ -202,13 +202,13 @@ Sự hiện diện hoặc vắng mặt của ánh sáng trong môi trường t�
 
 #### Thị giác mù (Blindsight)
 
-Sinh vật có thị giác mù có thể nhận biết xung quanh mà không dựa vào thị giác, trong một bán kính cụ thể. Sinh vật không có mắt, như ooze, và sinh vật có khả năng định vị bằng tiếng vang hoặc giác quan tăng cường, như dơi và rồng thực thụ, có giác quan này.
+Sinh vật có thị giác mù có thể nhận biết xung quanh mà không dựa vào thị giác, trong một bán kính cụ thể. Sinh vật không có mắt, như ooze, và sinh vật có khả năng định vị bằng tiếng vang hoặc giác quan tăng cường, như dơi và [rồng](99-glossary.md#dragon) thực thụ, có giác quan này.
 
-#### Thị giác bóng tối (Darkvision)
+#### [Thị giác bóng tối](99-glossary.md#darkvision) (Darkvision)
 
 Nhiều sinh vật trong thế giới D&D, đặc biệt những loài sống dưới lòng đất, có thị giác bóng tối. Trong phạm vi quy định, sinh vật có thị giác bóng tối nhìn trong ánh sáng yếu như ánh sáng rõ, và trong bóng tối như ánh sáng yếu; vì vậy, đối với sinh vật ấy, khu vực bóng tối chỉ bị che khuất nhẹ. Tuy nhiên, sinh vật không phân biệt được màu trong bóng tối, mà chỉ thấy các sắc độ xám.
 
-#### Chân thị (Truesight)
+#### [Chân thị](99-glossary.md#truesight) (Truesight)
 
 Trong phạm vi cụ thể, sinh vật có chân thị có thể nhìn trong bóng tối thông thường và ma thuật, nhìn thấy sinh vật và đồ vật vô hình, tự động phát hiện ảo ảnh thị giác và thành công các lần tung cứu nguy chống lại chúng, nhận biết hình dạng gốc của sinh vật biến hình hoặc sinh vật bị ma thuật biến đổi. Hơn nữa, sinh vật có thể nhìn vào Cõi Ethereal (Ethereal Plane).
 
@@ -218,7 +218,7 @@ Trong phạm vi cụ thể, sinh vật có chân thị có thể nhìn trong bó
 
 *Thức ăn và nước là nguồn lực thiết yếu trong những hành trình kéo dài. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Nhân vật không ăn hoặc uống chịu các ảnh hưởng của kiệt sức, xem phụ lục A. Kiệt sức do thiếu thức ăn hoặc nước không thể được loại bỏ cho đến khi nhân vật ăn và uống đủ toàn bộ lượng cần thiết.
+Nhân vật không ăn hoặc uống chịu các ảnh hưởng của kiệt sức, xem phụ lục A. [Kiệt sức](99-glossary.md#exhaustion) do thiếu thức ăn hoặc nước không thể được loại bỏ cho đến khi nhân vật ăn và uống đủ toàn bộ lượng cần thiết.
 
 #### Thức ăn (Food)
 
@@ -244,7 +244,7 @@ Tương tác của nhân vật với đồ vật trong môi trường thường 
 
 Ví dụ, nhân vật có thể quyết định kéo cần gạt, từ đó nâng cửa lưới chắn, khiến phòng ngập nước hoặc mở cửa bí mật trên bức tường gần đó. Tuy nhiên, nếu cần gạt bị gỉ kẹt tại chỗ, nhân vật có thể phải dùng sức. Trong tình huống như vậy, DM có thể yêu cầu kiểm tra Sức mạnh để xem nhân vật có giật cần gạt về đúng vị trí hay không. DM đặt DC cho các kiểm tra như vậy dựa trên độ khó của nhiệm vụ.
 
-Nhân vật cũng có thể làm hư hại đồ vật bằng vũ khí và phép. Đồ vật miễn nhiễm sát thương độc và tâm linh (psychic), nhưng ngoài ra có thể chịu ảnh hưởng của đòn tấn công vật lý và ma thuật gần giống sinh vật. DM xác định Chỉ số giáp và điểm sinh lực của đồ vật, và có thể quyết định một số đồ vật có kháng hoặc miễn nhiễm với một số loại tấn công. Ví dụ, khó cắt dây thừng bằng gậy. Đồ vật luôn thất bại cứu nguy Sức mạnh và Khéo léo, và miễn nhiễm các hiệu ứng đòi hỏi loại cứu nguy khác. Khi đồ vật giảm xuống 0 điểm sinh lực, nó bị phá hỏng.
+Nhân vật cũng có thể làm hư hại đồ vật bằng vũ khí và phép. Đồ vật miễn nhiễm sát thương độc và tâm linh (psychic), nhưng ngoài ra có thể chịu ảnh hưởng của đòn tấn công vật lý và ma thuật gần giống sinh vật. DM xác định [Chỉ số giáp](99-glossary.md#armor-class) và điểm sinh lực của đồ vật, và có thể quyết định một số đồ vật có kháng hoặc miễn nhiễm với một số loại tấn công. Ví dụ, khó cắt dây thừng bằng gậy. Đồ vật luôn thất bại cứu nguy Sức mạnh và Khéo léo, và miễn nhiễm các hiệu ứng đòi hỏi loại cứu nguy khác. Khi đồ vật giảm xuống 0 điểm sinh lực, nó bị phá hỏng.
 
 Nhân vật cũng có thể thử kiểm tra Sức mạnh để phá một đồ vật. DM đặt DC cho những kiểm tra như vậy.
 
@@ -256,7 +256,7 @@ Nhân vật cũng có thể thử kiểm tra Sức mạnh để phá một đồ
 
 Khám phá hầm ngục, vượt chướng ngại và tiêu diệt quái vật là những phần quan trọng của các cuộc phiêu lưu D&D. Nhưng tương tác xã hội giữa nhà phiêu lưu và những cư dân khác của thế giới cũng quan trọng không kém.
 
-Tương tác có nhiều hình thức. Bạn có thể cần thuyết phục một tên trộm vô lương tâm thú nhận việc làm sai trái, hoặc cố tâng bốc một con rồng để nó tha mạng. DM đóng vai mọi nhân vật tham gia tương tác mà không thuộc về người chơi khác tại bàn. Những nhân vật như vậy được gọi là **nhân vật không do người chơi điều khiển (nonplayer character, NPC)**.
+Tương tác có nhiều hình thức. Bạn có thể cần thuyết phục một tên trộm vô lương tâm thú nhận việc làm sai trái, hoặc cố tâng bốc một con rồng để nó tha mạng. DM đóng vai mọi nhân vật tham gia tương tác mà không thuộc về người chơi khác tại bàn. Những nhân vật như vậy được gọi là **nhân vật không do người chơi điều khiển (nonplayer character, [NPC](99-glossary.md#npc))**.
 
 Nhìn chung, thái độ của NPC đối với bạn được mô tả là **thân thiện (friendly)**, **thờ ơ (indifferent)** hoặc **thù địch (hostile)**. NPC thân thiện có khuynh hướng giúp bạn, còn NPC thù địch có xu hướng cản trở. Tất nhiên, dễ đạt điều bạn muốn từ NPC thân thiện hơn.
 
@@ -278,9 +278,9 @@ Có hai phong cách bạn có thể dùng khi nhập vai nhân vật: cách mô 
 
 Với cách này, bạn mô tả lời nói và hành động của nhân vật cho DM cùng người chơi khác. Dựa vào hình dung về nhân vật trong đầu, bạn nói cho mọi người biết nhân vật làm gì và làm như thế nào.
 
-Ví dụ, Chris chơi Tordek, một người lùn. Tordek nóng tính và đổ lỗi cho các elf của Cloakwood về bất hạnh của gia đình mình. Trong quán rượu, một nhạc sĩ elf khó ưa ngồi vào bàn của Tordek và cố bắt chuyện với người lùn.
+Ví dụ, Chris chơi Tordek, một người lùn. Tordek nóng tính và đổ lỗi cho các [elf](99-glossary.md#elf) của Cloakwood về bất hạnh của gia đình mình. Trong quán rượu, một nhạc sĩ elf khó ưa ngồi vào bàn của Tordek và cố bắt chuyện với người lùn.
 
-Chris nói: “Tordek nhổ xuống sàn, gầm gừ một lời sỉ nhục với thi sĩ rồi giậm chân đi đến quầy rượu. Anh ngồi lên ghế và trừng mắt nhìn nhạc sĩ trước khi gọi thêm đồ uống.”
+Chris nói: “Tordek nhổ xuống sàn, gầm gừ một lời sỉ nhục với [thi sĩ](99-glossary.md#bard) rồi giậm chân đi đến quầy rượu. Anh ngồi lên ghế và trừng mắt nhìn nhạc sĩ trước khi gọi thêm đồ uống.”
 
 Trong ví dụ này, Chris đã truyền đạt tâm trạng của Tordek và cho DM hình dung rõ thái độ cùng hành động của nhân vật.
 
@@ -314,25 +314,25 @@ Tương tác trong D&D giống tương tác ngoài đời. Nếu có thể cho N
 
 Bên cạnh nhập vai, kiểm tra thuộc tính là yếu tố quan trọng để xác định kết quả tương tác.
 
-Nỗ lực nhập vai có thể thay đổi thái độ của NPC, nhưng tình huống vẫn có thể có yếu tố may rủi. Ví dụ, DM có thể yêu cầu kiểm tra Sức hút ở bất kỳ thời điểm nào trong tương tác nếu muốn xúc xắc góp phần quyết định phản ứng của NPC. Theo quyết định của DM, các kiểm tra khác có thể thích hợp trong một số tình huống.
+Nỗ lực nhập vai có thể thay đổi thái độ của NPC, nhưng tình huống vẫn có thể có yếu tố may rủi. Ví dụ, DM có thể yêu cầu kiểm tra [Sức hút](99-glossary.md#charisma) ở bất kỳ thời điểm nào trong tương tác nếu muốn xúc xắc góp phần quyết định phản ứng của NPC. Theo quyết định của DM, các kiểm tra khác có thể thích hợp trong một số tình huống.
 
-Hãy chú ý sự thành thạo kỹ năng của mình khi nghĩ cách tương tác với NPC, và tạo lợi thế cho bản thân bằng cách dựa vào những khoản thưởng cùng kỹ năng tốt nhất. Nếu nhóm cần lừa lính gác cho vào lâu đài, đạo tặc thành thạo Lừa dối là lựa chọn tốt nhất để dẫn dắt cuộc nói chuyện. Khi thương lượng việc thả con tin, giáo sĩ có Thuyết phục nên nói phần lớn.
+Hãy chú ý [sự thành thạo](99-glossary.md#proficiency) kỹ năng của mình khi nghĩ cách tương tác với NPC, và tạo [lợi thế](99-glossary.md#advantage) cho bản thân bằng cách dựa vào những khoản thưởng cùng kỹ năng tốt nhất. Nếu nhóm cần lừa lính gác cho vào lâu đài, đạo tặc thành thạo Lừa dối là lựa chọn tốt nhất để dẫn dắt cuộc nói chuyện. Khi thương lượng việc thả con tin, [giáo sĩ](99-glossary.md#cleric) có Thuyết phục nên nói phần lớn.
 
 ## Nghỉ ngơi (Resting)
 
 ![Nhóm phiêu lưu chăm sóc vết thương ban ngày và ngủ dưới sự canh gác ban đêm](assets/chapter-08-resting.png)
 
-*Nghỉ ngắn và nghỉ dài giúp nhân vật hồi phục sức lực theo những nhịp thời gian khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Nghỉ ngắn và [nghỉ dài](99-glossary.md#long-rest) giúp nhân vật hồi phục sức lực theo những nhịp thời gian khác nhau. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Dù anh hùng đến đâu, nhà phiêu lưu cũng không thể dành mọi giờ trong ngày để liên tục khám phá, tương tác xã hội và chiến đấu. Họ cần nghỉ: thời gian ngủ và ăn, chăm sóc vết thương, làm mới tâm trí và tinh thần để thi triển phép, chuẩn bị cho những cuộc phiêu lưu tiếp theo.
+Dù anh hùng đến đâu, nhà phiêu lưu cũng không thể dành mọi giờ trong ngày để liên tục khám phá, tương tác xã hội và chiến đấu. Họ cần nghỉ: thời gian ngủ và ăn, chăm sóc vết thương, làm mới tâm trí và tinh thần để [thi triển phép](99-glossary.md#spellcasting), chuẩn bị cho những cuộc phiêu lưu tiếp theo.
 
-Nhà phiêu lưu, cũng như các sinh vật khác, có thể nghỉ ngắn giữa ngày và nghỉ dài để kết thúc ngày.
+Nhà phiêu lưu, cũng như các sinh vật khác, có thể [nghỉ ngắn](99-glossary.md#short-rest) giữa ngày và nghỉ dài để kết thúc ngày.
 
 ### Nghỉ ngắn (Short Rest)
 
 Nghỉ ngắn là khoảng thời gian nghỉ ít nhất 1 giờ, trong đó nhân vật không làm gì vất vả hơn ăn, uống, đọc và chăm sóc vết thương.
 
-Nhân vật có thể dùng một hoặc nhiều Xúc xắc Sinh lực vào cuối lần nghỉ ngắn, tối đa bằng số Xúc xắc Sinh lực tối đa của nhân vật, tức cấp nhân vật. Với mỗi Xúc xắc Sinh lực dùng theo cách này, người chơi tung xúc xắc và cộng hệ số Thể chất của nhân vật. Nhân vật hồi số điểm sinh lực bằng tổng, tối thiểu 0. Người chơi có thể quyết định dùng thêm một Xúc xắc Sinh lực sau mỗi lần tung. Nhân vật hồi lại một số Xúc xắc Sinh lực đã dùng khi hoàn tất nghỉ dài, như giải thích dưới đây.
+Nhân vật có thể dùng một hoặc nhiều Xúc xắc Sinh lực vào cuối lần nghỉ ngắn, tối đa bằng số Xúc xắc Sinh lực tối đa của nhân vật, tức [cấp nhân vật](99-glossary.md#level). Với mỗi Xúc xắc Sinh lực dùng theo cách này, người chơi tung xúc xắc và cộng hệ số Thể chất của nhân vật. Nhân vật hồi số điểm sinh lực bằng tổng, tối thiểu 0. Người chơi có thể quyết định dùng thêm một Xúc xắc Sinh lực sau mỗi lần tung. Nhân vật hồi lại một số Xúc xắc Sinh lực đã dùng khi hoàn tất nghỉ dài, như giải thích dưới đây.
 
 ### Nghỉ dài (Long Rest)
 
@@ -372,7 +372,7 @@ Bạn có thể làm những hoạt động trong thời gian nghỉ khác ngoà
 
 Bạn có thể chế tạo đồ vật không có ma thuật, gồm trang bị phiêu lưu và tác phẩm nghệ thuật. Bạn phải thành thạo công cụ liên quan đến đồ vật định tạo, thường là dụng cụ thợ thủ công. Bạn cũng có thể cần vật liệu đặc biệt hoặc địa điểm cần thiết để chế tạo. Ví dụ, người thành thạo dụng cụ thợ rèn cần lò rèn để chế tạo kiếm hoặc bộ giáp.
 
-Với mỗi ngày trong thời gian nghỉ dành cho chế tạo, bạn có thể tạo một hoặc nhiều vật phẩm có tổng giá trị thị trường không vượt quá 5 gp, và phải dùng nguyên liệu thô trị giá một nửa tổng giá trị thị trường ấy. Nếu vật muốn chế tạo có giá trị thị trường lớn hơn 5 gp, mỗi ngày bạn tiến thêm một phần trị giá 5 gp cho đến khi đạt giá trị thị trường của vật phẩm. Ví dụ, một bộ giáp tấm, giá trị thị trường 1.500 gp, cần 300 ngày để tự chế tạo một mình.
+Với mỗi ngày trong thời gian nghỉ dành cho chế tạo, bạn có thể tạo một hoặc nhiều vật phẩm có tổng giá trị thị trường không vượt quá 5 gp, và phải dùng nguyên liệu thô trị giá một nửa tổng giá trị thị trường ấy. Nếu vật muốn chế tạo có giá trị thị trường lớn hơn 5 gp, mỗi ngày bạn tiến thêm một phần trị giá 5 gp cho đến khi đạt giá trị thị trường của vật phẩm. Ví dụ, một bộ [giáp tấm](99-glossary.md#plate-armor), giá trị thị trường 1.500 gp, cần 300 ngày để tự chế tạo một mình.
 
 Nhiều nhân vật có thể hợp sức chế tạo một vật phẩm, miễn tất cả đều thành thạo công cụ cần thiết và cùng làm tại một nơi. Mỗi nhân vật đóng góp phần công sức trị giá 5 gp cho mỗi ngày giúp chế tạo. Ví dụ, ba nhân vật có sự thành thạo công cụ cần thiết và cơ sở phù hợp có thể chế tạo bộ giáp tấm trong 100 ngày, với tổng chi phí 750 gp.
 
@@ -397,9 +397,9 @@ Sau ba ngày trong thời gian nghỉ dành cho hồi phục, bạn có thể tu
 
 #### Nghiên cứu (Researching)
 
-Thời gian giữa các cuộc phiêu lưu là cơ hội tốt để nghiên cứu, hiểu thêm những bí ẩn xuất hiện trong quá trình chiến dịch. Nghiên cứu có thể gồm nghiền ngẫm những quyển sách bụi bặm và cuộn giấy mục nát trong thư viện, hoặc mua đồ uống cho dân địa phương để moi tin đồn và chuyện bàn tán từ họ.
+Thời gian giữa các cuộc phiêu lưu là cơ hội tốt để nghiên cứu, hiểu thêm những bí ẩn xuất hiện trong quá trình [chiến dịch](99-glossary.md#campaign). Nghiên cứu có thể gồm nghiền ngẫm những quyển sách bụi bặm và cuộn giấy mục nát trong thư viện, hoặc mua đồ uống cho dân địa phương để moi tin đồn và chuyện bàn tán từ họ.
 
-Khi bạn bắt đầu nghiên cứu, DM xác định thông tin có sẵn hay không, cần bao nhiêu ngày trong thời gian nghỉ để tìm ra, và việc nghiên cứu có giới hạn nào không, như phải tìm một cá nhân, quyển sách hoặc địa điểm cụ thể. DM cũng có thể yêu cầu một hoặc nhiều kiểm tra thuộc tính, như kiểm tra Trí tuệ (Điều tra) để tìm manh mối dẫn đến thông tin cần tìm, hoặc kiểm tra Sức hút (Thuyết phục) để có được sự giúp đỡ của ai đó. Khi đáp ứng các điều kiện này, bạn biết được thông tin nếu thông tin ấy có sẵn.
+Khi bạn bắt đầu nghiên cứu, DM xác định thông tin có sẵn hay không, cần bao nhiêu ngày trong thời gian nghỉ để tìm ra, và việc nghiên cứu có giới hạn nào không, như phải tìm một cá nhân, quyển sách hoặc địa điểm cụ thể. DM cũng có thể yêu cầu một hoặc nhiều kiểm tra thuộc tính, như kiểm tra [Trí tuệ](99-glossary.md#intelligence) (Điều tra) để tìm manh mối dẫn đến thông tin cần tìm, hoặc kiểm tra Sức hút (Thuyết phục) để có được sự giúp đỡ của ai đó. Khi đáp ứng các điều kiện này, bạn biết được thông tin nếu thông tin ấy có sẵn.
 
 Với mỗi ngày nghiên cứu, bạn phải chi 1 gp để trang trải chi phí. Khoản này ngoài chi phí lối sống thông thường, như bàn ở chương 5.
 

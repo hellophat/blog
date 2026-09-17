@@ -8,15 +8,15 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 8-12.
 
 ![Một nhà phiêu lưu mới đứng trước nhiều con đường dẫn vào thế giới rộng lớn](assets/chapter-01-character-creation-cover.png)
 
-*Tạo nhân vật là bước đầu tiên để biến ý tưởng thành một nhà phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Tạo nhân vật là bước đầu tiên để biến ý tưởng thành một [nhà phiêu lưu](99-glossary.md#adventurer). Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Bước đầu tiên để đóng vai một nhà phiêu lưu trong Dungeons & Dragons là hình dung và tạo nhân vật của riêng bạn. Nhân vật kết hợp các chỉ số trò chơi, những yếu tố gợi mở để nhập vai và trí tưởng tượng của bạn. Bạn chọn một **chủng tộc (race)**, chẳng hạn con người hoặc halfling, và một **lớp nhân vật (class)**, chẳng hạn chiến binh hoặc pháp sư. Bạn cũng sáng tạo tính cách, ngoại hình và câu chuyện quá khứ của nhân vật. Sau khi hoàn thành, nhân vật trở thành người đại diện của bạn trong trò chơi, hiện thân của bạn trong thế giới Dungeons & Dragons.
+Bước đầu tiên để đóng vai một nhà phiêu lưu trong [Dungeons & Dragons](99-glossary.md#dungeons-and-dragons) là hình dung và tạo nhân vật của riêng bạn. Nhân vật kết hợp các chỉ số trò chơi, những yếu tố gợi mở để nhập vai và trí tưởng tượng của bạn. Bạn chọn một **[chủng tộc](99-glossary.md#race) (race)**, chẳng hạn [con người](99-glossary.md#human) hoặc [halfling](99-glossary.md#halfling), và một **[lớp nhân vật](99-glossary.md#class) (class)**, chẳng hạn [chiến binh](99-glossary.md#fighter) hoặc [pháp sư](99-glossary.md#wizard). Bạn cũng sáng tạo tính cách, ngoại hình và câu chuyện quá khứ của nhân vật. Sau khi hoàn thành, nhân vật trở thành người đại diện của bạn trong trò chơi, hiện thân của bạn trong thế giới Dungeons & Dragons.
 
-Trước khi bắt đầu bước 1, hãy nghĩ về kiểu nhà phiêu lưu muốn điều khiển. Đó có thể là chiến binh can đảm, đạo tặc lén lút, giáo sĩ nhiệt thành hoặc pháp sư thích phô trương. Bạn cũng có thể hứng thú hơn với một nhân vật khác thường, như đạo tặc lực lưỡng thích đánh giáp lá cà, hoặc xạ thủ hạ kẻ địch từ xa. Bạn thích truyện kỳ ảo về người lùn hay elf? Hãy thử tạo nhân vật thuộc một trong những chủng tộc ấy. Bạn muốn nhân vật là nhà phiêu lưu bền bỉ nhất tại bàn? Hãy cân nhắc lớp chiến binh. Nếu chưa biết bắt đầu từ đâu, xem tranh minh họa trong tài liệu để tìm điều thu hút bạn.
+Trước khi bắt đầu bước 1, hãy nghĩ về kiểu nhà phiêu lưu muốn điều khiển. Đó có thể là chiến binh can đảm, [đạo tặc](99-glossary.md#rogue) lén lút, [giáo sĩ](99-glossary.md#cleric) nhiệt thành hoặc pháp sư thích phô trương. Bạn cũng có thể hứng thú hơn với một nhân vật khác thường, như đạo tặc lực lưỡng thích đánh giáp lá cà, hoặc xạ thủ hạ kẻ địch từ xa. Bạn thích truyện kỳ ảo về [người lùn](99-glossary.md#dwarf) hay [elf](99-glossary.md#elf)? Hãy thử tạo nhân vật thuộc một trong những chủng tộc ấy. Bạn muốn nhân vật là nhà phiêu lưu bền bỉ nhất tại bàn? Hãy cân nhắc lớp chiến binh. Nếu chưa biết bắt đầu từ đâu, xem tranh minh họa trong tài liệu để tìm điều thu hút bạn.
 
 Khi đã có ý tưởng, hãy thực hiện các bước theo thứ tự, đưa ra lựa chọn phù hợp với nhân vật mong muốn. Hình dung của bạn có thể thay đổi theo từng lựa chọn. Điều quan trọng là đến bàn chơi với một nhân vật khiến bạn hào hứng nhập vai.
 
-Trong chương này, **phiếu nhân vật (character sheet)** chỉ bất cứ thứ gì dùng để theo dõi nhân vật: phiếu chính thức như mẫu cuối tài liệu, hồ sơ điện tử hoặc một trang giấy vở. Phiếu nhân vật D&D chính thức là điểm khởi đầu hữu ích cho đến khi bạn biết cần những thông tin gì và dùng chúng thế nào trong trò chơi.
+Trong chương này, **[phiếu nhân vật](99-glossary.md#character-sheet) (character sheet)** chỉ bất cứ thứ gì dùng để theo dõi nhân vật: phiếu chính thức như mẫu cuối tài liệu, hồ sơ điện tử hoặc một trang giấy vở. Phiếu nhân vật D&D chính thức là điểm khởi đầu hữu ích cho đến khi bạn biết cần những thông tin gì và dùng chúng thế nào trong trò chơi.
 
 ## Tạo Bruenor (Building Bruenor)
 
@@ -32,27 +32,27 @@ Mỗi bước tạo nhân vật đều có ví dụ: người chơi tên Bob xâ
 
 *Chủng tộc định hình nhiều đặc điểm thể chất, văn hóa và góc nhìn của nhân vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Mỗi nhân vật thuộc một chủng tộc, một trong nhiều loài thông minh có hình dạng giống người trong thế giới D&D. Những chủng tộc nhân vật người chơi phổ biến nhất là **người lùn (dwarf), elf, halfling và con người (human)**. Một số chủng tộc còn có **phân chủng (subraces)**, như người lùn núi (mountain dwarf) hoặc elf rừng (wood elf). Chương 2 cung cấp thêm thông tin.
+Mỗi nhân vật thuộc một chủng tộc, một trong nhiều loài thông minh có hình dạng giống người trong thế giới D&D. Những chủng tộc [nhân vật người chơi](99-glossary.md#player-character) phổ biến nhất là **người lùn (dwarf), elf, halfling và con người (human)**. Một số chủng tộc còn có **[phân chủng](99-glossary.md#subrace) (subraces)**, như người lùn núi (mountain dwarf) hoặc elf rừng (wood elf). Chương 2 cung cấp thêm thông tin.
 
-Chủng tộc góp phần quan trọng vào bản sắc nhân vật, xác định ngoại hình tổng quát và những năng lực tự nhiên có từ văn hóa, tổ tiên. Chủng tộc cho nhân vật những **đặc điểm chủng tộc (racial traits)** cụ thể: giác quan đặc biệt, sự thành thạo với một số vũ khí hoặc công cụ, sự thành thạo một hay nhiều kỹ năng, hoặc khả năng sử dụng những phép nhỏ. Đôi khi các đặc điểm ấy kết hợp rất tốt với năng lực của một số lớp nhân vật, được chọn ở bước 2. Chẳng hạn, halfling chân nhẹ (lightfoot halfling) có đặc điểm giúp họ trở thành đạo tặc xuất sắc; elf bậc cao (high elf) thường là pháp sư mạnh. Tuy nhiên, chơi trái với hình mẫu quen thuộc cũng có thể thú vị. Thánh kỵ sĩ halfling hay pháp sư người lùn núi có thể khác thường nhưng đáng nhớ.
+Chủng tộc góp phần quan trọng vào bản sắc nhân vật, xác định ngoại hình tổng quát và những năng lực tự nhiên có từ văn hóa, tổ tiên. Chủng tộc cho nhân vật những **đặc điểm chủng tộc (racial traits)** cụ thể: giác quan đặc biệt, [sự thành thạo](99-glossary.md#proficiency) với một số vũ khí hoặc công cụ, sự thành thạo một hay nhiều kỹ năng, hoặc khả năng sử dụng những phép nhỏ. Đôi khi các đặc điểm ấy kết hợp rất tốt với năng lực của một số lớp nhân vật, được chọn ở bước 2. Chẳng hạn, halfling chân nhẹ (lightfoot halfling) có đặc điểm giúp họ trở thành đạo tặc xuất sắc; elf bậc cao (high elf) thường là pháp sư mạnh. Tuy nhiên, chơi trái với hình mẫu quen thuộc cũng có thể thú vị. Thánh kỵ sĩ halfling hay pháp sư người lùn núi có thể khác thường nhưng đáng nhớ.
 
-Chủng tộc còn tăng một hoặc nhiều điểm thuộc tính mà bạn sẽ xác định ở bước 3. Ghi lại các mức tăng và nhớ áp dụng sau đó.
+Chủng tộc còn tăng một hoặc nhiều [điểm thuộc tính](99-glossary.md#ability-score) mà bạn sẽ xác định ở bước 3. Ghi lại các mức tăng và nhớ áp dụng sau đó.
 
 Ghi các đặc điểm chủng tộc lên phiếu nhân vật. Nhớ ghi cả ngôn ngữ khởi đầu và tốc độ cơ bản.
 
 ### Tạo Bruenor, bước 1
 
-Bob bắt đầu tạo nhân vật. Anh quyết định một người lùn núi cộc cằn phù hợp với vai muốn thể hiện. Anh ghi mọi đặc điểm chủng tộc người lùn lên phiếu, bao gồm tốc độ **25 feet** và các ngôn ngữ biết nói: **Tiếng Chung (Common)** và **tiếng Người lùn (Dwarvish)**.
+Bob bắt đầu tạo nhân vật. Anh quyết định một người lùn núi cộc cằn phù hợp với vai muốn thể hiện. Anh ghi mọi đặc điểm chủng tộc người lùn lên phiếu, bao gồm tốc độ **25 [feet](99-glossary.md#feet)** và các ngôn ngữ biết nói: **Tiếng Chung (Common)** và **tiếng Người lùn (Dwarvish)**.
 
 ## 2. Chọn lớp nhân vật (Choose a Class)
 
 ![Một nhà phiêu lưu lựa chọn giữa con đường giáo sĩ chiến binh đạo tặc và pháp sư](assets/chapter-01-choose-class.png)
 
-*Lớp nhân vật quyết định những năng lực chính và vai trò của nhân vật trong cuộc phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Lớp nhân vật quyết định những năng lực chính và vai trò của nhân vật trong [cuộc phiêu lưu](99-glossary.md#adventure). Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Mỗi nhà phiêu lưu thuộc một lớp nhân vật. Lớp mô tả khái quát nghề nghiệp, tài năng đặc biệt và những chiến thuật nhân vật có khả năng sử dụng khi khám phá hầm ngục, chiến đấu với quái vật hoặc tham gia cuộc thương lượng căng thẳng. Chương 3 mô tả các lớp nhân vật.
+Mỗi nhà phiêu lưu thuộc một lớp nhân vật. Lớp mô tả khái quát nghề nghiệp, tài năng đặc biệt và những chiến thuật nhân vật có khả năng sử dụng khi khám phá hầm ngục, chiến đấu với [quái vật](99-glossary.md#monster) hoặc tham gia cuộc thương lượng căng thẳng. Chương 3 mô tả các lớp nhân vật.
 
-Lớp bạn chọn mang lại một số lợi ích. Nhiều lợi ích là **đặc tính lớp (class features)**: những năng lực, bao gồm thi triển phép, khiến nhân vật khác biệt với thành viên lớp khác. Bạn cũng có được một số **sự thành thạo (proficiencies)** với giáp, vũ khí, kỹ năng, các lần tung cứu nguy và đôi khi cả công cụ. Chúng xác định nhiều việc nhân vật làm đặc biệt tốt, từ sử dụng một số vũ khí đến nói dối thuyết phục.
+Lớp bạn chọn mang lại một số lợi ích. Nhiều lợi ích là **[đặc tính lớp](99-glossary.md#class-feature) (class features)**: những năng lực, bao gồm [thi triển phép](99-glossary.md#spellcasting), khiến nhân vật khác biệt với thành viên lớp khác. Bạn cũng có được một số **sự thành thạo (proficiencies)** với giáp, vũ khí, kỹ năng, các lần [tung cứu nguy](99-glossary.md#saving-throw) và đôi khi cả công cụ. Chúng xác định nhiều việc nhân vật làm đặc biệt tốt, từ sử dụng một số vũ khí đến nói dối thuyết phục.
 
 Ghi mọi đặc tính mà lớp mang lại ở cấp 1 lên phiếu nhân vật.
 
@@ -62,21 +62,21 @@ Ghi mọi đặc tính mà lớp mang lại ở cấp 1 lên phiếu nhân vật
 
 *Cấp độ thể hiện kinh nghiệm và sự trưởng thành của nhân vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Thông thường, nhân vật bắt đầu ở cấp 1 và tăng cấp bằng cách phiêu lưu, nhận **điểm kinh nghiệm (experience points, XP)**. Nhân vật cấp 1 chưa có nhiều kinh nghiệm phiêu lưu, dù trước đó có thể từng là binh sĩ hoặc hải tặc và làm những việc nguy hiểm.
+Thông thường, nhân vật bắt đầu ở cấp 1 và tăng cấp bằng cách phiêu lưu, nhận **[điểm kinh nghiệm](99-glossary.md#experience-points) (experience points, XP)**. Nhân vật cấp 1 chưa có nhiều kinh nghiệm phiêu lưu, dù trước đó có thể từng là binh sĩ hoặc hải tặc và làm những việc nguy hiểm.
 
-Bắt đầu ở cấp 1 đánh dấu thời điểm nhân vật bước vào đời sống phiêu lưu. Nếu đã quen trò chơi hoặc tham gia một chiến dịch D&D đang diễn ra, DM có thể cho bạn bắt đầu ở cấp cao hơn, với giả định nhân vật đã sống sót qua vài cuộc phiêu lưu đáng sợ.
+Bắt đầu ở cấp 1 đánh dấu thời điểm nhân vật bước vào đời sống phiêu lưu. Nếu đã quen trò chơi hoặc tham gia một [chiến dịch](99-glossary.md#campaign) D&D đang diễn ra, DM có thể cho bạn bắt đầu ở cấp cao hơn, với giả định nhân vật đã sống sót qua vài cuộc phiêu lưu đáng sợ.
 
 Ghi cấp độ lên phiếu. Nếu bắt đầu ở cấp cao hơn, ghi cả các yếu tố bổ sung mà lớp mang lại ở những cấp sau cấp 1. Đồng thời ghi XP. Nhân vật cấp 1 có **0 XP**. Nhân vật cấp cao hơn thường bắt đầu với lượng XP tối thiểu cần để đạt cấp đó; xem mục “Sau cấp 1” ở cuối chương.
 
-### Điểm sinh lực và xúc xắc sinh lực (Hit Points and Hit Dice)
+### Điểm sinh lực và [xúc xắc sinh lực](99-glossary.md#hit-dice) (Hit Points and Hit Dice)
 
 ![Những nhà phiêu lưu chăm sóc vết thương sau một trận chiến](assets/chapter-01-hit-points.png)
 
 *Điểm sinh lực và Xúc xắc Sinh lực biểu thị khả năng chịu đựng và hồi phục. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-**Điểm sinh lực (hit points, HP)** xác định độ bền bỉ của nhân vật trong chiến đấu và tình huống nguy hiểm khác. HP được xác định từ **xúc xắc sinh lực (Hit Dice)**, tên rút gọn của Hit Point Dice.
+**Điểm sinh lực (hit points, [HP](99-glossary.md#hit-points))** xác định độ bền bỉ của nhân vật trong chiến đấu và tình huống nguy hiểm khác. HP được xác định từ **xúc xắc sinh lực (Hit Dice)**, tên rút gọn của Hit Point Dice.
 
-Ở cấp 1, nhân vật có **1 xúc xắc sinh lực**; lớp quyết định loại xúc xắc. HP khởi đầu bằng kết quả lớn nhất của loại xúc xắc ấy, như ghi trong mô tả lớp. Bạn còn cộng hệ số Thể chất, sẽ xác định ở bước 3. Đây cũng là **HP tối đa (hit point maximum)** của nhân vật.
+Ở cấp 1, nhân vật có **1 xúc xắc sinh lực**; lớp quyết định loại xúc xắc. HP khởi đầu bằng kết quả lớn nhất của loại xúc xắc ấy, như ghi trong mô tả lớp. Bạn còn cộng hệ số [Thể chất](99-glossary.md#constitution), sẽ xác định ở bước 3. Đây cũng là **HP tối đa (hit point maximum)** của nhân vật.
 
 Ghi HP, loại xúc xắc sinh lực và số xúc xắc sinh lực lên phiếu. Sau khi nghỉ, bạn có thể tiêu hao xúc xắc sinh lực để hồi HP; xem mục “Nghỉ ngơi” trong chương 8.
 
@@ -84,12 +84,12 @@ Ghi HP, loại xúc xắc sinh lực và số xúc xắc sinh lực lên phiếu
 
 Bảng trong mô tả lớp cho biết thưởng thành thạo; với nhân vật cấp 1, giá trị này là **+2**. Thưởng thành thạo áp dụng cho nhiều giá trị cần ghi lên phiếu:
 
-- Lần tung tấn công bằng vũ khí bạn thành thạo.
+- Lần [tung tấn công](99-glossary.md#attack-roll) bằng vũ khí bạn thành thạo.
 - Lần tung tấn công bằng phép bạn thi triển.
 - Phép kiểm tra thuộc tính sử dụng kỹ năng bạn thành thạo.
 - Phép kiểm tra thuộc tính sử dụng công cụ bạn thành thạo.
 - Lần tung cứu nguy bạn thành thạo.
-- DC cứu nguy của phép bạn thi triển, được giải thích trong từng lớp có khả năng dùng phép.
+- [DC](99-glossary.md#difficulty-class) cứu nguy của phép bạn thi triển, được giải thích trong từng lớp có khả năng dùng phép.
 
 Lớp xác định các vũ khí và lần tung cứu nguy bạn thành thạo, cùng một phần kỹ năng và công cụ. Kỹ năng được mô tả ở chương 7, công cụ ở chương 5. Xuất thân cho thêm sự thành thạo kỹ năng và công cụ; một số chủng tộc cũng cho thêm sự thành thạo. Nhớ ghi tất cả, cùng thưởng thành thạo, lên phiếu.
 
@@ -101,7 +101,7 @@ Bob hình dung Bruenor lao vào trận với một chiếc rìu, chiếc mũ tr�
 
 Là chiến binh cấp 1, Bruenor có 1 xúc xắc sinh lực, loại **d10**, và bắt đầu với HP bằng **10 + hệ số Thể chất**. Bob ghi công thức này và sẽ điền kết quả cuối sau khi xác định điểm Thể chất ở bước 3. Anh cũng ghi thưởng thành thạo của nhân vật cấp 1 là **+2**.
 
-> **Tạo nhanh (Quick Build):** Mỗi mô tả lớp trong chương 3 có một mục gợi ý cách tạo nhanh nhân vật của lớp đó, bao gồm cách phân bổ điểm thuộc tính cao nhất, xuất thân phù hợp và các phép khởi đầu.
+> **Tạo nhanh (Quick Build):** Mỗi mô tả lớp trong chương 3 có một mục gợi ý cách tạo nhanh nhân vật của lớp đó, bao gồm cách phân bổ điểm thuộc tính cao nhất, [xuất thân](99-glossary.md#background) phù hợp và các phép khởi đầu.
 
 ## 3. Xác định điểm thuộc tính (Determine Ability Scores)
 
@@ -109,7 +109,7 @@ Là chiến binh cấp 1, Bruenor có 1 xúc xắc sinh lực, loại **d10**, v
 
 *Sáu điểm thuộc tính mô tả những năng lực thể chất và tinh thần cốt lõi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Phần lớn việc nhân vật làm phụ thuộc vào sáu thuộc tính: **Sức mạnh, Khéo léo, Thể chất, Trí tuệ, Minh triết và Sức hút**. Mỗi thuộc tính có một điểm số để ghi lên phiếu.
+Phần lớn việc nhân vật làm phụ thuộc vào sáu thuộc tính: **[Sức mạnh](99-glossary.md#strength), [Khéo léo](99-glossary.md#dexterity), Thể chất, [Trí tuệ](99-glossary.md#intelligence), [Minh triết](99-glossary.md#wisdom) và [Sức hút](99-glossary.md#charisma)**. Mỗi thuộc tính có một điểm số để ghi lên phiếu.
 
 Chương 7 mô tả sáu thuộc tính và cách sử dụng. Bảng “Tóm tắt điểm thuộc tính” dưới đây cho biết nhanh mỗi thuộc tính đo lường phẩm chất nào, chủng tộc nào tăng điểm ấy và lớp nào coi thuộc tính ấy là đặc biệt quan trọng.
 
@@ -117,7 +117,7 @@ Bạn có thể tạo ngẫu nhiên sáu điểm thuộc tính. Tung **bốn xú
 
 Lấy sáu số ấy và gán mỗi số cho một trong sáu thuộc tính. Sau đó điều chỉnh điểm theo chủng tộc đã chọn.
 
-Sau khi phân bổ, xác định **hệ số thuộc tính** bằng bảng “Điểm thuộc tính và hệ số”. Không cần tra bảng cũng có thể tính: lấy điểm thuộc tính trừ 10, chia kết quả cho 2 rồi **làm tròn xuống**. Ghi hệ số cạnh từng điểm.
+Sau khi phân bổ, xác định **[hệ số thuộc tính](99-glossary.md#modifier)** bằng bảng “Điểm thuộc tính và hệ số”. Không cần tra bảng cũng có thể tính: lấy điểm thuộc tính trừ 10, chia kết quả cho 2 rồi **làm tròn xuống**. Ghi hệ số cạnh từng điểm.
 
 ### Điểm thuộc tính và hệ số (Ability Scores and Modifiers)
 
@@ -195,7 +195,7 @@ Phương pháp cho phép tạo bộ ba điểm cao và ba điểm thấp **15, 1
 
 Khi đã biết những khía cạnh cơ bản của nhân vật theo luật chơi, hãy phát triển nhân vật thành một con người cụ thể. Nhân vật cần một cái tên. Dành vài phút nghĩ về ngoại hình và cách ứng xử nói chung.
 
-Dùng thông tin chương 4 để xây dựng ngoại hình và đặc điểm tính cách. Chọn **khuynh hướng đạo đức (alignment)**, tức kim chỉ nam đạo đức dẫn dắt quyết định, và **lý tưởng (ideals)**. Chương 4 cũng giúp xác định những điều nhân vật trân trọng nhất, gọi là **mối gắn bó (bonds)**, cùng những **khuyết điểm (flaws)** một ngày nào đó có thể làm nhân vật suy sụp.
+Dùng thông tin chương 4 để xây dựng ngoại hình và đặc điểm tính cách. Chọn **[khuynh hướng đạo đức](99-glossary.md#alignment) (alignment)**, tức kim chỉ nam đạo đức dẫn dắt quyết định, và **lý tưởng (ideals)**. Chương 4 cũng giúp xác định những điều nhân vật trân trọng nhất, gọi là **mối gắn bó (bonds)**, cùng những **khuyết điểm (flaws)** một ngày nào đó có thể làm nhân vật suy sụp.
 
 **Xuất thân (background)** mô tả nhân vật đến từ đâu, nghề nghiệp ban đầu và vị trí của nhân vật trong thế giới D&D. DM có thể đề xuất xuất thân ngoài các lựa chọn ở chương 4, hoặc cùng bạn xây dựng một xuất thân phù hợp hơn với ý tưởng nhân vật.
 
@@ -225,7 +225,7 @@ Bob quyết định Bruenor xuất thân từ một dòng dõi quý tộc, nhưn
 
 Bob đã hình dung rõ tính cách nên bỏ qua các gợi ý của xuất thân anh hùng dân gian. Anh ghi Bruenor là một người lùn biết quan tâm, nhạy cảm, thật lòng yêu quý bạn bè và đồng minh, nhưng che giấu trái tim mềm yếu sau vẻ ngoài cộc cằn, hay gầm gừ. Anh chọn lý tưởng **công bằng (fairness)** từ danh sách của xuất thân, ghi rằng Bruenor tin không ai đứng trên luật pháp.
 
-Với quá khứ ấy, mối gắn bó của Bruenor rất rõ: một ngày giành lại **Mithral Hall**, quê hương của mình, từ con rồng bóng tối đã đuổi người lùn đi. Khuyết điểm gắn với bản tính quan tâm, nhạy cảm: anh dễ mềm lòng trước trẻ mồ côi và những người lạc lối, nên có thể tỏ lòng thương ngay cả khi không đáng.
+Với quá khứ ấy, mối gắn bó của Bruenor rất rõ: một ngày giành lại **Mithral Hall**, quê hương của mình, từ con [rồng](99-glossary.md#dragon) bóng tối đã đuổi người lùn đi. Khuyết điểm gắn với bản tính quan tâm, nhạy cảm: anh dễ mềm lòng trước trẻ mồ côi và những người lạc lối, nên có thể tỏ lòng thương ngay cả khi không đáng.
 
 ## 5. Chọn trang bị (Choose Equipment)
 
@@ -235,17 +235,17 @@ Với quá khứ ấy, mối gắn bó của Bruenor rất rõ: một ngày già
 
 Lớp và xuất thân quyết định **trang bị khởi đầu (starting equipment)**, gồm vũ khí, giáp và đồ dùng phiêu lưu khác. Ghi trang bị lên phiếu. Chương 5, “Trang bị”, mô tả chi tiết các món này.
 
-Thay vì nhận trang bị từ lớp và xuất thân, bạn có thể mua trang bị khởi đầu. Lớp cho một lượng **đồng vàng (gold pieces, gp)** để chi tiêu, như ghi ở chương 5. Chương ấy cũng có danh sách trang bị và giá. Nếu muốn, bạn có thể nhận thêm một **đồ lặt vặt (trinket)** miễn phí; xem bảng ở cuối chương 5.
+Thay vì nhận trang bị từ lớp và xuất thân, bạn có thể mua trang bị khởi đầu. Lớp cho một lượng **[đồng vàng](99-glossary.md#gold-piece) (gold pieces, gp)** để chi tiêu, như ghi ở chương 5. Chương ấy cũng có danh sách trang bị và giá. Nếu muốn, bạn có thể nhận thêm một **đồ lặt vặt (trinket)** miễn phí; xem bảng ở cuối chương 5.
 
 Điểm Sức mạnh giới hạn lượng trang bị mang được. Cố tránh mua trang bị có tổng khối lượng tính bằng **pound** vượt quá **điểm Sức mạnh × 15**. Chương 7 có thêm thông tin về sức mang.
 
-### Chỉ số giáp (Armor Class)
+### [Chỉ số giáp](99-glossary.md#armor-class) (Armor Class)
 
 ![Một chiến binh dùng giáp và khiên chặn loạt tên để bảo vệ đồng đội](assets/chapter-01-armor-class.png)
 
 *Chỉ số Giáp biểu thị khả năng tránh hoặc đỡ một đòn tấn công. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-**Chỉ số giáp (Armor Class, AC)** thể hiện khả năng tránh bị thương trong chiến đấu. Những yếu tố góp vào AC gồm giáp đang mặc, khiên đang mang và hệ số Khéo léo. Tuy nhiên, không phải nhân vật nào cũng mặc giáp hoặc dùng khiên.
+**Chỉ số giáp (Armor Class, AC)** thể hiện khả năng tránh bị thương trong chiến đấu. Những yếu tố góp vào AC gồm giáp đang mặc, [khiên](99-glossary.md#shield) đang mang và hệ số Khéo léo. Tuy nhiên, không phải nhân vật nào cũng mặc giáp hoặc dùng khiên.
 
 Khi không mặc giáp và không dùng khiên, **AC = 10 + hệ số Khéo léo**. Nếu mặc giáp, dùng khiên hoặc cả hai, tính AC theo chương 5. Ghi AC lên phiếu.
 
@@ -261,16 +261,16 @@ Một số phép và đặc tính lớp cho cách tính AC khác. Nếu có nhi�
 
 Với mỗi vũ khí nhân vật sử dụng, tính hệ số khi tấn công và sát thương gây ra khi đánh trúng.
 
-Khi tấn công bằng vũ khí, tung **d20**, cộng **thưởng thành thạo** nếu thành thạo vũ khí ấy, rồi cộng **hệ số thuộc tính thích hợp**.
+Khi tấn công bằng vũ khí, tung **[d20](99-glossary.md#dice-notation)**, cộng **thưởng thành thạo** nếu thành thạo vũ khí ấy, rồi cộng **hệ số thuộc tính thích hợp**.
 
-- **Vũ khí cận chiến:** dùng hệ số Sức mạnh cho lần tung tấn công và sát thương. Vũ khí có tính chất **Tinh xảo (finesse)**, như kiếm rapier, có thể dùng hệ số Khéo léo thay thế.
+- **Vũ khí cận chiến:** dùng hệ số Sức mạnh cho lần tung tấn công và sát thương. Vũ khí có tính chất **[Tinh xảo](99-glossary.md#finesse) (finesse)**, như kiếm [rapier](99-glossary.md#rapier), có thể dùng hệ số Khéo léo thay thế.
 - **Vũ khí tầm xa:** dùng hệ số Khéo léo cho lần tung tấn công và sát thương. Vũ khí cận chiến có tính chất **ném (thrown)**, như rìu tay (handaxe), có thể dùng hệ số Sức mạnh thay thế.
 
 ### Tạo Bruenor, bước 5
 
-Bob ghi trang bị khởi đầu từ lớp chiến binh và xuất thân anh hùng dân gian. Trang bị gồm **giáp xích (chain mail)** và **khiên (shield)**, kết hợp cho Bruenor **AC 18**.
+Bob ghi trang bị khởi đầu từ lớp chiến binh và xuất thân anh hùng dân gian. Trang bị gồm **[giáp xích](99-glossary.md#chain-mail) (chain mail)** và **khiên (shield)**, kết hợp cho Bruenor **AC 18**.
 
-Bob chọn **rìu chiến (battleaxe)** và hai **rìu tay (handaxes)**. Rìu chiến là vũ khí cận chiến, nên Bruenor dùng hệ số Sức mạnh cho tấn công và sát thương. Thưởng tấn công là **+3** từ Sức mạnh cộng **+2** thưởng thành thạo, tổng **+5**. Rìu chiến gây **1d8 sát thương chém (slashing damage)**; khi trúng, cộng hệ số Sức mạnh để thành **1d8 + 3 sát thương chém**. Khi ném rìu tay, Bruenor có cùng thưởng tấn công, vì loại vũ khí ném này dùng Sức mạnh cho tấn công và sát thương; một đòn trúng gây **1d6 + 3 sát thương chém**.
+Bob chọn **rìu chiến (battleaxe)** và hai **rìu tay (handaxes)**. Rìu chiến là [vũ khí cận chiến](99-glossary.md#melee-ranged), nên Bruenor dùng hệ số Sức mạnh cho tấn công và sát thương. Thưởng tấn công là **+3** từ Sức mạnh cộng **+2** thưởng thành thạo, tổng **+5**. Rìu chiến gây **1d8 [sát thương chém](99-glossary.md#damage-types) (slashing damage)**; khi trúng, cộng hệ số Sức mạnh để thành **1d8 + 3 sát thương chém**. Khi ném rìu tay, Bruenor có cùng thưởng tấn công, vì loại vũ khí ném này dùng Sức mạnh cho tấn công và sát thương; một đòn trúng gây **1d6 + 3 sát thương chém**.
 
 ## 6. Tập hợp nhóm (Come Together)
 
@@ -278,7 +278,7 @@ Bob chọn **rìu chiến (battleaxe)** và hai **rìu tay (handaxes)**. Rìu ch
 
 *Một nhóm hiệu quả kết hợp thế mạnh và mục tiêu của từng thành viên. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Phần lớn nhân vật D&D không hoạt động một mình. Mỗi nhân vật có một vai trò trong **nhóm phiêu lưu (party)**, một nhóm nhà phiêu lưu hợp tác vì mục đích chung. Làm việc nhóm và hợp tác giúp tăng đáng kể khả năng sống sót trước những hiểm nguy trong thế giới Dungeons & Dragons. Trao đổi với người chơi khác và DM để quyết định nhân vật có quen nhau hay không, gặp nhau thế nào và có thể cùng thực hiện những loại nhiệm vụ gì.
+Phần lớn nhân vật D&D không hoạt động một mình. Mỗi nhân vật có một vai trò trong **[nhóm phiêu lưu](99-glossary.md#party) (party)**, một nhóm nhà phiêu lưu hợp tác vì mục đích chung. Làm việc nhóm và hợp tác giúp tăng đáng kể khả năng sống sót trước những hiểm nguy trong thế giới Dungeons & Dragons. Trao đổi với người chơi khác và DM để quyết định nhân vật có quen nhau hay không, gặp nhau thế nào và có thể cùng thực hiện những loại nhiệm vụ gì.
 
 ## Sau cấp 1 (Beyond 1st Level)
 
@@ -300,7 +300,7 @@ Bảng “Phát triển nhân vật” tóm tắt XP cần để đạt các c�
 
 ![Bốn giai đoạn phiêu lưu từ bảo vệ làng đến bước qua cổng vũ trụ](assets/chapter-01-tiers-of-play.png)
 
-*Các bậc chơi mở rộng quy mô câu chuyện từ anh hùng địa phương đến huyền thoại đa vũ trụ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Các bậc chơi mở rộng quy mô câu chuyện từ anh hùng địa phương đến huyền thoại [đa vũ trụ](99-glossary.md#multiverse). Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Phần tô màu trong bảng phát triển nhân vật của bản gốc chỉ bốn bậc chơi. Các bậc không có quy tắc riêng; chúng mô tả khái quát trải nghiệm chơi thay đổi thế nào khi nhân vật tăng cấp.
 

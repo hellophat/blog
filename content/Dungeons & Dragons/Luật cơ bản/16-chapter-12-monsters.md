@@ -8,7 +8,7 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 110-164.
 
 *Muôn hình sinh vật của thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Là Quản trò (DM), bạn có rất nhiều tài nguyên để khiến trò chơi thú vị và vui vẻ với người chơi—và quái vật đứng đầu danh sách. Quái vật được định nghĩa là bất kỳ sinh vật nào có thể tương tác và có khả năng bị chiến đấu, giết chết. Ngay cả thứ vô hại như ếch hay nhân từ như kỳ lân cũng là quái vật theo định nghĩa này. Thuật ngữ cũng áp dụng cho con người, elf, dwarf và những dân tộc khác có thể là bạn bè hoặc đối thủ của nhân vật người chơi.
+Là [Quản trò](99-glossary.md#dungeon-master) (DM), bạn có rất nhiều tài nguyên để khiến trò chơi thú vị và vui vẻ với người chơi—và [quái vật](99-glossary.md#monster) đứng đầu danh sách. Quái vật được định nghĩa là bất kỳ sinh vật nào có thể tương tác và có khả năng bị chiến đấu, giết chết. Ngay cả thứ vô hại như ếch hay nhân từ như kỳ lân cũng là quái vật theo định nghĩa này. Thuật ngữ cũng áp dụng cho [con người](99-glossary.md#human), [elf](99-glossary.md#elf), dwarf và những dân tộc khác có thể là bạn bè hoặc đối thủ của [nhân vật người chơi](99-glossary.md#player-character).
 
 Chương này trình bày nhiều quái vật sẵn dùng—một phần những gì có trong *Monster Manual*. Mỗi mô tả dùng định dạng chuẩn để giải thích rõ khả năng của quái vật. Hướng dẫn hiểu thông tin trong các thông số quái vật nằm bên dưới.
 
@@ -18,7 +18,7 @@ Chương này trình bày nhiều quái vật sẵn dùng—một phần những
 
 *Khối thông số tập hợp các dữ kiện cần thiết để điều khiển một sinh vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Thông số quái vật, đôi khi gọi là khối thông số (stat block), cung cấp thông tin thiết yếu để bạn điều khiển quái vật.
+Thông số quái vật, đôi khi gọi là [khối thông số](99-glossary.md#stat-block) (stat block), cung cấp thông tin thiết yếu để bạn điều khiển quái vật.
 
 ### Kích cỡ (Size)
 
@@ -30,29 +30,29 @@ Quái vật có thể Rất nhỏ (Tiny), Nhỏ (Small), Trung bình (Medium), L
 
 ### Loại (Type)
 
-Loại quái vật nói lên bản chất căn bản của nó. Một số phép, vật phẩm ma thuật, đặc tính lớp và hiệu ứng khác tương tác đặc biệt với sinh vật thuộc một loại nhất định. Ví dụ, *arrow of dragon slaying* gây thêm sát thương không chỉ cho rồng mà cả sinh vật thuộc loại rồng khác, như dragon turtle và wyvern.
+Loại quái vật nói lên bản chất căn bản của nó. Một số phép, [vật phẩm ma thuật](99-glossary.md#magic-item), [đặc tính lớp](99-glossary.md#class-feature) và hiệu ứng khác tương tác đặc biệt với sinh vật thuộc một loại nhất định. Ví dụ, *arrow of dragon slaying* gây thêm sát thương không chỉ cho [rồng](99-glossary.md#dragon) mà cả sinh vật thuộc loại rồng khác, như dragon turtle và [wyvern](99-glossary.md#wyvern).
 
 Trò chơi có các loại quái vật sau; bản thân các loại không có quy tắc riêng.
 
-**Dị thể (Aberrations)** là những thực thể hoàn toàn xa lạ. Nhiều dị thể có năng lực ma thuật bẩm sinh bắt nguồn từ tâm trí xa lạ của chính nó, thay vì các lực huyền bí của thế giới. Những dị thể tiêu biểu là aboleth, beholder, mind flayer và slaad.
+**Dị thể (Aberrations)** là những thực thể hoàn toàn xa lạ. Nhiều [dị thể](99-glossary.md#aberration) có năng lực ma thuật bẩm sinh bắt nguồn từ tâm trí xa lạ của chính nó, thay vì các lực huyền bí của thế giới. Những dị thể tiêu biểu là aboleth, beholder, mind flayer và slaad.
 
 **Thú (Beasts)** là sinh vật không mang dạng người, thuộc hệ sinh thái tự nhiên của thế giới kỳ ảo. Một số có quyền năng ma thuật, nhưng phần lớn không thông minh và không có xã hội hay ngôn ngữ. Thú gồm mọi động vật thông thường, khủng long và phiên bản khổng lồ của động vật.
 
 **Thiên giới (Celestials)** là sinh vật bản địa của các Thượng giới (Upper Planes). Nhiều sinh vật phục vụ các vị thần, làm sứ giả hoặc đại diện trong cõi phàm và khắp các cõi. Thiên giới có bản chất thiện, nên trường hợp ngoại lệ rời khỏi khuynh hướng thiện là điều hiếm hoi đáng kinh hãi. Thiên giới gồm thiên thần, couatl và pegasus.
 
-**Cấu thể (Constructs)** được chế tạo thay vì sinh ra. Một số được người tạo lập trình tuân theo các chỉ dẫn đơn giản; số khác được ban ý thức và có thể suy nghĩ độc lập. Golem là cấu thể tiêu biểu. Nhiều sinh vật bản địa của ngoại giới Mechanus, như modron, là cấu thể được ý chí của sinh vật quyền năng hơn nặn từ vật chất thô của cõi.
+**Cấu thể (Constructs)** được chế tạo thay vì sinh ra. Một số được người tạo lập trình tuân theo các chỉ dẫn đơn giản; số khác được ban ý thức và có thể suy nghĩ độc lập. [Golem](99-glossary.md#golem) là [cấu thể](99-glossary.md#construct) tiêu biểu. Nhiều sinh vật bản địa của ngoại giới Mechanus, như modron, là cấu thể được ý chí của sinh vật quyền năng hơn nặn từ vật chất thô của cõi.
 
 **Rồng (Dragons)** là sinh vật bò sát lớn, có nguồn gốc cổ xưa và quyền năng to lớn. Rồng thực thụ, gồm rồng kim loại thiện và rồng sắc màu ác, rất thông minh và có ma thuật bẩm sinh. Loại này cũng gồm những họ hàng xa của rồng thực thụ, nhưng kém mạnh, kém thông minh và ít ma thuật hơn, như wyvern và pseudodragon.
 
 **Nguyên tố (Elementals)** là sinh vật bản địa của các cõi nguyên tố. Một số chỉ là những khối nguyên tố tương ứng biết chuyển động, gồm các sinh vật được gọi đơn giản là nguyên tố. Số khác có cơ thể sinh học thấm năng lượng nguyên tố. Các chủng genie, gồm djinn và efreet, tạo nên những nền văn minh quan trọng nhất ở các cõi nguyên tố. Sinh vật nguyên tố khác gồm azer, invisible stalker và water weird.
 
-**Tiên (Fey)** là sinh vật ma thuật gắn chặt với các lực tự nhiên. Chúng sống trong những lùm cây chạng vạng và rừng sương mù. Ở một số thế giới, chúng gắn chặt với Feywild, còn gọi là Cõi Tiên (Plane of Faerie). Một số cũng sống ở Ngoại giới (Outer Planes), đặc biệt là Arborea và Beastlands. Tiên gồm dryad, pixie và satyr.
+**Tiên ([Fey](99-glossary.md#fey))** là sinh vật ma thuật gắn chặt với các lực tự nhiên. Chúng sống trong những lùm cây chạng vạng và rừng sương mù. Ở một số thế giới, chúng gắn chặt với Feywild, còn gọi là Cõi Tiên (Plane of Faerie). Một số cũng sống ở Ngoại giới (Outer Planes), đặc biệt là Arborea và Beastlands. Tiên gồm dryad, pixie và satyr.
 
-**Ác quỷ (Fiends)** là sinh vật tà ác bản địa của các Hạ giới (Lower Planes). Một số ít phục vụ thần linh, nhưng nhiều hơn phục tùng các chúa quỷ địa ngục (archdevils) và hoàng tử quỷ hỗn mang (demon princes). Tu sĩ và pháp sư ác đôi khi triệu hồi ác quỷ đến thế giới vật chất để sai khiến. Nếu thiên giới ác là hiếm hoi thì ác quỷ thiện gần như không thể tưởng tượng. Ác quỷ gồm demon, devil, hell hound, rakshasa và yugoloth.
+**Ác quỷ (Fiends)** là sinh vật tà ác bản địa của các Hạ giới (Lower Planes). Một số ít phục vụ thần linh, nhưng nhiều hơn phục tùng các chúa quỷ địa ngục (archdevils) và hoàng tử quỷ hỗn mang (demon princes). Tu sĩ và [pháp sư](99-glossary.md#wizard) ác đôi khi triệu hồi ác quỷ đến thế giới vật chất để sai khiến. Nếu thiên giới ác là hiếm hoi thì ác quỷ thiện gần như không thể tưởng tượng. Ác quỷ gồm demon, devil, hell hound, rakshasa và yugoloth.
 
-**Khổng nhân (Giants)** cao vượt con người và các dân tộc tương tự. Chúng có hình dạng giống người, dù một số có nhiều đầu (ettin) hoặc dị dạng (fomorian). Sáu loại khổng nhân thực thụ là khổng nhân đồi, đá, băng giá, lửa, mây và bão. Ngoài ra, các sinh vật như ogre và troll cũng thuộc loại khổng nhân.
+**Khổng nhân (Giants)** cao vượt con người và các dân tộc tương tự. Chúng có hình dạng giống người, dù một số có nhiều đầu (ettin) hoặc dị dạng (fomorian). Sáu loại khổng nhân thực thụ là khổng nhân đồi, đá, băng giá, lửa, mây và bão. Ngoài ra, các sinh vật như [ogre](99-glossary.md#ogre) và troll cũng thuộc loại khổng nhân.
 
-**Nhân dạng (Humanoids)** là các dân tộc chính của thế giới D&D, cả văn minh lẫn hoang dã, gồm con người và vô số loài khác. Chúng có ngôn ngữ và văn hóa, ít hoặc không có ma thuật bẩm sinh (dù phần lớn có thể học thi triển phép), và hình dạng đi bằng hai chân. Những chủng nhân dạng thường gặp nhất cũng phù hợp nhất để làm nhân vật người chơi: con người, dwarf, elf và halfling. Các chủng goblinoid (goblin, hobgoblin và bugbear), orc, gnoll, lizardfolk và kobold gần như đông không kém, nhưng hoang dã và tàn bạo hơn nhiều, gần như đồng loạt ác.
+**Nhân dạng (Humanoids)** là các dân tộc chính của thế giới D&D, cả văn minh lẫn hoang dã, gồm con người và vô số loài khác. Chúng có ngôn ngữ và văn hóa, ít hoặc không có ma thuật bẩm sinh (dù phần lớn có thể học [thi triển phép](99-glossary.md#spellcasting)), và hình dạng đi bằng hai chân. Những chủng nhân dạng thường gặp nhất cũng phù hợp nhất để làm nhân vật người chơi: con người, dwarf, elf và [halfling](99-glossary.md#halfling). Các chủng goblinoid ([goblin](99-glossary.md#goblin), hobgoblin và bugbear), [orc](99-glossary.md#orc), [gnoll](99-glossary.md#gnoll), lizardfolk và [kobold](99-glossary.md#kobold) gần như đông không kém, nhưng hoang dã và tàn bạo hơn nhiều, gần như đồng loạt ác.
 
 **Quái thể (Monstrosities)** là quái vật theo nghĩa chặt nhất—sinh vật đáng sợ, không thông thường, không thực sự tự nhiên và hầu như không bao giờ hiền lành. Một số do thí nghiệm ma thuật sai lệch (như owlbear); số khác do lời nguyền khủng khiếp (gồm minotaur và yuan-ti). Chúng khó phân loại; theo nghĩa nào đó, đây là nhóm bao quát sinh vật không khớp bất kỳ loại nào khác.
 
@@ -60,7 +60,7 @@ Trò chơi có các loại quái vật sau; bản thân các loại không có q
 
 **Thực vật (Plants)** trong ngữ cảnh này là sinh vật thực vật, không phải cây cỏ thông thường. Phần lớn có thể đi lại, một số ăn thịt. Shambling mound và treant là thực vật tiêu biểu. Sinh vật nấm như gas spore và myconid cũng thuộc loại này.
 
-**Xác sống (Undead)** là sinh vật từng sống, được đưa vào trạng thái bất tử kinh hoàng bằng ma thuật tử linh hoặc lời nguyền ô uế. Xác sống gồm thi thể đi lại như vampire và zombie, cùng linh thể không thân xác như ghost và specter.
+**Xác sống (Undead)** là sinh vật từng sống, được đưa vào [trạng thái](99-glossary.md#condition) bất tử kinh hoàng bằng ma thuật tử linh hoặc lời nguyền ô uế. Xác sống gồm thi thể đi lại như vampire và zombie, cùng linh thể không thân xác như ghost và specter.
 
 #### Nhãn (Tags)
 
@@ -70,19 +70,19 @@ Quái vật có thể có một hoặc nhiều nhãn trong ngoặc sau loại. V
 
 Khuynh hướng gợi ý tính khí và hành vi của quái vật trong nhập vai hoặc chiến đấu. Ví dụ, quái vật hỗn loạn ác có thể khó thuyết phục và tấn công nhân vật ngay khi thấy; quái vật trung lập có thể sẵn lòng thương lượng. Xem Chương 4 để biết các khuynh hướng.
 
-Khuynh hướng trong khối thông số là mặc định. Bạn có thể đổi nó cho phù hợp chiến dịch. Không gì ngăn bạn có rồng xanh lá thiện hay khổng nhân bão ác.
+Khuynh hướng trong khối thông số là mặc định. Bạn có thể đổi nó cho phù hợp [chiến dịch](99-glossary.md#campaign). Không gì ngăn bạn có rồng xanh lá thiện hay khổng nhân bão ác.
 
 Một số sinh vật có thể mang bất kỳ khuynh hướng nào: bạn tự chọn. Một số mục khuynh hướng thể hiện xu hướng hoặc sự tránh né trật tự, hỗn loạn, thiện, ác. Ví dụ, berserker có thể mang bất kỳ khuynh hướng hỗn loạn nào (hỗn loạn thiện, hỗn loạn trung lập, hỗn loạn ác), phù hợp bản tính hoang dã.
 
 Nhiều sinh vật trí tuệ thấp không hiểu trật tự, hỗn loạn, thiện, ác. Chúng không lựa chọn đạo đức mà hành động theo bản năng. Chúng không khuynh hướng (unaligned), nghĩa là không có khuynh hướng.
 
-### Lớp giáp (Armor Class)
+### Lớp giáp ([Armor Class](99-glossary.md#armor-class))
 
-Quái vật mặc giáp hoặc mang khiên có Lớp giáp (AC) tính từ giáp, khiên và Khéo léo. Nếu không, AC dựa trên hệ số Khéo léo và giáp tự nhiên, nếu có. Giáp tự nhiên, giáp mặc hoặc khiên được ghi trong ngoặc sau giá trị AC.
+Quái vật mặc giáp hoặc mang [khiên](99-glossary.md#shield) có Lớp giáp (AC) tính từ giáp, khiên và [Khéo léo](99-glossary.md#dexterity). Nếu không, AC dựa trên hệ số Khéo léo và giáp tự nhiên, nếu có. Giáp tự nhiên, giáp mặc hoặc khiên được ghi trong ngoặc sau giá trị AC.
 
 ### Điểm sinh lực (Hit Points)
 
-Quái vật thường chết hoặc bị phá hủy khi xuống 0 điểm sinh lực. Xem Chương 1 để biết thêm.
+Quái vật thường chết hoặc bị phá hủy khi xuống 0 [điểm sinh lực](99-glossary.md#hit-points). Xem Chương 1 để biết thêm.
 
 Điểm sinh lực được trình bày bằng cả biểu thức xúc xắc và số trung bình. Ví dụ, quái vật có 2d8 điểm sinh lực có trung bình 9 (2 × 4½).
 
@@ -97,15 +97,15 @@ Kích cỡ quyết định xúc xắc tính điểm sinh lực, theo bảng dư�
 | Trung bình | d8 | 4½ |
 | Lớn | d10 | 5½ |
 | Khổng lồ | d12 | 6½ |
-| Cực đại | d20 | 10½ |
+| Cực đại | [d20](99-glossary.md#dice-notation) | 10½ |
 
-Hệ số Thể chất cũng ảnh hưởng điểm sinh lực: nhân hệ số với số Xúc xắc Sinh lực rồi cộng kết quả vào điểm sinh lực. Ví dụ, Thể chất 12 (hệ số +1) và 2d8 Xúc xắc Sinh lực cho 2d8 + 2 điểm sinh lực (trung bình 11).
+Hệ số [Thể chất](99-glossary.md#constitution) cũng ảnh hưởng điểm sinh lực: nhân hệ số với số Xúc xắc Sinh lực rồi cộng kết quả vào điểm sinh lực. Ví dụ, Thể chất 12 (hệ số +1) và 2d8 Xúc xắc Sinh lực cho 2d8 + 2 điểm sinh lực (trung bình 11).
 
 ### Tốc độ (Speed)
 
 Tốc độ cho biết quái vật đi được bao xa trong lượt. Xem Chương 8 và 9.
 
-Mọi sinh vật có tốc độ đi bộ, thường gọi đơn giản là tốc độ. Sinh vật không có cách di chuyển trên mặt đất có tốc độ đi bộ 0 feet.
+Mọi sinh vật có tốc độ đi bộ, thường gọi đơn giản là tốc độ. Sinh vật không có cách di chuyển trên mặt đất có tốc độ đi bộ 0 [feet](99-glossary.md#feet).
 
 Một số sinh vật có thêm một hoặc nhiều cách di chuyển sau.
 
@@ -119,13 +119,13 @@ Một số sinh vật có thêm một hoặc nhiều cách di chuyển sau.
 
 ### Điểm thuộc tính (Ability Scores)
 
-Mỗi quái vật có sáu điểm thuộc tính (Sức mạnh, Khéo léo, Thể chất, Trí tuệ, Minh triết, Sức hút) cùng hệ số tương ứng. Xem Chương 7 để biết thêm về thuộc tính và cách dùng.
+Mỗi quái vật có sáu [điểm thuộc tính](99-glossary.md#ability-score) ([Sức mạnh](99-glossary.md#strength), Khéo léo, Thể chất, [Trí tuệ](99-glossary.md#intelligence), [Minh triết](99-glossary.md#wisdom), [Sức hút](99-glossary.md#charisma)) cùng hệ số tương ứng. Xem Chương 7 để biết thêm về thuộc tính và cách dùng.
 
 ### Cứu nguy (Saving Throws)
 
-Mục Cứu nguy chỉ dành cho sinh vật giỏi chống một số hiệu ứng. Ví dụ, sinh vật khó bị mê hoặc hoặc hoảng sợ có thể có thưởng cứu nguy Minh triết. Phần lớn không có thưởng cứu nguy đặc biệt nên không có mục này.
+Mục Cứu nguy chỉ dành cho sinh vật giỏi chống một số hiệu ứng. Ví dụ, sinh vật khó bị mê hoặc hoặc hoảng sợ có thể có thưởng [cứu nguy](99-glossary.md#saving-throw) Minh triết. Phần lớn không có thưởng cứu nguy đặc biệt nên không có mục này.
 
-Thưởng cứu nguy bằng hệ số thuộc tính liên quan cộng thưởng thành thạo, được quyết định bởi mức thách thức theo bảng dưới.
+Thưởng cứu nguy bằng [hệ số thuộc tính](99-glossary.md#modifier) liên quan cộng [thưởng thành thạo](99-glossary.md#proficiency), được quyết định bởi [mức thách thức](99-glossary.md#challenge-rating) theo bảng dưới.
 
 #### Thưởng thành thạo theo mức thách thức
 
@@ -169,17 +169,17 @@ Mục Giác quan ghi điểm Minh triết (Nhận biết) thụ động và các
 
 **Thị giác mù (Blindsight).** Quái vật nhận biết xung quanh không dựa vào thị giác trong bán kính nhất định. Sinh vật không mắt như grimlock và gray ooze thường có giác quan này, cũng như sinh vật định vị bằng tiếng vang hoặc có giác quan tăng cường, như dơi và rồng thực thụ. Nếu bẩm sinh mù, quái vật có ghi chú trong ngoặc nêu điều đó; bán kính thị giác mù là tầm nhận biết tối đa.
 
-**Thị giác bóng tối (Darkvision).** Quái vật nhìn trong tối trong bán kính nhất định: ánh sáng yếu như ánh sáng mạnh, bóng tối như ánh sáng yếu. Không phân biệt màu trong bóng tối, chỉ thấy sắc xám. Nhiều sinh vật dưới đất có giác quan này.
+**[Thị giác bóng tối](99-glossary.md#darkvision) (Darkvision).** Quái vật nhìn trong tối trong bán kính nhất định: ánh sáng yếu như ánh sáng mạnh, bóng tối như ánh sáng yếu. Không phân biệt màu trong bóng tối, chỉ thấy sắc xám. Nhiều sinh vật dưới đất có giác quan này.
 
 **Cảm rung (Tremorsense).** Quái vật phát hiện và xác định chính xác nguồn rung động trong bán kính nhất định nếu nó và nguồn cùng tiếp xúc mặt đất hoặc vật chất. Không thể phát hiện sinh vật bay hoặc không có thể xác. Nhiều sinh vật đào đất, như ankheg và umber hulk, có giác quan này.
 
-**Chân thị (Truesight).** Trong tầm nhất định, quái vật nhìn trong bóng tối thông thường và ma thuật, thấy sinh vật/đồ vật vô hình, tự động phát hiện ảo ảnh thị giác và thành công cứu nguy chống chúng, nhận biết dạng gốc của kẻ đổi dạng hoặc sinh vật bị ma thuật biến đổi. Nó còn nhìn vào Cõi Ethereal trong cùng tầm.
+**[Chân thị](99-glossary.md#truesight) (Truesight).** Trong tầm nhất định, quái vật nhìn trong bóng tối thông thường và ma thuật, thấy sinh vật/đồ vật vô hình, tự động phát hiện ảo ảnh thị giác và thành công cứu nguy chống chúng, nhận biết dạng gốc của kẻ đổi dạng hoặc sinh vật bị ma thuật biến đổi. Nó còn nhìn vào Cõi Ethereal trong cùng tầm.
 
 ### Ngôn ngữ (Languages)
 
 Ngôn ngữ quái vật nói được liệt kê theo thứ tự chữ cái. Đôi khi nó hiểu nhưng không nói được, được ghi rõ. “—” nghĩa là không nói và không hiểu ngôn ngữ nào.
 
-#### Thần giao cách cảm (Telepathy)
+#### [Thần giao cách cảm](99-glossary.md#telepathy) (Telepathy)
 
 Đây là khả năng ma thuật cho phép quái vật giao tiếp bằng tâm trí với sinh vật khác trong tầm xác định. Sinh vật được liên hệ không cần chung ngôn ngữ, nhưng phải hiểu ít nhất một ngôn ngữ. Sinh vật không có khả năng này vẫn nhận và đáp thông điệp, nhưng không thể bắt đầu hoặc chấm dứt cuộc trò chuyện thần giao cách cảm.
 
@@ -191,11 +191,11 @@ Sinh vật trong vùng *Trường phản ma thuật (antimagic field)* hoặc n�
 
 ![Nữ chiến thuật gia đánh giá mức đe dọa của nhiều quái vật](assets/chapter-12-challenge-traits.png)
 
-*Chỉ số thách thức giúp DM ước lượng mức nguy hiểm của một cuộc chạm trán. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Chỉ số thách thức giúp DM ước lượng mức nguy hiểm của một [cuộc chạm trán](99-glossary.md#encounter). Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Mức thách thức cho biết quái vật nguy hiểm đến đâu theo hướng dẫn xây dựng cuộc chạm trán ở Chương 13. Hướng dẫn nêu số nhà phiêu lưu ở cấp nhất định nên có thể đánh bại quái vật ở mức thách thức nhất định mà không ai chết.
+Mức thách thức cho biết quái vật nguy hiểm đến đâu theo hướng dẫn xây dựng cuộc chạm trán ở Chương 13. Hướng dẫn nêu số [nhà phiêu lưu](99-glossary.md#adventurer) ở cấp nhất định nên có thể đánh bại quái vật ở mức thách thức nhất định mà không ai chết.
 
-Quái vật yếu hơn đáng kể so với nhân vật cấp 1 có mức thách thức dưới 1. Quái vật thách thức 0 không đáng kể trừ khi đông: không có đòn tấn công hiệu quả thì không đáng XP; có đòn tấn công thì đáng 10 XP mỗi con.
+Quái vật yếu hơn đáng kể so với nhân vật cấp 1 có mức thách thức dưới 1. Quái vật thách thức 0 không đáng kể trừ khi đông: không có đòn tấn công hiệu quả thì không đáng [XP](99-glossary.md#experience-points); có đòn tấn công thì đáng 10 XP mỗi con.
 
 Một số quái vật khó hơn cả nhóm cấp 20 điển hình có thể xử lý. Chúng có thách thức 21 trở lên và được thiết kế riêng để thử kỹ năng người chơi.
 
@@ -235,19 +235,19 @@ Chương 13 giải thích tạo cuộc chạm trán bằng ngân sách XP và đ
 
 #### Thi triển phép bẩm sinh (Innate Spellcasting)
 
-Quái vật có khả năng thi triển phép bẩm sinh có đặc tính này. Trừ khi ghi khác, phép bẩm sinh bậc 1 trở lên luôn thi triển ở bậc thấp nhất có thể, không nâng bậc. Nếu phép sơ cấp cần biết cấp nhưng không ghi, dùng mức thách thức.
+Quái vật có khả năng thi triển phép bẩm sinh có đặc tính này. Trừ khi ghi khác, phép bẩm sinh bậc 1 trở lên luôn thi triển ở bậc thấp nhất có thể, không nâng bậc. Nếu [phép sơ cấp](99-glossary.md#cantrip) cần biết cấp nhưng không ghi, dùng mức thách thức.
 
 Phép bẩm sinh có thể có quy tắc hoặc hạn chế riêng. Ví dụ, drow mage có thể thi triển *Nâng lơ lửng (levitate)* bẩm sinh nhưng “chỉ bản thân”, nên phép chỉ ảnh hưởng chính drow mage.
 
-Không thể thay phép bẩm sinh bằng phép khác. Nếu chúng không cần tung tấn công, không ghi thưởng tấn công.
+Không thể thay phép bẩm sinh bằng phép khác. Nếu chúng không cần [tung tấn công](99-glossary.md#attack-roll), không ghi thưởng tấn công.
 
 #### Thi triển phép (Spellcasting)
 
-Quái vật có đặc tính lớp này có cấp người thi triển và ô phép, dùng để thi triển phép bậc 1 trở lên (theo Chương 10). Cấp người thi triển cũng áp dụng cho phép sơ cấp trong đặc tính.
+Quái vật có đặc tính lớp này có cấp người thi triển và [ô phép](99-glossary.md#spell-slot), dùng để thi triển phép bậc 1 trở lên (theo Chương 10). Cấp người thi triển cũng áp dụng cho phép sơ cấp trong đặc tính.
 
-Quái vật có danh sách phép đã biết hoặc chuẩn bị của một lớp nhất định; có thể gồm phép từ đặc tính lớp như Lãnh vực Thần thánh của giáo sĩ. Nó được coi là thành viên lớp ấy khi hòa hợp hoặc dùng vật phẩm ma thuật đòi hỏi thuộc lớp hoặc tiếp cận danh sách phép lớp.
+Quái vật có danh sách phép đã biết hoặc chuẩn bị của một lớp nhất định; có thể gồm phép từ đặc tính lớp như Lãnh vực Thần thánh của [giáo sĩ](99-glossary.md#cleric). Nó được coi là thành viên lớp ấy khi [hòa hợp](99-glossary.md#attunement) hoặc dùng vật phẩm ma thuật đòi hỏi thuộc lớp hoặc tiếp cận danh sách phép lớp.
 
-Nó có thể nâng bậc phép trong danh sách nếu có ô tương ứng. Ví dụ, drow mage có *Tia sét (lightning bolt)* bậc 3 có thể dùng ô bậc 5 để thi triển ở bậc 5.
+Nó có thể nâng [bậc phép](99-glossary.md#spell-level) trong danh sách nếu có ô tương ứng. Ví dụ, drow mage có *Tia sét (lightning bolt)* bậc 3 có thể dùng ô bậc 5 để thi triển ở bậc 5.
 
 Bạn có thể thay phép đã biết/chuẩn bị bằng phép khác cùng bậc và cùng danh sách lớp. Điều này có thể khiến quái vật nguy hiểm hơn hoặc kém hơn mức thách thức gợi ý.
 
@@ -285,17 +285,17 @@ Nếu quái vật có phản ứng đặc biệt, thông tin được ghi ở đ
 
 Một số khả năng đặc biệt bị giới hạn số lần dùng.
 
-**X/ngày (X/Day).** Dùng X lần và phải hoàn tất nghỉ dài để hồi số lần đã dùng. Ví dụ, “1/ngày” dùng một lần rồi cần nghỉ dài để dùng lại.
+**X/ngày (X/Day).** Dùng X lần và phải hoàn tất [nghỉ dài](99-glossary.md#long-rest) để hồi số lần đã dùng. Ví dụ, “1/ngày” dùng một lần rồi cần nghỉ dài để dùng lại.
 
-**Hồi X-Y (Recharge X-Y).** Dùng một lần, rồi có cơ hội hồi ngẫu nhiên mỗi vòng chiến đấu tiếp theo. Đầu mỗi lượt quái vật, tung d6; nếu ra số trong khoảng hồi, khả năng dùng lại được. Khả năng cũng hồi khi hoàn tất nghỉ ngắn hoặc dài. Ví dụ, “Hồi 5-6” cho dùng một lần; đầu lượt sau, tung d6 ra 5 hoặc 6 thì hồi.
+**Hồi X-Y (Recharge X-Y).** Dùng một lần, rồi có cơ hội hồi ngẫu nhiên mỗi vòng chiến đấu tiếp theo. Đầu mỗi lượt quái vật, tung d6; nếu ra số trong khoảng hồi, khả năng dùng lại được. Khả năng cũng hồi khi hoàn tất [nghỉ ngắn](99-glossary.md#short-rest) hoặc dài. Ví dụ, “[Hồi 5-6](99-glossary.md#recharge)” cho dùng một lần; đầu lượt sau, tung d6 ra 5 hoặc 6 thì hồi.
 
 **Hồi sau nghỉ ngắn hoặc dài.** Dùng một lần rồi phải hoàn tất nghỉ ngắn hoặc dài để dùng lại.
 
-#### Quy tắc vật lộn của quái vật
+#### Quy tắc [vật lộn](99-glossary.md#grapple) của quái vật
 
 Nhiều quái vật có đòn đặc biệt nhanh chóng vật lộn con mồi. Khi trúng bằng đòn ấy, không cần kiểm tra thuộc tính bổ sung để xác định thành công, trừ khi đòn ghi khác.
 
-Sinh vật bị quái vật vật lộn có thể dùng hành động thoát: thành công kiểm tra Sức mạnh (Thể thao) hoặc Khéo léo (Nhào lộn) với DC thoát trong khối thông số. Nếu không ghi, DC là 10 + hệ số Sức mạnh (Thể thao) của quái vật.
+Sinh vật bị quái vật vật lộn có thể dùng hành động thoát: thành công kiểm tra Sức mạnh (Thể thao) hoặc Khéo léo (Nhào lộn) với [DC](99-glossary.md#difficulty-class) thoát trong khối thông số. Nếu không ghi, DC là 10 + hệ số Sức mạnh (Thể thao) của quái vật.
 
 ### Trang bị (Equipment)
 
@@ -303,7 +303,7 @@ Khối thông số hiếm khi nhắc trang bị ngoài giáp/vũ khí. Sinh vậ
 
 Bạn có thể cho thêm đồ và vật nhỏ tùy ý, lấy ý tưởng từ Chương 5; bạn quyết định phần nào có thể thu hồi sau khi quái vật chết và còn dùng được không. Ví dụ, giáp hư hỏng làm cho quái vật hiếm khi người khác dùng được.
 
-Nếu quái vật thi triển phép cần thành phần vật chất, coi nó có đủ thành phần cho các phép trong khối thông số.
+Nếu quái vật thi triển phép cần [thành phần vật chất](99-glossary.md#components), coi nó có đủ thành phần cho các phép trong khối thông số.
 
 ## Sinh vật huyền thoại (Legendary Creatures)
 
@@ -311,7 +311,7 @@ Nếu quái vật thi triển phép cần thành phần vật chất, coi nó c�
 
 *Sinh vật huyền thoại có thể chi phối cả chiến trường lẫn hang ổ quanh mình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Sinh vật huyền thoại làm được điều sinh vật thường không thể. Nó có thể hành động đặc biệt ngoài lượt và tác động ma thuật lên vùng xung quanh nhiều mile. Sinh vật nhận dạng của sinh vật huyền thoại, chẳng hạn bằng phép, không nhận hành động huyền thoại, hành động hang ổ hoặc hiệu ứng khu vực của dạng đó.
+Sinh vật huyền thoại làm được điều sinh vật thường không thể. Nó có thể hành động đặc biệt ngoài lượt và tác động ma thuật lên vùng xung quanh nhiều mile. Sinh vật nhận dạng của sinh vật huyền thoại, chẳng hạn bằng phép, không nhận [hành động huyền thoại](99-glossary.md#legendary-actions), [hành động hang ổ](99-glossary.md#lair-actions) hoặc hiệu ứng khu vực của dạng đó.
 
 ### Hành động huyền thoại (Legendary Actions)
 
@@ -360,9 +360,9 @@ Chỉ sự hiện diện của sinh vật huyền thoại có thể gây hiệu 
 
 **Đa đòn (Multiattack).** Rồng có thể dùng Hiện diện đáng sợ, rồi thực hiện ba đòn: một Cắn và hai Vuốt.
 
-**Cắn (Bite).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 10 feet, một mục tiêu. Trúng: 19 (2d10 + 8) sát thương xuyên cộng 7 (2d6) sát thương lửa.
+**Cắn (Bite).** Tấn công [vũ khí cận chiến](99-glossary.md#melee-ranged): +14 để trúng, [tầm với](99-glossary.md#reach) 10 feet, một mục tiêu. Trúng: 19 (2d10 + 8) sát thương xuyên cộng 7 (2d6) sát thương lửa.
 
-**Vuốt (Claw).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 15 (2d6 + 8) sát thương chém.
+**Vuốt (Claw).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 15 (2d6 + 8) [sát thương chém](99-glossary.md#damage-types).
 
 **Đuôi (Tail).** Tấn công vũ khí cận chiến: +14 để trúng, tầm với 15 feet, một mục tiêu. Trúng: 17 (2d8 + 8) sát thương đập.
 
@@ -402,7 +402,7 @@ Khắp quần thể hang ổ, tôi tớ dựng tượng đài quyền lực rồ
 
 Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 
-### Nguyên tố khí (Air Elemental)
+### [Nguyên tố khí](99-glossary.md#elemental) (Air Elemental)
 
 ![Pháp sư elf điều hòa các nguyên tố khí đất lửa và nước](assets/chapter-12-elementals.png)
 
@@ -420,7 +420,7 @@ Nếu rồng chết, hiệu ứng tan trong 1d10 ngày.
 
 **Kháng sát thương:** sét, sấm; đập, xuyên, và chém từ đòn tấn công không ma thuật.  
 **Miễn nhiễm sát thương:** độc.  
-**Miễn nhiễm trạng thái:** kiệt sức, bị vật lộn, tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ, bất tỉnh.  
+**Miễn nhiễm trạng thái:** kiệt sức, [bị vật lộn](99-glossary.md#grappled), tê liệt, hóa đá, trúng độc, ngã sấp, kiềm giữ, bất tỉnh.  
 **Giác quan:** thị giác bóng tối 60 feet, Nhận biết thụ động 10.  
 **Ngôn ngữ:** Auran.  
 **Thách thức:** 5 (1,800 XP).
@@ -458,7 +458,7 @@ Nguyên tố khí là mây không khí xoáy hình phễu với nét mặt mơ h
 **Ngôn ngữ:** —.  
 **Thách thức:** 2 (450 XP).
 
-**Vồ (Pounce).** Nếu đi thẳng ít nhất 30 feet về sinh vật rồi trúng nó bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu mục tiêu ngã sấp, allosaurus có thể Cắn một lần bằng hành động phụ.
+**Vồ (Pounce).** Nếu đi thẳng ít nhất 30 feet về sinh vật rồi trúng nó bằng Vuốt cùng lượt, mục tiêu phải thành công cứu nguy Sức mạnh DC 13 hoặc ngã sấp. Nếu mục tiêu ngã sấp, allosaurus có thể Cắn một lần bằng [hành động phụ](99-glossary.md#action).
 
 #### Hành động
 
@@ -500,7 +500,7 @@ Allosaurus là khủng long săn mồi to lớn, mạnh và nhanh. Nó đuổi k
 
 **Đập (Slam).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d6 + 2) sát thương đập.
 
-Bộ giáp tấm được ma thuật ban chuyển động kêu rầm rĩ khi đi, va đập và nghiến như linh hồn báo thù của hiệp sĩ tử trận.
+Bộ [giáp tấm](99-glossary.md#plate-armor) được ma thuật ban chuyển động kêu rầm rĩ khi đi, va đập và nghiến như linh hồn báo thù của hiệp sĩ tử trận.
 
 ### Khủng long Ankylosaurus (Ankylosaurus)
 
@@ -643,7 +643,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 **Ngôn ngữ:** —.  
 **Thách thức:** 0 (10 XP).
 
-**Chiến thuật bầy đàn (Pack Tactics).** Có lợi thế khi tung tấn công sinh vật nếu ít nhất một đồng minh của khỉ trong 5 feet của sinh vật đó và không mất năng lực hành động.
+**Chiến thuật bầy đàn (Pack Tactics).** Có [lợi thế](99-glossary.md#advantage) khi tung tấn công sinh vật nếu ít nhất một đồng minh của khỉ trong 5 feet của sinh vật đó và không mất năng lực hành động.
 
 #### Hành động
 
@@ -671,13 +671,13 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +2 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 1 sát thương xuyên.
 
-### Nữ yêu than khóc (Banshee)
+### [Nữ yêu than khóc](99-glossary.md#banshee) (Banshee)
 
 ![Tu sĩ nam dựng ánh sáng bảo hộ trước nhiều dạng bất tử](assets/chapter-12-undead.png)
 
 *Sinh vật bất tử tồn tại dưới nhiều hình thái, từ linh hồn vất vưởng đến xác chết chuyển động. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-*Trung bình xác sống, hỗn loạn ác*
+*Trung bình [xác sống](99-glossary.md#undead), hỗn loạn ác*
 
 **AC:** 12.  
 **HP:** 58 (13d8).  
@@ -697,7 +697,7 @@ Giáp dày phủ khủng long ăn thực vật ankylosaurus; nó tự vệ trư�
 
 **Phát hiện sự sống (Detect Life).** Cảm nhận bằng ma thuật sự hiện diện sinh vật không phải xác sống/cấu thể trong tối đa 5 mile. Biết hướng chung, không biết vị trí chính xác.
 
-**Di chuyển phi thể xác (Incorporeal Movement).** Đi xuyên sinh vật và đồ vật như địa hình khó đi. Chịu 5 (1d10) sát thương lực nếu kết thúc lượt trong đồ vật.
+**Di chuyển phi thể xác (Incorporeal Movement).** Đi xuyên sinh vật và đồ vật như [địa hình khó](99-glossary.md#difficult-terrain) đi. Chịu 5 (1d10) sát thương lực nếu kết thúc lượt trong đồ vật.
 
 #### Hành động
 
@@ -733,11 +733,11 @@ Banshee đau khổ là sinh vật hiểm độc hình thành từ linh hồn elf
 
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +0 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên.
 
-### Basilisk (Basilisk)
+### [Basilisk](99-glossary.md#basilisk) (Basilisk)
 
 ![Thợ săn tiefling lần theo dấu vết của nhiều quái thú dị hình](assets/chapter-12-monstrosities.png)
 
-*Những quái thú dị hình kết hợp đặc điểm kỳ lạ, bản năng săn mồi và năng lực siêu nhiên. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Những [quái thú dị hình](99-glossary.md#monstrosity) kết hợp đặc điểm kỳ lạ, bản năng săn mồi và năng lực siêu nhiên. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Trung bình quái thể, không khuynh hướng*
 
@@ -1000,7 +1000,7 @@ Bugbear là goblinoid nhiều lông sinh ra để chiến đấu và gây hỗn 
 
 Nhân mã có thân ngựa lớn với phần thân trên, đầu và tay của nhân dạng. Là kẻ lang thang ẩn dật, chúng tránh xung đột nhưng chiến đấu dữ dội khi bị ép.
 
-### Chimera (Chimera)
+### [Chimera](99-glossary.md#chimera) (Chimera)
 
 *Lớn quái thể, hỗn loạn ác*
 
@@ -1031,7 +1031,7 @@ Nhân mã có thân ngựa lớn với phần thân trên, đầu và tay của 
 
 Chimera là tổ hợp ghê tởm của dê, sư tử và rồng, có đầu cả ba. Nó thích bổ nhào từ trời và nuốt con mồi trong hơi thở lửa trước khi đáp xuống tấn công.
 
-### Cockatrice (Cockatrice)
+### [Cockatrice](99-glossary.md#cockatrice) (Cockatrice)
 
 *Nhỏ quái thể, không khuynh hướng*
 
@@ -1568,7 +1568,7 @@ Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 **Ngôn ngữ:** —.  
 **Thách thức:** 1/4 (50 XP).
 
-**Dễ bị phản ma thuật (Antimagic Susceptibility).** Mất năng lực hành động trong *Trường phản ma thuật (antimagic field)*. Nếu bị *Giải trừ ma thuật (dispel magic)* nhắm, phải thành công cứu nguy Thể chất với DC cứu nguy phép của người thi triển hoặc bất tỉnh 1 phút.
+**Dễ bị phản ma thuật (Antimagic Susceptibility).** [Mất năng lực hành động](99-glossary.md#incapacitated) trong *Trường phản ma thuật (antimagic field)*. Nếu bị *Giải trừ ma thuật (dispel magic)* nhắm, phải thành công cứu nguy Thể chất với DC cứu nguy phép của người thi triển hoặc bất tỉnh 1 phút.
 
 **Vẻ ngoài giả (False Appearance).** Khi bất động và không bay, không thể phân biệt với kiếm bình thường.
 
@@ -1576,7 +1576,7 @@ Rắn bay là rắn có cánh, màu sắc rực rỡ, ở rừng rậm xa xôi.
 
 **Kiếm dài (Longsword).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 5 (1d8 + 1) sát thương chém.
 
-Kiếm bay được ma thuật ban chuyển động múa qua không trung, chiến đấu như chiến binh không thể bị thương.
+Kiếm bay được ma thuật ban chuyển động múa qua không trung, chiến đấu như [chiến binh](99-glossary.md#fighter) không thể bị thương.
 
 ### Ếch (Frog)
 
@@ -2019,7 +2019,7 @@ Bọ lửa khổng lồ sống về đêm, có hai tuyến phát sáng tiếp t�
 
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +3 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 4 (1d6 + 1) sát thương xuyên; mục tiêu bị vật lộn (DC thoát 11). Đến khi vật lộn kết thúc, mục tiêu bị kiềm giữ và ếch không thể Cắn mục tiêu khác.
 
-**Nuốt (Swallow).** Cắn một lần vào mục tiêu Nhỏ trở xuống đang bị nó vật lộn. Nếu trúng, nuốt mục tiêu và vật lộn kết thúc. Mục tiêu bị nuốt mù và kiềm giữ, có che chắn toàn bộ trước tấn công/hiệu ứng ngoài ếch, chịu 5 (2d4) sát thương axit đầu mỗi lượt ếch. Mỗi lần chỉ chứa một mục tiêu bị nuốt.
+**Nuốt (Swallow).** Cắn một lần vào mục tiêu Nhỏ trở xuống đang bị nó vật lộn. Nếu trúng, nuốt mục tiêu và vật lộn kết thúc. Mục tiêu bị nuốt mù và kiềm giữ, có [che chắn](99-glossary.md#cover) toàn bộ trước tấn công/hiệu ứng ngoài ếch, chịu 5 (2d4) sát thương axit đầu mỗi lượt ếch. Mỗi lần chỉ chứa một mục tiêu bị nuốt.
 
 Nếu ếch chết, sinh vật bị nuốt không còn bị nó kiềm giữ, có thể dùng 5 feet di chuyển thoát xác, ra ngoài ở tư thế ngã sấp.
 
@@ -2490,7 +2490,7 @@ Gnoll là nhân dạng đầu linh cẩu hoang dã, tấn công không báo trư
 
 ![Nữ sứ giả elf điều đình giữa nhiều cộng đồng hình người](assets/chapter-12-humanoids.png)
 
-*Các cộng đồng hình người có tổ chức, tập quán và động cơ riêng trong thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Các cộng đồng [hình người](99-glossary.md#humanoid) có tổ chức, tập quán và động cơ riêng trong thế giới phiêu lưu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Nhỏ nhân dạng (goblinoid), trung lập ác*
 
@@ -2718,7 +2718,7 @@ Khổng nhân đồi là kẻ vũ phu ích kỷ, đần độn, săn và cướp
 
 *Trung bình nhân dạng (goblinoid), trật tự ác*
 
-**AC:** 18 (giáp xích, khiên).  
+**AC:** 18 ([giáp xích](99-glossary.md#chain-mail), khiên).  
 **HP:** 11 (2d8 + 2).  
 **Tốc độ:** 30 feet.  
 
@@ -3015,7 +3015,7 @@ Người thằn lằn là nhân dạng bò sát nguyên thủy nấp trong đầ
 
 Ma mút là sinh vật dạng voi lông dày, ngà dài.
 
-### Manticore (Manticore)
+### [Manticore](99-glossary.md#manticore) (Manticore)
 
 *Lớn quái thể, trật tự ác*
 
@@ -3087,7 +3087,7 @@ Chó ngao là chó săn ấn tượng được nhân dạng quý vì trung thàn
 **Ngôn ngữ:** Common.  
 **Thách thức:** 6 (2,300 XP).
 
-**Ánh nhìn hóa đá (Petrifying Gaze).** Khi sinh vật thấy mắt medusa bắt đầu lượt trong 30 feet, medusa không mất năng lực hành động và thấy nó có thể buộc cứu nguy Thể chất DC 14. Thiếu DC ít nhất 5: lập tức hóa đá. Thất bại khác: bắt đầu hóa đá và bị kiềm giữ; cứu nguy lại cuối lượt tiếp theo, thất bại hóa đá, thành công chấm dứt hiệu ứng. Hóa đá tồn tại đến khi *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
+**Ánh nhìn hóa đá (Petrifying Gaze).** Khi sinh vật thấy mắt medusa bắt đầu lượt trong 30 feet, medusa không mất năng lực hành động và thấy nó có thể buộc cứu nguy Thể chất DC 14. Thiếu DC ít nhất 5: lập tức hóa đá. Thất bại khác: bắt đầu hóa đá và bị kiềm giữ; cứu nguy lại cuối lượt tiếp theo, thất bại hóa đá, thành công chấm dứt hiệu ứng. [Hóa đá](99-glossary.md#petrified) tồn tại đến khi *Phục hồi cao cấp (greater restoration)* hoặc ma thuật khác giải phóng.
 
 Trừ khi bất ngờ, sinh vật có thể tránh mắt để không cứu nguy đầu lượt; không thấy medusa đến đầu lượt tiếp theo, khi có thể tránh mắt tiếp. Nếu nhìn medusa trong thời gian đó, phải cứu nguy ngay.
 
@@ -3412,7 +3412,7 @@ Orc là nhân dạng hoang dã dáng khom, mặt như lợn và răng nhô như 
 
 **Vuốt (Claws).** Tấn công vũ khí cận chiến: +7 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 14 (2d8 + 5) sát thương chém.
 
-Giống lai quái dị cú khổng lồ và gấu, gấu cú nổi tiếng hung dữ, hiếu chiến nên là một trong những thú săn mồi hoang dã đáng sợ nhất.
+Giống lai quái dị cú khổng lồ và gấu, [gấu cú](99-glossary.md#owlbear) nổi tiếng hung dữ, hiếu chiến nên là một trong những thú săn mồi hoang dã đáng sợ nhất.
 
 ### Báo (Panther)
 
@@ -3934,7 +3934,7 @@ Spectator là loại beholder cấp thấp—dị thể ghê tởm, chết chóc
 
 **Cắn (Bite).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 1 sát thương xuyên; phải thành công cứu nguy Thể chất DC 9 hoặc chịu 2 (1d4) sát thương độc.
 
-### Stirge (Stirge)
+### [Stirge](99-glossary.md#stirge) (Stirge)
 
 *Rất nhỏ thú, không khuynh hướng*
 
@@ -4200,7 +4200,7 @@ Golem đá là cấu thể ma thuật cắt/đục từ đá thành tượng cao
 
 Một trong các khủng long ăn cỏ hung hăng nhất, triceratops có sừng lớn và tốc độ đáng gờm để húc/giẫm chết thú săn mồi định tấn công.
 
-### Troll (Troll)
+### [Troll](99-glossary.md#troll) (Troll)
 
 *Lớn khổng nhân, hỗn loạn ác*
 
@@ -4416,7 +4416,7 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 **Đa đòn (Multiattack; chỉ dạng nhân dạng hoặc lai).** Hai đòn Giáo (nhân dạng) hoặc một Cắn và một Vuốt (lai).
 
-**Cắn (Bite; chỉ dạng sói hoặc lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên. Nếu là nhân dạng, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền hóa người sói (werewolf lycanthropy).
+**Cắn (Bite; chỉ dạng sói hoặc lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một mục tiêu. Trúng: 6 (1d8 + 2) sát thương xuyên. Nếu là nhân dạng, phải thành công cứu nguy Thể chất DC 12 hoặc chịu lời nguyền hóa [người sói](99-glossary.md#lycanthrope) (werewolf lycanthropy).
 
 **Vuốt (Claws; chỉ dạng lai).** Tấn công vũ khí cận chiến: +4 để trúng, tầm với 5 feet, một sinh vật. Trúng: 7 (2d4 + 2) sát thương chém.
 
@@ -4424,7 +4424,7 @@ Bản địa Cõi Nguyên tố Nước và được triệu hồi đến thế g
 
 Người sói là thú săn mồi hoang dã xuất hiện dạng nhân dạng, sói hoặc dạng lai đáng sợ—thân nhân dạng cơ bắp, nhiều lông với đầu sói hung đói.
 
-### Wight (Wight)
+### [Wight](99-glossary.md#wight) (Wight)
 
 *Trung bình xác sống, trung lập ác*
 
@@ -4670,7 +4670,7 @@ Zombie xác sống đi giật cục, không đều. Chúng mặc đồ mốc t�
 
 ![Đội trưởng điều phối nhiều nhân vật trong quảng trường thị trấn](assets/chapter-12-npcs.png)
 
-*Các khối thông số NPC giúp DM nhanh chóng đưa đồng minh, đối thủ và cư dân vào cuộc chơi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Các khối thông số [NPC](99-glossary.md#npc) giúp DM nhanh chóng đưa đồng minh, đối thủ và cư dân vào cuộc chơi. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Phần này chứa thông số các nhân vật không phải người chơi (NPC) nhân dạng mà nhà phiêu lưu có thể gặp trong chiến dịch D&D. Khối thông số dùng được cho NPC con người và các chủng khác.
 
@@ -4678,13 +4678,13 @@ Phần này chứa thông số các nhân vật không phải người chơi (NP
 
 Có nhiều cách dễ dàng tùy chỉnh NPC trong phụ lục này cho chiến dịch tại nhà.
 
-**Đặc tính chủng tộc.** Có thể thêm đặc tính chủng cho NPC. Ví dụ, tu sĩ halfling có thể có tốc độ 25 feet và May mắn (Lucky). Thêm đặc tính chủng không đổi mức thách thức. Xem Chương 2.
+**Đặc tính [chủng tộc](99-glossary.md#race).** Có thể thêm đặc tính chủng cho NPC. Ví dụ, tu sĩ halfling có thể có tốc độ 25 feet và May mắn (Lucky). Thêm đặc tính chủng không đổi mức thách thức. Xem Chương 2.
 
 **Thay phép.** Một cách tùy chỉnh NPC thi triển phép là thay một hoặc nhiều phép. Có thể thay bất kỳ phép nào trong danh sách NPC bằng phép khác cùng bậc, cùng danh sách phép. Thay theo cách này không đổi mức thách thức.
 
 **Thay giáp và vũ khí.** Có thể nâng/hạ giáp hoặc thêm/đổi vũ khí. Điều chỉnh AC và sát thương có thể đổi mức thách thức.
 
-**Vật phẩm ma thuật.** NPC càng mạnh càng có khả năng sở hữu một hoặc nhiều vật phẩm ma thuật. Ví dụ, mage có thể có trượng/đũa ma thuật cùng một hoặc nhiều thuốc, cuộn phép. Cho NPC vật phẩm ma thuật gây sát thương mạnh có thể đổi mức thách thức. Một số vật phẩm được mô tả ở Chương 14.
+**Vật phẩm ma thuật.** NPC càng mạnh càng có khả năng sở hữu một hoặc nhiều vật phẩm ma thuật. Ví dụ, mage có thể có trượng/đũa ma thuật cùng một hoặc nhiều thuốc, [cuộn phép](99-glossary.md#spell-scroll). Cho NPC vật phẩm ma thuật gây sát thương mạnh có thể đổi mức thách thức. Một số vật phẩm được mô tả ở Chương 14.
 
 ### Tu sinh (Acolyte)
 
@@ -4891,7 +4891,7 @@ Hiệp sĩ là chiến binh thề phục vụ người cai trị, dòng tu hoặ
 - Bậc 1 (4 ô): *Phát hiện ma thuật (detect magic), Giáp pháp sư (mage armor), Phi tiêu ma thuật (magic missile), Khiên (shield)*.
 - Bậc 2 (3 ô): *Bước sương (misty step), Gợi ý (suggestion)*.
 - Bậc 3 (3 ô): *Phản phép (counterspell), Quả cầu lửa (fireball), Bay (fly)*.
-- Bậc 4 (3 ô): *Vô hình cao cấp (greater invisibility), Bão băng (ice storm)*.
+- Bậc 4 (3 ô): *[Vô hình](99-glossary.md#invisible) cao cấp (greater invisibility), Bão băng (ice storm)*.
 - Bậc 5 (1 ô): *Nón băng giá (cone of cold)*.
 
 #### Hành động

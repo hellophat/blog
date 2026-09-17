@@ -6,7 +6,7 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 165-167.
 
 ![Nữ Quản trò xây dựng một cuộc chạm trán trên sa bàn kỳ ảo](assets/chapter-13-encounters-cover.png)
 
-*Thiết kế cuộc chạm trán kết hợp trí tưởng tượng, thử thách và niềm vui của cả nhóm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Thiết kế [cuộc chạm trán](99-glossary.md#encounter) kết hợp trí tưởng tượng, thử thách và niềm vui của cả nhóm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Khi tạo cuộc chạm trán chiến đấu, hãy để trí tưởng tượng tự do và xây dựng điều người chơi sẽ thích. Sau khi xác định các chi tiết, dùng phần này để điều chỉnh độ khó cuộc chạm trán.
 
@@ -18,15 +18,15 @@ Khi tạo cuộc chạm trán chiến đấu, hãy để trí tưởng tượng 
 
 Có bốn mức độ khó.
 
-**Dễ (Easy).** Cuộc chạm trán dễ không làm hao tổn đáng kể tài nguyên nhân vật hoặc đặt họ vào hiểm nguy nghiêm trọng. Họ có thể mất vài điểm sinh lực, nhưng gần như chắc chắn thắng.
+**Dễ (Easy).** Cuộc chạm trán dễ không làm hao tổn đáng kể tài nguyên nhân vật hoặc đặt họ vào hiểm nguy nghiêm trọng. Họ có thể mất vài [điểm sinh lực](99-glossary.md#hit-points), nhưng gần như chắc chắn thắng.
 
 **Trung bình (Medium).** Cuộc chạm trán trung bình thường có một hoặc hai khoảnh khắc đáng sợ với người chơi, nhưng nhân vật nên thắng mà không ai thiệt mạng. Một hoặc nhiều người có thể cần dùng tài nguyên chữa lành.
 
-**Khó (Hard).** Cuộc chạm trán khó có thể diễn biến xấu với nhà phiêu lưu. Nhân vật yếu hơn có thể bị loại khỏi cuộc chiến; có một khả năng nhỏ một hoặc nhiều nhân vật chết.
+**Khó (Hard).** Cuộc chạm trán khó có thể diễn biến xấu với [nhà phiêu lưu](99-glossary.md#adventurer). Nhân vật yếu hơn có thể bị loại khỏi cuộc chiến; có một khả năng nhỏ một hoặc nhiều nhân vật chết.
 
-**Chết chóc (Deadly).** Cuộc chạm trán chết chóc có thể giết một hoặc nhiều nhân vật người chơi. Sống sót thường cần chiến thuật tốt và suy nghĩ nhanh; nhóm có nguy cơ thất bại.
+**Chết chóc (Deadly).** Cuộc chạm trán chết chóc có thể giết một hoặc nhiều [nhân vật người chơi](99-glossary.md#player-character). Sống sót thường cần chiến thuật tốt và suy nghĩ nhanh; nhóm có nguy cơ thất bại.
 
-### Ngưỡng XP theo cấp nhân vật (XP Thresholds by Character Level)
+### Ngưỡng [XP](99-glossary.md#experience-points) theo [cấp nhân vật](99-glossary.md#level) (XP Thresholds by Character Level)
 
 | Cấp nhân vật | Dễ | Trung bình | Khó | Chết chóc |
 | --- | --- | --- | --- | --- |
@@ -69,14 +69,14 @@ Dùng phương pháp sau để ước lượng độ khó bất kỳ cuộc ch�
    - Khó: 825 XP (225 + 225 + 225 + 150).
    - Chết chóc: 1.400 XP (400 + 400 + 400 + 200).
 
-   Ghi lại các tổng này vì có thể dùng chúng cho mọi cuộc chạm trán trong cuộc phiêu lưu.
+   Ghi lại các tổng này vì có thể dùng chúng cho mọi cuộc chạm trán trong [cuộc phiêu lưu](99-glossary.md#adventure).
 
-3. **Tính tổng XP quái vật.** Cộng XP mọi quái vật trong cuộc chạm trán. Mỗi quái vật có giá trị XP trong khối thông số.
+3. **Tính tổng XP [quái vật](99-glossary.md#monster).** Cộng XP mọi quái vật trong cuộc chạm trán. Mỗi quái vật có giá trị XP trong [khối thông số](99-glossary.md#stat-block).
 4. **Điều chỉnh tổng XP khi có nhiều quái vật.** Nếu cuộc chạm trán có hơn một quái vật, áp dụng hệ số nhân cho tổng XP của chúng. Càng nhiều quái vật, bạn càng tung nhiều đòn tấn công vào nhân vật trong một vòng, và cuộc chạm trán càng nguy hiểm. Để đánh giá đúng độ khó, nhân tổng XP mọi quái vật với giá trị trong bảng Hệ số nhân cuộc chạm trán.
 
    Ví dụ, bốn quái vật có tổng 500 XP: nhân 2 được XP điều chỉnh 1.000. Giá trị điều chỉnh này không phải số XP quái vật đáng được thưởng; mục đích duy nhất là giúp đánh giá chính xác độ khó.
 
-   Khi tính, không đếm quái vật có mức thách thức thấp hơn đáng kể so với mức thách thức trung bình của các quái vật khác trong nhóm, trừ khi bạn cho rằng quái vật yếu góp phần đáng kể vào độ khó.
+   Khi tính, không đếm quái vật có [mức thách thức](99-glossary.md#challenge-rating) thấp hơn đáng kể so với mức thách thức trung bình của các quái vật khác trong nhóm, trừ khi bạn cho rằng quái vật yếu góp phần đáng kể vào độ khó.
 
 5. **So sánh XP.** So XP điều chỉnh của quái vật với ngưỡng XP nhóm. Ngưỡng bằng giá trị điều chỉnh quyết định độ khó. Nếu không bằng ngưỡng nào, dùng ngưỡng gần nhất thấp hơn giá trị điều chỉnh.
 
@@ -109,7 +109,7 @@ Nếu nhóm từ sáu nhân vật trở lên, dùng hệ số thấp hơn một 
 
 Đôi khi cuộc chạm trán có nhiều kẻ địch mà nhóm không đối mặt cùng lúc. Ví dụ, quái vật đến thành từng đợt. Để xác định độ khó, coi mỗi phần hoặc đợt riêng biệt là một cuộc chạm trán riêng.
 
-Nhóm không thể hưởng lợi từ nghỉ ngắn giữa các phần, nên không thể dùng Xúc xắc Sinh lực để hồi HP hoặc hồi khả năng cần nghỉ ngắn. Theo quy tắc chung, nếu XP điều chỉnh của quái vật trong cuộc chạm trán nhiều phần vượt một phần ba tổng XP dự kiến của nhóm trong ngày phiêu lưu (xem bên dưới), cuộc chạm trán sẽ khó hơn tổng các phần của nó.
+Nhóm không thể hưởng lợi từ [nghỉ ngắn](99-glossary.md#short-rest) giữa các phần, nên không thể dùng Xúc xắc Sinh lực để hồi HP hoặc hồi khả năng cần nghỉ ngắn. Theo quy tắc chung, nếu XP điều chỉnh của quái vật trong cuộc chạm trán nhiều phần vượt một phần ba tổng XP dự kiến của nhóm trong ngày phiêu lưu (xem bên dưới), cuộc chạm trán sẽ khó hơn tổng các phần của nó.
 
 ## Xây dựng cuộc chạm trán theo ngân sách (Building Encounters on a Budget)
 
@@ -119,9 +119,9 @@ Nhóm không thể hưởng lợi từ nghỉ ngắn giữa các phần, nên kh
 
 Bạn có thể xây dựng cuộc chạm trán khi biết độ khó mong muốn. Ngưỡng XP của nhóm cho ngân sách XP để chi cho quái vật, tạo cuộc chạm trán dễ, trung bình, khó và chết chóc. Nhớ rằng nhóm quái vật tiêu tốn nhiều ngân sách hơn giá trị XP cơ bản cho thấy (xem bước 4).
 
-Ví dụ, với nhóm ở bước 2, bạn tạo cuộc chạm trán trung bình bằng cách bảo đảm XP điều chỉnh ít nhất 550 (ngưỡng trung bình) và không quá 825 (ngưỡng khó). Một quái vật thách thức 3, như manticore hoặc gấu cú (owlbear), đáng 700 XP nên là một lựa chọn. Nếu muốn hai quái vật, mỗi con tính bằng 1,5 lần XP cơ bản. Hai sói hung (dire wolf), mỗi con 200 XP, có XP điều chỉnh 600, cũng là cuộc chạm trán trung bình cho nhóm.
+Ví dụ, với nhóm ở bước 2, bạn tạo cuộc chạm trán trung bình bằng cách bảo đảm XP điều chỉnh ít nhất 550 (ngưỡng trung bình) và không quá 825 (ngưỡng khó). Một quái vật thách thức 3, như [manticore](99-glossary.md#manticore) hoặc [gấu cú](99-glossary.md#owlbear) (owlbear), đáng 700 XP nên là một lựa chọn. Nếu muốn hai quái vật, mỗi con tính bằng 1,5 lần XP cơ bản. Hai sói hung (dire wolf), mỗi con 200 XP, có XP điều chỉnh 600, cũng là cuộc chạm trán trung bình cho nhóm.
 
-Để hỗ trợ cách này, Phụ lục B của *Dungeon Master's Guide* liệt kê mọi quái vật trong *Monster Manual* theo mức thách thức. Xem “Quái vật theo mức thách thức” ở cuối chương để có danh sách theo CR của các quái vật trong tài liệu này.
+Để hỗ trợ cách này, Phụ lục B của *[Dungeon Master](99-glossary.md#dungeon-master)'s Guide* liệt kê mọi quái vật trong *Monster Manual* theo mức thách thức. Xem “Quái vật theo mức thách thức” ở cuối chương để có danh sách theo CR của các quái vật trong tài liệu này.
 
 ## Ngày phiêu lưu (The Adventuring Day)
 
@@ -133,7 +133,7 @@ Với điều kiện phiêu lưu điển hình và vận may trung bình, phần
 
 Tương tự cách xác định độ khó cuộc chạm trán, bạn có thể dùng XP quái vật và đối thủ khác trong cuộc phiêu lưu để ước lượng nhóm có thể tiến xa đến đâu.
 
-Với mỗi nhân vật, dùng bảng XP ngày phiêu lưu để ước tính XP dự kiến kiếm được trong ngày. Cộng giá trị mọi thành viên để có tổng cho ngày phiêu lưu của nhóm. Đây là ước tính sơ bộ XP điều chỉnh của các cuộc chạm trán nhóm xử lý được trước khi cần nghỉ dài.
+Với mỗi nhân vật, dùng bảng XP ngày phiêu lưu để ước tính XP dự kiến kiếm được trong ngày. Cộng giá trị mọi thành viên để có tổng cho ngày phiêu lưu của nhóm. Đây là ước tính sơ bộ XP điều chỉnh của các cuộc chạm trán nhóm xử lý được trước khi cần [nghỉ dài](99-glossary.md#long-rest).
 
 ### XP ngày phiêu lưu (Adventuring Day XP)
 
@@ -162,11 +162,11 @@ Nhìn chung, trong một ngày phiêu lưu trọn vẹn, nhóm có thể cần h
 
 ![Trinh sát đánh giá ảnh hưởng của địa hình và vị trí phòng thủ](assets/chapter-13-modifying-difficulty.png)
 
-*Địa hình, tầm nhìn, bất ngờ và che chắn có thể thay đổi đáng kể độ khó thực tế. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Địa hình, tầm nhìn, bất ngờ và [che chắn](99-glossary.md#cover) có thể thay đổi đáng kể độ khó thực tế. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Địa điểm và tình huống có thể khiến cuộc chạm trán dễ hoặc khó hơn.
 
-Tăng độ khó một bậc (ví dụ dễ thành trung bình) nếu nhân vật chịu bất lợi tình huống mà kẻ địch không có. Giảm một bậc nếu nhân vật có lợi thế tình huống mà kẻ địch không có. Mỗi lợi thế hoặc bất lợi bổ sung đẩy độ khó thêm một bậc theo hướng tương ứng. Nếu có cả lợi thế và bất lợi, chúng triệt tiêu nhau.
+Tăng độ khó một bậc (ví dụ dễ thành trung bình) nếu nhân vật chịu bất lợi tình huống mà kẻ địch không có. Giảm một bậc nếu nhân vật có [lợi thế](99-glossary.md#advantage) tình huống mà kẻ địch không có. Mỗi lợi thế hoặc bất lợi bổ sung đẩy độ khó thêm một bậc theo hướng tương ứng. Nếu có cả lợi thế và bất lợi, chúng triệt tiêu nhau.
 
 Bất lợi tình huống gồm:
 
@@ -193,7 +193,7 @@ Các yếu tố sau tăng thú vị và hồi hộp:
 
 > **Mức thách thức (Challenge Rating)**
 >
-> Khi xây dựng cuộc chạm trán hoặc cuộc phiêu lưu, đặc biệt ở cấp thấp, hãy thận trọng với quái vật có mức thách thức cao hơn cấp trung bình nhóm. Sinh vật ấy có thể gây đủ sát thương chỉ trong một hành động để loại nhà phiêu lưu cấp thấp hơn. Ví dụ, ogre có thách thức 2 nhưng có thể giết pháp sư cấp 1 bằng một cú đánh.
+> Khi xây dựng cuộc chạm trán hoặc cuộc phiêu lưu, đặc biệt ở cấp thấp, hãy thận trọng với quái vật có mức thách thức cao hơn cấp trung bình nhóm. Sinh vật ấy có thể gây đủ sát thương chỉ trong một hành động để loại nhà phiêu lưu cấp thấp hơn. Ví dụ, [ogre](99-glossary.md#ogre) có thách thức 2 nhưng có thể giết [pháp sư](99-glossary.md#wizard) cấp 1 bằng một cú đánh.
 
 ## Quái vật theo mức thách thức (Monsters by Challenge Rating)
 
@@ -243,13 +243,13 @@ Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách 
 - Chuột khổng lồ (Giant rat).
 - Chồn khổng lồ (Giant weasel).
 - Lính gác (Guard).
-- Kobold (Kobold).
+- [Kobold](99-glossary.md#kobold) (Kobold).
 - Chó ngao (Mastiff).
 - Người cá (Merfolk).
 - La (Mule).
 - Rắn độc (Poisonous snake).
 - Ngựa nhỏ (Pony).
-- Stirge (Stirge).
+- [Stirge](99-glossary.md#stirge) (Stirge).
 - Cành cây tai ương (Twig blight).
 
 ### Thách thức 1/4 (50 XP)
@@ -270,7 +270,7 @@ Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách 
 - Cú khổng lồ (Giant owl).
 - Rắn độc khổng lồ (Giant poisonous snake).
 - Nhện sói khổng lồ (Giant wolf spider).
-- Goblin (Goblin).
+- [Goblin](99-glossary.md#goblin) (Goblin).
 - Báo (Panther).
 - Thằn lằn bay Pteranodon (Pteranodon).
 - Ngựa cưỡi (Riding horse).
@@ -285,12 +285,12 @@ Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách 
 
 - Vượn (Ape).
 - Gấu đen (Black bear).
-- Cockatrice (Cockatrice).
+- [Cockatrice](99-glossary.md#cockatrice) (Cockatrice).
 - Cá sấu (Crocodile).
 - Dê khổng lồ (Giant goat).
 - Cá ngựa khổng lồ (Giant sea horse).
 - Ong bắp cày khổng lồ (Giant wasp).
-- Gnoll (Gnoll).
+- [Gnoll](99-glossary.md#gnoll) (Gnoll).
 - Hobgoblin (Hobgoblin).
 - Người thằn lằn (Lizardfolk).
 - Orc (Orc).
@@ -348,7 +348,7 @@ Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách 
 ### Thách thức 3 (700 XP)
 
 - Khủng long Ankylosaurus (Ankylosaurus).
-- Basilisk (Basilisk).
+- [Basilisk](99-glossary.md#basilisk) (Basilisk).
 - Kẻ giả dạng (Doppelganger).
 - Bọ cạp khổng lồ (Giant scorpion).
 - Chó săn địa ngục (Hell hound).
@@ -361,38 +361,38 @@ Danh sách sau sắp xếp quái vật trong tài liệu này theo mức thách 
 - Nhện chuyển cõi (Phase spider).
 - Kẻ quan sát (Spectator).
 - Người sói (Werewolf).
-- Wight (Wight).
+- [Wight](99-glossary.md#wight) (Wight).
 - Sói mùa đông (Winter wolf).
 - Người tuyết Yeti (Yeti).
 
 ### Thách thức 4 (1,100 XP)
 
-- Nữ yêu than khóc (Banshee).
+- [Nữ yêu than khóc](99-glossary.md#banshee) (Banshee).
 - Voi (Elephant).
 - Sọ lửa (Flameskull).
 - Ma (Ghost).
 
 ### Thách thức 5 (1,800 XP)
 
-- Nguyên tố khí (Air elemental).
+- [Nguyên tố khí](99-glossary.md#elemental) (Air elemental).
 - Nguyên tố đất (Earth elemental).
 - Nguyên tố lửa (Fire elemental).
-- Golem thịt (Flesh golem).
+- [Golem](99-glossary.md#golem) thịt (Flesh golem).
 - Cá sấu khổng lồ (Giant crocodile).
 - Cá mập khổng lồ (Giant shark).
 - Khổng nhân đồi (Hill giant).
 - Khủng long ba sừng (Triceratops).
-- Troll (Troll).
+- [Troll](99-glossary.md#troll) (Troll).
 - Nguyên tố nước (Water elemental).
 
 ### Thách thức 6 (2,300 XP)
 
-- Chimera (Chimera).
+- [Chimera](99-glossary.md#chimera) (Chimera).
 - Khổng nhân một mắt (Cyclops).
 - Pháp sư (Mage).
 - Voi ma mút (Mammoth).
 - Nữ yêu tóc rắn (Medusa).
-- Wyvern (Wyvern).
+- [Wyvern](99-glossary.md#wyvern) (Wyvern).
 
 ### Thách thức 7 (2,900 XP)
 

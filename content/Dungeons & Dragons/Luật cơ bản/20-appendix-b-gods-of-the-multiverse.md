@@ -8,13 +8,13 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 172-173 (phần Các vị 
 
 *Tín ngưỡng trong thế giới fantasy phản ánh nhiều mặt của tự nhiên, xã hội và số phận. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Tôn giáo là phần quan trọng của đời sống trong các thế giới đa vũ trụ D&D. Khi thần đi trên thế giới, giáo sĩ dẫn truyền quyền năng thần thánh, tà giáo hiến tế tối tăm trong hang ổ dưới đất và thánh kỵ sĩ rạng ngời đứng như hải đăng chống bóng tối, khó có thể thờ ơ với thần linh và phủ nhận họ tồn tại.
+Tôn giáo là phần quan trọng của đời sống trong các thế giới [đa vũ trụ](99-glossary.md#multiverse) D&D. Khi thần đi trên thế giới, [giáo sĩ](99-glossary.md#cleric) dẫn truyền quyền năng thần thánh, tà giáo hiến tế tối tăm trong hang ổ dưới đất và [thánh kỵ sĩ](99-glossary.md#paladin) rạng ngời đứng như hải đăng chống bóng tối, khó có thể thờ ơ với thần linh và phủ nhận họ tồn tại.
 
-Nhiều người thờ các thần khác nhau tùy lúc và hoàn cảnh. Ví dụ, người ở Forgotten Realms có thể cầu Sune may mắn tình yêu, dâng lễ Waukeen trước khi đi chợ và cầu xoa dịu Talos khi bão dữ đến—tất cả trong cùng ngày. Nhiều người có một thần yêu thích, lấy lý tưởng và giáo huấn của vị ấy làm của mình. Một số ít hiến trọn mình cho một thần, thường làm tu sĩ hoặc người bảo vệ lý tưởng của thần ấy.
+Nhiều người thờ các thần khác nhau tùy lúc và hoàn cảnh. Ví dụ, người ở [Forgotten Realms](99-glossary.md#forgotten-realms) có thể cầu Sune may mắn tình yêu, dâng lễ Waukeen trước khi đi chợ và cầu xoa dịu Talos khi bão dữ đến—tất cả trong cùng ngày. Nhiều người có một thần yêu thích, lấy lý tưởng và giáo huấn của vị ấy làm của mình. Một số ít hiến trọn mình cho một thần, thường làm tu sĩ hoặc người bảo vệ lý tưởng của thần ấy.
 
-DM quyết định thần nào, nếu có, được thờ trong chiến dịch. Trong số thần hiện có, bạn chọn một vị để nhân vật phục vụ, thờ hoặc chỉ tỏ lòng kính bằng lời. Hoặc chọn vài thần nhân vật thường cầu nhất. Hoặc ghi nhớ các thần được tôn kính trong chiến dịch để gọi tên khi phù hợp. Nếu chơi giáo sĩ hoặc nhân vật có xuất thân Trợ tế (Acolyte), hãy quyết định nhân vật phục vụ/đã phục vụ thần nào và cân nhắc các lãnh địa gợi ý của thần khi chọn lãnh địa nhân vật.
+DM quyết định thần nào, nếu có, được thờ trong [chiến dịch](99-glossary.md#campaign). Trong số thần hiện có, bạn chọn một vị để nhân vật phục vụ, thờ hoặc chỉ tỏ lòng kính bằng lời. Hoặc chọn vài thần nhân vật thường cầu nhất. Hoặc ghi nhớ các thần được tôn kính trong chiến dịch để gọi tên khi phù hợp. Nếu chơi giáo sĩ hoặc nhân vật có [xuất thân](99-glossary.md#background) Trợ tế (Acolyte), hãy quyết định nhân vật phục vụ/đã phục vụ thần nào và cân nhắc các lãnh địa gợi ý của thần khi chọn lãnh địa nhân vật.
 
-## Các hệ thần D&D (D&D Pantheons)
+## Các [hệ thần](99-glossary.md#pantheon) D&D (D&D Pantheons)
 
 ![Học giả dragonborn nghiên cứu các hệ thần của nhiều thế giới](assets/appendix-b-pantheons.png)
 
@@ -47,7 +47,7 @@ Các chủng thường có cả hệ thần riêng. Ví dụ, ngoài Moradin, th
 | Thần | Khuynh hướng | Lãnh địa gợi ý (Suggested Domains) | Biểu tượng |
 | --- | --- | --- | --- |
 | Auril, nữ thần mùa đông | NE | Tự nhiên (Nature), Bão tố (Tempest) | Bông tuyết sáu cánh |
-| Azuth, thần pháp sư | LN | Tri thức (Knowledge) | Bàn tay trái chỉ lên, viền lửa |
+| Azuth, thần [pháp sư](99-glossary.md#wizard) | LN | Tri thức (Knowledge) | Bàn tay trái chỉ lên, viền lửa |
 | Bane, thần bạo quyền | LE | Chiến tranh (War) | Bàn tay phải đen dựng đứng, ngón cái và các ngón khép nhau |
 | Beshaba, nữ thần bất hạnh | CE | Mưu mẹo (Trickery) | Gạc đen |
 | Bhaal, thần sát nhân | NE | Tử vong (Death) | Sọ bao quanh bởi vòng giọt máu |

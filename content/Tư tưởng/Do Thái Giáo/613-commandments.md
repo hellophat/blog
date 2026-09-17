@@ -583,7 +583,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Ngữ nghĩa và cách dịch:** [**Pesach**](./glossary#pesach) có thể chỉ lễ Vượt Qua, lễ vật Vượt Qua hoặc cả mùa lễ tùy ngữ cảnh. P43 là lễ vật **musaf** của bảy ngày, không phải mitzvah riêng về giết con chiên Pesach vào ngày 14 tháng Nisan.
 
-**Đối chiếu lỗi nguồn:** Một số bản in và bảng trực tuyến dẫn Lêvi 23:36, nhưng câu đó thuộc phần Sukkot/Shemini Atzeret. Chabad cũng ghi nhận vấn đề văn bản này; câu tương ứng về bảy ngày Pesach là Lêvi 23:8, còn chi tiết lễ vật nằm ở Dân Số 28. Đây là lý do bài không sao chép máy móc mọi tham chiếu từ danh sách thứ cấp.
+**Bối cảnh và ý nghĩa:** Đây là lễ vật cộng đồng bổ sung cho lễ thường nhật, không phải lễ vật cá nhân của từng người dự lễ. Về nguồn dẫn, một số bản in và bảng trực tuyến ghi Lêvi 23:36, nhưng câu đó thuộc phần Sukkot/Shemini Atzeret; câu tương ứng về bảy ngày Pesach là Lêvi 23:8, còn chi tiết lễ vật nằm ở Dân Số 28. Vì vậy bài không sao chép máy móc tham chiếu từ danh sách thứ cấp.
 
 ### P44 — Dâng lễ phẩm *omer* vào ngày thứ hai của Pesach
 
@@ -728,6 +728,1266 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 **Ngữ nghĩa và cách dịch:** [**Korban Pesach**](./glossary#korban-pesach) là lễ vật Vượt Qua, có thể là chiên hoặc dê theo Xuất Hành 12:5. Vì vậy, cách gọi quen thuộc “chiên Vượt Qua” không nên khiến người đọc nghĩ chỉ cừu mới hợp lệ trong văn bản. P55 là việc giết lễ vật; ăn thịt lễ vật vào đêm sau được tính là P56.
 
 **Bối cảnh và ý nghĩa:** Trong trình thuật Xuất Hành, máu đánh dấu nhà Israel trong đêm tai họa đầu lòng và bữa ăn diễn ra trong tư thế sẵn sàng lên đường. Khi việc thờ phượng được tập trung hóa, lễ vật gắn với Đền Thờ Jerusalem và các nhóm hành hương. Bữa Seder hiện đại tưởng nhớ Pesach nhưng không có thịt korban Pesach, vì không có Đền Thờ và bàn thờ hoạt động.
+
+### P56 — Ăn thịt lễ vật Pesach trong đêm 15 Nisan
+
+**English:** To eat the meat of the Passover offering on the night of the fifteenth of Nisan.
+
+**Hebrew (Maimonides):** לֶאֱכֹל בְּשַׂר הַפֶּסַח בְּלֵילֵי חֲמִשָּׁה עָשָׂר
+
+**Nguồn Torah:** Xuất Hành 12:8–11 — thịt được ăn trong đêm ấy, quay trên lửa, cùng bánh không men và rau đắng; không được ăn sống hay luộc trong nước.
+
+**Ngữ nghĩa và cách dịch:** “Đêm 15” bắt đầu sau khi mặt trời lặn kết thúc ngày 14 theo cách tính ngày Do Thái. [**Nisan**](./glossary#nisan) là tháng mùa xuân của lịch Hebrew. P56 là nghĩa vụ **ăn** lễ vật; P55 là việc **giết** lễ vật chiều trước đó.
+
+**Bối cảnh và ý nghĩa:** Trong thời Đền Thờ, các nhóm đăng ký chung một lễ vật và ăn tại Jerusalem. Seder hiện đại giữ nhiều biểu tượng của bữa ăn nhưng không thay thế thịt lễ vật bằng một con vật hiến tế ngoài Đền Thờ.
+
+### P57 — Thực hiện Pesach Sheni cho người không thể dự Pesach đúng kỳ
+
+**English:** To offer the second Passover sacrifice for those unable to observe the first.
+
+**Hebrew (Maimonides):** לַעֲשׂוֹת פֶּסַח שֵׁנִי
+
+**Nguồn Torah:** Dân Số 9:6–12 — người bị ô uế do xác chết hoặc đang ở xa trong kỳ Pesach thứ nhất được làm lễ vào ngày 14 tháng thứ hai.
+
+**Ngữ nghĩa và cách dịch:** [**Pesach Sheni**](./glossary#pesach-sheni) nghĩa là “Pesach thứ hai”. Đây không phải toàn bộ lễ Pesach kéo dài lần hai; nó là cơ hội muộn một tháng để dâng và ăn korban Pesach trong những điều kiện được Torah nêu.
+
+**Bối cảnh và ý nghĩa:** Luật đáp lại những người bị loại khỏi nghi lễ không do cố ý bằng một cơ chế tham dự bù, nhưng người đủ điều kiện mà cố ý bỏ Pesach vẫn chịu trách nhiệm. Không có Đền Thờ, ngày 14 Iyar chỉ được tưởng niệm trong một số cộng đồng, không có lễ vật.
+
+### P58 — Ăn lễ vật Pesach Sheni với matzah và rau đắng
+
+**English:** To eat the second Passover offering with matzah and bitter herbs.
+
+**Hebrew (Maimonides):** לֶאֱכֹל פֶּסַח בּוֹ; שֶׁנֶּאֱמַר בּוֹ: עַל מַצּוֹת וּמְרֹרִים יֹאכְלֻהוּ
+
+**Nguồn Torah:** Dân Số 9:11 — lễ vật được ăn vào đêm 15 tháng thứ hai, cùng bánh không men và rau đắng; không để dư đến sáng và không làm gãy xương.
+
+**Ngữ nghĩa và cách dịch:** [**Matzah**](./glossary#matzah) là bánh không men theo tiêu chuẩn halakhah; [**maror**](./glossary#maror) là rau đắng. Hai thứ đi kèm không biến Pesach Sheni thành một tuần kiêng men như Pesach chính.
+
+**Bối cảnh và ý nghĩa:** Việc giữ lại matzah, maror, thời điểm ban đêm và quy tắc về xương cho thấy lần thứ hai vẫn là cùng loại nghi lễ Pesach. Tuy nhiên, Torah lựa chọn cụ thể những luật được áp dụng lại; không phải mọi chi tiết của tuần Pesach thứ nhất tự động lặp lại.
+
+### P59 — Thổi kèn bạc trên lễ vật và khi cộng đồng gặp nguy khốn
+
+**English:** To sound the silver trumpets over the sacrifices and in times of communal distress.
+
+**Hebrew (Maimonides):** לִתְקֹעַ בַּחֲצוֹצְרוֹת עַל הַקָּרְבָּנוֹת וּבִשְׁעַת הַצָּרוֹת
+
+**Nguồn Torah:** Dân Số 10:1–10 truyền làm hai kèn bạc để triệu tập, điều động trại, báo động khi chiến tranh và thổi trên lễ vật vào ngày vui, lễ hội và đầu tháng.
+
+**Ngữ nghĩa và cách dịch:** [**Chatzotzrot**](./glossary#silver-trumpets) là kèn dài bằng bạc, khác [*shofar*](./glossary#shofar) làm từ sừng động vật. P59 kết hợp hai bối cảnh: phụng vụ lễ vật và lời kêu gọi cộng đồng trước nguy khốn.
+
+**Bối cảnh và ý nghĩa:** Âm thanh vừa điều phối đám đông vừa tạo tín hiệu nghi lễ. Trong Đền Thờ, tư tế thổi kèn; trong khủng hoảng, tiếng kèn đi cùng việc kêu cầu YHWH. Không nên thay mọi lần Torah nói “kèn” bằng shofar.
+
+### P60 — Chỉ dâng động vật từ ngày tuổi thứ tám trở đi
+
+**English:** For an animal offering to be at least eight days old.
+
+**Hebrew (Maimonides):** לִהְיוֹת כָּל קָרְבְּנוֹת בְּהֵמָה מִיּוֹם הַשְּׁמִינִי וָהָלְאָה
+
+**Nguồn Torah:** Lêvi 22:26–27 — bò, chiên hay dê con ở với mẹ bảy ngày; từ ngày thứ tám trở đi mới được chấp nhận làm lễ vật bằng lửa.
+
+**Ngữ nghĩa và cách dịch:** “Ngày thứ tám” là ngưỡng tối thiểu, không có nghĩa mọi con vật phải được dâng đúng ngày đó. **Behemah** trong ngữ cảnh chỉ gia súc thích hợp cho lễ vật.
+
+**Bối cảnh và ý nghĩa:** Luật thừa nhận giai đoạn sơ sinh trước khi con vật có thể vào hệ thống lễ vật. Câu kế tiếp cấm giết con mẹ và con non cùng ngày, cho thấy một giới hạn đối với việc sử dụng đàn vật. Đây chưa phải tiêu chuẩn phúc lợi động vật hiện đại, nhưng cũng không phải quy định không có chức năng hạn chế.
+
+### P61 — Chỉ dâng động vật không có khuyết tật bị cấm
+
+**English:** For every animal offering to be unblemished.
+
+**Hebrew (Maimonides):** לִהְיוֹת כָּל קָרְבַּן בְּהֵמָה תָּמִים
+
+**Nguồn Torah:** Lêvi 22:17–25 yêu cầu lễ vật phải **tamim**, không có những thương tật và khuyết điểm được liệt kê, để được chấp nhận.
+
+**Ngữ nghĩa và cách dịch:** [**Tamim**](./glossary#tamim) có thể nghĩa toàn vẹn, trọn vẹn hoặc không tì vết. Trong luật lễ vật, đây là tiêu chuẩn pháp lý về con vật; không phải tuyên bố rằng người khuyết tật có giá trị đạo đức thấp hơn.
+
+**Bối cảnh và ý nghĩa:** Lễ vật phải là phần tài sản có giá trị, không phải cách loại bỏ con vật bị hỏng. Ngôn ngữ về tính toàn vẹn phản ánh quan niệm cổ về vật thích hợp cho không gian thánh. Cần tách quy tắc nghi lễ này khỏi thái độ hiện đại đối với phẩm giá người khuyết tật.
+
+### P62 — Thêm muối vào mọi lễ vật
+
+**English:** To offer salt with every sacrifice.
+
+**Hebrew (Maimonides):** לִמְלֹחַ כָּל קָרְבָּן
+
+**Nguồn Torah:** Lêvi 2:13 — không được để lễ phẩm ngũ cốc thiếu “muối giao ước”; phải dâng muối cùng mọi lễ vật.
+
+**Ngữ nghĩa và cách dịch:** [**Muối giao ước**](./glossary#salt-covenant) không phải loại muối hóa học riêng. Khả năng bảo quản và vai trò trong bữa ăn giao kết khiến muối trở thành biểu tượng về độ bền của giao ước.
+
+**Bối cảnh và ý nghĩa:** Muối là vật thiết yếu trong chế biến, bảo quản và trao đổi thời cổ. Trong lễ vật, nó vừa là thành phần vật chất vừa mang ý nghĩa giao ước. Không nên đồng nhất quy định này với tập tục dân gian rắc muối trừ tà.
+
+### P63 — Thực hiện đúng nghi thức lễ toàn thiêu
+
+**English:** To follow the prescribed procedure for the burnt offering.
+
+**Hebrew (Maimonides):** מַעֲשֵׂה הָעוֹלָה
+
+**Nguồn Torah:** Lêvi 1 mô tả lễ vật từ bò, chiên, dê hoặc chim, với các bước trình, đặt tay, giết, xử lý máu, phân phần và đốt trên bàn thờ.
+
+**Ngữ nghĩa và cách dịch:** [**Olah**](./glossary#olah) bắt nguồn từ động từ “đi lên”, thường hiểu là lễ toàn thiêu vì gần như toàn bộ lễ vật đi lên trong khói. “Toàn thiêu” ở đây không đồng nghĩa Holocaust, một thuật ngữ lịch sử hiện đại có ngữ cảnh khác.
+
+**Bối cảnh và ý nghĩa:** Lêvi cho phép lễ vật từ gia súc hoặc chim, phản ánh khả năng kinh tế khác nhau. Máu được đặt trên bàn thờ và thân lễ vật bị đốt; người dâng không ăn phần thịt như trong lễ vật bình an.
+
+### P64 — Thực hiện đúng nghi thức lễ vật thanh tẩy
+
+**English:** To follow the prescribed procedure for the purification offering.
+
+**Hebrew (Maimonides):** מַעֲשֵׂה הַחַטָּאת
+
+**Nguồn Torah:** Lêvi 4:1–5:13 và 6:17–23 theo cách đánh số Hebrew quy định các trường hợp cùng cách xử lý *chatat* cho tư tế, cộng đồng, thủ lĩnh và cá nhân.
+
+**Ngữ nghĩa và cách dịch:** [**Chatat**](./glossary#chatat) thường được dịch “lễ chuộc tội”, nhưng “lễ vật thanh tẩy” làm rõ chức năng của máu trong việc thanh tẩy nơi thánh khỏi hậu quả của ô uế và vi phạm. Nó không phải cơ chế mua sự tha thứ cho mọi tội cố ý.
+
+**Bối cảnh và ý nghĩa:** Loại con vật và cách dùng máu thay đổi theo địa vị cùng phạm vi ảnh hưởng của người vi phạm. Một số phần được đốt, một số được tư tế ăn và người nghèo có lựa chọn ít tốn kém hơn.
+
+### P65 — Thực hiện đúng nghi thức lễ vật đền lỗi
+
+**English:** To follow the prescribed procedure for the guilt offering.
+
+**Hebrew (Maimonides):** מַעֲשֵׂה הָאָשָׁם
+
+**Nguồn Torah:** Lêvi 5:14–26 và 7:1–7 theo cách đánh số Hebrew quy định *asham* cho một số hành vi xâm phạm vật thánh, tài sản hoặc trách nhiệm chưa chắc chắn.
+
+**Ngữ nghĩa và cách dịch:** [**Asham**](./glossary#asham) có thể chỉ lỗi, trách nhiệm pháp lý hoặc lễ vật đền lỗi. Trong một số trường hợp, người vi phạm còn phải hoàn trả tài sản và thêm một phần năm.
+
+**Bối cảnh và ý nghĩa:** Asham cho thấy nghi lễ và công lý vật chất không tách rời: lễ vật không đủ nếu tài sản vẫn bị giữ sai. P65 nói về thủ tục của loại lễ vật; những hoàn cảnh khiến cá nhân phải mang asham được đếm tiếp ở các mitzvot sau.
+
+### P66 — Thực hiện đúng nghi thức lễ vật bình an
+
+**English:** To follow the prescribed procedure for the peace offering.
+
+**Hebrew (Maimonides):** מַעֲשֵׂה זֶבַח הַשְּׁלָמִים
+
+**Nguồn Torah:** Lêvi 3 và 7:11–36 mô tả lễ vật từ bò, chiên hoặc dê; máu và mỡ dành cho bàn thờ, còn thịt được chia cho tư tế và người dâng theo thời hạn ăn quy định.
+
+**Ngữ nghĩa và cách dịch:** [**Shelamim**](./glossary#shelamim) liên hệ với gốc *shalom*: trọn vẹn, an hòa hoặc phúc lợi. “Lễ vật bình an” không nhất thiết được dâng để chấm dứt chiến tranh; nó thường là lễ vật tự nguyện, tạ ơn hoặc hoàn thành lời khấn và tạo nên bữa ăn thiêng chung.
+
+**Bối cảnh và ý nghĩa:** Khác olah bị đốt gần như toàn bộ, shelamim phân phối phần ăn giữa bàn thờ, tư tế và người dâng. Việc ăn thịt trong thời hạn và trạng thái thanh sạch biến bữa ăn thành phần của nghi lễ, không phải phần thưởng tùy ý sau hiến tế.
+
+### P67 — Thực hiện đúng nghi thức lễ phẩm ngũ cốc
+
+**English:** To follow the prescribed procedure for the grain offering.
+
+**Hebrew (Maimonides):** מַעֲשֵׂה הַמִּנְחָה
+
+**Nguồn Torah:** Lêvi 2 và 6:7–16 theo cách đánh số Hebrew quy định các dạng *minchah* từ bột, dầu và nhũ hương, cùng phần được đốt và phần dành cho tư tế.
+
+**Ngữ nghĩa và cách dịch:** [**Minchah**](./glossary#minchah) trong phần này là lễ phẩm ngũ cốc, không phải buổi cầu nguyện chiều dù hai cách dùng có liên hệ lịch sử. Một số dạng được nướng, áp chảo hoặc chiên; men và mật bị hạn chế trên bàn thờ.
+
+**Bối cảnh và ý nghĩa:** Lễ phẩm không có động vật cho phép sản phẩm nông nghiệp tham gia đầy đủ vào hệ thống dâng lễ. Tuy nhiên, không nên giả định minchah luôn là “lễ vật của người nghèo”: có trường hợp do hoàn cảnh kinh tế, nhưng cũng có những minchah bắt buộc gắn với chức vụ hoặc dịp lễ.
+
+### P68 — Tòa án tối cao dâng lễ vật khi phán quyết sai
+
+**English:** For the High Court to offer a sacrifice after an erroneous ruling.
+
+**Hebrew (Maimonides):** לְהַקְרִיב בֵּית דִּין קָרְבָּן אִם טָעוּ בְּהוֹרָאָה
+
+**Nguồn Torah:** Lêvi 4:13–21 — nếu toàn cộng đồng Israel phạm lỗi vì một việc bị che khuất khỏi “mắt của hội chúng”, các trưởng lão đặt tay trên con bò dâng làm chatat của cộng đồng.
+
+**Ngữ nghĩa và cách dịch:** Maimonides đọc “mắt của hội chúng” là [**tòa án tối cao**](./glossary#sanhedrin), khi tòa ban hành chỉ dẫn pháp lý sai và cộng đồng hành động theo. Đây không phải mọi sai sót hành chính hay mọi quyết định chính trị thất bại.
+
+**Bối cảnh và ý nghĩa:** Luật thừa nhận rằng sai lầm có thể mang tính thể chế, không chỉ cá nhân. Người có thẩm quyền giải thích luật vẫn phải chịu trách nhiệm khi chỉ dẫn khiến cộng đồng vi phạm. Lễ vật đánh dấu trách nhiệm chung nhưng không biến sai lầm thành cố ý.
+
+### P69 — Cá nhân dâng chatat vì vô ý phạm điều cấm chịu hình phạt *karet*
+
+**English:** For an individual to bring a purification offering after unintentionally violating a prohibition punishable by karet.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַיָּחִיד קָרְבַּן חַטָּאת אִם שָׁגַג בְּמִצְוַת לֹא תַעֲשֶׂה שֶׁחַיָּבִין עָלֶיהָ כָּרֵת
+
+**Nguồn Torah:** Lêvi 4:27–35 quy định chatat khi một cá nhân thường dân vô ý làm điều YHWH cấm và sau đó nhận biết lỗi mình.
+
+**Ngữ nghĩa và cách dịch:** **Shogeg** là vô ý hoặc do nhầm lẫn, khác hành vi cố ý thách thức. [**Karet**](./glossary#karet), “bị cắt khỏi”, là hình phạt do Thiên Chúa đối với một số vi phạm nghiêm trọng; không đồng nhất với án tử hình do tòa án.
+
+**Bối cảnh và ý nghĩa:** Không phải mọi lỗi vô ý đều dẫn tới chatat P69. Maimonides giới hạn mitzvah vào loại điều cấm mà nếu cố ý sẽ chịu karet và nếu vô ý thì có nghĩa vụ lễ vật. Hệ thống phân biệt ý định, nhận thức và mức độ pháp lý của hành vi.
+
+### P70 — Dâng *asham talui* khi nghi ngờ mình đã phạm lỗi nghiêm trọng
+
+**English:** To bring a provisional guilt offering when uncertain whether a grave prohibition was violated.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַיָּחִיד קָרְבָּן אִם נִסְתַּפֵּק לוֹ אִם חָטָא בְּחֵטְא שֶׁחַיָּבִין עָלָיו חַטָּאת אוֹ לֹא חָטָא; וְזֶה הוּא הַנִּקְרָא אָשָׁם תָּלוּי
+
+**Nguồn Torah:** Lêvi 5:17–19 — người vi phạm một điều cấm nhưng “không biết” vẫn mang trách nhiệm và phải đem một con chiên đực làm asham.
+
+**Ngữ nghĩa và cách dịch:** [**Asham talui**](./glossary#asham-talui) nghĩa gần với “lễ vật đền lỗi còn treo/chưa ngã ngũ”. Nó áp dụng khi có nghi ngờ xác định về một hành vi vốn sẽ đòi chatat nếu được biết chắc, không phải cho mọi cảm giác tội lỗi mơ hồ.
+
+**Bối cảnh và ý nghĩa:** Mitzvah tạo một phản ứng nghi lễ cho sự bất định pháp lý thay vì buộc tòa án giả vờ có bằng chứng chắc chắn. Nếu về sau biết rõ mình đã phạm, người đó vẫn phải dâng chatat thích hợp; asham talui không thay thế trách nhiệm khi sự thật được xác định.
+
+### P71 — Dâng *asham vadai* trong những trường hợp đền lỗi xác định
+
+**English:** To bring a definite guilt offering for specified transgressions.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַשּׁוֹגֵג בִּמְעִילָה, אוֹ הַחוֹטֵא בִּגְזֵלָה אוֹ בְּשִׁפְחָה חֲרוּפָה, אוֹ שֶׁכָּפַר בַּפִּקָּדוֹן וְנִשְׁבַּע, קָרְבַּן אָשָׁם; וְזֶה הוּא הַנִּקְרָא אָשָׁם וַדַּאי
+
+**Nguồn Torah:** Lêvi 5:14–26 theo cách đánh số Hebrew và 19:20–22 quy định asham cho việc vô ý sử dụng vật thánh, chiếm đoạt hoặc phủ nhận tài sản được giao giữ kèm lời thề gian, và trường hợp *shifchah charufah*.
+
+**Ngữ nghĩa và cách dịch:** [**Asham vadai**](./glossary#asham-vadai) là “lễ vật đền lỗi chắc chắn”, đối lập *asham talui* của P70. “Chắc chắn” nói về việc loại vi phạm đã được xác định, không có nghĩa lễ vật tự nó hoàn tất mọi sửa chữa.
+
+**Bối cảnh và ý nghĩa:** Các trường hợp tài sản còn đòi hoàn trả và khoản bổ sung. Cụm *shifchah charufah* mô tả một nữ nô lệ đã được chỉ định cho một người nam trong hệ thống thân phận cổ; dịch đơn giản thành “ngoại tình” sẽ xóa mất địa vị pháp lý đặc thù và bất bình đẳng của bối cảnh.
+
+### P72 — Dâng lễ vật thay đổi theo khả năng kinh tế
+
+**English:** To bring an adjustable offering for specified transgressions.
+
+**Hebrew (Maimonides):** לְהַקְרִיב קָרְבָּן עוֹלֶה וְיוֹרֵד
+
+**Nguồn Torah:** Lêvi 5:1–13 cho phép chiên/dê, hai chim hoặc bột mịn tùy khả năng của người mắc một số vi phạm được liệt kê.
+
+**Ngữ nghĩa và cách dịch:** [**Korban oleh ve-yored**](./glossary#adjustable-offering) nghĩa đen là lễ vật “lên và xuống”, tức mức lễ vật thay đổi theo phương tiện kinh tế. Đây không phải mặc cả mức chuộc tội.
+
+**Bối cảnh và ý nghĩa:** Cấu trúc ngăn nghèo đói trở thành rào cản tuyệt đối đối với việc hoàn tất nghĩa vụ nghi lễ. Bột mịn có thể thay động vật trong trường hợp thấp nhất, nhưng vẫn tuân thủ thủ tục riêng và không được tùy tiện áp dụng cho mọi loại lễ vật.
+
+### P73 — Xưng nhận tội lỗi trước Thiên Chúa
+
+**English:** To confess one's sins before God.
+
+**Hebrew (Maimonides):** לְהִתְוַדּוֹת לִפְנֵי יְיָ מִכָּל חֵטְא שֶׁיַּעֲשֶׂה הָאָדָם, בִּשְׁעַת הַקָּרְבָּן וְשֶׁלֹּא בִּשְׁעַת הַקָּרְבָּן
+
+**Nguồn Torah:** Dân Số 5:5–7 — người phạm tội phải xưng nhận điều đã làm, hoàn trả đủ và thêm một phần năm cho người bị thiệt hại.
+
+**Ngữ nghĩa và cách dịch:** [**Vidui**](./glossary#vidui) là lời xưng nhận bằng lời, không chỉ cảm giác ân hận bên trong. Maimonides áp dụng cả khi có lễ vật lẫn khi không có lễ vật.
+
+**Bối cảnh và ý nghĩa:** Xưng nhận đi cùng hoàn trả trong chính đoạn Torah, nên không phải công thức để tránh trách nhiệm với nạn nhân. Trong đời sống Do Thái hậu Đền Thờ, vidui trở thành phần trung tâm của tiến trình *teshuvah* và phụng vụ Yom Kippur, không đòi một người trung gian tư tế nghe lời thú tội riêng.
+
+### P74 — Người nam có tiết dịch bất thường dâng lễ vật sau thanh tẩy
+
+**English:** For a zav to bring an offering after purification.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַזָּב קָרְבָּן אַחַר שֶׁיִּטְהָר
+
+**Nguồn Torah:** Lêvi 15:13–15 — sau khi dòng tiết chấm dứt, người ấy đếm bảy ngày, giặt quần áo, tắm và ngày thứ tám mang hai chim đến tư tế.
+
+**Ngữ nghĩa và cách dịch:** [**Zav**](./glossary#zav-zavah) là nam giới có loại tiết dịch sinh dục bất thường theo phân loại Torah. Không nên dịch tự động thành bệnh lậu: văn bản đưa ra trạng thái nghi lễ, không phải chẩn đoán vi sinh hiện đại.
+
+**Bối cảnh và ý nghĩa:** Trạng thái này hạn chế tiếp xúc với nơi thánh nhưng không chứng minh tội đạo đức. Lễ vật đánh dấu hoàn tất quá trình trở lại nghi lễ sau thời gian và tắm rửa; P74 không thể thực hiện khi không có Đền Thờ.
+
+### P75 — Người nữ có tiết huyết bất thường dâng lễ vật sau thanh tẩy
+
+**English:** For a zavah to bring an offering after purification.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַזָּבָה קָרְבָּן אַחַר שֶׁתִּטָּהֵר
+
+**Nguồn Torah:** Lêvi 15:25–30 — sau khi dòng huyết bất thường chấm dứt, người nữ đếm bảy ngày và ngày thứ tám mang hai chim đến tư tế.
+
+**Ngữ nghĩa và cách dịch:** **Zavah** không đồng nhất đơn giản với kinh nguyệt thông thường (*niddah*); nó chỉ tiết huyết ngoài khung được văn bản phân loại là niddah. Cả hai là trạng thái nghi lễ, không phải phán quyết về phẩm giá.
+
+**Bối cảnh và ý nghĩa:** Cách diễn đạt “thanh sạch/ô uế” dễ bị đọc thành sạch bẩn vệ sinh hoặc đạo đức trong tiếng Việt. Ở đây nó điều chỉnh thời gian và quyền tiếp cận nơi thánh. Y học hiện đại có thể đánh giá nguyên nhân sức khỏe, nhưng không thay thế phạm trù văn bản cổ.
+
+### P76 — Người khỏi *tzaraat* dâng lễ vật hoàn tất thanh tẩy
+
+**English:** For a person healed from tzaraat to bring an offering after purification.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַמְּצֹרָע קָרְבָּן אַחַר שֶׁיִּטְהָר
+
+**Nguồn Torah:** Lêvi 14:1–32 mô tả kiểm tra của tư tế, hai chim, cạo tóc, tắm, thời gian chờ và các lễ vật ngày thứ tám; người nghèo có phương án giảm chi phí.
+
+**Ngữ nghĩa và cách dịch:** [**Tzaraat**](./glossary#tzaraat) là phạm trù nghi lễ có thể ảnh hưởng da, quần áo và nhà; vì vậy dịch “phong cùi” hay “hủi” là sai và gây kỳ thị.
+
+**Bối cảnh và ý nghĩa:** Tư tế xác định trạng thái nghi lễ chứ không hành nghề bác sĩ theo nghĩa hiện đại. P76 xảy ra sau khi dấu hiệu đã hết và là bước hoàn tất việc trở lại không gian thánh; nó không phải phương pháp chữa bệnh.
+
+### P77 — Người mẹ dâng lễ vật sau thời gian thanh tẩy hậu sản
+
+**English:** For a woman who gave birth to bring an offering after her purification period.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַיּוֹלֶדֶת קָרְבָּן אַחַר שֶׁתִּטָּהֵר
+
+**Nguồn Torah:** Lêvi 12:1–8 quy định thời gian hậu sản và lễ vật gồm chiên cùng chim, hoặc hai chim nếu không đủ khả năng.
+
+**Ngữ nghĩa và cách dịch:** Lễ vật này thường gọi là [**korban yoledet**](./glossary#childbirth-offering). “Thanh tẩy” không hàm ý sinh con là tội; chính văn bản phân biệt lễ vật và trạng thái tiếp cận nơi thánh với trách nhiệm đạo đức.
+
+**Bối cảnh và ý nghĩa:** Luật phản ánh quan niệm cổ về máu, sinh nở và ranh giới sự sống. Phương án hai chim thừa nhận chênh lệch kinh tế. Không nên dùng đoạn này để thay thế chăm sóc hậu sản hoặc gán mặc cảm đạo đức cho người mẹ.
+
+### P78 — Tách phần mười của đàn gia súc
+
+**English:** To tithe cattle and flock animals.
+
+**Hebrew (Maimonides):** לְעַשֵּׂר הַבְּהֵמָה
+
+**Nguồn Torah:** Lêvi 27:32–33 — con thứ mười đi dưới gậy chăn được biệt làm thánh, không phân biệt tốt xấu và không được đổi.
+
+**Ngữ nghĩa và cách dịch:** [**Maaser behemah**](./glossary#animal-tithe) là phần mười gia súc, khác phần mười nông sản. Việc đếm theo con đi qua không cho chủ chọn con kém nhất.
+
+**Bối cảnh và ý nghĩa:** Đây là nghĩa vụ gắn với đàn vật và Đền Thờ, không phải thuế thu nhập mười phần trăm theo nghĩa hiện đại. Con vật có địa vị lễ vật và được xử lý theo luật ăn của vật thánh.
+
+### P79 — Biệt riêng con đầu lòng của gia súc thanh sạch
+
+**English:** To sanctify and offer the firstborn of a kosher herd animal.
+
+**Hebrew (Maimonides):** לְקַדֵּשׁ בְּכוֹר הַבְּהֵמָה הַטְּהוֹרָה וּלְהַקְרִיבוֹ
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 15:19–23 — con đực đầu lòng của bò, chiên hoặc dê được biệt cho YHWH; nếu có khuyết tật thì không được dâng.
+
+**Ngữ nghĩa và cách dịch:** [**Bechor behemah tehorah**](./glossary#firstborn-animal) là con đầu lòng của loài gia súc thanh sạch theo kashrut. “Thanh sạch” ở đây là phân loại loài và nghi lễ, không phải vệ sinh chuồng trại.
+
+**Bối cảnh và ý nghĩa:** Quyền trên con đầu lòng biểu thị sự thừa nhận nguồn sinh sản và tài sản thuộc về Thiên Chúa. Khi thích hợp, con vật được trao cho kohen và ăn trong khuôn khổ lễ vật; khi có khuyết tật, luật khác áp dụng.
+
+### P80 — Chuộc con trai đầu lòng
+
+**English:** To redeem a firstborn son.
+
+**Hebrew (Maimonides):** לִפְדוֹת בְּכוֹר אָדָם
+
+**Nguồn Torah:** Dân Số 18:15–16 yêu cầu chuộc con đầu lòng của con người bằng năm shekel bạc; Xuất Hành 13 liên hệ việc này với cuộc giải phóng khỏi Ai Cập.
+
+**Ngữ nghĩa và cách dịch:** [**Pidyon HaBen**](./glossary#pidyon-haben) áp dụng trong các điều kiện dòng dõi và sinh nở cụ thể, không phải mọi con trai đầu lòng theo cách nói thông thường.
+
+**Bối cảnh và ý nghĩa:** Nghi thức khẳng định con người không bị hiến tế: đứa trẻ được chuộc bằng bạc qua một kohen. Nó tưởng nhớ việc các con đầu lòng Israel được bảo toàn trong trình thuật Xuất Hành và phân biệt rõ việc hiến dâng biểu tượng với hiến tế con người.
+
+### P81 — Chuộc con lừa đực đầu lòng bằng một con chiên hoặc dê
+
+**English:** To redeem a firstborn donkey with a sheep or goat.
+
+**Hebrew (Maimonides):** לִפְדוֹת פֶּטֶר חֲמוֹר
+
+**Nguồn Torah:** Xuất Hành 34:20 — “Con đầu lòng của lừa, ngươi phải chuộc bằng một con *seh*”; xem thêm Xuất Hành 13:13.
+
+**Ngữ nghĩa và cách dịch:** [**Peter chamor**](./glossary#peter-chamor) là con lừa đực đầu tiên “mở dạ mẹ”. Hebrew **seh** có thể chỉ chiên hoặc dê non, nên dịch riêng thành “chiên con” là hẹp hơn nguyên ngữ.
+
+**Bối cảnh và ý nghĩa:** Lừa là ngoại lệ trong các loài vật không thanh sạch: nó không được dâng trên bàn thờ nhưng con đầu lòng vẫn phải được chuộc, và con vật dùng để chuộc được trao cho kohen. Luật được nối với ký ức Xuất Hành; không nên hiểu đây là mua con vật từ tư tế theo một giao dịch thương mại thông thường.
+
+### P82 — Bẻ cổ con lừa đầu lòng nếu không chuộc nó
+
+**English:** To break the neck of a firstborn donkey if it is not redeemed.
+
+**Hebrew (Maimonides):** לַעֲרֹף פֶּטֶר חֲמוֹר
+
+**Nguồn Torah:** Xuất Hành 34:20 và 13:13 — nếu con lừa đầu lòng không được chuộc thì phải bẻ cổ nó.
+
+**Ngữ nghĩa và cách dịch:** Động từ **ערף** (*araf*) chỉ việc làm gãy hoặc chặt ở phía sau cổ; “giết” nói chung không thể hiện cách xử lý đặc thù của câu. Maimonides tính đây là mitzvah độc lập, dù nó là phương án chỉ xảy ra khi chủ không thực hiện P81.
+
+**Bối cảnh và ý nghĩa:** Truyền thống rabbi nói rõ việc chuộc được ưu tiên hơn việc bẻ cổ. Biện pháp làm mất con vật ngăn chủ hưởng lợi từ một con đầu lòng đã bị giữ lại khỏi phần dành cho kohen; mô tả bối cảnh pháp lý này không biến hành vi thành một chuẩn mực đối xử chung với động vật.
+
+### P83 — Mang các lễ vật đã nhận nghĩa vụ vào kỳ hành hương kế tiếp
+
+**English:** To bring all obligatory and voluntary offerings at the first pilgrimage festival that occurs.
+
+**Hebrew (Maimonides):** לְהָבִיא כָּל הַקָּרְבָּנוֹת שֶׁיֵּשׁ עַל הָאָדָם בְּחוֹבָה אוֹ בִנְדָבָה בְּרֶגֶל רִאשׁוֹן שֶׁפָּגַע בּוֹ
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 12:5–6 yêu cầu đến nơi YHWH chọn và mang tới đó lễ toàn thiêu, lễ vật, phần mười, phần dâng và các lễ vật do khấn nguyện hoặc tự nguyện.
+
+**Ngữ nghĩa và cách dịch:** **Regel** trong câu pháp lý này là một trong [**ba kỳ hành hương**](./glossary#pilgrimage-festivals), không phải đơn giản “dịp lễ” bất kỳ. Mệnh lệnh đòi hoàn thành nghĩa vụ ở kỳ hành hương đầu tiên gặp phải; các quy tắc về trì hoãn lâu hơn thuộc mitzvah khác.
+
+**Bối cảnh và ý nghĩa:** Lịch hành hương tạo hạn định chung để các lời khấn và lễ vật cá nhân không bị bỏ lửng. Nghĩa vụ giả định có một nơi thờ phượng trung tâm và hệ thống hiến tế đang hoạt động, nên không thể thực hiện theo nguyên dạng sau khi Đền Thờ bị phá hủy.
+
+### P84 — Chỉ dâng các lễ vật tại Đền Thờ được chọn
+
+**English:** To offer all sacrifices at God’s chosen house.
+
+**Hebrew (Maimonides):** לְהַקְרִיב כָּל הַקָּרְבָּנוֹת בְּבֵית הַבְּחִירָה
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 12:14 — tại nơi YHWH chọn trong một chi tộc, “ở đó ngươi sẽ dâng các lễ toàn thiêu” và làm mọi điều được truyền.
+
+**Ngữ nghĩa và cách dịch:** [**Beit HaBechirah**](./glossary#beit-habechirah), “Ngôi Nhà được chọn”, là tên pháp lý Maimonides dùng cho Đền Thờ. Chính câu Phục Truyền nói “nơi YHWH sẽ chọn”; việc nhận diện nơi ấy với Jerusalem thuộc lịch sử và truyền thống diễn giải tiếp theo.
+
+**Bối cảnh và ý nghĩa:** Luật tập trung việc hiến tế, thay cho nhiều bàn thờ địa phương. Trong lịch sử Kinh Thánh, quá trình tập trung hóa gắn đặc biệt với Jerusalem; điều này không có nghĩa mọi hội đường về sau trở thành địa điểm thay thế để hiến tế động vật.
+
+### P85 — Đưa các lễ vật từ ngoài Đất Israel về Đền Thờ
+
+**English:** To bring sacred offerings from outside the Land of Israel to God’s chosen house.
+
+**Hebrew (Maimonides):** לְהִטַּפֵּל בַּהֲבָאַת הַקָּרְבָּנוֹת מִחוּצָה לָאָרֶץ לְבֵית הַבְּחִירָה
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 12:26 — “Những vật thánh ngươi có và những lễ vật do khấn nguyện, ngươi hãy mang đến nơi YHWH sẽ chọn.”
+
+**Ngữ nghĩa và cách dịch:** Cụm **mi-chutzah la-aretz** được Maimonides hiểu là từ [**ngoài Đất Israel**](./glossary#eretz-yisrael-diaspora). Đây không phải mệnh lệnh đưa mọi tài sản tôn giáo của cộng đồng hải ngoại về Jerusalem, mà nói riêng đến những lễ vật đã có địa vị thánh.
+
+**Bối cảnh và ý nghĩa:** Điều răn mở rộng nguyên tắc thờ phượng tập trung sang trường hợp một lễ vật được biệt riêng ở ngoài xứ. Nó phản ánh một cộng đồng có thể sống phân tán nhưng vẫn quy chiếu nghi lễ hiến tế về một trung tâm duy nhất.
+
+### P86 — Chuộc lễ vật bị khuyết tật để được dùng ngoài nghi lễ
+
+**English:** To redeem consecrated animals that have become blemished, permitting ordinary use.
+
+**Hebrew (Maimonides):** לִפְדוֹת קָדָשִׁים בַּעֲלֵי מוּמִין וְיִהְיוּ מֻתָּרִין בַּאֲכִילָה
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 12:15 cho phép giết và ăn thịt trong các thành theo phước lành đã nhận; truyền thống pháp lý đọc câu này trong trường hợp vật thánh bị loại khỏi bàn thờ và được chuộc.
+
+**Ngữ nghĩa và cách dịch:** [**Kodashim baalei mumim**](./glossary#blemished-sacred-animals) là các con vật đã được thánh hiến nhưng mang khuyết điểm khiến chúng không hợp lệ làm lễ vật. “Chuộc” nghĩa là chuyển địa vị thánh sang giá trị tiền tương ứng, chứ không chữa khuyết tật của con vật.
+
+**Bối cảnh và ý nghĩa:** Việc thánh hiến không bị xóa tùy tiện chỉ vì con vật không thể lên bàn thờ. Cơ chế chuộc bảo toàn giá trị dành cho nơi thánh đồng thời cho phép con vật trở lại phạm vi sử dụng thông thường, dưới những hạn chế pháp lý liên quan.
+
+### P87 — Xem con vật bị đem thay lễ vật là vật thánh
+
+**English:** For an animal substituted for a consecrated animal to become sacred as well.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַתְּמוּרָה קֹדֶשׁ
+
+**Nguồn Torah:** Lêvi 27:33 — không được đổi con này lấy con khác; nếu đã đổi thì cả con ban đầu lẫn con thay thế đều trở thành thánh.
+
+**Ngữ nghĩa và cách dịch:** [**Temurah**](./glossary#temurah) là con vật được chủ tìm cách đặt thay cho một con đã thánh hiến. P87 quy định hậu quả pháp lý của hành vi: con thay thế cũng mang địa vị thánh; nó không nói rằng việc đổi là được phép.
+
+**Bối cảnh và ý nghĩa:** Quy tắc “cả hai đều thánh” loại bỏ động cơ đổi vật tốt lấy vật kém hoặc thu hồi lời dâng khi giá trị thay đổi. Mệnh lệnh tích cực về địa vị của con thay thế đứng song song với điều cấm thực hiện sự hoán đổi.
+
+### P88 — Các tư tế ăn phần còn lại của lễ phẩm ngũ cốc
+
+**English:** For the priests to eat the remainder of meal offerings.
+
+**Hebrew (Maimonides):** לֶאֱכֹל שִׁירֵי מְנָחוֹת
+
+**Nguồn Torah:** Lêvi 6:9–11 (theo cách đánh số Hebrew: 6:2–4) — Aaron và các con trai ăn phần còn lại của *minchah*, không men, tại nơi thánh.
+
+**Ngữ nghĩa và cách dịch:** [**Shirei menachot**](./glossary#shirei-menachot) là phần còn lại của [lễ phẩm ngũ cốc](./glossary#minchah) sau khi phần tưởng niệm đã được đốt trên bàn thờ. “Phần thừa” ở đây là một phần được luật phân bổ, không phải thức ăn dư bị bỏ lại.
+
+**Bối cảnh và ý nghĩa:** Việc ăn là một công đoạn của nghi lễ và là phần nuôi dưỡng hàng tư tế, không phải tự ý lấy lễ vật làm lương thực. Người ăn, địa điểm, trạng thái thanh sạch và thời hạn đều bị giới hạn bởi luật về vật thánh.
+
+### P89 — Các tư tế ăn thịt lễ vật thanh tẩy và đền lỗi
+
+**English:** For the priests to eat the flesh of sin and guilt offerings.
+
+**Hebrew (Maimonides):** לֶאֱכֹל בְּשַׂר חַטָּאת וְאָשָׁם
+
+**Nguồn Torah:** Xuất Hành 29:33 nói các tư tế ăn những vật nhờ đó nghi thức chuộc lỗi được thực hiện; Lêvi 6–7 quy định cụ thể việc ăn *chatat* và *asham*.
+
+**Ngữ nghĩa và cách dịch:** [**Chatat**](./glossary#chatat) và [**asham**](./glossary#asham) là hai loại lễ vật khác nhau; gộp cả hai thành “lễ chuộc tội” làm mất sự phân biệt về trường hợp áp dụng và thủ tục.
+
+**Bối cảnh và ý nghĩa:** Trong hệ thống tư tế, việc ăn đúng quy định không chỉ là phần thưởng sau nghi lễ mà thuộc chính quy trình xử lý lễ vật. Không phải mọi lễ vật thanh tẩy đều được ăn: một số trường hợp có máu được đưa sâu vào nơi thánh phải bị thiêu theo luật riêng.
+
+### P90 — Thiêu thịt lễ vật đã trở nên ô uế nghi lễ
+
+**English:** To burn sacred meat that has become ritually impure.
+
+**Hebrew (Maimonides):** לִשְׂרֹף בָּשָׂר קֹדֶשׁ שֶׁנִּטְמָא
+
+**Nguồn Torah:** Lêvi 7:19 — thịt chạm phải bất cứ vật ô uế nào thì không được ăn mà phải bị thiêu trong lửa.
+
+**Ngữ nghĩa và cách dịch:** “Ô uế” ở đây là [trạng thái nghi lễ](./glossary#ritual-purity), không nhất thiết là thịt hư hỏng hoặc nhiễm bẩn theo tiêu chuẩn vi sinh. **Basar kodesh** là thịt có địa vị thánh từ lễ vật, không phải mọi món thịt dùng trong bữa ăn tôn giáo.
+
+**Bối cảnh và ý nghĩa:** Thiêu hủy ngăn vật đã được thánh hiến nhưng không còn hợp lệ bị ăn hoặc chuyển sang sử dụng thường ngày. Cần phân biệt P90 với việc thiêu phần lễ vật còn quá hạn, được Maimonides tính thành P91.
+
+### P91 — Thiêu phần lễ vật còn lại quá thời hạn được ăn
+
+**English:** To burn sacrificial meat left beyond its permitted time.
+
+**Hebrew (Maimonides):** לִשְׂרֹף נוֹתָר
+
+**Nguồn Torah:** Lêvi 7:15–17 — thịt lễ tạ ơn phải được ăn trong ngày dâng; phần còn lại đến ngày thứ ba phải bị thiêu trong lửa.
+
+**Ngữ nghĩa và cách dịch:** [**Notar**](./glossary#notar) là phần lễ vật “còn lại” sau thời hạn Torah cho phép ăn. Nó khác thịt trở nên ô uế ở P90: *notar* có thể không hề tiếp xúc nguồn ô uế nhưng mất tư cách vì thời gian đã hết.
+
+**Bối cảnh và ý nghĩa:** Thời hạn ăn thay đổi theo loại lễ vật, nên “ngày thứ ba” trong câu không phải quy tắc duy nhất cho mọi trường hợp. Việc thiêu bảo đảm phần thịt mang địa vị thánh không bị cất trữ, trao đổi hoặc ăn như thực phẩm thông thường sau thời hạn nghi lễ.
+
+### P92 — Người Nazirite để tóc mọc trong thời gian lời khấn
+
+**English:** For a Nazirite to let the hair of the head grow during the term of the vow.
+
+**Hebrew (Maimonides):** לְגַדֵּל הַנָּזִיר שְׂעָרוֹ
+
+**Nguồn Torah:** Dân Số 6:5 — trong những ngày của lời khấn Nazirite, dao cạo không được đưa qua đầu; người ấy để các lọn tóc trên đầu mọc dài.
+
+**Ngữ nghĩa và cách dịch:** [**Nazir/Nazirite**](./glossary#nazirite) là người nhận một lời khấn đặc thù gồm kiêng sản phẩm từ nho, không cắt tóc và tránh ô uế do người chết. Từ này không có nghĩa đơn giản là tu sĩ hoặc người sống trong tu viện.
+
+**Bối cảnh và ý nghĩa:** Mái tóc không cắt là dấu hiệu công khai của một thời kỳ biệt riêng có giới hạn hoặc, trong một số trường hợp, dài hạn. Torah điều chỉnh một thực hành khổ hạnh cá nhân trong cộng đồng; nó không biến việc để tóc dài thành nghĩa vụ chung cho mọi người Do Thái.
+
+### P93 — Người Nazirite cạo tóc theo nghi thức khi kết thúc hoặc bị ô uế
+
+**English:** For a Nazirite to shave when completing the vow, or after becoming impure through contact with the dead.
+
+**Hebrew (Maimonides):** לְגַלֵּחַ הַנָּזִיר שְׂעָרוֹ עַל קָרְבְּנוֹתָיו, בִּמְלֹאת יְמֵי נִזְרוֹ אוֹ בְּתוֹךְ יְמֵי נִזְרוֹ אִם נִטְמָא
+
+**Nguồn Torah:** Dân Số 6:9–12 quy định cạo đầu và bắt đầu lại sau khi bất ngờ bị ô uế bởi người chết; Dân Số 6:18 quy định cạo tóc tại cửa Lều Hội Ngộ khi hoàn tất thời kỳ Nazirite.
+
+**Ngữ nghĩa và cách dịch:** Đây là hai hoàn cảnh nghi lễ trong cùng hệ thống [Nazirite](./glossary#nazirite), không phải quyền tùy ý cạo tóc bất kỳ lúc nào. Cụm “trên các lễ vật của mình” liên hệ việc cạo với chuỗi lễ vật tương ứng.
+
+**Bối cảnh và ý nghĩa:** Khi hoàn tất, tóc được đặt vào lửa dưới lễ vật bình an; khi bị ô uế giữa kỳ, việc cạo đánh dấu sự đứt quãng và các ngày trước không được tính. Cạo đầu vì thế vừa đóng một thời kỳ biệt riêng vừa có thể mở đầu việc đếm lại.
+
+### P94 — Thực hiện điều đã phát ra thành lời khấn hoặc lời cam kết
+
+**English:** To fulfill every vow or pledge that one has uttered.
+
+**Hebrew (Maimonides):** לְקַיֵּם אָדָם כֹּל שֶׁהוֹצִיא בִּשְׂפָתָיו מִקָּרְבָּן אוֹ צְדָקָה וְכַיּוֹצֵא בָהֵן
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 23:24 — “Điều đã ra khỏi môi ngươi, ngươi phải giữ và thực hiện”, đúng theo điều đã tự nguyện khấn với YHWH.
+
+**Ngữ nghĩa và cách dịch:** [**Neder**](./glossary#vows) thường đặt địa vị bị cấm hoặc được thánh hiến lên một vật; **shevuah** là lời thề ràng buộc người nói. Công thức của Maimonides ở đây bao gồm lễ vật, *tzedakah* và các cam kết tương tự, nên “giữ lời hứa” quá rộng còn “dâng lễ vật” lại quá hẹp.
+
+**Bối cảnh và ý nghĩa:** Trong xã hội nơi lời nói trước Thiên Chúa tạo hậu quả pháp lý, lời khấn không phải phát biểu cảm xúc có thể bỏ qua. Tuy nhiên, Torah và luật rabbi cũng có thủ tục xử lý một số lời khấn; nghĩa vụ giữ lời không có nghĩa mọi phát ngôn nguy hiểm hoặc bất hợp pháp đều phải được thi hành bằng mọi giá.
+
+### P95 — Áp dụng các luật về hủy hoặc tháo gỡ lời khấn
+
+**English:** To administer the laws governing the annulment of vows.
+
+**Hebrew (Maimonides):** לָדוּן בְּהַפָרַת נְדָרִים בְּכָל הַדִּינִין הָאֲמוּרִין בַּפָּרָשָׁה
+
+**Nguồn Torah:** Dân Số 30 trình bày hiệu lực của lời khấn và những trường hợp người cha hoặc người chồng có thể vô hiệu lời khấn của con gái hay vợ trong thời hạn luật định.
+
+**Ngữ nghĩa và cách dịch:** [**Hafarat nedarim**](./glossary#vow-annulment) trong chương này là việc vô hiệu lời khấn bằng thẩm quyền gia đình được văn bản cổ quy định. Truyền thống rabbi còn phân biệt nó với **hatarat nedarim**, việc một học giả hoặc tòa án tháo gỡ lời khấn trên cơ sở pháp lý khác.
+
+**Bối cảnh và ý nghĩa:** Dân Số 30 phản ánh cấu trúc gia đình phụ hệ của thế giới cổ, trong đó địa vị của lời khấn phụ nữ có thể phụ thuộc quan hệ gia đình. Giải thích bối cảnh này không đồng nghĩa biến quyền lực gia trưởng cổ thành quy tắc dân sự phổ quát cho xã hội hiện đại.
+
+### P96 — Xác định ô uế nghi lễ do chạm xác động vật
+
+**English:** For contact with the carcass of an animal to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת כָּל נוֹגֵעַ בִּנְבֵלָה טָמֵא
+
+**Nguồn Torah:** Lêvi 11:39–40 — người chạm xác một loài vật vốn được phép ăn nhưng chết không qua giết mổ hợp lệ trở nên ô uế đến chiều; việc mang hoặc ăn xác kéo theo giặt y phục.
+
+**Ngữ nghĩa và cách dịch:** [**Nevelah**](./glossary#nevelah) là xác động vật chết theo cách khiến nó không hợp lệ làm thực phẩm, không phải mọi loại “rác” hay xác người. Dạng “phải trở nên ô uế” dễ gây hiểu sai: mitzvah xác lập hậu quả pháp lý khi có tiếp xúc, chứ không ra lệnh phải đi chạm xác.
+
+**Bối cảnh và ý nghĩa:** Ô uế giới hạn việc tiếp cận vật thánh và nơi thánh trong một thời hạn; nó không tự động là tội, bệnh truyền nhiễm hoặc sự ô nhục đạo đức. Người chăn nuôi và xử lý động vật có thể gặp trạng thái này trong sinh hoạt bình thường.
+
+### P97 — Xác định ô uế nghi lễ từ tám loài sinh vật bò sát được nêu tên
+
+**English:** For the carcasses of the eight specified creeping creatures to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת שְׁמוֹנָה שְׁרָצִים מְטַמְאִין
+
+**Nguồn Torah:** Lêvi 11:29–31 liệt kê tám loại *sheretz* mà xác chết của chúng truyền ô uế cho người chạm vào.
+
+**Ngữ nghĩa và cách dịch:** [**Shemonah sheratzim**](./glossary#sheratzim) là một danh mục pháp lý tám loài trong văn bản Hebrew. Việc đồng nhất từng tên cổ với loài động vật hiện đại còn có điểm bất định, nên không nên ép cả nhóm thành “côn trùng” hay “bò sát” theo phân loại sinh học hiện nay.
+
+**Bối cảnh và ý nghĩa:** Luật còn mô tả cách xác của chúng ảnh hưởng đến đồ dùng, lò và nguồn nước. Đây là bản đồ ranh giới nghi lễ của thế giới vật chất, không phải giáo trình động vật học hay khuyến cáo y tế về loài có độc.
+
+### P98 — Xác định khả năng thực phẩm tiếp nhận ô uế nghi lễ
+
+**English:** For certain foods to be capable of becoming ritually impure.
+
+**Hebrew (Maimonides):** לִהְיוֹת הָאֹכָלִין מִתְטַמְאִין
+
+**Nguồn Torah:** Lêvi 11:34, 37–38 quy định thức ăn có nước tiếp xúc và hạt giống trong những điều kiện nhất định có thể nhận ô uế từ nguồn ô uế.
+
+**Ngữ nghĩa và cách dịch:** “Thực phẩm trở nên ô uế” là thay đổi [địa vị nghi lễ](./glossary#food-impurity), không đồng nghĩa thực phẩm đã thối, có vi khuẩn hoặc luôn bị cấm ăn vì không kosher. Trong luật rabbi, khả năng tiếp nhận ô uế phụ thuộc loại thực phẩm, trạng thái và việc đã tiếp xúc chất lỏng.
+
+**Bối cảnh và ý nghĩa:** Các quy tắc đặc biệt quan trọng đối với thực phẩm thánh, phần dành cho tư tế và việc ăn trong trạng thái thanh sạch. Chúng tổ chức sự tiếp xúc với nơi thánh; không nên dùng thay tiêu chuẩn an toàn thực phẩm hiện đại.
+
+### P99 — Xác định trạng thái ô uế nghi lễ của niddah
+
+**English:** For a woman in the niddah state to be ritually impure and to transmit impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַנִּדָּה טְמֵאָה וּמְטַמְּאָה לַאֲחֵרִים
+
+**Nguồn Torah:** Lêvi 15:19–24 quy định trạng thái bảy ngày khi người nữ có dòng máu kinh nguyệt, cùng ảnh hưởng nghi lễ lên người và vật tiếp xúc.
+
+**Ngữ nghĩa và cách dịch:** [**Niddah**](./glossary#niddah) là một phạm trù pháp lý–nghi lễ liên quan kinh nguyệt và quan hệ vợ chồng; không nên dịch thành “người đàn bà dơ bẩn”. P99 xác định trạng thái và khả năng truyền ô uế, không ra lệnh phụ nữ phải có kinh nguyệt.
+
+**Bối cảnh và ý nghĩa:** Máu kinh nguyệt được đặt trong hệ thống rộng hơn về máu, sinh sản, sự sống và việc tiếp cận nơi thánh. “Ô uế” không phải lỗi đạo đức, nên văn bản không cho phép suy ra rằng người có kinh đáng xấu hổ hoặc kém thánh thiện hơn về phẩm giá.
+
+### P100 — Xác định trạng thái ô uế nghi lễ sau sinh
+
+**English:** For a woman after childbirth to have a ritual status comparable to niddah.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַיּוֹלֶדֶת טְמֵאָה כַּנִּדָּה
+
+**Nguồn Torah:** Lêvi 12:1–5 quy định thời kỳ ô uế ban đầu và những ngày “máu thanh sạch” sau khi sinh con, với thời lượng văn bản phân biệt theo giới tính của đứa trẻ.
+
+**Ngữ nghĩa và cách dịch:** **Yoledet** là người nữ vừa sinh; “như [niddah](./glossary#niddah)” mô tả địa vị nghi lễ trong giai đoạn đầu, không nói sinh nở là một tội. P100 nói về trạng thái; lễ vật hậu sản sau thời kỳ ấy đã được tính riêng ở P77.
+
+**Bối cảnh và ý nghĩa:** Luật thuộc quan niệm cổ về máu và ranh giới sự sống quanh sinh nở. Sự khác biệt thời lượng theo giới tính đã được giải thích theo nhiều cách nhưng Torah không nêu một lý do minh nhiên; không nên biến suy đoán về lý do thành dữ kiện lịch sử hoặc chỉ dẫn y khoa hiện đại.
+
+### P101 — Xác định trạng thái và khả năng truyền ô uế của người mắc tzaraat
+
+**English:** For a person afflicted with tzaraat to be ritually impure and to transmit impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַמְּצֹרָע טָמֵא וּמְטַמֵּא
+
+**Nguồn Torah:** Lêvi 13 mô tả các dấu hiệu trên da và việc kohen kiểm tra, cách ly hoặc tuyên bố thanh sạch hay ô uế; câu 45–46 quy định tình trạng của người đã được xác định mắc *tzaraat*.
+
+**Ngữ nghĩa và cách dịch:** **Metzora** là người được kohen xác định mang [**tzaraat**](./glossary#tzaraat). “Truyền ô uế” nói đến hiệu lực nghi lễ lên người, đồ vật hoặc không gian theo những điều kiện pháp lý cụ thể, không khẳng định một cơ chế lây nhiễm y học.
+
+**Bối cảnh và ý nghĩa:** Kohen phân loại trạng thái dựa trên dấu hiệu và thời gian theo dõi, không đóng vai bác sĩ chữa bệnh Hansen. Việc ở ngoài trại tổ chức ranh giới của cộng đồng và nơi thánh; không nên dùng quy định cổ này để kỳ thị người mắc bệnh da liễu hiện đại.
+
+### P102 — Xác định ô uế nghi lễ của tzaraat trên vải và da
+
+**English:** For a garment afflicted with tzaraat to be ritually impure and to transmit impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת בֶּגֶד מְנֻגָּע טָמֵא וּמְטַמֵּא
+
+**Nguồn Torah:** Lêvi 13:47–59 quy định việc kiểm tra vết biến đổi trên đồ len, đồ lanh và vật bằng da, gồm cách ly, giặt, cắt bỏ phần bị ảnh hưởng hoặc thiêu vật.
+
+**Ngữ nghĩa và cách dịch:** **Beged menugga** là vật dệt hoặc da “bị tổn hại” thuộc phạm trù [tzaraat](./glossary#tzaraat). Việc cả quần áo và nhà cửa có thể mang *tzaraat* cho thấy dịch từ này thành “bệnh phong” theo nghĩa y học là không phù hợp.
+
+**Bối cảnh và ý nghĩa:** Văn bản xử lý sự biến đổi của vật liệu bằng quan sát lặp lại và các bước có cấp độ, chứ không lập một lý thuyết vi sinh. P102 bao gồm cách xác định vật nào mang trạng thái và vật ấy ảnh hưởng nghi lễ ra sao.
+
+### P103 — Xác định ô uế nghi lễ của tzaraat trong nhà
+
+**English:** For a house afflicted with tzaraat to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת בַּיִת מְנֻגָּע מְטַמֵּא
+
+**Nguồn Torah:** Lêvi 14:33–53 quy định việc báo cho kohen, dọn nhà trước khi khám, cách ly, tháo đá bị ảnh hưởng, trát lại hoặc phá nhà nếu dấu hiệu tái phát.
+
+**Ngữ nghĩa và cách dịch:** **Bayit menugga** là ngôi nhà mang dấu hiệu [tzaraat](./glossary#tzaraat), không phải cách gọi kỹ thuật cho nấm mốc theo khoa học hiện đại. Torah đặt luật này trong “đất Canaan mà Ta ban cho các ngươi làm sở hữu”.
+
+**Bối cảnh và ý nghĩa:** Nhà, y phục và thân thể cùng nằm trong một hệ thống ranh giới thanh sạch. Thủ tục có những nét giống kiểm tra vật liệu nhưng mục tiêu của văn bản là xác định địa vị nghi lễ; không nên thay thế việc đánh giá độc chất, kết cấu hoặc sức khỏe môi trường ngày nay.
+
+### P104 — Xác định khả năng truyền ô uế của zav
+
+**English:** For a zav to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַזָּב מְטַמֵּא
+
+**Nguồn Torah:** Lêvi 15:1–15 mô tả dòng tiết bất thường ở nam giới và cách trạng thái ấy ảnh hưởng đến giường, chỗ ngồi, người tiếp xúc và đồ dùng.
+
+**Ngữ nghĩa và cách dịch:** [**Zav**](./glossary#zav-zavah) là phạm trù nghi lễ, không phải tên chắc chắn của một bệnh lây truyền qua đường tình dục. P104 không ra lệnh tạo ra dòng tiết mà quy định hậu quả khi tình trạng được xác lập.
+
+**Bối cảnh và ý nghĩa:** Hệ thống phân biệt nhiều mức tiếp xúc—chạm, mang, ngồi hoặc bị dịch cơ thể tiếp xúc—với yêu cầu giặt, tắm và chờ đến chiều. Các bước này phục vụ việc tái tiếp cận nơi thánh, không phải phác đồ chẩn đoán hay điều trị.
+
+### P105 — Xác định ô uế nghi lễ do tinh dịch
+
+**English:** For an emission of semen to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת שִׁכְבַת זֶרַע מְטַמְאָה
+
+**Nguồn Torah:** Lêvi 15:16–18 quy định người xuất tinh, y phục hoặc da dính tinh dịch và hai người sau quan hệ phải tắm hoặc giặt và ở trạng thái ô uế đến chiều.
+
+**Ngữ nghĩa và cách dịch:** [**Shikhvat zera**](./glossary#seminal-emission) nghĩa đen gần với “dòng/hạt giống giao hợp”, dùng cho tinh dịch trong ngôn ngữ Kinh Thánh. Trạng thái nghi lễ phát sinh không tự nó chứng minh hành vi là tội hay tình dục trong hôn nhân là dơ bẩn.
+
+**Bối cảnh và ý nghĩa:** Giống kinh nguyệt và sinh nở, tinh dịch đặt hoạt động sinh sản ở ranh giới nghi lễ giữa sự sống, mất chất cơ thể và nơi thánh. Thời hạn đến chiều cho thấy đây có thể là trạng thái thường nhật, tạm thời chứ không phải vết nhơ đạo đức lâu dài.
+
+### P106 — Xác định khả năng truyền ô uế của zavah
+
+**English:** For a zavah to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת זָבָה מְטַמְאָה
+
+**Nguồn Torah:** Lêvi 15:25–30 quy định dòng máu ngoài kỳ kinh thông thường hoặc kéo dài quá kỳ, tác động lên giường, chỗ ngồi và người tiếp xúc, cùng thủ tục sau khi dòng máu chấm dứt.
+
+**Ngữ nghĩa và cách dịch:** [**Zavah**](./glossary#zav-zavah) khác *niddah* trong cấu trúc của Lêvi, dù luật rabbi về sau liên kết hai phạm trù trong thực hành. “Truyền ô uế” không đồng nghĩa người nữ nguy hiểm hay đáng tránh về mặt xã hội.
+
+**Bối cảnh và ý nghĩa:** Sau khi hết dòng máu, văn bản yêu cầu đếm bảy ngày rồi dâng chim vào ngày thứ tám khi Đền Thờ hoạt động. P106 xác định trạng thái và tiếp xúc; P75 đã tính riêng lễ vật kết thúc quá trình.
+
+### P107 — Xác định ô uế nghi lễ do xác người
+
+**English:** For a human corpse to impart ritual impurity.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַמֵּת מְטַמֵּא
+
+**Nguồn Torah:** Dân Số 19:11–16 quy định ô uế bảy ngày do chạm xác người, xương hoặc mộ, và do ở trong lều có người chết.
+
+**Ngữ nghĩa và cách dịch:** [**Tumat met**](./glossary#corpse-impurity) là ô uế do người chết, được xem là mức nghi lễ nghiêm trọng và cần nước tro bò đỏ để thanh tẩy. Nó khác *nevelah*, xác động vật ở P96.
+
+**Bối cảnh và ý nghĩa:** Chăm sóc và chôn cất người chết vẫn là nghĩa vụ quan trọng; vì vậy mắc ô uế không có nghĩa đã phạm tội. Luật thừa nhận tiếp xúc với cái chết là cần thiết nhưng đặt một quy trình trước khi người ấy trở lại phạm vi thánh.
+
+### P108 — Áp dụng luật về nước tro bò đỏ vừa thanh tẩy vừa truyền ô uế
+
+**English:** To administer the laws of the waters mixed with the ashes of the red heifer, which purify in some cases and impart impurity in others.
+
+**Hebrew (Maimonides):** לִהְיוֹת ״מֵי נִדָּה״ מְטַמְאִין לְאָדָם טָהוֹר וּמְטַהֲרִין מִטֻּמְאַת מֵת בִּלְבָד
+
+**Nguồn Torah:** Dân Số 19:17–21 quy định pha tro của bò cái đỏ với “nước sống”, rảy lên người ô uế do xác chết vào ngày thứ ba và thứ bảy, đồng thời nói người thực hiện việc rảy hoặc chạm nước ấy trở nên ô uế đến chiều.
+
+**Ngữ nghĩa và cách dịch:** [**Mei niddah**](./glossary#mei-niddah) ở đây là nước thanh tẩy chứa tro bò đỏ, không phải máu hay nước tắm kinh nguyệt dù cùng gốc từ xuất hiện trong thuật ngữ *niddah*. Công thức của Maimonides nhấn mạnh tác động hai chiều: thanh tẩy người mắc *tumat met* nhưng có thể truyền ô uế cho người đang thanh sạch.
+
+**Bối cảnh và ý nghĩa:** Nghịch lý “người thanh sạch bị ô uế trong khi người ô uế được thanh sạch” là đặc điểm nổi tiếng của nghi lễ bò đỏ. Nó cho thấy *tumah* và *taharah* là địa vị quan hệ trong một thủ tục, không thể giản lược thành sạch và bẩn vật lý.
+
+### P109 — Ngâm toàn thân trong mikveh để chuyển khỏi trạng thái ô uế
+
+**English:** For purification from ritual impurity to involve immersion in the waters of a mikveh.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַטָּהֳרָה מִכָּל הַטְּמֵאוֹת בַּטְּבִילָה בְּמֵי מִקְוֶה
+
+**Nguồn Torah:** Lêvi 15:16 nói người ấy phải “tắm toàn thân mình trong nước”; các luật tương tự xuất hiện ở nhiều trường hợp ô uế. Truyền thống pháp lý hiểu việc tắm này là ngâm toàn thân trong một tập hợp nước đủ điều kiện.
+
+**Ngữ nghĩa và cách dịch:** [**Mikveh**](./glossary#mikveh) là nguồn hoặc bể nước nghi lễ đáp ứng các điều kiện halakhah, không phải mọi bồn tắm. Mitzvah xác định con đường thanh tẩy cho người muốn rời trạng thái ô uế; theo chính giải thích của Maimonides, nó không buộc mọi người đang ô uế phải lập tức ngâm mình nếu họ không cần vào phạm vi thánh.
+
+**Bối cảnh và ý nghĩa:** Toàn thân phải đồng thời tiếp xúc nước, không có vật ngăn cách; trong nhiều trường hợp trạng thái chỉ hoàn tất khi mặt trời lặn. Mikveh không thay thế việc tắm vệ sinh và cũng không có chức năng chữa nhiễm trùng hay bệnh da.
+
+### P110 — Thanh tẩy tzaraat bằng tuyết tùng, hương thảo, chỉ đỏ, chim và nước sống
+
+**English:** For purification from tzaraat to use cedar wood, hyssop, crimson wool, two birds, and living water.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַטָּהֳרָה מִן הַצָּרַעַת בֵּין צָרַעַת אָדָם בֵּין צָרַעַת בַּיִת בְּעֵץ אֶרֶז וְאֵזוֹב וּשְׁנִי תוֹלַעַת וּשְׁתֵּי צִפֳּרִים וּמַיִם חַיִּים
+
+**Nguồn Torah:** Lêvi 14:1–7 mô tả bước đầu thanh tẩy người mắc *tzaraat* bằng hai chim thanh sạch, gỗ tuyết tùng, sợi đỏ thẫm, *ezov* và nước từ nguồn; Lêvi 14:49–53 dùng nhóm vật liệu tương tự cho nhà.
+
+**Ngữ nghĩa và cách dịch:** Quy trình [**thanh tẩy tzaraat**](./glossary#tzaraat-purification) áp dụng cho người và nhà, nhưng không phải mọi chi tiết đều giống nhau. **Ezov** thường dịch là “hương thảo/hyssop”, song việc nhận diện chính xác loài thực vật Kinh Thánh còn được thảo luận; **mayim chayim** là nước từ nguồn đang chảy, không phải “nước thần”.
+
+**Bối cảnh và ý nghĩa:** Một chim bị giết trên nước trong bình đất; chim sống cùng các vật liệu được nhúng, dùng để rảy rồi thả đi. Đây mới là bước đầu của quá trình đối với con người; cạo tóc và các lễ vật về sau được tính thành những mitzvot riêng.
+
+### P111 — Người được thanh tẩy khỏi tzaraat cạo toàn bộ tóc
+
+**English:** For a person being purified from tzaraat to shave all the hair.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַמְּצֹרָע מְגַלֵּחַ כָּל שְׂעָרוֹ
+
+**Nguồn Torah:** Lêvi 14:8–9 quy định giặt y phục, cạo tóc và tắm; đến ngày thứ bảy, người ấy cạo tóc đầu, râu, lông mày và toàn bộ lông, rồi lại giặt và tắm.
+
+**Ngữ nghĩa và cách dịch:** **Metzora** là người mang [tzaraat](./glossary#tzaraat), không phải mặc nhiên “bệnh nhân phong”. Việc cạo ở đây là bước được quy định trong [quá trình thanh tẩy](./glossary#tzaraat-purification), khác với việc cạo đầu của Nazirite ở P93.
+
+**Bối cảnh và ý nghĩa:** Cạo, giặt, tắm, chờ thời gian và dâng lễ vật tạo thành các giai đoạn tái nhập không gian gia đình và nơi thánh. Tóc không phải nguyên nhân y học của *tzaraat*; hành vi cạo đánh dấu sự chuyển đổi địa vị nghi lễ.
+
+### P112 — Người mang tzaraat công khai cho người khác biết trạng thái của mình
+
+**English:** For a person afflicted with tzaraat to make the ritual status publicly recognizable.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַמְּצֹרָע יָדוּעַ לַכֹּל בַּדְּבָרִים הָאֲמוּרִים בּוֹ: ״בְּגָדָיו יִהְיוּ פְרוּמִים וְרֹאשׁוֹ יִהְיֶה פָרוּעַ וְעַל שָׂפָם יַעְטֶה, וְטָמֵא טָמֵא יִקְרָא״. וְכֵן שְׁאָר הַטְּמֵאִים צְרִיכִין לְהוֹדִיעַ אֶת עַצְמָן
+
+**Nguồn Torah:** Lêvi 13:45–46 yêu cầu người đã được xác định mắc *tzaraat* mặc áo rách, để tóc xõa, che phần trên môi, kêu “Ô uế! Ô uế!” và ở ngoài trại trong thời gian mang trạng thái.
+
+**Ngữ nghĩa và cách dịch:** Công thức Hebrew của Maimonides nhấn mạnh người ấy phải “được mọi người nhận biết” bằng các dấu hiệu Torah nêu; ông còn khái quát rằng những người mang ô uế khác cần báo trạng thái khi có liên quan. “Công khai” không có nghĩa tiết lộ hồ sơ bệnh án theo chuẩn hiện đại.
+
+**Bối cảnh và ý nghĩa:** Trong hệ thống Đền Thờ, việc nhận biết trạng thái giúp người khác tránh tiếp xúc có hậu quả nghi lễ. Văn bản cổ đồng thời tạo ra sự tách biệt xã hội rõ rệt; không nên viện dẫn nó để làm nhục, kỳ thị hay cưỡng bức cách ly người mắc bệnh da ngày nay.
+
+### P113 — Chuẩn bị bò cái đỏ để tro sẵn dùng cho việc thanh tẩy
+
+**English:** To prepare the red heifer so that its ashes are available for purification.
+
+**Hebrew (Maimonides):** לַעֲשׂוֹת פָּרָה אֲדֻמָּה לִהְיוֹת אֶפְרָהּ מוּכָן
+
+**Nguồn Torah:** Dân Số 19:2–10 quy định đưa một bò cái đỏ không tì vết ra ngoài trại, giết và thiêu nó cùng gỗ tuyết tùng, *ezov* và sợi đỏ; tro được giữ cho cộng đồng để pha nước thanh tẩy.
+
+**Ngữ nghĩa và cách dịch:** [**Parah adumah**](./glossary#parah-adumah) nghĩa là “bò cái đỏ”; **adumah** có dải nghĩa màu đỏ hoặc nâu đỏ, không nhất thiết màu đỏ tươi. P113 nói về việc chuẩn bị và dự trữ tro, còn P108 nói về tác động pháp lý của nước đã pha tro.
+
+**Bối cảnh và ý nghĩa:** Con vật được xử lý ngoài trại, không phải lễ vật thông thường trên bàn thờ. Tro chỉ phục vụ quá trình thanh tẩy khỏi ô uế do xác người; việc tìm hoặc nuôi bò đỏ ngày nay không tự nó tái lập nghi lễ khi thiếu toàn bộ thiết chế liên quan.
+
+### P114 — Nộp khoản định giá đã khấn đối với một con người
+
+**English:** For one who vows a person's fixed valuation to pay the amount prescribed by the Torah.
+
+**Hebrew (Maimonides):** לִהְיוֹת מַעֲרִיךְ אָדָם, נוֹתֵן דָּמִים הַקְצוּבִין בַּפָּרָשָׁה
+
+**Nguồn Torah:** Lêvi 27:1–8 đặt các mức bạc theo nhóm tuổi và giới tính cho lời khấn **erekh**; nếu người khấn nghèo, kohen định mức theo khả năng.
+
+**Ngữ nghĩa và cách dịch:** [**Arakhin**](./glossary#arakhin) là hệ thống định giá lời khấn trong Lêvi 27. Khoản tiền không phải giá mua bán, tiền chuộc mạng hay đánh giá phẩm giá thực của một con người; đó là mức quy ước gắn với một loại công thức khấn.
+
+**Bối cảnh và ý nghĩa:** Các mức khác nhau phản ánh hệ thống kinh tế và phân loại xã hội cổ, có thể liên hệ sức lao động nhưng văn bản không giải thích đầy đủ căn nguyên. Ngoại lệ dành cho người nghèo cho thấy nghĩa vụ được điều chỉnh theo khả năng chứ không biến người không trả nổi thành tài sản.
+
+### P115 — Nộp giá trị được định cho con vật không thích hợp làm lễ vật
+
+**English:** For one who vows the value of an animal unfit for sacrifice to pay its appraised value.
+
+**Hebrew (Maimonides):** לִהְיוֹת מַעֲרִיךְ בְּהֵמָה טְמֵאָה, נוֹתֵן דָּמֶיהָ
+
+**Nguồn Torah:** Lêvi 27:11–13 yêu cầu đưa con vật không thanh sạch đến trước kohen để định giá; nếu người dâng muốn chuộc lại, phải thêm một phần năm vào giá ấy.
+
+**Ngữ nghĩa và cách dịch:** **Behemah temeah** trong ngữ cảnh này là con vật không hợp lệ để dâng trên bàn thờ, không phải con vật bẩn về vệ sinh. Khác P114 có bảng mức cố định, trường hợp này dùng [định giá tài sản thánh](./glossary#arakhin) do kohen thực hiện.
+
+**Bối cảnh và ý nghĩa:** Một vật không thể hiến tế vẫn có thể được biệt cho nơi thánh bằng giá trị kinh tế. Thủ tục định giá và khoản thêm khi chủ chuộc lại ngăn lời dâng bị rút lại tùy tiện hoặc định giá thấp vì lợi ích cá nhân.
+
+### P116 — Nộp giá trị do kohen định cho ngôi nhà đã thánh hiến
+
+**English:** For one who consecrates a house to pay the value appraised by the priest when redeeming it.
+
+**Hebrew (Maimonides):** לִהְיוֹת מַעֲרִיךְ בֵּיתוֹ נוֹתֵן כְּעֶרֶךְ הַכֹּהֵן
+
+**Nguồn Torah:** Lêvi 27:14–15 quy định kohen định giá ngôi nhà đã được biệt làm thánh; nếu chủ muốn chuộc lại nhà thì thêm một phần năm vào giá.
+
+**Ngữ nghĩa và cách dịch:** “Thánh hiến nhà” ở đây đưa giá trị tài sản vào phạm vi [**hekdesh**](./glossary#arakhin); nó không biến ngôi nhà thành hội đường hay Đền Thờ. “Nộp giá trị” nói đến hệ quả tài chính của lời dâng và việc chuộc lại.
+
+**Bối cảnh và ý nghĩa:** Kohen làm người định giá trong cơ chế tài sản dành cho nơi thánh. Khoản bổ sung khi chính chủ chuộc lại tạo chi phí cho việc đảo ngược quyết định, qua đó bảo vệ tính nghiêm túc của lời thánh hiến.
+
+### P117 — Áp dụng mức định giá Torah cho cánh đồng đã thánh hiến
+
+**English:** For one who consecrates a field to pay the valuation prescribed by the Torah.
+
+**Hebrew (Maimonides):** לִהְיוֹת מַקְדִּישׁ שָׂדֵהוּ נוֹתֵן כְּעֶרֶךְ הַקָּצוּב בַּפָּרָשָׁה
+
+**Nguồn Torah:** Lêvi 27:16–24 định giá ruộng tổ nghiệp theo lượng hạt cần gieo và số năm còn lại đến Năm Toàn Xá; luật khác áp dụng cho ruộng đã mua.
+
+**Ngữ nghĩa và cách dịch:** Giá không đơn giản là giá thị trường của đất mà dựa trên sức chứa hạt giống và chu kỳ [Jubilee](./glossary#jubilee). Cần phân biệt ruộng thuộc gia sản dòng họ với ruộng người khấn đã mua từ người khác.
+
+**Bối cảnh và ý nghĩa:** Đất trong xã hội nông nghiệp Israel gắn với gia tộc và chu kỳ hoàn trả, nên lời thánh hiến không được xử lý như bán bất động sản vĩnh viễn. Thời gian còn lại đến Jubilee ảnh hưởng trực tiếp đến giá trị quyền sử dụng.
+
+### P118 — Hoàn trả tài sản thánh đã vô ý sử dụng và nộp thêm một phần năm
+
+**English:** To repay for unintentional misuse of sacred property and add one fifth.
+
+**Hebrew (Maimonides):** לְשַׁלֵּם הַשּׁוֹגֵג בִּמְּעִילָה מַה שֶׁמָּעַל לַיְיָ וּלְהוֹסִיף חֹמֶשׁ
+
+**Nguồn Torah:** Lêvi 5:15–16 quy định người vô ý xâm phạm vật thánh phải hoàn trả điều đã xâm phạm, thêm một phần năm và mang lễ vật đền lỗi.
+
+**Ngữ nghĩa và cách dịch:** [**Meilah**](./glossary#meilah) là sử dụng, hưởng lợi hoặc làm suy giảm tài sản có địa vị thánh trái quy định. **Chomesh**, “một phần năm”, trong phép tính rabbi là phần bổ sung bằng một phần năm tổng số sau khi cộng—tức một phần tư giá trị gốc.
+
+**Bối cảnh và ý nghĩa:** Nghĩa vụ tài chính và lễ vật đền lỗi là hai phần khác nhau: dâng lễ không thay cho hoàn trả. Luật bảo vệ tài sản Đền Thờ ngay cả khi hành vi là vô ý, đồng thời phân biệt vô ý với hành vi cố tình trong trách nhiệm pháp lý.
+
+### P119 — Biệt hoa trái năm thứ tư làm vật thánh
+
+**English:** For the fruit of a tree's fourth year to be sacred.
+
+**Hebrew (Maimonides):** לִהְיוֹת נֶטַע רְבָעִי קֹדֶשׁ
+
+**Nguồn Torah:** Lêvi 19:23–25 cấm dùng quả trong ba năm đầu; năm thứ tư toàn bộ hoa trái là “thánh, để ngợi khen YHWH”, và từ năm thứ năm mới được ăn như thường.
+
+**Ngữ nghĩa và cách dịch:** [**Neta revai**](./glossary#neta-revai) là sản phẩm năm thứ tư của cây ăn quả, sau ba năm *orlah*. Theo luật rabbi, hoa trái được ăn tại Jerusalem trong trạng thái thanh sạch hoặc giá trị thánh được chuyển sang tiền để mang đến đó, tương tự một số quy tắc của phần mười thứ hai.
+
+**Bối cảnh và ý nghĩa:** Luật trì hoãn quyền hưởng hoa trái và dành vụ đầu tiên được phép sử dụng cho không gian thánh. Đây là lịch nghi lễ–nông nghiệp tính từ việc trồng cây, không phải nhận định thực vật học rằng mọi quả non ba năm đều độc hoặc không ăn được.
+
+### P120 — Chừa một góc ruộng cho người nghèo và ngoại kiều
+
+**English:** To leave the corner of a field unharvested for the poor and the resident alien.
+
+**Hebrew (Maimonides):** לְהַנִּיחַ פֵּאָה
+
+**Nguồn Torah:** Lêvi 19:9–10 và 23:22 cấm gặt hết đến tận góc ruộng, yêu cầu để phần ấy lại cho người nghèo và **ger**.
+
+**Ngữ nghĩa và cách dịch:** [**Peah**](./glossary#peah) nghĩa là cạnh hoặc góc; đây là phần chủ ruộng không thu hoạch để người thụ hưởng tự lấy, khác một khoản thuế được gom rồi phân phối. [**Ger**](./glossary#ger) trong luật Kinh Thánh là người ngoại kiều cư trú và dễ tổn thương, không hoàn toàn đồng nghĩa khách du lịch hay mọi “người nước ngoài” hiện đại.
+
+**Bối cảnh và ý nghĩa:** Luật đặt quyền tiếp cận sinh kế của người nghèo ngay trong phương thức thu hoạch, đồng thời giữ cho họ một mức chủ động thay vì chỉ nhận bố thí. Torah không ấn định tỷ lệ cụ thể trong câu; mức tối thiểu và chi tiết được truyền thống rabbi phát triển về sau.
+
+### P121 — Để lại những bông lúa rơi khi gặt cho người nghèo
+
+**English:** To leave fallen gleanings of the harvest for the poor.
+
+**Hebrew (Maimonides):** לְהַנִּיחַ לֶקֶט
+
+**Nguồn Torah:** Lêvi 19:9–10 và 23:22 yêu cầu không nhặt những gì rơi trong lúc gặt mà để lại cho người nghèo và ngoại kiều cư trú.
+
+**Ngữ nghĩa và cách dịch:** [**Leket**](./glossary#leket) là số bông hoặc thân lúa rơi khỏi tay người gặt trong thao tác thu hoạch, không phải mọi hạt thất thoát sau khi đã gom và chế biến. Chủ ruộng phải để phần ấy lại thay vì nhặt rồi tùy ý bố thí.
+
+**Bối cảnh và ý nghĩa:** Luật thuộc truyền thống “mót lúa”, cho phép người nghèo trực tiếp thu gom sản vật còn tại đồng. Nó đặt giới hạn lên quyền tối đa hóa vụ thu hoạch: hiệu quả kinh tế của chủ đất không xóa quyền sinh kế của người yếu thế.
+
+### P122 — Để lại bó lúa bị quên cho người nghèo
+
+**English:** To leave a forgotten sheaf in the field for the poor.
+
+**Hebrew (Maimonides):** לְהַנִּיחַ עֹמֶר הַשִּׁכְחָה
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 24:19 — nếu gặt ruộng và quên một bó lúa ngoài đồng, không được quay lại lấy; nó thuộc về ngoại kiều cư trú, trẻ mồ côi và góa phụ.
+
+**Ngữ nghĩa và cách dịch:** [**Shikhecha**](./glossary#shikhecha) nghĩa là “sự quên”; luật chỉ phần thu hoạch thực sự bị bỏ quên theo các điều kiện pháp lý, không phải phần chủ cố tình đặt xuống rồi tuyên bố đã quên. **Omer** ở đây là bó lúa, khác đơn vị đo và lễ phẩm *omer* ở P44.
+
+**Bối cảnh và ý nghĩa:** Một sai sót vốn có thể được xem là mất mát của chủ ruộng được luật chuyển thành quyền lợi của người dễ tổn thương. Chủ đất không được quay lại thu hồi, qua đó lòng nhân không chỉ phụ thuộc vào ý định hào phóng tại thời điểm cho.
+
+### P123 — Để lại những chùm nho không phát triển đầy đủ cho người nghèo
+
+**English:** To leave incompletely formed grape clusters for the poor.
+
+**Hebrew (Maimonides):** לְהַנִּיחַ עוֹלְלוֹת בַּכֶּרֶם
+
+**Nguồn Torah:** Lêvi 19:10 và Phục Truyền Luật Lệ 24:21 yêu cầu không thu vét vườn nho mà để phần còn lại cho người nghèo, ngoại kiều, trẻ mồ côi và góa phụ.
+
+**Ngữ nghĩa và cách dịch:** [**Olelot**](./glossary#olelot) là những chùm nho có cấu trúc không hoàn chỉnh theo cách luật rabbi xác định, chứ không phải mọi quả nhỏ, hỏng hoặc toàn bộ nho sót lại.
+
+**Bối cảnh và ý nghĩa:** Cùng *peah*, *leket*, *shikhecha* và *peret*, luật tạo một mạng lưới hỗ trợ gắn trực tiếp với mùa thu hoạch. Người nghèo tham gia thu gom sản vật thay vì chỉ đứng ngoài chờ chủ vườn phân phát.
+
+### P124 — Để lại những quả nho rơi rời rạc cho người nghèo
+
+**English:** To leave individual fallen grapes for the poor.
+
+**Hebrew (Maimonides):** לְהַנִּיחַ פֶּרֶט הַכֶּרֶם
+
+**Nguồn Torah:** Lêvi 19:10 cấm nhặt những quả rơi rải rác của vườn nho và yêu cầu để chúng cho người nghèo và ngoại kiều cư trú.
+
+**Ngữ nghĩa và cách dịch:** [**Peret**](./glossary#peret) là những quả riêng lẻ rơi trong lúc hái nho, phân biệt với *olelot* là chùm không hoàn chỉnh và với lệnh rộng hơn không thu vét vườn nho.
+
+**Bối cảnh và ý nghĩa:** Maimonides tính riêng các hình thức để lại vì mỗi hình thức tạo một quyền thu gom khác nhau. Dịch tất cả thành “cho người nghèo hoa quả thừa” sẽ che mất việc chủ vườn bị giới hạn ở nhiều công đoạn cụ thể.
+
+### P125 — Mang hoa trái đầu mùa đến Đền Thờ
+
+**English:** To bring the first fruits to God’s chosen house.
+
+**Hebrew (Maimonides):** לְהָבִיא בִּכּוּרִים לְבֵית הַבְּחִירָה
+
+**Nguồn Torah:** Xuất Hành 23:19 và 34:26 yêu cầu mang phần đầu của hoa trái đầu mùa về nhà YHWH; Phục Truyền Luật Lệ 26:1–11 mô tả việc đặt vào giỏ, đến nơi được chọn và trao cho kohen.
+
+**Ngữ nghĩa và cách dịch:** [**Bikkurim**](./glossary#bikkurim) là hoa trái chín đầu tiên được đánh dấu và mang đến Đền Thờ, theo truyền thống rabbi áp dụng cho bảy sản vật nổi bật của Đất Israel. Nó không phải mọi “thành quả đầu tiên” theo nghĩa ẩn dụ.
+
+**Bối cảnh và ý nghĩa:** Nghi thức nối nông trại địa phương với Jerusalem và thừa nhận đất cùng mùa màng là quà giao ước. Người dâng không chỉ giao sản vật mà còn đọc bản tuyên xưng lịch sử; phần đọc ấy được Maimonides tính riêng ở P132.
+
+### P126 — Tách terumah gedolah và trao cho kohen
+
+**English:** To separate the great terumah from produce and give it to a priest.
+
+**Hebrew (Maimonides):** לְהַפְרִישׁ תְּרוּמָה גְּדוֹלָה לַכֹּהֵן
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 18:4 yêu cầu trao cho kohen phần đầu của ngũ cốc, rượu mới và dầu; Dân Số 18:12 mô tả những phần tốt nhất đầu mùa dành cho tư tế.
+
+**Ngữ nghĩa và cách dịch:** [**Terumah gedolah**](./glossary#terumah-gedolah) là phần sản vật được “nâng/tách riêng” cho kohen, khác *bikkurim* và các phần mười. Torah không ghi tỷ lệ cụ thể cho phần này; định lượng quen thuộc thuộc luật rabbi.
+
+**Bối cảnh và ý nghĩa:** Kohanim không nhận phần đất canh tác như các chi tộc khác và sống nhờ những phần dành từ sản xuất nông nghiệp cùng lễ vật. Việc nhận *terumah* đi kèm hạn chế thanh sạch và quyền ăn, nên không đơn giản là lương hay thuế tiền mặt.
+
+### P127 — Tách phần mười thứ nhất và trao cho người Lêvi
+
+**English:** To separate the first tithe from produce and give it to the Levites.
+
+**Hebrew (Maimonides):** לְהַפְרִישׁ מַעֲשַׂר דָּגָן לַלְּוִיִּם
+
+**Nguồn Torah:** Dân Số 18:21–24 trao cho người Lêvi phần mười tại Israel để đổi lấy công việc phục vụ Lều Hội Ngộ; Lêvi 27:30 tuyên bố phần mười sản vật thuộc về YHWH.
+
+**Ngữ nghĩa và cách dịch:** [**Maaser rishon**](./glossary#maaser-rishon), “phần mười thứ nhất”, được lấy sau *terumah gedolah*. Người nhận là người Lêvi; chính họ sau đó tách một phần mười từ phần đã nhận cho kohanim ở P129.
+
+**Bối cảnh và ý nghĩa:** Đây là cơ chế nuôi dưỡng nhóm phục vụ thánh không có phần thừa kế đất như các chi tộc khác. Nó là phân phối sản vật trong xã hội nông nghiệp, không thể đồng nhất trực tiếp với thuế thu nhập mười phần trăm của nhà nước hiện đại.
+
+### P128 — Tách phần mười thứ hai để chủ sở hữu ăn tại Jerusalem
+
+**English:** To separate the second tithe for its owners to consume in Jerusalem.
+
+**Hebrew (Maimonides):** לְהַפְרִישׁ מַעֲשַׂר שֵׁנִי לְהֵאָכֵל לִבְעָלָיו בִּירוּשָׁלַיִם
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 14:22–27 yêu cầu ăn phần mười của ngũ cốc, rượu và dầu trước YHWH tại nơi được chọn; nếu đường xa, có thể đổi thành tiền rồi mua thực phẩm tại đó.
+
+**Ngữ nghĩa và cách dịch:** [**Maaser sheni**](./glossary#maaser-sheni) vẫn thuộc người sản xuất nhưng có địa vị thánh và phải được dùng tại Jerusalem trong điều kiện quy định. Nó không được trao cho người Lêvi như *maaser rishon* và cũng không phải phần mười cho người nghèo.
+
+**Bối cảnh và ý nghĩa:** Việc tiêu dùng tập trung biến một phần sản lượng thành bữa ăn nghi lễ tại trung tâm thờ phượng, đưa gia đình nông dân vào lịch hành hương. Cơ chế chuộc thành tiền giúp vận chuyển giá trị chứ không biến khoản tiền thành tài sản dùng tùy ý ở quê nhà.
+
+### P129 — Người Lêvi tách một phần mười từ phần mười và trao cho kohen
+
+**English:** For the Levites to separate a tithe from the tithe they receive and give it to the priests.
+
+**Hebrew (Maimonides):** לִהְיוֹת הַלְּוִיִּם מַפְרִישִׁין מַעֲשֵׂר מִן הַמַּעֲשֵׂר שֶׁלָּקְחוּ מִיִּשְׂרָאֵל וְנוֹתְנִין אוֹתוֹ לַכֹּהֲנִים
+
+**Nguồn Torah:** Dân Số 18:25–32 yêu cầu người Lêvi dâng cho YHWH một phần mười từ phần mười họ nhận và trao phần tốt nhất ấy cho Aaron.
+
+**Ngữ nghĩa và cách dịch:** [**Terumat maaser**](./glossary#terumat-maaser) là “phần dâng từ phần mười”: một phần mười của *maaser rishon*, chứ không phải thêm mười phần trăm trên toàn bộ vụ mùa do chủ ruộng trực tiếp nộp.
+
+**Bối cảnh và ý nghĩa:** Người Lêvi vừa là người nhận vừa là người có nghĩa vụ tách phần tốt nhất cho kohanim. Cấu trúc này đặt cả nhóm phục vụ thánh trong cùng nguyên tắc: nhận sản vật không miễn họ khỏi trách nhiệm biệt riêng một phần.
+
+### P130 — Tách phần mười cho người nghèo trong năm thứ ba và thứ sáu
+
+**English:** To separate the poor tithe in the third and sixth years of the seven-year cycle.
+
+**Hebrew (Maimonides):** לְהַפְרִישׁ מַעֲשַׂר עָנִי תַּחַת מַעֲשַׂר שֵׁנִי בַּשְּׁלִישִׁית וּבַשִּׁשִּׁית בַּשָּׁבוּעַ
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 14:28–29 yêu cầu vào cuối năm thứ ba đem phần mười sản lượng ra trong các thành để người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ được ăn no; xem thêm 26:12.
+
+**Ngữ nghĩa và cách dịch:** [**Maaser ani**](./glossary#maaser-ani) thay *maaser sheni* trong năm thứ ba và thứ sáu của chu kỳ bảy năm; nó không thay *maaser rishon*. **Ani** là người nghèo hoặc thiếu thốn.
+
+**Bối cảnh và ý nghĩa:** Phần mười này chuyển trọng tâm từ bữa ăn tại Jerusalem sang an sinh tại địa phương. Danh sách người hưởng phản ánh những nhóm không có đất, mạng lưới gia đình hoặc nguồn sinh kế ổn định trong xã hội Israel cổ.
+
+### P131 — Đọc lời tuyên bố đã phân phối đúng các phần mười
+
+**English:** To recite the declaration concerning the tithes.
+
+**Hebrew (Maimonides):** לְהִתְוַדּוֹת וִדּוּי מַעֲשֵׂר
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 26:12–15 quy định sau khi hoàn tất việc tách phần mười trong năm thứ ba, người thực hiện tuyên bố trước YHWH rằng đã lấy vật thánh khỏi nhà và trao đúng đối tượng, không ăn trong lúc tang chế hay dùng sai mục đích.
+
+**Ngữ nghĩa và cách dịch:** [**Vidui maaser**](./glossary#vidui-maaser) thường được dịch “lời xưng nhận phần mười”, nhưng nội dung chủ yếu là tuyên bố đã tuân thủ, không phải thú nhận đã phạm tội. Động từ *hitvadah* ở đây dẫn vào một bản kiểm kê trách nhiệm trước Thiên Chúa.
+
+**Bối cảnh và ý nghĩa:** Nghi thức biến việc phân phối sản vật thành một lời khai có trách nhiệm, nối nghĩa vụ với kohen, người Lêvi và người nghèo vào đời sống giao ước. Theo luật rabbi, lời tuyên bố gắn với thời điểm và điều kiện Đền Thờ, không phải bản khai thuế thường niên hiện đại.
+
+### P132 — Đọc lời tuyên xưng lịch sử khi dâng hoa trái đầu mùa
+
+**English:** To recite the declaration over the first fruits.
+
+**Hebrew (Maimonides):** לִקְרוֹת עַל הַבִּכּוּרִים
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 26:5–10 đặt vào miệng người dâng một bản kể ngắn từ tổ phụ, cuộc xuống Ai Cập, cảnh áp bức, cuộc giải phóng đến việc nhận đất và mang hoa trái đầu mùa.
+
+**Ngữ nghĩa và cách dịch:** [**Mikra bikkurim**](./glossary#mikra-bikkurim) là phần đọc đi kèm [bikkurim](./glossary#bikkurim), được Maimonides tính riêng với hành vi mang hoa trái ở P125. Câu mở đầu **arami oved avi** có lịch sử diễn giải khác nhau; không nên âm thầm biến một cách hiểu rabbi thành bản dịch duy nhất hiển nhiên của ngữ pháp cổ.
+
+**Bối cảnh và ý nghĩa:** Người nông dân trình bày mùa màng của mình như chương mới nhất trong ký ức tập thể về lưu lạc, nô lệ và giải phóng. Nghi thức gắn quyền sở hữu đất với lòng biết ơn và lịch sử cộng đồng, thay vì chỉ với lao động cá nhân.
+
+### P133 — Tách một phần bột nhào và trao cho kohen
+
+**English:** To separate a portion of dough and give it to a priest.
+
+**Hebrew (Maimonides):** לְהַפְרִישׁ חַלָּה לַכֹּהֵן
+
+**Nguồn Torah:** Dân Số 15:17–21 yêu cầu khi ăn bánh của xứ, Israel tách phần đầu của bột nhào làm **terumah** cho YHWH qua các thế hệ.
+
+**Ngữ nghĩa và cách dịch:** [**Challah**](./glossary#challah) trong mitzvah này là phần bột được tách, không phải trước hết tên chiếc bánh bện dùng trong Shabbat. Tên của phần dâng về sau trở thành tên phổ biến của loại bánh, nên bản dịch “làm bánh challah” sẽ đảo nghĩa lịch sử.
+
+**Bối cảnh và ý nghĩa:** Nghĩa vụ đưa việc biệt phần đầu mùa từ đồng ruộng vào chính công đoạn làm bánh trong gia đình. Khi không thể trao và ăn phần bột trong điều kiện thanh sạch như thời Đền Thờ, thực hành halakhah hiện đại tách một phần nhỏ và xử lý theo quy định thay thế.
+
+### P134 — Buông quyền canh tác và để sản vật năm thứ bảy tự do tiếp cận
+
+**English:** To let the land lie fallow and make its produce available in the seventh year.
+
+**Hebrew (Maimonides):** לְהַשְׁמִיט הַקַּרְקַע
+
+**Nguồn Torah:** Xuất Hành 23:10–11 yêu cầu sáu năm gieo và thu hoạch, nhưng năm thứ bảy phải “buông” và để đất, để người nghèo được ăn và thú đồng ăn phần còn lại.
+
+**Ngữ nghĩa và cách dịch:** Động từ gốc **שמט** mang nghĩa buông, thả hoặc từ bỏ quyền đòi; [**shemittah**](./glossary#shemittah) vì thế không chỉ là cho đất “nghỉ” về nông học mà còn hạn chế quyền sở hữu độc quyền trên sản vật mọc trong năm.
+
+**Bối cảnh và ý nghĩa:** Luật nối nhịp nghỉ của đất với quyền tiếp cận của người nghèo và động vật. Maimonides phân biệt P134—buông đất và sản vật—với P135, nghĩa vụ ngừng các loại lao động nông nghiệp bị cấm.
+
+### P135 — Ngừng lao động nông nghiệp trong năm thứ bảy
+
+**English:** To rest from agricultural work during the seventh year.
+
+**Hebrew (Maimonides):** לִשְׁבֹּת מֵעֲבוֹדַת הָאָרֶץ
+
+**Nguồn Torah:** Xuất Hành 34:21 yêu cầu nghỉ cả trong mùa cày và mùa gặt; Lêvi 25:2–5 gọi năm thứ bảy là một Shabbat cho đất và nêu các việc không được làm.
+
+**Ngữ nghĩa và cách dịch:** “Nghỉ” trong [shemittah](./glossary#shemittah) là địa vị pháp lý của đất và hoạt động canh tác, không có nghĩa tuyệt đối không được đặt chân vào ruộng hay ăn bất kỳ sản vật nào mọc tự nhiên. Các lệnh cấm cụ thể về gieo, tỉa, gặt và hái được hệ thống hóa riêng.
+
+**Bối cảnh và ý nghĩa:** Chu kỳ bảy năm mở rộng nhịp Shabbat từ con người sang đất nông nghiệp. Việc áp dụng trong nông nghiệp hiện đại tại Israel liên quan nhiều chi tiết và giải pháp halakhah đang tranh luận; bài này mô tả mitzvah trong hệ thống Maimonides, không phán quyết thực hành đương đại.
+
+### P136 — Thánh hóa Năm Toàn Xá bằng việc ngừng canh tác
+
+**English:** To sanctify the Jubilee year by observing agricultural rest as in the sabbatical year.
+
+**Hebrew (Maimonides):** לְקַדֵּשׁ שְׁנַת יוֹבֵל בִּשְׁבִיתָה כִּשְּׁמִטָּה
+
+**Nguồn Torah:** Lêvi 25:10–12 yêu cầu thánh hóa năm thứ năm mươi, công bố tự do, trở về đất tổ nghiệp và không gieo hay gặt theo cách thông thường.
+
+**Ngữ nghĩa và cách dịch:** [**Yovel**](./glossary#jubilee) là năm thứ năm mươi sau bảy chu kỳ *shemittah*. “Thánh hóa” không chỉ là tổ chức lễ kỷ niệm; nó được thể hiện qua địa vị pháp lý của đất, lao động, con người và tài sản trong năm ấy.
+
+**Bối cảnh và ý nghĩa:** Jubilee đặt giới hạn định kỳ lên sự tích tụ đất đai và lệ thuộc trong nội bộ Israel. Việc Năm Toàn Xá Kinh Thánh đã được thực hiện đầy đủ đến mức nào trong lịch sử là vấn đề được thảo luận; văn bản luật trình bày một trật tự lý tưởng gắn với toàn thể các chi tộc trên đất.
+
+### P137 — Thổi shofar để công bố tự do trong Năm Toàn Xá
+
+**English:** To sound the shofar in the Jubilee year and proclaim liberty.
+
+**Hebrew (Maimonides):** לִתְקֹעַ בַּשּׁוֹפָר בִּשְׁנַת יוֹבֵל
+
+**Nguồn Torah:** Lêvi 25:9–10 yêu cầu cho tiếng shofar vang khắp xứ vào ngày mồng mười tháng thứ bảy, Yom Kippur, rồi công bố tự do và sự trở về của mỗi người với gia đình cùng đất tổ nghiệp.
+
+**Ngữ nghĩa và cách dịch:** Tiếng [**shofar**](./glossary#shofar) là hành vi pháp lý công bố [Yovel](./glossary#jubilee), không chỉ tín hiệu âm nhạc. Vì tự do của người lệ thuộc Israel có hiệu lực trong trình tự này, một số tóm tắt đặt tên mitzvah theo việc giải phóng; công thức Hebrew của Maimonides đặt trọng tâm vào việc thổi shofar.
+
+**Bối cảnh và ý nghĩa:** Âm thanh công khai đánh dấu sự thay đổi địa vị trên phạm vi cộng đồng, kết nối ngày sám hối với việc giải phóng xã hội. “Tự do” ở đây vận hành trong chế độ lao động lệ thuộc và sở hữu đất của thế giới cổ, không đồng nhất mọi thiết chế với chế độ nô lệ chủng tộc cận đại.
+
+### P138 — Hoàn trả đất tổ nghiệp trong Năm Toàn Xá
+
+**English:** To restore hereditary land to its ancestral holding in the Jubilee year.
+
+**Hebrew (Maimonides):** לִתֵּן גְּאֻלָּה לָאָרֶץ בִּשְׁנַת יוֹבֵל
+
+**Nguồn Torah:** Lêvi 25:13–24 quy định trong Năm Toàn Xá mỗi người trở về phần đất của mình; giá chuyển nhượng được tính theo số mùa thu hoạch còn lại vì đất không được bán vĩnh viễn.
+
+**Ngữ nghĩa và cách dịch:** [**Geullat ha-aretz**](./glossary#land-redemption) là sự chuộc/hoàn trả đất trong cấu trúc gia sản chi tộc. “Bán đất” thực chất gần với chuyển quyền hưởng số vụ mùa đến Jubilee hơn là chuyển quyền sở hữu vĩnh viễn theo luật bất động sản hiện đại.
+
+**Bối cảnh và ý nghĩa:** Luật bảo vệ khả năng gia tộc trở lại nền tảng sinh kế, hạn chế việc mất đất kéo dài qua nhiều thế hệ. Nó gắn với phân chia đất cho các chi tộc Israel và không phải công thức đơn giản để giải quyết mọi quyền sở hữu hiện đại.
+
+### P139 — Cho phép chuộc nhà trong thành có tường trong vòng một năm
+
+**English:** To allow a house in a walled city to be redeemed within one year of its sale.
+
+**Hebrew (Maimonides):** לִהְיוֹת גְּאֻלַּת בָּתֵּי עָרֵי חוֹמָה עַד שָׁנָה
+
+**Nguồn Torah:** Lêvi 25:29–30 cho người bán nhà ở trong thành có tường quyền chuộc trong một năm; nếu không chuộc đúng hạn, nhà thuộc vĩnh viễn về người mua và không trở lại trong Jubilee.
+
+**Ngữ nghĩa và cách dịch:** [**Batei arei chomah**](./glossary#walled-city-houses) là nhà ở trong loại thành có tường được luật xác định, khác nhà tại làng không tường và đất nông nghiệp. “Chuộc” là quyền mua lại trong thời hạn pháp lý, không phải nghi thức tôn giáo giải cứu ngôi nhà.
+
+**Bối cảnh và ý nghĩa:** Nhà đô thị không vận hành giống đất tổ nghiệp nông thôn: quyền chuộc ngắn hơn và sau hạn trở thành vĩnh viễn. Sự khác biệt phản ánh vai trò kinh tế–gia tộc khác nhau của nhà trong thành và đất sản xuất.
+
+### P140 — Đếm các năm shemittah và Yovel
+
+**English:** To count the sabbatical and Jubilee years.
+
+**Hebrew (Maimonides):** לִמְנוֹת שְׁנֵי יוֹבֵל שָׁנִים וּשְׁמִטִּים
+
+**Nguồn Torah:** Lêvi 25:8 yêu cầu đếm bảy “Shabbat của năm”, tức bảy lần bảy năm, tổng cộng bốn mươi chín năm trước Jubilee.
+
+**Ngữ nghĩa và cách dịch:** Đây là phép đếm chu kỳ năm do thiết chế cộng đồng thực hiện, không phải nghĩa vụ mỗi cá nhân đọc số hằng ngày như đếm Omer. Bảy chu kỳ [shemittah](./glossary#shemittah) cấu thành khung thời gian dẫn đến [Yovel](./glossary#jubilee).
+
+**Bối cảnh và ý nghĩa:** Việc đếm điều phối nghỉ đất, nợ, lao động lệ thuộc và hoàn trả đất trên quy mô nhiều thế hệ. Trong truyền thống Maimonides, hiệu lực đầy đủ của Jubilee phụ thuộc điều kiện dân Israel cư trú theo các chi tộc, nên việc quy đổi thẳng một năm hiện đại thành Jubilee Kinh Thánh cần thận trọng.
+
+### P141 — Xóa các khoản nợ đến hạn trong năm thứ bảy
+
+**English:** To release financial debts in the sabbatical year.
+
+**Hebrew (Maimonides):** לְהַשְׁמִיט כְּסָפִים בַּשְּׁבִיעִית
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 15:1–2 quy định vào cuối mỗi bảy năm phải thực hiện sự giải phóng: chủ nợ không thúc ép người đồng bào về khoản nợ đã cho vay.
+
+**Ngữ nghĩa và cách dịch:** [**Shemittat kesafim**](./glossary#shemittat-kesafim) là việc buông/xóa quyền đòi những khoản nợ thuộc phạm vi luật, khác P134–P135 về nghỉ đất. Không phải mọi nghĩa vụ tài chính đều tự động biến mất theo cùng một cách; chi tiết về loại nợ và thời điểm thuộc halakhah.
+
+**Bối cảnh và ý nghĩa:** Luật ngăn nợ cá nhân kéo dài không giới hạn trong cộng đồng giao ước, nhưng Phục Truyền 15 cũng cảnh báo không được vì năm xóa nợ sắp đến mà từ chối cho người nghèo vay. Về sau, *prozbul* của Hillel chuyển quyền đòi nợ cho tòa để duy trì khả năng cho vay mà không trực tiếp xóa bỏ câu lệnh Torah.
+
+### P142 — Đòi khoản nợ của người ngoại cộng đồng sau năm thứ bảy
+
+**English:** To exact repayment from a foreign debtor rather than release that debt in the sabbatical year.
+
+**Hebrew (Maimonides):** לִנְגֹּשׂ לַנָּכְרִי
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 15:3 phân biệt khoản nợ đối với **nokhri**, có thể bị đòi, với khoản nợ của “anh em” mà chủ nợ phải buông tay.
+
+**Ngữ nghĩa và cách dịch:** [**Nokhri**](./glossary#nokhri) ở đây là người ngoài cộng đồng Israel, khác **ger** là ngoại kiều cư trú nằm trong nhiều cơ chế bảo vệ xã hội của Torah. Động từ **nagas** mang nghĩa thúc ép hoặc đòi nợ; công thức của Maimonides trình bày việc thu hồi như một mitzvah tích cực.
+
+**Bối cảnh và ý nghĩa:** Sự phân biệt phản ánh ranh giới nghĩa vụ thân tộc–giao ước trong nền kinh tế cổ, không phải giấy phép vượt thời gian để lừa đảo hay ngược đãi người không phải Do Thái. Trong xã hội hiện đại, hợp đồng, luật dân sự, cấm kỳ thị và các chuẩn mực đạo đức hiện hành vẫn chi phối quan hệ tín dụng.
+
+### P143 — Tra cho kohen chân trước, hai hàm và dạ múi khế của con vật đã giết mổ
+
+**English:** To give a priest the foreleg, the two cheeks, and the maw from a slaughtered animal.
+
+**Hebrew (Maimonides):** לִתֵּן מִן הַבְּהֵמָה לַכֹּהֵן הַזְּרוֹעַ וְהַלְּחָיַיִם וְהַקֵּבָה
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 18:3 quy định từ bò hoặc chiên/dê được giết mổ, dân phải trao cho kohen **zeroa**, **lechayayim** và **kevah**.
+
+**Ngữ nghĩa và cách dịch:** [**Zeroa, lechayayim ve-kevah**](./glossary#priestly-meat-gifts) là chân trước, hai phần hàm/má và dạ múi khế—ngăn cuối của dạ dày động vật nhai lại. Dịch **kevah** chung thành “bụng” hoặc “dạ dày” có thể làm mất bộ phận giải phẫu cụ thể.
+
+**Bối cảnh và ý nghĩa:** Đây là quà tư tế từ thịt giết mổ thông thường, không nhất thiết là phần của một lễ vật trên bàn thờ. Cơ chế hỗ trợ kohanim bằng các phần sản xuất và thực phẩm riêng biệt với thuế nhà nước hay tiền công giáo sĩ.
+
+### P144 — Tra phần lông cừu xén đầu tiên cho kohen
+
+**English:** To give the first portion of a sheep's fleece to a priest.
+
+**Hebrew (Maimonides):** לִתֵּן רֵאשִׁית הַגֵּז לַכֹּהֵן
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 18:4 yêu cầu trao cho kohen phần đầu của ngũ cốc, rượu, dầu và **reishit gez tzonekha**—phần đầu lông chiên được xén.
+
+**Ngữ nghĩa và cách dịch:** [**Reishit hagez**](./glossary#first-fleece) là phần đầu của lông cừu xén, không phải con cừu đầu đàn hay toàn bộ lượt xén. Các mức đàn tối thiểu và lượng trao được luật rabbi xác định.
+
+**Bối cảnh và ý nghĩa:** Lông là nguyên liệu dệt có giá trị trong kinh tế cổ, nên quà tư tế không chỉ gồm thực phẩm. Điều răn tạo nguồn vật liệu cho y phục của kohanim nhưng không đồng nghĩa mọi sản phẩm len hiện đại đều chịu cùng nghĩa vụ ở mọi nơi.
+
+### P145 — Áp dụng luật về tài sản được hiến định không thể chuộc
+
+**English:** To administer the laws of property devoted as cherem, whether to God or to the priests.
+
+**Hebrew (Maimonides):** לָדוּן בְּדִינֵי חֲרָמִים מֵהֶם לַיְיָ וּמֵהֶם לַכֹּהֵן
+
+**Nguồn Torah:** Lêvi 27:28–29 quy định một **cherem** được hiến định từ người, vật nuôi hay ruộng đất không được bán hoặc chuộc; Dân Số 18:14 nói vật *cherem* trong Israel thuộc về kohen.
+
+**Ngữ nghĩa và cách dịch:** [**Cherem**](./glossary#cherem) có nhiều nghĩa trong Kinh Thánh và truyền thống; ở đây là một loại hiến định tài sản có tính không thể thu hồi, với phân loại dành cho Thiên Chúa hoặc kohen. Không nên nhập nó với *herem* nghĩa khai trừ khỏi cộng đồng hay với “chiến tranh hủy diệt” trong các đoạn khác.
+
+**Bối cảnh và ý nghĩa:** Mitzvah yêu cầu phân xử đúng địa vị và người nhận của tài sản đã được tuyên hiến, chứ không khuyến khích tùy tiện nguyền rủa hoặc tịch thu tài sản. Lời nói tạo hậu quả kinh tế nghiêm trọng nên chịu những giới hạn pháp lý cụ thể.
+
+### P146 — Giết mổ đúng thủ tục trước khi ăn thịt động vật hoặc chim
+
+**English:** To slaughter an animal or bird according to the prescribed procedure before eating its meat.
+
+**Hebrew (Maimonides):** לִשְׁחֹט בְּהֵמָה חַיָּה וְעוֹף וְאַחַר כָּךְ יֹאכַל בְּשָׂרָן
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 12:20–21 cho phép ăn thịt và yêu cầu giết bò, chiên hoặc dê “như Ta đã truyền cho ngươi” trước khi ăn trong các thành.
+
+**Ngữ nghĩa và cách dịch:** [**Shechita**](./glossary#shechita) là phương thức giết mổ halakhah bằng đường cắt quy định với dụng cụ phù hợp và người có kỹ năng. Câu Torah không trình bày mọi chi tiết; công thức “như Ta đã truyền” là nền tảng cho truyền thống pháp lý truyền khẩu.
+
+**Bối cảnh và ý nghĩa:** Luật biến việc lấy sự sống để ăn thành hành động có quy trình, bao gồm kiểm tra dao và thân thịt cùng việc xử lý máu. “Kosher” không chỉ là đọc lời cầu nguyện trên thịt, và shechita không áp dụng cho cá theo cùng cách.
+
+### P147 — Phủ đất lên máu của thú hoang và chim đã giết mổ
+
+**English:** To cover with earth the blood of a slaughtered wild animal or bird.
+
+**Hebrew (Maimonides):** לְכַסּוֹת דַּם חַיָּה וָעוֹף
+
+**Nguồn Torah:** Lêvi 17:13 yêu cầu người săn được thú hoặc chim được phép ăn phải đổ máu và phủ bằng đất.
+
+**Ngữ nghĩa và cách dịch:** [**Kisui hadam**](./glossary#blood-covering) là nghi thức phủ máu bằng vật liệu thích hợp sau shechita của **chayah**—thú hoang kosher—và chim. Nó không áp dụng giống vậy cho gia súc nuôi, vì máu lễ vật gia súc thuộc hệ xử lý bàn thờ trong bối cảnh Torah.
+
+**Bối cảnh và ý nghĩa:** Lêvi 17 nói sự sống của xác thịt ở trong máu và cấm ăn máu. Phủ máu thừa nhận sự sống đã bị lấy và ngăn máu bị xử lý như chất ăn thông thường; đây không phải mẹo vệ sinh hay cách che dấu việc giết con vật.
+
+### P148 — Xua chim mẹ đi trước khi lấy trứng hoặc chim non
+
+**English:** To send away the mother bird before taking the young from a nest.
+
+**Hebrew (Maimonides):** לְשַׁלֵּחַ אֵם צִפּוֹר מִן הַקֵּן
+
+**Nguồn Torah:** Phục Truyền Luật Lệ 22:6–7 quy định nếu gặp tổ chim với chim mẹ đang ấp con non hoặc trứng, không được lấy mẹ cùng con; phải xua mẹ đi rồi mới có thể lấy con.
+
+**Ngữ nghĩa và cách dịch:** [**Shiluach haken**](./glossary#mother-bird) là luật cho tình huống tổ chim thuộc phạm vi quy định, không phải nghĩa vụ đi tìm tổ để lấy trứng. Động từ kép **shalach teshalach** nhấn mạnh phải thả/xua chim mẹ.
+
+**Bối cảnh và ý nghĩa:** Luật đặt giới hạn lên việc khai thác một đơn vị sinh sản cùng lúc và đi kèm lời hứa “để ngươi được phúc”. Các cách giải thích về lòng thương xót hay bảo tồn tồn tại trong truyền thống, nhưng câu không đưa ra một lý thuyết sinh thái hoàn chỉnh.
+
+### P149 — Kiểm tra dấu hiệu phân loại thú và gia súc được phép ăn
+
+**English:** To examine the identifying signs of mammals permitted for food.
+
+**Hebrew (Maimonides):** לִבְדֹּק בְּסִימָנֵי בְּהֵמָה
+
+**Nguồn Torah:** Lêvi 11:2–8 và Phục Truyền Luật Lệ 14:4–8 nêu tiêu chí móng chẻ hoàn toàn và nhai lại, đồng thời đưa các ví dụ đáp ứng một dấu hiệu nhưng thiếu dấu hiệu kia.
+
+**Ngữ nghĩa và cách dịch:** [**Simanei kashrut**](./glossary#kosher-signs) là các dấu hiệu pháp lý để phân biệt loài **tahor** và **tame** cho mục đích ăn uống. “Thanh sạch” ở đây không phải vệ sinh, hiền dữ hay giá trị sinh học của loài.
+
+**Bối cảnh và ý nghĩa:** Phân loại tạo một chế độ ăn dựa trên đặc điểm quan sát được của động vật, nhưng không trùng hoàn toàn với phân loại học hiện đại. Một con thuộc loài được phép vẫn cần shechita và các khâu xử lý khác mới trở thành thịt kosher.
+
+### P150 — Kiểm tra dấu hiệu phân loại chim được phép ăn
+
+**English:** To examine the identifying signs of birds permitted for food.
+
+**Hebrew (Maimonides):** לִבְדֹּק בְּסִימָנֵי הָעוֹף עַד שֶׁיַּבְדִּיל בֵּין טָמֵא לַטָּהֹר
+
+**Nguồn Torah:** Lêvi 11:13–19 và Phục Truyền Luật Lệ 14:11–20 liệt kê các loài hoặc nhóm chim bị cấm, trong khi tuyên bố chim thanh sạch được phép ăn.
+
+**Ngữ nghĩa và cách dịch:** Torah chủ yếu cho danh sách chim bị cấm thay vì nêu hai dấu hiệu ngắn gọn như với thú. Truyền thống rabbi phát triển [các dấu hiệu và yêu cầu truyền thống nhận diện](./glossary#kosher-signs); việc dịch tên chim Hebrew cổ sang loài hiện đại có nhiều bất định.
+
+**Bối cảnh và ý nghĩa:** Vì khó nhận diện tên loài cổ và dấu hiệu thực địa, tập quán ăn chim dựa mạnh vào **mesorah**—truyền thống cộng đồng đáng tin về loài được phép. Không thể suy từ việc một loài phổ biến hoặc không ăn thịt rằng nó đương nhiên kosher.
+
+### P151 — Kiểm tra dấu hiệu phân loại châu chấu được phép ăn
+
+**English:** To examine the identifying signs of grasshoppers permitted for food.
+
+**Hebrew (Maimonides):** לִבְדֹּק בְּסִימָנֵי חֲגָבִים לֵידַע טָהוֹר מִן הַטָּמֵא
+
+**Nguồn Torah:** Lêvi 11:20–23 cấm các sinh vật có cánh bò bằng bốn chân, nhưng cho phép những loại có cặp chân nhảy phía trên chân đi và liệt kê bốn tên nhóm châu chấu.
+
+**Ngữ nghĩa và cách dịch:** [**Chagavim**](./glossary#kosher-locusts) là nhóm côn trùng nhảy thường dịch là châu chấu; không phải mọi “côn trùng” đều thuộc cùng phạm trù. Ngoài dấu hiệu hình thể, thực hành halakhah thường đòi một truyền thống đáng tin về tên và loài.
+
+**Bối cảnh và ý nghĩa:** Một số cộng đồng Do Thái, đặc biệt có truyền thống Yemen và Bắc Phi, bảo tồn việc nhận diện loài được phép; nhiều cộng đồng khác không ăn vì không có *mesorah*. Sự khác biệt này phản ánh mức chắc chắn truyền thống khác nhau.
+
+### P152 — Kiểm tra dấu hiệu phân loại sinh vật dưới nước được phép ăn
+
+**English:** To examine the identifying signs of fish permitted for food.
+
+**Hebrew (Maimonides):** לִבְדֹּק בְּסִימָנֵי דָּגִים
+
+**Nguồn Torah:** Lêvi 11:9–12 và Phục Truyền Luật Lệ 14:9–10 cho phép sinh vật dưới nước có **snapir** và **kaskeset**, thường dịch là vây và vảy.
+
+**Ngữ nghĩa và cách dịch:** Trong [**dấu hiệu kosher**](./glossary#kosher-signs), cá hợp lệ cần vây và loại vảy có thể tháo khỏi da theo cách luật rabbi hiểu. Từ “cá” trong tiêu đề pháp lý không làm tôm, cua hoặc động vật có vỏ trở thành đối tượng được phép.
+
+**Bối cảnh và ý nghĩa:** Tiêu chí dựa trên đặc điểm quan sát thay vì tên loài, giúp áp dụng ở nhiều vùng nước. Tuy nhiên, nhận diện thương mại hiện đại có thể cần kiểm tra da hoặc chứng nhận vì phi lê đã bỏ da không còn dấu hiệu để người mua tự xác minh.
+
+### P153 — Tòa án thánh hóa tháng mới và tính lịch năm
+
+**English:** For the court to sanctify new months and calculate the calendar of years and months.
+
+**Hebrew (Maimonides):** לְקַדֵּשׁ חֳדָשִׁים וּלְחַשֵׁב שָׁנִים וְחָדָשִׁים בְּבֵית דִּין בִּלְבַד
+
+**Nguồn Torah:** Xuất Hành 12:2 tuyên bố “tháng này” là đầu các tháng; Maimonides và truyền thống rabbi đọc câu ấy như trao cho tòa án thẩm quyền xác lập tháng và lịch.
+
+**Ngữ nghĩa và cách dịch:** [**Kiddush hachodesh**](./glossary#calendar-sanctification) là việc xác nhận/thánh hóa tháng mới, ban đầu liên hệ lời chứng quan sát trăng; **ibur hashanah** là điều chỉnh năm nhuận để giữ các lễ đúng mùa. Đây là trách nhiệm của *beit din*, không phải mỗi cá nhân tự chọn lịch theo lần nhìn thấy trăng.
+
+**Bối cảnh và ý nghĩa:** Lịch xác định ngày lễ, thời hạn nghi lễ và nhịp sống chung nên cần thẩm quyền cộng đồng. Lịch Hebrew cố định hiện nay dùng tính toán âm–dương; nó tiếp nối chức năng phối hợp ấy nhưng không tái diễn nguyên dạng thủ tục nhận nhân chứng cổ mỗi tháng.
+
+### P154 — Nghỉ vào ngày Shabbat
+
+**English:** To rest on the seventh day, Shabbat.
+
+**Hebrew (Maimonides):** לִשְׁבֹּת בַּשַּׁבָּת
+
+**Nguồn Torah:** Xuất Hành 23:12 yêu cầu làm việc sáu ngày và nghỉ ngày thứ bảy để bò, lừa, người sinh trong nhà và ngoại kiều được hồi sức; Xuất Hành 34:21 nhấn mạnh nghỉ cả mùa cày và gặt.
+
+**Ngữ nghĩa và cách dịch:** [**Shabbat**](./glossary#shabbat) bắt nguồn từ động từ “ngừng/nghỉ”. P154 là nghĩa vụ tích cực tạo trạng thái nghỉ; các điều cấm từng loại **melakhah** được Maimonides tính trong phần mitzvot tiêu cực.
+
+**Bối cảnh và ý nghĩa:** Nghỉ không chỉ là giải lao cá nhân mà mở rộng đến người lệ thuộc, ngoại kiều và động vật lao động. Shabbat chạy từ hoàng hôn thứ Sáu đến đêm thứ Bảy trong lịch Do Thái, không phải “Chủ nhật của người Do Thái”.
+
+### P155 — Thánh hóa Shabbat bằng lời khi ngày bắt đầu và kết thúc
+
+**English:** To sanctify Shabbat with words at its entrance and departure.
+
+**Hebrew (Maimonides):** לְקַדֵּשׁ שַׁבָּת
+
+**Nguồn Torah:** Xuất Hành 20:8 — “Hãy nhớ ngày Shabbat để thánh hóa nó”; Phục Truyền Luật Lệ 5:12 dùng động từ “giữ”. Maimonides hiểu “nhớ” là tuyên xưng sự thánh của ngày.
+
+**Ngữ nghĩa và cách dịch:** [**Kiddush và Havdalah**](./glossary#kiddush-havdalah) lần lượt đánh dấu lúc Shabbat đi vào và đi ra. Rượu là phương tiện nghi lễ quan trọng theo luật rabbi, nhưng mitzvah cốt lõi trong cách trình bày của Maimonides là thánh hóa ngày **bằng lời**.
+
+**Bối cảnh và ý nghĩa:** Kiddush phân biệt thời gian thánh ngay khi bữa tối bắt đầu; Havdalah phân tách thánh và thường khi trở lại tuần làm việc. Hai nghi thức giúp cộng đồng phát biểu và sống ranh giới thời gian.
+
+### P156 — Loại bỏ chametz trước Pesach
+
+**English:** To remove chametz before the festival of Pesach.
+
+**Hebrew (Maimonides):** לְבַעֵר חָמֵץ
+
+**Nguồn Torah:** Xuất Hành 12:15 yêu cầu loại bỏ **seor** khỏi nhà vào ngày thứ nhất theo cách diễn đạt của văn bản; truyền thống pháp lý hiểu việc này phải hoàn tất trước giờ cấm trong ngày 14 Nisan, trước khi lễ bắt đầu tối hôm ấy.
+
+**Ngữ nghĩa và cách dịch:** [**Chametz**](./glossary#chametz) là sản phẩm từ năm loại ngũ cốc đã lên men theo tiêu chuẩn Pesach; **seor** là chất bột lên men dùng gây men. “Hủy” có thể được hoàn thành bằng những phương thức halakhah như đốt, làm vụn bỏ và tuyên bố vô chủ, không chỉ vứt bánh mì nhìn thấy được.
+
+**Bối cảnh và ý nghĩa:** Việc tìm và loại bỏ chametz chuẩn bị không gian sống để tái kể cuộc rời Ai Cập vội vã. Men bia, thực phẩm chế biến và quyền sở hữu tạo nhiều câu hỏi thực hành hiện đại; không thể chỉ dựa vào nhãn “không dùng men nở”.
+
+### P157 — Kể lại cuộc Xuất Hành trong đêm đầu Pesach
+
+**English:** To recount the Exodus from Egypt on the first night of Pesach.
+
+**Hebrew (Maimonides):** לְסַפֵּר בִּיצִיאַת מִצְרַיִם בַּלַּיְלָה הָרִאשׁוֹן שֶׁל חַג הַמַּצּוֹת
+
+**Nguồn Torah:** Xuất Hành 13:8 yêu cầu “kể cho con ngươi trong ngày ấy” rằng nghi lễ được thực hiện vì điều YHWH đã làm khi đưa Israel ra khỏi Ai Cập; Xuất Hành 12:26–27 đặt câu chuyện trong lời đáp cho trẻ em.
+
+**Ngữ nghĩa và cách dịch:** [**Seder và Haggadah**](./glossary#seder-haggadah) là khuôn khổ rabbi về sau để thực hiện nghĩa vụ kể. **Lesaper** là kể lại, giải thích và đối thoại, rộng hơn chỉ đọc thầm một bản văn cố định.
+
+**Bối cảnh và ý nghĩa:** Câu chuyện được truyền qua bữa ăn, câu hỏi và biểu tượng để mỗi thế hệ đặt mình vào ký ức giải phóng. Haggadah chứa nhiều lớp văn bản hậu Kinh Thánh; không nên gọi toàn bộ sách ấy là nguyên văn Torah.
+
+### P158 — Ăn matzah trong đêm đầu Pesach
+
+**English:** To eat matzah on the first night of Pesach.
+
+**Hebrew (Maimonides):** לֶאֱכֹל מַצָּה בְּלֵיל זֶה
+
+**Nguồn Torah:** Xuất Hành 12:18 yêu cầu ăn bánh không men từ tối ngày 14 tháng thứ nhất; Xuất Hành 12:8 đặt matzah cùng lễ vật Pesach và rau đắng trong bữa ăn.
+
+**Ngữ nghĩa và cách dịch:** [**Matzah**](./glossary#matzah) là bánh từ ngũ cốc và nước được chế biến để không thành chametz. P158 là nghĩa vụ tích cực ăn vào đêm đầu, khác lệnh cấm ăn chametz kéo dài suốt kỳ lễ.
+
+**Bối cảnh và ý nghĩa:** Matzah vừa là bánh của sự vội vã trong trình thuật Xuất Hành vừa được Haggadah gọi là “bánh của cảnh khốn khó”. Ngoài đêm đầu, việc ăn matzah trong các ngày còn lại thường không mang cùng mức nghĩa vụ tích cực theo cách đếm này.
+
+### P159 — Nghỉ lao động trong ngày đầu Pesach
+
+**English:** To rest from prohibited labor on the first day of Pesach.
+
+**Hebrew (Maimonides):** לִשְׁבֹּת בָּרִאשׁוֹן שֶׁל פֶּסַח
+
+**Nguồn Torah:** Xuất Hành 12:16 gọi ngày thứ nhất là **mikra kodesh** và cấm làm công việc, ngoại trừ phần cần thiết để chuẩn bị thức ăn cho mỗi người; Lêvi 23:7 lặp lại lệnh nghỉ.
+
+**Ngữ nghĩa và cách dịch:** “Nghỉ” tạo địa vị [ngày lễ Pesach](./glossary#pesach), nhưng quy tắc **Yom Tov** không hoàn toàn giống Shabbat; Torah nêu ngoại lệ liên quan chuẩn bị thức ăn trong Xuất Hành 12.
+
+**Bối cảnh và ý nghĩa:** Ngày đầu biến ký ức giải phóng thành thời gian công cộng không dành cho lao động thường lệ. Trong cộng đồng hải ngoại, ngày lễ được mở rộng theo lịch truyền thống, nhưng P159 của Torah nói đến ngày thứ nhất trong cấu trúc bảy ngày.
+
+### P160 — Nghỉ lao động trong ngày thứ bảy của Pesach
+
+**English:** To rest from prohibited labor on the seventh day of Pesach.
+
+**Hebrew (Maimonides):** לִשְׁבֹּת בַּשְּׁבִיעִי בּוֹ
+
+**Nguồn Torah:** Xuất Hành 12:16 gọi ngày thứ bảy là **mikra kodesh** và cấm công việc thường lệ; Xuất Hành 13:6 cùng Lêvi 23:8 đánh dấu ngày thứ bảy như một lễ dành cho YHWH.
+
+**Ngữ nghĩa và cách dịch:** “Ngày thứ bảy” ở đây là ngày cuối của kỳ Bánh Không Men bảy ngày theo Torah, không phải Shabbat hằng tuần. Cụm **mikra kodesh** thường được dịch “cuộc triệu tập thánh” hoặc “ngày hội thánh”, chỉ thời gian cộng đồng được biệt riêng.
+
+**Bối cảnh và ý nghĩa:** Hai đầu của kỳ lễ được đóng khung bằng ngày nghỉ, còn những ngày giữa có địa vị **chol hamoed** trong truyền thống rabbi. Ngoài Đất Israel, một ngày lễ thứ tám được giữ theo lịch hải ngoại nhưng không được Maimonides tính thành mitzvah Torah riêng.
 
 ---
 

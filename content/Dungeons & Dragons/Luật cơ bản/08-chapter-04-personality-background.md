@@ -6,9 +6,9 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 35-44.
 
 ![Những nhà phiêu lưu có tính cách và xuất thân khác nhau gặp nhau trong quán trọ](assets/chapter-04-personality-background-cover.png)
 
-*Tính cách và xuất thân biến các chỉ số thành một con người có lịch sử, động lực và cách ứng xử riêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Tính cách và [xuất thân](99-glossary.md#background) biến các chỉ số thành một [con người](99-glossary.md#human) có lịch sử, động lực và cách ứng xử riêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Nhân vật được định hình bởi nhiều điều hơn chủng tộc và lớp. Họ là những cá nhân có câu chuyện, sở thích, quan hệ và năng lực vượt ngoài những gì lớp và chủng tộc xác định. Chương này trình bày các chi tiết phân biệt nhân vật với nhau: những điều cơ bản như tên, mô tả ngoại hình, quy tắc về xuất thân và ngôn ngữ, cùng các khía cạnh tinh tế hơn của tính cách và khuynh hướng đạo đức.
+Nhân vật được định hình bởi nhiều điều hơn [chủng tộc](99-glossary.md#race) và lớp. Họ là những cá nhân có câu chuyện, sở thích, quan hệ và năng lực vượt ngoài những gì lớp và chủng tộc xác định. Chương này trình bày các chi tiết phân biệt nhân vật với nhau: những điều cơ bản như tên, mô tả ngoại hình, quy tắc về xuất thân và ngôn ngữ, cùng các khía cạnh tinh tế hơn của tính cách và [khuynh hướng đạo đức](99-glossary.md#alignment).
 
 ## Chi tiết nhân vật
 
@@ -24,15 +24,15 @@ Mô tả chủng tộc có các tên mẫu. Hãy suy nghĩ về tên, ngay cả 
 
 ### Giới tính (Sex)
 
-Bạn có thể chơi nhân vật nam hoặc nữ mà không nhận lợi ích hay trở ngại đặc biệt. Hãy nghĩ xem nhân vật có tuân theo những kỳ vọng của văn hóa rộng hơn về giới tính, giới và hành vi tình dục không. Chẳng hạn, một giáo sĩ drow nam đi ngược sự phân chia giới truyền thống của xã hội drow; đó có thể là lý do rời xã hội ấy để lên mặt đất.
+Bạn có thể chơi nhân vật nam hoặc nữ mà không nhận lợi ích hay trở ngại đặc biệt. Hãy nghĩ xem nhân vật có tuân theo những kỳ vọng của văn hóa rộng hơn về giới tính, giới và hành vi tình dục không. Chẳng hạn, một [giáo sĩ](99-glossary.md#cleric) drow nam đi ngược sự phân chia giới truyền thống của xã hội drow; đó có thể là lý do rời xã hội ấy để lên mặt đất.
 
-Bạn không cần giới hạn mình trong khái niệm nhị nguyên về giới tính và giới. Ví dụ, thần elf Corellon Larethian thường mang hình dạng có cả nét nam và nữ, và một số elf trong đa vũ trụ được tạo theo hình ảnh Corellon. Bạn có thể chơi một nhân vật nữ thể hiện mình là nam, một người nam cảm thấy mắc kẹt trong cơ thể nữ, hoặc một người lùn nữ có râu ghét bị nhầm là nam. Tương tự, xu hướng tính dục do bạn quyết định.
+Bạn không cần giới hạn mình trong khái niệm nhị nguyên về giới tính và giới. Ví dụ, thần [elf](99-glossary.md#elf) Corellon Larethian thường mang hình dạng có cả nét nam và nữ, và một số elf trong [đa vũ trụ](99-glossary.md#multiverse) được tạo theo hình ảnh Corellon. Bạn có thể chơi một nhân vật nữ thể hiện mình là nam, một người nam cảm thấy mắc kẹt trong cơ thể nữ, hoặc một [người lùn](99-glossary.md#dwarf) nữ có râu ghét bị nhầm là nam. Tương tự, xu hướng tính dục do bạn quyết định.
 
 ### Chiều cao và cân nặng (Height and Weight)
 
-Bạn có thể quyết định chiều cao, cân nặng theo mô tả chủng tộc hoặc bảng ngẫu nhiên. Hãy nghĩ điểm thuộc tính nói gì về cơ thể: một nhân vật yếu nhưng nhanh nhẹn có thể gầy; một người khỏe và bền bỉ có thể cao hoặc chỉ nặng.
+Bạn có thể quyết định chiều cao, cân nặng theo mô tả chủng tộc hoặc bảng ngẫu nhiên. Hãy nghĩ [điểm thuộc tính](99-glossary.md#ability-score) nói gì về cơ thể: một nhân vật yếu nhưng nhanh nhẹn có thể gầy; một người khỏe và bền bỉ có thể cao hoặc chỉ nặng.
 
-Nếu muốn, tung ngẫu nhiên theo bảng. Kết quả cột Hệ số cao xác định số inch cộng vào chiều cao cơ sở. Cùng số ấy nhân kết quả xúc xắc, hoặc số cố định, ở cột Hệ số nặng để xác định số pound cộng vào cân nặng cơ sở.
+Nếu muốn, tung ngẫu nhiên theo bảng. Kết quả cột Hệ số cao xác định số inch cộng vào chiều cao cơ sở. Cùng số ấy nhân kết quả xúc xắc, hoặc số cố định, ở cột Hệ số nặng để xác định số [pound](99-glossary.md#feet) cộng vào cân nặng cơ sở.
 
 | Chủng tộc | Cao cơ sở | Hệ số cao | Nặng cơ sở | Hệ số nặng |
 | --- | --- | --- | --- | --- |
@@ -51,13 +51,13 @@ Bạn chọn tuổi, màu tóc, mắt và da. Để thêm nét riêng, có thể
 
 ### Tika và Artemis: Hai nhân vật tương phản
 
-Những chi tiết của chương này giúp nhân vật khác biệt với mọi nhân vật khác. Hãy xét hai chiến binh con người sau.
+Những chi tiết của chương này giúp nhân vật khác biệt với mọi nhân vật khác. Hãy xét hai [chiến binh](99-glossary.md#fighter) con người sau.
 
-Tika Waylan của Dragonlance là cô gái tuổi thiếu niên nóng nảy, có tuổi thơ gian khó. Là con gái kẻ trộm, cô bỏ nhà và theo nghề cha trên phố Solace. Khi cố trộm chủ quán Inn of the Last Home, cô bị bắt; ông nhận giúp đỡ, cho cô việc phục vụ quán rượu. Khi quân đoàn rồng tàn phá Solace và phá quán trọ, hoàn cảnh buộc Tika phiêu lưu cùng những người bạn từ nhỏ. Tài chiến đấu, với chiếc chảo vẫn là vũ khí ưa thích, kết hợp quá khứ đường phố cho cô kỹ năng vô giá trong sự nghiệp phiêu lưu.
+Tika Waylan của Dragonlance là cô gái tuổi thiếu niên nóng nảy, có tuổi thơ gian khó. Là con gái kẻ trộm, cô bỏ nhà và theo nghề cha trên phố Solace. Khi cố trộm chủ quán Inn of the Last Home, cô bị bắt; ông nhận giúp đỡ, cho cô việc phục vụ quán rượu. Khi quân đoàn [rồng](99-glossary.md#dragon) tàn phá Solace và phá quán trọ, hoàn cảnh buộc Tika phiêu lưu cùng những người bạn từ nhỏ. Tài chiến đấu, với chiếc chảo vẫn là vũ khí ưa thích, kết hợp quá khứ đường phố cho cô kỹ năng vô giá trong sự nghiệp phiêu lưu.
 
-Artemis Entreri lớn lên trên phố Calimport, Forgotten Realms. Anh dùng trí khôn, sức mạnh và nhanh nhẹn giành lãnh địa riêng trong một khu ổ chuột của hàng trăm khu trong thành. Sau vài năm, một công hội trộm mạnh nhất chú ý; anh nhanh chóng thăng tiến dù trẻ. Anh thành sát thủ được một pasha ưa dùng, được gửi đến Icewind Dale xa xôi lấy lại đá quý bị trộm. Anh là sát thủ chuyên nghiệp, luôn thử thách mình cải thiện kỹ năng.
+Artemis Entreri lớn lên trên phố Calimport, [Forgotten Realms](99-glossary.md#forgotten-realms). Anh dùng trí khôn, sức mạnh và nhanh nhẹn giành lãnh địa riêng trong một khu ổ chuột của hàng trăm khu trong thành. Sau vài năm, một công hội trộm mạnh nhất chú ý; anh nhanh chóng thăng tiến dù trẻ. Anh thành sát thủ được một pasha ưa dùng, được gửi đến Icewind Dale xa xôi lấy lại đá quý bị trộm. Anh là sát thủ chuyên nghiệp, luôn thử thách mình cải thiện kỹ năng.
 
-Cả hai đều là con người, chiến binh có chút kinh nghiệm đạo tặc, với Sức mạnh và Khéo léo cao tương tự; nhưng điểm giống nhau chỉ đến đó.
+Cả hai đều là con người, chiến binh có chút kinh nghiệm [đạo tặc](99-glossary.md#rogue), với [Sức mạnh](99-glossary.md#strength) và [Khéo léo](99-glossary.md#dexterity) cao tương tự; nhưng điểm giống nhau chỉ đến đó.
 
 ## Khuynh hướng đạo đức (Alignment)
 
@@ -69,25 +69,25 @@ Khuynh hướng mô tả khái quát thái độ đạo đức và cá nhân. M�
 
 | Khuynh hướng | Mô tả |
 | --- | --- |
-| Thiện, trọng luật (LG) | Làm điều đúng theo mong đợi xã hội; ví dụ rồng vàng, thánh kỵ sĩ, phần lớn người lùn. |
-| Thiện, trung lập (NG) | Giúp người khác tốt nhất có thể theo nhu cầu; nhiều thiên thể, một số khổng lồ mây, phần lớn gnome. |
+| Thiện, trọng luật (LG) | Làm điều đúng theo mong đợi xã hội; ví dụ rồng vàng, [thánh kỵ sĩ](99-glossary.md#paladin), phần lớn người lùn. |
+| Thiện, trung lập (NG) | Giúp người khác tốt nhất có thể theo nhu cầu; nhiều thiên thể, một số khổng lồ mây, phần lớn [gnome](99-glossary.md#gnome). |
 | Thiện, hỗn loạn (CG) | Làm theo lương tâm, ít để ý mong đợi người khác; rồng đồng đỏ, nhiều elf, kỳ lân. |
-| Trung lập, trọng luật (LN) | Hành động theo luật, truyền thống hoặc quy tắc cá nhân; nhiều tu sĩ và một số pháp sư. |
-| Trung lập (N) | Tránh câu hỏi đạo đức, không đứng phe, làm điều có vẻ tốt nhất lúc đó; người thằn lằn, đa số druid, nhiều người. |
-| Trung lập, hỗn loạn (CN) | Theo ý thích, đặt tự do cá nhân lên trên hết; nhiều man di, đạo tặc, một số thi sĩ. |
+| Trung lập, trọng luật (LN) | Hành động theo luật, truyền thống hoặc quy tắc cá nhân; nhiều tu sĩ và một số [pháp sư](99-glossary.md#wizard). |
+| Trung lập (N) | Tránh câu hỏi đạo đức, không đứng phe, làm điều có vẻ tốt nhất lúc đó; người thằn lằn, đa số [druid](99-glossary.md#druid), nhiều người. |
+| Trung lập, hỗn loạn (CN) | Theo ý thích, đặt tự do cá nhân lên trên hết; nhiều man di, đạo tặc, một số [thi sĩ](99-glossary.md#bard). |
 | Ác, trọng luật (LE) | Có phương pháp lấy điều muốn trong giới hạn quy tắc truyền thống, trung thành, trật tự; quỷ devils, rồng xanh, hobgoblin. |
 | Ác, trung lập (NE) | Làm mọi thứ có thể thoát tội, không trắc ẩn hay do dự; nhiều drow, một số khổng lồ mây, yugoloth. |
-| Ác, hỗn loạn (CE) | Bạo lực tùy tiện vì tham lam, thù ghét hoặc khát máu; demon, rồng đỏ, orc. |
+| Ác, hỗn loạn (CE) | Bạo lực tùy tiện vì tham lam, thù ghét hoặc khát máu; demon, rồng đỏ, [orc](99-glossary.md#orc). |
 
 Các mô tả trên là hành vi điển hình. Cá nhân có thể khác đáng kể, và ít người luôn tuân thủ hoàn hảo các nguyên tắc của khuynh hướng mình.
 
 ### Khuynh hướng trong đa vũ trụ
 
-Với nhiều sinh vật có tư duy, khuynh hướng là lựa chọn đạo đức. Con người, người lùn, elf và các chủng tộc hình người khác có thể chọn thiện hay ác, trọng luật hay hỗn loạn. Theo thần thoại, các thần thiện tạo ra họ đã cho ý chí tự do để chọn con đường đạo đức, biết rằng điều thiện không có ý chí tự do là nô lệ.
+Với nhiều sinh vật có tư duy, khuynh hướng là lựa chọn đạo đức. Con người, người lùn, elf và các chủng tộc [hình người](99-glossary.md#humanoid) khác có thể chọn thiện hay ác, trọng luật hay hỗn loạn. Theo thần thoại, các thần thiện tạo ra họ đã cho ý chí tự do để chọn con đường đạo đức, biết rằng điều thiện không có ý chí tự do là nô lệ.
 
-Nhưng những thần ác tạo ra các chủng tộc khác để phục vụ mình. Những chủng tộc ấy có xu hướng bẩm sinh mạnh phù hợp bản chất thần. Đa số orc có bản tính bạo lực, hoang dã của thần Gruumsh, nên thiên ác. Ngay cả orc chọn thiện cũng đấu tranh với xu hướng ấy cả đời. Ngay cả half-orc cảm thấy sức kéo còn lại của ảnh hưởng thần orc.
+Nhưng những thần ác tạo ra các chủng tộc khác để phục vụ mình. Những chủng tộc ấy có xu hướng bẩm sinh mạnh phù hợp bản chất thần. Đa số orc có bản tính bạo lực, hoang dã của thần Gruumsh, nên thiên ác. Ngay cả orc chọn thiện cũng đấu tranh với xu hướng ấy cả đời. Ngay cả [half-orc](99-glossary.md#half-orc) cảm thấy sức kéo còn lại của ảnh hưởng thần orc.
 
-Khuynh hướng là phần thiết yếu của bản chất thiên thể và fiend. Devil không chọn hoặc thiên về ác trọng luật, mà bản chất chính là ác trọng luật. Nếu bằng cách nào không còn như vậy, nó không còn là devil.
+Khuynh hướng là phần thiết yếu của bản chất thiên thể và [fiend](99-glossary.md#fiend). Devil không chọn hoặc thiên về ác trọng luật, mà bản chất chính là ác trọng luật. Nếu bằng cách nào không còn như vậy, nó không còn là devil.
 
 Đa số sinh vật không đủ khả năng tư duy lý trí không có khuynh hướng, gọi là **không khuynh hướng (unaligned)**. Chúng không thể chọn đạo đức và hành động theo bản năng thú. Cá mập là loài săn mồi dữ dằn nhưng không ác; chúng không có khuynh hướng.
 
@@ -95,7 +95,7 @@ Khuynh hướng là phần thiết yếu của bản chất thiên thể và fie
 
 Tika Waylan thiện trung lập, bản chất nhân hậu, cố giúp người khác khi có thể. Artemis ác trọng luật, không quan tâm giá trị sự sống có tri giác, nhưng ít nhất chuyên nghiệp trong giết người.
 
-Là nhân vật ác, Artemis không phải nhà phiêu lưu lý tưởng. Anh bắt đầu là phản diện, chỉ hợp tác với anh hùng khi phải làm và khi có lợi nhất cho mình. Trong đa số trò chơi, nhà phiêu lưu ác gây vấn đề khi cùng nhóm với người không chung lợi ích, mục tiêu. Nhìn chung, khuynh hướng ác dành cho phản diện và quái vật.
+Là nhân vật ác, Artemis không phải [nhà phiêu lưu](99-glossary.md#adventurer) lý tưởng. Anh bắt đầu là phản diện, chỉ hợp tác với anh hùng khi phải làm và khi có lợi nhất cho mình. Trong đa số trò chơi, nhà phiêu lưu ác gây vấn đề khi cùng nhóm với người không chung lợi ích, mục tiêu. Nhìn chung, khuynh hướng ác dành cho phản diện và [quái vật](99-glossary.md#monster).
 
 ## Ngôn ngữ
 
@@ -103,7 +103,7 @@ Là nhân vật ác, Artemis không phải nhà phiêu lưu lý tưởng. Anh b�
 
 *Ngôn ngữ kết nối nhân vật với các dân tộc, nền văn hóa và bí mật của thế giới. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Chủng tộc cho biết các ngôn ngữ nhân vật nói theo mặc định, và xuất thân có thể cho thêm một hoặc nhiều ngôn ngữ tùy chọn. Ghi các ngôn ngữ này vào phiếu nhân vật. Chọn ngôn ngữ trong bảng chuẩn hoặc một ngôn ngữ thông dụng trong chiến dịch. Với sự cho phép của DM, bạn có thể chọn bảng ngoại lai hay ngôn ngữ bí mật như tiếng lóng kẻ trộm hoặc tiếng druid.
+Chủng tộc cho biết các ngôn ngữ nhân vật nói theo mặc định, và xuất thân có thể cho thêm một hoặc nhiều ngôn ngữ tùy chọn. Ghi các ngôn ngữ này vào [phiếu nhân vật](99-glossary.md#character-sheet). Chọn ngôn ngữ trong bảng chuẩn hoặc một ngôn ngữ thông dụng trong [chiến dịch](99-glossary.md#campaign). Với sự cho phép của DM, bạn có thể chọn bảng ngoại lai hay ngôn ngữ bí mật như tiếng lóng kẻ trộm hoặc tiếng druid.
 
 Một số ngôn ngữ thực chất là những họ ngôn ngữ có nhiều phương ngữ. Ví dụ, Primordial gồm Auran, Aquan, Ignan và Terran, mỗi phương ngữ tương ứng với một trong bốn cõi nguyên tố. Những sinh vật nói các phương ngữ khác nhau của cùng một ngôn ngữ vẫn có thể giao tiếp với nhau.
 
@@ -112,9 +112,9 @@ Một số ngôn ngữ thực chất là những họ ngôn ngữ có nhiều ph
 | Tiếng Chung | Con người | Chung |
 | Người lùn | Người lùn | Người lùn |
 | Elf | Elf | Elf |
-| Khổng lồ | Ogre, khổng lồ | Người lùn |
+| Khổng lồ | [Ogre](99-glossary.md#ogre), khổng lồ | Người lùn |
 | Gnome | Gnome | Người lùn |
-| Goblin | Goblinoid | Người lùn |
+| [Goblin](99-glossary.md#goblin) | Goblinoid | Người lùn |
 | Halfling | Halfling | Chung |
 | Orc | Orc | Người lùn |
 
@@ -123,10 +123,10 @@ Một số ngôn ngữ thực chất là những họ ngôn ngữ có nhiều ph
 | Abyssal | Demon | Infernal |
 | Celestial | Thiên thể | Celestial |
 | Deep Speech | Mind flayer, beholder | - |
-| Draconic | Rồng, dragonborn | Draconic |
+| Draconic | Rồng, [dragonborn](99-glossary.md#dragonborn) | Draconic |
 | Infernal | Devil | Infernal |
 | Primordial | Nguyên tố | Người lùn |
-| Sylvan | Fey | Elf |
+| Sylvan | [Fey](99-glossary.md#fey) | Elf |
 | Undercommon | Thương nhân Underdark | Elf |
 
 ## Đặc điểm cá nhân (Personal Characteristics)
@@ -169,13 +169,13 @@ Tên Tika Waylan và Artemis Entreri phân biệt họ, phản ánh tính cách.
 
 Tika bắt đầu phiêu lưu ở tuổi 19, tóc nâu đỏ, mắt xanh lá, da sáng có tàn nhang, nốt ruồi trên hông phải. Artemis nhỏ người, chắc và đầy cơ gân; nét góc cạnh, gò má cao, luôn có vẻ cần cạo râu. Tóc đen quạ dày, nhưng mắt xám vô hồn thể hiện sự trống rỗng của đời và linh hồn.
 
-## Cảm hứng (Inspiration)
+## [Cảm hứng](99-glossary.md#inspiration) (Inspiration)
 
 ![Một đồng đội giúp nhà phiêu lưu đứng dậy trước cánh cổng nguy hiểm](assets/chapter-04-inspiration.png)
 
 *Cảm hứng tưởng thưởng việc nhập vai nhất quán và những khoảnh khắc thể hiện rõ bản chất nhân vật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Cảm hứng là quy tắc DM dùng để thưởng nhập vai đúng đặc điểm, lý tưởng, gắn bó, khuyết điểm. Bạn có thể dựa lòng thương người bị áp bức để giành lợi thế thương lượng với Hoàng tử Ăn mày, hoặc dựa gắn bó bảo vệ làng để vượt hiệu ứng phép đang chịu.
+Cảm hứng là quy tắc DM dùng để thưởng nhập vai đúng đặc điểm, lý tưởng, gắn bó, khuyết điểm. Bạn có thể dựa lòng thương người bị áp bức để giành [lợi thế](99-glossary.md#advantage) thương lượng với Hoàng tử Ăn mày, hoặc dựa gắn bó bảo vệ làng để vượt hiệu ứng phép đang chịu.
 
 ### Nhận Cảm hứng
 
@@ -183,7 +183,7 @@ DM có thể trao vì nhiều lý do; thường khi thể hiện tính cách, ch
 
 ### Dùng Cảm hứng
 
-Nếu có, tiêu Cảm hứng khi tung tấn công, cứu nguy, kiểm tra thuộc tính để nhận lợi thế. Bạn cũng có thể thưởng người chơi khác vì nhập vai tốt, suy nghĩ thông minh hoặc làm việc hấp dẫn. Khi nhân vật khác đóng góp thú vị cho câu chuyện, bạn từ bỏ Cảm hứng của mình để trao cho họ.
+Nếu có, tiêu Cảm hứng khi [tung tấn công](99-glossary.md#attack-roll), [cứu nguy](99-glossary.md#saving-throw), kiểm tra thuộc tính để nhận lợi thế. Bạn cũng có thể thưởng người chơi khác vì nhập vai tốt, suy nghĩ thông minh hoặc làm việc hấp dẫn. Khi nhân vật khác đóng góp thú vị cho câu chuyện, bạn từ bỏ Cảm hứng của mình để trao cho họ.
 
 ## Xuất thân (Backgrounds)
 
@@ -197,7 +197,7 @@ Xuất thân cho gợi ý quan trọng về bản sắc. Câu hỏi quan trọng
 
 ### Sự thành thạo (Proficiencies)
 
-Mỗi xuất thân cho nhân vật thành thạo hai kỹ năng. Kỹ năng được mô tả ở Chương 7. Ngoài ra, phần lớn xuất thân cho thành thạo một hoặc nhiều công cụ; công cụ và sự thành thạo công cụ được trình bày chi tiết ở Chương 5. Nếu nhân vật nhận cùng một sự thành thạo từ hai nguồn khác nhau, có thể chọn một sự thành thạo khác cùng loại (kỹ năng hoặc công cụ) để thay thế.
+Mỗi xuất thân cho nhân vật thành thạo hai kỹ năng. Kỹ năng được mô tả ở Chương 7. Ngoài ra, phần lớn xuất thân cho thành thạo một hoặc nhiều công cụ; công cụ và [sự thành thạo](99-glossary.md#proficiency) công cụ được trình bày chi tiết ở Chương 5. Nếu nhân vật nhận cùng một sự thành thạo từ hai nguồn khác nhau, có thể chọn một sự thành thạo khác cùng loại (kỹ năng hoặc công cụ) để thay thế.
 
 ### Ngôn ngữ của xuất thân (Languages)
 
@@ -237,7 +237,7 @@ Cả hai từng là trẻ đường phố. Nghề phục vụ quán sau này kh�
 
 *Trợ tế phục vụ một tín ngưỡng và có thể tìm nơi nương náu giữa cộng đồng tín đồ. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Bạn đã dành cả đời phụng sự một ngôi đền thờ một vị thần cụ thể hoặc một điện thần. Bạn làm trung gian giữa cõi thiêng và thế giới phàm tục, thực hiện các nghi thức thiêng liêng và dâng lễ hiến tế để dẫn tín đồ đến trước sự hiện diện của thần linh. Bạn không nhất thiết là giáo sĩ: thực hiện nghi thức thiêng liêng không đồng nghĩa với việc dẫn truyền quyền năng thần thánh.
+Bạn đã dành cả đời phụng sự một ngôi đền thờ một vị thần cụ thể hoặc một điện thần. Bạn làm trung gian giữa cõi thiêng và thế giới phàm tục, thực hiện các [nghi thức](99-glossary.md#ritual) thiêng liêng và dâng lễ hiến tế để dẫn tín đồ đến trước sự hiện diện của thần linh. Bạn không nhất thiết là giáo sĩ: thực hiện nghi thức thiêng liêng không đồng nghĩa với việc dẫn truyền quyền năng thần thánh.
 
 Chọn một vị thần, một điện thần hoặc một thực thể gần với thần linh khác, rồi cùng DM xác định chi tiết công việc phụng sự tôn giáo của bạn. Phụ lục B có một điện thần mẫu từ bối cảnh Forgotten Realms. Bạn từng là người phục vụ cấp thấp trong đền, được nuôi dạy từ nhỏ để giúp các tư tế thực hiện nghi thức thiêng liêng? Hay bạn là một đại tư tế đột nhiên nhận được lời kêu gọi phụng sự vị thần của mình theo cách khác? Có lẽ bạn từng lãnh đạo một giáo phái nhỏ nằm ngoài hệ thống đền thờ chính thức, hoặc thậm chí một hội huyền bí phụng sự một chủ nhân quỷ dữ mà giờ đây bạn chối bỏ.
 
@@ -246,7 +246,7 @@ Chọn một vị thần, một điện thần hoặc một thực thể gần v
 
 #### Đặc tính: Nơi nương náu của tín đồ (Shelter of the Faithful)
 
-Là trợ tế, bạn được những người cùng đức tin kính trọng và có thể thực hiện các nghi lễ tôn giáo của vị thần mình phụng sự. Bạn và những người bạn đồng hành phiêu lưu có thể trông đợi được chữa trị và chăm sóc miễn phí tại đền, điện thờ hoặc nơi hiện diện chính thức khác của đức tin ấy; tuy nhiên, bạn phải cung cấp mọi thành phần vật chất cần thiết cho các phép. Những người cùng tôn giáo sẽ hỗ trợ bạn, nhưng chỉ riêng bạn, duy trì mức sống khiêm tốn.
+Là trợ tế, bạn được những người cùng đức tin kính trọng và có thể thực hiện các nghi lễ tôn giáo của vị thần mình phụng sự. Bạn và những người bạn đồng hành phiêu lưu có thể trông đợi được chữa trị và chăm sóc miễn phí tại đền, điện thờ hoặc nơi hiện diện chính thức khác của đức tin ấy; tuy nhiên, bạn phải cung cấp mọi [thành phần vật chất](99-glossary.md#components) cần thiết cho các phép. Những người cùng tôn giáo sẽ hỗ trợ bạn, nhưng chỉ riêng bạn, duy trì mức sống khiêm tốn.
 
 Bạn cũng có thể gắn bó với một ngôi đền cụ thể thờ vị thần hoặc điện thần đã chọn và có chỗ cư trú tại đó. Đó có thể là ngôi đền bạn từng phụng sự, nếu vẫn giữ quan hệ tốt, hoặc một ngôi đền đã trở thành mái nhà mới. Khi ở gần đền của mình, bạn có thể nhờ các tư tế giúp đỡ, miễn là sự giúp đỡ bạn yêu cầu không nguy hiểm và bạn vẫn được đền tín nhiệm.
 
@@ -529,7 +529,7 @@ Bạn đã dành nhiều năm học tri thức của đa vũ trụ. Bạn lục 
 
 #### Đặc tính: Nhà nghiên cứu (Researcher)
 
-Khi cố tìm hiểu hoặc nhớ lại một mẩu tri thức mà bản thân không biết, bạn thường biết có thể tìm thông tin ấy ở đâu và từ ai. Thông thường, thông tin đến từ thư viện, phòng chép sách, đại học, một hiền giả hoặc một người hay sinh vật có học thức khác. DM có thể quyết định rằng tri thức bạn tìm bị giấu ở một nơi gần như không thể tiếp cận, hoặc đơn giản là không thể tìm thấy. Khám phá những bí mật sâu kín nhất của đa vũ trụ có thể đòi hỏi một cuộc phiêu lưu, thậm chí cả một chiến dịch.
+Khi cố tìm hiểu hoặc nhớ lại một mẩu tri thức mà bản thân không biết, bạn thường biết có thể tìm thông tin ấy ở đâu và từ ai. Thông thường, thông tin đến từ thư viện, phòng chép sách, đại học, một hiền giả hoặc một người hay sinh vật có học thức khác. DM có thể quyết định rằng tri thức bạn tìm bị giấu ở một nơi gần như không thể tiếp cận, hoặc đơn giản là không thể tìm thấy. Khám phá những bí mật sâu kín nhất của đa vũ trụ có thể đòi hỏi một [cuộc phiêu lưu](99-glossary.md#adventure), thậm chí cả một chiến dịch.
 
 **Đặc điểm gợi ý:** Hiền giả được định hình bởi quá trình nghiên cứu sâu rộng; các đặc điểm phản ánh đời sống học tập ấy. Tận tâm với việc học thuật, họ coi trọng tri thức, đôi khi vì chính tri thức, đôi khi vì nó là phương tiện hướng tới lý tưởng khác.
 

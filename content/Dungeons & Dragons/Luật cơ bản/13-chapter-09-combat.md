@@ -8,17 +8,17 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 72-80.
 
 *Chiến đấu kết hợp vị trí, thời điểm, hành động và phối hợp để tạo nên những cuộc đối đầu kịch tính. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Tiếng kiếm va vào khiên chan chát. Tiếng xé rách kinh hoàng khi móng vuốt quái vật cào xuyên giáp. Ánh sáng chói lòa khi quả cầu lửa nở bung từ phép của pháp sư. Mùi máu sắc nồng trong không khí, xuyên qua mùi hôi của quái vật ghê tởm. Tiếng gầm giận dữ, tiếng reo chiến thắng, tiếng kêu đau đớn. Chiến đấu trong D&D có thể hỗn loạn, chết chóc và đầy phấn khích.
+Tiếng kiếm va vào [khiên](99-glossary.md#shield) chan chát. Tiếng xé rách kinh hoàng khi móng vuốt [quái vật](99-glossary.md#monster) cào xuyên giáp. Ánh sáng chói lòa khi quả cầu lửa nở bung từ phép của [pháp sư](99-glossary.md#wizard). Mùi máu sắc nồng trong không khí, xuyên qua mùi hôi của quái vật ghê tởm. Tiếng gầm giận dữ, tiếng reo chiến thắng, tiếng kêu đau đớn. Chiến đấu trong D&D có thể hỗn loạn, chết chóc và đầy phấn khích.
 
-Chương này cung cấp những quy tắc cần thiết để nhân vật và quái vật tham gia chiến đấu, dù là cuộc giao tranh ngắn hay xung đột kéo dài trong hầm ngục hoặc trên chiến trường. Xuyên suốt chương, quy tắc nói trực tiếp với bạn, người chơi hoặc Dungeon Master. Dungeon Master điều khiển tất cả quái vật và nhân vật không do người chơi điều khiển tham gia chiến đấu; mỗi người chơi khác điều khiển một nhà phiêu lưu. “Bạn” cũng có thể chỉ nhân vật hoặc quái vật mà bạn điều khiển.
+Chương này cung cấp những quy tắc cần thiết để nhân vật và quái vật tham gia chiến đấu, dù là cuộc giao tranh ngắn hay xung đột kéo dài trong hầm ngục hoặc trên chiến trường. Xuyên suốt chương, quy tắc nói trực tiếp với bạn, người chơi hoặc [Dungeon Master](99-glossary.md#dungeon-master). Dungeon Master điều khiển tất cả quái vật và nhân vật không do người chơi điều khiển tham gia chiến đấu; mỗi người chơi khác điều khiển một [nhà phiêu lưu](99-glossary.md#adventurer). “Bạn” cũng có thể chỉ nhân vật hoặc quái vật mà bạn điều khiển.
 
 ## Trình tự chiến đấu (The Order of Combat)
 
 ![Hai phe nhận biết nhau và triển khai trên chiến trường](assets/chapter-09-order-of-combat.png)
 
-*Trình tự chiến đấu chia cuộc đối đầu thành các vòng và lượt có thứ tự rõ ràng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Trình tự chiến đấu chia cuộc đối đầu thành các [vòng và lượt](99-glossary.md#round-turn) có thứ tự rõ ràng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Một cuộc chạm trán chiến đấu điển hình là cuộc đụng độ giữa hai phe, với những đợt vung vũ khí, đòn nghi binh, đỡ đòn, di chuyển chân và thi triển phép. Trò chơi tổ chức sự hỗn loạn ấy thành chu kỳ gồm **vòng (round)** và **lượt (turn)**. Một vòng tương đương khoảng 6 giây trong thế giới trò chơi. Trong một vòng, mỗi bên tham gia trận chiến có một lượt. Thứ tự lượt được xác định khi cuộc chạm trán bắt đầu, lúc mọi người tung sáng kiến. Sau khi mọi người đã có lượt, trận chiến tiếp tục sang vòng sau nếu chưa phe nào đánh bại phe kia.
+Một [cuộc chạm trán](99-glossary.md#encounter) chiến đấu điển hình là cuộc đụng độ giữa hai phe, với những đợt vung vũ khí, đòn nghi binh, đỡ đòn, di chuyển chân và [thi triển phép](99-glossary.md#spellcasting). Trò chơi tổ chức sự hỗn loạn ấy thành chu kỳ gồm **vòng (round)** và **lượt (turn)**. Một vòng tương đương khoảng 6 giây trong thế giới trò chơi. Trong một vòng, mỗi bên tham gia trận chiến có một lượt. Thứ tự lượt được xác định khi cuộc chạm trán bắt đầu, lúc mọi người tung sáng kiến. Sau khi mọi người đã có lượt, trận chiến tiếp tục sang vòng sau nếu chưa phe nào đánh bại phe kia.
 
 ### Chiến đấu từng bước (Combat Step by Step)
 
@@ -36,17 +36,17 @@ Một cuộc chạm trán chiến đấu điển hình là cuộc đụng độ 
 
 Một nhóm nhà phiêu lưu lén đến trại cướp, lao từ trong cây ra tấn công. Một khối gelatinous cube trượt dọc lối đi hầm ngục mà nhà phiêu lưu không nhận ra cho đến khi nó nuốt chửng một người trong nhóm. Trong những tình huống này, một phe khiến phe kia bị bất ngờ.
 
-DM xác định ai có thể bị bất ngờ. Nếu không phe nào cố lén lút, họ tự động nhận ra nhau. Nếu có, DM so sánh kiểm tra Khéo léo (Lén lút) của bất kỳ ai đang ẩn nấp với điểm Minh triết (Tri giác) thụ động của từng sinh vật ở phe đối diện. Nhân vật hoặc quái vật không nhận ra mối đe dọa bị bất ngờ khi cuộc chạm trán bắt đầu.
+DM xác định ai có thể bị bất ngờ. Nếu không phe nào cố lén lút, họ tự động nhận ra nhau. Nếu có, DM so sánh kiểm tra [Khéo léo](99-glossary.md#dexterity) (Lén lút) của bất kỳ ai đang ẩn nấp với điểm [Minh triết](99-glossary.md#wisdom) (Tri giác) thụ động của từng sinh vật ở phe đối diện. Nhân vật hoặc quái vật không nhận ra mối đe dọa bị bất ngờ khi cuộc chạm trán bắt đầu.
 
 Nếu bị bất ngờ, bạn không thể di chuyển hoặc thực hiện hành động trong lượt đầu tiên của mình trong trận chiến, và không thể thực hiện phản ứng cho đến khi lượt đó kết thúc. Một thành viên trong nhóm có thể bị bất ngờ dù các thành viên khác không bị.
 
-### Sáng kiến (Initiative)
+### [Sáng kiến](99-glossary.md#initiative) (Initiative)
 
 Sáng kiến xác định thứ tự lượt trong chiến đấu. Khi chiến đấu bắt đầu, mỗi bên tham gia thực hiện kiểm tra Khéo léo để xác định vị trí trong thứ tự sáng kiến. DM tung một lần cho cả nhóm sinh vật giống nhau, nên mọi thành viên trong nhóm đó hành động cùng lúc.
 
 DM xếp người tham chiến từ người có tổng kiểm tra Khéo léo cao nhất đến người có tổng thấp nhất. Đây là thứ tự, gọi là thứ tự sáng kiến, mà họ hành động trong mỗi vòng. Thứ tự sáng kiến giữ nguyên qua các vòng.
 
-Nếu hòa, DM quyết định thứ tự giữa các sinh vật do DM điều khiển có kết quả hòa, còn người chơi quyết định thứ tự giữa những nhân vật của họ có kết quả hòa. DM có thể quyết định thứ tự nếu hòa giữa quái vật và nhân vật người chơi. Theo lựa chọn của DM, mỗi nhân vật và quái vật hòa nhau có thể tung một d20 để xác định thứ tự; kết quả cao nhất đi trước.
+Nếu hòa, DM quyết định thứ tự giữa các sinh vật do DM điều khiển có kết quả hòa, còn người chơi quyết định thứ tự giữa những nhân vật của họ có kết quả hòa. DM có thể quyết định thứ tự nếu hòa giữa quái vật và [nhân vật người chơi](99-glossary.md#player-character). Theo lựa chọn của DM, mỗi nhân vật và quái vật hòa nhau có thể tung một [d20](99-glossary.md#dice-notation) để xác định thứ tự; kết quả cao nhất đi trước.
 
 ### Lượt của bạn (Your Turn)
 
@@ -54,9 +54,9 @@ Nếu hòa, DM quyết định thứ tự giữa các sinh vật do DM điều k
 
 *Trong lượt, nhân vật kết hợp di chuyển và hành động; phản ứng có thể xảy ra khi một điều kiện thích hợp xuất hiện. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Trong lượt, bạn có thể **di chuyển** quãng đường tối đa bằng tốc độ của mình và thực hiện **một hành động**. Bạn quyết định di chuyển trước hay hành động trước. Tốc độ, đôi khi được gọi là tốc độ đi bộ, được ghi trên phiếu nhân vật.
+Trong lượt, bạn có thể **di chuyển** quãng đường tối đa bằng tốc độ của mình và thực hiện **một hành động**. Bạn quyết định di chuyển trước hay hành động trước. Tốc độ, đôi khi được gọi là tốc độ đi bộ, được ghi trên [phiếu nhân vật](99-glossary.md#character-sheet).
 
-Những hành động thường gặp nhất được mô tả trong phần “Hành động trong chiến đấu” ở phía sau chương này. Nhiều đặc tính lớp và khả năng khác cung cấp thêm lựa chọn cho hành động của bạn.
+Những hành động thường gặp nhất được mô tả trong phần “Hành động trong chiến đấu” ở phía sau chương này. Nhiều [đặc tính lớp](99-glossary.md#class-feature) và khả năng khác cung cấp thêm lựa chọn cho hành động của bạn.
 
 Phần “Di chuyển và vị trí” phía sau chương này cung cấp quy tắc di chuyển.
 
@@ -64,7 +64,7 @@ Bạn có thể bỏ qua di chuyển, hành động hoặc không làm gì trong
 
 #### Hành động phụ (Bonus Actions)
 
-Nhiều đặc tính lớp, phép và khả năng khác cho phép bạn thực hiện thêm một hành động trong lượt, gọi là hành động phụ. Ví dụ, đặc tính Hành động xảo quyệt (Cunning Action) cho phép đạo tặc thực hiện hành động phụ. Bạn chỉ có thể thực hiện hành động phụ khi một khả năng đặc biệt, phép hoặc đặc tính khác của trò chơi nói rõ bạn có thể làm điều gì đó bằng hành động phụ. Nếu không, bạn không có hành động phụ để thực hiện.
+Nhiều đặc tính lớp, phép và khả năng khác cho phép bạn thực hiện thêm một hành động trong lượt, gọi là [hành động phụ](99-glossary.md#action). Ví dụ, đặc tính Hành động xảo quyệt (Cunning Action) cho phép [đạo tặc](99-glossary.md#rogue) thực hiện hành động phụ. Bạn chỉ có thể thực hiện hành động phụ khi một khả năng đặc biệt, phép hoặc đặc tính khác của trò chơi nói rõ bạn có thể làm điều gì đó bằng hành động phụ. Nếu không, bạn không có hành động phụ để thực hiện.
 
 Bạn chỉ có thể thực hiện một hành động phụ trong lượt, nên phải chọn hành động phụ nào nếu có nhiều lựa chọn.
 
@@ -78,7 +78,7 @@ Bạn có thể giao tiếp bằng bất kỳ cách nào mình có thể, qua l�
 
 Bạn cũng có thể tương tác miễn phí với một đồ vật hoặc yếu tố môi trường trong lúc di chuyển hoặc thực hiện hành động. Ví dụ, bạn có thể mở cửa trong lúc di chuyển về phía kẻ địch, hoặc rút vũ khí như một phần của cùng hành động dùng để tấn công.
 
-Nếu muốn tương tác với đồ vật thứ hai, bạn phải dùng hành động. Một số vật phẩm ma thuật và đồ vật đặc biệt khác luôn đòi hỏi hành động để sử dụng, như ghi trong mô tả của chúng.
+Nếu muốn tương tác với đồ vật thứ hai, bạn phải dùng hành động. Một số [vật phẩm ma thuật](99-glossary.md#magic-item) và đồ vật đặc biệt khác luôn đòi hỏi hành động để sử dụng, như ghi trong mô tả của chúng.
 
 DM có thể yêu cầu bạn dùng hành động cho bất kỳ hoạt động nào trong số này khi nó cần sự cẩn thận đặc biệt hoặc có trở ngại khác thường. Ví dụ, DM có thể hợp lý yêu cầu bạn dùng hành động để mở cửa bị kẹt hoặc quay tay quay để hạ cầu kéo.
 
@@ -98,14 +98,14 @@ Dưới đây là một số ví dụ về những việc có thể làm cùng v
 - Uống hết bia ale trong bình uống.
 - Gạt cần hoặc công tắc.
 - Rút đuốc khỏi giá đỡ trên tường.
-- Lấy sách trên kệ trong tầm với.
+- Lấy sách trên kệ trong [tầm với](99-glossary.md#reach).
 - Dập một ngọn lửa nhỏ.
 - Đeo mặt nạ.
 - Kéo mũ trùm của áo choàng lên đầu.
 - Áp tai vào cửa.
 - Đá một viên đá nhỏ.
 - Xoay chìa trong ổ khóa.
-- Gõ sàn bằng sào dài 10 feet.
+- Gõ sàn bằng sào dài 10 [feet](99-glossary.md#feet).
 - Đưa một vật phẩm cho nhân vật khác.
 
 ### Phản ứng (Reactions)
@@ -134,7 +134,7 @@ Bạn có thể chia nhỏ việc di chuyển trong lượt, dùng một phần 
 
 #### Di chuyển giữa các đòn tấn công (Moving between Attacks)
 
-Nếu thực hiện hành động gồm nhiều hơn một đòn tấn công bằng vũ khí, bạn có thể chia nhỏ di chuyển hơn nữa bằng cách di chuyển giữa những đòn ấy. Ví dụ, chiến binh có thể thực hiện hai đòn nhờ đặc tính Tấn công thêm (Extra Attack), với tốc độ 25 feet, có thể đi 10 feet, tấn công, đi 15 feet, rồi tấn công lần nữa.
+Nếu thực hiện hành động gồm nhiều hơn một đòn tấn công bằng vũ khí, bạn có thể chia nhỏ di chuyển hơn nữa bằng cách di chuyển giữa những đòn ấy. Ví dụ, [chiến binh](99-glossary.md#fighter) có thể thực hiện hai đòn nhờ đặc tính Tấn công thêm (Extra Attack), với tốc độ 25 feet, có thể đi 10 feet, tấn công, đi 15 feet, rồi tấn công lần nữa.
 
 #### Dùng các tốc độ khác nhau (Using Different Speeds)
 
@@ -146,15 +146,15 @@ Ví dụ, nếu có tốc độ 30 và tốc độ bay 60 vì pháp sư thi tri�
 
 ![Một chiến binh đứng dậy giữa bùn lầy và đống đổ nát](assets/chapter-09-difficult-terrain-prone.png)
 
-*Địa hình khó đi và trạng thái ngã sấp làm thay đổi tốc độ cũng như lựa chọn chiến thuật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Địa hình khó đi và [trạng thái](99-glossary.md#condition) ngã sấp làm thay đổi tốc độ cũng như lựa chọn chiến thuật. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Chiến đấu hiếm khi diễn ra trong phòng trống hoặc đồng bằng không có đặc điểm gì. Hang động đầy đá tảng, rừng rậm gai góc, cầu thang hiểm trở — bối cảnh của trận chiến điển hình có địa hình khó đi.
+Chiến đấu hiếm khi diễn ra trong phòng trống hoặc đồng bằng không có đặc điểm gì. Hang động đầy đá tảng, rừng rậm gai góc, cầu thang hiểm trở — bối cảnh của trận chiến điển hình có [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
 Mỗi foot di chuyển trong địa hình khó đi tiêu tốn thêm 1 foot. Quy tắc này vẫn đúng ngay cả khi nhiều yếu tố trong cùng một không gian được coi là địa hình khó đi.
 
 Đồ đạc thấp, gạch đá vụn, bụi cây, cầu thang dốc, tuyết và đầm lầy nông là những ví dụ về địa hình khó đi. Không gian của một sinh vật khác, dù thù địch hay không, cũng được coi là địa hình khó đi.
 
-### Ngã sấp (Being Prone)
+### [Ngã sấp](99-glossary.md#prone) (Being Prone)
 
 Người tham chiến thường nằm trên mặt đất, do bị đánh ngã hoặc tự nằm xuống. Trong trò chơi, họ ở trạng thái ngã sấp (prone), được mô tả ở phụ lục A.
 
@@ -187,9 +187,9 @@ Mỗi sinh vật chiếm lượng không gian khác nhau. Bảng Các bậc kíc
 | Kích cỡ | Không gian | Quái vật ví dụ |
 | --- | --- | --- |
 | Tí hon (Tiny) | 2½ × 2½ feet | Imp, sprite |
-| Nhỏ (Small) | 5 × 5 feet | Chuột khổng lồ, goblin |
-| Trung bình (Medium) | 5 × 5 feet | Orc, người sói |
-| Lớn (Large) | 10 × 10 feet | Hippogriff, ogre |
+| Nhỏ (Small) | 5 × 5 feet | Chuột khổng lồ, [goblin](99-glossary.md#goblin) |
+| Trung bình (Medium) | 5 × 5 feet | Orc, [người sói](99-glossary.md#lycanthrope) |
+| Lớn (Large) | 10 × 10 feet | Hippogriff, [ogre](99-glossary.md#ogre) |
 | Khổng lồ (Huge) | 15 × 15 feet | Khổng lồ lửa, treant |
 | Cực đại (Gargantuan) | 20 × 20 feet hoặc lớn hơn | Kraken, purple worm |
 
@@ -203,7 +203,7 @@ Vì sinh vật lớn chiếm nhiều không gian hơn, ít sinh vật như vậy
 
 #### Chen qua không gian nhỏ hơn (Squeezing into a Smaller Space)
 
-Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn nó một bậc kích cỡ. Vì vậy, sinh vật Lớn có thể chen qua lối đi chỉ rộng 5 feet. Trong lúc chen qua, sinh vật phải dùng thêm 1 foot cho mỗi foot di chuyển ở đó, và có bất lợi trong tung tấn công và cứu nguy Khéo léo. Những lần tung tấn công vào sinh vật có lợi thế khi nó ở trong không gian nhỏ hơn ấy.
+Sinh vật có thể chen qua không gian đủ rộng cho sinh vật nhỏ hơn nó một bậc kích cỡ. Vì vậy, sinh vật Lớn có thể chen qua lối đi chỉ rộng 5 feet. Trong lúc chen qua, sinh vật phải dùng thêm 1 foot cho mỗi foot di chuyển ở đó, và có bất lợi trong [tung tấn công](99-glossary.md#attack-roll) và [cứu nguy](99-glossary.md#saving-throw) Khéo léo. Những lần tung tấn công vào sinh vật có [lợi thế](99-glossary.md#advantage) khi nó ở trong không gian nhỏ hơn ấy.
 
 ### Quy tắc tùy chọn: Chơi trên lưới ô vuông (Variant: Playing on a Grid)
 
@@ -233,7 +233,7 @@ Nếu một ô tiêu tốn thêm di chuyển, như ô địa hình khó đi, b�
 
 *Mỗi hành động chiến đấu mở ra một cách khác nhau để gây ảnh hưởng đến cuộc đối đầu. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Khi thực hiện hành động trong lượt, bạn có thể chọn một hành động trình bày ở đây, một hành động nhận từ lớp hoặc đặc tính đặc biệt, hoặc hành động tự ứng biến. Nhiều quái vật có những lựa chọn hành động riêng trong khối thông số.
+Khi thực hiện hành động trong lượt, bạn có thể chọn một hành động trình bày ở đây, một hành động nhận từ lớp hoặc đặc tính đặc biệt, hoặc hành động tự ứng biến. Nhiều quái vật có những lựa chọn hành động riêng trong [khối thông số](99-glossary.md#stat-block).
 
 Khi mô tả hành động không được quy tắc trình bày chi tiết ở nơi khác, DM cho biết hành động đó có thể thực hiện hay không và bạn cần loại lần tung nào, nếu có, để xác định thành công hoặc thất bại.
 
@@ -247,7 +247,7 @@ Một số đặc tính, như Tấn công thêm của chiến binh, cho phép th
 
 ### Thi triển phép (Cast a Spell)
 
-Người thi triển phép như pháp sư và giáo sĩ, cùng nhiều quái vật, có phép và có thể dùng chúng hiệu quả trong chiến đấu. Mỗi phép có thời gian thi triển, quy định người thi triển phải dùng hành động, phản ứng, nhiều phút hay thậm chí nhiều giờ để thi triển. Vì vậy, thi triển phép không nhất thiết là một hành động. Phần lớn phép có thời gian thi triển 1 hành động, nên người thi triển thường dùng hành động trong chiến đấu để thi triển phép như vậy. Xem chương 10 về quy tắc thi triển phép.
+Người thi triển phép như pháp sư và [giáo sĩ](99-glossary.md#cleric), cùng nhiều quái vật, có phép và có thể dùng chúng hiệu quả trong chiến đấu. Mỗi phép có thời gian thi triển, quy định người thi triển phải dùng hành động, phản ứng, nhiều phút hay thậm chí nhiều giờ để thi triển. Vì vậy, thi triển phép không nhất thiết là một hành động. Phần lớn phép có thời gian thi triển 1 hành động, nên người thi triển thường dùng hành động trong chiến đấu để thi triển phép như vậy. Xem chương 10 về quy tắc thi triển phép.
 
 ### Chạy nước rút (Dash)
 
@@ -285,7 +285,7 @@ Khi chuẩn bị một phép, bạn thi triển như bình thường nhưng gi�
 
 ### Tìm kiếm (Search)
 
-Khi thực hiện hành động Tìm kiếm, bạn dành sự chú ý để tìm một thứ. Tùy bản chất tìm kiếm, DM có thể yêu cầu kiểm tra Minh triết (Tri giác) hoặc Trí tuệ (Điều tra).
+Khi thực hiện hành động Tìm kiếm, bạn dành sự chú ý để tìm một thứ. Tùy bản chất tìm kiếm, DM có thể yêu cầu kiểm tra Minh triết (Tri giác) hoặc [Trí tuệ](99-glossary.md#intelligence) (Điều tra).
 
 ### Sử dụng đồ vật (Use an Object)
 
@@ -293,7 +293,7 @@ Thông thường, bạn tương tác với đồ vật trong lúc làm việc kh
 
 ### Ứng biến hành động (Improvising an Action)
 
-Nhân vật có thể làm những việc không được các hành động trong chương này bao quát, như phá cửa, uy hiếp kẻ địch, cảm nhận điểm yếu trong phòng thủ ma thuật hoặc kêu gọi thương lượng với kẻ địch. Giới hạn duy nhất của các hành động bạn có thể thử là trí tưởng tượng và điểm thuộc tính của nhân vật. Xem mô tả điểm thuộc tính ở chương 7 để tìm ý tưởng khi ứng biến.
+Nhân vật có thể làm những việc không được các hành động trong chương này bao quát, như phá cửa, uy hiếp kẻ địch, cảm nhận điểm yếu trong phòng thủ ma thuật hoặc kêu gọi thương lượng với kẻ địch. Giới hạn duy nhất của các hành động bạn có thể thử là trí tưởng tượng và [điểm thuộc tính](99-glossary.md#ability-score) của nhân vật. Xem mô tả điểm thuộc tính ở chương 7 để tìm ý tưởng khi ứng biến.
 
 Khi mô tả hành động không được quy tắc trình bày chi tiết ở nơi khác, DM cho biết hành động có thể thực hiện hay không và cần loại lần tung nào, nếu có, để xác định thành công hoặc thất bại.
 
@@ -303,23 +303,23 @@ Khi mô tả hành động không được quy tắc trình bày chi tiết ở 
 
 *Một đòn tấn công cần xác định mục tiêu, tung tấn công và giải quyết kết quả trúng hoặc trượt. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Dù đánh bằng vũ khí cận chiến, bắn vũ khí tầm xa hay tung tấn công trong một phép, đòn tấn công có cấu trúc đơn giản.
+Dù đánh bằng [vũ khí cận chiến](99-glossary.md#melee-ranged), bắn vũ khí tầm xa hay tung tấn công trong một phép, đòn tấn công có cấu trúc đơn giản.
 
 1. **Chọn mục tiêu.** Chọn mục tiêu trong tầm của đòn tấn công: sinh vật, đồ vật hoặc địa điểm.
-2. **Xác định điều chỉnh.** DM xác định mục tiêu có vật che chắn hay không và bạn có lợi thế hoặc bất lợi khi tấn công mục tiêu hay không. Ngoài ra, phép, khả năng đặc biệt và hiệu ứng khác có thể áp dụng khoản thưởng hoặc phạt vào lần tung tấn công.
+2. **Xác định điều chỉnh.** DM xác định mục tiêu có vật [che chắn](99-glossary.md#cover) hay không và bạn có lợi thế hoặc bất lợi khi tấn công mục tiêu hay không. Ngoài ra, phép, khả năng đặc biệt và hiệu ứng khác có thể áp dụng khoản thưởng hoặc phạt vào lần tung tấn công.
 3. **Giải quyết đòn tấn công.** Bạn tung tấn công. Nếu trúng, tung sát thương, trừ khi đòn tấn công cụ thể có quy tắc khác. Một số đòn gây hiệu ứng đặc biệt bên cạnh hoặc thay cho sát thương.
 
 Nếu có thắc mắc một việc bạn đang làm có được tính là đòn tấn công hay không, quy tắc rất đơn giản: nếu đang tung tấn công, bạn đang thực hiện đòn tấn công.
 
 ### Tung tấn công (Attack Rolls)
 
-Khi thực hiện đòn tấn công, lần tung tấn công xác định trúng hay trượt. Để tung tấn công, tung một d20 và cộng những điều chỉnh thích hợp. Nếu tổng lần tung cộng điều chỉnh bằng hoặc vượt Chỉ số giáp (Armor Class, AC) của mục tiêu, đòn tấn công trúng. AC của nhân vật được xác định khi tạo nhân vật; AC của quái vật nằm trong khối thông số.
+Khi thực hiện đòn tấn công, lần tung tấn công xác định trúng hay trượt. Để tung tấn công, tung một d20 và cộng những điều chỉnh thích hợp. Nếu tổng lần tung cộng điều chỉnh bằng hoặc vượt [Chỉ số giáp](99-glossary.md#armor-class) (Armor Class, AC) của mục tiêu, đòn tấn công trúng. AC của nhân vật được xác định khi tạo nhân vật; AC của quái vật nằm trong khối thông số.
 
 #### Điều chỉnh lần tung (Modifiers to the Roll)
 
-Khi nhân vật tung tấn công, hai điều chỉnh thường gặp nhất là hệ số thuộc tính và thưởng thành thạo. Khi quái vật tung tấn công, nó dùng hệ số được cung cấp trong khối thông số.
+Khi nhân vật tung tấn công, hai điều chỉnh thường gặp nhất là [hệ số thuộc tính](99-glossary.md#modifier) và [thưởng thành thạo](99-glossary.md#proficiency). Khi quái vật tung tấn công, nó dùng hệ số được cung cấp trong khối thông số.
 
-**Hệ số thuộc tính (Ability Modifier).** Thuộc tính dùng cho tấn công bằng vũ khí cận chiến là Sức mạnh; thuộc tính dùng cho tấn công bằng vũ khí tầm xa là Khéo léo. Vũ khí có tính chất Tinh xảo (finesse) hoặc Ném (thrown) là ngoại lệ của quy tắc này.
+**Hệ số thuộc tính (Ability Modifier).** Thuộc tính dùng cho tấn công bằng vũ khí cận chiến là [Sức mạnh](99-glossary.md#strength); thuộc tính dùng cho tấn công bằng vũ khí tầm xa là Khéo léo. Vũ khí có tính chất [Tinh xảo](99-glossary.md#finesse) (finesse) hoặc Ném (thrown) là ngoại lệ của quy tắc này.
 
 Một số phép cũng đòi hỏi tung tấn công. Hệ số thuộc tính dùng cho tấn công phép phụ thuộc thuộc tính thi triển phép của người thi triển, như giải thích ở chương 10.
 
@@ -329,7 +329,7 @@ Một số phép cũng đòi hỏi tung tấn công. Hệ số thuộc tính dù
 
 Đôi khi số phận ban phước hoặc nguyền rủa người tham chiến, khiến người mới đánh trúng còn người lão luyện đánh trượt.
 
-Nếu d20 của lần tung tấn công ra 20, đòn trúng bất kể điều chỉnh hoặc AC của mục tiêu. Đây gọi là đòn chí mạng (critical hit), giải thích phía sau chương này.
+Nếu d20 của lần tung tấn công ra 20, đòn trúng bất kể điều chỉnh hoặc AC của mục tiêu. Đây gọi là [đòn chí mạng](99-glossary.md#critical-hit) (critical hit), giải thích phía sau chương này.
 
 Nếu d20 của lần tung tấn công ra 1, đòn trượt bất kể điều chỉnh hoặc AC của mục tiêu.
 
@@ -395,7 +395,7 @@ Nếu một trong hai vũ khí có tính chất Ném, bạn có thể ném vũ k
 
 #### Đối kháng trong chiến đấu (Contests in Combat)
 
-Trận chiến thường gồm việc so tài của bạn với kẻ địch. Thử thách như vậy được thể hiện bằng đối kháng. Phần này gồm những đối kháng thường gặp nhất đòi hỏi hành động trong chiến đấu: vật lộn và xô sinh vật. DM có thể dùng chúng làm mẫu để ứng biến những đối kháng khác.
+Trận chiến thường gồm việc so tài của bạn với kẻ địch. Thử thách như vậy được thể hiện bằng đối kháng. Phần này gồm những đối kháng thường gặp nhất đòi hỏi hành động trong chiến đấu: [vật lộn](99-glossary.md#grapple) và xô sinh vật. DM có thể dùng chúng làm mẫu để ứng biến những đối kháng khác.
 
 #### Vật lộn (Grappling)
 
@@ -433,7 +433,7 @@ Mục tiêu có **che chắn toàn bộ (total cover)** không thể được ch
 
 ![Đồng đội bảo vệ người gục ngã trong khi người chữa trị hồi phục một chiến binh](assets/chapter-09-damage-healing.png)
 
-*Sát thương làm giảm điểm sinh lực, còn chữa lành và ổn định giúp nhân vật tiếp tục sống sót. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Sát thương làm giảm [điểm sinh lực](99-glossary.md#hit-points), còn chữa lành và ổn định giúp nhân vật tiếp tục sống sót. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Thương tích và nguy cơ tử vong luôn đi cùng những người khám phá thế giới D&D. Cú đâm kiếm, mũi tên bắn chuẩn hoặc luồng lửa từ phép *fireball* đều có thể gây tổn hại, thậm chí giết chết sinh vật dẻo dai nhất.
 
@@ -461,11 +461,11 @@ Ví dụ, nếu đánh chí mạng bằng dao găm, tung 2d4 sát thương thay 
 
 #### Các loại sát thương (Damage Types)
 
-Những đòn tấn công, phép gây sát thương và hiệu ứng gây hại khác nhau gây những loại sát thương khác nhau. Các loại sát thương không có quy tắc riêng, nhưng quy tắc khác, như kháng sát thương, dựa vào chúng.
+Những đòn tấn công, phép gây sát thương và hiệu ứng gây hại khác nhau gây những loại sát thương khác nhau. Các loại sát thương không có quy tắc riêng, nhưng quy tắc khác, như [kháng sát thương](99-glossary.md#resistance-immunity), dựa vào chúng.
 
 Dưới đây là các loại sát thương, kèm ví dụ giúp DM gán loại sát thương cho hiệu ứng mới.
 
-**Axit (Acid).** Luồng phun ăn mòn từ hơi thở rồng đen và enzyme phân hủy do black pudding tiết ra gây sát thương axit.
+**Axit (Acid).** Luồng phun ăn mòn từ hơi thở [rồng](99-glossary.md#dragon) đen và enzyme phân hủy do black pudding tiết ra gây sát thương axit.
 
 **Đập (Bludgeoning).** Các đòn dùng lực va đập hoặc ép, như búa, rơi, siết và tương tự, gây sát thương đập.
 
@@ -477,7 +477,7 @@ Dưới đây là các loại sát thương, kèm ví dụ giúp DM gán loại 
 
 **Sét (Lightning).** Phép *lightning bolt* và hơi thở rồng xanh lam gây sát thương sét.
 
-**Hoại tử (Necrotic).** Sát thương hoại tử, do một số xác sống và phép gây ra, làm tàn lụi vật chất và cả linh hồn.
+**Hoại tử (Necrotic).** Sát thương hoại tử, do một số [xác sống](99-glossary.md#undead) và phép gây ra, làm tàn lụi vật chất và cả linh hồn.
 
 **Đâm (Piercing).** Các đòn chọc thủng và xuyên, gồm giáo và cú cắn quái vật, gây sát thương đâm.
 
@@ -487,7 +487,7 @@ Dưới đây là các loại sát thương, kèm ví dụ giúp DM gán loại 
 
 **Quang năng (Radiant).** Sát thương quang năng, do phép *flame strike* của giáo sĩ hoặc vũ khí trừng phạt của thiên thần gây ra, thiêu cháy da thịt như lửa và khiến tinh thần quá tải vì quyền năng.
 
-**Chém (Slashing).** Kiếm, rìu và móng vuốt quái vật gây sát thương chém.
+**Chém (Slashing).** Kiếm, rìu và móng vuốt quái vật gây [sát thương chém](99-glossary.md#damage-types).
 
 **Sấm (Thunder).** Đợt âm thanh bùng nổ gây chấn động, như hiệu ứng của phép *thunderwave*, gây sát thương sấm.
 
@@ -509,7 +509,7 @@ Nhiều nguồn kháng hoặc dễ tổn thương ảnh hưởng cùng một lo�
 
 Trừ khi dẫn đến tử vong, sát thương không vĩnh viễn. Ngay cả tử vong cũng có thể đảo ngược bằng ma thuật mạnh. Nghỉ ngơi có thể hồi điểm sinh lực, như giải thích ở chương 8; phương thức ma thuật như phép *cure wounds* hoặc thuốc chữa lành (*potion of healing*) có thể loại bỏ tổn hại tức thì.
 
-Khi sinh vật nhận bất kỳ hình thức chữa lành nào, số điểm sinh lực hồi được cộng vào điểm sinh lực hiện tại. Điểm sinh lực không thể vượt tối đa, nên mọi điểm hồi vượt con số đó bị mất. Ví dụ, druid chữa cho ranger 8 điểm sinh lực. Nếu ranger hiện có 14 điểm sinh lực và tối đa 20, ranger hồi 6 điểm từ druid, không phải 8.
+Khi sinh vật nhận bất kỳ hình thức chữa lành nào, số điểm sinh lực hồi được cộng vào điểm sinh lực hiện tại. Điểm sinh lực không thể vượt tối đa, nên mọi điểm hồi vượt con số đó bị mất. Ví dụ, [druid](99-glossary.md#druid) chữa cho ranger 8 điểm sinh lực. Nếu ranger hiện có 14 điểm sinh lực và tối đa 20, ranger hồi 6 điểm từ druid, không phải 8.
 
 Sinh vật đã chết không thể hồi điểm sinh lực cho đến khi ma thuật như phép *revivify* khôi phục sự sống cho nó.
 
@@ -523,13 +523,13 @@ Sát thương lớn có thể giết bạn ngay. Khi sát thương khiến bạn
 
 Ví dụ, giáo sĩ có tối đa 12 điểm sinh lực hiện còn 6. Nếu chịu 18 sát thương từ một đòn, cô giảm xuống 0 điểm sinh lực nhưng còn dư 12 sát thương. Vì phần dư bằng điểm sinh lực tối đa, giáo sĩ chết.
 
-#### Bất tỉnh (Falling Unconscious)
+#### [Bất tỉnh](99-glossary.md#unconscious) (Falling Unconscious)
 
 Nếu sát thương khiến bạn giảm xuống 0 điểm sinh lực nhưng không giết bạn, bạn bất tỉnh (unconscious), xem phụ lục A. Sự bất tỉnh này kết thúc nếu bạn hồi bất kỳ điểm sinh lực nào.
 
 #### Cứu nguy tử vong (Death Saving Throws)
 
-Mỗi khi bắt đầu lượt với 0 điểm sinh lực, bạn phải thực hiện lần tung cứu nguy đặc biệt, gọi là cứu nguy tử vong, để xác định bạn tiến gần cái chết hơn hay bám lấy sự sống. Khác các lần tung cứu nguy khác, lần này không gắn với điểm thuộc tính nào. Bạn đang trong tay số phận, chỉ được hỗ trợ bởi phép và đặc tính cải thiện khả năng thành công khi tung cứu nguy.
+Mỗi khi bắt đầu lượt với 0 điểm sinh lực, bạn phải thực hiện lần tung cứu nguy đặc biệt, gọi là [cứu nguy tử vong](99-glossary.md#death-saving-throw), để xác định bạn tiến gần cái chết hơn hay bám lấy sự sống. Khác các lần tung cứu nguy khác, lần này không gắn với điểm thuộc tính nào. Bạn đang trong tay số phận, chỉ được hỗ trợ bởi phép và đặc tính cải thiện khả năng thành công khi tung cứu nguy.
 
 Tung một d20. Nếu kết quả là 10 hoặc cao hơn, bạn thành công. Nếu không, bạn thất bại. Một thành công hoặc thất bại tự nó không có hiệu quả. Ở lần thành công thứ ba, bạn trở nên ổn định (stable), xem dưới đây. Ở lần thất bại thứ ba, bạn chết. Thành công và thất bại không cần liên tiếp; theo dõi cả hai cho đến khi có ba lần cùng loại. Cả hai số đếm đặt lại về 0 khi bạn hồi bất kỳ điểm sinh lực nào hoặc trở nên ổn định.
 
@@ -541,7 +541,7 @@ Tung một d20. Nếu kết quả là 10 hoặc cao hơn, bạn thành công. N�
 
 Cách tốt nhất để cứu sinh vật có 0 điểm sinh lực là chữa lành cho nó. Nếu không có chữa lành, ít nhất có thể ổn định sinh vật để nó không bị giết bởi cứu nguy tử vong thất bại.
 
-Bạn có thể dùng hành động sơ cứu sinh vật bất tỉnh và thử ổn định nó, đòi hỏi kiểm tra Minh triết (Y học) DC 10 thành công.
+Bạn có thể dùng hành động sơ cứu sinh vật bất tỉnh và thử ổn định nó, đòi hỏi kiểm tra Minh triết (Y học) [DC](99-glossary.md#difficulty-class) 10 thành công.
 
 Sinh vật ổn định không tung cứu nguy tử vong dù có 0 điểm sinh lực, nhưng vẫn bất tỉnh. Sinh vật ngừng ổn định và phải bắt đầu tung cứu nguy tử vong lại nếu chịu bất kỳ sát thương nào. Sinh vật ổn định không được chữa lành hồi 1 điểm sinh lực sau 1d4 giờ.
 
@@ -549,7 +549,7 @@ Sinh vật ổn định không tung cứu nguy tử vong dù có 0 điểm sinh 
 
 Phần lớn DM cho quái vật chết ngay khi giảm xuống 0 điểm sinh lực, thay vì bất tỉnh và tung cứu nguy tử vong.
 
-Phản diện hùng mạnh và NPC đặc biệt là ngoại lệ thường gặp; DM có thể cho chúng bất tỉnh và theo cùng quy tắc như nhân vật người chơi.
+Phản diện hùng mạnh và [NPC](99-glossary.md#npc) đặc biệt là ngoại lệ thường gặp; DM có thể cho chúng bất tỉnh và theo cùng quy tắc như nhân vật người chơi.
 
 ### Đánh bất tỉnh sinh vật (Knocking a Creature Out)
 
@@ -567,7 +567,7 @@ Chữa lành không thể khôi phục điểm sinh lực tạm thời, và chú
 
 Nếu có 0 điểm sinh lực, nhận điểm sinh lực tạm thời không khiến bạn tỉnh lại hoặc ổn định. Chúng vẫn có thể hấp thụ sát thương hướng vào bạn khi ở trạng thái ấy, nhưng chỉ chữa lành thực sự mới có thể cứu bạn.
 
-Trừ khi đặc tính cho điểm sinh lực tạm thời có thời lượng, chúng tồn tại cho đến khi dùng hết hoặc bạn hoàn tất nghỉ dài.
+Trừ khi đặc tính cho điểm sinh lực tạm thời có thời lượng, chúng tồn tại cho đến khi dùng hết hoặc bạn hoàn tất [nghỉ dài](99-glossary.md#long-rest).
 
 ## Chiến đấu trên thú cưỡi (Mounted Combat)
 

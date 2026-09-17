@@ -8,25 +8,25 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 168-170.
 
 *Vật phẩm ma thuật mở ra những năng lực kỳ diệu nhưng phải được tìm hiểu và sử dụng cẩn trọng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Mỗi cuộc phiêu lưu đều hứa hẹn—nhưng không bảo đảm—tìm được một hoặc nhiều vật phẩm ma thuật. Chương này giới thiệu một số vật phẩm, gợi mở sự đa dạng lớn hơn đang chờ được tìm thấy trong các thế giới D&D. Xem *Dungeon Master's Guide* để biết nhiều vật phẩm hơn.
+Mỗi [cuộc phiêu lưu](99-glossary.md#adventure) đều hứa hẹn—nhưng không bảo đảm—tìm được một hoặc nhiều [vật phẩm ma thuật](99-glossary.md#magic-item). Chương này giới thiệu một số vật phẩm, gợi mở sự đa dạng lớn hơn đang chờ được tìm thấy trong các thế giới D&D. Xem *[Dungeon Master](99-glossary.md#dungeon-master)'s Guide* để biết nhiều vật phẩm hơn.
 
 ## Sử dụng vật phẩm ma thuật (Using a Magic Item)
 
 ![Pháp sư elf tìm hiểu và hòa hợp với một vật phẩm ma thuật](assets/chapter-14-attunement.png)
 
-*Nhận diện và hòa hợp giúp nhân vật khám phá, kết nối và kích hoạt đặc tính của vật phẩm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Nhận diện và [hòa hợp](99-glossary.md#attunement) giúp nhân vật khám phá, kết nối và kích hoạt đặc tính của vật phẩm. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 Mô tả vật phẩm ma thuật giải thích cách nó hoạt động. Chỉ cần cầm nắm vật phẩm cũng đủ để nhân vật cảm thấy nó có điều phi thường.
 
-Phép Nhận diện (*identify*) là cách nhanh nhất khám phá đặc tính vật phẩm. Hoặc nhân vật có thể tập trung vào một vật phẩm ma thuật trong một lần nghỉ ngắn, đồng thời tiếp xúc vật lý với nó. Cuối lần nghỉ, nhân vật biết đặc tính và cách sử dụng chúng. Thuốc là ngoại lệ: nếm một chút đủ để biết tác dụng.
+Phép Nhận diện (*identify*) là cách nhanh nhất khám phá đặc tính vật phẩm. Hoặc nhân vật có thể tập trung vào một vật phẩm ma thuật trong một lần [nghỉ ngắn](99-glossary.md#short-rest), đồng thời tiếp xúc vật lý với nó. Cuối lần nghỉ, nhân vật biết đặc tính và cách sử dụng chúng. Thuốc là ngoại lệ: nếm một chút đủ để biết tác dụng.
 
-Một số vật phẩm yêu cầu sinh vật hình thành mối liên kết trước khi dùng đặc tính ma thuật. Liên kết này gọi là **hòa hợp (attunement)**; một số vật phẩm có điều kiện tiên quyết. Nếu điều kiện là một lớp, sinh vật phải thuộc lớp ấy để hòa hợp. Nếu điều kiện là người thi triển phép, sinh vật đáp ứng khi có thể thi triển ít nhất một phép bằng đặc tính hoặc khả năng của mình, không phải bằng vật phẩm ma thuật hay thứ tương tự.
+Một số vật phẩm yêu cầu sinh vật hình thành mối liên kết trước khi dùng đặc tính ma thuật. Liên kết này gọi là **hòa hợp (attunement)**; một số vật phẩm có điều kiện tiên quyết. Nếu điều kiện là một lớp, sinh vật phải thuộc lớp ấy để hòa hợp. Nếu điều kiện là người [thi triển phép](99-glossary.md#spellcasting), sinh vật đáp ứng khi có thể thi triển ít nhất một phép bằng đặc tính hoặc khả năng của mình, không phải bằng vật phẩm ma thuật hay thứ tương tự.
 
 Để hòa hợp, sinh vật phải dành một lần nghỉ ngắn chỉ tập trung vào vật phẩm đó và tiếp xúc vật lý với nó (không thể dùng cùng lần nghỉ ngắn đã dùng để tìm hiểu đặc tính vật phẩm). Sự tập trung có thể là luyện vũ khí, thiền hoặc hoạt động phù hợp khác. Nếu nghỉ ngắn bị gián đoạn, việc hòa hợp thất bại. Nếu không, cuối lần nghỉ, sinh vật trực giác hiểu cách kích hoạt mọi đặc tính ma thuật của vật phẩm, kể cả từ mệnh lệnh cần thiết.
 
 Một vật phẩm chỉ hòa hợp với một sinh vật tại một thời điểm; một sinh vật hòa hợp tối đa ba vật phẩm ma thuật cùng lúc. Mọi nỗ lực hòa hợp vật phẩm thứ tư đều thất bại: trước hết phải chấm dứt hòa hợp với một vật phẩm. Ngoài ra, không thể hòa hợp nhiều hơn một bản của cùng vật phẩm. Ví dụ, không thể hòa hợp nhiều hơn một Nhẫn bảo hộ (*ring of protection*) cùng lúc.
 
-Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện tiên quyết, vật phẩm cách xa hơn 100 feet trong ít nhất 24 giờ, sinh vật chết hoặc sinh vật khác hòa hợp với vật phẩm. Sinh vật cũng có thể tự nguyện chấm dứt bằng một lần nghỉ ngắn khác tập trung vào vật phẩm, trừ khi vật phẩm bị nguyền.
+Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện tiên quyết, vật phẩm cách xa hơn 100 [feet](99-glossary.md#feet) trong ít nhất 24 giờ, sinh vật chết hoặc sinh vật khác hòa hợp với vật phẩm. Sinh vật cũng có thể tự nguyện chấm dứt bằng một lần nghỉ ngắn khác tập trung vào vật phẩm, trừ khi vật phẩm bị nguyền.
 
 ## Mô tả vật phẩm (Item Descriptions)
 
@@ -38,25 +38,25 @@ Hòa hợp chấm dứt nếu sinh vật không còn đáp ứng điều kiện 
 
 *Vật phẩm kỳ diệu (wondrous item), hiếm (rare), cần hòa hợp*
 
-Điểm Thể chất của bạn là 19 khi đeo bùa. Không tác dụng nếu Thể chất của bạn đã từ 19 trở lên khi không đeo.
+Điểm [Thể chất](99-glossary.md#constitution) của bạn là 19 khi đeo bùa. Không tác dụng nếu Thể chất của bạn đã từ 19 trở lên khi không đeo.
 
 ### Giáp +1, +2 hoặc +3 (Armor, +1, +2, or +3)
 
 *Giáp (nhẹ, trung bình hoặc nặng), hiếm (rare; +1), rất hiếm (very rare; +2) hoặc huyền thoại (legendary; +3)*
 
-Bạn nhận thưởng AC khi mặc giáp này. Thưởng được quyết định bởi độ hiếm.
+Bạn nhận thưởng AC khi mặc giáp này. Thưởng được quyết định bởi [độ hiếm](99-glossary.md#rarity).
 
-### Túi chứa đồ (Bag of Holding)
+### [Túi chứa đồ](99-glossary.md#bag-of-holding) (Bag of Holding)
 
 ![Nhà thám hiểm halfling lấy trang bị từ túi chứa đồ và dùng đôi ủng ma thuật](assets/chapter-14-bag-boots.png)
 
-*Túi chứa đồ và ủng ma thuật giúp nhà phiêu lưu mang hành trang và vượt địa hình thuận lợi hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Túi chứa đồ và ủng ma thuật giúp [nhà phiêu lưu](99-glossary.md#adventurer) mang hành trang và vượt địa hình thuận lợi hơn. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon)*
 
 Túi có không gian bên trong lớn hơn đáng kể so với kích thước bên ngoài, đường kính miệng khoảng 2 feet và sâu 4 feet. Chứa tối đa 500 pound, không vượt thể tích 64 feet khối. Túi nặng 15 pound bất kể đồ bên trong. Lấy một món đồ ra cần một hành động.
 
-Nếu quá tải, bị xuyên thủng hoặc rách, túi vỡ và bị phá hủy; đồ bên trong rải khắp Cõi Astral. Nếu lộn túi ra ngoài, đồ đổ ra không hư hại, nhưng phải lộn về đúng trước khi dùng lại. Sinh vật cần thở bên trong sống được số phút bằng 10 chia số sinh vật (tối thiểu 1 phút), rồi bắt đầu ngạt thở.
+Nếu quá tải, bị xuyên thủng hoặc rách, túi vỡ và bị phá hủy; đồ bên trong rải khắp [Cõi Astral](99-glossary.md#astral-plane). Nếu lộn túi ra ngoài, đồ đổ ra không hư hại, nhưng phải lộn về đúng trước khi dùng lại. Sinh vật cần thở bên trong sống được số phút bằng 10 chia số sinh vật (tối thiểu 1 phút), rồi bắt đầu ngạt thở.
 
 Đặt túi vào không gian ngoại chiều do *Heward's handy haversack*, *portable hole* hoặc vật phẩm tương tự tạo ra lập tức phá hủy cả hai vật phẩm và mở cổng đến Cõi Astral. Cổng xuất phát nơi vật phẩm này được đặt vào vật phẩm kia. Mọi sinh vật trong 10 feet của cổng bị hút qua đến địa điểm ngẫu nhiên trên Cõi Astral. Cổng sau đó đóng; chỉ một chiều và không thể mở lại.
 
@@ -66,7 +66,7 @@ Nếu quá tải, bị xuyên thủng hoặc rách, túi vỡ và bị phá hủ
 
 Khi mang ủng, tốc độ đi bộ thành 30 feet, trừ khi vốn cao hơn; tốc độ không giảm khi bạn chịu tải nặng (encumbered) hoặc mặc giáp nặng. Ngoài ra, bạn nhảy gấp ba khoảng cách bình thường, nhưng không xa hơn mức di chuyển còn lại cho phép.
 
-### Áo choàng elf (Cloak of Elvenkind)
+### Áo choàng [elf](99-glossary.md#elf) (Cloak of Elvenkind)
 
 ![Nữ trinh sát elf dùng áo choàng ngụy trang và kính nhìn đêm](assets/chapter-14-cloak-goggles.png)
 
@@ -74,9 +74,9 @@ Khi mang ủng, tốc độ đi bộ thành 30 feet, trừ khi vốn cao hơn; t
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
-Khi mặc áo và trùm mũ, kiểm tra Minh triết (Nhận biết) để thấy bạn có bất lợi; bạn có lợi thế kiểm tra Khéo léo (Ẩn nấp) để ẩn mình, vì màu áo đổi để ngụy trang. Trùm hoặc hạ mũ cần một hành động.
+Khi mặc áo và trùm mũ, kiểm tra [Minh triết](99-glossary.md#wisdom) (Nhận biết) để thấy bạn có bất lợi; bạn có [lợi thế](99-glossary.md#advantage) kiểm tra [Khéo léo](99-glossary.md#dexterity) (Ẩn nấp) để ẩn mình, vì màu áo đổi để ngụy trang. Trùm hoặc hạ mũ cần một hành động.
 
-### Găng giáp sức mạnh ogre (Gauntlets of Ogre Power)
+### Găng giáp sức mạnh ogre (Gauntlets of [Ogre](99-glossary.md#ogre) Power)
 
 ![Vận động viên orc dùng găng ma thuật để nâng vật nặng leo vách và bơi](assets/chapter-14-gauntlets-gloves.png)
 
@@ -84,7 +84,7 @@ Khi mặc áo và trùm mũ, kiểm tra Minh triết (Nhận biết) để thấ
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
-Điểm Sức mạnh của bạn là 19 khi mang găng giáp. Không tác dụng nếu Sức mạnh đã từ 19 trở lên khi không mang.
+Điểm [Sức mạnh](99-glossary.md#strength) của bạn là 19 khi mang găng giáp. Không tác dụng nếu Sức mạnh đã từ 19 trở lên khi không mang.
 
 ### Găng bơi và leo (Gloves of Swimming and Climbing)
 
@@ -102,7 +102,7 @@ Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 60
 
 ![Dược sư dwarf dùng băng trán trí tuệ và thuốc mỡ chữa trị đồng đội](assets/chapter-14-headband-ointment.png)
 
-*Trí tuệ sắc bén và thuốc mỡ hồi phục đều hữu ích khi nhóm phải xử lý thương tích hay chất độc. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*[Trí tuệ](99-glossary.md#intelligence) sắc bén và thuốc mỡ hồi phục đều hữu ích khi nhóm phải xử lý thương tích hay chất độc. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 *Vật phẩm kỳ diệu (wondrous item), ít gặp (uncommon), cần hòa hợp*
 
@@ -114,7 +114,7 @@ Khi đeo kính tối màu này, bạn có thị giác bóng tối trong tầm 60
 
 Lọ thủy tinh đường kính 3 inch chứa 1d4 + 1 liều hỗn hợp đặc thoảng mùi lô hội. Lọ và thuốc nặng 1/2 pound.
 
-Dùng một hành động để nuốt hoặc bôi một liều lên da. Sinh vật nhận thuốc hồi 2d8 + 2 HP, hết trúng độc và được chữa mọi bệnh.
+Dùng một hành động để nuốt hoặc bôi một liều lên da. Sinh vật nhận thuốc hồi 2d8 + 2 [HP](99-glossary.md#hit-points), hết trúng độc và được chữa mọi bệnh.
 
 ### Thuốc bay (Potion of Flying)
 
@@ -146,7 +146,7 @@ Khi uống, thuốc xóa mọi kiệt sức và chữa mọi bệnh hoặc độ
 
 *Nhẫn (ring), hiếm (rare), cần hòa hợp*
 
-Nhẫn có 3 lượt tích năng (charges), hồi 1d3 lượt đã dùng mỗi ngày lúc bình minh. Khi thất bại cứu nguy Khéo léo lúc đeo, bạn dùng phản ứng tiêu hao 1 lượt tích năng để thành công cứu nguy ấy thay thế.
+Nhẫn có 3 [lượt tích năng](99-glossary.md#charges) (charges), hồi 1d3 lượt đã dùng mỗi ngày lúc bình minh. Khi thất bại [cứu nguy](99-glossary.md#saving-throw) Khéo léo lúc đeo, bạn dùng phản ứng tiêu hao 1 lượt tích năng để thành công cứu nguy ấy thay thế.
 
 ### Nhẫn bảo hộ (Ring of Protection)
 
@@ -181,9 +181,9 @@ Bạn kháng một loại sát thương khi đeo. Đá quý trên nhẫn thể h
 
 *Cuộn (scroll), độ hiếm thay đổi*
 
-Cuộn phép chứa lời của một phép duy nhất, viết bằng mật mã huyền bí. Nếu phép thuộc danh sách phép lớp của bạn, bạn đọc cuộn và thi triển không cần thành phần vật chất. Nếu không, cuộn không thể hiểu được. Thi triển bằng cách đọc cuộn cần thời gian thi triển bình thường của phép. Sau khi thi triển, chữ mờ đi và cuộn vỡ thành bụi. Nếu thi triển bị gián đoạn, không mất cuộn.
+Cuộn phép chứa lời của một phép duy nhất, viết bằng mật mã huyền bí. Nếu phép thuộc danh sách phép lớp của bạn, bạn đọc cuộn và thi triển không cần [thành phần vật chất](99-glossary.md#components). Nếu không, cuộn không thể hiểu được. Thi triển bằng cách đọc cuộn cần thời gian thi triển bình thường của phép. Sau khi thi triển, chữ mờ đi và cuộn vỡ thành bụi. Nếu thi triển bị gián đoạn, không mất cuộn.
 
-Nếu phép thuộc danh sách lớp nhưng bậc cao hơn mức bạn thường thi triển được, phải kiểm tra bằng thuộc tính thi triển phép để xác định thành công. DC bằng 10 + bậc phép. Thất bại: phép biến mất khỏi cuộn, không có hiệu ứng khác.
+Nếu phép thuộc danh sách lớp nhưng bậc cao hơn mức bạn thường thi triển được, phải kiểm tra bằng thuộc tính thi triển phép để xác định thành công. [DC](99-glossary.md#difficulty-class) bằng 10 + [bậc phép](99-glossary.md#spell-level). Thất bại: phép biến mất khỏi cuộn, không có hiệu ứng khác.
 
 Sau khi phép được thi triển, chữ trên cuộn mờ đi và bản thân cuộn vỡ thành bụi.
 
@@ -204,7 +204,7 @@ Bậc phép trên cuộn quyết định DC cứu nguy, thưởng tấn công v�
 | 8 | Rất hiếm (Very rare) | 18 | +10 |
 | 9 | Huyền thoại (Legendary) | 19 | +11 |
 
-Phép pháp sư trên cuộn có thể được chép giống phép trong sách phép. Khi chép từ cuộn, người chép phải thành công kiểm tra Trí tuệ (Huyền thuật) DC 10 + bậc phép. Thành công chép được phép. Dù thành công hay thất bại, cuộn phép đều bị phá hủy.
+Phép [pháp sư](99-glossary.md#wizard) trên cuộn có thể được chép giống phép trong sách phép. Khi chép từ cuộn, người chép phải thành công kiểm tra Trí tuệ (Huyền thuật) DC 10 + bậc phép. Thành công chép được phép. Dù thành công hay thất bại, [cuộn phép](99-glossary.md#spell-scroll) đều bị phá hủy.
 
 ### Đũa phát hiện ma thuật (Wand of Magic Detection)
 
@@ -222,7 +222,7 @@ Phép pháp sư trên cuộn có thể được chép giống phép trong sách 
 
 Khi cầm, dùng một hành động tiêu hao 1 đến 3 trong 7 lượt tích năng để thi triển Phi tiêu ma thuật (*magic missile*) không cần bất kỳ thành phần nào. Dùng 1 lượt thi triển như bằng ô bậc 1; mỗi lượt thêm tăng bậc ô một bậc.
 
-Đũa hồi 1d6 + 1 lượt đã dùng mỗi ngày lúc bình minh. Tuy nhiên, nếu dùng lượt cuối, tung d20; ra 1 khiến đũa vỡ thành tro và bị phá hủy.
+Đũa hồi 1d6 + 1 lượt đã dùng mỗi ngày lúc bình minh. Tuy nhiên, nếu dùng lượt cuối, tung [d20](99-glossary.md#dice-notation); ra 1 khiến đũa vỡ thành tro và bị phá hủy.
 
 ### Vũ khí +1, +2 hoặc +3 (Weapon, +1, +2, or +3)
 
@@ -232,7 +232,7 @@ Khi cầm, dùng một hành động tiêu hao 1 đến 3 trong 7 lượt tích 
 
 *Vũ khí (bất kỳ), ít gặp (uncommon; +1), hiếm (rare; +2) hoặc rất hiếm (very rare; +3)*
 
-Bạn nhận thưởng tung tấn công và sát thương bằng vũ khí ma thuật này. Thưởng được quyết định bởi độ hiếm vũ khí.
+Bạn nhận thưởng [tung tấn công](99-glossary.md#attack-roll) và sát thương bằng vũ khí ma thuật này. Thưởng được quyết định bởi độ hiếm vũ khí.
 
 ---
 

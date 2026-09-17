@@ -10,16 +10,16 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 60-65.
 
 Sáu thuộc tính mô tả ngắn gọn các đặc điểm thể chất và tinh thần của mọi sinh vật:
 
-- **Sức mạnh (Strength):** đo sức lực thể chất.
-- **Khéo léo (Dexterity):** đo sự nhanh nhẹn.
-- **Thể chất (Constitution):** đo sức bền.
-- **Trí tuệ (Intelligence):** đo khả năng suy luận và trí nhớ.
-- **Minh triết (Wisdom):** đo khả năng nhận biết và thấu hiểu.
-- **Sức hút (Charisma):** đo sức mạnh của tính cách.
+- **[Sức mạnh](99-glossary.md#strength) (Strength):** đo sức lực thể chất.
+- **[Khéo léo](99-glossary.md#dexterity) (Dexterity):** đo sự nhanh nhẹn.
+- **[Thể chất](99-glossary.md#constitution) (Constitution):** đo sức bền.
+- **[Trí tuệ](99-glossary.md#intelligence) (Intelligence):** đo khả năng suy luận và trí nhớ.
+- **[Minh triết](99-glossary.md#wisdom) (Wisdom):** đo khả năng nhận biết và thấu hiểu.
+- **[Sức hút](99-glossary.md#charisma) (Charisma):** đo sức mạnh của tính cách.
 
 Nhân vật có cơ bắp cuồn cuộn và sâu sắc không? Thông minh xuất chúng và duyên dáng? Nhanh nhẹn và dẻo dai? Điểm thuộc tính xác định những phẩm chất này: cả thế mạnh lẫn điểm yếu của một sinh vật.
 
-Ba loại lần tung chính trong trò chơi — kiểm tra thuộc tính, tung cứu nguy và tung tấn công — đều dựa vào sáu điểm thuộc tính. Phần giới thiệu của sách mô tả quy tắc cơ bản của các lần tung này: tung một d20, cộng hệ số thuộc tính được xác định từ một trong sáu điểm thuộc tính, rồi so sánh tổng với một con số mục tiêu.
+Ba loại lần tung chính trong trò chơi — kiểm tra thuộc tính, [tung cứu nguy](99-glossary.md#saving-throw) và [tung tấn công](99-glossary.md#attack-roll) — đều dựa vào sáu [điểm thuộc tính](99-glossary.md#ability-score). Phần giới thiệu của sách mô tả quy tắc cơ bản của các lần tung này: tung một [d20](99-glossary.md#dice-notation), cộng [hệ số thuộc tính](99-glossary.md#modifier) được xác định từ một trong sáu điểm thuộc tính, rồi so sánh tổng với một con số mục tiêu.
 
 Chương này tập trung vào cách dùng kiểm tra thuộc tính và tung cứu nguy, bao quát những hoạt động cơ bản mà sinh vật thực hiện trong trò chơi. Quy tắc về tung tấn công nằm ở chương 9.
 
@@ -31,7 +31,7 @@ Chương này tập trung vào cách dùng kiểm tra thuộc tính và tung c�
 
 Mỗi thuộc tính của một sinh vật có một điểm số, tức con số xác định mức độ của thuộc tính ấy. Điểm thuộc tính không chỉ đo khả năng bẩm sinh mà còn bao hàm việc huấn luyện và năng lực của sinh vật trong những hoạt động liên quan đến thuộc tính đó.
 
-Điểm 10 hoặc 11 là mức trung bình thông thường của con người, nhưng các nhà phiêu lưu và nhiều quái vật vượt mức trung bình ở phần lớn thuộc tính. Điểm 18 là mức cao nhất mà một người thường đạt được. Nhà phiêu lưu có thể có điểm cao đến 20, còn quái vật và những thực thể thần thánh có thể có điểm cao đến 30.
+Điểm 10 hoặc 11 là mức trung bình thông thường của [con người](99-glossary.md#human), nhưng các [nhà phiêu lưu](99-glossary.md#adventurer) và nhiều [quái vật](99-glossary.md#monster) vượt mức trung bình ở phần lớn thuộc tính. Điểm 18 là mức cao nhất mà một người thường đạt được. Nhà phiêu lưu có thể có điểm cao đến 20, còn quái vật và những thực thể thần thánh có thể có điểm cao đến 30.
 
 Mỗi thuộc tính cũng có một hệ số, được xác định từ điểm số, từ -5 (với điểm thuộc tính 1) đến +10 (với điểm 30). Bảng Điểm thuộc tính và hệ số ghi hệ số tương ứng với toàn bộ phạm vi điểm thuộc tính có thể có, từ 1 đến 30.
 
@@ -60,7 +60,7 @@ Mỗi thuộc tính cũng có một hệ số, được xác định từ điể
 
 Vì hệ số thuộc tính ảnh hưởng đến gần như mọi lần tung tấn công, kiểm tra thuộc tính và tung cứu nguy, chúng xuất hiện trong lúc chơi thường xuyên hơn điểm thuộc tính tương ứng.
 
-## Lợi thế và bất lợi (Advantage and Disadvantage)
+## [Lợi thế và bất lợi](99-glossary.md#advantage) (Advantage and Disadvantage)
 
 ![Hai diễn biến thuận lợi và bất lợi của cùng một thử thách](assets/chapter-07-advantage-disadvantage.png)
 
@@ -72,9 +72,9 @@ Nếu nhiều tình huống ảnh hưởng đến một lần tung và mỗi tì
 
 Nếu hoàn cảnh khiến một lần tung có cả lợi thế lẫn bất lợi, bạn được coi là không có cả hai và chỉ tung một d20. Điều này vẫn đúng ngay cả khi nhiều hoàn cảnh gây bất lợi nhưng chỉ một hoàn cảnh cho lợi thế, hoặc ngược lại. Trong tình huống như vậy, bạn không có lợi thế cũng không có bất lợi.
 
-Khi bạn có lợi thế hoặc bất lợi và một yếu tố trong trò chơi, như đặc điểm May mắn (Lucky) của halfling, cho phép tung lại hoặc thay thế d20, bạn chỉ có thể tung lại hoặc thay thế một trong hai xúc xắc. Bạn chọn xúc xắc nào. Ví dụ, nếu một halfling có lợi thế hoặc bất lợi trong kiểm tra thuộc tính và tung được 1 cùng 13, halfling ấy có thể dùng đặc điểm May mắn để tung lại xúc xắc ra 1.
+Khi bạn có lợi thế hoặc bất lợi và một yếu tố trong trò chơi, như đặc điểm May mắn (Lucky) của [halfling](99-glossary.md#halfling), cho phép tung lại hoặc thay thế d20, bạn chỉ có thể tung lại hoặc thay thế một trong hai xúc xắc. Bạn chọn xúc xắc nào. Ví dụ, nếu một halfling có lợi thế hoặc bất lợi trong kiểm tra thuộc tính và tung được 1 cùng 13, halfling ấy có thể dùng đặc điểm May mắn để tung lại xúc xắc ra 1.
 
-Bạn thường nhận lợi thế hoặc bất lợi thông qua việc dùng khả năng đặc biệt, hành động hoặc phép. Cảm hứng cũng có thể cho nhân vật lợi thế, như giải thích trong chương 4, “Tính cách và xuất thân”. DM cũng có thể quyết định rằng hoàn cảnh tác động thuận lợi hoặc bất lợi đến một lần tung, rồi cho lợi thế hoặc gây bất lợi tương ứng.
+Bạn thường nhận lợi thế hoặc bất lợi thông qua việc dùng khả năng đặc biệt, hành động hoặc phép. [Cảm hứng](99-glossary.md#inspiration) cũng có thể cho nhân vật lợi thế, như giải thích trong chương 4, “Tính cách và [xuất thân](99-glossary.md#background)”. DM cũng có thể quyết định rằng hoàn cảnh tác động thuận lợi hoặc bất lợi đến một lần tung, rồi cho lợi thế hoặc gây bất lợi tương ứng.
 
 ## Thưởng thành thạo (Proficiency Bonus)
 
@@ -82,11 +82,11 @@ Bạn thường nhận lợi thế hoặc bất lợi thông qua việc dùng kh
 
 *Thưởng thành thạo phản ánh kinh nghiệm huấn luyện mà nhân vật áp dụng vào nhiệm vụ phù hợp. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Nhân vật có thưởng thành thạo được xác định theo cấp, như trình bày chi tiết ở chương 1. Quái vật cũng có thưởng này, được tính sẵn trong khối thông số của chúng. Thưởng này được dùng trong các quy tắc về kiểm tra thuộc tính, tung cứu nguy và tung tấn công.
+Nhân vật có [thưởng thành thạo](99-glossary.md#proficiency) được xác định theo cấp, như trình bày chi tiết ở chương 1. Quái vật cũng có thưởng này, được tính sẵn trong [khối thông số](99-glossary.md#stat-block) của chúng. Thưởng này được dùng trong các quy tắc về kiểm tra thuộc tính, tung cứu nguy và tung tấn công.
 
 Không được cộng thưởng thành thạo của bạn nhiều hơn một lần vào cùng một lần tung xúc xắc hoặc một con số khác. Ví dụ, nếu hai quy tắc khác nhau đều cho biết bạn có thể cộng thưởng thành thạo vào một lần tung cứu nguy Minh triết, bạn vẫn chỉ cộng thưởng ấy một lần khi tung cứu nguy.
 
-Đôi khi thưởng thành thạo có thể được nhân hoặc chia trước khi áp dụng, chẳng hạn nhân đôi hoặc chia đôi. Ví dụ, đặc tính Chuyên môn (Expertise) của đạo tặc nhân đôi thưởng thành thạo cho một số kiểm tra thuộc tính. Nếu một hoàn cảnh khiến thưởng thành thạo có vẻ được áp dụng nhiều lần cho cùng một lần tung, bạn vẫn chỉ cộng nó một lần và chỉ nhân hoặc chia nó một lần.
+Đôi khi thưởng thành thạo có thể được nhân hoặc chia trước khi áp dụng, chẳng hạn nhân đôi hoặc chia đôi. Ví dụ, đặc tính Chuyên môn (Expertise) của [đạo tặc](99-glossary.md#rogue) nhân đôi thưởng thành thạo cho một số kiểm tra thuộc tính. Nếu một hoàn cảnh khiến thưởng thành thạo có vẻ được áp dụng nhiều lần cho cùng một lần tung, bạn vẫn chỉ cộng nó một lần và chỉ nhân hoặc chia nó một lần.
 
 Tương tự, nếu một đặc tính hoặc hiệu ứng cho phép nhân thưởng thành thạo khi thực hiện một kiểm tra thuộc tính vốn không được hưởng thưởng thành thạo, bạn vẫn không cộng thưởng ấy vào kiểm tra. Đối với kiểm tra đó, thưởng thành thạo của bạn là 0, bởi nhân 0 với bất kỳ số nào vẫn bằng 0. Ví dụ, nếu bạn không thành thạo kỹ năng Lịch sử, bạn không nhận lợi ích từ đặc tính cho phép nhân đôi thưởng thành thạo khi thực hiện kiểm tra Trí tuệ (Lịch sử).
 
@@ -100,7 +100,7 @@ Thông thường, bạn không nhân thưởng thành thạo cho các lần tung
 
 Kiểm tra thuộc tính kiểm nghiệm tài năng bẩm sinh và sự rèn luyện của nhân vật hoặc quái vật trong nỗ lực vượt qua một thử thách. DM yêu cầu kiểm tra thuộc tính khi nhân vật hoặc quái vật thử thực hiện một hành động, ngoài tấn công, có khả năng thất bại. Khi kết quả chưa chắc chắn, xúc xắc quyết định kết quả.
 
-Với mỗi kiểm tra thuộc tính, DM quyết định thuộc tính nào trong sáu thuộc tính liên quan đến nhiệm vụ trước mắt và độ khó của nhiệm vụ, được biểu thị bằng Độ khó (Difficulty Class, DC). Nhiệm vụ càng khó, DC càng cao. Bảng Độ khó điển hình cho biết những DC thường gặp nhất.
+Với mỗi kiểm tra thuộc tính, DM quyết định thuộc tính nào trong sáu thuộc tính liên quan đến nhiệm vụ trước mắt và độ khó của nhiệm vụ, được biểu thị bằng Độ khó ([Difficulty Class](99-glossary.md#difficulty-class), DC). Nhiệm vụ càng khó, DC càng cao. Bảng Độ khó điển hình cho biết những DC thường gặp nhất.
 
 ### Độ khó điển hình (Typical Difficulty Classes)
 
@@ -166,13 +166,13 @@ Các kỹ năng liên quan đến mỗi điểm thuộc tính được liệt k�
 
 Đôi khi DM yêu cầu kiểm tra thuộc tính dùng một kỹ năng cụ thể, chẳng hạn: “Thực hiện kiểm tra Minh triết (Tri giác).” Lúc khác, người chơi có thể hỏi DM liệu sự thành thạo một kỹ năng cụ thể có áp dụng cho một kiểm tra hay không. Trong cả hai trường hợp, thành thạo kỹ năng nghĩa là cá nhân có thể cộng thưởng thành thạo vào các kiểm tra thuộc tính liên quan đến kỹ năng ấy. Nếu không thành thạo kỹ năng, cá nhân thực hiện kiểm tra thuộc tính thông thường.
 
-Ví dụ, nếu nhân vật cố leo lên một vách đá nguy hiểm, Dungeon Master có thể yêu cầu kiểm tra Sức mạnh (Điền kinh). Nếu nhân vật thành thạo Điền kinh, thưởng thành thạo của nhân vật được cộng vào kiểm tra Sức mạnh. Nếu không thành thạo, nhân vật chỉ thực hiện kiểm tra Sức mạnh.
+Ví dụ, nếu nhân vật cố leo lên một vách đá nguy hiểm, [Dungeon Master](99-glossary.md#dungeon-master) có thể yêu cầu kiểm tra Sức mạnh (Điền kinh). Nếu nhân vật thành thạo Điền kinh, thưởng thành thạo của nhân vật được cộng vào kiểm tra Sức mạnh. Nếu không thành thạo, nhân vật chỉ thực hiện kiểm tra Sức mạnh.
 
 ### Quy tắc tùy chọn: Kỹ năng dùng thuộc tính khác (Variant: Skills with Different Abilities)
 
 Thông thường, sự thành thạo một kỹ năng chỉ áp dụng cho một loại kiểm tra thuộc tính cụ thể. Ví dụ, thành thạo Điền kinh thường áp dụng cho kiểm tra Sức mạnh. Tuy nhiên, trong một số tình huống, sự thành thạo của bạn có thể hợp lý khi áp dụng cho loại kiểm tra khác. Khi đó, DM có thể yêu cầu kiểm tra kết hợp thuộc tính và kỹ năng theo cách khác thường, hoặc bạn có thể hỏi DM liệu mình được áp dụng sự thành thạo vào một kiểm tra khác hay không.
 
-Ví dụ, nếu phải bơi từ một hòn đảo ngoài khơi về đất liền, DM có thể yêu cầu kiểm tra Thể chất để xem bạn có đủ sức bền bơi xa đến vậy không. Trong trường hợp này, DM có thể cho phép áp dụng sự thành thạo Điền kinh và yêu cầu kiểm tra Thể chất (Điền kinh). Vì vậy, nếu thành thạo Điền kinh, bạn cộng thưởng thành thạo vào kiểm tra Thể chất như thường làm với kiểm tra Sức mạnh (Điền kinh). Tương tự, khi chiến binh người lùn của bạn phô diễn sức lực thuần túy để uy hiếp kẻ địch, DM có thể yêu cầu kiểm tra Sức mạnh (Uy hiếp), dù Uy hiếp thông thường gắn với Sức hút.
+Ví dụ, nếu phải bơi từ một hòn đảo ngoài khơi về đất liền, DM có thể yêu cầu kiểm tra Thể chất để xem bạn có đủ sức bền bơi xa đến vậy không. Trong trường hợp này, DM có thể cho phép áp dụng sự thành thạo Điền kinh và yêu cầu kiểm tra Thể chất (Điền kinh). Vì vậy, nếu thành thạo Điền kinh, bạn cộng thưởng thành thạo vào kiểm tra Thể chất như thường làm với kiểm tra Sức mạnh (Điền kinh). Tương tự, khi [chiến binh](99-glossary.md#fighter) [người lùn](99-glossary.md#dwarf) của bạn phô diễn sức lực thuần túy để uy hiếp kẻ địch, DM có thể yêu cầu kiểm tra Sức mạnh (Uy hiếp), dù Uy hiếp thông thường gắn với Sức hút.
 
 ### Kiểm tra thụ động (Passive Checks)
 
@@ -239,13 +239,13 @@ Kiểm tra Sức mạnh có thể mô phỏng bất kỳ nỗ lực nào nhằm 
 
 #### Tung tấn công và sát thương (Attack Rolls and Damage)
 
-Bạn cộng hệ số Sức mạnh vào lần tung tấn công và lần tung sát thương khi tấn công bằng vũ khí cận chiến như chùy, rìu chiến hoặc lao. Bạn dùng vũ khí cận chiến để thực hiện các đòn tấn công cận chiến khi đánh giáp lá cà; một số vũ khí ấy cũng có thể được ném để thực hiện đòn tấn công tầm xa.
+Bạn cộng hệ số Sức mạnh vào lần tung tấn công và lần tung sát thương khi tấn công bằng [vũ khí cận chiến](99-glossary.md#melee-ranged) như chùy, rìu chiến hoặc lao. Bạn dùng vũ khí cận chiến để thực hiện các đòn tấn công cận chiến khi đánh giáp lá cà; một số vũ khí ấy cũng có thể được ném để thực hiện đòn tấn công tầm xa.
 
 #### Nâng và mang (Lifting and Carrying)
 
 Điểm Sức mạnh xác định khối lượng bạn có thể mang. Các thuật ngữ sau xác định những gì bạn có thể nâng hoặc mang.
 
-**Sức mang (Carrying Capacity).** Sức mang bằng điểm Sức mạnh nhân 15. Đây là khối lượng, tính bằng pound, bạn có thể mang; mức này đủ cao để phần lớn nhân vật thường không phải lo về nó.
+**Sức mang (Carrying Capacity).** Sức mang bằng điểm Sức mạnh nhân 15. Đây là khối lượng, tính bằng [pound](99-glossary.md#feet), bạn có thể mang; mức này đủ cao để phần lớn nhân vật thường không phải lo về nó.
 
 **Đẩy, kéo hoặc nâng (Push, Drag, or Lift).** Bạn có thể đẩy, kéo hoặc nâng khối lượng tính bằng pound tối đa bằng hai lần sức mang, tức 30 lần điểm Sức mạnh. Khi đẩy hoặc kéo khối lượng vượt sức mang, tốc độ của bạn giảm xuống còn 5 feet.
 
@@ -290,7 +290,7 @@ Kiểm tra Khéo léo có thể mô phỏng bất kỳ nỗ lực nào nhằm di
 
 #### Tung tấn công và sát thương (Attack Rolls and Damage)
 
-Bạn cộng hệ số Khéo léo vào lần tung tấn công và lần tung sát thương khi tấn công bằng vũ khí tầm xa như ná hoặc cung dài. Bạn cũng có thể cộng hệ số Khéo léo vào lần tung tấn công và lần tung sát thương khi tấn công bằng vũ khí cận chiến có tính chất Tinh xảo (finesse), như dao găm hoặc rapier.
+Bạn cộng hệ số Khéo léo vào lần tung tấn công và lần tung sát thương khi tấn công bằng vũ khí tầm xa như ná hoặc cung dài. Bạn cũng có thể cộng hệ số Khéo léo vào lần tung tấn công và lần tung sát thương khi tấn công bằng vũ khí cận chiến có tính chất [Tinh xảo](99-glossary.md#finesse) (finesse), như dao găm hoặc [rapier](99-glossary.md#rapier).
 
 #### Ẩn nấp (Hiding)
 
@@ -300,17 +300,17 @@ Bạn không thể ẩn nấp khỏi một sinh vật nhìn thấy bạn rõ rà
 
 Trong chiến đấu, phần lớn sinh vật luôn cảnh giác với dấu hiệu nguy hiểm xung quanh; vì vậy, nếu bạn rời chỗ ẩn nấp và đến gần một sinh vật, nó thường nhìn thấy bạn. Tuy nhiên, trong một số hoàn cảnh, Dungeon Master có thể cho phép bạn tiếp tục không bị phát hiện khi đến gần một sinh vật đang phân tâm, nhờ đó có lợi thế trong một đòn tấn công trước khi bị nhìn thấy.
 
-**Tri giác thụ động (Passive Perception).** Khi bạn ẩn nấp, vẫn có khả năng ai đó nhận ra bạn dù họ không tìm kiếm. Để xác định sinh vật như vậy có nhận ra bạn hay không, DM so sánh kiểm tra Khéo léo (Lén lút) của bạn với điểm Minh triết (Tri giác) thụ động của sinh vật ấy, bằng 10 + hệ số Minh triết của nó, cùng mọi khoản thưởng hoặc phạt khác. Nếu sinh vật có lợi thế, cộng 5. Nếu có bất lợi, trừ 5.
+**[Tri giác thụ động](99-glossary.md#passive-perception) (Passive Perception).** Khi bạn ẩn nấp, vẫn có khả năng ai đó nhận ra bạn dù họ không tìm kiếm. Để xác định sinh vật như vậy có nhận ra bạn hay không, DM so sánh kiểm tra Khéo léo (Lén lút) của bạn với điểm Minh triết (Tri giác) thụ động của sinh vật ấy, bằng 10 + hệ số Minh triết của nó, cùng mọi khoản thưởng hoặc phạt khác. Nếu sinh vật có lợi thế, cộng 5. Nếu có bất lợi, trừ 5.
 
 Ví dụ, nếu nhân vật cấp 1, với thưởng thành thạo +2, có Minh triết 15, tức hệ số +2, và thành thạo Tri giác, nhân vật có điểm Minh triết (Tri giác) thụ động là 14.
 
 **Bạn có thể nhìn thấy gì? (What Can You See?)** Một trong những yếu tố chính để xác định bạn có thể tìm được một sinh vật hoặc đồ vật đang bị giấu hay không là khả năng nhìn trong khu vực ấy; khu vực có thể bị che khuất nhẹ hoặc nặng, như giải thích ở chương 8.
 
-#### Chỉ số giáp (Armor Class)
+#### [Chỉ số giáp](99-glossary.md#armor-class) (Armor Class)
 
 Tùy loại giáp đang mặc, bạn có thể cộng một phần hoặc toàn bộ hệ số Khéo léo vào Chỉ số giáp, như mô tả ở chương 5.
 
-#### Sáng kiến (Initiative)
+#### [Sáng kiến](99-glossary.md#initiative) (Initiative)
 
 Khi bắt đầu mỗi trận chiến, bạn tung sáng kiến bằng cách thực hiện kiểm tra Khéo léo. Sáng kiến xác định thứ tự lượt của các sinh vật trong chiến đấu, như mô tả ở chương 9.
 
@@ -336,7 +336,7 @@ DM có thể yêu cầu kiểm tra Thể chất khi bạn cố thực hiện nh�
 
 #### Điểm sinh lực (Hit Points)
 
-Hệ số Thể chất góp phần xác định điểm sinh lực của bạn. Thông thường, bạn cộng hệ số Thể chất vào mỗi Xúc xắc Sinh lực được tung để xác định điểm sinh lực.
+Hệ số Thể chất góp phần xác định [điểm sinh lực](99-glossary.md#hit-points) của bạn. Thông thường, bạn cộng hệ số Thể chất vào mỗi Xúc xắc Sinh lực được tung để xác định điểm sinh lực.
 
 Nếu hệ số Thể chất thay đổi, điểm sinh lực tối đa cũng thay đổi, như thể bạn đã có hệ số mới từ cấp 1. Ví dụ, nếu tăng điểm Thể chất khi đạt cấp 4 và hệ số Thể chất tăng từ +1 lên +2, bạn điều chỉnh điểm sinh lực tối đa như thể hệ số luôn là +2. Vì vậy, bạn cộng thêm 3 điểm sinh lực cho ba cấp đầu, rồi tung điểm sinh lực cho cấp 4 bằng hệ số mới. Hoặc nếu đang ở cấp 7 và một hiệu ứng làm giảm điểm Thể chất khiến hệ số Thể chất giảm 1, điểm sinh lực tối đa giảm 7.
 
@@ -352,7 +352,7 @@ Trí tuệ đo sự nhạy bén tinh thần, độ chính xác của trí nhớ 
 
 Kiểm tra Trí tuệ được dùng khi bạn cần vận dụng logic, kiến thức được học, trí nhớ hoặc suy luận diễn dịch. Các kỹ năng Huyền thuật, Lịch sử, Điều tra, Tự nhiên và Tôn giáo thể hiện năng khiếu ở một số loại kiểm tra Trí tuệ.
 
-**Huyền thuật (Arcana).** Kiểm tra Trí tuệ (Huyền thuật) đo khả năng nhớ kiến thức về phép, vật phẩm ma thuật, biểu tượng huyền bí, truyền thống ma thuật, các cõi tồn tại và cư dân của những cõi ấy.
+**Huyền thuật (Arcana).** Kiểm tra Trí tuệ (Huyền thuật) đo khả năng nhớ kiến thức về phép, [vật phẩm ma thuật](99-glossary.md#magic-item), biểu tượng huyền bí, truyền thống ma thuật, các [cõi tồn tại](99-glossary.md#plane) và cư dân của những cõi ấy.
 
 **Lịch sử (History).** Kiểm tra Trí tuệ (Lịch sử) đo khả năng nhớ kiến thức về sự kiện lịch sử, nhân vật huyền thoại, vương quốc cổ, tranh chấp trong quá khứ, các cuộc chiến gần đây và những nền văn minh đã mất.
 
@@ -371,7 +371,7 @@ Kiểm tra Trí tuệ được dùng khi bạn cần vận dụng logic, kiến 
 - Nhớ kiến thức về một nghề thủ công hoặc nghề nghiệp.
 - Thắng một trò chơi đòi hỏi kỹ năng.
 
-#### Thuộc tính thi triển phép (Spellcasting Ability)
+#### Thuộc tính [thi triển phép](99-glossary.md#spellcasting) (Spellcasting Ability)
 
 Pháp sư dùng Trí tuệ làm thuộc tính thi triển phép; thuộc tính này góp phần xác định DC cứu nguy của các phép họ thi triển.
 
@@ -393,14 +393,14 @@ Kiểm tra Minh triết có thể phản ánh nỗ lực đọc ngôn ngữ cơ 
 
 **Y học (Medicine).** Kiểm tra Minh triết (Y học) cho phép bạn thử ổn định một bạn đồng hành đang hấp hối hoặc chẩn đoán bệnh.
 
-**Tri giác (Perception).** Kiểm tra Minh triết (Tri giác) cho phép bạn nhìn thấy, nghe thấy hoặc phát hiện sự hiện diện của một thứ bằng cách khác. Nó đo mức nhận biết chung của bạn về xung quanh và độ nhạy bén của giác quan. Ví dụ, bạn có thể cố nghe một cuộc trò chuyện qua cửa đóng, nghe lén dưới cửa sổ mở hoặc nghe quái vật di chuyển lén lút trong rừng. Hoặc bạn có thể cố phát hiện những thứ bị che khuất hay dễ bỏ sót, dù là orc phục kích trên đường, côn đồ ẩn trong bóng tối của ngõ hẻm hay ánh nến bên dưới một cửa bí mật đang đóng.
+**Tri giác (Perception).** Kiểm tra Minh triết (Tri giác) cho phép bạn nhìn thấy, nghe thấy hoặc phát hiện sự hiện diện của một thứ bằng cách khác. Nó đo mức nhận biết chung của bạn về xung quanh và độ nhạy bén của giác quan. Ví dụ, bạn có thể cố nghe một cuộc trò chuyện qua cửa đóng, nghe lén dưới cửa sổ mở hoặc nghe quái vật di chuyển lén lút trong rừng. Hoặc bạn có thể cố phát hiện những thứ bị che khuất hay dễ bỏ sót, dù là [orc](99-glossary.md#orc) phục kích trên đường, côn đồ ẩn trong bóng tối của ngõ hẻm hay ánh nến bên dưới một cửa bí mật đang đóng.
 
 **Sinh tồn (Survival).** DM có thể yêu cầu kiểm tra Minh triết (Sinh tồn) để lần theo dấu vết, săn thú hoang, dẫn nhóm qua vùng hoang vu băng giá, nhận biết dấu hiệu owlbear sống gần đó, dự đoán thời tiết hoặc tránh cát lún và những hiểm họa tự nhiên khác.
 
 **Các kiểm tra Minh triết khác (Other Wisdom Checks).** DM có thể yêu cầu kiểm tra Minh triết khi bạn cố thực hiện những nhiệm vụ như sau:
 
 - Cảm nhận bằng trực giác hướng hành động nên theo.
-- Nhận biết một sinh vật có vẻ đã chết hoặc còn sống có phải xác sống hay không.
+- Nhận biết một sinh vật có vẻ đã chết hoặc còn sống có phải [xác sống](99-glossary.md#undead) hay không.
 
 #### Tìm đồ vật bị giấu (Finding a Hidden Object)
 
@@ -439,7 +439,7 @@ Kiểm tra Sức hút có thể xuất hiện khi bạn cố tác động hoặc
 
 #### Thuộc tính thi triển phép (Spellcasting Ability)
 
-Thi sĩ, thánh kỵ sĩ, sorcerer và warlock dùng Sức hút làm thuộc tính thi triển phép; thuộc tính này góp phần xác định DC cứu nguy của các phép họ thi triển.
+Thi sĩ, [thánh kỵ sĩ](99-glossary.md#paladin), sorcerer và [warlock](99-glossary.md#warlock) dùng Sức hút làm thuộc tính thi triển phép; thuộc tính này góp phần xác định DC cứu nguy của các phép họ thi triển.
 
 ## Tung cứu nguy (Saving Throws)
 
@@ -453,7 +453,7 @@ Một lần tung cứu nguy, cũng gọi ngắn gọn là cứu nguy (save), th�
 
 Lần tung cứu nguy có thể được điều chỉnh bởi khoản thưởng hoặc phạt theo tình huống, và có thể chịu ảnh hưởng của lợi thế hoặc bất lợi, do DM quyết định.
 
-Mỗi lớp cho sự thành thạo ít nhất hai loại cứu nguy. Ví dụ, pháp sư thành thạo cứu nguy Trí tuệ. Như với sự thành thạo kỹ năng, thành thạo một loại cứu nguy cho phép nhân vật cộng thưởng thành thạo vào các lần tung cứu nguy dùng một điểm thuộc tính cụ thể. Một số quái vật cũng thành thạo các loại cứu nguy.
+Mỗi lớp cho sự thành thạo ít nhất hai loại cứu nguy. Ví dụ, [pháp sư](99-glossary.md#wizard) thành thạo cứu nguy Trí tuệ. Như với sự thành thạo kỹ năng, thành thạo một loại cứu nguy cho phép nhân vật cộng thưởng thành thạo vào các lần tung cứu nguy dùng một điểm thuộc tính cụ thể. Một số quái vật cũng thành thạo các loại cứu nguy.
 
 DC của một lần tung cứu nguy được xác định bởi hiệu ứng gây ra nó. Ví dụ, DC của lần tung cứu nguy mà một phép cho phép thực hiện được xác định bởi thuộc tính thi triển phép và thưởng thành thạo của người thi triển.
 

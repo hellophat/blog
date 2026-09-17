@@ -6,23 +6,23 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 22-34. Cả bốn lớp tr
 
 ![Bốn nhà phiêu lưu đại diện cho giáo sĩ, chiến binh, đạo tặc và pháp sư](assets/chapter-03-classes-cover.png)
 
-*Bốn lớp nhân vật cơ bản: giáo sĩ, chiến binh, đạo tặc và pháp sư — minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Bốn [lớp nhân vật](99-glossary.md#class) cơ bản: [giáo sĩ](99-glossary.md#cleric), [chiến binh](99-glossary.md#fighter), [đạo tặc](99-glossary.md#rogue) và [pháp sư](99-glossary.md#wizard) — minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Nhà phiêu lưu là những con người phi thường, bị khát khao hứng khởi thúc đẩy bước vào cuộc sống mà người khác không dám sống. Họ là anh hùng, buộc mình khám phá nơi tăm tối và đối mặt thử thách vượt sức người bình thường.
+Nhà phiêu lưu là những [con người](99-glossary.md#human) phi thường, bị khát khao hứng khởi thúc đẩy bước vào cuộc sống mà người khác không dám sống. Họ là anh hùng, buộc mình khám phá nơi tăm tối và đối mặt thử thách vượt sức người bình thường.
 
-**Lớp nhân vật (class)** là định nghĩa chính về khả năng của nhân vật. Nó không chỉ là nghề nghiệp mà là thiên chức: định hình cách bạn nhìn, tương tác với thế giới, con người và các thế lực đa vũ trụ. Chiến binh có thể nhìn thế giới bằng chiến lược, cơ động và thấy mình như quân cờ trong ván cờ lớn hơn. Giáo sĩ có thể coi mình là tôi tớ tự nguyện trong kế hoạch đang mở ra của thần, hoặc cuộc xung đột giữa các thần. Chiến binh có quan hệ trong quân đội hoặc đoàn lính đánh thuê, còn giáo sĩ có thể quen các linh mục, thánh kỵ sĩ và tín đồ cùng đức tin.
+**Lớp nhân vật (class)** là định nghĩa chính về khả năng của nhân vật. Nó không chỉ là nghề nghiệp mà là thiên chức: định hình cách bạn nhìn, tương tác với thế giới, con người và các thế lực [đa vũ trụ](99-glossary.md#multiverse). Chiến binh có thể nhìn thế giới bằng chiến lược, cơ động và thấy mình như quân cờ trong ván cờ lớn hơn. Giáo sĩ có thể coi mình là tôi tớ tự nguyện trong kế hoạch đang mở ra của thần, hoặc cuộc xung đột giữa các thần. Chiến binh có quan hệ trong quân đội hoặc đoàn lính đánh thuê, còn giáo sĩ có thể quen các linh mục, [thánh kỵ sĩ](99-glossary.md#paladin) và tín đồ cùng đức tin.
 
 Lớp cho nhiều đặc tính riêng, như sự tinh thông vũ khí và giáp của chiến binh, hay phép của pháp sư. Ở cấp thấp lớp chỉ cho hai hoặc ba đặc tính; khi tăng cấp, bạn có thêm đặc tính và những đặc tính hiện có thường được cải thiện. Mỗi phần lớp có một bảng tóm tắt lợi ích từng cấp kèm giải thích.
 
-Đôi khi nhà phiêu lưu tăng tiến ở nhiều hơn một lớp. Một đạo tặc có thể rẽ hướng đời mình, học thêm giáo sĩ trong khi vẫn phát triển là đạo tặc. Elf có tiếng là kết hợp kỹ năng võ thuật với huấn luyện phép thuật để cùng tăng cấp chiến binh và pháp sư. Quy tắc tùy chọn về cách kết hợp này, gọi là **đa lớp (multiclassing)**, nằm trong *Player’s Handbook*.
+Đôi khi [nhà phiêu lưu](99-glossary.md#adventurer) tăng tiến ở nhiều hơn một lớp. Một đạo tặc có thể rẽ hướng đời mình, học thêm giáo sĩ trong khi vẫn phát triển là đạo tặc. Elf có tiếng là kết hợp kỹ năng võ thuật với huấn luyện phép thuật để cùng tăng cấp chiến binh và pháp sư. Quy tắc tùy chọn về cách kết hợp này, gọi là **[đa lớp](99-glossary.md#multiclassing) (multiclassing)**, nằm trong *Player’s Handbook*.
 
 Bốn lớp cơ bản xuất hiện trong gần mọi thế giới D&D và tạo nên phần lớn nhà phiêu lưu điển hình. Xem *Player’s Handbook* để biết thêm lớp khác.
 
 | Lớp | Mô tả | Xúc xắc sinh lực | Thuộc tính chính | Cứu nguy thành thạo | Thành thạo giáp và vũ khí |
 | --- | --- | --- | --- | --- | --- |
-| Giáo sĩ (Cleric) | Nhà vô địch mang tính chất linh mục, dùng phép thần thánh phục vụ quyền lực cao hơn | d8 | Minh triết | Minh triết, Sức hút | Giáp nhẹ, giáp trung bình, khiên; vũ khí đơn giản |
-| Chiến binh (Fighter) | Bậc thầy chiến đấu võ thuật, giỏi nhiều vũ khí và giáp | d10 | Sức mạnh hoặc Khéo léo | Sức mạnh, Thể chất | Mọi loại giáp, khiên; vũ khí đơn giản và võ thuật |
-| Đạo tặc (Rogue) | Kẻ bất hảo dùng lén lút, mánh khóe để vượt chướng ngại và địch thủ | d8 | Khéo léo | Khéo léo, Trí tuệ | Giáp nhẹ; vũ khí đơn giản, nỏ tay, kiếm dài, rapier, kiếm ngắn |
+| Giáo sĩ (Cleric) | Nhà vô địch mang tính chất linh mục, dùng phép thần thánh phục vụ quyền lực cao hơn | d8 | [Minh triết](99-glossary.md#wisdom) | Minh triết, [Sức hút](99-glossary.md#charisma) | Giáp nhẹ, giáp trung bình, [khiên](99-glossary.md#shield); vũ khí đơn giản |
+| Chiến binh (Fighter) | Bậc thầy chiến đấu võ thuật, giỏi nhiều vũ khí và giáp | d10 | [Sức mạnh](99-glossary.md#strength) hoặc [Khéo léo](99-glossary.md#dexterity) | Sức mạnh, [Thể chất](99-glossary.md#constitution) | Mọi loại giáp, khiên; vũ khí đơn giản và võ thuật |
+| Đạo tặc (Rogue) | Kẻ bất hảo dùng lén lút, mánh khóe để vượt chướng ngại và địch thủ | d8 | Khéo léo | Khéo léo, [Trí tuệ](99-glossary.md#intelligence) | Giáp nhẹ; vũ khí đơn giản, [nỏ tay](99-glossary.md#crossbow), kiếm dài, [rapier](99-glossary.md#rapier), kiếm ngắn |
 | Pháp sư (Wizard) | Người dùng phép uyên bác có thể thao túng cấu trúc thực tại | d6 | Trí tuệ | Trí tuệ, Minh triết | Dao găm, phi tiêu, ná, gậy, nỏ nhẹ |
 
 ## Giáo sĩ (Cleric)
@@ -31,7 +31,7 @@ Bốn lớp cơ bản xuất hiện trong gần mọi thế giới D&D và tạo
 
 *Giáo sĩ vừa là người chữa lành, vừa là chiến binh phụng sự quyền năng thần thánh — minh họa nguyên bản tạo bằng OpenAI ImageGen.*
 
-Một elf giơ tay và mắt hướng mặt trời, miệng đọc lời cầu nguyện. Ánh sáng nội tâm lan tỏa để chữa lành đồng đội đã mệt mỏi vì chiến trận. Một người lùn hát khúc ca vinh quang, vung rìu thành vòng cung cắt qua hàng orc và hô lời ca ngợi thần linh theo mỗi kẻ ngã xuống. Một con người gọi lời nguyền lên lực lượng xác sống, nâng thánh vật khi ánh sáng tuôn ra đẩy lùi zombie đang vây quanh đồng đội.
+Một [elf](99-glossary.md#elf) giơ tay và mắt hướng mặt trời, miệng đọc lời cầu nguyện. Ánh sáng nội tâm lan tỏa để chữa lành đồng đội đã mệt mỏi vì chiến trận. Một [người lùn](99-glossary.md#dwarf) hát khúc ca vinh quang, vung rìu thành vòng cung cắt qua hàng [orc](99-glossary.md#orc) và hô lời ca ngợi thần linh theo mỗi kẻ ngã xuống. Một con người gọi lời nguyền lên lực lượng [xác sống](99-glossary.md#undead), nâng thánh vật khi ánh sáng tuôn ra đẩy lùi zombie đang vây quanh đồng đội.
 
 Giáo sĩ là trung gian giữa cõi phàm trần và những cõi xa xôi của thần. Cũng đa dạng như thần họ phụng sự, giáo sĩ nỗ lực thể hiện công việc của vị thần. Họ không phải linh mục bình thường, mà được ban phép thần thánh.
 
@@ -39,7 +39,7 @@ Giáo sĩ là trung gian giữa cõi phàm trần và những cõi xa xôi của
 
 Phép thần thánh là quyền năng các vị thần chảy vào thế giới. Giáo sĩ là ống dẫn của quyền năng ấy, biểu hiện nó qua hiệu ứng kỳ diệu. Thần không ban quyền năng cho mọi người tìm kiếm nó, chỉ cho người được chọn để hoàn thành thiên chức cao cả.
 
-Khai thác phép thần thánh không dựa vào học tập hay luyện tập. Giáo sĩ có thể học lời cầu nguyện và nghi thức cổ, nhưng khả năng thi triển phép giáo sĩ dựa vào lòng thành kính và nhận thức trực giác về ý muốn thần linh.
+Khai thác phép thần thánh không dựa vào học tập hay luyện tập. Giáo sĩ có thể học lời cầu nguyện và [nghi thức](99-glossary.md#ritual) cổ, nhưng khả năng [thi triển phép](99-glossary.md#spellcasting) giáo sĩ dựa vào lòng thành kính và nhận thức trực giác về ý muốn thần linh.
 
 Giáo sĩ kết hợp phép chữa lành, truyền cảm hứng với phép làm hại, cản trở địch. Họ có thể gây kinh sợ, đặt lời nguyền dịch bệnh hoặc độc, thậm chí gọi lửa trời thiêu kẻ thù. Với kẻ ác phù hợp nhận một cú chùy vào đầu, giáo sĩ dựa vào huấn luyện chiến đấu để xông vào cận chiến cùng quyền năng thần linh.
 
@@ -53,21 +53,21 @@ Giáo sĩ phiêu lưu thường vì thần yêu cầu. Theo đuổi mục tiêu 
 
 ### Tạo giáo sĩ (Creating a Cleric)
 
-Câu hỏi quan trọng nhất là phụng sự thần nào và muốn thể hiện nguyên tắc nào. *Player’s Handbook* có danh sách nhiều thần trong đa vũ trụ; hãy hỏi DM về thần linh của chiến dịch.
+Câu hỏi quan trọng nhất là phụng sự thần nào và muốn thể hiện nguyên tắc nào. *Player’s Handbook* có danh sách nhiều thần trong đa vũ trụ; hãy hỏi DM về thần linh của [chiến dịch](99-glossary.md#campaign).
 
 Sau khi chọn thần, cân nhắc quan hệ với thần: bạn tự nguyện hay thần chọn bạn không màng ý muốn? Linh mục của tín ngưỡng coi bạn là nhà vô địch hay kẻ gây rối? Mục tiêu tối hậu là gì? Thần có nhiệm vụ riêng hay bạn đang chứng minh mình xứng đáng với sứ mệnh lớn?
 
 ### Tạo nhanh
 
-Đặt **Minh triết** cao nhất, sau đó là **Sức mạnh hoặc Thể chất**. Chọn xuất thân **trợ tế (acolyte)**.
+Đặt **Minh triết** cao nhất, sau đó là **Sức mạnh hoặc Thể chất**. Chọn [xuất thân](99-glossary.md#background) **trợ tế (acolyte)**.
 
 ### Đặc tính lớp (Class Features)
 
-**Điểm sinh lực.** Xúc xắc sinh lực: **1d8 mỗi cấp giáo sĩ**. HP cấp 1: **8 + hệ số Thể chất**. HP ở cấp cao: **1d8 (hoặc 5) + hệ số Thể chất** cho mỗi cấp giáo sĩ sau cấp 1.
+**Điểm sinh lực.** Xúc xắc sinh lực: **1d8 mỗi cấp giáo sĩ**. [HP](99-glossary.md#hit-points) cấp 1: **8 + hệ số Thể chất**. HP ở cấp cao: **1d8 (hoặc 5) + hệ số Thể chất** cho mỗi cấp giáo sĩ sau cấp 1.
 
-**Sự thành thạo.** Giáp nhẹ, giáp trung bình, khiên; vũ khí đơn giản; không có công cụ. Thành thạo cứu nguy Minh triết và Sức hút. Chọn hai kỹ năng từ **Lịch sử, Thấu hiểu (Insight), Y học, Thuyết phục, Tôn giáo**.
+**Sự thành thạo.** Giáp nhẹ, giáp trung bình, khiên; vũ khí đơn giản; không có công cụ. Thành thạo [cứu nguy](99-glossary.md#saving-throw) Minh triết và Sức hút. Chọn hai kỹ năng từ **Lịch sử, Thấu hiểu (Insight), Y học, Thuyết phục, Tôn giáo**.
 
-**Trang bị.** Ngoài trang bị xuất thân, nhận: (a) chùy hoặc (b) búa chiến nếu thành thạo; (a) giáp vảy, (b) giáp da hoặc (c) giáp xích nếu thành thạo; (a) nỏ nhẹ và 20 tên hoặc (b) bất kỳ vũ khí đơn giản nào; (a) túi đồ linh mục hoặc (b) túi đồ thám hiểm; một khiên và một thánh vật.
+**Trang bị.** Ngoài trang bị xuất thân, nhận: (a) chùy hoặc (b) búa chiến nếu thành thạo; (a) [giáp vảy](99-glossary.md#scale-mail), (b) giáp da hoặc (c) [giáp xích](99-glossary.md#chain-mail) nếu thành thạo; (a) nỏ nhẹ và 20 tên hoặc (b) bất kỳ vũ khí đơn giản nào; (a) túi đồ linh mục hoặc (b) túi đồ thám hiểm; một khiên và một thánh vật.
 
 ### Bảng Giáo sĩ
 
@@ -76,7 +76,7 @@ Sau khi chọn thần, cân nhắc quan hệ với thần: bạn tự nguyện h
 | 1 | +2 | Thi triển phép, Lãnh địa thần thánh | 3 | 2 | — | — | — | — | — | — | — | — |
 | 2 | +2 | Dẫn truyền thần tính (1/lần nghỉ), đặc tính lãnh địa | 3 | 3 | — | — | — | — | — | — | — | — |
 | 3 | +2 | - | 3 | 4 | 2 | — | — | — | — | — | — | — |
-| 4 | +2 | Cải thiện điểm thuộc tính | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 4 | +2 | Cải thiện [điểm thuộc tính](99-glossary.md#ability-score) | 4 | 4 | 3 | — | — | — | — | — | — | — |
 | 5 | +3 | Hủy diệt xác sống (CR 1/2) | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
 | 6 | +3 | Dẫn truyền thần tính (2/lần nghỉ), đặc tính lãnh địa | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
 | 7 | +3 | - | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
@@ -94,21 +94,21 @@ Sau khi chọn thần, cân nhắc quan hệ với thần: bạn tự nguyện h
 | 19 | +6 | Cải thiện điểm thuộc tính | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | Cải thiện Can thiệp thần thánh | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
-Dấu **—** nghĩa là chưa có ô phép ở bậc tương ứng.
+Dấu **—** nghĩa là chưa có [ô phép](99-glossary.md#spell-slot) ở bậc tương ứng.
 
 ### Thi triển phép (Spellcasting)
 
 Là ống dẫn quyền năng thần thánh, bạn có thể thi triển phép giáo sĩ. Xem chương 10 về quy tắc chung, chương 11 về các phép giáo sĩ.
 
-**Phép sơ cấp.** Cấp 1, biết ba phép sơ cấp tùy chọn từ danh sách giáo sĩ. Cấp cao hơn học thêm như bảng.
+**Phép sơ cấp.** Cấp 1, biết ba [phép sơ cấp](99-glossary.md#cantrip) tùy chọn từ danh sách giáo sĩ. Cấp cao hơn học thêm như bảng.
 
-**Chuẩn bị và thi triển phép.** Bảng cho số ô phép để dùng phép bậc 1 trở lên. Mỗi phép tiêu hao một ô cùng bậc hoặc cao hơn; sau nghỉ dài, hồi toàn bộ ô đã dùng. Bạn chuẩn bị danh sách phép từ danh sách giáo sĩ, số lượng bằng **hệ số Minh triết + cấp giáo sĩ**, tối thiểu một phép. Phép phải có bậc mà bạn có ô phép.
+**Chuẩn bị và thi triển phép.** Bảng cho số ô phép để dùng phép bậc 1 trở lên. Mỗi phép tiêu hao một ô cùng bậc hoặc cao hơn; sau [nghỉ dài](99-glossary.md#long-rest), hồi toàn bộ ô đã dùng. Bạn chuẩn bị danh sách phép từ danh sách giáo sĩ, số lượng bằng **hệ số Minh triết + cấp giáo sĩ**, tối thiểu một phép. Phép phải có bậc mà bạn có ô phép.
 
 Ví dụ: giáo sĩ cấp 3 có bốn ô bậc 1, hai ô bậc 2. Với Minh triết 16, chuẩn bị sáu phép bậc 1 hoặc 2 theo bất kỳ tổ hợp nào. Nếu chuẩn bị *cure wounds*, có thể thi triển bằng ô bậc 1 hay 2; dùng phép không xóa nó khỏi danh sách đã chuẩn bị.
 
-Sau nghỉ dài, bạn có thể đổi danh sách. Chuẩn bị danh sách mới cần cầu nguyện, thiền định ít nhất **1 phút cho mỗi bậc phép** của mỗi phép trong danh sách.
+Sau nghỉ dài, bạn có thể đổi danh sách. Chuẩn bị danh sách mới cần cầu nguyện, thiền định ít nhất **1 phút cho mỗi [bậc phép](99-glossary.md#spell-level)** của mỗi phép trong danh sách.
 
-**Thuộc tính thi triển phép.** Minh triết là thuộc tính thi triển phép giáo sĩ của bạn. Quyền năng của các phép đến từ lòng thành kính đối với vị thần bạn phụng sự. Bạn dùng Minh triết bất cứ khi nào một phép giáo sĩ nhắc đến thuộc tính thi triển phép của bạn. Ngoài ra, bạn dùng hệ số Minh triết khi xác định DC cứu nguy của phép giáo sĩ bạn thi triển và khi tung tấn công bằng phép ấy:
+**Thuộc tính thi triển phép.** Minh triết là thuộc tính thi triển phép giáo sĩ của bạn. Quyền năng của các phép đến từ lòng thành kính đối với vị thần bạn phụng sự. Bạn dùng Minh triết bất cứ khi nào một phép giáo sĩ nhắc đến thuộc tính thi triển phép của bạn. Ngoài ra, bạn dùng hệ số Minh triết khi xác định [DC](99-glossary.md#difficulty-class) cứu nguy của phép giáo sĩ bạn thi triển và khi [tung tấn công](99-glossary.md#attack-roll) bằng phép ấy:
 
 `DC cứu nguy phép = 8 + thưởng thành thạo + hệ số Minh triết`
 
@@ -116,7 +116,7 @@ Sau nghỉ dài, bạn có thể đổi danh sách. Chuẩn bị danh sách mớ
 
 **Nghi thức.** Có thể thi triển phép giáo sĩ như nghi thức nếu phép có nhãn ritual và bạn đã chuẩn bị nó.
 
-**Tiêu điểm thi triển phép.** Có thể dùng thánh vật, mô tả ở chương 5, làm tiêu điểm thi triển phép giáo sĩ.
+**Tiêu điểm thi triển phép.** Có thể dùng thánh vật, mô tả ở chương 5, làm [tiêu điểm thi triển phép](99-glossary.md#spellcasting-focus) giáo sĩ.
 
 ### Lãnh địa thần thánh (Divine Domain)
 
@@ -130,9 +130,9 @@ Lựa chọn cho phép lãnh địa và các đặc tính khác từ cấp 1; c�
 
 Cấp 2, bạn trực tiếp dẫn năng lượng thần từ thần linh để tạo hiệu ứng phép. Ban đầu có hai hiệu ứng: **Xua đuổi xác sống (Turn Undead)** và hiệu ứng do lãnh địa xác định. Một số lãnh địa thêm hiệu ứng khi tăng cấp.
 
-Khi dùng Dẫn truyền thần tính, chọn hiệu ứng. Sau đó phải nghỉ ngắn hoặc nghỉ dài trước khi dùng lại. Hiệu ứng đòi hỏi cứu nguy dùng DC cứu nguy phép giáo sĩ. Từ cấp 6, dùng hai lần giữa các lần nghỉ; từ cấp 18, ba lần. Hoàn thành nghỉ ngắn hoặc dài sẽ hồi các lần đã dùng.
+Khi dùng Dẫn truyền thần tính, chọn hiệu ứng. Sau đó phải [nghỉ ngắn](99-glossary.md#short-rest) hoặc nghỉ dài trước khi dùng lại. Hiệu ứng đòi hỏi cứu nguy dùng DC cứu nguy phép giáo sĩ. Từ cấp 6, dùng hai lần giữa các lần nghỉ; từ cấp 18, ba lần. Hoàn thành nghỉ ngắn hoặc dài sẽ hồi các lần đã dùng.
 
-**Dẫn truyền thần tính: Xua đuổi xác sống.** Bằng một hành động, trình thánh vật và đọc lời cầu nguyện khiển trách xác sống. Mỗi xác sống nhìn hoặc nghe thấy bạn trong **30 feet** phải tung cứu nguy Minh triết. Nếu thất bại, nó bị **xua đuổi (turned)** trong 1 phút hoặc đến khi chịu bất kỳ sát thương nào.
+**Dẫn truyền thần tính: Xua đuổi xác sống.** Bằng một hành động, trình thánh vật và đọc lời cầu nguyện khiển trách xác sống. Mỗi xác sống nhìn hoặc nghe thấy bạn trong **30 [feet](99-glossary.md#feet)** phải tung cứu nguy Minh triết. Nếu thất bại, nó bị **xua đuổi (turned)** trong 1 phút hoặc đến khi chịu bất kỳ sát thương nào.
 
 Sinh vật bị xua đuổi phải dùng lượt để cố đi xa bạn nhất có thể, không được tự ý đi vào không gian trong 30 feet của bạn và không thể phản ứng. Nó chỉ có thể dùng hành động **Chạy nước rút (Dash)** hoặc cố thoát hiệu ứng ngăn di chuyển. Nếu không có nơi đi, nó có thể dùng hành động **Phòng thủ (Dodge)**.
 
@@ -142,7 +142,7 @@ Sinh vật bị xua đuổi phải dùng lượt để cố đi xa bạn nhất 
 
 ### Hủy diệt xác sống (Destroy Undead)
 
-Từ cấp 5, khi xác sống thất bại cứu nguy trước Xua đuổi xác sống, nó bị hủy ngay nếu **chỉ số thử thách (Challenge Rating, CR)** không vượt mức sau.
+Từ cấp 5, khi xác sống thất bại cứu nguy trước Xua đuổi xác sống, nó bị hủy ngay nếu **chỉ số thử thách ([Challenge Rating](99-glossary.md#challenge-rating), CR)** không vượt mức sau.
 
 | Cấp giáo sĩ | Hủy xác sống CR |
 | --- | --- |
@@ -158,11 +158,11 @@ Từ cấp 10, khi nhu cầu khẩn thiết, bạn có thể gọi thần can th
 
 Nếu thần đã can thiệp, không thể dùng đặc tính trong 7 ngày. Nếu không, dùng lại sau nghỉ dài. Cấp 20, lời gọi tự động thành công, không cần tung.
 
-## Các lãnh địa thần thánh
+## Các [lãnh địa thần thánh](99-glossary.md#divine-domain)
 
 Trong một điện thần, mỗi thần có ảnh hưởng đến những mặt đời sống, văn minh phàm trần gọi là lãnh địa. Toàn bộ các lãnh địa thần ảnh hưởng gọi là **phạm vi (portfolio)**. Ví dụ Apollo Hy Lạp có Tri thức, Sự sống, Ánh sáng. Giáo sĩ chọn một mặt để nhấn mạnh và nhận quyền năng liên quan.
 
-Điều này có thể tương ứng với giáo phái riêng. Apollo có thể được thờ là Phoebus, “rạng rỡ”, nhấn mạnh Ánh sáng, hoặc Apollo Acesius, “chữa lành”, nhấn mạnh Sự sống. Cũng có thể chỉ là sở thích cá nhân, khía cạnh thần hấp dẫn nhất. Mô tả lãnh địa có ví dụ thần từ Forgotten Realms, Greyhawk, Dragonlance, Eberron cùng các điện thần Celt, Hy Lạp, Bắc Âu, Ai Cập cổ.
+Điều này có thể tương ứng với giáo phái riêng. Apollo có thể được thờ là Phoebus, “rạng rỡ”, nhấn mạnh Ánh sáng, hoặc Apollo Acesius, “chữa lành”, nhấn mạnh Sự sống. Cũng có thể chỉ là sở thích cá nhân, khía cạnh thần hấp dẫn nhất. Mô tả lãnh địa có ví dụ thần từ [Forgotten Realms](99-glossary.md#forgotten-realms), Greyhawk, Dragonlance, Eberron cùng các điện thần Celt, Hy Lạp, Bắc Âu, Ai Cập cổ.
 
 ### Lãnh địa Sự sống (Life Domain)
 
@@ -180,7 +180,7 @@ Lãnh địa Sự sống tập trung năng lượng tích cực, sống động,
 
 **Môn đồ Sự sống (Disciple of Life).** Cũng từ cấp 1, phép chữa lành hiệu quả hơn. Bất cứ khi nào dùng phép bậc 1 trở lên hồi HP cho sinh vật, nó hồi thêm HP bằng **2 + bậc phép**.
 
-**Dẫn truyền thần tính: Bảo toàn sự sống (Preserve Life).** Cấp 2, dùng Dẫn truyền thần tính để chữa người bị thương nặng. Bằng hành động, trình thánh vật và gọi năng lượng chữa lành hồi tổng HP bằng **5 × cấp giáo sĩ**. Chọn bất kỳ sinh vật trong 30 feet, chia lượng HP này giữa chúng. Đặc tính chỉ hồi một sinh vật tối đa đến **một nửa HP tối đa**. Không dùng cho xác sống hoặc cấu thể (construct).
+**Dẫn truyền thần tính: Bảo toàn sự sống (Preserve Life).** Cấp 2, dùng Dẫn truyền thần tính để chữa người bị thương nặng. Bằng hành động, trình thánh vật và gọi năng lượng chữa lành hồi tổng HP bằng **5 × cấp giáo sĩ**. Chọn bất kỳ sinh vật trong 30 feet, chia lượng HP này giữa chúng. Đặc tính chỉ hồi một sinh vật tối đa đến **một nửa HP tối đa**. Không dùng cho xác sống hoặc [cấu thể](99-glossary.md#construct) (construct).
 
 **Người chữa lành được ban phước (Blessed Healer).** Từ cấp 6, phép chữa người khác cũng chữa bạn. Khi dùng phép bậc 1 trở lên hồi HP cho sinh vật khác bạn, bạn hồi HP bằng **2 + bậc phép**.
 
@@ -206,11 +206,11 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 26-28.
 
 *Chiến binh làm chủ vũ khí, giáp trụ và nhiều phong cách chiến đấu — minh họa nguyên bản tạo bằng OpenAI ImageGen.*
 
-Một con người trong giáp tấm kêu vang giơ khiên trước mặt, lao về phía đội goblin đông đặc. Phía sau, một elf mặc giáp da đinh tán bắn tên từ cây cung tinh xảo. Half-orc gần đó hô mệnh lệnh, giúp hai người phối hợp đợt tấn công hiệu quả nhất.
+Một con người trong [giáp tấm](99-glossary.md#plate-armor) kêu vang giơ khiên trước mặt, lao về phía đội [goblin](99-glossary.md#goblin) đông đặc. Phía sau, một elf mặc giáp da đinh tán bắn tên từ cây cung tinh xảo. Half-orc gần đó hô mệnh lệnh, giúp hai người phối hợp đợt tấn công hiệu quả nhất.
 
-Một người lùn mặc giáp xích chặn khiên giữa chùy ogre và đồng đội, hất cú đánh chết người sang bên. Người đồng hành, half-elf mặc giáp vảy, vung hai thanh scimitar thành vòng xoáy chói mắt khi đi vòng quanh ogre, tìm điểm mù trong phòng thủ của nó.
+Một người lùn mặc giáp xích chặn khiên giữa chùy [ogre](99-glossary.md#ogre) và đồng đội, hất cú đánh chết người sang bên. Người đồng hành, [half-elf](99-glossary.md#half-elf) mặc giáp vảy, vung hai thanh scimitar thành vòng xoáy chói mắt khi đi vòng quanh ogre, tìm điểm mù trong phòng thủ của nó.
 
-Đấu sĩ giác đấu chiến đấu để mua vui trên đấu trường, tinh thông đinh ba và lưới, giỏi quật ngã, điều khiển đối thủ để làm vừa lòng đám đông và giành lợi thế chiến thuật. Kiếm đối phương lóe sáng xanh ngay trước khi cô ta phóng tia sét trừng phạt anh.
+Đấu sĩ giác đấu chiến đấu để mua vui trên đấu trường, tinh thông đinh ba và lưới, giỏi quật ngã, điều khiển đối thủ để làm vừa lòng đám đông và giành [lợi thế](99-glossary.md#advantage) chiến thuật. Kiếm đối phương lóe sáng xanh ngay trước khi cô ta phóng tia sét trừng phạt anh.
 
 Tất cả đều là chiến binh, có lẽ là lớp nhân vật đa dạng nhất trong thế giới D&D. Hiệp sĩ làm nhiệm vụ, chúa tể chinh phạt, nhà vô địch hoàng gia, bộ binh tinh nhuệ, lính đánh thuê dày dạn, vua cướp: họ cùng có sự tinh thông vô song về vũ khí, giáp và hiểu biết sâu sắc về kỹ năng chiến đấu. Họ cũng quen thuộc với cái chết, cả việc ban nó lẫn thách thức nó khi đối diện.
 
@@ -222,7 +222,7 @@ Chiến binh học nền tảng của mọi phong cách chiến đấu. Mọi ch
 
 Không phải mọi lính canh thành, dân binh làng hay lính quân đội hoàng hậu đều là chiến binh. Phần lớn chỉ là quân lính ít huấn luyện với kiến thức chiến đấu cơ bản. Lính kỳ cựu, sĩ quan, hộ vệ được đào tạo, hiệp sĩ tận tụy và người tương tự mới là chiến binh.
 
-Một số chiến binh cảm thấy được thôi thúc dùng huấn luyện để phiêu lưu. Khám phá hầm ngục, săn quái vật và công việc nguy hiểm thường thấy của nhà phiêu lưu là bản năng thứ hai, không quá khác đời sống cũ. Có thể rủi ro lớn hơn, nhưng phần thưởng cũng lớn hơn nhiều: ít lính gác thành có cơ hội tìm kiếm thanh kiếm *flame tongue* ma thuật.
+Một số chiến binh cảm thấy được thôi thúc dùng huấn luyện để phiêu lưu. Khám phá hầm ngục, săn [quái vật](99-glossary.md#monster) và công việc nguy hiểm thường thấy của nhà phiêu lưu là bản năng thứ hai, không quá khác đời sống cũ. Có thể rủi ro lớn hơn, nhưng phần thưởng cũng lớn hơn nhiều: ít lính gác thành có cơ hội tìm kiếm thanh kiếm *flame tongue* ma thuật.
 
 ### Tạo chiến binh (Creating a Fighter)
 
@@ -232,7 +232,7 @@ Bạn có thể được đào tạo chính quy trong quân quý tộc hoặc d�
 
 ### Tạo nhanh
 
-Đặt **Sức mạnh hoặc Khéo léo** cao nhất, tùy tập trung vũ khí cận chiến hay bắn cung, vũ khí Tinh xảo (finesse). Điểm cao thứ hai là **Thể chất**. Chọn xuất thân **binh sĩ (soldier)**.
+Đặt **Sức mạnh hoặc Khéo léo** cao nhất, tùy tập trung [vũ khí cận chiến](99-glossary.md#melee-ranged) hay bắn cung, vũ khí [Tinh xảo](99-glossary.md#finesse) (finesse). Điểm cao thứ hai là **Thể chất**. Chọn xuất thân **binh sĩ (soldier)**.
 
 ### Đặc tính lớp
 
@@ -272,13 +272,13 @@ Chọn một phong cách làm chuyên môn. Không thể chọn cùng lựa ch�
 - **Bắn cung (Archery):** +2 cho lần tung tấn công bằng vũ khí tầm xa.
 - **Phòng thủ (Defense):** Khi đang mặc giáp, +1 AC.
 - **Đấu kiếm (Dueling):** Khi cầm vũ khí cận chiến bằng một tay và không cầm vũ khí khác, +2 vào lần tung sát thương bằng vũ khí đó.
-- **Đánh vũ khí lớn (Great Weapon Fighting):** Khi tung 1 hoặc 2 trên xúc xắc sát thương của đòn tấn công cận chiến dùng vũ khí mà bạn đang cầm bằng hai tay, có thể tung lại và phải dùng kết quả mới, kể cả vẫn là 1 hay 2. Vũ khí phải có tính chất Hai tay (two-handed) hoặc Đa dụng (versatile) để nhận lợi ích.
+- **Đánh vũ khí lớn (Great Weapon Fighting):** Khi tung 1 hoặc 2 trên xúc xắc sát thương của đòn tấn công cận chiến dùng vũ khí mà bạn đang cầm bằng hai tay, có thể tung lại và phải dùng kết quả mới, kể cả vẫn là 1 hay 2. Vũ khí phải có tính chất Hai tay (two-handed) hoặc Đa dụng ([versatile](99-glossary.md#versatile)) để nhận lợi ích.
 - **Bảo vệ (Protection):** Khi sinh vật bạn thấy tấn công mục tiêu khác bạn trong 5 feet, có thể dùng phản ứng áp bất lợi cho lần tung tấn công. Phải đang dùng khiên.
-- **Đánh hai vũ khí (Two-Weapon Fighting):** Khi đánh hai vũ khí, được cộng hệ số thuộc tính vào sát thương của đòn tấn công thứ hai.
+- **Đánh hai vũ khí (Two-Weapon Fighting):** Khi đánh hai vũ khí, được cộng [hệ số thuộc tính](99-glossary.md#modifier) vào sát thương của đòn tấn công thứ hai.
 
 ### Hơi thở thứ hai (Second Wind)
 
-Bể sức bền giới hạn giúp tự bảo vệ khỏi tổn hại. Trong lượt, dùng **hành động phụ (bonus action)** để hồi HP bằng **1d10 + cấp chiến binh**. Sau khi dùng, phải nghỉ ngắn hoặc dài mới dùng lại.
+Bể sức bền giới hạn giúp tự bảo vệ khỏi tổn hại. Trong lượt, dùng **[hành động phụ](99-glossary.md#action) (bonus action)** để hồi HP bằng **1d10 + cấp chiến binh**. Sau khi dùng, phải nghỉ ngắn hoặc dài mới dùng lại.
 
 ### Dồn sức hành động (Action Surge)
 
@@ -308,9 +308,9 @@ Mỗi chiến binh chọn cách khác nhau để hoàn thiện sức mạnh chi�
 
 Nhà vô địch nguyên mẫu tập trung phát triển sức mạnh thể chất thuần túy thành độ hoàn hảo chết người. Họ kết hợp rèn luyện nghiêm khắc với thể chất xuất sắc để tung đòn hủy diệt.
 
-**Chí mạng cải thiện (Improved Critical):** Cấp 3, đòn tấn công vũ khí gây **đòn chí mạng (critical hit)** khi tung **19 hoặc 20**.
+**Chí mạng cải thiện (Improved Critical):** Cấp 3, đòn tấn công vũ khí gây **[đòn chí mạng](99-glossary.md#critical-hit) (critical hit)** khi tung **19 hoặc 20**.
 
-**Vận động viên đáng nể (Remarkable Athlete):** Cấp 7, cộng **một nửa thưởng thành thạo, làm tròn lên**, vào bất kỳ kiểm tra Sức mạnh, Khéo léo hoặc Thể chất nào chưa dùng thưởng thành thạo. Khi nhảy xa có đà, quãng nhảy tăng số feet bằng hệ số Sức mạnh.
+**Vận động viên đáng nể (Remarkable Athlete):** Cấp 7, cộng **một nửa [thưởng thành thạo](99-glossary.md#proficiency), làm tròn lên**, vào bất kỳ kiểm tra Sức mạnh, Khéo léo hoặc Thể chất nào chưa dùng thưởng thành thạo. Khi nhảy xa có đà, quãng nhảy tăng số feet bằng hệ số Sức mạnh.
 
 **Phong cách chiến đấu bổ sung:** Cấp 10, chọn lựa chọn thứ hai trong đặc tính Phong cách chiến đấu.
 
@@ -334,13 +334,13 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 28-30.
 
 *Đạo tặc dựa vào sự khéo léo, lén lút và những đòn đánh chính xác — minh họa nguyên bản tạo bằng OpenAI ImageGen.*
 
-Ra hiệu đồng đội chờ, một halfling rón rén đi dọc hành lang hầm ngục. Cô áp tai vào cửa, rút bộ dụng cụ và phá khóa trong chớp mắt, rồi biến vào bóng tối khi người bạn chiến binh tiến lên đá tung cửa.
+Ra hiệu đồng đội chờ, một [halfling](99-glossary.md#halfling) rón rén đi dọc hành lang hầm ngục. Cô áp tai vào cửa, rút bộ dụng cụ và phá khóa trong chớp mắt, rồi biến vào bóng tối khi người bạn chiến binh tiến lên đá tung cửa.
 
 Một con người nấp trong bóng tối ngõ hẻm khi đồng phạm chuẩn bị phần việc trong cuộc phục kích. Khi mục tiêu, một tên buôn nô lệ khét tiếng, đi qua, đồng phạm hét lên. Tên buôn nô lệ đến xem và lưỡi dao sát thủ cắt cổ hắn trước khi hắn kịp phát ra tiếng.
 
-Nén cười khúc khích, một gnome vẫy ngón tay và dùng phép nhấc chùm chìa khóa khỏi thắt lưng lính gác. Chỉ lát sau, chìa khóa đã trong tay, cửa ngục mở và cô cùng đồng đội tự do trốn thoát.
+Nén cười khúc khích, một [gnome](99-glossary.md#gnome) vẫy ngón tay và dùng phép nhấc chùm chìa khóa khỏi thắt lưng lính gác. Chỉ lát sau, chìa khóa đã trong tay, cửa ngục mở và cô cùng đồng đội tự do trốn thoát.
 
-Đạo tặc dựa vào kỹ năng, lén lút và điểm yếu của địch để giành thế thượng phong trong mọi tình huống. Họ giỏi tìm lời giải cho hầu như mọi vấn đề; sự tháo vát, linh hoạt ấy là nền tảng của mọi nhóm phiêu lưu thành công.
+Đạo tặc dựa vào kỹ năng, lén lút và điểm yếu của địch để giành thế thượng phong trong mọi tình huống. Họ giỏi tìm lời giải cho hầu như mọi vấn đề; sự tháo vát, linh hoạt ấy là nền tảng của mọi [nhóm phiêu lưu](99-glossary.md#party) thành công.
 
 ### Kỹ năng và độ chính xác (Skill and Precision)
 
@@ -387,7 +387,7 @@ Hãy cân nhắc quan hệ nhân vật với pháp luật: bạn có quá khứ 
 | 11 | +4 | 6d6 | Tài năng đáng tin |
 | 12 | +4 | 6d6 | Cải thiện điểm thuộc tính |
 | 13 | +5 | 7d6 | Đặc tính Hình mẫu đạo tặc |
-| 14 | +5 | 7d6 | Cảm nhận mù |
+| 14 | +5 | 7d6 | [Cảm nhận mù](99-glossary.md#blindsight) |
 | 15 | +5 | 8d6 | Tâm trí khó nắm bắt |
 | 16 | +5 | 8d6 | Cải thiện điểm thuộc tính |
 | 17 | +6 | 9d6 | Đặc tính Hình mẫu đạo tặc |
@@ -429,11 +429,11 @@ Từ cấp 5, khi kẻ tấn công bạn thấy đánh trúng bạn, có thể d
 
 ### Lẩn tránh (Evasion)
 
-Từ cấp 7, khi chịu hiệu ứng cho phép tung cứu nguy Khéo léo để chỉ chịu nửa sát thương, bạn **không chịu sát thương nếu thành công**, và chỉ chịu nửa nếu thất bại. Ví dụ: hơi thở lửa rồng đỏ, phép *ice storm*.
+Từ cấp 7, khi chịu hiệu ứng cho phép tung cứu nguy Khéo léo để chỉ chịu nửa sát thương, bạn **không chịu sát thương nếu thành công**, và chỉ chịu nửa nếu thất bại. Ví dụ: hơi thở lửa [rồng](99-glossary.md#dragon) đỏ, phép *ice storm*.
 
 ### Tài năng đáng tin (Reliable Talent)
 
-Đến cấp 11, bạn đã trau chuốt các kỹ năng đã chọn đến gần mức hoàn hảo. Trong kiểm tra thuộc tính được cộng thưởng thành thạo, có thể coi lần tung d20 từ **9 trở xuống là 10**.
+Đến cấp 11, bạn đã trau chuốt các kỹ năng đã chọn đến gần mức hoàn hảo. Trong kiểm tra thuộc tính được cộng thưởng thành thạo, có thể coi lần tung [d20](99-glossary.md#dice-notation) từ **9 trở xuống là 10**.
 
 ### Cảm nhận mù (Blindsense)
 
@@ -457,7 +457,7 @@ Các đạo tặc có nhiều đặc điểm chung, gồm việc chú trọng ho
 
 ### Kẻ trộm (Thief)
 
-Bạn rèn kỹ năng trộm cắp. Kẻ đột nhập, cướp đường, móc túi và tội phạm khác thường theo hình mẫu này, cũng như đạo tặc tự coi là người săn kho báu chuyên nghiệp, nhà thám hiểm, người khám phá hầm, điều tra viên. Ngoài cải thiện nhanh nhẹn, lén lút, bạn học kỹ năng hữu ích cho phế tích cổ, đọc ngôn ngữ lạ và dùng vật phẩm ma thuật bình thường không thể dùng.
+Bạn rèn kỹ năng trộm cắp. Kẻ đột nhập, cướp đường, móc túi và tội phạm khác thường theo hình mẫu này, cũng như đạo tặc tự coi là người săn kho báu chuyên nghiệp, nhà thám hiểm, người khám phá hầm, điều tra viên. Ngoài cải thiện nhanh nhẹn, lén lút, bạn học kỹ năng hữu ích cho phế tích cổ, đọc ngôn ngữ lạ và dùng [vật phẩm ma thuật](99-glossary.md#magic-item) bình thường không thể dùng.
 
 **Bàn tay nhanh (Fast Hands):** Cấp 3, dùng hành động phụ từ Hành động xảo quyệt để thực hiện kiểm tra Khéo léo (Khéo tay), dùng dụng cụ kẻ trộm tháo bẫy hay mở khóa, hoặc dùng hành động Sử dụng đồ vật (Use an Object).
 
@@ -465,7 +465,7 @@ Bạn rèn kỹ năng trộm cắp. Kẻ đột nhập, cướp đường, móc 
 
 **Lén lút tối thượng (Supreme Sneak):** Cấp 9, có lợi thế trong kiểm tra Khéo léo (Lén lút) nếu trong lượt đó di chuyển không quá nửa tốc độ.
 
-**Dùng vật phẩm ma thuật (Use Magic Device):** Đến cấp 13, bạn đã học đủ về hoạt động của ma thuật để ứng biến khi sử dụng cả những vật phẩm không dành cho mình. Bạn bỏ qua mọi yêu cầu về lớp, chủng tộc, cấp độ khi dùng vật phẩm ma thuật.
+**Dùng vật phẩm ma thuật (Use Magic Device):** Đến cấp 13, bạn đã học đủ về hoạt động của ma thuật để ứng biến khi sử dụng cả những vật phẩm không dành cho mình. Bạn bỏ qua mọi yêu cầu về lớp, [chủng tộc](99-glossary.md#race), cấp độ khi dùng vật phẩm ma thuật.
 
 **Phản xạ kẻ trộm (Thief’s Reflexes):** Đến cấp 17, bạn đã trở nên thành thạo trong việc phục kích và nhanh chóng thoát khỏi nguy hiểm. Bạn có thể có hai lượt trong vòng đầu của bất kỳ trận chiến nào: lượt đầu theo sáng kiến bình thường, lượt thứ hai ở sáng kiến trừ 10. Không dùng đặc tính nếu bị bất ngờ (surprised).
 
@@ -491,7 +491,7 @@ Gnome ngồi xổm ở ngã tư hầm ngục, ném nắm xương nhỏ khắc k�
 
 Pháp sư là người dùng phép tối cao, được định nghĩa, liên kết như một lớp bởi các phép họ thi triển. Họ rút từ Mạng dệt phép tinh tế lan khắp vũ trụ để tung lửa nổ, sét vòng cung, lừa dối tinh vi và khống chế tâm trí bằng sức mạnh thô. Phép của họ gọi quái vật từ cõi khác, nhìn thoáng tương lai, biến kẻ thù chết thành zombie. Phép mạnh nhất chuyển chất này thành chất khác, gọi thiên thạch từ trời hoặc mở cổng đến thế giới khác.
 
-### Học giả huyền thuật (Scholars of the Arcane)
+### Học giả [huyền thuật](99-glossary.md#arcane-divine) (Scholars of the Arcane)
 
 Sức mạnh phép thuật hoang dại, bí ẩn, đa dạng về dạng và chức năng, thu hút người học muốn làm chủ bí mật. Một số khao khát như thần, tự định hình thực tại. Dù một phép thông thường chỉ cần vài từ lạ, cử chỉ thoáng qua, đôi khi chút vật liệu hiếm, những thành phần bề mặt chỉ hé lộ chuyên môn đạt được sau nhiều năm học việc và vô số giờ nghiên cứu.
 
@@ -550,7 +550,7 @@ Là người học phép huyền thuật, bạn có sách phép chứa những d
 
 **Phép sơ cấp:** Cấp 1 biết ba phép sơ cấp tùy chọn trong danh sách pháp sư; học thêm theo bảng.
 
-**Sách phép (Spellbook):** Cấp 1 có sách chứa sáu phép pháp sư bậc 1 tùy chọn. Sách là kho phép bạn biết, trừ phép sơ cấp đã cố định trong tâm trí.
+**[Sách phép](99-glossary.md#spellbook) (Spellbook):** Cấp 1 có sách chứa sáu phép pháp sư bậc 1 tùy chọn. Sách là kho phép bạn biết, trừ phép sơ cấp đã cố định trong tâm trí.
 
 **Chuẩn bị, thi triển phép:** Bảng cho số ô phép. Dùng phép bậc 1 trở lên tiêu hao ô cùng hoặc cao hơn; hồi toàn bộ sau nghỉ dài. Chuẩn bị số phép trong sách bằng **hệ số Trí tuệ + cấp pháp sư**, tối thiểu 1; phép phải thuộc bậc bạn có ô phép.
 
@@ -572,7 +572,7 @@ Bạn học hồi một phần năng lượng bằng cách nghiên cứu sách. 
 
 ### Truyền thống huyền thuật (Arcane Tradition)
 
-Cấp 2, chọn một trong tám trường phái: Bảo hộ (Abjuration), Triệu hồi (Conjuration), Tiên tri (Divination), Yểm thuật (Enchantment), Gọi năng lượng (Evocation), Ảo ảnh (Illusion), Hoại tử (Necromancy), Chuyển hóa (Transmutation). Tài liệu này có trường Gọi năng lượng; *Player’s Handbook* có các trường khác. Nhận đặc tính cấp 2, 6, 10, 14.
+Cấp 2, chọn một trong [tám trường phái](99-glossary.md#spell-school): Bảo hộ (Abjuration), Triệu hồi (Conjuration), Tiên tri (Divination), Yểm thuật (Enchantment), Gọi năng lượng (Evocation), Ảo ảnh (Illusion), Hoại tử (Necromancy), Chuyển hóa (Transmutation). Tài liệu này có trường Gọi năng lượng; *Player’s Handbook* có các trường khác. Nhận đặc tính cấp 2, 6, 10, 14.
 
 **Cải thiện điểm thuộc tính:** cấp 4, 8, 12, 16, 19, tăng một thuộc tính 2 hoặc hai thuộc tính mỗi cái 1, không quá 20.
 
@@ -590,7 +590,7 @@ Nghiên cứu pháp thuật cổ xưa từ khám phá phép đầu tiên của n
 
 ### Sách phép của bạn (Your Spellbook)
 
-Phép thêm vào khi tăng cấp phản ánh nghiên cứu huyền thuật riêng và đột phá trí tuệ về đa vũ trụ. Trong phiêu lưu, có thể tìm phép, như cuộn phép trong rương pháp sư ác hoặc sách bụi ở thư viện cổ.
+Phép thêm vào khi tăng cấp phản ánh nghiên cứu huyền thuật riêng và đột phá trí tuệ về đa vũ trụ. Trong phiêu lưu, có thể tìm phép, như [cuộn phép](99-glossary.md#spell-scroll) trong rương pháp sư ác hoặc sách bụi ở thư viện cổ.
 
 **Chép phép vào sách:** Khi tìm phép pháp sư bậc 1 trở lên, có thể thêm nếu đó là bậc bạn chuẩn bị được và có thời gian giải mã, sao chép. Bạn phải tái tạo dạng cơ bản, giải mã hệ ký hiệu riêng người viết dùng, luyện đến khi hiểu âm thanh/cử chỉ, rồi ghi bằng ký hiệu mình. Mỗi bậc phép mất **2 giờ và 50 gp**; phí cho thành phần thử nghiệm và mực tốt. Xong thì chuẩn bị như phép khác.
 

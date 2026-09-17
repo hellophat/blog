@@ -8,13 +8,13 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 86-108.
 
 *Kho phép thuật trải từ những mẹo phép nhỏ đến sức mạnh có thể làm thay đổi cả chiến trường và thế giới. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Chương này mô tả những phép thường gặp nhất trong các thế giới Dungeons & Dragons. Chương bắt đầu bằng những danh sách phép được tuyển chọn cho các lớp thi triển phép thường gặp nhất. Phần còn lại chứa mô tả phép, xếp theo thứ tự chữ cái của tên tiếng Anh.
+Chương này mô tả những phép thường gặp nhất trong các thế giới [Dungeons & Dragons](99-glossary.md#dungeons-and-dragons). Chương bắt đầu bằng những danh sách phép được tuyển chọn cho các lớp [thi triển phép](99-glossary.md#spellcasting) thường gặp nhất. Phần còn lại chứa mô tả phép, xếp theo thứ tự chữ cái của tên tiếng Anh.
 
 ## Phép Giáo sĩ (Cleric Spells)
 
 ![Nam giáo sĩ chữa lành đồng minh và xua lùi bóng tối bằng ánh sáng thiêng](assets/chapter-11-cleric-spells.png)
 
-*Phép giáo sĩ thiên về bảo hộ, chữa trị, dẫn dắt và vận dụng sức mạnh thiêng liêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Phép [giáo sĩ](99-glossary.md#cleric) thiên về bảo hộ, chữa trị, dẫn dắt và vận dụng sức mạnh thiêng liêng. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 ### Phép sơ cấp (bậc 0)
 
@@ -108,7 +108,7 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 
 ![Nam pháp sư điều khiển nhiều dạng ma thuật từ sách phép](assets/chapter-11-wizard-spells.png)
 
-*Phép pháp sư trải rộng từ nguyên tố và phòng hộ đến ảo thuật, dịch chuyển và biến đổi thực tại. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Phép [pháp sư](99-glossary.md#wizard) trải rộng từ nguyên tố và phòng hộ đến ảo thuật, dịch chuyển và biến đổi thực tại. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
 ### Phép sơ cấp (bậc 0)
 
@@ -126,7 +126,7 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 ### Bậc 1
 
 - Bàn tay bốc lửa (Burning Hands)
-- Mê hoặc người (Charm Person)
+- [Mê hoặc](99-glossary.md#charmed) người (Charm Person)
 - Hiểu ngôn ngữ (Comprehend Languages)
 - Phát hiện ma thuật (Detect Magic)
 - Cải dạng bản thân (Disguise Self)
@@ -140,12 +140,12 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 
 ### Bậc 2
 
-- Khóa huyền thuật (Arcane Lock)
+- Khóa [huyền thuật](99-glossary.md#arcane-divine) (Arcane Lock)
 - Mờ nhòe (Blur)
 - Bóng tối (Darkness)
 - Cầu lửa rực (Flaming Sphere)
 - Giữ người (Hold Person)
-- Vô hình (Invisibility)
+- [Vô hình](99-glossary.md#invisible) (Invisibility)
 - Gõ mở (Knock)
 - Nâng lơ lửng (Levitate)
 - Vũ khí ma thuật (Magic Weapon)
@@ -201,7 +201,7 @@ Chương này mô tả những phép thường gặp nhất trong các thế gi�
 
 ### Bậc 8
 
-- Thống trị quái vật (Dominate Monster)
+- Thống trị [quái vật](99-glossary.md#monster) (Dominate Monster)
 - Mê cung (Maze)
 - Quyền ngôn làm choáng (Power Word Stun)
 - Bùng sáng mặt trời (Sunburst)
@@ -228,11 +228,11 @@ Các phép được trình bày theo thứ tự chữ cái của tên tiếng An
 *Phép sơ cấp Triệu hồi*
 
 **Thời gian thi triển:** 1 hành động.  
-**Tầm:** 60 feet.  
+**Tầm:** 60 [feet](99-glossary.md#feet).  
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Bạn ném một bong bóng axit. Chọn một hoặc hai sinh vật nhìn thấy trong tầm. Nếu chọn hai, chúng phải cách nhau không quá 5 feet. Mục tiêu phải thành công cứu nguy Khéo léo, nếu không chịu 1d6 sát thương axit.
+Bạn ném một bong bóng axit. Chọn một hoặc hai sinh vật nhìn thấy trong tầm. Nếu chọn hai, chúng phải cách nhau không quá 5 feet. Mục tiêu phải thành công [cứu nguy](99-glossary.md#saving-throw) [Khéo léo](99-glossary.md#dexterity), nếu không chịu 1d6 sát thương axit.
 
 Sát thương của phép tăng thêm 1d6 khi bạn đạt cấp 5 (2d6), cấp 11 (3d6) và cấp 17 (4d6).
 
@@ -251,7 +251,7 @@ Sát thương của phép tăng thêm 1d6 khi bạn đạt cấp 5 (2d6), cấp 
 
 Phép tăng sự dẻo dai và quyết tâm của đồng minh. Chọn tối đa ba sinh vật trong tầm. Điểm sinh lực tối đa và hiện tại của mỗi mục tiêu tăng 5 trong thời lượng phép.
 
-**Ở bậc cao hơn.** Khi dùng ô phép bậc 3 trở lên, điểm sinh lực của mục tiêu tăng thêm 5 cho mỗi bậc ô vượt bậc 2.
+**Ở bậc cao hơn.** Khi dùng [ô phép](99-glossary.md#spell-slot) bậc 3 trở lên, [điểm sinh lực](99-glossary.md#hit-points) của mục tiêu tăng thêm 5 cho mỗi bậc ô vượt bậc 2.
 
 ### Trường phản ma thuật (Antimagic Field)
 
@@ -264,9 +264,9 @@ Phép tăng sự dẻo dai và quyết tâm của đồng minh. Chọn tối đa
 **Thời gian thi triển:** 1 hành động.  
 **Tầm:** Bản thân (hình cầu bán kính 10 feet).  
 **Thành phần:** V, S, M (một nhúm bột sắt hoặc mạt sắt).  
-**Thời lượng:** Tập trung, tối đa 1 giờ.
+**Thời lượng:** [Tập trung](99-glossary.md#concentration), tối đa 1 giờ.
 
-Một hình cầu phản ma thuật vô hình bán kính 10 feet bao quanh bạn. Khu vực này tách khỏi năng lượng ma thuật thấm khắp đa vũ trụ. Trong cầu, không thể thi triển phép, sinh vật được triệu hồi biến mất và ngay cả vật phẩm ma thuật cũng trở thành bình thường. Đến khi phép kết thúc, cầu di chuyển cùng bạn, lấy bạn làm tâm.
+Một hình cầu phản ma thuật vô hình bán kính 10 feet bao quanh bạn. Khu vực này tách khỏi năng lượng ma thuật thấm khắp [đa vũ trụ](99-glossary.md#multiverse). Trong cầu, không thể thi triển phép, sinh vật được triệu hồi biến mất và ngay cả [vật phẩm ma thuật](99-glossary.md#magic-item) cũng trở thành bình thường. Đến khi phép kết thúc, cầu di chuyển cùng bạn, lấy bạn làm tâm.
 
 Phép và hiệu ứng ma thuật khác, trừ những hiệu ứng do cổ vật (artifact) hoặc thần linh tạo ra, bị áp chế trong cầu và không thể lan vào đó. Ô phép dùng để thi triển phép bị áp chế vẫn bị tiêu hao. Khi bị áp chế, hiệu ứng không hoạt động, nhưng thời gian bị áp chế vẫn tính vào thời lượng.
 
@@ -280,7 +280,7 @@ Phép và hiệu ứng ma thuật khác, trừ những hiệu ứng do cổ vậ
 
 Đặc tính và quyền năng của vũ khí ma thuật bị áp chế nếu nó được dùng tấn công mục tiêu trong cầu hoặc do kẻ tấn công trong cầu sử dụng. Nếu vũ khí ma thuật hoặc đạn ma thuật rời cầu hoàn toàn, ví dụ bắn tên ma thuật hoặc ném giáo ma thuật vào mục tiêu ngoài cầu, ma thuật của vật phẩm ngừng bị áp chế ngay khi nó ra ngoài.
 
-**Di chuyển ma thuật.** Dịch chuyển tức thời và di chuyển giữa các cõi không hoạt động trong cầu, dù cầu là điểm đến hay điểm đi. Cổng đến địa điểm, thế giới hoặc cõi tồn tại khác, cùng lối mở vào không gian ngoại chiều như do *rope trick* tạo ra, tạm đóng khi nằm trong cầu.
+**Di chuyển ma thuật.** Dịch chuyển tức thời và di chuyển giữa các cõi không hoạt động trong cầu, dù cầu là điểm đến hay điểm đi. Cổng đến địa điểm, thế giới hoặc [cõi tồn tại](99-glossary.md#plane) khác, cùng lối mở vào không gian ngoại chiều như do *rope trick* tạo ra, tạm đóng khi nằm trong cầu.
 
 **Sinh vật và đồ vật.** Sinh vật hoặc đồ vật được triệu hồi hay tạo bởi ma thuật tạm biến khỏi sự tồn tại trong cầu. Sinh vật như vậy lập tức xuất hiện lại khi không gian nó chiếm không còn nằm trong cầu.
 
@@ -312,7 +312,7 @@ Bằng một hành động, bạn có thể di chuyển mắt tối đa 30 feet 
 
 Bạn chạm cửa ra vào, cửa sổ, cổng, rương hoặc lối vào khác đang đóng; nó bị khóa suốt thời lượng. Bạn và những sinh vật chỉ định khi thi triển có thể mở đồ vật bình thường. Bạn cũng có thể đặt mật khẩu; nói mật khẩu trong 5 feet của đồ vật áp chế phép này trong 1 phút. Ngoài ra, không thể đi qua cho đến khi đồ vật bị phá hoặc phép bị giải trừ hay áp chế. Thi triển *knock* lên đồ vật áp chế *arcane lock* trong 10 phút.
 
-Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơn; DC để phá đồ vật hoặc cạy bất kỳ ổ khóa nào trên nó tăng 10.
+Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơn; [DC](99-glossary.md#difficulty-class) để phá đồ vật hoặc cạy bất kỳ ổ khóa nào trên nó tăng 10.
 
 ### Xuất hồn Astral (Astral Projection)
 
@@ -327,7 +327,7 @@ Trong lúc chịu phép, đồ vật khó bị phá hoặc cưỡng ép mở hơ
 **Thành phần:** V, S, M (với mỗi sinh vật chịu phép, một viên jacinth trị giá ít nhất 1.000 gp và một thanh bạc chạm khắc công phu trị giá ít nhất 100 gp; tất cả bị phép tiêu thụ).  
 **Thời lượng:** Đặc biệt.
 
-Bạn và tối đa tám sinh vật sẵn lòng trong tầm phóng cơ thể Astral của mình vào Cõi Astral. Phép thất bại và lần thi triển bị lãng phí nếu bạn đã ở cõi đó. Cơ thể vật chất để lại bất tỉnh và ở trạng thái đình chỉ sự sống; nó không cần thức ăn hoặc không khí và không già đi.
+Bạn và tối đa tám sinh vật sẵn lòng trong tầm phóng cơ thể Astral của mình vào [Cõi Astral](99-glossary.md#astral-plane). Phép thất bại và lần thi triển bị lãng phí nếu bạn đã ở cõi đó. Cơ thể vật chất để lại bất tỉnh và ở [trạng thái](99-glossary.md#condition) đình chỉ sự sống; nó không cần thức ăn hoặc không khí và không già đi.
 
 Cơ thể Astral giống hình dạng phàm trần gần như mọi mặt, sao chép thông số trò chơi và đồ sở hữu. Khác biệt chính là sợi dây bạc kéo ra từ giữa hai bả vai và kéo dài phía sau, mờ thành vô hình sau 1 foot. Dây nối bạn với cơ thể vật chất. Chừng nào dây còn nguyên, bạn có thể tìm đường về. Nếu dây bị cắt, điều chỉ xảy ra khi hiệu ứng nói rõ làm vậy, linh hồn và cơ thể bị tách, giết bạn ngay.
 
@@ -341,14 +341,14 @@ Nếu bạn bị trả về cơ thể sớm, bạn đồng hành vẫn ở dạn
 
 ### Bói điềm (Augury)
 
-*Tiên tri bậc 2 (nghi thức)*
+*Tiên tri bậc 2 ([nghi thức](99-glossary.md#ritual))*
 
 **Thời gian thi triển:** 1 phút.  
 **Tầm:** Bản thân.  
 **Thành phần:** V, S, M (que, xương hoặc vật bói tương tự có đánh dấu đặc biệt, trị giá ít nhất 25 gp).  
 **Thời lượng:** Tức thời.
 
-Bằng cách gieo que khảm đá quý, tung xương rồng, trải bài trang trí công phu hoặc dùng công cụ bói khác, bạn nhận điềm báo từ thực thể ngoài thế giới về kết quả một hướng hành động cụ thể định làm trong 30 phút tới. DM chọn một điềm có thể có:
+Bằng cách gieo que khảm đá quý, tung xương [rồng](99-glossary.md#dragon), trải bài trang trí công phu hoặc dùng công cụ bói khác, bạn nhận điềm báo từ thực thể ngoài thế giới về kết quả một hướng hành động cụ thể định làm trong 30 phút tới. DM chọn một điềm có thể có:
 
 - **Lành (Weal):** kết quả tốt.
 - **Dữ (Woe):** kết quả xấu.
@@ -357,7 +357,7 @@ Bằng cách gieo que khảm đá quý, tung xương rồng, trải bài trang t
 
 Phép không tính các hoàn cảnh có thể thay đổi kết quả, như thi triển thêm phép hoặc mất hay có thêm bạn đồng hành.
 
-Nếu thi triển từ hai lần trở lên trước khi hoàn tất nghỉ dài tiếp theo, mỗi lần sau lần đầu có xác suất cộng dồn 25 phần trăm nhận kết quả bói ngẫu nhiên. DM bí mật tung lần này.
+Nếu thi triển từ hai lần trở lên trước khi hoàn tất [nghỉ dài](99-glossary.md#long-rest) tiếp theo, mỗi lần sau lần đầu có xác suất cộng dồn 25 phần trăm nhận kết quả bói ngẫu nhiên. DM bí mật tung lần này.
 
 ### Ngọn đèn hy vọng (Beacon of Hope)
 
@@ -368,7 +368,7 @@ Nếu thi triển từ hai lần trở lên trước khi hoàn tất nghỉ dài
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Phép ban hy vọng và sinh lực. Chọn bất kỳ số sinh vật nào trong tầm. Suốt thời lượng, mỗi mục tiêu có lợi thế trong cứu nguy Minh triết và cứu nguy tử vong, đồng thời hồi số điểm sinh lực tối đa có thể từ bất kỳ chữa lành nào.
+Phép ban hy vọng và sinh lực. Chọn bất kỳ số sinh vật nào trong tầm. Suốt thời lượng, mỗi mục tiêu có [lợi thế](99-glossary.md#advantage) trong cứu nguy [Minh triết](99-glossary.md#wisdom) và [cứu nguy tử vong](99-glossary.md#death-saving-throw), đồng thời hồi số điểm sinh lực tối đa có thể từ bất kỳ chữa lành nào.
 
 ### Rào lưỡi kiếm (Blade Barrier)
 
@@ -379,9 +379,9 @@ Phép ban hy vọng và sinh lực. Chọn bất kỳ số sinh vật nào trong
 **Thành phần:** V, S.  
 **Thời lượng:** Tập trung, tối đa 10 phút.
 
-Bạn tạo tường thẳng đứng bằng các lưỡi sắc như dao cạo xoay cuộn, làm từ năng lượng ma thuật. Tường xuất hiện trong tầm và tồn tại suốt thời lượng. Bạn có thể tạo tường thẳng tối đa dài 100 feet, cao 20 feet, dày 5 feet; hoặc tường vòng đường kính tối đa 60 feet, cao 20 feet, dày 5 feet. Tường cho che chắn ba phần tư cho sinh vật phía sau, và không gian của nó là địa hình khó đi.
+Bạn tạo tường thẳng đứng bằng các lưỡi sắc như dao cạo xoay cuộn, làm từ năng lượng ma thuật. Tường xuất hiện trong tầm và tồn tại suốt thời lượng. Bạn có thể tạo tường thẳng tối đa dài 100 feet, cao 20 feet, dày 5 feet; hoặc tường vòng đường kính tối đa 60 feet, cao 20 feet, dày 5 feet. Tường cho [che chắn](99-glossary.md#cover) ba phần tư cho sinh vật phía sau, và không gian của nó là [địa hình khó](99-glossary.md#difficult-terrain) đi.
 
-Khi sinh vật vào vùng tường lần đầu trong một lượt hoặc bắt đầu lượt ở đó, nó phải cứu nguy Khéo léo. Thất bại chịu 6d10 sát thương chém; thành công chịu một nửa.
+Khi sinh vật vào vùng tường lần đầu trong một lượt hoặc bắt đầu lượt ở đó, nó phải cứu nguy Khéo léo. Thất bại chịu 6d10 [sát thương chém](99-glossary.md#damage-types); thành công chịu một nửa.
 
 ### Ban phước (Bless)
 
@@ -392,7 +392,7 @@ Khi sinh vật vào vùng tường lần đầu trong một lượt hoặc bắt
 **Thành phần:** V, S, M (một ít nước thánh vẩy ra).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn ban phước cho tối đa ba sinh vật tự chọn trong tầm. Mỗi khi mục tiêu tung tấn công hoặc cứu nguy trước khi phép kết thúc, nó có thể tung d4 và cộng kết quả vào lần tung tấn công hoặc cứu nguy.
+Bạn ban phước cho tối đa ba sinh vật tự chọn trong tầm. Mỗi khi mục tiêu [tung tấn công](99-glossary.md#attack-roll) hoặc cứu nguy trước khi phép kết thúc, nó có thể tung d4 và cộng kết quả vào lần tung tấn công hoặc cứu nguy.
 
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, có thể nhắm thêm một sinh vật cho mỗi bậc ô vượt bậc 1.
 
@@ -471,7 +471,7 @@ Bạn thử mê hoặc một sinh vật dạng người nhìn thấy trong tầm
 **Thành phần:** V.  
 **Thời lượng:** 1 vòng.
 
-Bạn nói mệnh lệnh một từ với sinh vật nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không làm theo trong lượt tiếp theo. Phép không ảnh hưởng nếu mục tiêu là xác sống, không hiểu ngôn ngữ của bạn hoặc mệnh lệnh trực tiếp gây hại cho nó.
+Bạn nói mệnh lệnh một từ với sinh vật nhìn thấy trong tầm. Mục tiêu phải thành công cứu nguy Minh triết, nếu không làm theo trong lượt tiếp theo. Phép không ảnh hưởng nếu mục tiêu là [xác sống](99-glossary.md#undead), không hiểu ngôn ngữ của bạn hoặc mệnh lệnh trực tiếp gây hại cho nó.
 
 Dưới đây là mệnh lệnh điển hình và hiệu quả. Bạn có thể ra lệnh khác; khi đó DM xác định mục tiêu hành xử thế nào. Nếu mục tiêu không thể làm theo, phép kết thúc.
 
@@ -524,7 +524,7 @@ Phép không giải mã thông điệp bí mật trong văn bản hoặc ký hi�
 **Thành phần:** V, S, M (hình nón nhỏ bằng tinh thể hoặc thủy tinh).  
 **Thời lượng:** Tức thời.
 
-Luồng khí lạnh bùng từ tay bạn. Mỗi sinh vật trong hình nón 60 feet phải cứu nguy Thể chất. Thất bại chịu 8d8 sát thương lạnh; thành công chịu một nửa.
+Luồng khí lạnh bùng từ tay bạn. Mỗi sinh vật trong hình nón 60 feet phải cứu nguy [Thể chất](99-glossary.md#constitution). Thất bại chịu 8d8 sát thương lạnh; thành công chịu một nửa.
 
 Sinh vật bị phép giết trở thành tượng đông cứng đến khi tan băng.
 
@@ -539,7 +539,7 @@ Sinh vật bị phép giết trở thành tượng đông cứng đến khi tan 
 **Thành phần:** S.  
 **Thời lượng:** Tức thời.
 
-Bạn thử ngắt sinh vật đang thi triển phép. Nếu nó thi triển phép bậc 3 trở xuống, phép thất bại và không có hiệu quả. Nếu thi triển phép bậc 4 trở lên, thực hiện kiểm tra thuộc tính dùng thuộc tính thi triển phép của bạn, DC bằng 10 + bậc phép. Thành công khiến phép của sinh vật thất bại, không có hiệu quả.
+Bạn thử ngắt sinh vật đang thi triển phép. Nếu nó thi triển phép bậc 3 trở xuống, phép thất bại và không có hiệu quả. Nếu thi triển phép bậc 4 trở lên, thực hiện kiểm tra thuộc tính dùng thuộc tính thi triển phép của bạn, DC bằng 10 + [bậc phép](99-glossary.md#spell-level). Thành công khiến phép của sinh vật thất bại, không có hiệu quả.
 
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 4 trở lên, phép bị ngắt không có hiệu quả nếu bậc của nó bằng hoặc thấp hơn bậc ô bạn dùng.
 
@@ -552,7 +552,7 @@ Bạn thử ngắt sinh vật đang thi triển phép. Nếu nó thi triển ph�
 **Thành phần:** V, S.  
 **Thời lượng:** Tức thời.
 
-Sinh vật bạn chạm hồi điểm sinh lực bằng 1d8 + hệ số thuộc tính thi triển phép của bạn. Phép không ảnh hưởng xác sống hoặc cấu thể (construct).
+Sinh vật bạn chạm hồi điểm sinh lực bằng 1d8 + [hệ số thuộc tính](99-glossary.md#modifier) thi triển phép của bạn. Phép không ảnh hưởng xác sống hoặc [cấu thể](99-glossary.md#construct) (construct).
 
 **Ở bậc cao hơn.** Khi dùng ô phép bậc 2 trở lên, chữa lành tăng 1d8 cho mỗi bậc ô vượt bậc 1.
 
@@ -571,7 +571,7 @@ Sinh vật bạn chạm hồi điểm sinh lực bằng 1d8 + hệ số thuộc 
 
 Bạn tạo tối đa bốn ánh sáng cỡ đuốc trong tầm, trông như đuốc, đèn lồng hoặc cầu sáng lơ lửng suốt thời lượng. Bạn cũng có thể kết hợp bốn ánh sáng thành một hình phát sáng hơi giống sinh vật dạng người, kích cỡ Trung bình. Dù chọn dạng nào, mỗi ánh sáng chiếu sáng yếu trong bán kính 10 feet.
 
-Bằng hành động phụ trong lượt, bạn có thể di chuyển ánh sáng tối đa 60 feet đến vị trí mới trong tầm. Một ánh sáng phải cách một ánh sáng khác do phép tạo không quá 20 feet; ánh sáng biến mất nếu vượt tầm phép.
+Bằng [hành động phụ](99-glossary.md#action) trong lượt, bạn có thể di chuyển ánh sáng tối đa 60 feet đến vị trí mới trong tầm. Một ánh sáng phải cách một ánh sáng khác do phép tạo không quá 20 feet; ánh sáng biến mất nếu vượt tầm phép.
 
 ### Bóng tối (Darkness)
 
@@ -667,7 +667,7 @@ Bạn khiến mình, gồm quần áo, giáp, vũ khí và đồ khác trên ng�
 
 Thay đổi không đứng vững trước kiểm tra bằng tiếp xúc. Ví dụ, nếu thêm mũ vào trang phục bằng phép, đồ vật xuyên qua mũ và người chạm không cảm thấy gì hoặc cảm thấy đầu cùng tóc của bạn. Nếu trông gầy hơn thực tế, tay người với ra chạm sẽ đụng bạn khi có vẻ vẫn ở giữa không khí.
 
-Để nhận biết bạn cải dạng, sinh vật có thể dùng hành động kiểm tra vẻ ngoài và phải thành công kiểm tra Trí tuệ (Điều tra) chống DC cứu nguy phép của bạn.
+Để nhận biết bạn cải dạng, sinh vật có thể dùng hành động kiểm tra vẻ ngoài và phải thành công kiểm tra [Trí tuệ](99-glossary.md#intelligence) (Điều tra) chống DC cứu nguy phép của bạn.
 
 ### Phân rã (Disintegrate)
 
@@ -710,7 +710,7 @@ Chọn một sinh vật, đồ vật hoặc hiệu ứng ma thuật trong tầm.
 **Thành phần:** V, S, M (hương và lễ vật hiến tế phù hợp tôn giáo, tổng giá ít nhất 25 gp, bị phép tiêu thụ).  
 **Thời lượng:** Tức thời.
 
-Ma thuật cùng lễ vật giúp bạn liên hệ thần hoặc tôi tớ của thần. Bạn hỏi một câu về mục tiêu, sự kiện hoặc hoạt động cụ thể sẽ xảy ra trong 7 ngày. DM trả lời thật, có thể bằng cụm từ ngắn, câu vần bí ẩn hoặc điềm báo.
+Ma thuật cùng lễ vật giúp bạn liên [hệ thần](99-glossary.md#pantheon) hoặc tôi tớ của thần. Bạn hỏi một câu về mục tiêu, sự kiện hoặc hoạt động cụ thể sẽ xảy ra trong 7 ngày. DM trả lời thật, có thể bằng cụm từ ngắn, câu vần bí ẩn hoặc điềm báo.
 
 Phép không tính hoàn cảnh có thể thay đổi kết quả, như thi triển thêm phép hoặc mất hay có thêm bạn đồng hành.
 
@@ -763,7 +763,7 @@ Mỗi khi chịu sát thương, mục tiêu cứu nguy Minh triết lại chốn
 **Thành phần:** V, S, M (một nắm cát, chút mực và bút lông lấy từ chim đang ngủ).  
 **Thời lượng:** 8 giờ.
 
-Phép định hình giấc mơ sinh vật. Chọn sinh vật bạn biết làm mục tiêu; nó phải cùng cõi tồn tại. Sinh vật không ngủ, như elf, không thể được liên hệ. Bạn hoặc sinh vật sẵn lòng được bạn chạm vào trạng thái xuất thần, làm người đưa tin. Khi xuất thần, người đưa tin nhận biết xung quanh nhưng không thể hành động hay di chuyển.
+Phép định hình giấc mơ sinh vật. Chọn sinh vật bạn biết làm mục tiêu; nó phải cùng cõi tồn tại. Sinh vật không ngủ, như [elf](99-glossary.md#elf), không thể được liên hệ. Bạn hoặc sinh vật sẵn lòng được bạn chạm vào trạng thái xuất thần, làm người đưa tin. Khi xuất thần, người đưa tin nhận biết xung quanh nhưng không thể hành động hay di chuyển.
 
 Nếu mục tiêu ngủ, người đưa tin xuất hiện trong mơ và trò chuyện chừng nào nó còn ngủ, trong thời lượng phép. Người đưa tin cũng có thể định hình môi trường mơ, tạo phong cảnh, đồ vật và hình ảnh khác. Người đưa tin có thể thoát xuất thần bất cứ lúc nào, chấm dứt hiệu ứng sớm. Mục tiêu nhớ hoàn hảo giấc mơ khi tỉnh. Nếu mục tiêu thức khi thi triển, người đưa tin biết và có thể kết thúc xuất thần cùng phép hoặc chờ nó ngủ, rồi xuất hiện trong mơ.
 
@@ -796,7 +796,7 @@ Phép có thể có hiệu ứng thêm tùy địa hình, do DM quyết định.
 
 Khe mở dưới công trình khiến công trình tự động sụp, xem dưới đây.
 
-**Công trình.** Chấn động gây 50 sát thương đập cho mọi công trình tiếp xúc đất trong vùng khi thi triển và đầu mỗi lượt của bạn đến khi phép kết thúc. Nếu công trình giảm xuống 0 điểm sinh lực, nó sụp và có thể gây hại sinh vật gần đó. Sinh vật cách công trình không quá nửa chiều cao công trình phải cứu nguy Khéo léo. Thất bại chịu 5d6 sát thương đập, ngã sấp và bị vùi dưới gạch đá; cần dùng hành động kiểm tra Sức mạnh (Điền kinh) DC 20 để thoát. DM có thể tăng hoặc giảm DC tùy gạch đá. Thành công chịu nửa sát thương, không ngã sấp và không bị vùi.
+**Công trình.** Chấn động gây 50 sát thương đập cho mọi công trình tiếp xúc đất trong vùng khi thi triển và đầu mỗi lượt của bạn đến khi phép kết thúc. Nếu công trình giảm xuống 0 điểm sinh lực, nó sụp và có thể gây hại sinh vật gần đó. Sinh vật cách công trình không quá nửa chiều cao công trình phải cứu nguy Khéo léo. Thất bại chịu 5d6 sát thương đập, ngã sấp và bị vùi dưới gạch đá; cần dùng hành động kiểm tra [Sức mạnh](99-glossary.md#strength) (Điền kinh) DC 20 để thoát. DM có thể tăng hoặc giảm DC tùy gạch đá. Thành công chịu nửa sát thương, không ngã sấp và không bị vùi.
 
 ### Hóa Ethereal (Etherealness)
 
@@ -989,7 +989,7 @@ Mục tiêu cũng có thể dùng 5 feet di chuyển để tự động thoát k
 **Thành phần:** V, S, M (kim cương trị giá ít nhất 5.000 gp).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Bạn tạo cổng nối không gian trống nhìn thấy trong tầm với địa điểm chính xác ở cõi tồn tại khác. Cổng là lỗ tròn đường kính 5 đến 20 feet, tùy bạn. Có thể định hướng bất kỳ. Cổng tồn tại suốt thời lượng.
+Bạn tạo cổng nối không gian trống nhìn thấy trong [tầm với](99-glossary.md#reach) địa điểm chính xác ở cõi tồn tại khác. Cổng là lỗ tròn đường kính 5 đến 20 feet, tùy bạn. Có thể định hướng bất kỳ. Cổng tồn tại suốt thời lượng.
 
 Cổng có mặt trước và sau trên mỗi cõi nó xuất hiện. Chỉ có thể đi qua mặt trước. Bất kỳ thứ gì làm vậy lập tức được chuyển đến cõi kia, xuất hiện trong không gian trống gần cổng nhất.
 
@@ -1039,8 +1039,8 @@ Bạn hoặc sinh vật chạm vào trở nên vô hình đến khi phép kết 
 Bạn truyền năng lượng tích cực vào sinh vật chạm để khắc phục hiệu ứng suy nhược. Có thể giảm một mức kiệt sức hoặc chấm dứt một hiệu ứng sau:
 
 - Một hiệu ứng mê hoặc hoặc hóa đá mục tiêu.
-- Một lời nguyền, gồm sự hòa hợp (attunement) với vật phẩm ma thuật bị nguyền.
-- Mọi mức giảm của một điểm thuộc tính của mục tiêu.
+- Một lời nguyền, gồm sự [hòa hợp](99-glossary.md#attunement) (attunement) với vật phẩm ma thuật bị nguyền.
+- Mọi mức giảm của một [điểm thuộc tính](99-glossary.md#ability-score) của mục tiêu.
 - Một hiệu ứng giảm điểm sinh lực tối đa.
 
 ### Hộ vệ đức tin (Guardian of Faith)
@@ -1052,7 +1052,7 @@ Bạn truyền năng lượng tích cực vào sinh vật chạm để khắc ph
 **Thành phần:** V.  
 **Thời lượng:** 8 giờ.
 
-Hộ vệ linh ảnh kích cỡ Lớn xuất hiện, lơ lửng suốt thời lượng tại không gian trống chọn và nhìn thấy trong tầm. Nó chiếm không gian ấy, hình dạng mờ trừ kiếm sáng và khiên mang biểu tượng vị thần của bạn.
+Hộ vệ linh ảnh kích cỡ Lớn xuất hiện, lơ lửng suốt thời lượng tại không gian trống chọn và nhìn thấy trong tầm. Nó chiếm không gian ấy, hình dạng mờ trừ kiếm sáng và [khiên](99-glossary.md#shield) mang biểu tượng vị thần của bạn.
 
 Sinh vật thù địch với bạn di chuyển đến không gian trong 10 feet của hộ vệ lần đầu trong một lượt phải cứu nguy Khéo léo. Thất bại chịu 20 sát thương quang năng; thành công chịu một nửa. Hộ vệ biến mất khi đã gây tổng 60 sát thương.
 
@@ -1165,7 +1165,7 @@ Chọn sinh vật dạng người nhìn thấy trong tầm. Mục tiêu phải t
 **Thành phần:** V, S, M (hộp thánh tích rất nhỏ trị giá ít nhất 1.000 gp, chứa thánh tích như mảnh áo thánh nhân hoặc giấy da từ kinh văn).  
 **Thời lượng:** Tập trung, tối đa 1 phút.
 
-Ánh sáng thần thánh tràn từ bạn, cô thành ánh dịu trong bán kính 30 feet. Sinh vật tự chọn trong bán kính khi thi triển chiếu sáng yếu bán kính 5 feet và có lợi thế mọi cứu nguy; sinh vật khác có bất lợi khi tung tấn công chúng đến khi phép kết thúc. Ngoài ra, khi fiend hoặc xác sống đánh trúng sinh vật chịu phép bằng đòn cận chiến, hào quang lóe sáng rực. Kẻ tấn công phải thành công cứu nguy Thể chất hoặc mù đến khi phép kết thúc.
+Ánh sáng thần thánh tràn từ bạn, cô thành ánh dịu trong bán kính 30 feet. Sinh vật tự chọn trong bán kính khi thi triển chiếu sáng yếu bán kính 5 feet và có lợi thế mọi cứu nguy; sinh vật khác có bất lợi khi tung tấn công chúng đến khi phép kết thúc. Ngoài ra, khi [fiend](99-glossary.md#fiend) hoặc xác sống đánh trúng sinh vật chịu phép bằng đòn cận chiến, hào quang lóe sáng rực. Kẻ tấn công phải thành công cứu nguy Thể chất hoặc mù đến khi phép kết thúc.
 
 ### Bão băng (Ice Storm)
 
@@ -1342,7 +1342,7 @@ Sét đốt đồ dễ cháy trong vùng không được mặc hoặc mang.
 
 Mô tả hoặc gọi tên sinh vật quen thuộc. Bạn cảm nhận hướng vị trí của nó nếu nó trong 1.000 feet. Nếu nó di chuyển, bạn biết hướng di chuyển.
 
-Phép định vị sinh vật cụ thể bạn biết hoặc sinh vật gần nhất thuộc loại cụ thể, như người hoặc kỳ lân, miễn bạn đã nhìn loại sinh vật ấy gần, trong 30 feet, ít nhất một lần. Nếu sinh vật mô tả hoặc gọi tên ở dạng khác, như chịu *polymorph*, phép không định vị nó.
+Phép định vị sinh vật cụ thể bạn biết hoặc sinh vật gần nhất thuộc loại cụ thể, như người hoặc kỳ lân, miễn bạn đã nhìn [loại sinh vật](99-glossary.md#creature-type) ấy gần, trong 30 feet, ít nhất một lần. Nếu sinh vật mô tả hoặc gọi tên ở dạng khác, như chịu *polymorph*, phép không định vị nó.
 
 Phép không định vị nếu dòng nước chảy rộng ít nhất 10 feet chặn đường trực tiếp giữa bạn và sinh vật.
 
@@ -1941,7 +1941,7 @@ Vũ khí có dạng tùy chọn. Giáo sĩ của thần gắn với vũ khí c�
 **Thành phần:** V, S, M (bụi kim cương trị giá 100 gp, bị phép tiêu thụ).  
 **Thời lượng:** Tập trung, tối đa 1 giờ.
 
-Phép khiến da thịt sinh vật sẵn lòng bạn chạm cứng như đá. Đến khi phép kết thúc, mục tiêu kháng sát thương đập, đâm và chém không ma thuật.
+Phép khiến da thịt sinh vật sẵn lòng bạn chạm cứng như đá. Đến khi phép kết thúc, mục tiêu [kháng sát thương](99-glossary.md#resistance-immunity) đập, đâm và chém không ma thuật.
 
 ### Gợi ý (Suggestion)
 

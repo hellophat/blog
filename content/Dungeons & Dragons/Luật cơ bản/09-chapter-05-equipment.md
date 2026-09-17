@@ -8,17 +8,17 @@ Nguồn: *D&D Basic Rules (Version 1.0), 2018*, trang 45-57.
 
 *Trang bị biến kế hoạch thành khả năng thực tế khi nhân vật bước vào hành trình. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Chợ của một thành phố lớn đông đúc đủ loại người mua và người bán: thợ rèn người lùn, thợ chạm gỗ elf, nông dân halfling, thợ kim hoàn gnome, chưa kể những con người với đủ vóc dáng, kích thước và màu da đến từ nhiều quốc gia và văn hóa. Ở những thành phố lớn nhất, gần như mọi thứ có thể tưởng tượng đều được bán, từ gia vị kỳ lạ và quần áo xa xỉ đến giỏ đan và những thanh kiếm thực dụng.
+Chợ của một thành phố lớn đông đúc đủ loại người mua và người bán: thợ rèn [người lùn](99-glossary.md#dwarf), thợ chạm gỗ [elf](99-glossary.md#elf), nông dân [halfling](99-glossary.md#halfling), thợ kim hoàn [gnome](99-glossary.md#gnome), chưa kể những [con người](99-glossary.md#human) với đủ vóc dáng, kích thước và màu da đến từ nhiều quốc gia và văn hóa. Ở những thành phố lớn nhất, gần như mọi thứ có thể tưởng tượng đều được bán, từ gia vị kỳ lạ và quần áo xa xỉ đến giỏ đan và những thanh kiếm thực dụng.
 
-Đối với nhà phiêu lưu, việc có giáp, vũ khí, ba lô, dây thừng và những hàng hóa tương tự là vô cùng quan trọng, vì trang bị phù hợp có thể quyết định sống chết trong hầm ngục hoặc vùng hoang dã chưa thuần phục. Chương này trình bày những hàng hóa thông thường và kỳ lạ mà nhà phiêu lưu thường thấy hữu ích khi đối mặt các mối đe dọa trong thế giới D&D.
+Đối với [nhà phiêu lưu](99-glossary.md#adventurer), việc có giáp, vũ khí, ba lô, dây thừng và những hàng hóa tương tự là vô cùng quan trọng, vì trang bị phù hợp có thể quyết định sống chết trong hầm ngục hoặc vùng hoang dã chưa thuần phục. Chương này trình bày những hàng hóa thông thường và kỳ lạ mà nhà phiêu lưu thường thấy hữu ích khi đối mặt các mối đe dọa trong thế giới D&D.
 
 ## Trang bị khởi đầu và của cải
 
 ![Một thương nhân định giá tiền xu đá quý và kho báu cho nhà phiêu lưu](assets/chapter-05-wealth-treasure.png)
 
-*Tiền xu và kho báu cung cấp phương tiện mua sắm, trao đổi và chuẩn bị cho cuộc phiêu lưu tiếp theo. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
+*Tiền xu và kho báu cung cấp phương tiện mua sắm, trao đổi và chuẩn bị cho [cuộc phiêu lưu](99-glossary.md#adventure) tiếp theo. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Khi tạo nhân vật, bạn nhận trang bị dựa trên sự kết hợp giữa lớp và xuất thân. Thay vào đó, bạn có thể bắt đầu với số đồng vàng tùy lớp rồi mua các món trong danh sách của chương này. Xem bảng Tiền khởi đầu theo lớp để biết số vàng được tiêu.
+Khi tạo nhân vật, bạn nhận trang bị dựa trên sự kết hợp giữa lớp và [xuất thân](99-glossary.md#background). Thay vào đó, bạn có thể bắt đầu với số [đồng vàng](99-glossary.md#gold-piece) tùy lớp rồi mua các món trong danh sách của chương này. Xem bảng Tiền khởi đầu theo lớp để biết số vàng được tiêu.
 
 Bạn quyết định nhân vật có trang bị khởi đầu bằng cách nào. Chúng có thể là tài sản thừa kế hoặc hàng hóa đã mua trong thời gian trưởng thành. Bạn có thể được cấp vũ khí, giáp và ba lô khi phục vụ quân đội, hoặc thậm chí đã trộm trang bị. Một vũ khí có thể là bảo vật gia đình truyền qua nhiều thế hệ, cho đến khi nhân vật cuối cùng tiếp nhận vai trò và theo bước phiêu lưu của tổ tiên.
 
@@ -35,7 +35,7 @@ Của cải có thể là tiền, đá quý, hàng trao đổi, tác phẩm ngh�
 
 Tiền xu thông dụng có nhiều mệnh giá tùy giá trị tương đối của kim loại đúc tiền. Ba loại phổ biến nhất là đồng vàng (**gp**), đồng bạc (**sp**) và đồng đồng (**cp**).
 
-Một đồng vàng mua được túi ngủ, 50 feet dây thừng tốt hoặc một con dê. Thợ thủ công lành nghề nhưng không xuất chúng kiếm được một đồng vàng mỗi ngày. Đồng vàng là đơn vị tiêu chuẩn đo của cải, ngay cả khi bản thân tiền vàng không thường được dùng. Khi thương nhân bàn những giao dịch hàng hóa hoặc dịch vụ trị giá hàng trăm hay hàng nghìn đồng vàng, thường không có việc trao từng đồng xu. Vàng là đơn vị đo giá trị; vật được trao thực tế là thỏi vàng, thư tín dụng hoặc hàng hóa có giá.
+Một đồng vàng mua được túi ngủ, 50 [feet](99-glossary.md#feet) dây thừng tốt hoặc một con dê. Thợ thủ công lành nghề nhưng không xuất chúng kiếm được một đồng vàng mỗi ngày. Đồng vàng là đơn vị tiêu chuẩn đo của cải, ngay cả khi bản thân tiền vàng không thường được dùng. Khi thương nhân bàn những giao dịch hàng hóa hoặc dịch vụ trị giá hàng trăm hay hàng nghìn đồng vàng, thường không có việc trao từng đồng xu. Vàng là đơn vị đo giá trị; vật được trao thực tế là thỏi vàng, thư tín dụng hoặc hàng hóa có giá.
 
 Một đồng vàng bằng mười đồng bạc, loại tiền phổ biến nhất trong dân thường. Một đồng bạc trả được nửa ngày lao động, một bình dầu đèn hoặc một đêm nghỉ tại quán trọ nghèo.
 
@@ -57,25 +57,25 @@ Một đồng xu tiêu chuẩn nặng khoảng một phần ba ounce, nên 50 đ
 
 Hầm ngục bạn khám phá có nhiều cơ hội tìm kho báu, trang bị, vũ khí, giáp và những thứ khác. Thông thường, khi về thị trấn hoặc khu định cư khác, bạn có thể bán kho báu và đồ lặt vặt, miễn tìm được người mua và thương nhân quan tâm đến chiến lợi phẩm.
 
-**Vũ khí, giáp và trang bị khác.** Theo nguyên tắc chung, vũ khí, giáp và trang bị không hư hại bán ở chợ được nửa giá mua. Vũ khí và giáp do quái vật dùng hiếm khi đủ tốt để bán.
+**Vũ khí, giáp và trang bị khác.** Theo nguyên tắc chung, vũ khí, giáp và trang bị không hư hại bán ở chợ được nửa giá mua. Vũ khí và giáp do [quái vật](99-glossary.md#monster) dùng hiếm khi đủ tốt để bán.
 
-**Vật phẩm ma thuật.** Bán chúng là việc khó. Tìm người mua thuốc hoặc cuộn phép không quá khó, nhưng những món khác nằm ngoài khả năng của hầu hết mọi người, trừ những quý tộc giàu nhất. Tương tự, ngoài một vài vật phẩm ma thuật thông dụng, bạn thường không gặp vật phẩm ma thuật hoặc phép để mua. Giá trị của ma thuật vượt xa tiền vàng đơn thuần và luôn phải được đối xử như vậy.
+**Vật phẩm ma thuật.** Bán chúng là việc khó. Tìm người mua thuốc hoặc [cuộn phép](99-glossary.md#spell-scroll) không quá khó, nhưng những món khác nằm ngoài khả năng của hầu hết mọi người, trừ những quý tộc giàu nhất. Tương tự, ngoài một vài [vật phẩm ma thuật](99-glossary.md#magic-item) thông dụng, bạn thường không gặp vật phẩm ma thuật hoặc phép để mua. Giá trị của ma thuật vượt xa tiền vàng đơn thuần và luôn phải được đối xử như vậy.
 
 **Đá quý, trang sức và tác phẩm nghệ thuật.** Những món này giữ nguyên giá trị trên thị trường; bạn có thể đổi lấy tiền hoặc dùng làm tiền trong giao dịch khác. Với kho báu đặc biệt có giá trị, DM có thể yêu cầu trước tiên tìm người mua tại thị trấn lớn hoặc cộng đồng lớn hơn.
 
 **Hàng trao đổi.** Ở vùng biên, nhiều người giao dịch bằng đổi chác. Như đá quý và đồ nghệ thuật, hàng trao đổi — thỏi sắt, túi muối, gia súc, v.v. — giữ nguyên giá trị tại chợ và có thể dùng làm tiền.
 
-## Giáp và khiên
+## Giáp và [khiên](99-glossary.md#shield)
 
 ![Ba nhà phiêu lưu mặc giáp nhẹ giáp trung bình và giáp nặng](assets/chapter-05-armor-shields.png)
 
 *Các loại giáp và khiên cân bằng khả năng bảo vệ, sự linh hoạt và yêu cầu thể chất. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Các thế giới D&D là một tấm thảm rộng lớn dệt từ nhiều nền văn hóa, mỗi nền có trình độ công nghệ riêng. Vì vậy, nhà phiêu lưu có nhiều loại giáp, từ giáp da đến giáp xích và giáp tấm đắt tiền, cùng những loại ở giữa. Bảng Giáp tập hợp các loại thường có nhất, chia thành giáp nhẹ, trung bình và nặng. Nhiều chiến binh dùng thêm khiên. Bảng cho biết giá, khối lượng và các thuộc tính khác của những loại giáp thông dụng trong thế giới D&D.
+Các thế giới D&D là một tấm thảm rộng lớn dệt từ nhiều nền văn hóa, mỗi nền có trình độ công nghệ riêng. Vì vậy, nhà phiêu lưu có nhiều loại giáp, từ giáp da đến [giáp xích](99-glossary.md#chain-mail) và [giáp tấm](99-glossary.md#plate-armor) đắt tiền, cùng những loại ở giữa. Bảng Giáp tập hợp các loại thường có nhất, chia thành [giáp nhẹ](99-glossary.md#armor), trung bình và nặng. Nhiều [chiến binh](99-glossary.md#fighter) dùng thêm khiên. Bảng cho biết giá, khối lượng và các thuộc tính khác của những loại giáp thông dụng trong thế giới D&D.
 
-**Thành thạo giáp (Armor Proficiency).** Ai cũng có thể mặc giáp hoặc buộc khiên vào tay, nhưng chỉ người thành thạo mới biết dùng hiệu quả. Lớp của bạn cho thành thạo một số loại giáp. Nếu mặc giáp không thành thạo, bạn có bất lợi đối với mọi kiểm tra thuộc tính, cứu nguy hoặc lần tung tấn công liên quan đến Sức mạnh hoặc Khéo léo, và không thể thi triển phép.
+**Thành thạo giáp (Armor Proficiency).** Ai cũng có thể mặc giáp hoặc buộc khiên vào tay, nhưng chỉ người thành thạo mới biết dùng hiệu quả. Lớp của bạn cho thành thạo một số loại giáp. Nếu mặc giáp không thành thạo, bạn có bất lợi đối với mọi kiểm tra thuộc tính, [cứu nguy](99-glossary.md#saving-throw) hoặc lần [tung tấn công](99-glossary.md#attack-roll) liên quan đến [Sức mạnh](99-glossary.md#strength) hoặc [Khéo léo](99-glossary.md#dexterity), và không thể [thi triển phép](99-glossary.md#spellcasting).
 
-**Lớp Giáp (Armor Class, AC).** Giáp bảo vệ người mặc trước tấn công. Giáp và khiên bạn dùng xác định AC cơ sở.
+**Lớp Giáp ([Armor Class](99-glossary.md#armor-class), AC).** Giáp bảo vệ người mặc trước tấn công. Giáp và khiên bạn dùng xác định AC cơ sở.
 
 **Giáp nặng (Heavy Armor).** Giáp nặng cản trở khả năng di chuyển nhanh, lén lút và tự do. Nếu cột Sức mạnh ghi Str 13 hoặc Str 15, giáp giảm tốc độ người mặc 10 feet, trừ khi điểm Sức mạnh ít nhất bằng số ghi trong bảng.
 
@@ -151,7 +151,7 @@ Thời gian mặc hoặc tháo giáp, khiên được ghi trong bảng. **Mặc:
 
 ### Biến thể: Kích cỡ trang bị
 
-Trong phần lớn chiến dịch, bạn có thể dùng hoặc mặc trang bị tìm thấy khi phiêu lưu, trong giới hạn hợp lý. Ví dụ, một half-orc vạm vỡ không thể mặc giáp da halfling, còn gnome sẽ lọt thỏm trong áo choàng thanh lịch của khổng lồ mây.
+Trong phần lớn [chiến dịch](99-glossary.md#campaign), bạn có thể dùng hoặc mặc trang bị tìm thấy khi phiêu lưu, trong giới hạn hợp lý. Ví dụ, một [half-orc](99-glossary.md#half-orc) vạm vỡ không thể mặc giáp da halfling, còn gnome sẽ lọt thỏm trong áo choàng thanh lịch của khổng lồ mây.
 
 DM có thể yêu cầu tính thực tế cao hơn. Ví dụ, giáp tấm làm cho một người có thể không vừa người khác nếu không chỉnh sửa đáng kể; đồng phục lính gác có thể rõ ràng không vừa khi nhà phiêu lưu dùng cải trang.
 
@@ -169,9 +169,9 @@ Bảng Vũ khí liệt kê những vũ khí thông dụng nhất trong thế gi�
 
 ### Thành thạo vũ khí (Weapon Proficiency)
 
-Chủng tộc, lớp và chiến công có thể cho thành thạo một số vũ khí hoặc nhóm vũ khí. Hai nhóm là đơn giản và võ thuật. Phần lớn mọi người có thể dùng thành thạo vũ khí đơn giản, gồm gậy, chùy và các vũ khí thường nằm trong tay dân thường. Vũ khí võ thuật, gồm kiếm, rìu và vũ khí cán dài, cần đào tạo chuyên biệt hơn để dùng hiệu quả. Phần lớn chiến binh dùng chúng vì tận dụng tốt nhất phong cách chiến đấu và quá trình đào tạo.
+Chủng tộc, lớp và [kỳ tài](99-glossary.md#feat) có thể cho thành thạo một số vũ khí hoặc nhóm vũ khí. Hai nhóm là đơn giản và võ thuật. Phần lớn mọi người có thể dùng thành thạo vũ khí đơn giản, gồm gậy, chùy và các vũ khí thường nằm trong tay dân thường. Vũ khí võ thuật, gồm kiếm, rìu và vũ khí cán dài, cần đào tạo chuyên biệt hơn để dùng hiệu quả. Phần lớn chiến binh dùng chúng vì tận dụng tốt nhất phong cách chiến đấu và quá trình đào tạo.
 
-Thành thạo vũ khí cho phép cộng thưởng thành thạo vào lần tung tấn công của mọi đòn thực hiện bằng nó. Nếu tấn công bằng vũ khí không thành thạo, không cộng thưởng thành thạo vào lần tung tấn công.
+Thành thạo vũ khí cho phép cộng [thưởng thành thạo](99-glossary.md#proficiency) vào lần tung tấn công của mọi đòn thực hiện bằng nó. Nếu tấn công bằng vũ khí không thành thạo, không cộng thưởng thành thạo vào lần tung tấn công.
 
 | Vũ khí | Giá | Sát thương | Nặng | Thuộc tính |
 | --- | --- | --- | --- | --- |
@@ -223,29 +223,29 @@ Nhiều vũ khí có những thuộc tính đặc biệt liên quan đến cách
 
 **Đạn dược (Ammunition).** Bạn chỉ dùng vũ khí có thuộc tính này để tấn công tầm xa nếu có đạn để bắn. Mỗi lần tấn công tiêu một viên đạn. Rút đạn từ bao tên, hộp hoặc đồ đựng khác là một phần của đòn tấn công; cần một tay trống để nạp vũ khí một tay. Cuối trận, bạn có thể thu hồi nửa số đạn đã tiêu bằng cách tìm trên chiến trường trong một phút. Nếu dùng vũ khí này để tấn công cận chiến, coi nó là vũ khí ứng biến. Ná phải được nạp đạn mới gây sát thương khi dùng như vậy.
 
-**Tinh xảo (Finesse).** Khi tấn công bằng vũ khí tinh xảo, chọn dùng hệ số Sức mạnh hoặc Khéo léo cho cả lần tung tấn công và sát thương. Phải dùng cùng hệ số cho cả hai.
+**[Tinh xảo](99-glossary.md#finesse) (Finesse).** Khi tấn công bằng vũ khí tinh xảo, chọn dùng hệ số Sức mạnh hoặc Khéo léo cho cả lần tung tấn công và sát thương. Phải dùng cùng hệ số cho cả hai.
 
 **Nặng (Heavy).** Sinh vật Nhỏ có bất lợi khi tung tấn công bằng vũ khí nặng. Kích thước và độ cồng kềnh khiến vũ khí quá lớn để sinh vật Nhỏ dùng hiệu quả.
 
 **Nhẹ (Light).** Vũ khí nhẹ nhỏ và dễ xử lý, thích hợp cho chiến đấu bằng hai vũ khí. Xem quy tắc đánh hai vũ khí ở Chương 9.
 
-**Nạp (Loading).** Vì thời gian nạp, bạn chỉ có thể bắn một viên đạn khi dùng hành động, hành động phụ hoặc phản ứng để bắn vũ khí này, bất kể bình thường được tấn công bao nhiêu lần.
+**Nạp (Loading).** Vì thời gian nạp, bạn chỉ có thể bắn một viên đạn khi dùng hành động, [hành động phụ](99-glossary.md#action) hoặc phản ứng để bắn vũ khí này, bất kể bình thường được tấn công bao nhiêu lần.
 
 **Tầm (Range).** Vũ khí dùng tấn công tầm xa có tầm ghi trong ngoặc sau thuộc tính đạn dược hoặc ném. Số thứ nhất là tầm thường tính bằng feet, số thứ hai là tầm xa. Tấn công mục tiêu ngoài tầm thường có bất lợi khi tung tấn công. Không thể tấn công mục tiêu ngoài tầm xa.
 
-**Tầm với (Reach).** Vũ khí tăng tầm với của bạn thêm 5 feet khi tấn công bằng nó, và khi xác định tầm với cho đòn tấn công cơ hội bằng nó (xem Chương 9).
+**Tầm với (Reach).** Vũ khí tăng [tầm với](99-glossary.md#reach) của bạn thêm 5 feet khi tấn công bằng nó, và khi xác định tầm với cho đòn [tấn công cơ hội](99-glossary.md#opportunity-attack) bằng nó (xem Chương 9).
 
 **Đặc biệt (Special).** Vũ khí có những quy tắc sử dụng khác thường, giải thích trong mô tả của nó ở mục Vũ khí đặc biệt bên dưới.
 
-**Ném (Thrown).** Có thể ném vũ khí để tấn công tầm xa. Nếu là vũ khí cận chiến, dùng cùng hệ số thuộc tính cho tấn công và sát thương như khi tấn công cận chiến bằng nó. Ví dụ, ném rìu tay dùng Sức mạnh; ném dao găm có thể dùng Sức mạnh hoặc Khéo léo vì dao có thuộc tính tinh xảo.
+**Ném (Thrown).** Có thể ném vũ khí để tấn công tầm xa. Nếu là [vũ khí cận chiến](99-glossary.md#melee-ranged), dùng cùng [hệ số thuộc tính](99-glossary.md#modifier) cho tấn công và sát thương như khi tấn công cận chiến bằng nó. Ví dụ, ném rìu tay dùng Sức mạnh; ném dao găm có thể dùng Sức mạnh hoặc Khéo léo vì dao có thuộc tính tinh xảo.
 
 **Hai tay (Two-Handed).** Cần hai tay khi tấn công bằng vũ khí này.
 
-**Đa dụng (Versatile).** Có thể dùng vũ khí bằng một hoặc hai tay. Giá trị sát thương ghi trong ngoặc cùng thuộc tính là sát thương khi dùng hai tay để tấn công cận chiến.
+**[Đa dụng](99-glossary.md#versatile) (Versatile).** Có thể dùng vũ khí bằng một hoặc hai tay. Giá trị sát thương ghi trong ngoặc cùng thuộc tính là sát thương khi dùng hai tay để tấn công cận chiến.
 
 ### Vũ khí ứng biến (Improvised Weapons)
 
-Đôi khi nhân vật không có vũ khí và phải tấn công bằng bất cứ thứ gì trong tầm tay. Vũ khí ứng biến gồm bất kỳ vật nào có thể cầm bằng một hoặc hai tay, như kính vỡ, chân bàn, chảo, bánh xe hàng hoặc một goblin đã chết.
+Đôi khi nhân vật không có vũ khí và phải tấn công bằng bất cứ thứ gì trong tầm tay. Vũ khí ứng biến gồm bất kỳ vật nào có thể cầm bằng một hoặc hai tay, như kính vỡ, chân bàn, chảo, bánh xe hàng hoặc một [goblin](99-glossary.md#goblin) đã chết.
 
 Trong nhiều trường hợp, vật ứng biến giống một vũ khí thật và có thể được coi như vũ khí ấy. Ví dụ, chân bàn giống gậy. Theo quyết định của DM, nhân vật thành thạo một vũ khí có thể dùng vật tương tự như vũ khí ấy và cộng thưởng thành thạo.
 
@@ -261,7 +261,7 @@ Những vũ khí có quy tắc riêng được mô tả ở đây.
 
 **Thương kỵ (Lance).** Bạn có bất lợi khi dùng thương kỵ tấn công mục tiêu trong 5 feet. Khi không cưỡi thú, cần hai tay để sử dụng.
 
-**Lưới (Net).** Sinh vật Lớn hoặc nhỏ hơn bị lưới đánh trúng sẽ bị kiềm chế đến khi được giải thoát. Lưới không tác dụng với sinh vật không có hình dạng hoặc sinh vật Khổng lồ (Huge) trở lên. Sinh vật có thể dùng hành động kiểm tra Sức mạnh DC 10; thành công giải thoát bản thân hoặc sinh vật khác trong tầm với. Gây 5 sát thương chém vào lưới (AC 10) cũng giải thoát sinh vật mà không làm hại nó, chấm dứt hiệu ứng và phá hủy lưới. Khi dùng hành động, hành động phụ hoặc phản ứng để tấn công bằng lưới, bạn chỉ được thực hiện một đòn, bất kể bình thường được tấn công bao nhiêu lần.
+**Lưới (Net).** Sinh vật Lớn hoặc nhỏ hơn bị lưới đánh trúng sẽ bị kiềm chế đến khi được giải thoát. Lưới không tác dụng với sinh vật không có hình dạng hoặc sinh vật Khổng lồ (Huge) trở lên. Sinh vật có thể dùng hành động kiểm tra Sức mạnh [DC](99-glossary.md#difficulty-class) 10; thành công giải thoát bản thân hoặc sinh vật khác trong tầm với. Gây 5 [sát thương chém](99-glossary.md#damage-types) vào lưới (AC 10) cũng giải thoát sinh vật mà không làm hại nó, chấm dứt hiệu ứng và phá hủy lưới. Khi dùng hành động, hành động phụ hoặc phản ứng để tấn công bằng lưới, bạn chỉ được thực hiện một đòn, bất kể bình thường được tấn công bao nhiêu lần.
 
 ## Đồ phiêu lưu (Adventuring Gear)
 
@@ -282,7 +282,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 | Tên nỏ (20) | 1 gp | 1½ lb. |
 | Đạn ná (20) | 4 cp | 1½ lb. |
 | Thuốc chống độc (lọ) | 50 gp | — |
-| **Vật hội tụ huyền thuật** | | |
+| **Vật hội tụ [huyền thuật](99-glossary.md#arcane-divine)** | | |
 | Pha lê | 10 gp | 1 lb. |
 | Quả cầu | 20 gp | 3 lb. |
 | Đoản trượng (Rod) | 10 gp | 2 lb. |
@@ -313,7 +313,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 | Quần áo lữ hành | 2 gp | 4 lb. |
 | Túi thành phần phép | 25 gp | 2 lb. |
 | Xà beng | 2 gp | 5 lb. |
-| **Vật hội tụ druid** | | |
+| **Vật hội tụ [druid](99-glossary.md#druid)** | | |
 | Nhánh tầm gửi | 1 gp | — |
 | Vật tổ | 1 gp | — |
 | Trượng gỗ | 5 gp | 4 lb. |
@@ -367,7 +367,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 | Còi hiệu | 5 cp | — |
 | Nhẫn ấn | 5 gp | — |
 | Xà phòng | 2 cp | — |
-| Sách phép | 50 gp | 3 lb. |
+| [Sách phép](99-glossary.md#spellbook) | 50 gp | 3 lb. |
 | Cọc sắt (10) | 1 gp | 5 lb. |
 | Kính viễn vọng | 1.000 gp | 1 lb. |
 | Lều hai người | 2 gp | 20 lb. |
@@ -381,12 +381,12 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 - **Axit:** Bằng một hành động, bạn có thể té chất trong lọ lên một sinh vật hoặc đồ vật trong 5 feet, hoặc ném lọ đến tối đa 20 feet để lọ vỡ khi va chạm. Trong cả hai trường hợp, thực hiện một đòn tấn công tầm xa vào sinh vật hoặc đồ vật mục tiêu, coi axit là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 2d6 sát thương axit.
 - **Lửa giả kim (Alchemist’s Fire):** Chất lỏng dính này bốc cháy khi tiếp xúc không khí. Bằng một hành động, bạn có thể ném bình tối đa 20 feet; bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống một sinh vật hoặc vật thể, coi lửa giả kim là vũ khí ứng biến. Nếu trúng, mục tiêu chịu 1d4 sát thương lửa vào đầu mỗi lượt của mình. Sinh vật có thể chấm dứt sát thương bằng cách dùng hành động kiểm tra Khéo léo DC 10 để dập lửa.
-- **Thuốc chống độc:** uống để có lợi thế cứu nguy chống độc trong 1 giờ; không lợi cho xác sống/cấu thể.
-- **Tiêu điểm huyền thuật:** Đây là một vật phẩm đặc biệt — quả cầu, tinh thể, quyền trượng, gậy được chế tạo đặc biệt, vật bằng gỗ dài như đũa phép hoặc vật tương tự — được thiết kế để dẫn truyền quyền năng của phép huyền thuật. Sorcerer, warlock hoặc wizard có thể dùng vật này làm tiêu điểm thi triển phép, như mô tả ở chương 10.
+- **Thuốc chống độc:** uống để có [lợi thế](99-glossary.md#advantage) cứu nguy chống độc trong 1 giờ; không lợi cho [xác sống](99-glossary.md#undead)/[cấu thể](99-glossary.md#construct).
+- **Tiêu điểm huyền thuật:** Đây là một vật phẩm đặc biệt — quả cầu, tinh thể, quyền trượng, gậy được chế tạo đặc biệt, vật bằng gỗ dài như đũa phép hoặc vật tương tự — được thiết kế để dẫn truyền quyền năng của phép huyền thuật. Sorcerer, [warlock](99-glossary.md#warlock) hoặc wizard có thể dùng vật này làm [tiêu điểm thi triển phép](99-glossary.md#spellcasting-focus), như mô tả ở chương 10.
 - **Bi kim loại:** Bằng một hành động, bạn có thể đổ những viên bi kim loại nhỏ khỏi túi, phủ một khu vực vuông bằng phẳng có cạnh 10 feet. Sinh vật đi qua khu vực ấy phải thành công cứu nguy Khéo léo DC 10 hoặc ngã sấp. Sinh vật đi qua với nửa tốc độ không cần thực hiện cứu nguy.
 - **Bộ ròng rọc:** Gồm các ròng rọc có dây cáp luồn qua và móc để gắn vào vật, bộ này cho phép bạn kéo nâng khối lượng tối đa bằng bốn lần khối lượng bình thường mình nâng được.
 - **Sách:** Sách có thể chứa thơ, tường thuật lịch sử, thông tin về một lĩnh vực tri thức, sơ đồ và ghi chú về những máy móc của gnome, hoặc gần như bất kỳ điều gì có thể biểu đạt bằng chữ hay hình. Sách ghi phép là sách phép, được mô tả ở phần sau.
-- **Caltrop:** hành động rải một túi phủ ô 5 feet; sinh vật vào phải cứu nguy Dex DC 15, thất bại dừng và chịu 1 đâm. Đến khi hồi ít nhất 1 HP, tốc độ đi bộ giảm 10 feet. Đi nửa tốc độ không cần tung.
+- **Caltrop:** hành động rải một túi phủ ô 5 feet; sinh vật vào phải cứu nguy Dex DC 15, thất bại dừng và chịu 1 đâm. Đến khi hồi ít nhất 1 [HP](99-glossary.md#hit-points), tốc độ đi bộ giảm 10 feet. Đi nửa tốc độ không cần tung.
 - **Nến:** 1 giờ, sáng rõ 5 feet và sáng yếu thêm 5 feet.
 - **Hộp đựng tên nỏ:** Hộp gỗ này chứa được tối đa 20 tên nỏ.
 - **Ống đựng bản đồ hoặc cuộn giấy:** Ống da hình trụ này chứa được tối đa 10 tờ giấy cuộn hoặc 5 tờ giấy da cuộn.
@@ -395,7 +395,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 ### Đồ phiêu lưu: mô tả tiếp theo
 
-**Túi thành phần phép:** Một túi da nhỏ, kín nước, đeo ở thắt lưng, có các ngăn chứa mọi thành phần vật chất và vật phẩm đặc biệt khác cần để thi triển phép, ngoại trừ những thành phần có giá cụ thể được ghi trong mô tả phép.
+**Túi thành phần phép:** Một túi da nhỏ, kín nước, đeo ở thắt lưng, có các ngăn chứa mọi [thành phần vật chất](99-glossary.md#components) và vật phẩm đặc biệt khác cần để thi triển phép, ngoại trừ những thành phần có giá cụ thể được ghi trong mô tả phép.
 
 **Xà beng:** Dùng xà beng cho lợi thế trong các kiểm tra Sức mạnh mà bạn có thể tận dụng sức bẩy của nó.
 
@@ -403,11 +403,11 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Bộ câu:** Bộ này gồm cần gỗ, dây tơ, phao bần, lưỡi câu thép, chì chìm, mồi nhung và lưới hẹp.
 
-**Bộ chữa thương:** túi da có băng, thuốc mỡ, nẹp; 10 lần dùng. Dùng một lần bằng hành động để ổn định sinh vật 0 HP, không cần kiểm tra Minh triết (Y học).
+**Bộ chữa thương:** túi da có băng, thuốc mỡ, nẹp; 10 lần dùng. Dùng một lần bằng hành động để ổn định sinh vật 0 HP, không cần kiểm tra [Minh triết](99-glossary.md#wisdom) (Y học).
 
-**Thánh vật:** Vật đại diện cho một vị thần hoặc điện thần. Nó có thể là bùa mang biểu tượng đại diện cho vị thần, biểu tượng ấy được khắc hoặc khảm cẩn thận làm huy hiệu trên khiên, hoặc một hộp nhỏ chứa mảnh thánh tích. *Player’s Handbook* liệt kê nhiều vị thần trong đa vũ trụ cùng các biểu tượng điển hình của họ. Giáo sĩ hoặc thánh kỵ sĩ có thể dùng thánh vật làm tiêu điểm thi triển phép, như mô tả ở chương 10. Để dùng theo cách này, người thi triển phải cầm nó trong tay, đeo nó ở nơi nhìn thấy rõ, hoặc mang nó trên khiên.
+**Thánh vật:** Vật đại diện cho một vị thần hoặc điện thần. Nó có thể là bùa mang biểu tượng đại diện cho vị thần, biểu tượng ấy được khắc hoặc khảm cẩn thận làm huy hiệu trên khiên, hoặc một hộp nhỏ chứa mảnh thánh tích. *Player’s Handbook* liệt kê nhiều vị thần trong [đa vũ trụ](99-glossary.md#multiverse) cùng các biểu tượng điển hình của họ. Giáo sĩ hoặc [thánh kỵ sĩ](99-glossary.md#paladin) có thể dùng thánh vật làm tiêu điểm thi triển phép, như mô tả ở chương 10. Để dùng theo cách này, người thi triển phải cầm nó trong tay, đeo nó ở nơi nhìn thấy rõ, hoặc mang nó trên khiên.
 
-**Nước thánh:** hành động té trong 5 feet hoặc ném 20 feet; tấn công tầm xa như vũ khí ứng biến. Fiend hoặc xác sống bị trúng chịu **2d6 sát thương quang năng**. Giáo sĩ/thánh kỵ sĩ tạo bằng nghi thức 1 giờ, bột bạc giá 25 gp và một ô phép bậc 1.
+**Nước thánh:** hành động té trong 5 feet hoặc ném 20 feet; tấn công tầm xa như vũ khí ứng biến. Fiend hoặc xác sống bị trúng chịu **2d6 sát thương quang năng**. Giáo sĩ/thánh kỵ sĩ tạo bằng [nghi thức](99-glossary.md#ritual) 1 giờ, bột bạc giá 25 gp và một [ô phép](99-glossary.md#spell-slot) bậc 1.
 
 **Bẫy săn:** Khi bạn dùng một hành động để đặt bẫy, nó tạo thành vòng thép có răng cưa, sập lại khi một sinh vật giẫm lên bàn áp lực ở giữa. Bẫy được buộc bằng xích nặng vào một vật không di chuyển được, như cây hoặc cọc đóng xuống đất. Sinh vật giẫm lên bàn áp lực phải thành công cứu nguy Khéo léo DC 13, nếu không sẽ chịu 1d4 sát thương đâm và ngừng di chuyển. Từ đó đến khi thoát bẫy, di chuyển của nó bị giới hạn bởi chiều dài xích, thường là 3 feet. Một sinh vật có thể dùng hành động để thực hiện kiểm tra Sức mạnh DC 13; nếu thành công, nó giải thoát bản thân hoặc một sinh vật khác trong tầm với. Mỗi lần kiểm tra thất bại gây 1 sát thương đâm cho sinh vật mắc bẫy.
 
@@ -425,7 +425,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Dầu (Oil).** Dầu thường đựng trong bình đất sét chứa một pint. Bằng một hành động, bạn có thể té dầu lên sinh vật trong 5 feet hoặc ném bình tối đa 20 feet; bình vỡ khi va chạm. Thực hiện tấn công tầm xa chống sinh vật hoặc vật thể, coi dầu là vũ khí ứng biến. Nếu trúng, mục tiêu bị phủ dầu. Nếu chịu sát thương lửa trước khi dầu khô sau một phút, mục tiêu chịu thêm 5 sát thương lửa từ dầu cháy. Bạn cũng có thể đổ bình dầu xuống mặt đất để phủ khu vực vuông cạnh 5 feet nếu mặt phẳng bằng. Khi đốt, dầu cháy hai vòng, gây 5 sát thương lửa cho sinh vật vào khu vực hoặc kết thúc lượt tại đó. Mỗi sinh vật chỉ chịu sát thương này một lần mỗi lượt.
 
-**Độc cơ bản (Poison, Basic).** Độc trong lọ phủ được một vũ khí chém hoặc đâm, hoặc tối đa ba viên đạn. Bôi độc cần một hành động. Sinh vật bị vũ khí hoặc đạn tẩm độc đánh trúng phải cứu nguy Thể chất DC 10 hoặc chịu 1d4 sát thương độc. Sau khi bôi, độc còn hiệu lực một phút trước khi khô.
+**Độc cơ bản (Poison, Basic).** Độc trong lọ phủ được một vũ khí chém hoặc đâm, hoặc tối đa ba viên đạn. Bôi độc cần một hành động. Sinh vật bị vũ khí hoặc đạn tẩm độc đánh trúng phải cứu nguy [Thể chất](99-glossary.md#constitution) DC 10 hoặc chịu 1d4 sát thương độc. Sau khi bôi, độc còn hiệu lực một phút trước khi khô.
 
 **Thuốc chữa lành (Potion of Healing).** Nhân vật uống chất lỏng ma thuật màu đỏ trong lọ hồi 2d4 + 2 điểm sinh lực. Uống hoặc cho người khác uống cần một hành động.
 
@@ -467,7 +467,7 @@ Giá và khối lượng theo bảng gốc ở trang 50. Dấu — giữ nguyên
 
 **Dây thừng (Rope).** Dù làm từ gai dầu hay lụa, dây thừng có 2 điểm sinh lực và có thể bị bứt bằng kiểm tra Sức mạnh DC 17 thành công.
 
-**Sách phép (Spellbook).** Vật thiết yếu của pháp sư, là sách bìa da có 100 trang giấy da mịn trống thích hợp để ghi phép.
+**Sách phép (Spellbook).** Vật thiết yếu của [pháp sư](99-glossary.md#wizard), là sách bìa da có 100 trang giấy da mịn trống thích hợp để ghi phép.
 
 **Kính viễn vọng (Spyglass).** Vật nhìn qua kính được phóng đại lên gấp đôi kích thước.
 
@@ -501,7 +501,7 @@ Trang bị khởi đầu từ lớp của bạn có một bộ những đồ phi
 
 *Công cụ đại diện cho đào tạo chuyên môn trong nghề thủ công, nghệ thuật, điều hướng và nhiều lĩnh vực khác. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Công cụ giúp bạn làm những việc mà nếu thiếu nó bạn không thể làm, chẳng hạn chế tạo hoặc sửa một vật phẩm, làm giả giấy tờ hoặc mở khóa. Chủng tộc, lớp, xuất thân hoặc chiến công (feat) cho bạn thành thạo một số công cụ. Thành thạo một công cụ cho phép cộng thưởng thành thạo vào mọi kiểm tra thuộc tính bạn thực hiện bằng công cụ ấy. Sử dụng công cụ không gắn với một thuộc tính duy nhất, vì sự thành thạo thể hiện hiểu biết rộng hơn về cách dùng nó. Ví dụ, DM có thể yêu cầu kiểm tra Khéo léo để khắc một chi tiết tinh xảo bằng dụng cụ chạm gỗ, hoặc kiểm tra Sức mạnh để làm một vật từ loại gỗ đặc biệt cứng.
+Công cụ giúp bạn làm những việc mà nếu thiếu nó bạn không thể làm, chẳng hạn chế tạo hoặc sửa một vật phẩm, làm giả giấy tờ hoặc mở khóa. Chủng tộc, lớp, xuất thân hoặc kỳ tài (feat) cho bạn thành thạo một số công cụ. Thành thạo một công cụ cho phép cộng thưởng thành thạo vào mọi kiểm tra thuộc tính bạn thực hiện bằng công cụ ấy. Sử dụng công cụ không gắn với một thuộc tính duy nhất, vì sự thành thạo thể hiện hiểu biết rộng hơn về cách dùng nó. Ví dụ, DM có thể yêu cầu kiểm tra Khéo léo để khắc một chi tiết tinh xảo bằng dụng cụ chạm gỗ, hoặc kiểm tra Sức mạnh để làm một vật từ loại gỗ đặc biệt cứng.
 
 | Vật phẩm | Giá | Khối lượng |
 | --- | --- | --- |
@@ -527,7 +527,7 @@ Công cụ giúp bạn làm những việc mà nếu thiếu nó bạn không th
 | Bộ làm giả giấy tờ | 15 gp | 5 lb. |
 | **Bộ trò chơi** | | |
 | Bộ xúc xắc | 1 sp | — |
-| Bộ cờ rồng (Dragonchess) | 1 gp | ½ lb. |
+| Bộ cờ [rồng](99-glossary.md#dragon) (Dragonchess) | 1 gp | ½ lb. |
 | Bộ bài | 5 sp | — |
 | Bộ Three-Dragon Ante | 1 gp | — |
 | Bộ thảo dược | 5 gp | 3 lb. |
@@ -732,7 +732,7 @@ Bảng này cho biết giá từng món ăn và một đêm trọ. Các khoản 
 
 *Các dịch vụ thành thị cung cấp kỹ năng, vận chuyển, chỗ ở và hỗ trợ mà nhà phiêu lưu không tự làm được. Minh họa nguyên bản tạo bằng OpenAI ImageGen cho bản dịch này.*
 
-Nhà phiêu lưu có thể trả tiền để nhân vật không phải người chơi giúp đỡ hoặc hành động thay mình trong nhiều hoàn cảnh. Phần lớn người được thuê có kỹ năng bình thường, nhưng một số là bậc thầy nghề thủ công hoặc nghệ thuật, và vài người có kỹ năng phiêu lưu chuyên biệt.
+Nhà phiêu lưu có thể trả tiền để [nhân vật không phải người chơi](99-glossary.md#npc) giúp đỡ hoặc hành động thay mình trong nhiều hoàn cảnh. Phần lớn người được thuê có kỹ năng bình thường, nhưng một số là bậc thầy nghề thủ công hoặc nghệ thuật, và vài người có kỹ năng phiêu lưu chuyên biệt.
 
 Bảng liệt kê những loại người làm thuê cơ bản nhất. Những người làm thuê thông dụng khác bao gồm đủ loại cư dân của thị trấn hoặc thành phố điển hình, khi được trả tiền để làm một việc cụ thể. Ví dụ, pháp sư có thể thuê thợ mộc làm một chiếc rương cầu kỳ (và bản sao thu nhỏ) để dùng với phép *Leomund’s secret chest*. Chiến binh có thể đặt thợ rèn làm thanh kiếm đặc biệt. Thi sĩ có thể thuê thợ may làm quần áo tinh xảo cho buổi biểu diễn sắp tới trước công tước.
 
@@ -752,7 +752,7 @@ Người làm thuê có kỹ năng là bất kỳ ai được thuê cung cấp d
 
 ### Dịch vụ thi triển phép (Spellcasting Services)
 
-Người có khả năng thi triển phép không thuộc loại người làm thuê bình thường. Bạn có thể tìm được người chịu thi triển phép để đổi lấy tiền hoặc ân huệ, nhưng hiếm khi dễ dàng và không có mức thù lao cố định. Thông thường, bậc phép mong muốn càng cao thì người thi triển càng khó tìm và giá càng đắt.
+Người có khả năng thi triển phép không thuộc loại người làm thuê bình thường. Bạn có thể tìm được người chịu thi triển phép để đổi lấy tiền hoặc ân huệ, nhưng hiếm khi dễ dàng và không có mức thù lao cố định. Thông thường, [bậc phép](99-glossary.md#spell-level) mong muốn càng cao thì người thi triển càng khó tìm và giá càng đắt.
 
 Ở thành phố hoặc thị trấn, thuê người thi triển một phép tương đối phổ biến bậc 1 hoặc 2, như *cure wounds* hoặc *identify*, khá dễ; giá có thể từ 10 đến 50 đồng vàng, cộng chi phí mọi thành phần vật chất đắt tiền. Tìm người có khả năng và sẵn lòng thi triển phép bậc cao hơn có thể đòi hỏi đến một thành phố lớn, có lẽ nơi có đại học hoặc đền nổi tiếng. Khi tìm được, người thi triển có thể yêu cầu một dịch vụ thay tiền: việc chỉ nhà phiêu lưu có thể làm, như lấy một vật hiếm từ địa điểm nguy hiểm hoặc vượt vùng hoang dã đầy quái vật để đưa món quan trọng đến một khu định cư xa xôi.
 
@@ -832,7 +832,7 @@ Khi tạo nhân vật, bạn có thể tung d100 một lần trên bảng Đồ 
 | 58 | Chuôi kiếm gãy |
 | 59 | Bàn chân thỏ |
 | 60 | Mắt thủy tinh |
-| 61 | Vật khắc cameo hình người xấu xí |
+| 61 | Vật khắc cameo [hình người](99-glossary.md#humanoid) xấu xí |
 | 62 | Sọ bạc cỡ đồng xu |
 | 63 | Mặt nạ alabaster |
 | 64 | Kim tự tháp hương đen dính, mùi rất tệ |

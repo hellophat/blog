@@ -289,6 +289,396 @@ Nghĩa vụ biểu hiện niềm vui trong ngày lễ bằng các hình thức v
 
 Con chiên hoặc dê được giết vào chiều ngày 14 Nisan và ăn theo nhóm trong đêm mở đầu Pesach khi Đền Thờ còn hoạt động. Nó không phải mọi món thịt dùng trong bữa Seder và cũng không đồng nhất với toàn bộ lễ Pesach. Sau khi Đền Thờ bị phá hủy, người Do Thái không dâng korban Pesach; xương ống trên đĩa Seder chỉ mang tính tưởng niệm trong nhiều truyền thống.
 
+<a id="nisan"></a>
+### Nisan — נִיסָן
+
+Tháng mùa xuân được Torah gọi là “tháng thứ nhất”, thường rơi vào tháng Ba–Tư dương lịch. Pesach bắt đầu vào ngày 15 Nisan; lễ vật Pesach được giết chiều ngày 14. Tên Nisan có nguồn gốc Babylon và được dùng trong truyền thống Do Thái hậu lưu đày.
+
+<a id="pesach-sheni"></a>
+### Pesach Sheni / Pesach thứ hai — פֶּסַח שֵׁנִי
+
+Cơ hội vào ngày 14 Iyar, muộn một tháng, dành cho người không thể dâng lễ vật Pesach đúng kỳ vì ô uế do xác chết hoặc ở xa. Đây không phải một tuần lễ Vượt Qua thứ hai và không lặp lại toàn bộ luật kiêng men của Pesach chính.
+
+<a id="matzah"></a>
+### Matzah / bánh không men — מַצָּה
+
+Bánh làm từ ngũ cốc và nước, được ngăn không cho lên men theo tiêu chuẩn thời gian và chế biến của halakhah. Matzah gắn với sự vội vã của cuộc Xuất Hành và được ăn trong Pesach. Nó không đơn giản là mọi loại bánh dẹt hoặc bánh không dùng men công nghiệp.
+
+<a id="maror"></a>
+### Maror / rau đắng — מָרוֹר
+
+Rau có vị đắng dùng trong bữa Pesach để tưởng nhớ sự cay đắng của cảnh nô lệ. Truyền thống rabbi xác định một số loại rau hợp lệ; cải ngựa thường dùng tại châu Âu, còn rau diếp romaine có nền tảng cổ hơn trong danh sách rabbi. Maror không phải một món gia vị tùy ý.
+
+<a id="silver-trumpets"></a>
+### Chatzotzrot / kèn bạc — חֲצוֹצְרוֹת
+
+Hai kèn kim loại dài được Dân Số 10 giao cho các tư tế dùng để triệu tập, điều động, báo động và thổi trong nghi lễ lễ vật. Chúng khác shofar về vật liệu, hình dáng và chức năng. Hình ảnh kèn hiện đại kiểu châu Âu không nên được dùng để minh họa nếu không chú thích.
+
+<a id="shofar"></a>
+### Shofar — שׁוֹפָר
+
+Nhạc khí làm từ sừng động vật phù hợp, đặc biệt gắn với Rosh Hashanah và kết thúc Yom Kippur. Shofar không phải kèn bạc *chatzotzrot*. Tiếng Việt đều có thể gọi là “kèn”, nên bài giữ tên Hebrew để tránh nhập hai mitzvot và hai truyền thống nhạc cụ thành một.
+
+<a id="tamim"></a>
+### Tamim — תָּמִים
+
+Tính từ nghĩa là toàn vẹn, trọn vẹn hoặc không tì vết. Trong luật lễ vật, nó chỉ động vật không có các khuyết điểm bị Torah loại trừ. Đây là điều kiện nghi lễ đối với vật dâng, không phải thước đo phẩm giá của người khuyết tật.
+
+<a id="salt-covenant"></a>
+### Muối giao ước — מֶלַח בְּרִית
+
+Muối đi cùng lễ vật và tượng trưng cho tính bền vững của giao ước, có thể liên hệ khả năng bảo quản và bữa ăn kết ước. Nó không phải loại muối riêng có quyền năng ma thuật và không tương đương tập tục rắc muối trừ tà.
+
+<a id="olah"></a>
+### Olah / lễ toàn thiêu — עֹלָה
+
+Lễ vật động vật hoặc chim được đốt gần như toàn bộ trên bàn thờ; tên gọi bắt nguồn từ “đi lên”. Máu được xử lý tại bàn thờ và người dâng không ăn thịt. Thuật ngữ “toàn thiêu” trong nghi lễ này không nên bị nhập với Holocaust, tên một biến cố diệt chủng hiện đại.
+
+<a id="chatat"></a>
+### Chatat / lễ vật thanh tẩy — חַטָּאת
+
+Loại lễ vật thường gắn với vi phạm vô ý hoặc một số trạng thái thanh tẩy. Dịch truyền thống “lễ chuộc tội” dễ khiến độc giả nghĩ mọi tội đều được xử lý giống nhau; “lễ vật thanh tẩy” nhấn mạnh việc máu làm sạch nơi thánh khỏi hậu quả tích tụ của ô uế và vi phạm.
+
+<a id="asham"></a>
+### Asham / lễ vật đền lỗi — אָשָׁם
+
+*Asham* có thể nghĩa lỗi, trách nhiệm hoặc lễ vật đền lỗi. Nó áp dụng cho những trường hợp cụ thể như xâm phạm vật thánh, tài sản hay trách nhiệm chưa chắc chắn. Khi có thiệt hại tài sản, lễ vật không thay thế nghĩa vụ hoàn trả và khoản bổ sung.
+
+<a id="shelamim"></a>
+### Shelamim / lễ vật bình an — שְׁלָמִים
+
+Lễ vật trong đó một phần được đốt, một phần dành cho tư tế và phần còn lại được người dâng cùng nhóm ăn trong trạng thái thanh sạch. Tên liên hệ với *shalom*—sự trọn vẹn và an hòa. Nó có thể là lễ tạ ơn, tự nguyện hoặc hoàn thành lời khấn, không chỉ liên quan hòa bình sau chiến tranh.
+
+<a id="sanhedrin"></a>
+### Sanhedrin / tòa án tối cao — סַנְהֶדְרִין
+
+Tên Hy Lạp được dùng trong truyền thống rabbi cho hội đồng pháp lý cấp cao. Maimonides liên hệ “mắt của hội chúng” trong Lêvi 4 với tòa án có thẩm quyền hướng dẫn luật cho cộng đồng. Không nên đồng nhất Sanhedrin cổ với quốc hội, nội các hay tòa án tối cao của Nhà nước Israel hiện đại.
+
+<a id="karet"></a>
+### Karet — כָּרֵת
+
+Hình phạt “bị cắt khỏi” dành cho một số vi phạm nghiêm trọng trong Torah. Cách hiểu hậu quả chính xác được thảo luận trong truyền thống rabbi, nhưng đây là hình phạt thuộc quyền Thiên Chúa, không đồng nhất với án tử hình do tòa án hoặc khai trừ hội đường thông thường.
+
+<a id="asham-talui"></a>
+### Asham talui / lễ vật đền lỗi chưa ngã ngũ — אָשָׁם תָּלוּי
+
+Lễ vật dành cho trường hợp một người có nghi ngờ xác định rằng mình đã vô ý phạm điều vốn đòi chatat nếu biết chắc. Nó không dành cho cảm giác tội lỗi chung chung. Nếu sau đó hành vi được xác nhận, người ấy vẫn phải thực hiện nghĩa vụ chatat tương ứng.
+
+<a id="asham-vadai"></a>
+### Asham vadai / lễ vật đền lỗi xác định — אָשָׁם וַדַּאי
+
+“Lễ vật đền lỗi chắc chắn”, đối lập với *asham talui* dành cho trường hợp còn nghi ngờ. Đây không phải một lễ vật chung cho mọi lỗi đã biết, mà là nhóm lễ vật áp dụng cho những trường hợp cụ thể được Torah quy định. Khi hành vi gây thiệt hại tài sản, người vi phạm vẫn phải hoàn trả và, trong những trường hợp luật định, nộp thêm một phần; lễ vật không xóa nghĩa vụ đối với nạn nhân.
+
+<a id="adjustable-offering"></a>
+### Korban oleh ve-yored / lễ vật tùy khả năng — קָרְבָּן עוֹלֶה וְיוֹרֵד
+
+Nghĩa đen là lễ vật “đi lên và đi xuống”: hình thức lễ vật thay đổi theo khả năng kinh tế của người dâng. Lêvi 5 cho phép lần lượt vật nuôi, chim, hoặc một lượng bột đối với một số vi phạm nhất định. Vì vậy, đây không phải mức phạt tăng giảm theo độ nặng của tội, mà là cơ chế để người nghèo vẫn có thể hoàn thành nghĩa vụ nghi lễ.
+
+<a id="vidui"></a>
+### Vidui / xưng nhận — וִדּוּי
+
+Sự thừa nhận bằng lời trước Thiên Chúa rằng mình đã phạm sai, một thành phần của *teshuvah*—quá trình quay trở lại và sửa đổi. Không nên hiểu *vidui* theo mô hình bí tích xưng tội với giáo sĩ: trong Do Thái giáo, rabbi không ban sự tha tội thay mặt Thiên Chúa. Với lỗi gây hại cho người khác, lời xưng nhận cũng không thay thế việc xin lỗi, hoàn trả và khắc phục hậu quả.
+
+<a id="zav-zavah"></a>
+### Zav và zavah — זָב / זָבָה
+
+Các phạm trù nghi lễ trong Lêvi 15 dành cho người nam hoặc nữ có một số dạng tiết dịch sinh dục bất thường. Chúng tạo ra trạng thái ô uế nghi lễ trong một thời hạn, sau đó có thủ tục đếm ngày, tắm và—khi Đền Thờ hoạt động—dâng lễ vật. Đây không phải sự kết án đạo đức hay một chẩn đoán y khoa hiện đại; *zavah* cũng không hoàn toàn đồng nghĩa với *niddah*, trạng thái gắn với kinh nguyệt.
+
+<a id="tzaraat"></a>
+### Tzaraat — צָרַעַת
+
+Trạng thái nghi lễ được Lêvi 13–14 mô tả trên da người, quần áo và nhà cửa, do tư tế xem xét và tuyên bố tình trạng. Từ này thường từng được dịch là “phong cùi”, nhưng không đồng nhất với bệnh Hansen hiện đại: vật liệu và nhà cửa cũng có thể mang *tzaraat* theo văn bản. Tư tế thực hiện phân loại nghi lễ, không hành nghề chẩn đoán y khoa theo nghĩa hiện đại.
+
+<a id="childbirth-offering"></a>
+### Korban yoledet / lễ vật của sản phụ — קָרְבַּן יוֹלֶדֶת
+
+Lễ vật người mẹ dâng sau thời hạn hậu sản được quy định trong Lêvi 12. Văn bản cho phép phương án ít tốn kém hơn cho người không đủ khả năng dâng chiên. Sinh con không bị coi là một tội đạo đức; lễ vật thuộc hệ thống chuyển đổi trạng thái thanh sạch nghi lễ và tái tiếp cận nơi thánh.
+
+<a id="animal-tithe"></a>
+### Maaser behemah / thuế thập phân gia súc — מַעְשַׂר בְּהֵמָה
+
+Con thứ mười trong số gia súc nhỏ hoặc lớn đủ điều kiện đi qua dưới gậy đếm được biệt riêng là thánh theo Lêvi 27. Nghĩa vụ này khác với thuế thập phân từ nông sản và không phải thuế thu nhập mười phần trăm theo nghĩa nhà nước hiện đại. Chủ đàn không được lựa con tốt hay xấu để thay đổi kết quả đếm.
+
+<a id="firstborn-animal"></a>
+### Bechor behemah tehorah / con đầu lòng của gia súc thanh sạch — בְּכוֹר בְּהֵמָה טְהוֹרָה
+
+Con đực đầu lòng mở dạ mẹ thuộc loài gia súc thích hợp để dâng lễ được biệt riêng cho Thiên Chúa. Khi không có khuyết tật, nó gắn với nghi lễ hiến dâng và phần ăn của tư tế; các quy tắc riêng áp dụng khi có khuyết tật. “Thanh sạch” ở đây là phân loại loài vật theo luật ăn uống và hiến tế, không phải nhận xét về vệ sinh.
+
+<a id="pidyon-haben"></a>
+### Pidyon HaBen / chuộc con trai đầu lòng — פִּדְיוֹן הַבֵּן
+
+Nghi thức chuộc một con trai đầu lòng đủ điều kiện bằng năm shekel bạc trao cho một *kohen*, dựa trên Dân Số 18. Không phải mọi con trai lớn nhất trong gia đình đều thuộc diện này: luật rabbi xét việc “mở dạ mẹ”, dòng dõi tư tế hoặc Lêvi của cha mẹ và một số hoàn cảnh sinh nở. Đây là nghi thức về địa vị giao ước, không phải mua bán đứa trẻ hay trả tiền để bảo đảm sức khỏe.
+
+<a id="peter-chamor"></a>
+### Peter chamor / lừa đực đầu lòng — פֶּטֶר חֲמוֹר
+
+Nghĩa đen là con lừa “mở dạ mẹ”: con đực đầu tiên do lừa mẹ sinh ra, nếu đáp ứng các điều kiện pháp lý. Đây là trường hợp đặc biệt trong các loài vật không thanh sạch: con vật không thể được dâng trên bàn thờ nhưng phải được chuộc bằng một con chiên hoặc dê trao cho *kohen*. Nếu không chuộc, Torah quy định bẻ cổ nó; truyền thống rabbi ưu tiên việc chuộc.
+
+<a id="beit-habechirah"></a>
+### Beit HaBechirah / Ngôi Nhà được chọn — בֵּית הַבְּחִירָה
+
+Tên Maimonides thường dùng cho Đền Thờ Jerusalem, nghĩa đen là “Ngôi Nhà của sự tuyển chọn” hoặc “Ngôi Nhà được chọn”. Cách gọi dựa trên công thức của Phục Truyền về “nơi YHWH sẽ chọn”. Nó không chỉ bất kỳ hội đường nào và cũng không nên đọc ngược tên Jerusalem vào mọi câu Torah vốn chỉ nói đến một nơi sẽ được chọn.
+
+<a id="eretz-yisrael-diaspora"></a>
+### Eretz Yisrael và chutz la-aretz — אֶרֶץ יִשְׂרָאֵל / חוּץ לָאָרֶץ
+
+**Eretz Yisrael** là “Đất Israel” trong địa lý giao ước và luật Do Thái; **chutz la-aretz** nghĩa đen là “bên ngoài Xứ”, tức các vùng ngoài đó. “Diaspora” hoặc “cộng đồng hải ngoại” chỉ đời sống Do Thái phân tán ngoài Đất Israel. Các phạm trù cổ và rabbi này không tự động trùng với biên giới, quốc tịch hay yêu sách chủ quyền của Nhà nước Israel hiện đại.
+
+<a id="blemished-sacred-animals"></a>
+### Kodashim baalei mumim / vật thánh có khuyết tật — קָדָשִׁים בַּעֲלֵי מוּמִין
+
+Những con vật đã được thánh hiến nhưng mang một *mum*—khuyết điểm thân thể khiến chúng không hợp lệ để dâng trên bàn thờ. Một số con có thể được định giá và chuộc, chuyển địa vị thánh sang tiền, rồi mới được dùng theo luật áp dụng. Đây là tiêu chuẩn nghi lễ đối với lễ vật, không phải phán xét phẩm giá của người hoặc động vật khuyết tật.
+
+<a id="temurah"></a>
+### Temurah / vật đem thay lễ vật — תְּמוּרָה
+
+Con vật mà chủ sở hữu tìm cách dùng để thay một con đã được thánh hiến. Torah cấm sự hoán đổi và quy định rằng nếu đã làm thì cả con ban đầu lẫn con thay thế đều mang địa vị thánh. Vì thế, *temurah* không phải một phương thức hợp lệ để “đổi trả” lễ vật; hậu quả cả hai đều thánh nhằm ngăn việc rút lại hoặc tráo vật dâng.
+
+<a id="shirei-menachot"></a>
+### Shirei menachot / phần còn lại của lễ phẩm ngũ cốc — שִׁירֵי מְנָחוֹת
+
+Phần của *minchah* còn lại sau khi tư tế lấy và đốt “phần tưởng niệm” trên bàn thờ. Phần này được phân cho các tư tế ăn theo quy định về địa điểm, thời hạn và thanh sạch. “Còn lại” không mang nghĩa thức ăn thừa hay phần kém chất lượng, mà là phần được nghi lễ chủ ý dành lại sau phần thuộc bàn thờ.
+
+<a id="notar"></a>
+### Notar / lễ vật còn quá hạn — נוֹתָר
+
+Thịt hoặc phần ăn được của lễ vật vẫn còn sau thời hạn mà Torah cho phép ăn. Khi thời hạn hết, phần ấy phải bị thiêu. *Notar* khác vật thánh bị ô uế: nguyên nhân mất tư cách ở đây là thời gian, ngay cả khi thịt không tiếp xúc bất cứ nguồn ô uế nào. Không nên hiểu đơn giản là “đồ ăn thừa” có thể cất cho bữa sau.
+
+<a id="nazirite"></a>
+### Nazir / Nazirite — נָזִיר
+
+Người nhận lời khấn được quy định trong Dân Số 6, gồm kiêng rượu và sản phẩm từ nho, không cắt tóc và tránh ô uế do người chết trong thời kỳ khấn. Cả nam lẫn nữ đều có thể nhận lời khấn. *Nazir* mang nghĩa người được biệt riêng hoặc kiêng giữ, không đồng nhất với tu sĩ sống độc thân, ẩn sĩ hay thành viên một dòng tu theo văn hóa Kitô giáo hoặc Phật giáo.
+
+<a id="vows"></a>
+### Neder và shevuah / lời khấn và lời thề — נֶדֶר / שְׁבוּעָה
+
+Hai cơ chế lời nói có hiệu lực pháp lý nhưng không hoàn toàn giống nhau. Nói giản lược, *neder* thường đặt một vật hoặc lợi ích vào địa vị bị cấm hay được biệt riêng đối với người nói; *shevuah* ràng buộc chính người nói phải làm hoặc không làm. Bản dịch Việt thường gọi cả hai là “lời thề”, dễ che mất những điều kiện và thủ tục khác nhau của chúng.
+
+<a id="vow-annulment"></a>
+### Hafarat nedarim và hatarat nedarim — הֲפָרַת נְדָרִים / הַתָּרַת נְדָרִים
+
+*Hafarah* là việc người có thẩm quyền gia đình vô hiệu một số lời khấn trong thời hạn và điều kiện của Dân Số 30. *Hatarah* là việc một học giả hoặc tòa gồm những người đủ tư cách tháo gỡ lời khấn dựa trên những căn cứ được luật rabbi công nhận. Hai thủ tục không phải giấy phép chung để thất hứa và cũng không tương đương hủy hợp đồng dân sự hiện đại.
+
+<a id="nevelah"></a>
+### Nevelah / xác động vật — נְבֵלָה
+
+Trong luật thực phẩm và thanh sạch, đây là xác của một loài thú hoặc gia súc chết không qua cách giết mổ làm nó hợp lệ để ăn. Tiếp xúc, mang hoặc ăn có thể tạo những hậu quả nghi lễ khác nhau. *Nevelah* không chỉ mọi xác chết—xác người có hệ luật riêng—và trạng thái phát sinh không tự động là bệnh truyền nhiễm hay lỗi đạo đức.
+
+<a id="sheratzim"></a>
+### Shemonah sheratzim / tám sinh vật bò sát — שְׁמוֹנָה שְׁרָצִים
+
+Tám sinh vật được nêu tên trong Lêvi 11:29–30 mà xác chết của chúng truyền ô uế nghi lễ. *Sheretz* là phạm trù văn bản về sinh vật nhỏ chuyển động sát đất, không khớp gọn với một lớp sinh học hiện đại như côn trùng, bò sát hay gặm nhấm. Việc nhận diện chính xác một số tên Hebrew cổ vẫn có nhiều truyền thống và đề xuất khác nhau.
+
+<a id="food-impurity"></a>
+### Ô uế nghi lễ của thực phẩm — טֻמְאַת אוֹכָלִין
+
+Khả năng một số thực phẩm tiếp nhận và truyền trạng thái ô uế theo luật nghi lễ, đặc biệt sau khi đã tiếp xúc một trong các chất lỏng làm chúng “sẵn sàng” tiếp nhận ô uế. Phạm trù này khác với luật **kosher**, vốn xác định loài và cách chế biến được phép ăn, và cũng khác an toàn vệ sinh thực phẩm. Một món có thể kosher nhưng mang ô uế nghi lễ.
+
+<a id="niddah"></a>
+### Niddah — נִדָּה
+
+Trạng thái pháp lý–nghi lễ gắn trước hết với dòng máu kinh nguyệt trong Lêvi 15, kéo theo quy tắc về tiếp xúc, việc tiếp cận vật thánh và quan hệ vợ chồng. Luật rabbi về sau phát triển chi tiết thực hành, gồm việc đếm ngày và ngâm *mikveh*. Dịch *niddah* thành “người đàn bà dơ bẩn” là sai lệch: đây không phải phán xét vệ sinh, tội lỗi hay phẩm giá của người có kinh.
+
+<a id="seminal-emission"></a>
+### Shikhvat zera / tinh dịch — שִׁכְבַת זֶרַע
+
+Cụm Hebrew Kinh Thánh chỉ tinh dịch hoặc sự xuất tinh, nghĩa đen gắn với “dòng/hạt giống giao hợp”. Lêvi 15 quy định việc xuất tinh tạo trạng thái ô uế nghi lễ tạm thời cho người và vật tiếp xúc. Trạng thái ấy không tự động là tội tình dục, bệnh lý hay nhận xét rằng quan hệ vợ chồng là dơ bẩn.
+
+<a id="corpse-impurity"></a>
+### Tumat met / ô uế do người chết — טֻמְאַת מֵת
+
+Trạng thái phát sinh do chạm xác người, xương hoặc mộ, và trong một số trường hợp do cùng ở dưới một mái hoặc “lều” với xác. Dân Số 19 quy định thời hạn bảy ngày và việc rảy nước tro bò đỏ. Đây là địa vị nghi lễ nghiêm trọng nhưng không phải tội: chăm sóc và mai táng người chết vẫn có thể là nghĩa vụ tôn giáo.
+
+<a id="mei-niddah"></a>
+### Mei niddah / nước thanh tẩy bằng tro bò đỏ — מֵי נִדָּה
+
+Nước từ nguồn được trộn với tro của *parah adumah*—bò cái đỏ—rồi rảy trong quá trình thanh tẩy ô uế do xác người. Trong Dân Số 19, nước này thanh tẩy đúng đối tượng nhưng việc chuẩn bị, rảy hoặc chạm nó có thể khiến người đang thanh sạch trở nên ô uế đến chiều. Không nên nhầm *mei niddah* với nước tắm kinh nguyệt hoặc một thứ “nước thánh” dùng cho mọi mục đích.
+
+<a id="mikveh"></a>
+### Mikveh / bể ngâm nghi lễ — מִקְוֶה
+
+Một tập hợp nước đáp ứng các điều kiện của halakhah để người hoặc đồ vật ngâm toàn bộ nhằm chuyển khỏi một số trạng thái ô uế. Mikveh thường gắn với nước tự nhiên hoặc nước mưa được thu theo cách hợp lệ; nó không đơn giản là bồn tắm, hồ bơi hay nơi tắm công cộng. Việc ngâm nghi lễ không thay thế tắm rửa vệ sinh hoặc điều trị y khoa.
+
+<a id="tzaraat-purification"></a>
+### Nghi thức thanh tẩy tzaraat — טָהֳרַת צָרַעַת
+
+Bước đầu được Lêvi 14 quy định bằng hai chim thanh sạch, gỗ tuyết tùng, *ezov* thường dịch là hyssop hoặc hương thảo, sợi nhuộm đỏ thẫm và “nước sống” từ nguồn. Một con chim được giết, con còn sống cùng các vật liệu được dùng trong nghi thức rảy rồi thả đi. Đây là nghi thức chuyển địa vị của người hoặc nhà đã được kohen xác định; không phải thuốc chữa bệnh da, phép trừ tà hay nghi lễ phóng sinh theo truyền thống Việt Nam.
+
+<a id="parah-adumah"></a>
+### Parah adumah / bò cái đỏ — פָּרָה אֲדֻמָּה
+
+Con bò cái chưa mang ách, không tì vết và có màu được Hebrew gọi là *adumah*—đỏ hoặc nâu đỏ—trong Dân Số 19. Nó được giết và thiêu ngoài trại; tro được giữ để pha với nước nguồn cho nghi thức thanh tẩy ô uế do xác người. Đây không phải lễ vật thông thường trên bàn thờ, và một con bò có màu phù hợp ngày nay chưa đủ để tự động tái lập toàn bộ nghi lễ cổ.
+
+<a id="arakhin"></a>
+### Arakhin và hekdesh / định giá và tài sản thánh hiến — עֲרָכִין / הֶקְדֵּשׁ
+
+**Arakhin** là hệ thống lời khấn định giá trong Lêvi 27: con người có các mức quy ước, còn động vật, nhà và ruộng theo những cơ chế định giá riêng. **Hekdesh** là tài sản được biệt cho mục đích thánh hoặc Đền Thờ. Các khoản này không phải giá thị trường của một con người, thuế tài sản thông thường hay việc tư tế sở hữu cá nhân mọi vật đã dâng.
+
+<a id="jubilee"></a>
+### Yovel / Năm Toàn Xá — יוֹבֵל
+
+Năm thứ năm mươi sau bảy chu kỳ bảy năm theo Lêvi 25, được công bố bằng tiếng shofar vào Yom Kippur. Văn bản gắn năm này với ngừng canh tác, trả người Israel lệ thuộc về gia đình và hoàn trả một số đất tổ nghiệp. *Yovel* thường được dịch là Jubilee hoặc Năm Toàn Xá; nó không phải mọi lễ kỷ niệm năm mươi năm theo cách dùng hiện đại.
+
+<a id="meilah"></a>
+### Meilah / xâm phạm vật thánh — מְעִילָה
+
+Việc sử dụng, hưởng lợi hoặc làm giảm giá trị tài sản đã thánh hiến trái với địa vị của nó. Khi vô ý, Lêvi 5 quy định hoàn trả, phần bổ sung và lễ vật đền lỗi. *Meilah* không chỉ là trộm cắp thông thường: ngay cả người không định chiếm hữu vẫn có thể phải chịu trách nhiệm vì đã dùng vật dành cho nơi thánh.
+
+<a id="neta-revai"></a>
+### Neta revai / hoa trái năm thứ tư — נֶטַע רְבָעִי
+
+Hoa trái của cây trong năm thứ tư tính theo hệ thống luật nông nghiệp Do Thái. Ba năm đầu thuộc **orlah** và không được hưởng; sản phẩm năm thứ tư có địa vị thánh, được ăn tại Jerusalem trong điều kiện thích hợp hoặc được chuộc theo luật. Đây là niên kỳ nghi lễ của cây, không phải khuyến cáo rằng quả của mọi cây dưới bốn năm đều độc.
+
+<a id="peah"></a>
+### Peah / góc ruộng dành lại — פֵּאָה
+
+Phần ở cạnh hoặc góc ruộng mà chủ không thu hoạch để người nghèo và ngoại kiều cư trú tự thu gom. Torah không nêu một tỷ lệ số học trong câu lệnh; Mishnah về sau quy định mức tối thiểu trong điều kiện thông thường và điều chỉnh theo ruộng, sản lượng và số người cần. *Peah* là quyền tiếp cận sản vật tại ruộng, không đồng nhất với thuế nhà nước hay tiền quyên góp tự nguyện.
+
+<a id="leket"></a>
+### Leket / bông lúa rơi khi gặt — לֶקֶט
+
+Những bông hoặc thân lúa vô tình rơi khỏi tay người gặt trong thao tác thu hoạch, được để lại cho người nghèo. Luật rabbi xác định số lượng và hoàn cảnh nào tạo thành *leket*; nó không bao gồm mọi thất thoát trong vận chuyển hay chế biến. Chủ ruộng không thu gom phần này để tự chọn người nhận, vì quyền mót phát sinh ngay tại đồng.
+
+<a id="shikhecha"></a>
+### Shikhecha / sản vật bị quên — שִׁכְחָה
+
+Bó lúa hoặc, theo sự phát triển pháp lý, một số sản vật mà chủ hay người làm thực sự bỏ quên trong ruộng. Phục Truyền 24 cấm quay lại lấy và dành phần ấy cho ngoại kiều, trẻ mồ côi và góa phụ. Đây không phải một lễ vật tự nguyện; khi các điều kiện của “quên” đã hình thành, chủ mất quyền thu hồi.
+
+<a id="olelot"></a>
+### Olelot / chùm nho không hoàn chỉnh — עוֹלְלוֹת
+
+Những chùm nho thiếu cấu trúc phát triển đầy đủ theo tiêu chí của luật rabbi, được để lại cho người nghèo. *Olelot* khác *peret*, là các quả riêng lẻ rơi lúc hái, và khác lệnh chung không thu vét vườn. Dịch đơn giản thành “nho xấu” dễ làm người đọc tưởng chủ vườn chỉ cho phần hư hỏng.
+
+<a id="peret"></a>
+### Peret / quả nho rơi rời rạc — פֶּרֶט
+
+Các quả nho riêng lẻ rơi khỏi tay người hái trong quá trình thu hoạch và phải được để lại cho người nghèo cùng ngoại kiều cư trú. *Peret* là quyền mót cụ thể trong vườn nho, không phải toàn bộ quả còn sót sau mùa và không đồng nhất với *olelot*.
+
+<a id="bikkurim"></a>
+### Bikkurim / hoa trái đầu mùa — בִּכּוּרִים
+
+Những quả chín đầu tiên được đánh dấu, đặt trong giỏ và mang đến Đền Thờ. Truyền thống rabbi gắn nghĩa vụ với bảy sản vật ca ngợi Đất Israel: lúa mì, lúa mạch, nho, vả, lựu, ôliu và chà là. *Bikkurim* không phải mọi sản phẩm đầu tiên của nghề nghiệp và khác phần sản vật đầu mùa trao trực tiếp cho kohen gọi là *terumah*.
+
+<a id="terumah-gedolah"></a>
+### Terumah gedolah / phần dâng lớn cho tư tế — תְּרוּמָה גְּדוֹלָה
+
+Phần đầu của ngũ cốc, rượu và dầu được tách riêng và trao cho kohen. “Gedolah” phân biệt nó với *terumat maaser*, không nhất thiết nói đây là phần có khối lượng lớn; Torah không ấn định tỷ lệ, còn luật rabbi đưa ra các mức thông thường. Phần này mang địa vị thánh và có những hạn chế về người được ăn cùng trạng thái thanh sạch.
+
+<a id="maaser-rishon"></a>
+### Maaser rishon / phần mười thứ nhất — מַעֲשֵׂר רִאשׁוֹן
+
+Một phần mười sản vật được tách sau *terumah gedolah* và trao cho người Lêvi. Từ phần nhận được, người Lêvi tiếp tục tách *terumat maaser* cho kohen. Nó khác phần mười thứ hai được chủ ăn tại Jerusalem và phần mười dành cho người nghèo trong những năm nhất định.
+
+<a id="maaser-sheni"></a>
+### Maaser sheni / phần mười thứ hai — מַעֲשֵׂר שֵׁנִי
+
+Phần mười có địa vị thánh nhưng vẫn do chủ sở hữu dùng làm thực phẩm tại Jerusalem trong năm thứ nhất, thứ hai, thứ tư và thứ năm của chu kỳ nông nghiệp bảy năm. Khi đường xa, giá trị có thể được chuyển sang tiền rồi dùng mua thực phẩm tại Jerusalem theo luật. Đây không phải khoản trao cho người Lêvi hay thuế thu nhập hiện đại.
+
+<a id="terumat-maaser"></a>
+### Terumat maaser / phần dâng từ phần mười — תְּרוּמַת מַעֲשֵׂר
+
+Một phần mười của *maaser rishon* mà người Lêvi tách và trao cho kohen. Nó tương ứng một phần trăm của sản lượng ban đầu nếu tính đơn giản, nhưng địa vị pháp lý là “phần dâng từ phần mười”, không phải sắc thuế một phần trăm độc lập đánh trực tiếp lên chủ ruộng.
+
+<a id="maaser-ani"></a>
+### Maaser ani / phần mười cho người nghèo — מַעֲשֵׂר עָנִי
+
+Phần mười dành cho người nghèo trong năm thứ ba và thứ sáu của chu kỳ bảy năm, thay cho *maaser sheni* của những năm ấy. Người Lêvi, ngoại kiều cư trú, trẻ mồ côi và góa phụ được nêu trong nhóm hưởng. Nó được phân phối tại địa phương, khác bữa ăn nghi lễ của phần mười thứ hai tại Jerusalem.
+
+<a id="vidui-maaser"></a>
+### Vidui maaser / lời tuyên bố về phần mười — וִדּוּי מַעֲשֵׂר
+
+Lời đọc trong Phục Truyền 26 xác nhận người nói đã lấy các phần thánh khỏi nhà, phân phối đúng cho người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ, đồng thời không sử dụng sai quy định. Dù *vidui* thường có nghĩa xưng nhận lỗi, nội dung ở đây chủ yếu là lời khai đã tuân thủ. Nó không phải bản khai thuế hay lời xưng tội với giáo sĩ.
+
+<a id="mikra-bikkurim"></a>
+### Mikra bikkurim / lời đọc khi dâng hoa trái đầu mùa — מִקְרָא בִּכּוּרִים
+
+Bản tuyên xưng Phục Truyền 26:5–10 được đọc khi mang *bikkurim*, kể từ tổ phụ, cuộc xuống Ai Cập, áp bức và Xuất Hành đến việc nhận đất. Câu mở đầu *arami oved avi* có thể được phân tích và diễn giải theo nhiều cách trong lịch sử; Haggadah Pesach nổi tiếng đọc nó theo hướng “người Aram tìm cách hủy diệt cha tôi”.
+
+<a id="challah"></a>
+### Challah / phần bột nhào được tách — חַלָּה
+
+Trong Dân Số 15, *challah* là phần đầu của khối bột được tách làm *terumah* và trao cho kohen. Về sau từ này trở thành tên quen thuộc của bánh mì, đặc biệt bánh bện dùng trong Shabbat và lễ hội. Vì vậy mitzvah “tách challah” nói đến phần bột dâng, không ra lệnh phải nướng bánh bện theo một hình dáng nhất định.
+
+<a id="land-redemption"></a>
+### Geullat ha-aretz / chuộc và hoàn trả đất — גְּאֻלַּת הָאָרֶץ
+
+Cơ chế trong Lêvi 25 bảo vệ đất tổ nghiệp của gia tộc: thân nhân có thể chuộc đất đã chuyển nhượng, và một số quyền đất trở về trong Năm Toàn Xá. Giá được tính theo số vụ mùa còn lại, vì đất được trình bày là thuộc về Thiên Chúa và Israel là người cư trú. Cơ chế này không trùng với mua bán bất động sản sở hữu vĩnh viễn ngày nay.
+
+<a id="walled-city-houses"></a>
+### Batei arei chomah / nhà trong thành có tường — בָּתֵּי עָרֵי חוֹמָה
+
+Nhà ở trong thành thuộc loại “có tường” theo luật Lêvi 25 và các tiêu chí rabbi. Người bán có một năm để chuộc; sau thời hạn, quyền của người mua trở thành vĩnh viễn và nhà không trở lại trong Jubilee. Quy tắc khác nhà tại làng không tường và đất nông nghiệp, nên “nhà có hàng rào” theo nghĩa thông thường không đủ để thuộc loại này.
+
+<a id="shemittat-kesafim"></a>
+### Shemittat kesafim / xóa nợ năm thứ bảy — שְׁמִטַּת כְּסָפִים
+
+Việc chủ nợ buông quyền đòi các khoản vay thuộc phạm vi luật khi kết thúc năm *shemittah*. Phục Truyền 15 đồng thời cấm vì sắp đến năm xóa nợ mà khép tay trước người nghèo. *Prozbul*, do Hillel gắn với tòa án, là cơ chế rabbi nhằm tránh tình trạng chủ tiền ngừng cho vay; nó không đơn giản là tuyên bố cá nhân rằng nợ không còn được xóa.
+
+<a id="nokhri"></a>
+### Nokhri / người ngoài cộng đồng — נָכְרִי
+
+Trong nhiều văn cảnh Torah, *nokhri* là người thuộc một dân hoặc cộng đồng bên ngoài Israel, phân biệt với *ger* đang cư trú giữa Israel và được nhiều luật bảo vệ. Phạm vi chính xác thay đổi theo văn cảnh. Dịch mọi trường hợp thành “dân ngoại” dễ mang sắc thái thần học về sau; thuật ngữ cổ cũng không tự động tương ứng với quốc tịch hoặc sắc tộc trong pháp luật hiện đại.
+
+<a id="priestly-meat-gifts"></a>
+### Zeroa, lechayayim ve-kevah / ba phần thịt dành cho kohen — זְרוֹעַ לְחָיַיִם וְקֵבָה
+
+Chân trước, hai phần hàm hoặc má và **kevah**—dạ múi khế, ngăn cuối trong dạ dày động vật nhai lại—được trao cho kohen từ một số động vật giết mổ. Đây là quà tư tế từ thịt thông thường chứ không nhất thiết là phần lễ vật trên bàn thờ. “Dạ dày” là cách dịch khái quát nhưng thiếu độ chính xác giải phẫu của *kevah*.
+
+<a id="first-fleece"></a>
+### Reishit hagez / phần lông xén đầu tiên — רֵאשִׁית הַגֵּז
+
+Phần đầu của lông cừu khi xén được trao cho kohen theo Phục Truyền 18. Luật rabbi quy định loại vật nuôi, số lượng đàn và lượng trao. Đây là nguyên liệu dệt dành cho tư tế, không phải con cừu sinh đầu tiên, toàn bộ bộ lông hay mọi sản phẩm len đã qua công nghiệp.
+
+<a id="cherem"></a>
+### Cherem / tài sản hiến định không thể chuộc — חֵרֶם
+
+Trong Lêvi 27, một loại tuyên hiến tài sản có tính không thể bán hoặc chuộc, với các quy tắc xác định tài sản dành cho Thiên Chúa hay kohen. Cùng gốc từ *cherem* còn được dùng ở nơi khác cho việc hủy diệt dành riêng hoặc, trong lịch sử rabbi, sự khai trừ cộng đồng. Các nghĩa này không được nhập làm một nếu không xét văn cảnh.
+
+<a id="shechita"></a>
+### Shechita / giết mổ theo halakhah — שְׁחִיטָה
+
+Phương thức giết mổ thú hoặc chim được phép ăn bằng một đường cắt liên tục ở vùng cổ với con dao đáp ứng tiêu chuẩn, do người có kỹ năng thực hiện. Luật còn liên quan việc kiểm tra con vật và xử lý máu. *Shechita* không chỉ là đọc lời chúc trên thịt; lời chúc không thể biến cách giết mổ không hợp lệ thành kosher.
+
+<a id="blood-covering"></a>
+### Kisui hadam / phủ máu — כִּסּוּי הַדָּם
+
+Nghi thức dùng đất hoặc vật liệu tương đương phủ máu của thú hoang kosher và chim sau khi giết mổ. Nó không áp dụng giống vậy cho gia súc nuôi và cá. Trong Lêvi 17, luật nằm cạnh khẳng định sự sống ở trong máu và cấm ăn máu; mục đích nghi lễ không nên bị giản lược thành vệ sinh hoặc che giấu dấu vết.
+
+<a id="mother-bird"></a>
+### Shiluach haken / xua chim mẹ khỏi tổ — שִׁלּוּחַ הַקֵּן
+
+Khi gặp một tổ thuộc phạm vi luật với chim mẹ đang ở trên trứng hoặc chim non, người muốn lấy con phải thả hoặc xua chim mẹ đi trước. Đây là điều kiện giới hạn việc lấy tổ, không nhất thiết là nghĩa vụ chủ động đi tìm tổ chim. Các diễn giải nhấn mạnh lòng thương xót, kỷ luật ham muốn hoặc bảo tồn, nhưng văn bản không giải thích duy nhất một lý do.
+
+<a id="kosher-signs"></a>
+### Simanei kashrut / dấu hiệu phân loại thực phẩm — סִימָנֵי כַּשְׁרוּת
+
+Các đặc điểm pháp lý dùng nhận diện loài được phép ăn: thú trên cạn cần nhai lại và móng chẻ hoàn toàn; cá cần vây và vảy; côn trùng và chim có hệ tiêu chí cùng truyền thống nhận diện riêng. Đây không phải bảng phân loại sinh học hiện đại. Loài hợp lệ mới là một bước—cách giết mổ, kiểm tra, lấy máu và chế biến vẫn có thể quyết định thực phẩm có kosher hay không.
+
+<a id="kosher-locusts"></a>
+### Chagavim / châu chấu được phép ăn — חֲגָבִים
+
+Nhóm côn trùng nhảy mà Lêvi 11 cho ngoại lệ khỏi lệnh cấm côn trùng có cánh, với dấu hiệu chân nhảy và các tên loài cổ. Nhiều cộng đồng không còn truyền thống chắc chắn nên tránh ăn; một số cộng đồng Yemen và Bắc Phi bảo tồn *mesorah* nhận diện. Không phải mọi châu chấu theo tên gọi dân gian hay mọi côn trùng có chân nhảy đều mặc nhiên kosher.
+
+<a id="calendar-sanctification"></a>
+### Kiddush hachodesh / thánh hóa tháng mới — קִדּוּשׁ הַחֹדֶשׁ
+
+Thẩm quyền của tòa án Do Thái trong việc xác lập đầu tháng và điều chỉnh năm để lịch âm phù hợp mùa mặt trời. Thời cổ, thủ tục gắn với lời chứng nhìn thấy trăng mới; lịch Hebrew hiện hành dùng hệ tính toán cố định. Đây không phải thờ Mặt Trăng và cá nhân không tự tạo lịch tôn giáo riêng chỉ vì quan sát được trăng non.
+
+<a id="kiddush-havdalah"></a>
+### Kiddush và Havdalah — קִדּוּשׁ / הַבְדָּלָה
+
+**Kiddush** là lời thánh hóa đánh dấu Shabbat hoặc ngày lễ bắt đầu, thường đọc trên rượu tại bữa ăn. **Havdalah** là nghi thức “phân biệt” khi thời gian thánh kết thúc, thường có rượu, hương thơm và ánh lửa. Rượu và các vật dụng thuộc hình thức nghi lễ halakhah; cốt lõi Maimonides nhấn mạnh là ghi nhớ và phân biệt ngày bằng lời.
+
+<a id="chametz"></a>
+### Chametz và seor / ngũ cốc lên men và bột gây men — חָמֵץ / שְׂאֹר
+
+*Chametz* là sản phẩm từ năm loại ngũ cốc đã tiếp xúc nước và lên men theo tiêu chuẩn Pesach; *seor* là khối bột lên men dùng gây men. Khái niệm không đồng nhất với mọi thực phẩm có men vi sinh, bột nở hóa học hoặc đồ ăn “phồng”. Trong Pesach, các luật riêng điều chỉnh việc ăn, sở hữu, hưởng lợi và loại bỏ chametz.
+
+<a id="seder-haggadah"></a>
+### Seder và Haggadah Pesach — סֵדֶר / הַגָּדָה
+
+**Seder**, nghĩa là “thứ tự”, là bữa ăn nghi lễ đêm Pesach với việc kể Xuất Hành, câu hỏi, matzah, maror, rượu và các hành vi theo trình tự. **Haggadah** là sách hướng dẫn và văn bản đọc cho bữa ấy, gồm Kinh Thánh, Mishnah, midrash, lời chúc và bài ca từ nhiều thời kỳ. Haggadah không phải một sách riêng trong Torah và Seder không chỉ là bữa tối gia đình thông thường.
+
 <a id="sukkot"></a>
 ### Sukkot / lễ Lều Tạm — סֻכּוֹת
 
