@@ -11,9 +11,13 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Character Crea
 
 ## Chọn phiếu nhân vật (Choose a Character Sheet)
 
+![Minh hoạ kỹ thuật huyền thuật cho việc chọn phiếu nhân vật: khung nhân vật, thuộc tính và những lựa chọn khởi đầu.](assets/chapter-02-character-sheet.png)
+
 Bạn sẽ ghi các thông tin chính của nhân vật lên một **phiếu nhân vật** (character sheet). Trong chương này, "phiếu nhân vật" chỉ bất cứ thứ gì bạn dùng để theo dõi thông tin nhân vật, dù là phiếu in sẵn, phiếu kỹ thuật số hay chỉ là giấy trắng. Hãy chọn loại phiếu hợp với bạn rồi bắt tay vào tạo nhân vật!
 
 ## Tạo nhân vật của bạn (Create Your Character)
+
+![Minh hoạ kỹ thuật huyền thuật cho quy trình tạo nhân vật: lớp, nguồn gốc, thuộc tính và trang bị.](assets/chapter-02-create-character.png)
 
 Dưới đây là các bước tạo nhân vật; mỗi bước được trình bày chi tiết ở phần sau:
 
@@ -256,6 +260,8 @@ Phiếu nhân vật có chỗ ghi HP hiện tại khi bạn chịu sát thương
 
 ## Lên cấp (Level Advancement)
 
+![Minh hoạ kỹ thuật huyền thuật cho hành trình lên cấp và sự phát triển của nhà phiêu lưu.](assets/chapter-02-level-advancement.png)
+
 Khi phiêu lưu, nhân vật tích lũy kinh nghiệm, thể hiện bằng **điểm kinh nghiệm (XP)**. Khi đạt một mức XP nhất định, nhân vật trở nên mạnh hơn. Sự tiến bộ này gọi là lên cấp.
 
 Bảng **Tiến trình nhân vật** liệt kê XP cần để đạt từng cấp và thưởng thành thạo ở cấp đó. Khi tổng XP bằng hoặc vượt một con số trong cột Điểm kinh nghiệm, bạn đạt cấp tương ứng.
@@ -317,6 +323,8 @@ Mỗi cấp mới mang đến những năng lực giúp nhân vật đối phó 
 
 ## Bắt đầu ở cấp cao hơn (Starting at Higher Levels)
 
+![Minh hoạ kỹ thuật huyền thuật cho một nhà phiêu lưu bắt đầu với kinh nghiệm và trang bị ở cấp cao hơn.](assets/chapter-02-starting-higher-levels.png)
+
 GM có thể cho các nhân vật trong nhóm bắt đầu ở cấp cao hơn 1. Nên bắt đầu ở cấp 3 nếu nhóm gồm những người chơi D&D dày dạn kinh nghiệm.
 
 Tạo nhân vật cấp cao dùng các bước tạo nhân vật trong chương này cùng luật lên cấp trong phần [Lên cấp](#lên-cấp-level-advancement). Bạn bắt đầu với lượng XP tối thiểu cần cho cấp khởi đầu. Ví dụ, nếu GM cho bạn bắt đầu ở cấp 10, bạn có 64.000 XP.
@@ -338,6 +346,8 @@ Hãy bàn với GM về những trang bị có thể mua bằng số tiền kh�
 > GM có thể dùng kỳ tài làm hình thức tiến bộ sau khi nhân vật đạt cấp 20, giúp những nhân vật không còn cấp nào để lên tiếp tục mạnh hơn. Theo cách này, mỗi nhân vật nhận một kỳ tài tùy chọn cho mỗi 30.000 XP kiếm được vượt trên 355.000 XP. Kỳ tài Ân huệ sử thi (Epic Boon) đặc biệt phù hợp làm kỳ tài thưởng, nhưng người chơi có thể chọn bất kỳ kỳ tài nào mà nhân vật cấp 20 đủ điều kiện.
 
 ## Đa lớp (Multiclassing)
+
+![Minh hoạ kỹ thuật huyền thuật cho hai con đường lớp nhân vật đan xen thành một nhà phiêu lưu.](assets/chapter-02-multiclassing.png)
 
 **Đa lớp** cho phép bạn lên cấp ở nhiều lớp nhân vật. Với luật này, mỗi khi lên cấp, bạn có thể chọn lên cấp ở một lớp mới thay vì lớp hiện tại. Nhờ vậy, bạn kết hợp năng lực của nhiều lớp để hiện thực hóa ý tưởng nhân vật mà một lớp đơn lẻ không thể hiện được.
 
@@ -405,6 +415,8 @@ Tương tự, khẩn chú Lưỡi kiếm khát máu (Thirsting Blade) của Warl
 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 ## Đồ lặt vặt (Trinkets)
+
+![Minh hoạ kỹ thuật huyền thuật dạng catalog cho các đồ lặt vặt đầy gợi mở.](assets/chapter-02-trinkets.png)
 
 Khi tạo nhân vật, bạn có thể tung một lần trên bảng **Đồ lặt vặt** để nhận một món đồ Tí hon, đơn giản và phảng phất chút bí ẩn. GM cũng có thể dùng bảng này để trang trí một căn phòng trong hầm ngục hoặc bỏ vào túi của một sinh vật.
 

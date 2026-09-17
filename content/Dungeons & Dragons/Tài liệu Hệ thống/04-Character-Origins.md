@@ -11,6 +11,8 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Character Orig
 
 ## Xuất thân nhân vật (Character Backgrounds)
 
+![Minh hoạ kỹ thuật huyền thuật cho các xuất thân nhân vật và những yếu tố tạo nên chúng.](assets/chapter-04-backgrounds.png)
+
 **Xuất thân** của nhân vật là tập hợp đặc điểm đại diện cho nơi chốn và nghề nghiệp đã ảnh hưởng sâu sắc nhất đến nhân vật trước khi bước vào đời phiêu lưu.
 
 **Các thành phần của xuất thân (Parts of a Background)**
@@ -26,6 +28,9 @@ Một xuất thân gồm các phần sau:
 ### Mô tả xuất thân (Background Descriptions)
 
 **Trợ tế (Acolyte)**
+
+![Hồ sơ bản khắc cho xuất thân Trợ tế: biểu tượng thánh, sách kinh, thư pháp và giấy cuộn.](assets/chapter-04-acolyte.png)
+
 - Điểm thuộc tính: Trí tuệ, Minh triết, Sức hút
 - Kỳ tài: Nhập môn ma thuật (Magic Initiate) (Giáo sĩ) (xem [Kỳ tài](05-Feats.md))
 - Kỹ năng thành thạo: Thấu hiểu và Tôn giáo
@@ -33,6 +38,9 @@ Một xuất thân gồm các phần sau:
 - Trang bị: Chọn A hoặc B: (A) Đồ nghề thư pháp, Sách (kinh cầu nguyện), Biểu tượng thánh, Giấy da (10 tờ), Áo choàng, 8 gp; hoặc (B) 50 gp
 
 **Tội phạm (Criminal)**
+
+![Hồ sơ bản khắc cho xuất thân Tội phạm: đồ nghề trộm, dao găm, xà beng và túi hành trang.](assets/chapter-04-criminal.png)
+
 - Điểm thuộc tính: Khéo léo, Thể chất, Trí tuệ
 - Kỳ tài: Cảnh giác (Alert) (xem [Kỳ tài](05-Feats.md))
 - Kỹ năng thành thạo: Khéo tay và Lén lút
@@ -40,6 +48,9 @@ Một xuất thân gồm các phần sau:
 - Trang bị: Chọn A hoặc B: (A) 2 Dao găm, Đồ nghề trộm, Xà beng (Crowbar), 2 Túi nhỏ (Pouch), Quần áo đi đường (Traveler's Clothes), 16 gp; hoặc (B) 50 gp
 
 **Hiền giả (Sage)**
+
+![Hồ sơ bản khắc cho xuất thân Hiền giả: sách lịch sử, thư pháp, giấy da và nghiên cứu huyền thuật.](assets/chapter-04-sage.png)
+
 - Điểm thuộc tính: Thể chất, Trí tuệ, Minh triết
 - Kỳ tài: Nhập môn ma thuật (Magic Initiate) (Pháp sư) (xem [Kỳ tài](05-Feats.md))
 - Kỹ năng thành thạo: Huyền thuật và Lịch sử
@@ -47,6 +58,9 @@ Một xuất thân gồm các phần sau:
 - Trang bị: Chọn A hoặc B: (A) Gậy (Quarterstaff), Đồ nghề thư pháp, Sách (lịch sử), Giấy da (8 tờ), Áo choàng, 8 gp; hoặc (B) 50 gp
 
 **Binh sĩ (Soldier)**
+
+![Hồ sơ bản khắc cho xuất thân Binh sĩ: giáo, cung ngắn, bộ cứu thương và bộ trò chơi.](assets/chapter-04-soldier.png)
+
 - Điểm thuộc tính: Sức mạnh, Khéo léo, Thể chất
 - Kỳ tài: Kẻ tấn công tàn bạo (Savage Attacker) (xem [Kỳ tài](05-Feats.md))
 - Kỹ năng thành thạo: Điền kinh và Uy hiếp
@@ -54,6 +68,8 @@ Một xuất thân gồm các phần sau:
 - Trang bị: Chọn A hoặc B: (A) Giáo, Cung ngắn, 20 Mũi tên, bộ trò chơi (như trên), Hộp cứu thương (Healer's Kit), Ống tên, Quần áo đi đường, 14 gp; hoặc (B) 50 gp
 
 ## Giống loài nhân vật (Character Species)
+
+![Minh hoạ kỹ thuật huyền thuật cho chín giống loài nhân vật và các đặc điểm đặc biệt.](assets/chapter-04-species.png)
 
 Khi chọn giống loài, bạn quyết định nhân vật là con người hay thuộc một giống loài kỳ ảo như dragonborn hoặc gnome.
 
@@ -75,6 +91,8 @@ Một giống loài gồm các phần sau:
 ### Mô tả giống loài (Species Descriptions)
 
 #### Dragonborn
+
+![Hồ sơ bản khắc cho Dragonborn: huyết thống rồng, hơi thở vũ khí, kháng sát thương và cánh ma thuật.](assets/chapter-04-dragonborn.png)
 
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,5–2,1 m; 5–7 feet)
@@ -106,6 +124,8 @@ Bạn dùng được Hơi thở vũ khí số lần bằng thưởng thành th�
 
 #### Người lùn (Dwarf)
 
+![Hồ sơ bản khắc cho Người lùn: thị giác bóng tối, sức bền, dẻo dai và am hiểu đá.](assets/chapter-04-dwarf.png)
+
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,2–1,5 m; 4–5 feet)
 - Tốc độ: 9 m (30 feet)
@@ -123,6 +143,8 @@ Là Người lùn, bạn có các đặc điểm đặc biệt sau.
 Bạn dùng được hành động phụ này số lần bằng thưởng thành thạo, và hồi mọi lần đã dùng khi hoàn thành nghỉ dài.
 
 #### Elf
+
+![Hồ sơ bản khắc cho Elf: dòng dõi, giác quan nhạy bén, xuất thần và ma thuật tiên.](assets/chapter-04-elf.png)
 
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,5–1,8 m; 5–6 feet)
@@ -154,6 +176,8 @@ Trí tuệ, Minh triết hoặc Sức hút là thuộc tính thi triển phép c
 
 #### Gnome
 
+![Hồ sơ bản khắc cho Gnome: mưu trí, dòng dõi, trò chuyện với muông thú và thiết bị cơ khí Tí hon.](assets/chapter-04-gnome.png)
+
 - Loại sinh vật: Hình người
 - Kích cỡ: Nhỏ (khoảng 0,9–1,2 m; 3–4 feet)
 - Tốc độ: 9 m (30 feet)
@@ -170,6 +194,8 @@ Là Gnome, bạn có các đặc điểm đặc biệt sau.
 - **Gnome đá (Rock Gnome).** Bạn biết phép sơ cấp *Sửa chữa* (Mending) và *Tiểu xảo ma thuật* (Prestidigitation). Ngoài ra, bạn có thể dành 10 phút thi triển *Tiểu xảo ma thuật* để tạo một thiết bị cơ khí Tí hon (AC 5, 1 HP), chẳng hạn đồ chơi, bật lửa hay hộp nhạc. Khi tạo thiết bị, bạn chọn chức năng của nó bằng một hiệu ứng của *Tiểu xảo ma thuật*; thiết bị tạo hiệu ứng đó mỗi khi bạn hoặc sinh vật khác dùng hành động phụ chạm vào để kích hoạt. Nếu hiệu ứng có các tùy chọn bên trong, bạn chọn một tùy chọn cho thiết bị khi tạo. Ví dụ, nếu chọn hiệu ứng thắp/tắt lửa, bạn quyết định thiết bị thắp hay dập lửa; nó không làm được cả hai. Mỗi lúc bạn có tối đa ba thiết bị như vậy, và mỗi thiết bị tan rã sau 8 giờ kể từ khi tạo hoặc khi bạn chạm vào để tháo rời bằng hành động Sử dụng.
 
 #### Goliath
+
+![Hồ sơ bản khắc cho Goliath: nguồn gốc khổng lồ, sức bền và sức mạnh núi non.](assets/chapter-04-goliath.png)
 
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 2,1–2,4 m; 7–8 feet)
@@ -192,6 +218,8 @@ Là Goliath, bạn có các đặc điểm đặc biệt sau.
 
 #### Halfling
 
+![Hồ sơ bản khắc cho Halfling: may mắn, lòng can đảm, khéo léo và nơi ẩn náu.](assets/chapter-04-halfling.png)
+
 - Loại sinh vật: Hình người
 - Kích cỡ: Nhỏ (khoảng 0,6–0,9 m; 2–3 feet)
 - Tốc độ: 9 m (30 feet)
@@ -208,6 +236,8 @@ Là Halfling, bạn có các đặc điểm đặc biệt sau.
 
 #### Con người (Human)
 
+![Hồ sơ bản khắc cho Con người: khả năng thích nghi, cảm hứng anh hùng, kỹ năng và hành trang.](assets/chapter-04-human.png)
+
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,2–2,1 m; 4–7 feet) hoặc Nhỏ (khoảng 0,6–1,2 m; 2–4 feet), chọn khi chọn giống loài này
 - Tốc độ: 9 m (30 feet)
@@ -221,6 +251,8 @@ Là Con người, bạn có các đặc điểm đặc biệt sau.
 **Đa năng (Versatile).** Bạn nhận một kỳ tài Nguồn gốc tùy chọn (xem [Kỳ tài](05-Feats.md)). Khuyến nghị: Thành thạo đa dạng (Skilled).
 
 #### Orc
+
+![Hồ sơ bản khắc cho Orc: sức bền không ngừng, xung kích, thị giác bóng tối và gắn kết bộ tộc.](assets/chapter-04-orc.png)
 
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,8–2,1 m; 6–7 feet)
@@ -237,6 +269,8 @@ Bạn dùng được đặc điểm này số lần bằng thưởng thành th�
 **Sức bền bất khuất (Relentless Endurance).** Khi HP của bạn về 0 mà không chết ngay, bạn có thể giữ lại 1 HP. Sau khi dùng đặc điểm này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài.
 
 #### Tiefling
+
+![Hồ sơ bản khắc cho Tiefling: di sản quỷ dữ, thị giác bóng tối và sức mạnh suy nguyên.](assets/chapter-04-tiefling.png)
 
 - Loại sinh vật: Hình người
 - Kích cỡ: Trung bình (khoảng 1,2–2,1 m; 4–7 feet) hoặc Nhỏ (khoảng 0,9–1,2 m; 3–4 feet), chọn khi chọn giống loài này

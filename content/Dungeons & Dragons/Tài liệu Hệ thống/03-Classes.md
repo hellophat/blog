@@ -11,6 +11,8 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Classes".
 
 ## Man rợ (Barbarian)
 
+![Minh hoạ kỹ thuật huyền thuật cho Man rợ: sức mạnh nguyên thủy, rìu lớn và cơn thịnh nộ.](assets/chapter-03-barbarian.png)
+
 **Đặc điểm cốt lõi của Man rợ (Core Barbarian Traits)**
 
 | | |
@@ -146,6 +148,8 @@ Man rợ đi theo Con đường Cuồng chiến dồn Cuồng nộ chủ yếu v
 Sau khi dùng đặc tính này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài, trừ khi bạn tiêu một lần Cuồng nộ (không cần hành động) để khôi phục nó.
 
 ## Thi sĩ (Bard)
+
+![Minh hoạ kỹ thuật huyền thuật cho Thi sĩ: âm nhạc, biểu diễn và phép thuật truyền cảm hứng.](assets/chapter-03-bard.png)
 
 **Đặc điểm cốt lõi của Thi sĩ (Core Bard Traits)**
 
@@ -445,6 +449,8 @@ Bạn luôn chuẩn bị sẵn các phép đã chọn, và mỗi khi lên một 
 
 ## Giáo sĩ (Cleric)
 
+![Minh hoạ kỹ thuật huyền thuật cho Giáo sĩ: đức tin, bảo hộ và ánh sáng chữa lành.](assets/chapter-03-cleric.png)
+
 **Đặc điểm cốt lõi của Giáo sĩ (Core Cleric Traits)**
 
 | | |
@@ -739,6 +745,8 @@ Chính sự tồn tại dựa vào năng lượng tích cực gắn với lãnh 
 **Cấp 17: Chữa lành tối thượng (Supreme Healing).** Khi lẽ ra phải tung một hoặc nhiều xúc xắc để hồi HP cho sinh vật bằng phép hoặc Dẫn truyền thần lực, đừng tung; thay vào đó dùng giá trị cao nhất của mỗi viên. Ví dụ, thay vì hồi 2d6 HP cho một sinh vật bằng phép, bạn hồi 12.
 
 ## Druid
+
+![Minh hoạ kỹ thuật huyền thuật cho Druid: thiên nhiên, biến hình và sức mạnh nguyên tố.](assets/chapter-03-druid.png)
 
 **Đặc điểm cốt lõi của Druid (Core Druid Traits)**
 
@@ -1114,6 +1122,8 @@ Bằng một hành động phụ, bạn có thể di chuyển khối lập phư�
 
 ## Chiến binh (Fighter)
 
+![Minh hoạ kỹ thuật huyền thuật cho Chiến binh: vũ khí, giáp trụ và chiến thuật.](assets/chapter-03-fighter.png)
+
 **Đặc điểm cốt lõi của Chiến binh (Core Fighter Traits)**
 
 | | |
@@ -1227,6 +1237,8 @@ Ngoài ra, ngay sau khi ghi đòn chí mạng, bạn có thể di chuyển tối
 - **Hồi sức anh hùng (Heroic Rally).** Đầu mỗi lượt, nếu đang Đẫm máu và còn ít nhất 1 HP, bạn hồi số HP bằng 5 cộng hệ số Thể chất.
 
 ## Võ tăng (Monk)
+
+![Minh hoạ kỹ thuật huyền thuật cho Võ tăng: võ thuật, khí và kỷ luật nội tâm.](assets/chapter-03-monk.png)
 
 **Đặc điểm cốt lõi của Võ tăng (Core Monk Traits)**
 
@@ -1371,6 +1383,8 @@ Bạn có thể dùng đặc tính này số lần bằng hệ số Minh triết
 Mỗi lúc chỉ một sinh vật chịu hiệu ứng của đặc tính này. Bạn có thể kết thúc rung động mà không gây hại (không cần hành động).
 
 ## Thánh kỵ sĩ (Paladin)
+
+![Minh hoạ kỹ thuật huyền thuật cho Thánh kỵ sĩ: lời thề, bảo hộ và ánh sáng thiêng.](assets/chapter-03-paladin.png)
 
 **Đặc điểm cốt lõi của Thánh kỵ sĩ (Core Paladin Traits)**
 
@@ -1598,6 +1612,8 @@ Bạn có thể kết thúc hiệu ứng sớm (không cần hành động). Hi�
 
 ## Kiểm lâm (Ranger)
 
+![Minh hoạ kỹ thuật huyền thuật cho Kiểm lâm: dấu vết, cung tên và hành trình hoang dã.](assets/chapter-03-ranger.png)
+
 **Đặc điểm cốt lõi của Kiểm lâm (Core Ranger Traits)**
 
 | | |
@@ -1804,6 +1820,8 @@ Bạn săn đuổi con mồi nơi hoang dã và nhiều chốn khác, dùng tài
 
 ## Đạo tặc (Rogue)
 
+![Minh hoạ kỹ thuật huyền thuật cho Đạo tặc: ẩn nấp, khóa và đòn đánh chính xác.](assets/chapter-03-rogue.png)
+
 **Đặc điểm cốt lõi của Đạo tặc (Core Rogue Traits)**
 
 | | |
@@ -1935,6 +1953,8 @@ Là sự pha trộn giữa kẻ cắp, thợ săn kho báu và nhà thám hiểm
 **Cấp 17: Phản xạ kẻ trộm (Thief's Reflexes).** Bạn giỏi phục kích và thoát thân nhanh. Bạn có hai lượt trong vòng đầu tiên của mọi trận chiến: lượt thứ nhất ở Sáng kiến bình thường và lượt thứ hai ở Sáng kiến trừ 10.
 
 ## Thuật sĩ (Sorcerer)
+
+![Minh hoạ kỹ thuật huyền thuật cho Thuật sĩ: ma thuật bẩm sinh và dòng năng lượng huyết mạch.](assets/chapter-03-sorcerer.png)
 
 **Đặc điểm cốt lõi của Thuật sĩ (Core Sorcerer Traits)**
 
@@ -2297,6 +2317,8 @@ Mỗi khi bắt đầu thi triển phép này, bạn có thể biến đổi đ�
 
 ## Warlock
 
+![Minh hoạ kỹ thuật huyền thuật cho Warlock: khế ước bí ẩn và quyền năng dị giới.](assets/chapter-03-warlock.png)
+
 **Đặc điểm cốt lõi của Warlock (Core Warlock Traits)**
 
 | | |
@@ -2629,6 +2651,8 @@ Bạn dùng được đặc tính này số lần bằng hệ số Sức hút (t
 Sau khi dùng đặc tính này, bạn không thể dùng lại cho đến khi hoàn thành nghỉ dài, trừ khi tiêu một ô phép Ma thuật khế ước (không cần hành động) để khôi phục nó.
 
 ## Pháp sư (Wizard)
+
+![Minh hoạ kỹ thuật huyền thuật cho Pháp sư: học thuật, sách phép và sơ đồ ma thuật.](assets/chapter-03-wizard.png)
 
 **Đặc điểm cốt lõi của Pháp sư (Core Wizard Traits)**
 

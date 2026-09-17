@@ -9,6 +9,8 @@ tags:
 
 Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Playing the Game".
 
+![Minh hoạ kỹ thuật huyền thuật cho nhịp chơi D&D: các nhà phiêu lưu, d20 và vòng lặp khám phá, tương tác, chiến đấu.](assets/chapter-01-playing-the-game.png)
+
 ## Nhịp chơi (Rhythm of Play)
 
 Ba trụ cột chính của lối chơi D&D là **tương tác xã hội**, **khám phá** và **chiến đấu**. Dù đang ở trụ cột nào, trò chơi cũng diễn ra theo một khuôn mẫu cơ bản:
@@ -80,6 +82,8 @@ Mỗi thuộc tính có một **hệ số** (modifier) mà bạn áp dụng bấ
 | 14–15 | +2 | 30 | +10 |
 
 ## Phép thử d20 (D20 Tests)
+
+![Minh hoạ kỹ thuật huyền thuật cho phép thử d20: lợi thế, bất lợi và sáu thuộc tính.](assets/chapter-01-d20-tests.png)
 
 Khi kết quả của một hành động không chắc chắn, trò chơi dùng một lần tung d20 để xác định thành công hay thất bại. Những lần tung này gọi là **phép thử d20** và có ba loại: **phép kiểm tra thuộc tính**, **lần cứu nguy** và **lần tung tấn công**. Chúng theo các bước sau:
 
@@ -258,6 +262,8 @@ Nhân vật được thành thạo nhiều loại vũ khí và công cụ từ l
 
 ## Hành động (Actions)
 
+![Minh hoạ kỹ thuật huyền thuật cho các lựa chọn hành động của một nhà phiêu lưu.](assets/chapter-01-actions.png)
+
 Khi làm điều gì đó ngoài di chuyển hoặc trò chuyện, bạn thường thực hiện một **hành động**. Bảng **Hành động** liệt kê các hành động chính của trò chơi, được định nghĩa chi tiết trong [Bảng thuật ngữ luật](08-Rules-Glossary.md).
 
 **Hành động (Actions)**
@@ -320,6 +326,8 @@ Nếu bạn đưa cho NPC thứ họ muốn hoặc chạm đến lòng trắc �
 Hãy để ý các kỹ năng thành thạo khi nghĩ cách tương tác với NPC, và chọn cách tiếp cận phát huy thế mạnh của nhóm. Ví dụ, nếu nhóm cần lừa lính canh để vào lâu đài, Đạo tặc thành thạo Lừa gạt nên dẫn dắt cuộc trò chuyện.
 
 ## Khám phá (Exploration)
+
+![Minh hoạ kỹ thuật huyền thuật cho hoạt động khám phá, bản đồ hầm ngục, hành trình và dấu vết.](assets/chapter-01-exploration.png)
 
 Khám phá là việc thám hiểm những nơi nguy hiểm và đầy bí ẩn. Các quy tắc trong phần này mô tả một số cách nhà phiêu lưu tương tác với môi trường ở những nơi như vậy.
 
@@ -391,6 +399,8 @@ Mỗi nhịp độ có một hiệu ứng trong trò chơi:
 **Phương tiện (Vehicles).** Người đi xe ngựa, xe kéo hoặc phương tiện đường bộ khác chọn nhịp độ như bình thường. Nhân vật trên tàu thuyền bị giới hạn bởi tốc độ của tàu và không chọn nhịp độ hành trình. Tùy loại tàu và số thủy thủ, tàu có thể đi đến 24 giờ mỗi ngày. [Trang bị](06-Equipment.md) có danh sách phương tiện được bán.
 
 ## Chiến đấu (Combat)
+
+![Minh hoạ kỹ thuật huyền thuật cho chiến đấu: bản đồ chiến thuật, di chuyển, tầm đánh và che chắn.](assets/chapter-01-combat.png)
 
 Nhà phiêu lưu gặp nhiều quái vật nguy hiểm và kẻ ác độc. Trong những khoảnh khắc đó, chiến đấu thường nổ ra.
 
@@ -547,6 +557,8 @@ Trận chiến dưới nước dùng các quy tắc sau.
 **Kháng lửa (Fire Resistance).** Mọi thứ ở dưới nước đều kháng sát thương lửa (giải thích trong [Sát thương và chữa lành](#sát-thương-và-chữa-lành-damage-and-healing)).
 
 ## Sát thương và chữa lành (Damage and Healing)
+
+![Minh hoạ kỹ thuật huyền thuật cho các loại sát thương và chữa lành.](assets/chapter-01-damage-healing.png)
 
 Thương tích và cái chết là mối đe dọa thường trực, như trình bày trong các quy tắc sau.
 

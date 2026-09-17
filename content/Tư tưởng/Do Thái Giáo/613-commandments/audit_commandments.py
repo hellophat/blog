@@ -12,31 +12,44 @@ REQUIRED=(
     '**Pháp điển và truyền thống rabbi:**','**Bối cảnh lịch sử và ngôn ngữ:**',
 )
 
-def num(value):
-    m=re.fullmatch(r'P(\d+)',value.upper())
-    if not m: raise argparse.ArgumentTypeError('Dùng dạng P161')
-    return int(m.group(1))
+LAST={'P':248,'N':365}
+
+def code(value):
+    m=re.fullmatch(r'([PN])(\d+)',value.upper())
+    if not m: raise argparse.ArgumentTypeError('Dùng dạng P161 hoặc N12')
+    kind,n=m.group(1),int(m.group(2))
+    if not 1<=n<=LAST[kind]: raise argparse.ArgumentTypeError(f'{kind} chỉ có 1–{LAST[kind]}')
+    return kind,n
 
 ap=argparse.ArgumentParser()
-ap.add_argument('--start',type=num,default=1)
-ap.add_argument('--end',type=num,default=248)
+ap.add_argument('--start',type=code,default=('P',1))
+ap.add_argument('--end',type=code,default=('P',248))
 ap.add_argument('--report',action='store_true',help='lưu AUDIT-REPORT.md')
 args=ap.parse_args()
+KIND=args.start[0]
+if args.end[0]!=KIND:
+    ap.error('--start và --end phải cùng loại: cả hai là P, hoặc cả hai là N')
+if args.end[1]<args.start[1]:
+    ap.error('--end phải không nhỏ hơn --start')
+args.start=args.start[1]; args.end=args.end[1]
 
 idx=INDEX.read_text()
 gloss=GLOSSARY.read_text()
 anchors=set(re.findall(r'<a id="([^"]+)"',gloss))
 errors=[]; warnings=[]
 
+def page(n):
+    return HERE/f'{KIND}{n}.md'
+
 for n in range(args.start,args.end+1):
-    p=HERE/f'P{n}.md'
+    p=page(n)
     if not p.exists():
         errors.append(f'{p.name}: thiếu tệp')
         continue
     s=p.read_text()
     for field in REQUIRED:
         if field not in s: errors.append(f'{p.name}: thiếu {field}')
-    mi=re.search(rf'^### P{n} —.*?^\*\*English:\*\* (.+?)\n\n^\*\*Hebrew \(Maimonides\):\*\* (.+?)$',idx,re.M|re.S)
+    mi=re.search(rf'^### {KIND}{n} —.*?^\*\*English:\*\* (.+?)\n\n^\*\*Hebrew \(Maimonides\):\*\* (.+?)$',idx,re.M|re.S)
     if not mi:
         errors.append(f'{p.name}: không tìm thấy mục tương ứng trong index')
     else:
@@ -48,6 +61,18 @@ for n in range(args.start,args.end+1):
             def plain(x): return re.sub(r'\[([^]]+)\]\([^)]+\)',r'\1',x).rstrip('.')
             if plain(page_en.group(1))!=plain(mi.group(1).splitlines()[0]):
                 warnings.append(f'{p.name}: English khác index; cần kiểm tra xem chỉ là biên tập hay đã đổi nghĩa')
+    # The index must link to the page, and the page's footer must chain to its neighbours.
+    if f'](./{KIND}{n})' not in idx:
+        errors.append(f'{p.name}: index không có liên kết đến trang')
+    nav=[x for x in s.splitlines() if x.startswith('[← ') or x.startswith('[Danh mục')]
+    nav=nav[-1] if nav else ''
+    prev,nxt=f'{KIND}{n-1}',f'{KIND}{n+1}'
+    if n>1 and page(n-1).exists() and f'[← {prev}](./{prev})' not in nav:
+        errors.append(f'{p.name}: điều hướng thiếu liên kết đến {prev}')
+    if '[Danh mục 613 điều răn](./index)' not in nav:
+        errors.append(f'{p.name}: điều hướng thiếu liên kết đến danh mục')
+    if n<LAST[KIND] and page(n+1).exists() and f'[{nxt} →](./{nxt})' not in nav:
+        errors.append(f'{p.name}: điều hướng thiếu liên kết đến {nxt}')
     # Every bold Hebrew phrase in prose must be immediately followed by a transliteration.
     for ln,line in enumerate(s.splitlines(),1):
         if line.startswith('**Hebrew ('): continue
@@ -69,7 +94,7 @@ for n in range(args.start,args.end+1):
             if '](' not in line and word.lower() not in {'safar','lishbot','shabbaton','atzeret','leishev'}:
                 warnings.append(f'{p.name}:{ln}: rà thuật ngữ in nghiêng chưa liên kết: {word}')
 
-summary=f'Audit P{args.start}–P{args.end}: {len(errors)} lỗi, {len(warnings)} cảnh báo'
+summary=f'Audit {KIND}{args.start}–{KIND}{args.end}: {len(errors)} lỗi, {len(warnings)} cảnh báo'
 print(summary)
 if args.report:
     report=['---','title: \"Báo cáo audit 613 điều răn\"','draft: true','---','',f'# {summary}','', '## Lỗi bắt buộc phải sửa','']

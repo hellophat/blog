@@ -1597,11 +1597,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** למשוח כוהן למלחמה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P191)
+
 ### P192 — Chuẩn bị nơi đi vệ sinh bên ngoài doanh trại
 
 **English:** To prepare a place [outside] the [army] camp [for use as a latrine].
 
 **Hebrew (Maimonides):** להתקין יד במחנה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P192)
 
 ### P193 — Chuẩn bị xẻng để lấp phân
 
@@ -1609,11 +1613,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להתקין יתד
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P193)
+
 ### P194 — Hoàn trả vật đã trộm
 
 **English:** To return a stolen object.
 
 **Hebrew (Maimonides):** להשיב את הגזל
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P194)
 
 ### P195 — Làm việc từ thiện
 
@@ -1621,11 +1629,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** ליתן צדקה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P195)
+
 ### P196 — Tặng quà khi cho tôi tớ Hebrew thôi việc
 
 **English:** To give a severance gift to a Hebrew servant.
 
 **Hebrew (Maimonides):** להעניק לעבד עברי
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P196)
 
 ### P197 — Cho người nghèo vay
 
@@ -1633,11 +1645,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להלוות לעני
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P197)
+
 ### P198 — Cho người ngoại bang vay lấy lãi
 
 **English:** To lend to a gentile at interest.
 
 **Hebrew (Maimonides):** להלוות לנוכרי בריבית
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P198)
 
 ### P199 — Trả vật cầm cố cho chủ khi họ cần
 
@@ -1645,11 +1661,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להשיב המשכון לבעליו
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P199)
+
 ### P200 — Trả lương đúng hạn
 
 **English:** To pay a worker his wage on time.
 
 **Hebrew (Maimonides):** ליתן שכר שכיר בזמנו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P200)
 
 ### P201 — Cho người làm thuê ăn sản vật khi đang làm việc với sản vật ấy
 
@@ -1657,11 +1677,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להיות השכיר אוכל בזמן שכירותו
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P201)
+
 ### P202 — Giúp người khác dỡ gánh khỏi người hoặc súc vật của họ
 
 **English:** To assist a colleague in unloading a burden which he or his beast [is carrying].
 
 **Hebrew (Maimonides):** לעזוב מעל חברו או מעל בהמתו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P202)
 
 ### P203 — Giúp người khác chất gánh lên súc vật
 
@@ -1669,11 +1693,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להקים המשא על הבהמה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P203)
+
 ### P204 — Hoàn trả đồ thất lạc
 
 **English:** To return a lost object.
 
 **Hebrew (Maimonides):** להשיב האבידה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P204)
 
 ### P205 — Khiển trách người phạm tội
 
@@ -1681,11 +1709,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להוכיח החוטא
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P205)
+
 ### P206 — Yêu thương mọi người trong dân mình
 
 **English:** To love every member of our people.
 
 **Hebrew (Maimonides):** לאהוב כל בני אדם מבני ברית
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P206)
 
 ### P207 — Yêu thương người cải đạo
 
@@ -1693,11 +1725,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לאהוב את הגר
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P207)
+
 ### P208 — Dùng cân và quả cân chính xác
 
 **English:** To balance scales with correct weights.
 
 **Hebrew (Maimonides):** לצדק מאזניים עם המשקלות
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P208)
 
 ### P209 — Tôn kính các hiền giả
 
@@ -1705,11 +1741,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לכבד החכמים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P209)
+
 ### P210 — Tôn kính cha mẹ
 
 **English:** To honor one's father and mother.
 
 **Hebrew (Maimonides):** לכבד אב ואם
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P210)
 
 ### P211 — Kính sợ cha mẹ
 
@@ -1717,11 +1757,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** ליראה מאב ואם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P211)
+
 ### P212 — Sinh sôi nảy nở
 
 **English:** To be fruitful and multiply.
 
 **Hebrew (Maimonides):** לפרות ולרבות
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P212)
 
 ### P213 — Chỉ quan hệ tính dục trong hôn nhân
 
@@ -1729,11 +1773,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לבעול בקידושין
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P213)
+
 ### P214 — Chú rể chung vui với vợ trong một năm
 
 **English:** For a groom to rejoice together with his wife for a year.
 
 **Hebrew (Maimonides):** לשמח חתן את אשתו שנה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P214)
 
 ### P215 — Cắt bao quy đầu cho con trai
 
@@ -1741,11 +1789,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** למול את הבן
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P215)
+
 ### P216 — Thực hiện hôn nhân levirate với góa phụ của người anh em chết không con
 
 **English:** To marry the widow of one's brother who died childless.
 
 **Hebrew (Maimonides):** לייבם אשת אח
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P216)
 
 ### P217 — Thực hiện nghi thức [halitzah](../glossary#yibbum-yavam-yevamah-and-halitzah) nếu [yavam](../glossary#yibbum-yavam-yevamah-and-halitzah) không cưới góa phụ của anh em mình
 
@@ -1753,11 +1805,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לחלוץ ליבם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P217)
+
 ### P218 — Kẻ cưỡng hiếp phải cưới người phụ nữ mình đã cưỡng hiếp
 
 **English:** For a rapist to marry the woman he raped.
 
 **Hebrew (Maimonides):** לישא אונס
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P218)
 
 ### P219 — Người vu khống vợ phải duy trì hôn nhân với nàng trọn đời
 
@@ -1765,11 +1821,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לישב מוציא שם רע עם אשתו כל ימיו
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P219)
+
 ### P220 — Áp dụng luật về người dụ dỗ, gồm khoản phạt năm mươi shekel
 
 **English:** To carry out the judgment concerning a seducer, fining him fifty shekels and carrying out the other laws regarding this matter.
 
 **Hebrew (Maimonides):** לדון במפתה בחמישים שקל עם שאר דינין
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P220)
 
 ### P221 — Thực hiện thủ tục [Torah](../glossary#torah) dành cho [yefat to'ar](../glossary#yefat-toar)
 
@@ -1777,11 +1837,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לעשות ליפת תואר ככתוב
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P221)
+
 ### P222 — Ly hôn bằng [get](../glossary#get)
 
 **English:** To divorce with a get.
 
 **Hebrew (Maimonides):** לגרש בשטר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P222)
 
 ### P223 — Thực hiện thủ tục dành cho [sotah](../glossary#sotah)
 
@@ -1789,11 +1853,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לעשות לסוטה כתורה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P223)
+
 ### P224 — Đánh roi kẻ có tội
 
 **English:** To whip the wicked.
 
 **Hebrew (Maimonides):** להלקות הרשעים
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P224)
 
 ### P225 — Đày người vô ý làm chết người đến thành trú ẩn
 
@@ -1801,11 +1869,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להגלות רוצח בשגגה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P225)
+
 ### P226 — Tòa án thi hành án tử hình bằng chém đầu
 
 **English:** For a court to execute by decapitation.
 
 **Hebrew (Maimonides):** להיות בית דין הורגין בסיף
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P226)
 
 ### P227 — Tòa án thi hành án tử hình bằng siết cổ
 
@@ -1813,11 +1885,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להיות בית דין הורגין בחנק
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P227)
+
 ### P228 — Tòa án thi hành án tử hình bằng thiêu
 
 **English:** For a court to execute by burning [the condemned] with fire.
 
 **Hebrew (Maimonides):** להיות בית דין שורפין באש
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P228)
 
 ### P229 — Tòa án thi hành án tử hình bằng ném đá
 
@@ -1825,11 +1901,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להיות בית דין סוקלין באבנים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P229)
+
 ### P230 — Treo thi thể người thuộc diện phải treo
 
 **English:** To hang [the corpses] of those liable for hanging.
 
 **Hebrew (Maimonides):** לתלות מי שנתחייב תלייה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P230)
 
 ### P231 — Chôn người bị hành quyết ngay trong ngày
 
@@ -1837,11 +1917,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לקבור הנהרג ביומו
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P231)
+
 ### P232 — Áp dụng luật về tôi tớ Hebrew
 
 **English:** To carry out the laws concerning a Hebrew servant.
 
 **Hebrew (Maimonides):** לדון בעבד עברי כהלכותיו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P232)
 
 ### P233 — Chủ cưới nữ tỳ Hebrew đã được định hôn cho mình
 
@@ -1849,11 +1933,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לייעד אמה עברייה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P233)
+
 ### P234 — Chuộc nữ tỳ Hebrew
 
 **English:** To redeem a Hebrew maidservant.
 
 **Hebrew (Maimonides):** לפדות אמה עברייה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P234)
 
 ### P235 — Để tôi tớ Canaan phục dịch vĩnh viễn
 
@@ -1861,11 +1949,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לעבוד בעבד כנעני לעולם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P235)
+
 ### P236 — Người gây thương tích phải bồi thường
 
 **English:** For a person who injures [a colleague] to pay him damages.
 
 **Hebrew (Maimonides):** להיות החובל משלם ממון
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P236)
 
 ### P237 — Xét xử thiệt hại do bò gây ra
 
@@ -1873,11 +1965,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לדון בנזקי בהמה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P237)
+
 ### P238 — Xét xử thiệt hại do hố gây ra
 
 **English:** To judge regarding the damages caused by a pit.
 
 **Hebrew (Maimonides):** לדון בנזקי הבור
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P238)
 
 ### P239 — Xét xử kẻ trộm và buộc bồi thường hoặc chịu án
 
@@ -1885,11 +1981,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לדון לגנב בתשלומין או במיתה
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P239)
+
 ### P240 — Xét xử thiệt hại do súc vật ăn phá
 
 **English:** To judge regarding the damages caused by grazing.
 
 **Hebrew (Maimonides):** לדון בנזקי הבער
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P240)
 
 ### P241 — Xét xử thiệt hại do lửa gây ra
 
@@ -1897,11 +1997,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לדון בנזקי האש
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P241)
+
 ### P242 — Xét xử vụ việc liên quan người giữ đồ không công
 
 **English:** To render judgment [in questions] regarding an unpaid watchman.
 
 **Hebrew (Maimonides):** לדון בדין שומר חינם
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P242)
 
 ### P243 — Xét xử vụ việc liên quan người giữ đồ có công
 
@@ -1909,11 +2013,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לדון בדין נושא שכר ושוכר
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P243)
+
 ### P244 — Xét xử vụ việc liên quan người vay mượn
 
 **English:** To render judgment [in questions] regarding a borrower.
 
 **Hebrew (Maimonides):** לדון בדין השואל
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P244)
 
 ### P245 — Xét xử tranh chấp giao dịch
 
@@ -1921,11 +2029,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** לדון בדין מקח וממכר
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P245)
+
 ### P246 — Xét xử khiếu kiện giữa người với người
 
 **English:** To render judgment [in questions] regarding claims made by one person against another.
 
 **Hebrew (Maimonides):** לדון בדין טוען וכופר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P246)
 
 ### P247 — Cứu người bị truy đuổi, kể cả phải giết kẻ truy đuổi
 
@@ -1933,40 +2045,52 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** להציל הנרדף ואפילו בנפש הרודף
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P247)
+
 ### P248 — Xét xử các vấn đề thừa kế
 
 **English:** To render judgment [in questions] regarding inheritances.
 
 **Hebrew (Maimonides):** לדון בדיני נחלות
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P248)
+
 
 ---
 
 ## Những điều răn tiêu cực
 
-### N1 — Không nghĩ rằng có thần linh nào khác ngoài Thiên Chúa
+### N1 — Không để nảy sinh ý nghĩ rằng có một vị thần nào khác ngoài Thiên Chúa
 
 **English:** Not to consider the thought that there is another divinity aside from God.
 
 **Hebrew (Maimonides):** שלא לעלות במחשבה שיש שם אלוה זולתי ה'
 
-### N2 — Không tự làm hoặc nhờ người khác làm ngẫu tượng cho mình
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N1)
+
+### N2 — Không làm ngẫu tượng cho mình, dù tự tay hay nhờ người khác
 
 **English:** Not to make an idol - not to make one oneself or have one made for oneself by others -.
 
 **Hebrew (Maimonides):** שלא לעשות פסל, לא יעשה בידו ולא יעשו לו אחרים
 
-### N3 — Không làm ngẫu tượng, kể cả cho người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N2)
+
+### N3 — Không tự tay làm ngẫu tượng cho người khác
 
 **English:** Not to make false gods even for others.
 
 **Hebrew (Maimonides):** שלא לעשות עבודה זרה ואפילו לאחרים
 
-### N4 — Không làm hình tượng để trang trí dù không thờ chúng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N3)
+
+### N4 — Không làm hình tượng sinh vật để trang trí, dù không thờ
 
 **English:** Not to make images for decoration, even when one does not worship them.
 
 **Hebrew (Maimonides):** שלא לעשות צורות לנואי, ואף על פי שאין עובדין אותן
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N4)
 
 ### N5 — Không phủ phục trước ngẫu tượng
 
@@ -1974,17 +2098,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להשתחוות לעבודה זרה, ואף על פי שאין דרך עבודתה בהשתחוויה
 
-### N6 — Không thờ ngẫu tượng theo nghi thức dành cho nó
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N5)
+
+### N6 — Không thờ ngẫu tượng theo đúng cách thờ riêng của nó
 
 **English:** Not to worship false gods with the types of service with which it is customary to worship them.
 
 **Hebrew (Maimonides):** שלא לעבוד עבודה זרה בדברים שדרכה להיעבד בהם
 
-### N7 — Không hiến con cho [Molech](../glossary#molech)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N6)
+
+### N7 — Không trao con mình cho nghi thức [Molech](../glossary#molech)
 
 **English:** Not to offer one's son to Molech.
 
 **Hebrew (Maimonides):** שלא להעביר למולך
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N7)
 
 ### N8 — Không thực hành nghi thức của [ov](../glossary#ov-and-yidoni)
 
@@ -1992,29 +2122,39 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעשות מעשה אוב
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N8)
+
 ### N9 — Không thực hành nghi thức của [yid'oni](../glossary#ov-and-yidoni)
 
 **English:** Not to perform the deeds associated with a yid'oni.
 
 **Hebrew (Maimonides):** שלא לעשות מעשה יידעוני
 
-### N10 — Không tìm hiểu việc thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N9)
+
+### N10 — Không hướng tâm trí theo việc thờ ngẫu tượng
 
 **English:** Not to take interest in the worship of false gods.
 
 **Hebrew (Maimonides):** שלא לפנות אחר עבודה זרה
 
-### N11 — Không dựng trụ đá để thờ cúng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N10)
+
+### N11 — Không dựng trụ đá để thờ phượng
 
 **English:** Not to erect a pillar [for purposes of worship].
 
 **Hebrew (Maimonides):** שלא להקים מצבה
 
-### N12 — Không làm đá đẽo để phủ phục trên đó
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N11)
+
+### N12 — Không đặt đá chạm hình để phủ phục trên đó
 
 **English:** Not to make hewn stones [upon which to prostrate oneself].
 
 **Hebrew (Maimonides):** שלא ליתן אבן משכית
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N12)
 
 ### N13 — Không trồng cây trong khuôn viên Đền Thánh
 
@@ -2022,17 +2162,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא ליטע אילן במקדש
 
-### N14 — Không nhân danh ngẫu tượng mà thề hoặc khiến tín đồ của nó thề
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N13)
+
+### N14 — Không nhân danh ngẫu tượng mà thề, cũng không bắt tín đồ của nó thề như vậy
 
 **English:** Not to take an oath on a false god [as requested by] one of its worshipers, nor to have one of them take an oath on [their false god].
 
 **Hebrew (Maimonides):** שלא לישבע בעבודה זרה לעובדיה, ולא משביעין אותן בה
 
-### N15 — Không dụ dỗ cộng đồng Do Thái thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N14)
+
+### N15 — Không lôi kéo cả cộng đồng Do Thái thờ ngẫu tượng
 
 **English:** Not to act as a missionary [madiach] to persuade the Jews to worship false gods].
 
 **Hebrew (Maimonides):** שלא להדיח בני ישראל אחר עבודה זרה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N15)
 
 ### N16 — Không dụ dỗ một cá nhân Do Thái thờ ngẫu tượng
 
@@ -2040,29 +2186,39 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להסית אדם מישראל אחר עבודה זרה
 
-### N17 — Không thương mến kẻ dụ dỗ thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N16)
+
+### N17 — Người bị dụ dỗ không được ưng thuận và thương mến kẻ dụ dỗ
 
 **English:** Not to show affection for a mesit.
 
 **Hebrew (Maimonides):** שלא לאהוב המסית
 
-### N18 — Không giảm lòng căm ghét kẻ dụ dỗ thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N17)
+
+### N18 — Người bị dụ dỗ không được buông bỏ lòng ghét đối với kẻ dụ dỗ
 
 **English:** Not to reduce one's hatred for a mesit.
 
 **Hebrew (Maimonides):** שלא לעזוב השנאה למסית
 
-### N19 — Không cứu kẻ dụ dỗ thờ ngẫu tượng khỏi án tử
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N18)
+
+### N19 — Người bị dụ dỗ không được ra tay cứu kẻ dụ dỗ
 
 **English:** Not to [try to] save a mesit, but rather to see to it that he is executed.
 
 **Hebrew (Maimonides):** שלא להציל המסית אלא עומד על דמו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N19)
 
 ### N20 — Người bị dụ dỗ không được biện hộ cho kẻ dụ dỗ
 
 **English:** For the person whom a mesit tried to convince not to advance any arguments on behalf of the mesit.
 
 **Hebrew (Maimonides):** שלא ילמד המוסת זכות על המסית
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N20)
 
 ### N21 — Người bị dụ dỗ không được giấu chứng cứ buộc tội kẻ dụ dỗ
 

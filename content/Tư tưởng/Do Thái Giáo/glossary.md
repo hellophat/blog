@@ -31,6 +31,13 @@ Bảng này giải thích các từ và khái niệm xuất hiện trong bài [6
 
 Tên gọi Kinh Thánh Hebrew, tạo từ chữ đầu của ba phần: **Torah** (Luật/Giáo huấn), **Nevi'im** (Các Ngôn sứ) và **Ketuvim** (Các Văn phẩm). Nội dung phần lớn tương ứng “Cựu Ước” trong Kitô giáo, nhưng thứ tự sách, cách phân nhóm và ý nghĩa thần học không hoàn toàn giống nhau. Khi viết về Do Thái giáo, “Tanakh” hoặc “Kinh Thánh Hebrew” trung tính và chính xác hơn việc mặc nhiên gọi là “Cựu Ước”.
 
+<a id="aseret-hadibrot"></a>
+### Aseret haDibrot / Mười Lời — עֲשֶׂרֶת הַדִּבְּרוֹת
+
+Tên Hebrew của đoạn công bố tại Sinai (Xuất Hành 20; Phục Truyền 5), nghĩa chữ là “mười lời”. Torah gọi chúng là *devarim* (“lời”), không dùng từ *mitzvot* ở chỗ này, nên cách gọi quen thuộc “Mười Điều Răn” đã là một lựa chọn dịch chứ không phải nhãn của nguyên văn.
+
+**Điểm cần tránh:** Cách chia mười lời không giống nhau giữa các truyền thống. Truyền thống Do Thái tính “Ta là YHWH, Thiên Chúa của ngươi” (Xuất Hành 20:2) là lời thứ nhất, còn lệnh cấm có thần khác thuộc lời thứ hai; cách đánh số quen thuộc trong sách giáo lý Công giáo tiếng Việt gộp hai phần này vào điều thứ nhất, rồi tách lệnh cấm tham muốn thành hai điều để giữ đủ số mười. Vì vậy “điều răn thứ nhất” theo cách đếm Công giáo không tương ứng với lời thứ nhất theo cách đếm Do Thái. Mười lời cũng không phải một bộ luật tách riêng: trong hệ thống của Maimonides, chúng nằm rải trong danh mục 613 điều chứ không tạo thành một nhóm được đếm riêng.
+
 <a id="talmud"></a>
 ### Talmud — תַּלְמוּד
 
@@ -949,6 +956,28 @@ Rào chắn bảo vệ trên mái phẳng có người sử dụng. Điều lu�
 ### Avodah zarah và meshamsheha / thờ thần khác và vật phụ trợ — עֲבוֹדָה זָרָה / מְשַׁמְּשֶׁיהָ
 
 *Avodah zarah* nghĩa chữ là “sự phụng tự xa lạ”, thuật ngữ rabbi cho việc thờ thần khác hoặc ngẫu tượng. *Meshamsheha* là các đồ vật phục vụ trực tiếp cho sự thờ cúng ấy, không phải mọi tài sản từng thuộc về một người ngoài Do Thái.
+
+<a id="matzevah"></a>
+### Matzevah / trụ đá thờ — מַצֵּבָה
+
+Một cột hoặc trụ đá dựng đứng làm điểm quy tụ để thờ phượng. Trong các tường thuật tổ phụ, việc dựng *matzevah* chưa bị lên án (Sáng Thế 28:18); Phục Truyền 16:22 lại cấm dứt khoát. Maimonides giải thích điều cấm nhắm vào chính hình thức ấy, **kể cả khi người dựng có ý thờ phượng Thiên Chúa**, vì đó là lối thờ đặc trưng của các dân chung quanh. Không nên đồng nhất *matzevah* với bia mộ hay bàn thờ; Torah có từ riêng cho bàn thờ (*mizbeach*).
+
+<a id="even-maskit"></a>
+### Even maskit / đá chạm hình — אֶבֶן מַשְׂכִּית
+
+Phiến đá được chạm khắc hoặc trang trí, đặt xuống để người ta phủ phục lên trên (Lêvi 26:1). Theo cách đọc của truyền thống rabbi, điều bị cấm không phải bản thân việc trang trí mà là phủ phục trên một mặt đá được gia công cho mục đích ấy, vì đó là tập quán tại các đền thờ ngoại giáo. Maimonides ghi rằng chữ “trong xứ các ngươi” trong câu Torah được đọc như một giới hạn: trong Đền Thờ thì việc phủ phục trên nền đá không bị cấm. Đây không phải lệnh cấm lát đá hay chạm khắc nói chung.
+
+<a id="asherah"></a>
+### Asherah / cây thờ — אֲשֵׁרָה
+
+Trong Kinh Thánh Hebrew, từ này vừa có thể chỉ một nữ thần trong tôn giáo Canaan, vừa chỉ một cột gỗ hoặc cây được dựng cạnh bàn thờ như vật thờ. Phục Truyền 16:21 cấm trồng cây bên cạnh bàn thờ của YHWH. Maimonides mở rộng điều cấm sang việc trồng cây trong khuôn viên Đền Thờ ngay cả khi chỉ nhằm mục đích làm đẹp. Việc từ này chỉ nữ thần hay chỉ vật thờ ở từng câu cụ thể là vấn đề còn tranh luận trong giới nghiên cứu.
+
+<a id="mesit-madiach"></a>
+### Mesit và madiach / kẻ dụ dỗ cá nhân và kẻ dụ dỗ cộng đồng — מֵסִית / מַדִּיחַ
+
+Hai địa vị pháp lý trong luật Torah về việc lôi kéo người khác thờ thần khác. *Mesit* dụ dỗ một cá nhân, thường là riêng tư (Phục Truyền 13:7–12); *madiach* lôi kéo phần lớn dân một thành, dẫn tới hệ luật về *ir hanidachat* (thành bội giáo) (Phục Truyền 13:13–19). Cả hai thuộc nhóm tội mà truyền thống rabbi xếp vào án tử do tòa án tuyên, với những quy tắc tố tụng riêng và khắc nghiệt hơn thường lệ, chẳng hạn *mesit* là trường hợp duy nhất được phép bố trí người nghe lén.
+
+**Điểm cần tránh:** Đây là các phạm trù tố tụng của một hệ thống tòa án tôn giáo cổ đại, gắn với Sanhedrin và với Đất Israel thời Đền Thờ. Hệ thống ấy đã không vận hành từ gần hai nghìn năm; các nguồn rabbi cũng ghi lại xu hướng dựng hàng rào chứng cứ khiến án tử gần như không thể tuyên. Không được dùng các nhãn này cho người truyền đạo, người đổi tôn giáo hay người bất đồng tín ngưỡng trong bất kỳ cộng đồng nào ngày nay.
 
 <a id="war-herem"></a>
 ### Herem trong chiến tranh — חֵרֶם
