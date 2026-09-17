@@ -772,3 +772,146 @@ Qumran là địa điểm gần bờ tây bắc Biển Chết, cạnh các hang 
 ### TCN và CN
 
 **TCN** là “trước Công nguyên”, tương đương BCE; **CN** là “Công nguyên”, tương đương CE. Đây là quy ước định niên đại, không phải khẳng định rằng mọi cộng đồng được nói tới dùng lịch Công giáo. Năm 70 CN là năm quân La Mã phá hủy Đền Thờ thứ hai; năm 586 TCN là niên đại thường dùng cho việc Babylon phá hủy Đền Thờ thứ nhất.
+
+## Thuật ngữ xuất hiện trong các điều răn còn lại
+
+<a id="sukkah"></a>
+### Sukkah — סֻכָּה
+
+Lều tạm dùng trong lễ Sukkot, có mái che bằng vật liệu thực vật đã rời khỏi đất. Việc “ở trong sukkah” là một thực hành nghi lễ, không chỉ có nghĩa chung là ở trong lều.
+
+<a id="lulav-and-four-species"></a>
+### Lulav và bốn loài — לוּלָב / אַרְבַּעַת הַמִּינִים
+
+*Lulav* vốn là nhánh chà là, đồng thời thường được dùng để gọi bó nghi lễ gồm chà là, sim và liễu; bó này được cầm cùng quả *etrog* trong Sukkot.
+
+<a id="yibbum-yavam-yevamah-and-halitzah"></a>
+### Yibbum, yavam, yevamah và halitzah — יִבּוּם / יָבָם / יְבָמָה / חֲלִיצָה
+
+*Yibbum* là hôn nhân levirate: người đàn ông cưới góa phụ của người anh em chết không con. Người đàn ông là *yavam*, góa phụ là *yevamah*. *Halitzah* là nghi thức tháo giày chấm dứt ràng buộc ấy khi họ không kết hôn.
+
+<a id="get"></a>
+### Get / chứng thư ly hôn — גֵּט
+
+Văn kiện ly hôn theo halakhah. Dịch đơn thuần là “ly hôn” làm mất ý rằng điều răn nói đến một văn bản pháp lý cụ thể.
+
+<a id="sotah"></a>
+### Sotah — סוֹטָה
+
+Người vợ bị chồng nghi ngoại tình trong thủ tục của Dân Số 5. Đây là một địa vị pháp lý–nghi lễ cổ đại, không phải từ đồng nghĩa chung cho “người ngoại tình”.
+
+<a id="yefat-toar"></a>
+### Yefat to'ar — יְפַת תֹּאַר
+
+Nghĩa đen là “người phụ nữ dung mạo đẹp”, chỉ nữ tù binh chiến tranh trong thủ tục đặc thù của Đệ Nhị Luật 21. Thuật ngữ không nên tách khỏi bối cảnh chiến tranh cổ đại ấy.
+
+<a id="ov-and-yidoni"></a>
+### Ov và yid'oni — אוֹב / יִדְּעֹנִי
+
+Hai loại người hoặc phép cầu hồn bị Torah cấm. Nghĩa và kỹ thuật chính xác của chúng không hoàn toàn chắc chắn, nên giữ phiên âm thay vì đồng nhất với mọi hình thức “phù thủy”.
+
+<a id="molech"></a>
+### Molech — מֹלֶךְ
+
+Tên gắn với nghi thức “cho con đi qua lửa” bị Torah cấm. Học giới tranh luận đây là một thần linh, một loại lễ hiến tế hay tên của nghi thức; vì vậy bài giữ nguyên tên riêng.
+
+<a id="shaatnez"></a>
+### Sha'atnez — שַׁעַטְנֵז
+
+Vải hoặc y phục pha len và lanh bị cấm trong Torah. Đây không phải lệnh cấm chung đối với mọi loại vải pha.
+
+<a id="ephod-and-breastplate"></a>
+### Ephod và tấm đeo ngực — אֵפוֹד / חֹשֶׁן
+
+Hai bộ phận trong phẩm phục của Thượng tế. *Ephod* là một loại áo hay tạp dề nghi lễ; *ḥoshen* là tấm đeo ngực gắn với ephod.
+
+<a id="piggul"></a>
+### Piggul — פִּגּוּל
+
+Lễ vật bị mất tư cách do tư tế có ý định ăn hoặc dâng phần của nó ngoài thời gian hay nơi chốn được phép. Không phải mọi lễ vật hỏng hoặc ô uế đều là *piggul*.
+
+<a id="terumah-terumot-and-tevel"></a>
+### Terumah, terumot và tevel — תְּרוּמָה / תְּרוּמוֹת / טֶבֶל
+
+*Terumah* là phần nông sản được tách cho tư tế; *terumot* là số nhiều và trong một số ngữ cảnh bao gồm nhiều phần dâng. *Tevel* là nông sản chưa tách đủ các phần dâng và phần mười bắt buộc.
+
+<a id="zonah-and-chalalah"></a>
+### Zonah và chalalah — זוֹנָה / חֲלָלָה
+
+Hai địa vị hôn nhân trong luật tư tế. Phạm vi pháp lý của *zonah* hẹp và kỹ thuật hơn từ “gái mại dâm” thông thường; *chalalah* là phụ nữ bị mất tư cách tư tế do một quan hệ bị cấm đối với kohen hoặc sinh ra từ quan hệ ấy.
+
+<a id="trefah"></a>
+### Trefah — טְרֵפָה
+
+Con vật bị thương hoặc mắc tổn thương chí tử theo phân loại halakhah. Trong cách dùng hiện đại, từ này đôi khi được dùng rộng cho đồ ăn không kosher, nhưng điều răn ở đây có nghĩa kỹ thuật hẹp hơn.
+
+<a id="orlah"></a>
+### Orlah — עָרְלָה
+
+Hoa trái của cây trong ba năm đầu sau khi trồng, bị cấm dùng theo Lêvi 19. Không nên nhầm với nghĩa khác của cùng gốc từ liên quan đến “chưa cắt bao quy đầu”.
+
+<a id="nasi"></a>
+### Nasi — נָשִׂיא
+
+Người đứng đầu hoặc thủ lĩnh. Trong hệ thống của Maimonides ở điều cấm này, từ có thể chỉ vua hoặc người đứng đầu học viện tại Eretz Yisrael.
+
+<a id="mamzer"></a>
+### Mamzer — מַמְזֵר
+
+Địa vị pháp lý của người sinh từ một số quan hệ bị Torah cấm nghiêm trọng. Từ này không tương đương với “con ngoài giá thú” theo nghĩa rộng trong văn hóa Việt.
+
+<a id="kedeishah"></a>
+### Kedeishah — קְדֵשָׁה
+
+Trong cách Maimonides trình bày điều cấm, chỉ người phụ nữ quan hệ tính dục mà không có khế ước và nghi thức hôn nhân. Cách hiểu thuật ngữ trong văn bản Kinh Thánh là vấn đề còn được tranh luận.
+
+<a id="teruah"></a>
+### Teruah — תְּרוּעָה
+
+Một tiếng hiệu hoặc âm thanh bẻ đoạn được Torah nhắc trong luật Rosh Hashanah và Jubilee. Trong thực hành Rosh Hashanah, truyền thống rabbi xác định đây là một kiểu tiếng shofar và phân biệt nó với các âm *tekiah* và *shevarim*. Không nên mặc định mọi chỗ có *teruah* đều chỉ đúng một nhạc cụ.
+
+<a id="half-shekel"></a>
+### Machatzit HaShekel / nửa shekel — מַחֲצִית הַשֶּׁקֶל
+
+Khoản bạc nặng nửa shekel theo chuẩn “shekel nơi thánh” trong Xuất Hành 30, về sau được dùng làm khoản đóng góp thường niên cho phụng tự cộng đồng tại Đền Thánh. Shekel trong ngữ cảnh này là đơn vị trọng lượng cổ, không phải đồng tiền của Nhà nước Israel hiện đại.
+
+<a id="beit-din-hagadol"></a>
+### Beit din ha-gadol / Đại Tòa án — בֵּית דִּין הַגָּדוֹל
+
+Nghĩa đen là “tòa án lớn”, thuật ngữ Maimonides dùng cho thiết chế tư pháp–giải thích luật trung ương. Nó được truyền thống rabbi liên hệ với tòa ở “nơi YHWH sẽ chọn” trong Đệ Nhị Luật 17 và với Sanhedrin, nhưng các thiết chế ấy không nên bị đồng nhất máy móc qua mọi thời kỳ lịch sử.
+
+<a id="judges-officers"></a>
+### Shoftim và shoterim / thẩm phán và viên chức — שֹׁפְטִים / שֹׁטְרִים
+
+*Shoftim* là những người xét xử; *shoterim* là viên chức hỗ trợ và thực thi trật tự hay phán quyết. Trong thành phố Cận Đông cổ đại, việc xét xử thường diễn ra tại cổng thành. Không nên mặc định *shoterim* có mọi chức năng giống cảnh sát hiện đại.
+
+<a id="conspiring-witnesses"></a>
+### Edim zomemim / nhân chứng mưu hại — עֵדִים זוֹמְמִים
+
+Phạm trù nhân chứng gian kỹ thuật trong halakhah: lời khai của họ bị một nhóm nhân chứng khác bác bỏ bằng cách chứng minh họ không thể có mặt tại thời gian và địa điểm đã khai. Đây hẹp hơn nghĩa chung của “người nói dối trước tòa”.
+
+<a id="eglah-arufah"></a>
+### Eglah arufah / bê cái bị chặt cổ — עֶגְלָה עֲרוּפָה
+
+Nghi thức trong Đệ Nhị Luật 21 dành cho vụ giết người chưa tìm ra thủ phạm. Các trưởng lão thành gần nhất chặt cổ một bê cái tại thung lũng có dòng nước và công khai tuyên bố trách nhiệm của mình; đây không phải lễ vật được dâng trên bàn thờ Đền Thánh.
+
+<a id="cities-of-refuge"></a>
+### Arei miklat / các thành trú ẩn — עָרֵי מִקְלָט
+
+Sáu thành được chỉ định để người vô ý gây chết người chạy đến, tránh sự báo thù huyết thống trước khi vụ việc được xét định. Chúng không che chở người cố ý giết người khỏi công lý và cũng là nơi cư trú bắt buộc trong thời hạn luật định.
+
+<a id="apostate-city"></a>
+### Ir hanidachat / thành bị lôi kéo thờ ngẫu tượng — עִיר הַנִּדַּחַת
+
+Phạm trù trong Đệ Nhị Luật 13 về một thành Israel bị lôi kéo tập thể sang thờ thần khác. Luật rabbi đặt ra nhiều điều kiện đến mức Talmud ghi nhận ý kiến cho rằng trường hợp này chưa từng và sẽ không bao giờ xảy ra.
+
+<a id="amalek"></a>
+### Amalek — עֲמָלֵק
+
+Dân thù địch được Xuất Hành và Đệ Nhị Luật mô tả là tấn công Israel, đặc biệt những người yếu tụt lại phía sau. Trong truyền thống, Amalek còn trở thành biểu tượng của cái ác; biểu tượng ấy không cung cấp căn cứ lịch sử hay pháp lý để gán bất kỳ dân tộc hiện đại nào là Amalek.
+
+<a id="optional-war"></a>
+### Milchemet reshut / chiến tranh tự nguyện — מִלְחֶמֶת הָרְשׁוּת
+
+Trong phân loại rabbi, cuộc chiến do nhà vua lựa chọn vì mục tiêu chính trị hoặc lãnh thổ, đối lập với loại chiến tranh được coi là bắt buộc. Maimonides đặt nó dưới thẩm quyền công cộng và các giới hạn pháp lý; thuật ngữ không có nghĩa cá nhân được tự ý gây chiến.
+
