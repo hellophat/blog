@@ -34,6 +34,8 @@ Khi đang chơi và cần tra nhanh:
 
 Nếu bạn là Quản trò, hãy đọc thêm [Chương 9 – Hộp công cụ cho trò chơi](09-Gameplay-Toolbox.md), [Chương 10 – Vật phẩm ma thuật](10-Magic-Items.md), [Chương 11 – Quái vật](11-Monsters.md), [Chương 12 – Quái vật từ A đến Z](12-Monsters-A-Z.md) và [Chương 13 – Động vật](13-Animals.md).
 
+Để tham khảo lớp tên văn chương dành cho những thành phần hư cấu, xem [Glossary danh xưng Hán–Việt](Glossary-Danh-Xung-Han-Viet.md).
+
 ## Quy ước đọc
 
 - Tiêu đề và thuật ngữ được viết theo dạng **Tiếng Việt (English)** để bạn đối chiếu với bản gốc, ví dụ **Chỉ số giáp (Armor Class, AC)**.

@@ -6,6 +6,7 @@ tags:
   - Torah
   - Mitzvot
   - Maimonides
+enableToc: true
 ---
 
 # 613 điều răn trong Do Thái giáo
@@ -4991,7 +4992,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 - [Talmud Babylon, Makkot 23b–24a](https://www.sefaria.org/Makkot.23b?lang=bi)
 - [Tefillin và mezuzot trong Kho bản thảo Biển Chết của Cơ quan Cổ vật Israel](https://www.deadseascrolls.org.il/learn-about-the-scrolls/scrolls-content?locale=en_US)
 - [Danh mục các mitzvot tích cực trong *Mishneh Torah*](https://www.sefaria.org/Mishneh_Torah%2C_Positive_Mitzvot?lang=bi)
-- [Khảo luận của Metropolitan Museum về menorah như biểu tượng Do Thái](https://resources.metmuseum.org/resources/metpublications/pdf/Age_of_Transition_Byzantine_Culture_in_the_Islamic_World.pdf)
+- [Steven Fine, “When is a Menorah ‘Jewish’?”, trong *Age of Transition* (Metropolitan Museum of Art, 2015)](https://resources.metmuseum.org/resources/metpublications/pdf/Age_of_Transition_Byzantine_Culture_in_the_Islamic_World.pdf)
 - [Các phiến bạc Ketef Hinnom tại Israel Museum](https://www.imj.org.il/en/exhibitions/i-will-lift-mine-eyes)
 - [Ghi chú văn bản về mitzvah P43 của Maimonides](https://www.chabad.org/library/article_cdo/aid/961441/jewish/Positive-Commandment-43.htm)
 
