@@ -38,6 +38,8 @@ Một số đặc tính cho bạn phép luôn được chuẩn bị sẵn. Nếu
 
 ## Thi triển phép (Casting Spells)
 
+![Grid kỹ năng huyền thuật: bậc phép, thành phần, tầm, thời lượng và các nguyên tắc thi triển.](assets/chapter-07-grid-fundamentals.png)
+
 Mỗi mô tả phép có một loạt mục cung cấp chi tiết cần thiết để thi triển. Các phần sau giải thích từng mục, vốn xuất hiện ngay sau tên phép.
 
 **Thi triển khi mặc giáp (Casting in Armor)**
@@ -231,6 +233,8 @@ Bạn đặt báo động chống kẻ xâm nhập. Chọn một cánh cửa, c�
 
 ### Biến đổi bản thân (Alter Self)
 
+![Grid kỹ năng huyền thuật về biến đổi và sức mạnh tự nhiên.](assets/chapter-07-grid-transformation.png)
+
 *Biến đổi bậc 2 (Thuật sĩ, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -242,7 +246,7 @@ Bạn biến đổi hình dạng cơ thể. Chọn một trong các lựa chọn
 
 - **Thích nghi dưới nước (Aquatic Adaptation).** Bạn mọc mang và màng giữa các ngón tay. Bạn thở được dưới nước và có Tốc độ bơi bằng Tốc độ của mình.
 - **Đổi diện mạo (Change Appearance).** Bạn thay đổi ngoại hình. Bạn quyết định mình trông ra sao, gồm chiều cao, cân nặng, nét mặt, giọng nói, độ dài tóc, màu sắc và các đặc điểm nhận dạng khác. Bạn có thể trông như thành viên của giống loài khác, dù chỉ số không đổi. Bạn không thể trông như sinh vật khác kích cỡ, và hình thể cơ bản giữ nguyên; chẳng hạn, nếu đi hai chân, bạn không thể dùng phép này để thành bốn chân.
-- **Vũ khí tự nhiên (Natural Weapons).** Bạn mọc vuốt (chém), nanh (xuyên), sừng (xuyên) hoặc móng guốc (đập). Khi dùng đòn tay không gây sát thương bằng bộ phận mới này, nó gây 1d6 sát thương loại ghi trong ngoặc thay cho sát thương thường của đòn tay không, và bạn dùng hệ số thuộc tính thi triển phép thay cho Sức mạnh khi tung tấn công và sát thương.
+- **Vũ khí tự nhiên (Natural Weapons).** Bạn mọc vuốt (chém), nanh (xuyên), sừng (xuyên) hoặc móng guốc (đập). Khi dùng đòn đánh không vũ khí gây sát thương bằng bộ phận mới này, nó gây 1d6 sát thương loại ghi trong ngoặc thay cho sát thương thường của đòn đánh không vũ khí, và bạn dùng hệ số thuộc tính thi triển phép thay cho Sức mạnh khi tung tấn công và sát thương.
 
 ### Tình bạn muông thú (Animal Friendship)
 
@@ -288,6 +292,8 @@ Chỉ số trò chơi của mục tiêu được thay bằng chỉ số của Th
 Mục tiêu nhận số điểm sinh lực tạm thời bằng HP của dạng đầu tiên nó biến thành. Số điểm sinh lực tạm thời còn lại biến mất khi phép kết thúc. Biến đổi kéo dài suốt thời lượng hoặc đến khi mục tiêu dùng hành động phụ để kết thúc.
 
 ### Hoạt hóa xác chết (Animate Dead)
+
+![Grid kỹ năng huyền thuật về tử thuật, bóng tối và lời nguyền.](assets/chapter-07-grid-death-shadow.png)
 
 *Tử linh bậc 3 (Giáo sĩ, Pháp sư)*
 
@@ -1002,6 +1008,8 @@ Cuối mỗi lượt của mình, mục tiêu bị ảnh hưởng lặp lại l�
 
 ### Triệu hồi muông thú (Conjure Animals)
 
+![Grid kỹ năng huyền thuật về triệu hồi và tạo vật thể.](assets/chapter-07-grid-summoning.png)
+
 *Triệu hồi bậc 3 (Druid, Kiểm lâm)*
 
 - **Thời gian thi triển:** Hành động
@@ -1218,6 +1226,9 @@ Khi thay đổi thời tiết, tìm điều kiện hiện tại trong các bản
 
 ### Phản phép (Counterspell)
 
+
+![Grid kỹ năng huyền thuật về phòng hộ, phá giải và bảo vệ.](assets/chapter-07-grid-wards.png)
+
 *Phòng hộ bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Phản ứng, dùng khi bạn thấy một sinh vật trong phạm vi 18 m (60 feet) đang thi triển phép có thành phần lời nói, cử chỉ hoặc vật chất
@@ -1297,6 +1308,9 @@ Thời lượng phụ thuộc vào chất liệu của đồ vật, như trong b
 *Dùng ô phép bậc cao hơn.* Cạnh khối lập phương tăng 1,5 m (5 feet) cho mỗi bậc ô phép trên 5.
 
 ### Chữa vết thương (Cure Wounds)
+
+
+![Grid kỹ năng huyền thuật về chữa lành, phục hồi và hồi sinh.](assets/chapter-07-grid-healing.png)
 
 *Phòng hộ bậc 1 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm)*
 
@@ -1425,6 +1439,9 @@ Phép bị chặn bởi 30 cm (1 foot) đá, đất hoặc gỗ; 2,5 cm (1 inch)
 
 ### Phát hiện ma thuật (Detect Magic)
 
+
+![Grid kỹ năng huyền thuật về bói tìm, nhận diện và khám phá.](assets/chapter-07-grid-divination.png)
+
 *Tiên tri bậc 1 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động hoặc Nghi thức
@@ -1530,6 +1547,7 @@ Trong suốt thời lượng, Thiên thể, Nguyên tố, Tiên, Ác quỷ và X
 
 ### Giải trừ ma thuật (Dispel Magic)
 
+
 *Phòng hộ bậc 3 (Thi sĩ, Giáo sĩ, Druid, Thánh kỵ sĩ, Kiểm lâm, Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -1582,7 +1600,7 @@ Cho đến khi phép kết thúc, các đòn tấn công bằng vũ khí của b
 
 *Gọi năng lượng bậc 1 (Thánh kỵ sĩ)*
 
-- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn tay không
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn đánh không vũ khí
 - **Tầm:** Bản thân
 - **Thành phần:** V
 - **Thời lượng:** Tức thời
@@ -1784,8 +1802,8 @@ Trong suốt thời lượng, phép phóng to hoặc thu nhỏ một sinh vật 
 
 Mọi thứ sinh vật mục tiêu đang mặc và mang đổi kích cỡ theo nó. Vật nào bị nó đánh rơi lập tức trở về kích cỡ thường. Vũ khí ném hoặc đạn trở về kích cỡ thường ngay sau khi trúng hoặc trượt mục tiêu.
 
-- **Phóng to (Enlarge).** Kích cỡ mục tiêu tăng một hạng — chẳng hạn từ Trung bình thành Lớn. Mục tiêu cũng có lợi thế khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã phóng to hoặc đòn tay không gây thêm 1d4 sát thương khi trúng.
-- **Thu nhỏ (Reduce).** Kích cỡ mục tiêu giảm một hạng — chẳng hạn từ Trung bình thành Nhỏ. Mục tiêu cũng chịu bất lợi khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã thu nhỏ hoặc đòn tay không gây ít hơn 1d4 sát thương khi trúng (không thể giảm sát thương xuống dưới 1).
+- **Phóng to (Enlarge).** Kích cỡ mục tiêu tăng một hạng — chẳng hạn từ Trung bình thành Lớn. Mục tiêu cũng có lợi thế khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã phóng to hoặc đòn đánh không vũ khí gây thêm 1d4 sát thương khi trúng.
+- **Thu nhỏ (Reduce).** Kích cỡ mục tiêu giảm một hạng — chẳng hạn từ Trung bình thành Nhỏ. Mục tiêu cũng chịu bất lợi khi kiểm tra Sức mạnh và cứu nguy Sức mạnh. Đòn tấn công của mục tiêu bằng vũ khí đã thu nhỏ hoặc đòn đánh không vũ khí gây ít hơn 1d4 sát thương khi trúng (không thể giảm sát thương xuống dưới 1).
 
 ### Đòn trói buộc (Ensnaring Strike)
 
@@ -2060,6 +2078,9 @@ Hình người bị phép này giết chết sống dậy vào đầu lượt k�
 
 ### Quả cầu lửa (Fireball)
 
+
+![Grid kỹ năng huyền thuật về tấn công nguyên tố.](assets/chapter-07-grid-elemental.png)
+
 *Gọi năng lượng bậc 3 (Thuật sĩ, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -2074,6 +2095,7 @@ Một vệt sáng lóe ra từ bạn đến một điểm tùy chọn trong tầ
 *Dùng ô phép bậc cao hơn.* Sát thương tăng 1d6 cho mỗi bậc ô phép trên 3.
 
 ### Tia lửa (Fire Bolt)
+
 
 *Phép sơ cấp Gọi năng lượng (Thuật sĩ, Pháp sư)*
 
@@ -2192,6 +2214,7 @@ Phép tạo một mặt phẳng lực tròn nằm ngang, đường kính 0,9 m (
 Nếu bạn đi xa quá 30 m (100 feet) khỏi đĩa (thường do nó không vượt được chướng ngại để theo bạn), phép kết thúc.
 
 ### Bay (Fly)
+
 
 *Biến đổi bậc 3 (Thuật sĩ, Warlock, Pháp sư)*
 
@@ -2596,7 +2619,7 @@ Bằng hành động phụ ở các lượt sau, bạn có thể đổi hướng
 
 Bạn chạm vào một điểm và truyền vào vùng xung quanh sức mạnh thánh thiện hoặc báng bổ. Vùng có bán kính tối đa 18 m (60 feet), và phép thất bại nếu bán kính đó chạm vào vùng đang chịu hiệu ứng *Thánh hóa* khác. Vùng bị ảnh hưởng có các hiệu ứng sau.
 
-Chọn các loại sinh vật trong số: Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống. Sinh vật thuộc loại đã chọn không thể tự nguyện đi vào vùng, và sinh vật nào đang bị chúng chiếm hữu, Mê hoặc hay Hoảng sợ thì không còn bị như vậy khi ở trong vùng.
+**Kết giới thánh hóa (Hallowed Ward).** Chọn các loại sinh vật trong số: Dị thể, Thiên thể, Nguyên tố, Tiên, Ác quỷ hoặc Xác sống. Sinh vật thuộc loại đã chọn không thể tự nguyện đi vào vùng, và sinh vật nào đang bị chúng chiếm hữu, Mê hoặc hay Hoảng sợ thì không còn bị như vậy khi ở trong vùng.
 
 **Hiệu ứng thêm (Extra Effect).** Bạn gắn thêm một hiệu ứng vào vùng từ danh sách dưới đây:
 
@@ -2661,6 +2684,7 @@ Chọn một sinh vật bạn nhìn thấy trong tầm. Năng lượng tích c�
 *Dùng ô phép bậc cao hơn.* Lượng hồi tăng 10 cho mỗi bậc ô phép trên 6.
 
 ### Lời chữa lành (Healing Word)
+
 
 *Phòng hộ bậc 1 (Thi sĩ, Giáo sĩ, Druid)*
 
@@ -2759,6 +2783,8 @@ Cuối mỗi lượt của nó và mỗi khi chịu sát thương, nó cứu ngu
 
 ### Giữ quái vật (Hold Monster)
 
+![Grid kỹ năng huyền thuật về khống chế và trạng thái.](assets/chapter-07-grid-control.png)
+
 *Yểm thuật bậc 5 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -2771,6 +2797,7 @@ Chọn một sinh vật bạn nhìn thấy trong tầm. Mục tiêu phải thàn
 *Dùng ô phép bậc cao hơn.* Bạn có thể nhắm thêm một sinh vật cho mỗi bậc ô phép trên 5.
 
 ### Giữ người (Hold Person)
+
 
 *Yểm thuật bậc 2 (Thi sĩ, Giáo sĩ, Druid, Thuật sĩ, Warlock, Pháp sư)*
 
@@ -2974,6 +3001,9 @@ Nếu thất bại, mục tiêu rơi vào trạng thái Mê hoặc suốt thời
 
 ### Vô hình (Invisibility)
 
+
+![Grid kỹ năng huyền thuật về ảo ảnh, mê hoặc và thao túng nhận thức.](assets/chapter-07-grid-illusion.png)
+
 *Ảo ảnh bậc 2 (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -3057,6 +3087,7 @@ Mục tiêu chỉ di chuyển được bằng cách đẩy hoặc kéo vào vậ
 Khi phép kết thúc, mục tiêu nhẹ nhàng hạ xuống đất nếu vẫn đang lơ lửng.
 
 ### Ánh sáng (Light)
+
 
 *Phép sơ cấp Gọi năng lượng (Thi sĩ, Giáo sĩ, Thuật sĩ, Pháp sư)*
 
@@ -3151,6 +3182,7 @@ Bạn chạm vào một sinh vật tự nguyện không mặc giáp. Cho đến 
 
 ### Bàn tay pháp sư (Mage Hand)
 
+
 *Phép sơ cấp Triệu hồi (Thi sĩ, Thuật sĩ, Warlock, Pháp sư)*
 
 - **Thời gian thi triển:** Hành động
@@ -3209,6 +3241,7 @@ Nếu vật chứa bị phá hủy hoặc phép kết thúc, linh hồn bạn tr
 Khi phép kết thúc, vật chứa bị phá hủy.
 
 ### Phi tiêu ma thuật (Magic Missile)
+
 
 *Gọi năng lượng bậc 1 (Thuật sĩ, Pháp sư)*
 
@@ -3494,6 +3527,9 @@ Bằng hành động Ma thuật, bạn có thể di chuyển bản sao tối đa
 Bạn có thể nhìn qua mắt và nghe qua tai bản sao như thể đang ở chỗ của nó.
 
 ### Bước sương (Misty Step)
+
+
+![Grid kỹ năng huyền thuật về dịch chuyển và không gian.](assets/chapter-07-grid-mobility.png)
 
 *Triệu hồi bậc 2 (Thuật sĩ, Warlock, Pháp sư)*
 
@@ -3816,7 +3852,7 @@ Tám tia sáng lóe ra từ bạn trong hình nón 18 m (60 feet). Mỗi sinh v�
 | 5 | Lam. Thất bại: 12d6 sát thương lạnh. Thành công: một nửa sát thương. |
 | 6 | Chàm. Thất bại: Mục tiêu rơi vào trạng thái Kiềm giữ và cứu nguy Thể chất vào cuối mỗi lượt. Nếu thành công ba lần, trạng thái kết thúc. Nếu thất bại ba lần, nó rơi vào trạng thái Hóa đá cho đến khi được giải thoát bằng hiệu ứng như phép *Phục hồi cao cấp* (Greater Restoration). Các lần thành công và thất bại không cần liên tiếp; đếm cả hai đến khi một loại đạt ba lần. |
 | 7 | Tím. Thất bại: Mục tiêu rơi vào trạng thái Mù và cứu nguy Minh triết vào đầu lượt kế tiếp của bạn. Nếu thành công, trạng thái kết thúc. Nếu thất bại, trạng thái kết thúc và sinh vật bị dịch chuyển tức thời sang một cõi tồn tại khác (GM chọn). |
-| 8 | Đặc biệt. Mục tiêu trúng hai tia. Tung lại hai lần, tung lại nếu ra 8. |
+| 8 | Đặc biệt. Mục tiêu trúng hai tia. Tung hai lần, tung lại mọi kết quả 8. |
 
 ### Tường ngũ sắc (Prismatic Wall)
 
@@ -4213,7 +4249,7 @@ Thay vì nhắm vào sinh vật, bạn có thể nhắm vào một nơi bạn t�
 
 *Gọi năng lượng bậc 1 (Thánh kỵ sĩ)*
 
-- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn tay không
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng mục tiêu bằng vũ khí cận chiến hoặc đòn đánh không vũ khí
 - **Tầm:** Bản thân
 - **Thành phần:** V
 - **Thời lượng:** 1 phút
@@ -4231,7 +4267,7 @@ Khi bạn đánh trúng, mục tiêu chịu thêm 1d6 sát thương lửa từ �
 - **Thành phần:** V, S, M (một chiếc rương 0,9 × 0,6 × 0,6 m — 3 × 2 × 2 feet — làm từ vật liệu quý hiếm trị giá 5.000+ gp, và một bản sao thu nhỏ cùng chất liệu trị giá 50+ gp)
 - **Thời lượng:** Đến khi bị giải trừ
 
-Bạn cất giấu một chiếc rương cùng mọi thứ bên trong vào Cõi Ethereal. Bạn phải chạm vào rương và bản sao thu nhỏ dùng làm thành phần vật chất. Rương chứa được tối đa 340 lít (12 foot khối) vật chất vô tri (0,9 × 0,6 × 0,6 m).
+Bạn cất giấu một chiếc rương cùng mọi thứ bên trong vào Cõi Ethereal. Bạn phải chạm vào rương và bản sao thu nhỏ dùng làm thành phần vật chất. Rương chứa được tối đa 340 lít (12 foot khối) vật chất vô tri (0,9 × 0,6 × 0,6 m; 3 × 2 × 2 feet).
 
 Khi rương còn ở Cõi Ethereal, bạn có thể dùng hành động Ma thuật chạm vào bản sao để gọi rương về. Nó xuất hiện tại một chỗ trống trên mặt đất trong phạm vi 1,5 m (5 feet) quanh bạn. Bạn có thể gửi rương trở lại Cõi Ethereal bằng hành động Ma thuật chạm vào cả rương và bản sao.
 
@@ -4329,6 +4365,7 @@ Một tiếng nổ chói tai vang lên từ một điểm tùy chọn trong tầ
 
 ### Khiên (Shield)
 
+
 *Phòng hộ bậc 1 (Thuật sĩ, Pháp sư)*
 
 - **Thời gian thi triển:** Phản ứng, dùng khi bạn bị lần tung tấn công đánh trúng hoặc bị phép *Phi tiêu ma thuật* (Magic Missile) nhắm vào
@@ -4368,7 +4405,7 @@ Phép kết thúc sớm nếu bạn thi triển lại hoặc buông vũ khí.
 
 *Biến đổi bậc 2 (Thánh kỵ sĩ)*
 
-- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng một sinh vật bằng vũ khí cận chiến hoặc đòn tay không
+- **Thời gian thi triển:** Hành động phụ, dùng ngay sau khi đánh trúng một sinh vật bằng vũ khí cận chiến hoặc đòn đánh không vũ khí
 - **Tầm:** Bản thân
 - **Thành phần:** V
 - **Thời lượng:** Tập trung, tối đa 1 phút
@@ -4434,6 +4471,7 @@ Nếu bản sao chịu sát thương, cách duy nhất hồi HP cho nó là sử
 Bản sao tồn tại đến khi HP về 0, lúc đó nó trở lại thành tuyết và tan chảy. Nếu bạn thi triển lại phép này, mọi bản sao đã tạo bằng phép lập tức bị phá hủy.
 
 ### Ngủ (Sleep)
+
 
 *Yểm thuật bậc 1 (Thi sĩ, Thuật sĩ, Pháp sư)*
 
@@ -5290,6 +5328,8 @@ Khi bức tường xuất hiện, mỗi sinh vật trong vùng của nó cứu n
 Gió mạnh đẩy sương mù, khói và các loại khí khác ra xa. Sinh vật hoặc đồ vật đang bay cỡ Nhỏ trở xuống không thể đi xuyên qua tường. Vật liệu rời, nhẹ đưa vào tường bị thổi bay lên trên. Mũi tên, tên nỏ và các loại đạn thông thường khác bắn vào mục tiêu sau tường bị hất lệch lên trên và tự động trượt. Đá tảng do Người khổng lồ hay khí cụ công thành ném, và các loại đạn tương tự, không bị ảnh hưởng. Sinh vật ở thể khí không thể đi xuyên qua tường.
 
 ### Ước nguyện (Wish)
+
+![Grid kỹ năng huyền thuật về phép thuật huyền thoại và bậc cao.](assets/chapter-07-grid-legendary.png)
 
 *Triệu hồi bậc 9 (Thuật sĩ, Pháp sư)*
 

@@ -30,7 +30,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Monsters A–Z
 - *Lưỡng cư (Amphibious).* Aboleth có thể thở trong không khí và nước.
 - *Phục sinh huyền bí (Eldritch Restoration).* Nếu bị tiêu diệt, aboleth nhận một cơ thể mới sau 5d10 ngày, hồi sinh với toàn bộ điểm sinh lực ở Far Realm hoặc một địa điểm khác do Quản trò chọn.
 - *Kháng cự huyền thoại (Legendary Resistance; 3/Ngày, hoặc 4/Ngày trong hang ổ).* Nếu aboleth thất bại trong một lần cứu nguy, nó có thể chọn thành công thay vào đó.
-- *Mây chất nhầy (Mucus Cloud).* Trong khi ở dưới nước, aboleth được bao quanh bởi chất nhầy. Cứu nguy Thể chất: DC 14, mỗi sinh vật trong một vùng tỏa 1,5 m (5 feet) bắt nguồn từ aboleth vào cuối lượt của aboleth. Thất bại: Mục tiêu bị nguyền. Cho đến khi lời nguyền kết thúc, da của mục tiêu trở nên nhầy nhụa, mục tiêu có thể thở trong không khí và nước, và nó không thể phục hồi điểm sinh lực trừ khi nó đang ở dưới nước. Trong khi sinh vật bị nguyền ở bên ngoài một vùng nước, sinh vật chịu 6 (1d12) sát thương axit vào cuối mỗi 10 phút trừ khi độ ẩm được bôi lên da của nó trước khi những phút đó trôi qua.
+- *Mây chất nhầy (Mucus Cloud).* Trong khi ở dưới nước, aboleth được bao quanh bởi chất nhầy. Cứu nguy Thể chất: DC 14, mỗi sinh vật trong một vùng tỏa 1,5 m (5 feet) bắt nguồn từ aboleth vào cuối lượt của aboleth. Thất bại: Mục tiêu bị nguyền. Cho đến khi lời nguyền kết thúc, da của mục tiêu trở nên nhầy nhụa, mục tiêu có thể thở trong không khí và nước, và nó không thể phục hồi điểm sinh lực trừ khi nó đang ở dưới nước. Trong khi sinh vật bị nguyền ở ngoài một vùng nước, sinh vật chịu 6 (1d12) sát thương axit sau mỗi 10 phút, trừ khi da của nó được làm ẩm trước khi khoảng thời gian đó kết thúc.
 - *Thần giao cách cảm dò xét (Probing Telepathy).* Nếu một sinh vật aboleth có thể thấy giao tiếp bằng thần giao cách cảm với aboleth, aboleth biết được những mong muốn lớn nhất của sinh vật đó.
 
 *Hành động*
@@ -65,13 +65,13 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Dạng khí (Air Form).* Nguyên tố có thể tiến vào không gian của một sinh vật và dừng lại đó. Nó có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
+- *Dạng khí (Air Form).* Nguyên tố có thể tiến vào không gian của một sinh vật và dừng lại đó. Nó có thể di chuyển qua một không gian chỉ rộng 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển.
 
 *Hành động*
 
 - *Đa đòn (Multiattack).* Nguyên tố thực hiện hai đòn Đập sấm.
 - *Đập sấm (Thunderous Slam).* Tung tấn công cận chiến: +8, tầm với 3 m (10 ft.). Trúng: 14 (2d8 + 5) sát thương sấm.
-- *Lốc xoáy (Whirlwind; Hồi 4–6).* Cứu nguy Sức mạnh: DC 13, một sinh vật cỡ Trung bình trở xuống trong không gian của elemental. Thất bại: 24 (4d10 + 2) sát thương sấm, và mục tiêu bị đẩy xa tối đa 6 m (20 feet) trực tiếp khỏi elemental và ở trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
+- *Lốc xoáy (Whirlwind; Hồi 4–6).* Cứu nguy Sức mạnh: DC 13, một sinh vật cỡ Trung bình trở xuống trong không gian của nguyên tố. Thất bại: 24 (4d10 + 2) sát thương sấm, và mục tiêu bị đẩy thẳng ra xa nguyên tố tối đa 6 m (20 feet) rồi rơi vào trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
 
 ## Đồ vật hoạt hóa (Animated Objects)
 
@@ -145,7 +145,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Cắn (Bite).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang bị Bị vật lộn bởi ankheg), tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém cộng 3 (1d6) sát thương axit. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13).
+- *Cắn (Bite).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang ở trạng thái Bị vật lộn bởi ankheg), tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém cộng 3 (1d6) sát thương axit. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13).
 - *Phun axit (Acid Spray; Hồi 6).* Cứu nguy Khéo léo: DC 12, mỗi sinh vật trong một đường thẳng dài 9 m (30 feet), rộng 1,5 m (5 feet). Thất bại: 14 (4d6) sát thương axit. Thành công: Một nửa sát thương.
 
 ## Sát thủ (Assassin)
@@ -165,17 +165,17 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Né tránh bẩm sinh (Evasion).* Nếu assassin phải chịu một hiệu ứng cho phép nó thực hiện một cứu nguy Khéo léo để chỉ nhận một nửa sát thương, assassin thay vào đó không chịu sát thương nào nếu nó thành công trong lần cứu nguy và chỉ nhận một nửa sát thương nếu nó thất bại. Nó không thể dùng đặc điểm này nếu nó ở trạng thái Mất năng lực hành động.
+- *Né tránh bẩm sinh (Evasion).* Nếu sát thủ phải chịu một hiệu ứng cho phép nó thực hiện một cứu nguy Khéo léo để chỉ nhận một nửa sát thương, sát thủ thay vào đó không chịu sát thương nào nếu nó thành công trong lần cứu nguy và chỉ nhận một nửa sát thương nếu nó thất bại. Nó không thể dùng đặc điểm này nếu nó ở trạng thái Mất năng lực hành động.
 
 *Hành động*
 
 - *Đa đòn (Multiattack).* Assassin thực hiện ba đòn tấn công, dùng Kiếm ngắn hoặc Nỏ nhẹ theo bất kỳ tổ hợp nào.
-- *Kiếm ngắn (Shortsword).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 7 (1d6 + 4) sát thương xuyên cộng 17 (5d6) sát thương độc, và mục tiêu ở trạng thái Trúng độc cho đến khi bắt đầu lượt tiếp theo của assassin.
-- *Nỏ nhẹ (Light Crossbow).* Tung tấn công tầm xa: +7, tầm 24/96 m (80/96 m (320 ft.)) Trúng: 8 (1d8 + 4) sát thương xuyên cộng 21 (6d6) sát thương độc.
+- *Kiếm ngắn (Shortsword).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 7 (1d6 + 4) sát thương xuyên cộng 17 (5d6) sát thương độc, và mục tiêu ở trạng thái Trúng độc cho đến khi bắt đầu lượt tiếp theo của sát thủ.
+- *Nỏ nhẹ (Light Crossbow).* Tung tấn công tầm xa: +7, tầm 24/96 m (80/320 ft.). Trúng: 8 (1d8 + 4) sát thương xuyên cộng 21 (6d6) sát thương độc.
 
 *Hành động phụ*
 
-- *Hành động xảo quyệt (Cunning Action).* Assassin thực hiện hành động Chạy nước rút, Disengage, hoặc Hide.
+- *Hành động xảo quyệt (Cunning Action).* Sát thủ thực hiện hành động Chạy nước rút, Rút lui hoặc Ẩn nấp.
 
 ## Thực vật thức tỉnh (Awakened Plants)
 
@@ -285,7 +285,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động phụ*
 
-- *Dịch chuyển tức thời (Teleport).* Balor dịch chuyển bản thân hoặc một demon sẵn lòng trong vòng 3 m (10 feet) của nó tối đa 18 m (60 feet) đến một không gian trống balor có thể thấy.
+- *Dịch chuyển tức thời (Teleport).* Balor dịch chuyển bản thân hoặc một Demon sẵn lòng trong vòng 3 m (10 feet) của nó tối đa 18 m (60 feet) đến một không gian trống balor có thể thấy.
 
 ## Kẻ cướp (Bandits)
 
@@ -305,7 +305,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Đao cong (Scimitar).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 4 (1d6 + 1) sát thương chém.
-- *Nỏ nhẹ (Light Crossbow).* Tung tấn công tầm xa: +3, tầm 24/96 m (80/96 m (320 ft.)) Trúng: 5 (1d8 + 1) sát thương xuyên.
+- *Nỏ nhẹ (Light Crossbow).* Tung tấn công tầm xa: +3, tầm 24/96 m (80/320 ft.). Trúng: 5 (1d8 + 1) sát thương xuyên.
 
 ### Thủ lĩnh cướp (Bandit Captain)
 
@@ -323,13 +323,13 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Bandit thực hiện hai đòn tấn công, dùng Đao cong và Súng ngắn theo bất kỳ tổ hợp nào.
+- *Đa đòn (Multiattack).* Thủ lĩnh cướp thực hiện hai đòn tấn công, dùng Đao cong và Súng ngắn theo bất kỳ tổ hợp nào.
 - *Đao cong (Scimitar).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương chém.
-- *Súng ngắn (Pistol).* Tung tấn công tầm xa: +5, tầm 9/27 m (30/27 m (90 ft.)) Trúng: 8 (1d10 + 3) sát thương xuyên.
+- *Súng ngắn (Pistol).* Tung tấn công tầm xa: +5, tầm 9/27 m (30/90 ft.). Trúng: 8 (1d10 + 3) sát thương xuyên.
 
 *Phản ứng*
 
-- *Đỡ đòn (Parry).* Kích hoạt: Bandit bị trúng bởi một lần tung tấn công cận chiến trong khi cầm một vũ khí. Phản hồi: Bandit cộng thêm 2 vào AC của nó chống lại cuộc tấn công đó, có khả năng khiến nó trượt.
+- *Đỡ đòn (Parry).* Kích hoạt: Thủ lĩnh cướp bị trúng bởi một lần tung tấn công cận chiến trong khi cầm một vũ khí. Phản hồi: Thủ lĩnh cướp cộng thêm 2 vào AC của nó chống lại cuộc tấn công đó, có khả năng khiến nó trượt.
 
 ## Quỷ gai (Barbed Devil)
 
@@ -1024,8 +1024,8 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Đa đòn (Multiattack).* Bugbear thực hiện hai đòn Lao hoặc Chùy gai.
-- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 3 m (10 ft.) hoặc tầm 9/36 m (30/36 m (120 ft.)) Trúng: 13 (3d6 + 3) sát thương xuyên.
-- *Chùy gai (Morningstar).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang bị Bị vật lộn bởi bugbear), tầm với 3 m (10 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên.
+- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 3 m (10 ft.) hoặc tầm 9/36 m (30/120 ft.). Trúng: 13 (3d6 + 3) sát thương xuyên.
+- *Chùy gai (Morningstar).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang ở trạng thái Bị vật lộn bởi bugbear), tầm với 3 m (10 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -1052,7 +1052,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Chộp (Grab).* Tung tấn công cận chiến: +4, tầm với 3 m (10 ft.). Trúng: 9 (2d6 + 2) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 12).
-- *Búa nhẹ (Light Hammer).* Tung tấn công cận chiến hoặc tầm xa: +4 (với lợi thế nếu mục tiêu đang bị Bị vật lộn bởi bugbear), tầm với 3 m (10 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 9 (3d4 + 2) sát thương đập.
+- *Búa nhẹ (Light Hammer).* Tung tấn công cận chiến hoặc tầm xa: +4 (với lợi thế nếu mục tiêu đang ở trạng thái Bị vật lộn bởi bugbear), tầm với 3 m (10 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 9 (3d4 + 2) sát thương đập.
 
 ## Bulette
 
@@ -1097,7 +1097,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Nhân mã thực hiện hai đòn tấn công, dùng Trường thương hoặc Cung dài theo bất kỳ tổ hợp nào.
 - *Trường thương (Pike).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 9 (1d10 + 4) sát thương xuyên.
-- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 6 (1d8 + 2) sát thương xuyên.
+- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -1176,7 +1176,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Chuul thực hiện hai đòn Càng và dùng Xúc tu tê liệt.
 - *Càng (Pincer).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 9 (1d10 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 14) từ một trong hai càng.
-- *Xúc tu tê liệt (Paralyzing Tentacles).* Cứu nguy Thể chất: DC 13, một sinh vật đang bị Bị vật lộn bởi chuul. Thất bại: Mục tiêu ở trạng thái Trúng độc và lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. Sau 1 phút, nó tự động thành công. Trong khi Trúng độc, mục tiêu ở trạng thái Tê liệt.
+- *Xúc tu tê liệt (Paralyzing Tentacles).* Cứu nguy Thể chất: DC 13, một sinh vật đang ở trạng thái Bị vật lộn bởi chuul. Thất bại: Mục tiêu ở trạng thái Trúng độc và lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. Sau 1 phút, nó tự động thành công. Trong khi Trúng độc, mục tiêu ở trạng thái Tê liệt.
 
 ## Golem đất sét (Clay Golem)
 
@@ -1194,8 +1194,8 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Hấp thụ axit (Acid Absorption).* Bất cứ khi nào golem phải chịu sát thương axit, nó không chịu sát thương và thay vào đó phục hồi số điểm sinh lực bằng sát thương axit đã gây ra.
-- *Cuồng loạn (Berserk).* Bất cứ khi nào golem bắt đầu lượt của nó ở trạng thái Đẫm máu, hãy tung 1d6. Với kết quả 6, golem trở nên điên cuồng. Trong mỗi lượt của nó khi điên cuồng, golem tấn công sinh vật gần nhất nó có thể thấy. Nếu không có sinh vật nào đủ gần để di chuyển đến và tấn công, golem tấn công một đồ vật. Một khi golem trở nên điên cuồng, nó tiếp tục điên cuồng cho đến khi nó bị phá hủy hoặc nó không còn Đẫm máu nữa.
+- *Hấp thụ axit (Acid Absorption).* Bất cứ khi nào golem đất sét phải chịu sát thương axit, nó không chịu sát thương và thay vào đó phục hồi số điểm sinh lực bằng sát thương axit đã gây ra.
+- *Cuồng loạn (Berserk).* Bất cứ khi nào golem đất sét bắt đầu lượt của nó ở trạng thái Đẫm máu, hãy tung 1d6. Với kết quả 6, nó trở nên điên cuồng. Trong mỗi lượt khi điên cuồng, nó tấn công sinh vật gần nhất có thể thấy. Nếu không có sinh vật nào đủ gần để di chuyển đến và tấn công, nó tấn công một đồ vật. Một khi trở nên điên cuồng, nó tiếp tục như vậy cho đến khi bị phá hủy hoặc không còn Đẫm máu nữa.
 - *Hình dạng bất biến (Immutable Form).* Golem không thể biến hình.
 - *Kháng ma thuật (Magic Resistance).* Golem có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
 
@@ -1206,7 +1206,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động phụ*
 
-- *Tăng tốc (Hasten; Hồi 5–6).* Golem thực hiện hành động Chạy nước rút và Disengage.
+- *Tăng tốc (Hasten; Hồi 5–6).* Golem thực hiện hành động Chạy nước rút và Rút lui.
 
 ## Cloaker
 
@@ -1238,7 +1238,7 @@ Cloaker có thể tự tách ra bằng cách tốn 1,5 m (5 feet) lượng di ch
 *Hành động phụ*
 
 - *Rên rỉ (Moan).* Cứu nguy Minh triết: DC 13, mỗi sinh vật trong một vùng tỏa 18 m (60 feet) bắt nguồn từ cloaker. Thất bại: Mục tiêu ở trạng thái Hoảng sợ cho đến cuối lượt tiếp theo của cloaker. Thành công: Mục tiêu miễn nhiễm với Rên rỉ của con cloaker này trong 24 giờ tiếp theo.
-- *Ảo tưởng (Phantasms; Recharge after a Short or nghỉ dài).* Cloaker thi triển phép *Hình ảnh phản chiếu* (Mirror Image), không cần thành phần phép nào và dùng Minh triết làm thuộc tính thi triển phép. Phép kết thúc sớm nếu cloaker bắt đầu hoặc kết thúc lượt của nó trong ánh sáng rõ.
+- *Ảo tưởng (Phantasms; Hồi sau một lần nghỉ ngắn hoặc nghỉ dài).* Cloaker thi triển phép *Hình ảnh phản chiếu* (Mirror Image), không cần thành phần phép nào và dùng Minh triết làm thuộc tính thi triển phép. Phép kết thúc sớm nếu cloaker bắt đầu hoặc kết thúc lượt của nó trong ánh sáng rõ.
 
 ## Người khổng lồ mây (Cloud Giant)
 
@@ -1298,7 +1298,7 @@ Cloaker có thể tự tách ra bằng cách tốn 1,5 m (5 feet) lượng di ch
 
 *Đặc điểm*
 
-- *Huấn luyện (Training).* Thường dân thành thạo một kỹ năng do Quản trò chọn và có lợi thế bất cứ khi nào nó thực hiện một phép kiểm tra thuộc tính dùng skill đó.
+- *Huấn luyện (Training).* Thường dân thành thạo một kỹ năng do Quản trò chọn và có lợi thế bất cứ khi nào thực hiện một phép kiểm tra thuộc tính dùng kỹ năng đó.
 
 *Hành động*
 
@@ -1449,9 +1449,9 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Thần trợ (Divine Aid; 2/Ngày).* Couatl thi triển *Ban phước* (Bless), *Phục hồi cơ bản* (Lesser Restoration), hoặc *Nơi trú an toàn* (Sanctuary), không cần thành phần phép nào và dùng cùng thuộc tính thi triển phép như Thi triển phép.
 
-## Vuốt bò (Crawling Claw)
+## Bàn tay bò trườn (Crawling Claws)
 
-### Bầy vuốt bò (Swarm of Crawling Claws)
+### Bầy bàn tay bò trườn (Swarm of Crawling Claws)
 
 *Bầy cỡ Trung bình gồm Xác sống cỡ Tí hon, trung lập ác*
 
@@ -1467,11 +1467,11 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một sinh vật cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, đồng thời có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một sinh vật cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
-- *Bầy tay chộp (Swarm of Grasping Hands).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 20 (4d8 + 2) sát thương hoại tử, hoặc 11 (2d8 + 2) sát thương hoại tử nếu bầy Đẫm máu. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.
+- *Bầy bàn tay chộp (Swarm of Grasping Hands).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 20 (4d8 + 2) sát thương hoại tử, hoặc 11 (2d8 + 2) sát thương hoại tử nếu bầy Đẫm máu. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.
 
 ## Tín đồ tà giáo (Cultists)
 
@@ -1517,7 +1517,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động phụ*
 
-- *Vũ khí tinh thần (Spiritual Weapon; 2/Ngày).* Tín đồ thi triển phép *Vũ khí linh thể* (Spiritual Vũ khí), dùng cùng thuộc tính thi triển phép như Thi triển phép.
+- *Vũ khí linh thể (Spiritual Weapon; 2/Ngày).* Tín đồ thi triển phép *Vũ khí linh thể* (Spiritual Weapon), dùng cùng thuộc tính thi triển phép như Thi triển phép.
 
 ## Áo choàng tối (Darkmantle)
 
@@ -1794,7 +1794,7 @@ Bất cứ khi nào cơn lốc xoáy tiến vào không gian của một sinh v�
 
 *Đặc điểm*
 
-- *Lướt trong đất (Earth Glide).* Nguyên tố có thể đào xuyên qua đất và đá phi phép thuật, chưa qua chế tác. Trong khi làm vậy, elemental không làm xáo trộn vật liệu nó đi qua.
+- *Lướt trong đất (Earth Glide).* Nguyên tố có thể đào xuyên qua đất và đá phi phép thuật, chưa qua chế tác. Trong khi làm vậy, nguyên tố không làm xáo trộn vật liệu nó đi qua.
 - *Quái vật công thành (Siege Monster).* Nguyên tố gây gấp đôi sát thương cho các đồ vật và cấu trúc.
 
 *Hành động*
@@ -1850,7 +1850,7 @@ Bất cứ khi nào cơn lốc xoáy tiến vào không gian của một sinh v�
 
 - *Phục sinh ma quỷ (Diabolical Restoration).* Nếu erinyes chết bên ngoài Nine Hells, cơ thể nó biến mất trong khói lưu huỳnh, và nó nhận một cơ thể mới ngay lập tức, hồi sinh với toàn bộ điểm sinh lực ở đâu đó trong Nine Hells.
 - *Kháng ma thuật (Magic Resistance).* Erinyes có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
-- *Dây thừng ma thuật (Magic Rope).* Erinyes có một sợi dây thừng phép thuật. Trong khi mang nó, erinyes có thể dùng hành động Dây trói. Dây thừng có AC 20, HP 90, và miễn nhiễm với độc và sát thương tâm linh. Dây thừng biến thành cát bụi nếu bị giảm xuống 0 điểm sinh lực, nếu nó cách erinyes 1,5 m (5 feet) trở lên trong 1 giờ trở lên, hoặc nếu erinyes chết. Nếu dây thừng bị hư hại hoặc phá hủy, erinyes có thể phục hồi hoàn toàn nó khi hoàn thành một Short hoặc nghỉ dài.
+- *Dây thừng ma thuật (Magic Rope).* Erinyes có một sợi dây thừng phép thuật. Trong khi mang nó, erinyes có thể dùng hành động Dây trói. Dây thừng có AC 20, HP 90, và miễn nhiễm với độc và sát thương tâm linh. Dây thừng biến thành cát bụi nếu bị giảm xuống 0 điểm sinh lực, nếu nó cách erinyes 1,5 m (5 feet) trở lên trong 1 giờ trở lên, hoặc nếu erinyes chết. Nếu dây thừng bị hư hại hoặc phá hủy, erinyes có thể phục hồi hoàn toàn nó khi hoàn thành một lần nghỉ ngắn hoặc nghỉ dài.
 
 *Hành động*
 
@@ -1928,10 +1928,10 @@ Bất cứ khi nào cơn lốc xoáy tiến vào không gian của một sinh v�
 
 *Đặc điểm*
 
-- *Hào quang lửa (Fire Aura).* Vào cuối mỗi lượt của elemental, mỗi sinh vật trong một vùng tỏa 3 m (10 feet) bắt nguồn từ elemental chịu 5 (1d10) sát thương lửa. Các sinh vật và đồ vật dễ cháy trong vùng tỏa bắt đầu bốc cháy.
+- *Hào quang lửa (Fire Aura).* Vào cuối mỗi lượt của nguyên tố, mỗi sinh vật trong một vùng tỏa 3 m (10 feet) bắt nguồn từ nguyên tố chịu 5 (1d10) sát thương lửa. Các sinh vật và đồ vật dễ cháy trong vùng tỏa bắt đầu bốc cháy.
 - *Dạng lửa (Fire Form).* Nguyên tố có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy, và nó có thể tiến vào không gian của một sinh vật và dừng lại đó. Lần đầu tiên nó tiến vào không gian của một sinh vật trong một lượt, sinh vật đó chịu 5 (1d10) sát thương lửa.
 - *Chiếu sáng (Illumination).* Nguyên tố tỏa ánh sáng rõ trong bán kính 9 m (30 feet) và ánh sáng yếu thêm 9 m (30 feet) nữa.
-- *Sợ nước (Water Susceptibility).* Nguyên tố chịu 3 (1d6) sát thương lạnh cho mỗi 1,5 m (5 feet) elemental di chuyển trong nước hoặc cho mỗi gallon nước bị tạt lên nó.
+- *Sợ nước (Water Susceptibility).* Nguyên tố chịu 3 (1d6) sát thương lạnh cho mỗi 1,5 m (5 feet) nó di chuyển trong nước hoặc cho mỗi 3,8 lít (1 gallon) nước bị tạt lên nó.
 
 *Hành động*
 
@@ -1956,7 +1956,7 @@ Bất cứ khi nào cơn lốc xoáy tiến vào không gian của một sinh v�
 
 - *Đa đòn (Multiattack).* Người khổng lồ thực hiện hai đòn tấn công, dùng Kiếm lửa hoặc Ném búa theo bất kỳ tổ hợp nào.
 - *Kiếm lửa (Flame Sword).* Tung tấn công cận chiến: +11, tầm với 3 m (10 ft.). Trúng: 21 (4d6 + 7) sát thương chém cộng 10 (3d6) sát thương lửa.
-- *Ném búa (Hammer Throw).* Tung tấn công tầm xa: +11, tầm 18/72 m (60/72 m (240 ft.)) Trúng: 23 (3d10 + 7) sát thương đập cộng 4 (1d8) sát thương lửa, và mục tiêu bị đẩy xa tối đa 4,5 m (15 feet) trực tiếp khỏi người khổng lồ và có bất lợi trên lần tung tấn công tiếp theo nó thực hiện trước khi kết thúc lượt tiếp theo của nó.
+- *Ném búa (Hammer Throw).* Tung tấn công tầm xa: +11, tầm 18/72 m (60/240 ft.). Trúng: 23 (3d10 + 7) sát thương đập cộng 4 (1d8) sát thương lửa, và mục tiêu bị đẩy thẳng ra xa người khổng lồ tối đa 4,5 m (15 feet) và có bất lợi trên lần tung tấn công tiếp theo nó thực hiện trước khi kết thúc lượt tiếp theo của nó.
 
 ## Golem thịt (Flesh Golem)
 
@@ -1973,13 +1973,13 @@ Bất cứ khi nào cơn lốc xoáy tiến vào không gian của một sinh v�
 
 *Đặc điểm*
 
-- *Sợ lửa (Aversion to Fire).* Nếu golem chịu sát thương lửa, nó có bất lợi trên lần tung tấn công và phép kiểm tra thuộc tính cho đến cuối lượt tiếp theo của nó.
-- *Cuồng loạn (Berserk).* Bất cứ khi nào golem bắt đầu lượt của nó ở trạng thái Đẫm máu, hãy tung 1d6. Với kết quả 6, golem trở nên điên cuồng. Trong mỗi lượt của nó khi điên cuồng, golem tấn công sinh vật gần nhất nó có thể thấy. Nếu không có sinh vật nào đủ gần để di chuyển đến và tấn công, golem tấn công một đồ vật. Một khi golem trở nên điên cuồng, nó vẫn như vậy cho đến khi nó bị phá hủy hoặc nó không còn Đẫm máu nữa.
+- *Sợ lửa (Aversion to Fire).* Nếu golem thịt chịu sát thương lửa, nó có bất lợi trên lần tung tấn công và phép kiểm tra thuộc tính cho đến cuối lượt tiếp theo của nó.
+- *Cuồng loạn (Berserk).* Bất cứ khi nào golem thịt bắt đầu lượt của nó ở trạng thái Đẫm máu, hãy tung 1d6. Với kết quả 6, nó trở nên điên cuồng. Trong mỗi lượt khi điên cuồng, nó tấn công sinh vật gần nhất có thể thấy. Nếu không có sinh vật nào đủ gần để di chuyển đến và tấn công, nó tấn công một đồ vật. Một khi trở nên điên cuồng, nó vẫn như vậy cho đến khi bị phá hủy hoặc không còn Đẫm máu nữa.
 
-Người tạo ra golem, nếu trong vòng 18 m (60 feet) của golem đang điên cuồng, có thể cố làm nó bình tĩnh lại bằng cách dùng một hành động để thực hiện một phép kiểm tra Sức hút (Thuyết phục) DC 15; golem phải có thể nghe thấy người tạo ra nó. Nếu phép kiểm tra này thành công, golem ngừng điên cuồng cho đến khi bắt đầu lượt tiếp theo của nó, lúc đó nó lại tung xúc xắc cho đặc điểm Cuồng loạn nếu nó vẫn Đẫm máu.
+Người tạo ra golem thịt, nếu ở trong vòng 18 m (60 feet) của nó khi nó đang điên cuồng, có thể cố làm nó bình tĩnh lại bằng cách dùng một hành động để thực hiện một phép kiểm tra Sức hút (Thuyết phục) DC 15; golem thịt phải có thể nghe thấy người tạo ra nó. Nếu phép kiểm tra này thành công, golem thịt ngừng điên cuồng cho đến khi bắt đầu lượt tiếp theo của nó, lúc đó nó lại tung xúc xắc cho đặc điểm Cuồng loạn nếu vẫn Đẫm máu.
 
 - *Hình dạng bất biến (Immutable Form).* Golem không thể biến hình.
-- *Hấp thụ sét (Lightning Absorption).* Bất cứ khi nào golem phải chịu sát thương sét, nó phục hồi số điểm sinh lực bằng sát thương sét đã gây ra.
+- *Hấp thụ sét (Lightning Absorption).* Bất cứ khi nào golem thịt phải chịu sát thương sét, nó phục hồi số điểm sinh lực bằng sát thương sét đã gây ra.
 - *Kháng ma thuật (Magic Resistance).* Golem có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
 
 *Hành động*
@@ -2005,7 +2005,7 @@ Người tạo ra golem, nếu trong vòng 18 m (60 feet) của golem đang đi�
 
 - *Đa đòn (Multiattack).* Người khổng lồ thực hiện hai đòn tấn công, dùng Rìu băng hoặc Đại cung theo bất kỳ tổ hợp nào.
 - *Rìu băng (Frost Axe).* Tung tấn công cận chiến: +9, tầm với 3 m (10 ft.). Trúng: 19 (2d12 + 6) sát thương chém cộng 9 (2d8) sát thương lạnh.
-- *Đại cung (Great Bow).* Tung tấn công tầm xa: +9, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 17 (2d10 + 6) sát thương xuyên cộng 7 (2d6) sát thương lạnh, và Tốc độ của mục tiêu giảm 3 m (10 feet) cho đến cuối lượt tiếp theo của nó.
+- *Đại cung (Great Bow).* Tung tấn công tầm xa: +9, tầm 45/180 m (150/600 ft.). Trúng: 17 (2d10 + 6) sát thương xuyên cộng 7 (2d6) sát thương lạnh, và Tốc độ của mục tiêu giảm 3 m (10 feet) cho đến cuối lượt tiếp theo của nó.
 
 *Hành động phụ*
 
@@ -2170,7 +2170,7 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 
 - *Đa đòn (Multiattack).* Ghoul thực hiện hai đòn Cắn.
 - *Cắn (Bite).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên cộng 3 (1d6) sát thương hoại tử.
-- *Vuốt (Claw).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương chém. Nếu mục tiêu là một sinh vật không phải Xác sống hoặc elf, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 10. Thất bại: Mục tiêu ở trạng thái Tê liệt cho đến cuối lượt tiếp theo của nó.
+- *Vuốt (Claw).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 4 (1d4 + 2) sát thương chém. Nếu mục tiêu là một sinh vật không phải Xác sống hoặc Elf, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 10. Thất bại: Mục tiêu ở trạng thái Tê liệt cho đến cuối lượt tiếp theo của nó.
 
 ## Miệng lảm nhảm (Gibbering Mouther)
 
@@ -2222,7 +2222,7 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 
 - *Đa đòn (Multiattack).* Glabrezu thực hiện hai đòn Càng và dùng Đấm túi bụi hoặc Thi triển phép.
 - *Càng (Pincer).* Tung tấn công cận chiến: +9, tầm với 3 m (10 ft.). Trúng: 16 (2d10 + 5) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 15) từ một trong hai càng.
-- *Đấm túi bụi (Pummel).* Cứu nguy Khéo léo: DC 17, một sinh vật đang bị Bị vật lộn bởi glabrezu. Thất bại: 15 (3d6 + 5) sát thương đập. Thành công: Một nửa sát thương.
+- *Đấm túi bụi (Pummel).* Cứu nguy Khéo léo: DC 17, một sinh vật đang ở trạng thái Bị vật lộn bởi glabrezu. Thất bại: 15 (3d6 + 5) sát thương đập. Thành công: Một nửa sát thương.
 - *Thi triển phép (Spellcasting).* Glabrezu thi triển một trong các phép sau, không yêu cầu thành phần vật chất và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 16):
   - **Tùy ý:** *Bóng tối* (Darkness), *Phát hiện ma thuật* (Detect Magic), *Giải trừ ma thuật* (Dispel Magic)
   - **1/Ngày mỗi phép:** *Hỗn loạn* (Confusion), *Bay* (Fly), *Quyền ngôn làm choáng* (Power Word Stun)
@@ -2244,7 +2244,7 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 *Hành động*
 
 - *Đa đòn (Multiattack).* Đấu sĩ thực hiện ba đòn Giáo. Nó có thể thay một đòn tấn công bằng một lần dùng Đập khiên.
-- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 11 (2d6 + 4) sát thương xuyên.
+- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 11 (2d6 + 4) sát thương xuyên.
 - *Đập khiên (Shield Bash).* Cứu nguy Sức mạnh: DC 15, một sinh vật trong vòng 1,5 m (5 feet) đấu sĩ có thể thấy. Thất bại: 9 (2d4 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.
 
 *Phản ứng*
@@ -2268,7 +2268,7 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 *Hành động*
 
 - *Xé (Rend).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên.
-- *Cung xương (Bone Bow).* Tung tấn công tầm xa: +3, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 6 (1d10 + 1) sát thương xuyên.
+- *Cung xương (Bone Bow).* Tung tấn công tầm xa: +3, tầm 45/180 m (150/600 ft.). Trúng: 6 (1d10 + 1) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -2292,11 +2292,11 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 
 *Hành động*
 
-- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +4, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 4 (1d4 + 2) sát thương xuyên.
+- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +4, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 4 (1d4 + 2) sát thương xuyên.
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 ### Chiến binh Goblin (Goblin Warrior)
 
@@ -2315,11 +2315,11 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 *Hành động*
 
 - *Đao cong (Scimitar).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương chém, cộng 2 (1d4) sát thương chém nếu lần tung tấn công có lợi thế.
-- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +4, tầm 24/96 m (80/96 m (320 ft.)) Trúng: 5 (1d6 + 2) sát thương xuyên, cộng 2 (1d4) sát thương xuyên nếu lần tung tấn công có lợi thế.
+- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +4, tầm 24/96 m (80/320 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên, cộng 2 (1d4) sát thương xuyên nếu lần tung tấn công có lợi thế.
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 ### Thủ lĩnh Goblin (Goblin Boss)
 
@@ -2339,11 +2339,11 @@ Thành công: Mục tiêu miễn nhiễm với Chiếm xác của con ma này tr
 
 - *Đa đòn (Multiattack).* Goblin thực hiện hai đòn tấn công, dùng Đao cong hoặc Cung ngắn theo bất kỳ tổ hợp nào.
 - *Đao cong (Scimitar).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương chém, cộng 2 (1d4) sát thương chém nếu lần tung tấn công có lợi thế.
-- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +4, tầm 24/96 m (80/96 m (320 ft.)) Trúng: 5 (1d6 + 2) sát thương xuyên, cộng 2 (1d4) sát thương xuyên nếu lần tung tấn công có lợi thế.
+- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +4, tầm 24/96 m (80/320 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên, cộng 2 (1d4) sát thương xuyên nếu lần tung tấn công có lợi thế.
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Goblin thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 *Phản ứng*
 
@@ -2662,7 +2662,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Đặc điểm*
 
 - *Lưỡng cư (Amphibious).* Mụ phù thủy có thể thở trong không khí và nước.
-- *Ma thuật hội phù thủy (Coven Magic).* Trong khi trong vòng 9 m (30 feet) của ít nhất hai đồng minh hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 11): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Đồ vật), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
+- *Ma thuật hội phù thủy (Coven Magic).* Trong khi ở trong vòng 9 m (30 feet) của ít nhất hai đồng minh là hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 11): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Object), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
 - *Bắt chước (Mimicry).* Mụ phù thủy có thể bắt chước âm thanh động vật và giọng nói hình người. Một sinh vật nghe thấy âm thanh chỉ có thể biết chúng là giả bằng một phép kiểm tra Minh triết (Thấu hiểu) DC 14 thành công.
 
 *Hành động*
@@ -2771,7 +2771,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +3, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 4 (1d6 + 1) sát thương xuyên.
+- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +3, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 4 (1d6 + 1) sát thương xuyên.
 
 ### Đội trưởng lính gác (Guard Captain)
 
@@ -2790,7 +2790,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Đa đòn (Multiattack).* Lính gác thực hiện hai đòn tấn công, dùng Lao hoặc Kiếm dài theo bất kỳ tổ hợp nào.
-- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/36 m (120 ft.)) Trúng: 14 (3d6 + 4) sát thương xuyên.
+- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/120 ft.). Trúng: 14 (3d6 + 4) sát thương xuyên.
 - *Kiếm dài (Longsword).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 15 (2d10 + 4) sát thương chém.
 
 ## Bán long (Half-Dragon)
@@ -2908,7 +2908,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Người khổng lồ thực hiện hai đòn tấn công, dùng Chùy thân cây hoặc Ném rác theo bất kỳ tổ hợp nào.
 - *Chùy thân cây (Tree Club).* Tung tấn công cận chiến: +8, tầm với 3 m (10 ft.). Trúng: 18 (3d8 + 5) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
-- *Ném rác (Trash Lob).* Tung tấn công tầm xa: +8, tầm 18/72 m (60/72 m (240 ft.)) Trúng: 16 (2d10 + 5) sát thương đập, và mục tiêu ở trạng thái Trúng độc cho đến cuối lượt tiếp theo của nó.
+- *Ném rác (Trash Lob).* Tung tấn công tầm xa: +8, tầm 18/72 m (60/240 ft.). Trúng: 16 (2d10 + 5) sát thương đập, và mục tiêu ở trạng thái Trúng độc cho đến cuối lượt tiếp theo của nó.
 
 ## Ưng mã (Hippogriff)
 
@@ -2954,7 +2954,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Kiếm dài (Longsword).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 12 (2d10 + 1) sát thương chém.
-- *Cung dài (Longbow).* Tung tấn công tầm xa: +3, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 5 (1d8 + 1) sát thương xuyên cộng 7 (3d4) sát thương độc.
+- *Cung dài (Longbow).* Tung tấn công tầm xa: +3, tầm 45/180 m (150/600 ft.). Trúng: 5 (1d8 + 1) sát thương xuyên cộng 7 (3d4) sát thương độc.
 
 ### Đội trưởng Hobgoblin (Hobgoblin Captain)
 
@@ -2977,7 +2977,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Hobgoblin thực hiện hai đòn tấn công, dùng Kiếm lớn hoặc Cung dài theo bất kỳ tổ hợp nào.
 - *Kiếm lớn (Greatsword).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 9 (2d6 + 2) sát thương chém cộng 3 (1d6) sát thương độc.
-- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 6 (1d8 + 2) sát thương xuyên cộng 5 (2d4) sát thương độc.
+- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên cộng 5 (2d4) sát thương độc.
 
 ## Homunculus
 
@@ -3044,7 +3044,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Nín thở (Hold Breath).* Hydra có thể nín thở trong 1 giờ.
 - *Nhiều đầu (Multiple Heads).* Hydra có năm đầu. Bất cứ khi nào hydra chịu 25 sát thương trở lên trong một lượt duy nhất, một trong các đầu của nó chết. Hydra chết nếu tất cả các đầu của nó chết. Vào cuối mỗi lượt của nó khi nó có ít nhất một đầu còn sống, hydra mọc thêm hai đầu cho mỗi đầu đã chết kể từ lượt trước của nó, trừ khi nó đã chịu sát thương lửa kể từ lượt trước của nó. Hydra phục hồi 20 điểm sinh lực khi nó mọc đầu mới.
-- *Đầu phản xạ (Reactive Heads).* Với mỗi đầu hydra có ngoài đầu đầu tiên, nó nhận thêm một phản ứng chỉ có thể dùng cho tấn công cơ hội.
+- *Đầu phản xạ (Reactive Heads).* Với mỗi đầu hydra có ngoài đầu tiên, nó nhận thêm một phản ứng chỉ có thể dùng cho tấn công cơ hội.
 
 *Hành động*
 
@@ -3073,7 +3073,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Đa đòn (Multiattack).* Quỷ thực hiện ba đòn Giáo băng. Nó có thể thay một đòn tấn công bằng một đòn Đuôi.
-- *Giáo băng (Ice Spear).* Tung tấn công cận chiến hoặc tầm xa: +10, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/36 m (120 ft.)) Trúng: 14 (2d8 + 5) sát thương xuyên cộng 10 (3d6) sát thương lạnh. Cho đến cuối lượt tiếp theo của nó, mục tiêu không thể thực hiện một hành động phụ hoặc phản ứng, Tốc độ của nó giảm 3 m (10 feet), và nó chỉ có thể di chuyển hoặc thực hiện một hành động trong lượt của nó, không thể cả hai. Trúng hoặc trượt: Cây giáo trở về tay quỷ một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
+- *Giáo băng (Ice Spear).* Tung tấn công cận chiến hoặc tầm xa: +10, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/120 ft.). Trúng: 14 (2d8 + 5) sát thương xuyên cộng 10 (3d6) sát thương lạnh. Cho đến cuối lượt tiếp theo của nó, mục tiêu không thể thực hiện một hành động phụ hoặc phản ứng, Tốc độ của nó giảm 3 m (10 feet), và nó chỉ có thể di chuyển hoặc thực hiện một hành động trong lượt của nó, không thể cả hai. Trúng hoặc trượt: Cây giáo trở về tay quỷ một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
 - *Đuôi (Tail).* Tung tấn công cận chiến: +10, tầm với 3 m (10 ft.). Trúng: 15 (3d6 + 5) sát thương đập cộng 18 (4d8) sát thương lạnh.
 - *Tường băng (Ice Wall; Hồi 6).* Quỷ thi triển phép *Tường băng* (Wall of Ice) (phiên bản bậc 8), không cần thành phần phép nào và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 17).
 
@@ -3100,7 +3100,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Chích (Sting).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương xuyên cộng 7 (2d6) sát thương độc.
 - *Tàng hình (Invisibility).* Imp thi triển phép *Vô hình* (Invisibility) lên bản thân, không cần thành phần phép nào và dùng Sức hút làm thuộc tính thi triển phép.
-- *Biến hình (Shape-Shift).* Imp biến hình để giống một con chuột (Tốc độ 6 m (20 ft.)), một con quạ (20 ft., Fly 18 m (60 ft.)), hoặc một con nhện (20 ft., Climb 6 m (20 ft.)), hoặc nó trở về hình dạng thật của nó. Chỉ số trò chơi của nó giống nhau ở mỗi hình dạng, ngoại trừ Tốc độ của nó. Bất kỳ trang bị nào nó đang mặc hoặc mang theo không bị biến đổi.
+- *Biến hình (Shape-Shift).* Imp biến hình để giống một con chuột (Tốc độ 6 m (20 ft.)), một con quạ (Tốc độ 6 m (20 ft.), Bay 18 m (60 ft.)), hoặc một con nhện (Tốc độ 6 m (20 ft.), Leo 6 m (20 ft.)); hoặc nó trở về hình dạng thật. Chỉ số trò chơi của nó giống nhau ở mỗi hình dạng, ngoại trừ Tốc độ. Bất kỳ trang bị nào nó đang mặc hoặc mang theo đều không biến đổi.
 
 ## Incubus
 
@@ -3149,7 +3149,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Dạng khí (Air Form).* Kẻ rình rập có thể tiến vào không gian của kẻ địch và dừng lại đó. Nó có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
+- *Dạng khí (Air Form).* Kẻ rình rập có thể tiến vào không gian của kẻ địch và dừng lại đó. Nó có thể di chuyển qua một không gian chỉ rộng 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển.
 - *Tàng hình (Invisibility).* Kẻ rình rập ở trạng thái Vô hình.
 
 *Hành động*
@@ -3173,7 +3173,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Hấp thụ lửa (Fire Absorption).* Bất cứ khi nào golem phải chịu sát thương lửa, nó phục hồi số điểm sinh lực bằng sát thương lửa đã gây ra.
+- *Hấp thụ lửa (Fire Absorption).* Bất cứ khi nào golem sắt phải chịu sát thương lửa, nó phục hồi số điểm sinh lực bằng sát thương lửa đã gây ra.
 - *Hình dạng bất biến (Immutable Form).* Golem không thể biến hình.
 - *Kháng ma thuật (Magic Resistance).* Golem có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
 
@@ -3202,7 +3202,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Hiệp sĩ thực hiện hai đòn tấn công, dùng Kiếm lớn hoặc Nỏ nặng theo bất kỳ tổ hợp nào.
 - *Kiếm lớn (Greatsword).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém cộng 4 (1d8) sát thương quang.
-- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +2, tầm 30/120 m (100/120 m (400 ft.)) Trúng: 11 (2d10) sát thương xuyên cộng 4 (1d8) sát thương quang.
+- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +2, tầm 30/120 m (100/400 ft.). Trúng: 11 (2d10) sát thương xuyên cộng 4 (1d8) sát thương quang.
 
 *Phản ứng*
 
@@ -3230,7 +3230,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +4, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 4 (1d4 + 2) sát thương xuyên.
+- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +4, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 4 (1d4 + 2) sát thương xuyên.
 
 ## Kraken
 
@@ -3256,9 +3256,9 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Kraken thực hiện hai đòn Xúc tu và dùng Quăng, Sét đánh, hoặc Nuốt.
 - *Xúc tu (Tentacle).* Tung tấn công cận chiến: +17, tầm với 9 m (30 ft.). Trúng: 24 (4d6 + 10) sát thương đập. Mục tiêu ở trạng thái Bị vật lộn (DC thoát 20) từ một trong mười xúc tu, và nó ở trạng thái Kiềm giữ cho đến khi vật lộn kết thúc.
-- *Quăng (Fling).* Kraken ném một sinh vật cỡ Lớn trở xuống đang bị Bị vật lộn bởi nó đến một không gian nó có thể thấy trong vòng 18 m (60 feet) của bản thân không ở trên không. Cứu nguy Khéo léo: DC 25, sinh vật bị ném và mỗi sinh vật trong không gian đích. Thất bại: 18 (4d8) sát thương đập, và mục tiêu ở trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
+- *Quăng (Fling).* Kraken ném một sinh vật cỡ Lớn trở xuống đang ở trạng thái Bị vật lộn bởi nó đến một không gian nó có thể thấy trong vòng 18 m (60 feet) của bản thân không ở trên không. Cứu nguy Khéo léo: DC 25, sinh vật bị ném và mỗi sinh vật trong không gian đích. Thất bại: 18 (4d8) sát thương đập, và mục tiêu ở trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
 - *Sét đánh (Lightning Strike).* Cứu nguy Khéo léo: DC 23, một sinh vật kraken có thể thấy trong vòng 36 m (120 feet). Thất bại: 33 (6d10) sát thương sét. Thành công: Một nửa sát thương.
-- *Nuốt (Swallow).* Cứu nguy Khéo léo: DC 25, một sinh vật đang bị Bị vật lộn bởi kraken (nó có thể nuốt tối đa bốn sinh vật tại một thời điểm). Thất bại: 23 (3d8 + 10) sát thương xuyên. Nếu mục tiêu cỡ Lớn trở xuống, nó bị nuốt và không còn Bị vật lộn nữa. Một sinh vật bị nuốt ở trạng thái Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài kraken, và chịu 24 (7d6) sát thương axit vào đầu mỗi lượt của nó.
+- *Nuốt (Swallow).* Cứu nguy Khéo léo: DC 25, một sinh vật đang ở trạng thái Bị vật lộn bởi kraken (nó có thể nuốt tối đa bốn sinh vật tại một thời điểm). Thất bại: 23 (3d8 + 10) sát thương xuyên. Nếu mục tiêu cỡ Lớn trở xuống, nó bị nuốt và không còn Bị vật lộn nữa. Một sinh vật bị nuốt ở trạng thái Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài kraken, và chịu 24 (7d6) sát thương axit vào đầu mỗi lượt của nó.
 
 Nếu kraken chịu 50 sát thương trở lên trong một lượt duy nhất từ một sinh vật bên trong nó, kraken phải thành công trong một cứu nguy Thể chất DC 25 vào cuối lượt đó hoặc nôn ra tất cả các sinh vật bị nuốt, mỗi sinh vật rơi vào một không gian trong vòng 3 m (10 feet) của kraken với trạng thái Ngã sấp. Nếu kraken chết, bất kỳ sinh vật bị nuốt nào không còn trạng thái Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 4,5 m (15 feet) lượng di chuyển, thoát ra ở trạng thái Ngã sấp.
 
@@ -3402,7 +3402,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - **Tốc độ** 9 m (30 ft.)
 - **STR** 10 (+0, cứu nguy +0) · **DEX** 14 (+2, cứu nguy +2) · **CON** 12 (+1, cứu nguy +1) · **INT** 20 (+5, cứu nguy +9) · **WIS** 15 (+2, cứu nguy +6) · **CHA** 16 (+3, cứu nguy +3)
 - **Kỹ năng:** Huyền thuật +13, Lịch sử +9, Tri giác +6
-- **Miễn nhiễm:** tâm linh; Mê hoặc (với Mind Blank)
+- **Miễn nhiễm:** tâm linh; Mê hoặc (với *Khiên tâm trí* (Mind Blank))
 - **Trang bị:** Đũa phép (Wand)
 - **Giác quan:** Tri giác thụ động 16
 - **Ngôn ngữ:** Common cộng năm ngôn ngữ khác
@@ -3410,13 +3410,13 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Kháng ma thuật (Magic Resistance).* Archmage có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
+- *Kháng ma thuật (Magic Resistance).* Đại pháp sư có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Archmage thực hiện bốn đòn Bộc phát huyền thuật.
+- *Đa đòn (Multiattack).* Đại pháp sư thực hiện bốn đòn Bộc phát huyền thuật.
 - *Bộc phát huyền thuật (Arcane Burst).* Tung tấn công cận chiến hoặc tầm xa: +9, tầm với 1,5 m (5 ft.) hoặc tầm 45 m (150 ft.). Trúng: 27 (4d10 + 5) sát thương lực.
-- *Thi triển phép (Spellcasting).* Archmage thi triển một trong các phép sau, dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 17):
+- *Thi triển phép (Spellcasting).* Đại pháp sư thi triển một trong các phép sau, dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 17):
   - **Tùy ý:** *Phát hiện ma thuật* (Detect Magic), *Đọc suy nghĩ* (Detect Thoughts), *Cải dạng bản thân* (Disguise Self), *Vô hình* (Invisibility), *Ánh sáng* (Light), *Giáp pháp sư* (Mage Armor) (đã tính trong AC), *Bàn tay pháp sư* (Mage Hand), *Tiểu xảo ma thuật* (Prestidigitation)
   - **2/Ngày mỗi phép:** *Bay* (Fly), *Tia sét* (Lightning Bolt) (phiên bản bậc 7)
   - **1/Ngày mỗi phép:** *Nón băng giá* (Cone of Cold) (phiên bản bậc 9), *Khiên tâm trí* (Mind Blank) (thi triển trước chiến đấu), *Do thám* (Scrying), *Dịch chuyển tức thời* (Teleport)
@@ -3427,7 +3427,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Phản ứng*
 
-- *Ma thuật bảo hộ (Protective Magic; 3/Ngày).* Archmage thi triển *Phản phép* (Counterspell) hoặc *Khiên* (Shield) để đáp lại điều kiện kích hoạt của phép, dùng cùng thuộc tính thi triển phép như Thi triển phép.
+- *Ma thuật bảo hộ (Protective Magic; 3/Ngày).* Đại pháp sư thi triển *Phản phép* (Counterspell) hoặc *Khiên* (Shield) để đáp lại điều kiện kích hoạt của phép, dùng cùng thuộc tính thi triển phép như Thi triển phép.
 
 ## Magmin
 
@@ -3470,7 +3470,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Manticore thực hiện ba đòn tấn công, dùng Xé hoặc Gai đuôi theo bất kỳ tổ hợp nào.
 - *Xé (Rend).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương chém.
-- *Gai đuôi (Tail Spike).* Tung tấn công tầm xa: +5, tầm 30/60 m (100/60 m (200 ft.)) Trúng: 7 (1d8 + 3) sát thương xuyên.
+- *Gai đuôi (Tail Spike).* Tung tấn công tầm xa: +5, tầm 30/60 m (100/200 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên.
 
 ## Marilith
 
@@ -3651,7 +3651,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Giáo đại dương (Ocean Spear).* Tung tấn công cận chiến hoặc tầm xa: +2, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 3 (1d6) sát thương xuyên cộng 2 (1d4) sát thương lạnh. Nếu mục tiêu là một sinh vật, Tốc độ của nó giảm 3 m (10 feet) cho đến khi kết thúc lượt tiếp theo của nó. Trúng hoặc trượt: Cây giáo trở về tay nhân ngư một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
+- *Giáo đại dương (Ocean Spear).* Tung tấn công cận chiến hoặc tầm xa: +2, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 3 (1d6) sát thương xuyên cộng 2 (1d4) sát thương lạnh. Nếu mục tiêu là một sinh vật, Tốc độ của nó giảm 3 m (10 feet) cho đến khi kết thúc lượt tiếp theo của nó. Trúng hoặc trượt: Cây giáo trở về tay nhân ngư một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
 
 ## Merrow
 
@@ -3674,7 +3674,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - *Đa đòn (Multiattack).* Merrow thực hiện hai đòn tấn công, dùng Cắn, Vuốt, hoặc Lao móc theo bất kỳ tổ hợp nào.
 - *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 6 (1d4 + 4) sát thương xuyên, và mục tiêu ở trạng thái Trúng độc cho đến khi kết thúc lượt tiếp theo của merrow.
 - *Vuốt (Claw).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 9 (2d4 + 4) sát thương chém.
-- *Lao móc (Harpoon).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 11 (2d6 + 4) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, merrow kéo mục tiêu tối đa 4,5 m (15 feet) trực tiếp về phía mình.
+- *Lao móc (Harpoon).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 11 (2d6 + 4) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, merrow kéo mục tiêu tối đa 4,5 m (15 feet) trực tiếp về phía mình.
 
 ## Mimic
 
@@ -3696,7 +3696,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Cắn (Bite).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang bị Bị vật lộn bởi mimic), tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên — hoặc 12 (2d8 + 3) sát thương xuyên nếu mục tiêu đang bị Bị vật lộn bởi mimic — cộng 4 (1d8) sát thương axit.
+- *Cắn (Bite).* Tung tấn công cận chiến: +5 (với lợi thế nếu mục tiêu đang ở trạng thái Bị vật lộn bởi mimic), tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương xuyên — hoặc 12 (2d8 + 3) sát thương xuyên nếu mục tiêu đang ở trạng thái Bị vật lộn bởi mimic — cộng 4 (1d8) sát thương axit.
 - *Chân giả (Pseudopod).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương đập cộng 4 (1d8) sát thương axit. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13). Phép kiểm tra thuộc tính thực hiện để thoát khỏi vật lộn này có bất lợi.
 
 *Hành động phụ*
@@ -3836,7 +3836,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Ma thuật hội phù thủy (Coven Magic).* Trong khi trong vòng 9 m (30 feet) của ít nhất hai đồng minh hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 14): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Đồ vật), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
+- *Ma thuật hội phù thủy (Coven Magic).* Trong khi ở trong vòng 9 m (30 feet) của ít nhất hai đồng minh là hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 14): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Object), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
 - *Kháng ma thuật (Magic Resistance).* Mụ phù thủy có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng phép thuật khác.
 - *Túi linh hồn (Soul Bag).* Mụ phù thủy có một túi linh hồn. Trong khi cầm hoặc mang túi, mụ phù thủy có thể dùng hành động Ám ảnh ác mộng của nó.
 
@@ -3946,7 +3946,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 *Hành động*
 
 - *Chùy lớn (Greatclub).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 13 (2d8 + 4) sát thương đập.
-- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/36 m (120 ft.)) Trúng: 11 (2d6 + 4) sát thương xuyên.
+- *Lao (Javelin).* Tung tấn công cận chiến hoặc tầm xa: +6, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/120 ft.). Trúng: 11 (2d6 + 4) sát thương xuyên.
 
 ## Oni
 
@@ -3996,7 +3996,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 - *Đa đòn (Multiattack).* Otyugh thực hiện một đòn Cắn và hai đòn Xúc tu.
 - *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên, và mục tiêu ở trạng thái Trúng độc. Bất cứ khi nào mục tiêu Trúng độc hoàn thành một nghỉ dài, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 15. Thất bại: điểm sinh lực tối đa của mục tiêu giảm 5 (1d10) và không trở lại bình thường cho đến khi trạng thái Trúng độc kết thúc trên mục tiêu. Thành công: Condition Trúng độc kết thúc.
 - *Xúc tu (Tentacle).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 13) từ một trong hai xúc tu.
-- *Quật xúc tu (Tentacle Slam).* Cứu nguy Thể chất: DC 14, mỗi sinh vật đang bị Bị vật lộn bởi otyugh. Thất bại: 16 (3d8 + 3) sát thương đập, và mục tiêu ở trạng thái Choáng cho đến khi bắt đầu lượt tiếp theo của otyugh. Thành công: Chỉ nửa sát thương.
+- *Quật xúc tu (Tentacle Slam).* Cứu nguy Thể chất: DC 14, mỗi sinh vật đang ở trạng thái Bị vật lộn bởi otyugh. Thất bại: 16 (3d8 + 3) sát thương đập, và mục tiêu ở trạng thái Choáng cho đến khi bắt đầu lượt tiếp theo của otyugh. Thành công: Chỉ nửa sát thương.
 
 ## Gấu cú (Owlbear)
 
@@ -4079,7 +4079,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 *Hành động*
 
 - *Đa đòn (Multiattack).* Cướp biển thực hiện hai đòn Dao găm. Nó có thể thay một đòn tấn công bằng một lần dùng Phong thái mê hoặc.
-- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 5 (1d4 + 3) sát thương xuyên.
+- *Dao găm (Dagger).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 5 (1d4 + 3) sát thương xuyên.
 - *Phong thái mê hoặc (Enthralling Panache).* Cứu nguy Minh triết: DC 12, một sinh vật cướp biển có thể thấy trong vòng 9 m (30 feet). Thất bại: Mục tiêu ở trạng thái Mê hoặc cho đến khi bắt đầu lượt tiếp theo của cướp biển.
 
 ### Thuyền trưởng cướp biển (Pirate Captain)
@@ -4100,7 +4100,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 
 - *Đa đòn (Multiattack).* Cướp biển thực hiện ba đòn tấn công, dùng Kiếm rapier hoặc Súng ngắn theo bất kỳ tổ hợp nào.
 - *Kiếm rapier (Rapier).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 13 (2d8 + 4) sát thương xuyên, và cướp biển có lợi thế trên lần tung tấn công tiếp theo nó thực hiện trước khi kết thúc lượt này.
-- *Súng ngắn (Pistol).* Tung tấn công tầm xa: +7, tầm 9/27 m (30/27 m (90 ft.)) Trúng: 15 (2d10 + 4) sát thương xuyên.
+- *Súng ngắn (Pistol).* Tung tấn công tầm xa: +7, tầm 9/27 m (30/90 ft.). Trúng: 15 (2d10 + 4) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -4275,7 +4275,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 
 *Hành động phụ*
 
-- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 19, một sinh vật cỡ Lớn trở xuống đang bị Bị vật lộn bởi sâu (nó có thể nuốt tối đa ba sinh vật tại một thời điểm). Thất bại: Mục tiêu bị sâu nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài sâu, và chịu 17 (5d6) sát thương axit vào đầu mỗi lượt của sâu. Nếu sâu chịu 30 sát thương trở lên trong một lượt duy nhất từ một sinh vật bên trong nó, sâu phải thành công trong một cứu nguy Thể chất DC 21 vào cuối lượt đó hoặc nôn ra tất cả các sinh vật bị nuốt, mỗi sinh vật rơi vào một không gian trong vòng 1,5 m (5 feet) của sâu với trạng thái Ngã sấp. Nếu sâu chết, bất kỳ sinh vật bị nuốt nào không còn trạng thái Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 6 m (20 feet) lượng di chuyển, thoát ra ở trạng thái Ngã sấp.
+- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 19, một sinh vật cỡ Lớn trở xuống đang ở trạng thái Bị vật lộn bởi sâu (nó có thể nuốt tối đa ba sinh vật tại một thời điểm). Thất bại: Mục tiêu bị sâu nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài sâu, và chịu 17 (5d6) sát thương axit vào đầu mỗi lượt của sâu. Nếu sâu chịu 30 sát thương trở lên trong một lượt duy nhất từ một sinh vật bên trong nó, sâu phải thành công trong một cứu nguy Thể chất DC 21 vào cuối lượt đó hoặc nôn ra tất cả các sinh vật bị nuốt, mỗi sinh vật rơi vào một không gian trong vòng 1,5 m (5 feet) của sâu với trạng thái Ngã sấp. Nếu sâu chết, bất kỳ sinh vật bị nuốt nào không còn trạng thái Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 6 m (20 feet) lượng di chuyển, thoát ra ở trạng thái Ngã sấp.
 
 ## Quasit
 
@@ -4326,7 +4326,7 @@ Nếu mục tiêu chịu sát thương từ phép *Giấc mơ* (Dream), điểm 
 *Hành động*
 
 - *Đa đòn (Multiattack).* Rakshasa thực hiện ba đòn Chạm nguyền rủa.
-- *Chạm nguyền rủa (Cursed Touch).* Tung tấn công cận chiến: +10, tầm với 1,5 m (5 ft.). Trúng: 12 (2d6 + 5) sát thương chém cộng 19 (3d12) sát thương hoại tử. Nếu mục tiêu là một sinh vật, nó bị nguyền. Trong khi bị nguyền, mục tiêu không nhận lợi ích gì từ việc hoàn thành một Short hoặc nghỉ dài.
+- *Chạm nguyền rủa (Cursed Touch).* Tung tấn công cận chiến: +10, tầm với 1,5 m (5 ft.). Trúng: 12 (2d6 + 5) sát thương chém cộng 19 (3d12) sát thương hoại tử. Nếu mục tiêu là một sinh vật, nó bị nguyền. Trong khi bị nguyền, mục tiêu không nhận lợi ích gì từ việc hoàn thành một lần nghỉ ngắn hoặc nghỉ dài.
 - *Mệnh lệnh độc ác (Baleful Command; Hồi 5–6).* Cứu nguy Minh triết: DC 18, mỗi kẻ địch trong một vùng tỏa 9 m (30 feet) bắt nguồn từ rakshasa. Thất bại: 28 (8d6) sát thương tâm linh, và mục tiêu ở trạng thái Hoảng sợ và Mất năng lực hành động cho đến khi bắt đầu lượt tiếp theo của rakshasa.
 - *Thi triển phép (Spellcasting).* Rakshasa thi triển một trong các phép sau, không yêu cầu thành phần vật chất và dùng Sức hút làm thuộc tính thi triển phép (DC cứu nguy phép 18):
   - **Tùy ý:** *Phát hiện ma thuật* (Detect Magic), *Đọc suy nghĩ* (Detect Thoughts), *Cải dạng bản thân* (Disguise Self), *Bàn tay pháp sư* (Mage Hand), *Ảo ảnh nhỏ* (Minor Illusion)
@@ -4467,7 +4467,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động phụ*
 
-- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 19, một sinh vật cỡ Lớn trở xuống đang bị Bị vật lộn bởi remorhaz (nó có thể nuốt tối đa hai sinh vật tại một thời điểm). Thất bại: Mục tiêu bị remorhaz nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài remorhaz, và chịu 10 (3d6) sát thương axit cộng 10 (3d6) sát thương lửa vào đầu mỗi lượt của remorhaz.
+- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 19, một sinh vật cỡ Lớn trở xuống đang ở trạng thái Bị vật lộn bởi remorhaz (nó có thể nuốt tối đa hai sinh vật tại một thời điểm). Thất bại: Mục tiêu bị remorhaz nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ, có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài remorhaz, và chịu 10 (3d6) sát thương axit cộng 10 (3d6) sát thương lửa vào đầu mỗi lượt của remorhaz.
 
 Nếu remorhaz chịu 30 sát thương trở lên trong một lượt duy nhất từ một sinh vật bên trong nó, remorhaz phải thành công trong một cứu nguy Thể chất DC 15 vào cuối lượt đó hoặc nôn ra tất cả các sinh vật bị nuốt, mỗi sinh vật rơi vào một không gian trong vòng 1,5 m (5 feet) của remorhaz với trạng thái Ngã sấp. Nếu remorhaz chết, bất kỳ sinh vật bị nuốt nào không còn trạng thái Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 4,5 m (15 feet) lượng di chuyển, thoát ra ở trạng thái Ngã sấp.
 
@@ -4542,7 +4542,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 - *Đa đòn (Multiattack).* Quái vật gỉ sét thực hiện một đòn Cắn và dùng Râu hai lần.
 - *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 5 (1d8 + 1) sát thương xuyên.
 - *Râu (Antennae).* Quái vật gỉ sét nhắm mục tiêu một đồ vật kim loại phi phép thuật — giáp hoặc một vũ khí — đang được mặc hoặc mang theo bởi một sinh vật trong vòng 1,5 m (5 feet) của bản thân. Cứu nguy Khéo léo: DC 11, sinh vật mang đồ vật đó. Thất bại: Đồ vật nhận một điểm trừ −1 vào AC nó cung cấp (giáp) hoặc vào lần tung tấn công của nó (vũ khí). Giáp bị phá hủy nếu điểm trừ giảm AC của nó xuống 10, và một vũ khí bị phá hủy nếu điểm trừ của nó đạt đến −5. điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên giáp hoặc vũ khí.
-- *Hủy kim loại (Destroy Metal).* Quái vật gỉ sét chạm vào một đồ vật kim loại phi phép thuật trong vòng 1,5 m (5 feet) của bản thân không đang được mặc hoặc mang theo. Cú chạm phá hủy một khối lập phương 30 cm (1 feet) của đồ vật đó.
+- *Hủy kim loại (Destroy Metal).* Quái vật gỉ sét chạm vào một đồ vật kim loại phi phép thuật trong phạm vi 1,5 m (5 feet) của bản thân không đang được mặc hoặc mang theo. Cú chạm phá hủy một khối lập phương cạnh 30 cm (1 foot) của đồ vật đó.
 
 *Phản ứng*
 
@@ -4600,7 +4600,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 *Hành động*
 
 - *Đa đòn (Multiattack).* Salamander thực hiện hai đòn Giáo lửa. Nó có thể thay một đòn tấn công bằng một lần dùng Siết.
-- *Giáo lửa (Flame Spear).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 13 (2d8 + 4) sát thương xuyên cộng 7 (2d6) sát thương lửa. Trúng hoặc trượt: Cây giáo trở về tay salamander một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
+- *Giáo lửa (Flame Spear).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 13 (2d8 + 4) sát thương xuyên cộng 7 (2d6) sát thương lửa. Trúng hoặc trượt: Cây giáo trở về tay salamander một cách kỳ diệu ngay sau một đòn tấn công tầm xa.
 - *Siết (Constrict).* Cứu nguy Sức mạnh: DC 15, một sinh vật cỡ Lớn trở xuống salamander có thể thấy trong vòng 3 m (10 feet). Thất bại: 11 (2d6 + 4) sát thương đập cộng 7 (2d6) sát thương lửa. Mục tiêu ở trạng thái Bị vật lộn (DC thoát 14), và nó ở trạng thái Kiềm giữ cho đến khi vật lộn kết thúc.
 
 ## Người dê (Satyr)
@@ -4643,7 +4643,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 
 - *Đa đòn (Multiattack).* Trinh sát thực hiện hai đòn tấn công, dùng Kiếm ngắn và Cung dài theo bất kỳ tổ hợp nào.
 - *Kiếm ngắn (Shortsword).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên.
-- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 6 (1d8 + 2) sát thương xuyên.
+- *Cung dài (Longbow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên.
 
 ## Phù thủy biển (Sea Hag)
 
@@ -4660,7 +4660,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 *Đặc điểm*
 
 - *Lưỡng cư (Amphibious).* Mụ phù thủy có thể thở trong không khí và nước.
-- *Ma thuật hội phù thủy (Coven Magic).* Trong khi trong vòng 9 m (30 feet) của ít nhất hai đồng minh hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 11): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Đồ vật), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
+- *Ma thuật hội phù thủy (Coven Magic).* Trong khi ở trong vòng 9 m (30 feet) của ít nhất hai đồng minh là hag, mụ phù thủy có thể thi triển một trong các phép sau, không yêu cầu thành phần vật chất, dùng thời gian thi triển bình thường của phép, và dùng Trí tuệ làm thuộc tính thi triển phép (DC cứu nguy phép 11): *Bói điềm* (Augury), *Tìm sinh vật quen thuộc* (Find Familiar), *Nhận diện* (Identify), *Định vị vật thể* (Locate Object), *Do thám* (Scrying), hoặc *Đầy tớ vô hình* (Unseen Servant). Mụ phù thủy phải hoàn thành một nghỉ dài trước khi dùng đặc điểm này để thi triển phép đó lần nữa.
 - *Diện mạo ghê tởm (Vile Appearance).* Cứu nguy Minh triết: DC 11, bất kỳ Thú hoặc Hình người nào bắt đầu lượt của nó trong vòng 9 m (30 feet) của mụ phù thủy và có thể thấy hình dạng thật của mụ phù thủy. Thất bại: Mục tiêu ở trạng thái Hoảng sợ cho đến khi bắt đầu lượt tiếp theo của nó. Thành công: Mục tiêu miễn nhiễm với Diện mạo ghê tởm của mụ phù thủy này trong 24 giờ.
 
 *Hành động*
@@ -4740,7 +4740,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 
 - *Bị ràng buộc (Bound).* Vệ sĩ được gắn kết một cách kỳ diệu với một chiếc bùa. Trong khi vệ sĩ và bùa của nó ở cùng cõi tồn tại, người đeo bùa có thể gọi vệ sĩ bằng thần giao cách cảm để nó đến với họ, và vệ sĩ biết khoảng cách và hướng đến bùa. Nếu vệ sĩ trong vòng 18 m (60 feet) của người đeo bùa, một nửa bất kỳ sát thương nào người đeo nhận (làm tròn lên) được chuyển sang vệ sĩ.
 - *Tái sinh (Regeneration).* Vệ sĩ phục hồi 10 điểm sinh lực vào đầu mỗi lượt của nó nếu nó có ít nhất 1 điểm sinh lực.
-- *Lưu trữ phép (Spell Storing).* Một spellcaster đeo bùa của vệ sĩ có thể khiến vệ sĩ lưu trữ một phép cấp độ 4 trở xuống. Để làm vậy, người đeo phải thi triển phép lên vệ sĩ trong khi trong vòng 1,5 m (5 feet) của nó. Phép không có hiệu ứng nhưng được lưu trữ bên trong vệ sĩ. Bất kỳ phép nào được lưu trữ trước đó đều mất khi một phép mới được lưu trữ. Vệ sĩ có thể thi triển phép được lưu trữ với bất kỳ tham số nào được đặt bởi người thi triển ban đầu, không cần thành phần phép nào và dùng thuộc tính thi triển phép của người thi triển. Phép được lưu trữ sau đó bị mất.
+- *Lưu trữ phép (Spell Storing).* Một người thi triển phép đeo bùa của vệ sĩ có thể khiến vệ sĩ lưu trữ một phép bậc 4 trở xuống. Để làm vậy, người đeo phải thi triển phép lên vệ sĩ khi ở trong phạm vi 1,5 m (5 feet) của nó. Phép không có hiệu ứng nhưng được lưu trữ bên trong vệ sĩ. Bất kỳ phép nào được lưu trữ trước đó đều mất khi một phép mới được lưu trữ. Vệ sĩ có thể thi triển phép được lưu trữ với bất kỳ tham số nào được đặt bởi người thi triển ban đầu, không cần thành phần phép nào và dùng thuộc tính thi triển phép của người thi triển. Phép được lưu trữ sau đó bị mất.
 
 *Hành động*
 
@@ -4887,7 +4887,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Kiếm ngắn (Shortsword).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương xuyên.
-- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +5, tầm 24/96 m (80/96 m (320 ft.)) Trúng: 6 (1d6 + 3) sát thương xuyên.
+- *Cung ngắn (Shortbow).* Tung tấn công tầm xa: +5, tầm 24/96 m (80/320 ft.). Trúng: 6 (1d6 + 3) sát thương xuyên.
 
 ### Bộ xương chiến mã (Warhorse Skeleton)
 
@@ -5135,7 +5135,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Kiếm kim (Needle Sword).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 6 (1d4 + 4) sát thương xuyên.
-- *Cung mê hoặc (Enchanting Bow).* Tung tấn công tầm xa: +6, tầm 12/48 m (40/48 m (160 ft.)) Trúng: 1 sát thương xuyên, và mục tiêu ở trạng thái Mê hoặc cho đến khi bắt đầu lượt tiếp theo của yêu tinh.
+- *Cung mê hoặc (Enchanting Bow).* Tung tấn công tầm xa: +6, tầm 12/48 m (40/160 ft.). Trúng: 1 sát thương xuyên, và mục tiêu ở trạng thái Mê hoặc cho đến khi bắt đầu lượt tiếp theo của yêu tinh.
 - *Nhìn thấu lòng (Heart Sight).* Cứu nguy Sức hút: DC 10, một sinh vật trong vòng 1,5 m (5 feet) yêu tinh có thể thấy (Thiên thể, Ác quỷ, và Xác sống tự động thất bại lần cứu nguy). Thất bại: Yêu tinh biết cảm xúc và alignment của mục tiêu.
 - *Tàng hình (Invisibility).* Yêu tinh thi triển phép *Vô hình* (Invisibility) lên bản thân, không cần thành phần phép nào và dùng Sức hút làm thuộc tính thi triển phép.
 
@@ -5156,11 +5156,11 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Hành động*
 
 - *Kiếm ngắn (Shortsword).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên cộng 7 (2d6) sát thương độc.
-- *Nỏ tay (Hand Crossbow).* Tung tấn công tầm xa: +4, tầm 9/36 m (30/36 m (120 ft.)) Trúng: 5 (1d6 + 2) sát thương xuyên cộng 7 (2d6) sát thương độc.
+- *Nỏ tay (Hand Crossbow).* Tung tấn công tầm xa: +4, tầm 9/36 m (30/120 ft.). Trúng: 5 (1d6 + 2) sát thương xuyên cộng 7 (2d6) sát thương độc.
 
 *Hành động phụ*
 
-- *Hành động xảo quyệt (Cunning Action).* Gián điệp thực hiện hành động Chạy nước rút, Disengage, hoặc Hide.
+- *Hành động xảo quyệt (Cunning Action).* Gián điệp thực hiện hành động Chạy nước rút, Rút lui hoặc Ẩn nấp.
 
 ## Stirge
 
@@ -5197,7 +5197,7 @@ Stirge có thể tự tách ra bằng cách tốn 1,5 m (5 feet) lượng di chu
 
 - *Đa đòn (Multiattack).* Người khổng lồ thực hiện hai đòn tấn công, dùng Chùy đá hoặc Tảng đá theo bất kỳ tổ hợp nào.
 - *Chùy đá (Stone Club).* Tung tấn công cận chiến: +9, tầm với 4,5 m (15 ft.). Trúng: 22 (3d10 + 6) sát thương đập.
-- *Tảng đá (Boulder).* Tung tấn công tầm xa: +9, tầm 18/72 m (60/72 m (240 ft.)) Trúng: 15 (2d8 + 6) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
+- *Tảng đá (Boulder).* Tung tấn công tầm xa: +9, tầm 18/72 m (60/240 ft.). Trúng: 15 (2d8 + 6) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp.
 
 *Phản ứng*
 
@@ -5321,7 +5321,7 @@ Stirge có thể tự tách ra bằng cách tốn 1,5 m (5 feet) lượng di chu
 
 *Hành động phụ*
 
-- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 27, một sinh vật cỡ Lớn trở xuống đang bị Bị vật lộn bởi tarrasque (nó có thể nuốt tối đa sáu sinh vật tại một thời điểm). Thất bại: Mục tiêu bị nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ và không thể dịch chuyển, nó có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài tarrasque, và nó chịu 56 (16d6) sát thương axit vào đầu mỗi lượt của tarrasque.
+- *Nuốt (Swallow).* Cứu nguy Sức mạnh: DC 27, một sinh vật cỡ Lớn trở xuống đang ở trạng thái Bị vật lộn bởi tarrasque (nó có thể nuốt tối đa sáu sinh vật tại một thời điểm). Thất bại: Mục tiêu bị nuốt, và trạng thái Bị vật lộn kết thúc. Một sinh vật bị nuốt ở trạng thái Mù và Kiềm giữ và không thể dịch chuyển, nó có che chắn toàn phần chống lại các cuộc tấn công và hiệu ứng khác bên ngoài tarrasque, và nó chịu 56 (16d6) sát thương axit vào đầu mỗi lượt của tarrasque.
 
 Nếu tarrasque chịu 60 sát thương trở lên trong một lượt duy nhất từ một sinh vật bên trong nó, tarrasque phải thành công trong một cứu nguy Thể chất DC 20 vào cuối lượt đó hoặc nôn ra tất cả các sinh vật bị nuốt, mỗi sinh vật rơi vào một không gian trong vòng 3 m (10 feet) của tarrasque với trạng thái Ngã sấp. Nếu tarrasque chết, bất kỳ sinh vật bị nuốt nào không còn trạng thái Kiềm giữ nữa và có thể thoát khỏi xác chết bằng cách dùng 6 m (20 feet) lượng di chuyển, thoát ra ở trạng thái Ngã sấp.
 
@@ -5354,7 +5354,7 @@ Số lần hành động huyền thoại: 3. Ngay sau lượt của một sinh v
 *Hành động*
 
 - *Chùy đầu kim loại (Mace).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 5 (1d6 + 2) sát thương đập.
-- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +3, tầm 30/120 m (100/120 m (400 ft.)) Trúng: 6 (1d10 + 1) sát thương xuyên.
+- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +3, tầm 30/120 m (100/400 ft.). Trúng: 6 (1d10 + 1) sát thương xuyên.
 
 ### Trùm côn đồ (Tough Boss)
 
@@ -5377,7 +5377,7 @@ Số lần hành động huyền thoại: 3. Ngay sau lượt của một sinh v
 
 - *Đa đòn (Multiattack).* Tay anh chị thực hiện hai đòn tấn công, dùng Búa chiến hoặc Nỏ nặng theo bất kỳ tổ hợp nào.
 - *Búa chiến (Warhammer).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 12 (2d8 + 3) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, tay anh chị đẩy mục tiêu tối đa 3 m (10 feet) trực tiếp khỏi bản thân.
-- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +4, tầm 30/120 m (100/120 m (400 ft.)) Trúng: 13 (2d10 + 2) sát thương xuyên.
+- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +4, tầm 30/120 m (100/400 ft.). Trúng: 13 (2d10 + 2) sát thương xuyên.
 
 ## Treant
 
@@ -5517,11 +5517,11 @@ Số lần hành động huyền thoại: 3. Ngay sau lượt của một sinh v
 *Hành động*
 
 - *Đa đòn (Multiattack).* Tay sai thực hiện hai đòn Dao găm bóng tối.
-- *Dao găm bóng tối (Umbral Dagger).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 5 (1d4 + 3) sát thương xuyên cộng 7 (3d4) sát thương hoại tử. Nếu mục tiêu bị giảm xuống 0 điểm sinh lực bởi cuộc tấn công này, mục tiêu trở nên Ổn định nhưng ở trạng thái Trúng độc trong 1 giờ. Trong khi nó ở trạng thái Trúng độc, mục tiêu ở trạng thái Tê liệt.
+- *Dao găm bóng tối (Umbral Dagger).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 5 (1d4 + 3) sát thương xuyên cộng 7 (3d4) sát thương hoại tử. Nếu mục tiêu bị giảm xuống 0 điểm sinh lực bởi cuộc tấn công này, mục tiêu trở nên Ổn định nhưng ở trạng thái Trúng độc trong 1 giờ. Trong khi nó ở trạng thái Trúng độc, mục tiêu ở trạng thái Tê liệt.
 
 *Hành động phụ*
 
-- *Nhanh nhẹn bất tử (Deathless Agility).* Tay sai thực hiện hành động Chạy nước rút hoặc Disengage.
+- *Nhanh nhẹn bất tử (Deathless Agility).* Tay sai thực hiện hành động Chạy nước rút hoặc Rút lui.
 
 ### Ma cà rồng con (Vampire Spawn)
 
@@ -5554,7 +5554,7 @@ Số lần hành động huyền thoại: 3. Ngay sau lượt của một sinh v
 
 *Hành động phụ*
 
-- *Nhanh nhẹn bất tử (Deathless Agility).* Ma cà rồng thực hiện hành động Chạy nước rút hoặc Disengage.
+- *Nhanh nhẹn bất tử (Deathless Agility).* Ma cà rồng thực hiện hành động Chạy nước rút hoặc Rút lui.
 
 ### Ma cà rồng (Vampire)
 
@@ -5630,7 +5630,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - *Đa đòn (Multiattack).* Vrock thực hiện hai đòn Xé nát.
 - *Xé nát (Shred).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương xuyên cộng 10 (3d6) sát thương độc.
 - *Bào tử (Spores; Hồi 6).* Cứu nguy Thể chất: DC 15, mỗi sinh vật trong một vùng tỏa 6 m (20 feet) bắt nguồn từ vrock. Thất bại: Mục tiêu ở trạng thái Trúng độc và lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. Trong khi Trúng độc, mục tiêu chịu 5 (1d10) sát thương độc vào đầu mỗi lượt của nó. Đổ một bình Nước thánh (Holy Water) lên mục tiêu kết thúc hiệu ứng sớm.
-- *Tiếng rít gây choáng (Stunning Screech; 1/Ngày).* Cứu nguy Thể chất: DC 15, mỗi sinh vật trong một vùng tỏa 6 m (20 feet) bắt nguồn từ vrock (demon tự động thành công). Thất bại: 10 (3d6) sát thương sấm, và mục tiêu ở trạng thái Choáng cho đến khi kết thúc lượt tiếp theo của vrock.
+- *Tiếng rít gây choáng (Stunning Screech; 1/Ngày).* Cứu nguy Thể chất: DC 15, mỗi sinh vật trong một vùng tỏa 6 m (20 feet) bắt nguồn từ vrock (Demon tự động thành công). Thất bại: 10 (3d6) sát thương sấm, và mục tiêu ở trạng thái Choáng cho đến khi kết thúc lượt tiếp theo của vrock.
 
 ## Chiến binh (Warriors)
 
@@ -5653,7 +5653,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Hành động*
 
-- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +3, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 4 (1d6 + 1) sát thương xuyên.
+- *Giáo (Spear).* Tung tấn công cận chiến hoặc tầm xa: +3, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 4 (1d6 + 1) sát thương xuyên.
 
 ### Cựu binh (Warrior Veteran)
 
@@ -5673,7 +5673,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Chiến binh thực hiện hai đòn Kiếm lớn hoặc Nỏ nặng.
 - *Kiếm lớn (Greatsword).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém.
-- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +3, tầm 30/120 m (100/120 m (400 ft.)) Trúng: 12 (2d10 + 1) sát thương xuyên.
+- *Nỏ nặng (Heavy Crossbow).* Tung tấn công tầm xa: +3, tầm 30/120 m (100/400 ft.). Trúng: 12 (2d10 + 1) sát thương xuyên.
 
 *Phản ứng*
 
@@ -5695,14 +5695,14 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 *Đặc điểm*
 
-- *Đóng băng (Freeze).* Nếu elemental chịu sát thương lạnh, Tốc độ của nó giảm 6 m (20 feet) cho đến cuối lượt tiếp theo của nó.
+- *Đóng băng (Freeze).* Nếu nguyên tố chịu sát thương lạnh, Tốc độ của nó giảm 6 m (20 feet) cho đến cuối lượt tiếp theo của nó.
 - *Dạng nước (Water Form).* Nguyên tố có thể tiến vào không gian của kẻ địch và dừng lại đó. Nó có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
 
 *Hành động*
 
 - *Đa đòn (Multiattack).* Nguyên tố thực hiện hai đòn Đập.
 - *Đập (Slam).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 13 (2d8 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống, nó ở trạng thái Ngã sấp.
-- *Nhấn chìm (Whelm; Hồi 4–6).* Cứu nguy Sức mạnh: DC 15, mỗi sinh vật trong không gian của elemental. Thất bại: 22 (4d8 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 14). Cho đến khi vật lộn kết thúc, mục tiêu ở trạng thái Kiềm giữ, đang ngạt thở trừ khi nó có thể thở dưới nước, và chịu 9 (2d8) sát thương đập vào đầu mỗi lượt của elemental. Nguyên tố chỉ có thể vật lộn một sinh vật cỡ Lớn hoặc tối đa hai sinh vật cỡ Trung bình trở xuống tại một thời điểm bằng Nhấn chìm. Như một hành động, một sinh vật trong vòng 1,5 m (5 feet) của elemental có thể kéo một sinh vật ra khỏi nó bằng cách thành công trong một phép kiểm tra Sức mạnh (Điền kinh) DC 14. Thành công: Chỉ nửa sát thương.
+- *Nhấn chìm (Whelm; Hồi 4–6).* Cứu nguy Sức mạnh: DC 15, mỗi sinh vật trong không gian của nguyên tố. Thất bại: 22 (4d8 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Bị vật lộn (DC thoát 14). Cho đến khi vật lộn kết thúc, mục tiêu ở trạng thái Kiềm giữ, đang ngạt thở trừ khi nó có thể thở dưới nước, và chịu 9 (2d8) sát thương đập vào đầu mỗi lượt của nguyên tố. Nguyên tố chỉ có thể vật lộn một sinh vật cỡ Lớn hoặc tối đa hai sinh vật cỡ Trung bình trở xuống tại một thời điểm bằng Nhấn chìm. Như một hành động, một sinh vật trong vòng 1,5 m (5 feet) của nguyên tố có thể kéo một sinh vật ra khỏi nó bằng cách thành công trong một phép kiểm tra Sức mạnh (Điền kinh) DC 14. Thành công: Chỉ nửa sát thương.
 
 ## Người gấu (Werebear)
 
@@ -5722,7 +5722,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Werebear thực hiện hai đòn tấn công, dùng Rìu tay hoặc Xé theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một đòn Cắn.
 - *Cắn (Bite; chỉ dạng gấu hoặc dạng lai).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 17 (2d12 + 4) sát thương xuyên. Nếu mục tiêu là một Hình người, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 14. Thất bại: Mục tiêu bị nguyền. Nếu mục tiêu bị nguyền giảm xuống 0 điểm sinh lực, nó thay vào đó trở thành một Werebear dưới sự kiểm soát của Quản trò và có 10 điểm sinh lực. Thành công: Mục tiêu miễn nhiễm với lời nguyền của con werebear này trong 24 giờ.
-- *Rìu tay (Handaxe; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 5 ft hoặc tầm 6/18 m (20/18 m (60 ft.)) Trúng: 14 (3d6 + 4) sát thương chém.
+- *Rìu tay (Handaxe; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công cận chiến hoặc tầm xa: +7, tầm với 1,5 m (5 ft.) hoặc tầm 6/18 m (20/60 ft.). Trúng: 14 (3d6 + 4) sát thương chém.
 - *Xé (Rend; chỉ dạng gấu hoặc dạng lai).* Tung tấn công cận chiến: +7, tầm với 1,5 m (5 ft.). Trúng: 13 (2d8 + 4) sát thương chém.
 
 *Hành động phụ*
@@ -5747,7 +5747,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Wereboar thực hiện hai đòn tấn công, dùng Lao hoặc Nanh theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một đòn Húc sừng.
 - *Húc sừng (Gore; chỉ dạng lợn rừng hoặc dạng lai).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên. Nếu mục tiêu là một Hình người, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 12. Thất bại: Mục tiêu bị nguyền. Nếu mục tiêu bị nguyền giảm xuống 0 điểm sinh lực, nó thay vào đó trở thành một Wereboar dưới sự kiểm soát của Quản trò và có 10 điểm sinh lực. Thành công: Mục tiêu miễn nhiễm với lời nguyền của con wereboar này trong 24 giờ.
-- *Lao (Javelin; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/36 m (120 ft.)) Trúng: 13 (3d6 + 3) sát thương xuyên.
+- *Lao (Javelin; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công cận chiến hoặc tầm xa: +5, tầm với 1,5 m (5 ft.) hoặc tầm 9/36 m (30/120 ft.). Trúng: 13 (3d6 + 3) sát thương xuyên.
 - *Nanh (Tusk; chỉ dạng lợn rừng hoặc dạng lai).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương xuyên. Nếu mục tiêu là một sinh vật cỡ Trung bình trở xuống và wereboar đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 7 (2d6) sát thương xuyên và ở trạng thái Ngã sấp.
 
 *Hành động phụ*
@@ -5773,7 +5773,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - *Đa đòn (Multiattack).* Wererat thực hiện hai đòn tấn công, dùng Cào hoặc Nỏ tay theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một đòn Cắn.
 - *Cắn (Bite; chỉ dạng chuột hoặc dạng lai).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 8 (2d4 + 3) sát thương xuyên. Nếu mục tiêu là một Hình người, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 11. Thất bại: Mục tiêu bị nguyền. Nếu mục tiêu bị nguyền giảm xuống 0 điểm sinh lực, nó thay vào đó trở thành một Wererat dưới sự kiểm soát của Quản trò và có 10 điểm sinh lực. Thành công: Mục tiêu miễn nhiễm với lời nguyền của con wererat này trong 24 giờ.
 - *Cào (Scratch).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 6 (1d6 + 3) sát thương chém.
-- *Nỏ tay (Hand Crossbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +5, tầm 9/36 m (30/36 m (120 ft.)) Trúng: 6 (1d6 + 3) sát thương xuyên.
+- *Nỏ tay (Hand Crossbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +5, tầm 9/36 m (30/120 ft.). Trúng: 6 (1d6 + 3) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -5798,7 +5798,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - *Đa đòn (Multiattack).* Weretiger thực hiện hai đòn tấn công, dùng Cào hoặc Cung dài theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một đòn Cắn.
 - *Cắn (Bite; chỉ dạng hổ hoặc dạng lai).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên. Nếu mục tiêu là một Hình người, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 13. Thất bại: Mục tiêu bị nguyền. Nếu mục tiêu bị nguyền giảm xuống 0 điểm sinh lực, nó thay vào đó trở thành một Weretiger dưới sự kiểm soát của Quản trò và có 10 điểm sinh lực. Thành công: Mục tiêu miễn nhiễm với lời nguyền của con weretiger này trong 24 giờ.
 - *Cào (Scratch).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém.
-- *Cung dài (Longbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 11 (2d8 + 2) sát thương xuyên.
+- *Cung dài (Longbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 11 (2d8 + 2) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -5828,7 +5828,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 - *Đa đòn (Multiattack).* Người sói thực hiện hai đòn tấn công, dùng Cào hoặc Cung dài theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một đòn Cắn.
 - *Cắn (Bite; chỉ dạng sói hoặc dạng lai).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 12 (2d8 + 3) sát thương xuyên. Nếu mục tiêu là một Hình người, nó phải chịu hiệu ứng sau. Cứu nguy Thể chất: DC 12. Thất bại: Mục tiêu bị nguyền. Nếu mục tiêu bị nguyền giảm xuống 0 điểm sinh lực, nó thay vào đó trở thành một Werewolf dưới sự kiểm soát của Quản trò và có 10 điểm sinh lực. Thành công: Mục tiêu miễn nhiễm với lời nguyền của con người sói này trong 24 giờ.
 - *Cào (Scratch).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 10 (2d6 + 3) sát thương chém.
-- *Cung dài (Longbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 11 (2d8 + 2) sát thương xuyên.
+- *Cung dài (Longbow; chỉ dạng Hình người hoặc dạng lai).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 11 (2d8 + 2) sát thương xuyên.
 
 *Hành động phụ*
 
@@ -5974,7 +5974,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 
 - *Đa đòn (Multiattack).* Wight thực hiện hai đòn tấn công, dùng Kiếm hoại tử hoặc Cung hoại tử theo bất kỳ tổ hợp nào. Nó có thể thay một đòn tấn công bằng một lần dùng Hút sinh lực.
 - *Kiếm hoại tử (Necrotic Sword).* Tung tấn công cận chiến: +4, tầm với 1,5 m (5 ft.). Trúng: 6 (1d8 + 2) sát thương chém cộng 4 (1d8) sát thương hoại tử.
-- *Cung hoại tử (Necrotic Bow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/180 m (600 ft.)) Trúng: 6 (1d8 + 2) sát thương xuyên cộng 4 (1d8) sát thương hoại tử.
+- *Cung hoại tử (Necrotic Bow).* Tung tấn công tầm xa: +4, tầm 45/180 m (150/600 ft.). Trúng: 6 (1d8 + 2) sát thương xuyên cộng 4 (1d8) sát thương hoại tử.
 - *Hút sinh lực (Life Drain).* Cứu nguy Thể chất: DC 13, một sinh vật trong vòng 1,5 m (5 feet). Thất bại: 6 (1d8 + 2) sát thương hoại tử, và điểm sinh lực tối đa của mục tiêu giảm một lượng bằng sát thương đã nhận.
 
 Một Hình người bị giết bởi cuộc tấn công này trỗi dậy 24 giờ sau đó như một Zombie dưới sự kiểm soát của wight, trừ khi Hình người được hồi sinh hoặc thân xác của nó bị phá hủy. Wight chỉ có thể có tối đa mười hai zombie dưới sự kiểm soát của nó tại một thời điểm.

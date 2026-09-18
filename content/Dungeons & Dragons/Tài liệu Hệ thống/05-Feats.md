@@ -76,7 +76,7 @@ Tăng một điểm thuộc tính tùy chọn thêm 2, hoặc tăng hai điểm 
 Bạn nhận các lợi ích sau:
 
 - **Tăng điểm thuộc tính (Ability Score Increase).** Tăng Sức mạnh hoặc Khéo léo thêm 1, tối đa 20.
-- **Đấm và tóm (Punch and Grab).** Khi đánh trúng một sinh vật bằng đòn tay không trong hành động Tấn công của lượt mình, bạn có thể dùng cả lựa chọn Sát thương lẫn Vật lộn. Mỗi lượt bạn chỉ dùng được lợi ích này một lần.
+- **Đấm và tóm (Punch and Grab).** Khi đánh trúng một sinh vật bằng đòn đánh không vũ khí trong hành động Tấn công của lượt mình, bạn có thể dùng cả lựa chọn Sát thương lẫn Vật lộn. Mỗi lượt bạn chỉ dùng được lợi ích này một lần.
 - **Lợi thế tấn công (Attack Advantage).** Bạn có lợi thế khi tung tấn công sinh vật đang bị bạn vật lộn.
 - **Đô vật nhanh (Fast Wrestler).** Bạn không tốn thêm lượng di chuyển khi kéo theo một sinh vật đang bị bạn vật lộn nếu nó cùng cỡ hoặc nhỏ hơn bạn.
 

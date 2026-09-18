@@ -337,13 +337,13 @@ Trong khi cầm Khiên này, bạn có thể dùng một hành động phụ đ�
 
 Vật phẩm này ban đầu trông giống một thùng sắt kín nặng 225 kg (500 lb.). Thùng có một chốt ẩn, có thể tìm thấy bằng một phép kiểm tra Trí tuệ (Điều tra) DC 20 thành công. Mở chốt sẽ mở khóa một cửa sập ở một đầu của thùng, cho phép hai sinh vật cỡ Trung bình trở xuống bò vào bên trong. Mười cần gạt được đặt thành một hàng ở đầu kia, mỗi cái ở vị trí trung lập, có thể di chuyển lên hoặc xuống.
 
-Khi bất kỳ cần gạt nào của *Cỗ máy hình cua* được dùng, thiết bị biến đổi để giống một con tôm hùm khổng lồ. *Cỗ máy hình cua* là một đồ vật cỡ Lớn với các chỉ số sau: AC 20; HP 200; Tốc độ 9 m (30 ft.), Bơi 9 m (30 ft.) (hoặc 0 m (0 ft.) cho cả hai nếu chân không được duỗi ra); miễn nhiễm với độc và sát thương tâm linh.
+Khi một số cần gạt nhất định được dùng, thiết bị biến đổi để giống một con tôm hùm khổng lồ. *Cỗ máy hình cua* là một đồ vật cỡ Lớn với các chỉ số sau: AC 20; HP 200; Tốc độ 9 m (30 ft.), Tốc độ bơi 9 m (30 ft.) (hoặc 0 m (0 ft.) cho cả hai nếu chân không được duỗi ra); miễn nhiễm với sát thương độc và tâm linh.
 
 Để được dùng như một phương tiện, thiết bị cần một phi công. Trong khi cửa sập của thiết bị đóng, khoang chứa kín khí và kín nước. Khoang chứa đủ không khí cho 10 giờ thở, chia cho số sinh vật đang thở bên trong.
 
 Thiết bị nổi trên mặt nước. Nó cũng có thể lặn xuống nước ở độ sâu 270 m (900 feet). Dưới độ sâu đó, phương tiện chịu 2d6 sát thương đập mỗi phút do áp lực.
 
-Một sinh vật trong khoang có thể dùng một hành động Sử dụng để di chuyển tối đa hai cần gạt của thiết bị lên hoặc xuống. Sau mỗi lần dùng, một cần gạt trở về vị trí trung lập của nó. Mỗi cần gạt, từ trái sang phải, hoạt động như trong bảng ***Cỗ máy hình cua* Levers**.
+Một sinh vật trong khoang có thể dùng một hành động Sử dụng để di chuyển tối đa hai cần gạt của thiết bị lên hoặc xuống. Sau mỗi lần dùng, cần gạt trở về vị trí trung lập. Mỗi cần gạt, từ trái sang phải, hoạt động như trình bày trong bảng **Cần gạt của Cỗ máy hình cua**.
 
 **Cần gạt của Cỗ máy hình cua**
 
@@ -364,14 +364,15 @@ Một sinh vật trong khoang có thể dùng một hành động Sử dụng đ
 
 *Giáp (giáp nhẹ, trung bình hoặc nặng bất kỳ), hiếm (+1), rất hiếm (+2), hoặc huyền thoại (+3)*
 
-Bạn có một điểm cộng vào Chỉ số giáp trong khi mặc bộ giáp này. Điểm cộng được xác định bởi độ hiếm của nó.
+Bạn nhận một điểm cộng vào Chỉ số giáp trong khi mặc bộ giáp này. Điểm cộng được xác định bởi độ hiếm của giáp.
 
 ### Giáp bất khả xâm phạm (Armor of Invulnerability)
 
 *Giáp (Giáp tấm), huyền thoại (cần hòa hợp)*
 
-- *Kháng cận chiến (Melee Resistance).* Bạn có kháng với đập, xuyên, và sát thương chém trong khi bạn mặc bộ giáp này.
-- *Bất khả xâm phạm (Invulnerability).* Bạn có thể dùng một hành động Ma thuật để cho bản thân miễn nhiễm với đập, xuyên, và sát thương chém trong 10 phút hoặc cho đến khi bạn không còn mặc bộ giáp nữa. Một khi thuộc tính này được dùng, nó không thể dùng lại cho đến bình minh tiếp theo.
+Bạn có kháng sát thương đập, xuyên và chém trong khi mặc bộ giáp này.
+
+*Vỏ kim loại (Metal Shell).* Bạn có thể dùng một hành động Ma thuật để cho bản thân miễn nhiễm với sát thương đập, xuyên và chém trong 10 phút hoặc cho đến khi bạn không còn mặc bộ giáp nữa. Một khi thuộc tính này được dùng, nó không thể dùng lại cho đến bình minh tiếp theo.
 
 ### Giáp kháng (Armor of Resistance)
 
@@ -381,11 +382,11 @@ Bạn có kháng với một loại sát thương trong khi bạn mặc bộ gi�
 
 | 1d10 | Loại sát thương | 1d10 | Loại sát thương |
 |---|---|---|---|
-| 1 | Acid | 6 | Necrotic |
-| 2 | Cold | 7 | Poison |
-| 3 | Fire | 8 | Psychic |
-| 4 | Force | 9 | Radiant |
-| 5 | Lightning | 10 | Thunder |
+| 1 | Axit | 6 | Hoại tử |
+| 2 | Lạnh | 7 | Độc |
+| 3 | Lửa | 8 | Tâm linh |
+| 4 | Lực | 9 | Quang |
+| 5 | Sét | 10 | Sấm |
 
 ### Giáp dễ tổn thương (Armor of Vulnerability)
 
@@ -405,7 +406,7 @@ Bạn được +2 Chỉ số giáp chống lại lần tung tấn công tầm xa
 
 *Vật phẩm kỳ diệu, hiếm*
 
-Chiếc túi vải nặng này chứa 3d4 hạt đậu khô khi được tìm thấy. Túi nặng nửa pound bất kể nó chứa bao nhiêu hạt đậu và trở thành một vật phẩm không có ma thuật khi nó không còn chứa hạt đậu nào.
+Chiếc túi vải nặng này chứa 3d4 hạt đậu khô khi được tìm thấy. Túi nặng 0,23 kg (1/2 lb.) bất kể nó chứa bao nhiêu hạt đậu và trở thành một vật phẩm không có ma thuật khi không còn hạt đậu nào.
 
 Nếu bạn đổ một hoặc nhiều hạt đậu ra khỏi túi, chúng phát nổ trong một hình cầu bán kính 3 m (10 feet) có tâm tại chúng. Tất cả các hạt đậu bị đổ ra đều bị phá hủy trong vụ nổ, và mỗi sinh vật trong hình cầu, kể cả bạn, thực hiện một cứu nguy Khéo léo DC 15, chịu 5d4 sát thương lực khi thất bại hoặc một nửa sát thương đó khi thành công.
 
@@ -415,16 +416,16 @@ Nếu bạn lấy một hạt đậu ra khỏi túi, trồng nó xuống đất 
 |---|---|
 | 01 | 5d4 cây nấm mọc lên. Nếu một sinh vật ăn một cây nấm, hãy tung bất kỳ xúc xắc nào. Với kết quả lẻ, người ăn phải thành công trong một cứu nguy Thể chất DC 15 hoặc chịu 5d6 sát thương độc và ở trạng thái Trúng độc trong 1 giờ. Với kết quả chẵn, người ăn nhận 5d6 điểm sinh lực tạm thời trong 1 giờ. |
 | 02–10 | Một mạch phun trào và phun ra nước, bia, sốt mayonnaise, trà, giấm, rượu vang, hoặc dầu (tùy Quản trò chọn) cao 9 m (30 feet) lên không trung trong 1d4 phút. |
-| 11–20 | Một Treant mọc lên. Tung bất kỳ xúc xắc nào. Với kết quả lẻ, treant là Chaotic Evil. Với kết quả chẵn, treant là Chaotic Good. |
+| 11–20 | Một *Treant* mọc lên. Tung bất kỳ xúc xắc nào. Với kết quả lẻ, treant có khuynh hướng hỗn loạn ác. Với kết quả chẵn, treant có khuynh hướng hỗn loạn thiện. |
 | 21–30 | Một bức tượng đá bất động nhưng có tri giác giống hình bạn trỗi dậy và đưa ra lời đe dọa bằng lời nói chống lại bạn. Nếu bạn để nó lại và người khác đến gần, nó mô tả bạn là kẻ đáng ghê tởm nhất và chỉ đạo những người mới đến tìm và tấn công bạn. Nếu bạn ở cùng cõi tồn tại với bức tượng, nó biết bạn ở đâu. Bức tượng trở nên bất động sau 24 giờ. |
 | 31–40 | Một đống lửa trại với ngọn lửa xanh bùng lên và cháy trong 24 giờ hoặc cho đến khi nó bị dập tắt. |
-| 41–50 | Ba Shrieker Fungi mọc lên. |
+| 41–50 | Ba *Nấm rít* (Shrieker Fungus) mọc lên. |
 | 51–60 | 1d4 + 4 con cóc màu hồng sáng bò ra. Bất cứ khi nào một con cóc bị chạm vào, nó biến thành một con quái vật cỡ Lớn trở xuống theo lựa chọn của Quản trò hành động phù hợp với khuynh hướng đạo đức và bản chất của nó. Con quái vật tồn tại trong 1 phút, sau đó biến mất trong một làn khói hồng sáng. |
 | 61–70 | Một con Bulette đói bụng đào lên và tấn công. |
 | 71–80 | Một cây ăn quả mọc lên. Nó có 1d10 + 20 quả, trong đó 1d8 quả hoạt động như các thuốc được xác định ngẫu nhiên. Cây biến mất sau 1 giờ. Quả đã hái vẫn còn, giữ nguyên bất kỳ ma thuật nào trong 30 ngày. |
 | 81–90 | Một tổ 1d4 + 3 quả trứng nhiều màu sắc mọc lên. Bất kỳ sinh vật nào ăn một quả trứng thực hiện một cứu nguy Thể chất DC 20. Khi thành công, một sinh vật tăng vĩnh viễn điểm thuộc tính thấp nhất của nó thêm 1, chọn ngẫu nhiên trong số các điểm thấp bằng nhau. Khi thất bại, sinh vật chịu 10d6 sát thương lực từ một vụ nổ bên trong. |
 | 91–95 | Một kim tự tháp với đáy vuông 18 m (60 feet) bùng lên. Bên trong là một buồng chôn cất chứa một *Xác ướp* (Mummy), một *Chúa tể xác ướp* (Mummy Lord), hoặc một Xác sống khác theo lựa chọn của Quản trò. Quan tài đá của nó chứa kho báu theo lựa chọn của Quản trò. |
-| 96–00 | Một cây đậu khổng lồ mọc lên, cao đến độ cao theo lựa chọn của Quản trò. Ngọn cây dẫn đến nơi Quản trò chọn, chẳng hạn một tầm nhìn tuyệt đẹp, lâu đài của một cloud giant, hoặc một cõi tồn tại khác. |
+| 96–00 | Một cây đậu khổng lồ mọc lên, cao đến độ cao theo lựa chọn của Quản trò. Ngọn cây dẫn đến nơi Quản trò chọn, chẳng hạn một tầm nhìn tuyệt đẹp, lâu đài của một người khổng lồ mây, hoặc một cõi tồn tại khác. |
 
 ### Túi nuốt chửng (Bag of Devouring)
 
@@ -434,7 +435,7 @@ Túi này trông giống một *Túi chứa đồ* (Bag of Holding) nhưng là m
 
 Sinh vật ngoại chiều gắn liền với túi có thể cảm nhận bất cứ thứ gì được đặt vào trong túi. Vật chất động vật hoặc thực vật đặt hoàn toàn vào túi bị nuốt chửng và mất vĩnh viễn. Khi một phần của một sinh vật sống được đặt vào túi, như khi ai đó thò tay vào bên trong nó, có 50 phần trăm khả năng sinh vật đó bị kéo vào bên trong túi. Một sinh vật bên trong túi có thể dùng một hành động để cố thoát ra, làm vậy với một phép kiểm tra Sức mạnh (Điền kinh) DC 15 thành công. Một sinh vật khác có thể dùng một hành động để thò tay vào túi kéo một sinh vật ra, làm vậy với một phép kiểm tra Sức mạnh (Điền kinh) DC 20 thành công, miễn là người kéo không bị kéo vào trong túi trước. Bất kỳ sinh vật nào bắt đầu lượt của nó bên trong túi đều bị nuốt chửng, cơ thể của nó bị phá hủy.
 
-Các đồ vật vô tri có thể được cất trong túi, có thể chứa một khối lập phương foot vật chất như vậy. Tuy nhiên, mỗi ngày một lần, túi nuốt bất kỳ đồ vật nào bên trong nó và nhổ chúng ra một cõi tồn tại khác. Quản trò xác định thời gian và cõi.
+Các đồ vật vô tri có thể được cất trong túi; túi chứa được 0,028 m³ (1 foot khối) vật chất như vậy. Tuy nhiên, mỗi ngày một lần, túi nuốt mọi đồ vật bên trong và nhổ chúng ra một cõi tồn tại khác. Quản trò xác định thời điểm và cõi đến.
 
 Nếu túi bị đâm thủng hoặc rách, nó bị phá hủy, và bất cứ thứ gì chứa bên trong nó được vận chuyển đến một địa điểm ngẫu nhiên trên Cõi Astral.
 
@@ -442,11 +443,12 @@ Nếu túi bị đâm thủng hoặc rách, nó bị phá hủy, và bất cứ 
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Túi này có không gian bên trong lớn hơn đáng kể so với kích thước bên ngoài của nó — khoảng 60 cm (2 foot) vuông và sâu 1,2 m (4 foot) bên trong. Túi có thể chứa tối đa 225 kg (500 lb.), không vượt quá thể tích 64 khối lập phương foot. Túi nặng 2,25 kg (5 lb.), bất kể nội dung của nó. Lấy một vật phẩm ra khỏi túi cần một hành động Sử dụng.
+Túi này có không gian bên trong lớn hơn đáng kể so với kích thước bên ngoài — bên trong rộng khoảng 60 cm (2 feet) mỗi cạnh và sâu 1,2 m (4 feet). Túi có thể chứa tối đa 225 kg (500 lb.), với thể tích không quá 1,8 m³ (64 feet khối). Túi nặng 2,25 kg (5 lb.), bất kể chứa gì. Lấy một vật phẩm ra khỏi túi cần một hành động Sử dụng.
 
 Nếu túi bị quá tải, đâm thủng, hoặc rách, nó bị phá hủy, và nội dung của nó bị phân tán trên Cõi Astral. Nếu túi bị lộn ngược, nội dung của nó đổ ra ngoài mà không bị hại, nhưng túi phải được lộn lại đúng chiều trước khi có thể dùng lại. Túi chứa đủ không khí cho 10 phút thở, chia cho số sinh vật đang thở bên trong.
 
-Đặt một *Túi chứa đồ* vào bên trong một không gian ngoại chiều được tạo ra bởi một *Túi chứa đồ*, *Hố di động* (Portable Hole), hoặc vật phẩm tương tự khác ngay lập tức phá hủy cả hai vật phẩm và mở một cánh cổng đến Cõi Astral. Cánh cổng xuất hiện tại nơi một vật phẩm được đặt vào vật phẩm kia. Bất kỳ sinh vật nào trong một hình cầu bán kính 3 m (10 feet) có tâm tại cánh cổng bị hút qua nó đến một địa điểm ngẫu nhiên trên Cõi Astral. Cánh cổng sau đó đóng lại. Cánh cổng là một chiều và không thể mở lại.
+Đặt một *Túi chứa đồ* vào bên trong một không gian ngoại chiều được tạo ra bởi một *Ba lô tiện dụng* (Handy Haversack), *Hố di động* (Portable Hole), hoặc vật phẩm tương tự sẽ ngay lập tức phá hủy cả hai vật phẩm và mở một cánh cổng đến Cõi Astral. Cánh cổng xuất hiện tại nơi một vật phẩm được đặt vào vật phẩm kia. Bất kỳ sinh vật nào trong một hình cầu bán kính 3 m (10 feet) có tâm tại cánh cổng đều bị hút qua đó đến một địa điểm ngẫu nhiên trên Cõi Astral. Sau đó cánh cổng đóng lại; nó chỉ đi theo một chiều và không thể mở lại.
+
 ### Túi mẹo (Bag of Tricks)
 
 *Vật phẩm kỳ diệu, ít gặp*
@@ -490,7 +492,7 @@ Một khi ba đồ vật có lông đã được lấy ra khỏi túi, túi khô
 
 *Vật phẩm kỳ diệu, hiếm*
 
-Quả cầu nhỏ màu đen này có đường kính 3/10 cm (4 inch) và nặng một ounce. Thông thường, 1d4 + 4 hạt được tìm thấy cùng nhau.
+Quả cầu nhỏ màu đen này có đường kính khoảng 1,9 cm (3/4 inch) và nặng 28 g (1 ounce). Thông thường, 1d4 + 4 hạt được tìm thấy cùng nhau.
 
 Bạn có thể dùng một hành động Ma thuật để ném hạt xa tối đa 18 m (60 feet). Hạt phát nổ trong một hình cầu bán kính 3 m (10 feet) khi va chạm và bị phá hủy. Mỗi sinh vật trong hình cầu phải thành công trong một cứu nguy Khéo léo DC 15 hoặc chịu 5d4 sát thương lực. Một quả cầu lực trong suốt sau đó bao bọc khu vực trong 1 phút. Bất kỳ sinh vật nào thất bại lần cứu nguy và hoàn toàn ở trong khu vực bị mắc kẹt bên trong quả cầu này. Các sinh vật đã thành công lần cứu nguy hoặc chỉ ở một phần trong khu vực bị đẩy ra khỏi tâm của quả cầu cho đến khi họ không còn ở bên trong nó nữa. Chỉ không khí thở được mới có thể đi qua thành quả cầu. Không có cuộc tấn công hoặc hiệu ứng nào khác có thể đi qua.
 
@@ -500,7 +502,7 @@ Một sinh vật bị bao bọc có thể dùng một hành động Sử dụng 
 
 *Vật phẩm kỳ diệu, thông thường*
 
-Hạt sền sệt, không vị này tan trên lưỡi bạn và cung cấp dinh dưỡng tương đương 1 ngày Rations.
+Hạt sền sệt, không vị này tan trên lưỡi bạn và cung cấp dinh dưỡng tương đương một ngày Khẩu phần ăn (Rations).
 
 ### Thắt lưng người lùn (Belt of Dwarvenkind)
 
@@ -509,12 +511,12 @@ Hạt sền sệt, không vị này tan trên lưỡi bạn và cung cấp dinh 
 Trong khi đeo thắt lưng này, bạn nhận các lợi ích sau:
 
 - *Tiếng người lùn (Dwarvish).* Bạn biết tiếng Dwarvish.
-- *Bạn của người lùn (Friend of Dwarvenkind).* Bạn có lợi thế trên phép kiểm tra Sức hút (Thuyết phục) thực hiện để tương tác với dwarf và duergar.
+- *Bạn của người lùn (Friend of Dwarvenkind).* Bạn có lợi thế trên phép kiểm tra Sức hút (Thuyết phục) thực hiện để tương tác với người lùn và duergar.
 - *Rắn rỏi (Toughness).* Thể chất của bạn tăng thêm 2, tối đa 20.
 
 Ngoài ra, trong khi đồng điệu với thắt lưng, bạn có 50 phần trăm khả năng mỗi ngày vào lúc bình minh mọc ra một bộ râu đầy đủ nếu bạn có thể mọc râu, hoặc một bộ râu dày hơn nếu bạn đã có sẵn.
 
-Nếu bạn không phải dwarf hoặc duergar, bạn nhận các lợi ích bổ sung sau trong khi đeo thắt lưng:
+Nếu bạn không phải người lùn hoặc duergar, bạn nhận các lợi ích bổ sung sau trong khi đeo thắt lưng:
 
 - *Thị giác bóng tối (Darkvision).* Bạn có *Thị giác bóng tối* (Darkvision) với tầm 18 m (60 feet).
 - *Bền bỉ (Resilience).* Bạn có kháng với sát thương độc. Bạn cũng có lợi thế trên lần cứu nguy bạn thực hiện để tránh hoặc kết thúc trạng thái Trúng độc.
@@ -523,25 +525,25 @@ Nếu bạn không phải dwarf hoặc duergar, bạn nhận các lợi ích b�
 
 *Vật phẩm kỳ diệu, độ hiếm tùy loại (cần hòa hợp)*
 
-Trong khi đeo thắt lưng này, Sức mạnh của bạn thay đổi thành một điểm do thắt lưng cấp. Loại giant xác định điểm (xem bảng dưới đây). Vật phẩm không có hiệu ứng gì đối với bạn nếu Sức mạnh của bạn không có thắt lưng đã bằng hoặc lớn hơn điểm của thắt lưng.
+Trong khi đeo thắt lưng này, điểm Sức mạnh của bạn thay đổi thành giá trị do thắt lưng cấp. Loại người khổng lồ xác định điểm số đó (xem bảng dưới đây). Vật phẩm không có hiệu ứng gì đối với bạn nếu điểm Sức mạnh khi không đeo thắt lưng đã bằng hoặc lớn hơn điểm số của thắt lưng.
 
 | Thắt lưng | STR | Độ hiếm |
 |---|---|---|
-| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (hill) | 21 | Rare |
-| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (frost hoặc stone) | 23 | Rất hiếm |
-| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (fire) | 25 | Rất hiếm |
-| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (cloud) | 27 | Huyền thoại |
-| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (storm) | 29 | Huyền thoại |
+| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (loại đồi) | 21 | Hiếm |
+| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (loại băng giá hoặc đá) | 23 | Rất hiếm |
+| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (loại lửa) | 25 | Rất hiếm |
+| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (loại mây) | 27 | Huyền thoại |
+| *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) (loại bão) | 29 | Huyền thoại |
 
 ### Rìu cuồng chiến (Berserker Axe)
 
 *Vũ khí (Rìu chiến, Rìu lớn, hoặc Kích), hiếm (cần hòa hợp)*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, trong khi bạn đồng điệu với vũ khí này, điểm sinh lực tối đa của bạn tăng thêm 1 cho mỗi level bạn đã đạt được.
+Bạn được +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, trong khi bạn đồng điệu với vũ khí này, điểm sinh lực tối đa của bạn tăng thêm 1 cho mỗi cấp nhân vật đã đạt được.
 
 *Lời nguyền.* Vũ khí này bị nguyền, và việc đồng điệu với nó mở rộng lời nguyền sang bạn. Miễn là bạn vẫn bị nguyền, bạn không muốn rời khỏi vũ khí, giữ nó trong tầm với mọi lúc. Bạn cũng có bất lợi trên lần tung tấn công với các vũ khí khác ngoài vũ khí này.
 
-Bất cứ khi nào một sinh vật khác gây sát thương cho bạn trong khi vũ khí đang ở trong tay bạn, bạn phải thành công trong một cứu nguy Minh triết DC 15 hoặc trở nên điên cuồng. Trạng thái điên cuồng này kết thúc khi bạn bắt đầu lượt của mình và không có sinh vật nào trong vòng 18 m (60 feet) của bạn mà bạn có thể nhìn thấy hoặc nghe thấy.
+Bất cứ khi nào một sinh vật khác gây sát thương cho bạn trong khi vũ khí thuộc sở hữu của bạn, bạn phải thành công trong một cứu nguy Minh triết DC 15 hoặc trở nên điên cuồng. Trạng thái điên cuồng này kết thúc khi bạn bắt đầu lượt của mình và không có sinh vật nào trong vòng 18 m (60 feet) mà bạn có thể nhìn thấy hoặc nghe thấy.
 
 Trong khi điên cuồng, bạn coi sinh vật gần bạn nhất mà bạn có thể nhìn thấy hoặc nghe thấy là kẻ địch của bạn. Nếu có nhiều sinh vật khả dĩ, hãy chọn ngẫu nhiên một. Trong mỗi lượt của bạn, bạn phải di chuyển đến gần sinh vật đó nhất có thể và thực hiện hành động Tấn công, nhắm vào sinh vật đó. Nếu bạn không thể đến đủ gần sinh vật để tấn công nó bằng vũ khí, lượt của bạn kết thúc sau khi bạn đã dùng hết toàn bộ lượng di chuyển khả dụng. Nếu sinh vật chết hoặc không còn có thể được bạn nhìn thấy hoặc nghe thấy, sinh vật gần nhất tiếp theo mà bạn có thể nhìn thấy hoặc nghe thấy trở thành mục tiêu mới của bạn.
 
@@ -569,7 +571,7 @@ Khi bạn đã dùng thuộc tính của ủng tổng cộng 10 phút, ma thuậ
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Trong khi bạn mang ủng này, Tốc độ của bạn trở thành 9 m (30 feet) trừ khi Tốc độ của bạn cao hơn, và Tốc độ của bạn không bị giảm do bạn mang trọng lượng vượt quá khả năng mang vác của bạn hoặc mặc Heavy Giáp. Một lần trong mỗi lượt của bạn, bạn có thể nhảy xa tối đa 9 m (30 feet) chỉ bằng cách tốn 3 m (10 feet) lượng di chuyển.
+Trong khi bạn mang ủng này, Tốc độ của bạn trở thành 9 m (30 feet) trừ khi Tốc độ vốn đã cao hơn, và Tốc độ của bạn không bị giảm do mang trọng lượng vượt quá khả năng mang vác hoặc mặc Giáp nặng. Một lần trong mỗi lượt, bạn có thể nhảy xa tối đa 9 m (30 feet) mà chỉ tốn 3 m (10 feet) lượng di chuyển.
 
 ### Ủng xứ tuyết (Boots of the Winterlands)
 
@@ -586,19 +588,19 @@ Trong khi bạn mang ủng này, Tốc độ của bạn trở thành 9 m (30 fe
 
 Trong khi bát này chứa đầy nước và bạn trong vòng 1,5 m (5 feet) của nó, bạn có thể dùng một hành động Ma thuật để triệu hồi một *Nguyên tố nước* (Water Elemental). Nguyên tố xuất hiện trong một không gian trống gần bát nhất có thể, hiểu ngôn ngữ của bạn, tuân theo mệnh lệnh của bạn, và hành động ngay sau bạn theo lượt Sáng kiến của bạn. Nguyên tố biến mất sau 1 giờ, khi nó chết, hoặc khi bạn giải tán nó bằng một hành động phụ. Bát không thể dùng theo cách này lần nữa cho đến bình minh tiếp theo.
 
-Bát có đường kính khoảng 30 cm (1 foot) và sâu bằng một nửa. Nó chứa khoảng 3 gallon.
+Bát có đường kính khoảng 30 cm (1 foot) và sâu bằng một nửa đường kính. Nó chứa khoảng 11 lít (3 gallon).
 
 ### Hộ cổ tay cung thủ (Bracers of Archery)
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Trong khi mang bao tay này, bạn có thành thạo với Cung dài và Cung ngắn, và bạn được +2 lần tung sát thương thực hiện bằng các vũ khí đó.
+Trong khi đeo hộ cổ tay này, bạn có thành thạo với Cung dài và Cung ngắn, đồng thời nhận điểm cộng +2 vào lần tung sát thương thực hiện bằng các vũ khí đó.
 
 ### Hộ cổ tay phòng thủ (Bracers of Defense)
 
 *Vật phẩm kỳ diệu, hiếm (cần hòa hợp)*
 
-Trong khi mang bao tay này, bạn được +2 Chỉ số giáp nếu bạn không mặc giáp và không dùng Khiên.
+Trong khi đeo hộ cổ tay này, bạn được +2 Chỉ số giáp nếu bạn không mặc giáp và không dùng Khiên.
 
 ### Lò than điều khiển nguyên tố lửa (Brazier of Commanding Fire Elementals)
 
@@ -628,7 +630,7 @@ Như một hành động Ma thuật, bạn có thể gửi chổi đi một mìn
 
 Phép thuật của cây nến này được kích hoạt khi nến được thắp, cần một hành động Ma thuật. Sau khi cháy trong 4 giờ, nến bị phá hủy. Bạn có thể dập tắt nó sớm để dùng sau này. Trừ đi thời gian nó đã cháy theo từng khoảng 1 phút từ tổng thời gian cháy của nó.
 
-Trong khi thắp sáng, nến tỏa ánh sáng yếu trong bán kính 9 m (30 feet). Trong khi bạn ở trong ánh sáng đó, bạn có lợi thế trên phép thử d20. Ngoài ra, một Giáo sĩ hoặc Druid trong ánh sáng có thể thi triển các phép cấp độ 1 họ đã chuẩn bị mà không tốn ô phép.
+Trong khi thắp sáng, nến tỏa ánh sáng yếu trong bán kính 9 m (30 feet). Trong khi bạn ở trong ánh sáng đó, bạn có lợi thế trên phép thử d20. Ngoài ra, một Giáo sĩ hoặc Druid trong ánh sáng có thể thi triển các phép bậc 1 họ đã chuẩn bị mà không tốn ô phép.
 
 Ngoài ra, khi bạn thắp nến lần đầu tiên, bạn có thể thi triển phép *Cổng cõi* (Gate) với nó. Làm vậy phá hủy cây nến. Cánh cổng được tạo ra bởi phép liên kết đến một Cõi Ngoài cụ thể do Quản trò chọn hoặc xác định bằng cách tung trên bảng sau.
 
@@ -649,7 +651,7 @@ Ngoài ra, khi bạn thắp nến lần đầu tiên, bạn có thể thi triể
 
 Chiếc áo choàng này có mùi lưu huỳnh thoang thoảng. Trong khi mặc nó, bạn có thể dùng nó để thi triển phép *Cửa chiều không gian* (Dimension Door) như một hành động Ma thuật. Thuộc tính này không thể dùng lại cho đến bình minh tiếp theo.
 
-Khi bạn dịch chuyển bằng phép đó, bạn để lại một đám khói phía sau. Không gian bạn rời khỏi bị bị che khuất nhẹ bởi khói đó cho đến cuối lượt tiếp theo của bạn.
+Khi bạn dịch chuyển bằng phép đó, bạn để lại một đám khói phía sau. Không gian bạn rời khỏi bị che khuất nhẹ bởi khói đó cho đến cuối lượt tiếp theo của bạn.
 
 ### Thảm bay (Carpet of Flying)
 
@@ -684,7 +686,7 @@ Chuông có thể dùng 10 lần. Sau lần thứ mười, nó nứt vỡ và tr
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Trong khi đeo vòng đầu này, bạn có thể thi triển phép *Tia thiêu đốt* (Scorching Ray) với nó (+5). Vòng đầu không thể thi triển phép này lần nữa cho đến bình minh tiếp theo.
+Trong khi đeo vòng đầu này, bạn có thể thi triển phép *Tia thiêu đốt* (Scorching Ray) với nó (điểm cộng tấn công +5). Vòng đầu không thể thi triển phép này lần nữa cho đến bình minh tiếp theo.
 
 ### Áo choàng loài nhện (Cloak of Arachnida)
 
@@ -719,7 +721,7 @@ Trong khi bạn mặc áo choàng này, phép kiểm tra Minh triết (Tri giác
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Bạn được +1 Chỉ số giáp và lần cứu nguy trong khi bạn mặc áo choàng này.
+Bạn nhận điểm cộng +1 vào Chỉ số giáp và các lần cứu nguy trong khi mặc áo choàng này.
 
 ### Áo choàng dơi (Cloak of the Bat)
 
@@ -745,7 +747,7 @@ Trong khi chạm vào quả cầu pha lê này, bạn có thể thi triển phé
 
 *Vật phẩm kỳ diệu, huyền thoại (cần hòa hợp)*
 
-Trong khi chạm vào quả cầu pha lê này, bạn có thể thi triển phép *Do thám* (Scrying) (lần cứu nguy DC 17) với nó. Ngoài ra, bạn có thể thi triển phép *Đọc suy nghĩ* (Detect Thoughts) (lần cứu nguy DC 17) nhắm vào một sinh vật bạn có thể thấy trong vòng 9 m (30 feet) của cảm biến của phép. Bạn không cần Tập trung vào phép này để duy trì nó trong suốt thời lượng của nó, nhưng nó kết thúc nếu phép *Do thám* (Scrying) kết thúc.
+Trong khi chạm vào quả cầu pha lê này, bạn có thể thi triển phép *Do thám* (Scrying) (lần cứu nguy DC 17) với nó. Ngoài ra, bạn có thể thi triển phép *Đọc suy nghĩ* (Detect Thoughts) (lần cứu nguy DC 17), nhắm vào các sinh vật bạn có thể thấy trong vòng 9 m (30 feet) của cảm biến do phép tạo ra. Bạn không cần Tập trung vào phép *Đọc suy nghĩ* để duy trì nó trong suốt thời lượng, nhưng phép đó kết thúc nếu *Do thám* kết thúc.
 
 ### Cầu pha lê thần giao cách cảm (Crystal Ball of Telepathy)
 
@@ -763,7 +765,7 @@ Trong khi chạm vào quả cầu pha lê này, bạn có thể thi triển phé
 
 *Vật phẩm kỳ diệu, hiếm (cần hòa hợp)*
 
-Khối này rộng khoảng một inch. Mỗi mặt có một dấu hiệu riêng biệt trên đó. Bạn có thể ấn vào một trong các mặt đó, tiêu tốn số lượt tích năng cần thiết cho nó, và nhờ đó thi triển phép liên quan đến nó (lần cứu nguy DC 17), như trong bảng ***Khối lực* Faces**.
+Khối này rộng khoảng 2,5 cm (1 inch). Mỗi mặt có một dấu hiệu riêng biệt. Bạn có thể ấn vào một trong các mặt đó, tiêu tốn số lượt tích năng cần thiết và nhờ đó thi triển phép tương ứng (lần cứu nguy DC 17), như trình bày trong bảng **Các mặt của Khối lực**.
 
 Khối bắt đầu với 10 lượt tích năng, và phục hồi 1d6 lượt tích năng đã dùng mỗi ngày vào bình minh.
 
@@ -772,7 +774,7 @@ Khối bắt đầu với 10 lượt tích năng, và phục hồi 1d6 lượt t
 | Phép | Lượt tích năng tiêu hao |
 |---|---|
 | *Giáp pháp sư* (Mage Armor) | 1 |
-| Khiên | 1 |
+| *Khiên* (Shield) | 1 |
 | *Lều nhỏ* (Tiny Hut) | 3 |
 | *Thánh địa riêng* (Private Sanctum) | 4 |
 | *Cầu kiên cố* (Resilient Sphere) | 4 |
@@ -793,7 +795,7 @@ Khối có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã d
 
 *Vũ khí (Dao găm), hiếm*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Bạn có thể dùng một hành động phụ để phủ ma thuật chất độc lên lưỡi dao. Chất độc tồn tại trong 1 phút hoặc cho đến khi một cuộc tấn công bằng vũ khí này trúng một sinh vật. Sinh vật đó phải thành công trong một cứu nguy Thể chất DC 15 hoặc chịu 2d10 sát thương độc và ở trạng thái Trúng độc trong 1 phút. Vũ khí không thể dùng theo cách này lần nữa cho đến bình minh tiếp theo.
 
@@ -801,7 +803,7 @@ Bạn có thể dùng một hành động phụ để phủ ma thuật chất đ
 
 *Vũ khí (Kiếm lớn, Kiếm dài, Kiếm rapier, Đao cong, hoặc Kiếm ngắn), rất hiếm (cần hòa hợp)*
 
-Bạn có thể dùng một hành động phụ để tung vũ khí ma thuật này lên không trung. Khi làm vậy, vũ khí bắt đầu lơ lửng, bay xa tối đa 9 m (30 feet), và tấn công một sinh vật theo lựa chọn của bạn trong vòng 1,5 m (5 feet) của chính nó. Vũ khí dùng lần tung tấn công của bạn và cộng ability hệ số của bạn vào lần tung sát thương.
+Bạn có thể dùng một hành động phụ để tung vũ khí ma thuật này lên không trung. Khi làm vậy, vũ khí bắt đầu lơ lửng, bay xa tối đa 9 m (30 feet), và tấn công một sinh vật theo lựa chọn của bạn trong vòng 1,5 m (5 feet) của chính nó. Vũ khí dùng lần tung tấn công của bạn và cộng hệ số thuộc tính của bạn vào lần tung sát thương.
 
 Trong khi vũ khí lơ lửng, bạn có thể dùng một hành động phụ để khiến nó bay xa tối đa 9 m (30 feet) đến một vị trí khác trong vòng 9 m (30 feet) của bạn. Là một phần của cùng hành động phụ đó, bạn có thể khiến vũ khí tấn công một sinh vật trong vòng 1,5 m (5 feet) của vũ khí.
 
@@ -814,9 +816,9 @@ Sau khi vũ khí lơ lửng tấn công lần thứ tư, nó bay trở lại v�
 Chiếc bình có nút đậy này phát ra tiếng nước sóng sánh khi lắc, như thể nó chứa nước. Bình nặng 0,9 kg (2 lb.).
 
 Bạn có thể dùng một hành động Ma thuật để tháo nút và đọc một trong ba khẩu lệnh, sau đó một lượng nước ngọt hoặc nước mặn (tùy bạn chọn) đổ ra từ bình. Nước ngừng chảy vào đầu lượt tiếp theo của bạn. Chọn từ các khẩu lệnh sau:
-- *Đài phun nước (Fountain).* Bình tạo ra 1 gallon nước.
-- *Té nước (Splash).* Bình tạo ra 5 gallon nước.
-- *Mạch nước phun (Geyser).* Bình tạo ra 30 gallon nước phun trào trong một đường thẳng dài 9 m (30 feet) và rộng 30 cm (1 foot). Nếu bạn đang cầm bình, bạn có thể nhắm mạch phun theo một hướng (không cần hành động). Một sinh vật theo lựa chọn của bạn trong đường thẳng phải thành công trong một cứu nguy Sức mạnh DC 13 hoặc chịu 1d4 sát thương đập và ở trạng thái Ngã sấp. Thay vì một sinh vật, bạn có thể nhắm vào một đồ vật trong đường thẳng không đang được mặc hoặc mang theo và nặng không quá 90 kg (200 lb.). Đồ vật bị mạch phun hất đổ.
+- *Té nước (Splash).* Bình tạo ra khoảng 3,8 lít (1 gallon) nước.
+- *Đài phun nước (Fountain).* Bình tạo ra khoảng 19 lít (5 gallon) nước.
+- *Mạch nước phun (Geyser).* Bình tạo ra khoảng 114 lít (30 gallon) nước phun trào thành một Đường thẳng dài 9 m (30 feet) và rộng 30 cm (1 foot). Nếu đang cầm bình, bạn có thể nhắm mạch phun theo một hướng (không cần hành động). Một sinh vật theo lựa chọn của bạn trong Đường thẳng phải thành công trong một cứu nguy Sức mạnh DC 13 hoặc chịu 1d4 sát thương đập và ở trạng thái Ngã sấp. Thay vì một sinh vật, bạn có thể nhắm vào một đồ vật trong Đường thẳng không được mặc hoặc mang theo và nặng không quá 90 kg (200 lb.). Đồ vật bị mạch phun hất đổ.
 
 ### Bộ bài ảo ảnh (Deck of Illusions)
 
@@ -832,7 +834,7 @@ Bất kỳ tương tác vật lý nào với sinh vật ảo ảnh đều tiết
 
 | 1d100 | Ảo ảnh* | 1d100 | Ảo ảnh* |
 |---|---|---|---|
-| 01–03 | *Rồng đỏ trưởng thành* (Adult Red Dragon) | 55–57 | *Phù thủy đêm* (Night Hag) |
+| 01–03 | *Rồng đỏ trưởng thành* (Adult Red Dragon) | 55–57 | *Incubus* (Incubus) |
 | 04–06 | *Đại pháp sư* (Archmage) | 58–60 | *Golem sắt* (Iron Golem) |
 | 07–09 | *Sát thủ* (Assassin) | 61–63 | *Hiệp sĩ* (Knight) |
 | 10–12 | *Thủ lĩnh cướp* (Bandit Captain) | 64–66 | *Chiến binh Kobold* (Kobold Warrior) |
@@ -844,20 +846,20 @@ Bất kỳ tương tác vật lý nào với sinh vật ảo ảnh đều tiết
 | 28–30 | *Erinyes* (Erinyes) | 82–84 | *Tu sĩ* (Priest) |
 | 31–33 | *Ettin* (Ettin) | 85–87 | *Succubus* (Succubus) |
 | 34–36 | *Người khổng lồ lửa* (Fire Giant) | 88–90 | *Troll* (Troll) |
-| 37–39 | *Người khổng lồ băng giá* (Frost Giant) | 91–93 | Veteran Warrior |
+| 37–39 | *Người khổng lồ băng giá* (Frost Giant) | 91–93 | *Cựu binh* (Veteran Warrior) |
 | 40–42 | *Chiến binh Gnoll* (Gnoll Warrior) | 94–96 | *Wyvern* (Wyvern) |
 | 43–45 | *Chiến binh Goblin* (Goblin Warrior) | 97–00 | Người rút bài |
 | 46–48 | *Naga hộ vệ* (Guardian Naga) |  |  |
 | 49–51 | *Người khổng lồ đồi* (Hill Giant) |  |  |
 | 52–54 | *Chiến binh Hobgoblin* (Hobgoblin Warrior) |  |  |
 
-*Stat block cho các sinh vật này (trừ người rút bài) xuất hiện trong "Monsters."
+*Khối thông số của các sinh vật này (trừ người rút bài) xuất hiện trong [Chương 12 – Quái vật từ A đến Z](12-Monsters-A-Z.md).*
 
 ### Kiếm hộ vệ (Defender)
 
 *Vũ khí (vũ khí cận chiến bất kỳ), huyền thoại (cần hòa hợp)*
 
-Bạn được +3 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Lần đầu tiên bạn tấn công bằng vũ khí trong mỗi lượt của bạn, bạn có thể chuyển một phần hoặc toàn bộ điểm cộng của vũ khí sang Chỉ số giáp của bạn. Ví dụ, bạn có thể giảm điểm cộng vào lần tung tấn công và lần tung sát thương của bạn xuống +1 và được +2 Chỉ số giáp. Các điểm cộng đã điều chỉnh vẫn có hiệu lực cho đến khi bắt đầu lượt tiếp theo của bạn, mặc dù bạn phải cầm vũ khí để nhận điểm cộng AC từ nó.
 
@@ -865,7 +867,7 @@ Lần đầu tiên bạn tấn công bằng vũ khí trong mỗi lượt của b
 
 *Giáp (giáp nhẹ, trung bình hoặc nặng bất kỳ), rất hiếm (cần hòa hợp)*
 
-Trong khi mặc bộ giáp này, bạn được +1 Chỉ số giáp, và bạn biết tiếng Abyssal. Ngoài ra, găng tay có móng vuốt của giáp cho phép đòn tay không của bạn gây 1d8 sát thương chém thay vì sát thương đập thông thường, và bạn được +1 lần tung tấn công và lần tung sát thương của đòn tay không của bạn.
+Trong khi mặc bộ giáp này, bạn nhận điểm cộng +1 vào Chỉ số giáp và biết tiếng Abyssal. Ngoài ra, găng tay có móng vuốt của giáp cho phép đòn đánh không vũ khí của bạn gây 1d8 sát thương chém thay vì sát thương đập thông thường, đồng thời bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương của đòn đánh không vũ khí.
 
 *Lời nguyền.* Một khi bạn mặc bộ giáp bị nguyền này, bạn không thể cởi nó ra trừ khi bạn bị nhắm mục tiêu bởi một phép *Gỡ lời nguyền* (Remove Curse) hoặc ma thuật tương tự. Trong khi mặc giáp, bạn có bất lợi trên lần tung tấn công nhắm vào quỷ (demon) và trên lần cứu nguy chống lại phép và khả năng đặc biệt của chúng.
 
@@ -873,7 +875,7 @@ Trong khi mặc bộ giáp này, bạn được +1 Chỉ số giáp, và bạn b
 
 *Vật phẩm kỳ diệu, hiếm*
 
-Bạn có thể dùng một hành động Sử dụng để đặt xiềng xích này lên một sinh vật ở trạng thái Mất năng lực hành động. Xiềng xích điều chỉnh để vừa với một sinh vật từ kích thước cỡ Nhỏ đến cỡ Lớn. Xiềng xích ngăn một sinh vật bị trói buộc bởi chúng dùng bất kỳ phương pháp di chuyển ngoại chiều nào, kể cả teleportation hoặc du hành đến một cõi tồn tại khác. Chúng không ngăn sinh vật đi qua một cánh cổng liên chiều.
+Bạn có thể dùng một hành động Sử dụng để đặt xiềng xích này lên một sinh vật ở trạng thái Mất năng lực hành động. Xiềng xích tự điều chỉnh để vừa với sinh vật cỡ Nhỏ đến cỡ Lớn. Xiềng xích ngăn sinh vật bị trói dùng bất kỳ phương thức di chuyển ngoại chiều nào, bao gồm dịch chuyển tức thời hoặc du hành đến một cõi tồn tại khác. Chúng không ngăn sinh vật đi qua một cánh cổng liên chiều.
 
 Bạn và bất kỳ sinh vật nào bạn chỉ định khi bạn dùng xiềng xích có thể dùng một hành động Sử dụng để tháo chúng ra. Mỗi 30 ngày một lần, sinh vật bị trói buộc có thể thực hiện một phép kiểm tra Sức mạnh (Điền kinh) DC 30. Khi phép kiểm tra thành công, sinh vật thoát ra và phá hủy xiềng xích.
 
@@ -892,14 +894,14 @@ Quả cầu có 7 lượt tích năng và phục hồi 1d4 + 3 lượt tích nă
 | Phép | Lượt tích năng tiêu hao |
 |---|---|
 | *Chữa vết thương* (Cure Wounds) (phiên bản bậc 9) | 4 |
-| Daylight | 1 |
+| *Ánh sáng ban ngày* (Daylight) | 1 |
 | *Bảo hộ khỏi chết* (Death Ward) | 2 |
 | *Phát hiện ma thuật* (Detect Magic) | 0 |
-| Scrying (lần cứu nguy DC 18) | 3 |
+| *Do thám* (Scrying; lần cứu nguy DC 18) | 3 |
 
-*Triệu gọi rồng.* Trong khi bạn điều khiển quả cầu, bạn có thể dùng một hành động Ma thuật để khiến quả cầu phát ra một lời gọi thần giao cách cảm lan tỏa theo mọi hướng trong 64 km (40 mile). Rồng sắc màu trong tầm cảm thấy bị thúc giục đến quả cầu càng sớm càng tốt theo con đường trực tiếp nhất. Các thần rồng như Tiamat không bị ảnh hưởng bởi lời gọi này. Rồng sắc màu bị lôi kéo đến quả cầu có thể Thù địch với bạn vì đã ép buộc chúng trái với ý muốn của chúng. Một khi bạn đã dùng thuộc tính này, nó không thể dùng lại trong 1 giờ trở lên.
+*Triệu gọi rồng.* Trong khi bạn điều khiển quả cầu, bạn có thể dùng một hành động Ma thuật để khiến quả cầu phát ra một lời gọi thần giao cách cảm lan tỏa theo mọi hướng trong 64 km (40 miles). Rồng sắc màu trong tầm cảm thấy bị thôi thúc đến quả cầu càng sớm càng tốt theo con đường trực tiếp nhất. Các thần rồng như Tiamat không bị ảnh hưởng bởi lời gọi này. Rồng sắc màu bị lôi kéo đến quả cầu có thể Thù địch với bạn vì đã bị ép buộc trái với ý muốn. Một khi bạn đã dùng thuộc tính này, nó không thể dùng lại trong 1 giờ.
 
-*Phá hủy quả cầu.* Một *Quả cầu rồng* có AC 20 và bị phá hủy nếu nó chịu sát thương từ một *Phân rã* (Disintegrate) hoặc một Wish. Không có gì khác có thể làm hại nó.
+*Phá hủy quả cầu.* Một *Quả cầu rồng* có AC 20 và bị phá hủy nếu chịu sát thương từ một Vũ khí +3 hoặc phép *Phân rã* (Disintegrate). Không có gì khác có thể làm hại nó.
 
 ### Giáp vảy rồng (Dragon Scale Mail)
 
@@ -907,23 +909,23 @@ Quả cầu có 7 lượt tích năng và phục hồi 1d4 + 3 lượt tích nă
 
 *Giáp vảy rồng* được làm từ vảy của một loại rồng. Đôi khi rồng thu thập vảy rụng của chúng và tặng chúng. Những lúc khác, thợ săn cẩn thận bảo quản da của một con rồng đã chết. Trong cả hai trường hợp, *Giáp vảy rồng* đều được đánh giá rất cao.
 
-Trong khi mặc bộ giáp này, bạn được +1 Chỉ số giáp, bạn có lợi thế trên lần cứu nguy chống lại breath vũ khí của Rồng, và bạn có kháng với một loại sát thương được xác định bởi loại rồng đã cung cấp vảy (xem bảng đi kèm).
+Trong khi mặc bộ giáp này, bạn được +1 Chỉ số giáp, có lợi thế ở lần cứu nguy chống lại vũ khí hơi thở của Rồng, và có kháng một loại sát thương được xác định bởi loại rồng đã cung cấp vảy (xem bảng đi kèm).
 
-Ngoài ra, bạn có thể tập trung giác quan của mình như một hành động Ma thuật để nhận biết khoảng cách và hướng đến con rồng gần nhất trong vòng 48 km (30 mile) của bản thân cùng loại với giáp. Action này không thể dùng lại cho đến bình minh tiếp theo.
+Ngoài ra, bạn có thể dùng hành động Ma thuật để tập trung giác quan và nhận biết khoảng cách cùng hướng tới con rồng gần nhất cùng loại với bộ giáp trong phạm vi 48 km (30 miles). Hành động này không thể dùng lại cho đến bình minh tiếp theo.
 
 | Rồng | Kháng | Rồng | Kháng |
 |---|---|---|---|
-| Black | Acid | Gold | Fire |
-| Blue | Lightning | Green | Poison |
-| Brass | Fire | Red | Fire |
-| Bronze | Lightning | Silver | Cold |
-| Copper | Acid | White | Cold |
+| Đen (Black) | Axit (Acid) | Vàng (Gold) | Lửa (Fire) |
+| Lam (Blue) | Sét (Lightning) | Lục (Green) | Độc (Poison) |
+| Đồng thau (Brass) | Lửa (Fire) | Đỏ (Red) | Lửa (Fire) |
+| Đồng thiếc (Bronze) | Sét (Lightning) | Bạc (Silver) | Lạnh (Cold) |
+| Đồng đỏ (Copper) | Axit (Acid) | Trắng (White) | Lạnh (Cold) |
 
 ### Kiếm diệt rồng (Dragon Slayer)
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), hiếm*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Vũ khí gây thêm 3d6 sát thương cùng loại với vũ khí nếu mục tiêu là một Rồng.
 
@@ -961,13 +963,13 @@ Trong khi mặc bộ giáp này, bạn được +2 Chỉ số giáp. Ngoài ra, 
 
 *Vũ khí (Búa chiến), rất hiếm (cần hòa hợp; chỉ người lùn hoặc sinh vật đang hòa hợp với *Thắt lưng người lùn*)*
 
-Bạn được +3 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Nó có thuộc tính Ném với tầm bình thường 6 m (20 feet) và tầm xa 18 m (60 feet). Khi bạn tấn công trúng bằng một đòn tấn công tầm xa dùng vũ khí này, nó gây thêm 1d8 sát thương lực, hoặc thêm 2d8 sát thương lực nếu mục tiêu là một Người khổng lồ. Ngay sau khi trúng hoặc trượt, vũ khí bay trở lại tay bạn.
+Bạn nhận điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Nó có thuộc tính Ném với tầm bình thường 6 m (20 feet) và tầm xa 18 m (60 feet). Khi bạn tấn công trúng bằng một đòn tấn công tầm xa dùng vũ khí này, nó gây thêm 1d8 sát thương lực, hoặc thêm 2d8 sát thương lực nếu mục tiêu là một Người khổng lồ. Ngay sau khi trúng hoặc trượt, vũ khí bay trở lại tay bạn.
 
 ### Ống tên tiện dụng (Efficient Quiver)
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Mỗi ngăn trong ba ngăn của ống tên kết nối với một không gian ngoại chiều cho phép ống tên chứa nhiều vật phẩm trong khi không bao giờ nặng quá 0,9 kg (2 lb.). Ngăn ngắn nhất có thể chứa tối đa 60 mũi tên, nỏ, hoặc đồ vật tương tự. Ngăn cỡ trung chứa tối đa 18 lao ném hoặc đồ vật tương tự. Ngăn dài nhất chứa tối đa 6 đồ vật dài, chẳng hạn cung, Gậy, hoặc giáo.
+Mỗi ngăn trong ba ngăn của ống tên kết nối với một không gian ngoại chiều, cho phép ống tên chứa nhiều vật phẩm mà không bao giờ nặng quá 0,9 kg (2 lb.). Ngăn ngắn nhất có thể chứa tối đa 60 mũi tên, tên nỏ hoặc đồ vật tương tự. Ngăn cỡ trung chứa tối đa 18 lao ném hoặc đồ vật tương tự. Ngăn dài nhất chứa tối đa 6 đồ vật dài, chẳng hạn cung, Gậy hoặc giáo.
 
 Bạn có thể rút bất kỳ vật phẩm nào ống tên chứa như thể làm vậy từ một ống tên hoặc vỏ kiếm thông thường.
 
@@ -989,14 +991,14 @@ Lần đầu tiên bình được mở, Quản trò tung trên bảng sau để 
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Viên đá này chứa một hạt năng lượng elemental. Khi bạn dùng một hành động Sử dụng để làm vỡ viên đá, một elemental được triệu hồi (xem [Chương 12 – Quái vật từ A đến Z](12-Monsters-A-Z.md) để biết khối thông số của nó), và viên đá không còn là ma thuật nữa. Nguyên tố xuất hiện trong một không gian trống gần viên đá đã vỡ nhất có thể, hiểu ngôn ngữ của bạn, tuân theo mệnh lệnh của bạn, và hành động ngay sau bạn theo lượt Sáng kiến của bạn. Nguyên tố biến mất sau 1 giờ, khi nó chết, hoặc khi bạn giải tán nó bằng một hành động phụ. Loại đá xác định elemental, như trong bảng sau.
+Viên đá này chứa một hạt năng lượng nguyên tố. Khi bạn dùng một hành động Sử dụng để làm vỡ viên đá, một nguyên tố được triệu hồi (xem [Chương 12 – Quái vật từ A đến Z](12-Monsters-A-Z.md) để biết khối thông số của nó), và viên đá không còn là ma thuật nữa. Nguyên tố xuất hiện trong một không gian trống gần viên đá đã vỡ nhất có thể, hiểu ngôn ngữ của bạn, tuân theo mệnh lệnh của bạn, và hành động ngay sau bạn theo lượt Sáng kiến của bạn. Nguyên tố biến mất sau 1 giờ, khi nó chết, hoặc khi bạn giải tán nó bằng một hành động phụ. Loại đá xác định nguyên tố được triệu hồi, như trong bảng sau.
 
 | Ngọc | Nguyên tố được triệu hồi |
 |---|---|
-| Blue sapphire | *Nguyên tố khí* (Air Elemental) |
-| Emerald | *Nguyên tố nước* (Water Elemental) |
-| Red corundum | *Nguyên tố lửa* (Fire Elemental) |
-| Yellow diamond | *Nguyên tố đất* (Earth Elemental) |
+| Sapphire lam (Blue sapphire) | *Nguyên tố khí* (Air Elemental) |
+| Ngọc lục bảo (Emerald) | *Nguyên tố nước* (Water Elemental) |
+| Corundum đỏ (Red corundum) | *Nguyên tố lửa* (Fire Elemental) |
+| Kim cương vàng (Yellow diamond) | *Nguyên tố đất* (Earth Elemental) |
 
 ### Linh dược sức khỏe (Elixir of Health)
 
@@ -1010,25 +1012,25 @@ Chất lỏng trong suốt, màu đỏ này có những bong bóng ánh sáng nh
 
 *Giáp (Giáp xích hoặc Áo xích), hiếm*
 
-Bạn được +1 Chỉ số giáp trong khi bạn mặc bộ giáp này. Bạn được coi là đã được huấn luyện với bộ giáp này ngay cả khi bạn thiếu huấn luyện với cỡ Trung bình hoặc Heavy giáp.
+Bạn nhận điểm cộng +1 vào Chỉ số giáp trong khi mặc bộ giáp này. Bạn được coi là đã được huấn luyện với bộ giáp này ngay cả khi chưa được huấn luyện với Giáp vừa hoặc Giáp nặng.
 
 ### Cung năng lượng (Energy Bow)
 
 *Vũ khí (Cung dài hoặc Cung ngắn), rất hiếm (cần hòa hợp)*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này, không có dây cung. Mỗi lần bạn kéo cánh tay về theo động tác bắn, một mũi tên ma thuật làm từ năng lượng vàng xuất hiện đã lắp vào và sẵn sàng bắn. Một mũi tên do vũ khí này tạo ra gây sát thương lực thay vì sát thương xuyên khi trúng, và nó biến mất sau khi trúng hoặc trượt mục tiêu của nó. Cho đến khi nó biến mất, mũi tên phát ra ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet) nữa.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật không có dây cung này. Mỗi lần bạn kéo cánh tay về theo động tác bắn, một mũi tên ma thuật làm từ năng lượng vàng xuất hiện trên dây và sẵn sàng bắn. Một mũi tên do vũ khí này tạo ra gây sát thương lực thay vì sát thương xuyên khi trúng, và nó biến mất sau khi trúng hoặc trượt mục tiêu. Cho đến khi biến mất, mũi tên phát ra ánh sáng rõ trong bán kính 6 m (20 feet) và ánh sáng yếu thêm 6 m (20 feet) nữa.
 
 Vũ khí này có các thuộc tính bổ sung sau.
 
 - *Mũi tên trói buộc (Arrow of Restraint).* Bất cứ khi nào bạn dùng vũ khí này để thực hiện một đòn tấn công tầm xa nhắm vào một sinh vật, bạn có thể cố trói buộc mục tiêu thay vì gây sát thương cho nó. Nếu mũi tên trúng, mục tiêu phải thành công trong một cứu nguy Sức mạnh DC 15 hoặc ở trạng thái Kiềm giữ trong 1 phút. Như một hành động, một sinh vật bị Kiềm giữ bởi một mũi tên có thể thực hiện một phép kiểm tra Sức mạnh (Điền kinh) DC 20 để cố phá vỡ sự trói buộc, kết thúc hiệu ứng trên bản thân khi phép kiểm tra thành công.
-- *Mũi tên dịch chuyển (Arrow of Transporting).* Như một hành động Ma thuật, bạn có thể bắn một mũi tên năng lượng từ vũ khí này nhắm vào một mục tiêu bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Mục tiêu có thể là một sinh vật cỡ Trung bình trở xuống sẵn lòng hoặc một đồ vật không đang được mặc hoặc mang theo, miễn là đồ vật đủ nhỏ để vừa bên trong một khối lập phương 1,5 m (5 feet). Mũi tên dịch chuyển mục tiêu đến một không gian trống bạn có thể thấy trong vòng 3 m (10 feet) của bạn.
-- *Thang năng lượng (Ladder of Energy).* Như một hành động Ma thuật, bạn có thể bắn một loạt mũi tên năng lượng từ vũ khí này vào một bức tường xa tối đa 18 m (60 feet) từ bản thân. Các mũi tên trở thành các nấc thang phát sáng nhô ra khỏi tường, tạo thành một chiếc thang ma thuật dài tối đa 18 m (60 feet) trên tường. Chiếc thang này tồn tại trong 1 phút trước khi biến mất.
+- *Mũi tên dịch chuyển (Arrow of Transport).* Như một hành động Ma thuật, bạn có thể bắn một mũi tên năng lượng từ vũ khí này nhắm vào một mục tiêu bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Mục tiêu có thể là một sinh vật cỡ Trung bình trở xuống sẵn lòng hoặc một đồ vật không đang được mặc hoặc mang theo, miễn là đồ vật đủ nhỏ để vừa bên trong một Khối lập phương cạnh 1,5 m (5 feet). Mũi tên dịch chuyển mục tiêu đến một không gian trống bạn có thể thấy trong vòng 3 m (10 feet) của mình.
+- *Thang năng lượng (Energy Ladder).* Như một hành động Ma thuật, bạn có thể bắn một loạt mũi tên năng lượng từ vũ khí này vào một bức tường cách bản thân tối đa 18 m (60 feet). Các mũi tên trở thành những nấc thang phát sáng nhô ra khỏi tường, tạo thành một chiếc thang ma thuật dài tối đa 18 m (60 feet) trên tường. Chiếc thang tồn tại trong 1 phút rồi biến mất.
 
 ### Bình khói vô tận (Eversmoking Bottle)
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Như một hành động Ma thuật, bạn có thể mở hoặc đóng chiếc bình này. Mở bình khiến khói dày đặc tuôn ra, hình thành một đám mây lấp đầy một vùng tỏa 18 m (60 feet) bắt nguồn từ bình. Khu vực bên trong khói bị bị che khuất nặng.
+Như một hành động Ma thuật, bạn có thể mở hoặc đóng chiếc bình này. Mở bình khiến khói dày đặc tuôn ra, hình thành một đám mây lấp đầy một vùng tỏa 18 m (60 feet) bắt nguồn từ bình. Khu vực bên trong khói bị che khuất nặng.
 
 Mỗi phút bình vẫn mở, kích thước của vùng tỏa tăng thêm 3 m (10 feet) cho đến khi nó đạt kích thước tối đa 36 m (120 feet).
 
@@ -1038,7 +1040,7 @@ Mỗi phút bình vẫn mở, kích thước của vùng tỏa tăng thêm 3 m (
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Những chiếc kính pha lê này vừa với mắt bạn. Chúng có 3 lượt tích năng. Trong khi đeo chúng, bạn có thể tiêu tốn 1 hoặc nhiều lượt tích năng để thi triển phép *Mê hoặc người* (Charm Person) (lần cứu nguy DC 13). Với 1 lượt tích năng, bạn thi triển phiên bản bậc 1 của phép. Bạn tăng cấp độ của phép thêm một cho mỗi lượt tích năng bổ sung bạn tiêu tốn. Kính phục hồi tất cả lượt tích năng đã dùng mỗi ngày vào bình minh.
+Những chiếc kính pha lê này vừa với mắt bạn. Chúng có 3 lượt tích năng. Trong khi đeo chúng, bạn có thể tiêu tốn 1 hoặc nhiều lượt tích năng để thi triển phép *Mê hoặc người* (Charm Person) (lần cứu nguy DC 13). Với 1 lượt tích năng, bạn thi triển phiên bản bậc 1 của phép. Bạn tăng bậc của phép thêm một cho mỗi lượt tích năng bổ sung bạn tiêu tốn. Kính phục hồi tất cả lượt tích năng đã dùng mỗi ngày vào bình minh.
 
 ### Kính mắt soi chi tiết (Eyes of Minute Seeing)
 
@@ -1056,27 +1058,27 @@ Những chiếc kính pha lê này vừa với mắt bạn. Trong khi đeo chún
 
 *Vật phẩm kỳ diệu, độ hiếm tùy loại*
 
-Vật phẩm này trông giống một chiếc lông vũ. Có nhiều loại feather lông vũ khác nhau tồn tại, mỗi loại có một hiệu ứng dùng một lần khác nhau. Quản trò chọn loại lông vũ hoặc xác định nó ngẫu nhiên bằng cách tung trên bảng **Feather Tokens**. Loại lông vũ xác định độ hiếm của nó.
+Vật phẩm này trông giống một chiếc lông vũ. Có nhiều loại lông vũ ma thuật khác nhau, mỗi loại có một hiệu ứng dùng một lần riêng. Quản trò chọn loại lông vũ hoặc xác định ngẫu nhiên bằng cách tung trên bảng **Lông vũ ma thuật**. Loại lông vũ quyết định độ hiếm của nó.
 
-- *Mỏ neo (Anchor; Rare).* Bạn có thể dùng một hành động Ma thuật để chạm lông vũ vào một chiếc thuyền hoặc tàu. Trong 24 giờ tiếp theo, con tàu không thể bị di chuyển bằng bất kỳ cách nào. Chạm lông vũ vào con tàu lần nữa kết thúc hiệu ứng. Khi hiệu ứng kết thúc, lông vũ biến mất.
-- *Chim (Bird; Rare).* Bạn có thể dùng một hành động Ma thuật để ném lông vũ lên không trung 1,5 m (5 feet). lông vũ biến mất và một con chim khổng lồ, nhiều màu sắc thay thế vị trí của nó. Con chim có chỉ số của một *Chim Roc* (Roc), nhưng nó không thể tấn công. Nó tuân theo mệnh lệnh đơn giản của bạn và có thể mang tối đa 225 kg (500 lb.) trong khi bay ở tốc độ tối đa của nó (25,6 km (16 mile) mỗi giờ, tối đa 230,4 km (144 mile) mỗi ngày, với 1 giờ nghỉ cho mỗi 3 giờ bay) hoặc 450 kg (1.000 lb.) ở một nửa tốc độ đó. Con chim biến mất sau khi bay hết khoảng cách tối đa của nó trong một ngày hoặc nếu nó giảm xuống 0 điểm sinh lực. Bạn có thể giải tán con chim như một hành động Ma thuật.
-- *Quạt (Fan; Ít gặp).* Nếu bạn đang ở trên một chiếc thuyền hoặc tàu, bạn có thể dùng một hành động Ma thuật để ném lông vũ lên không trung tối đa 3 m (10 feet). lông vũ biến mất, và một chiếc quạt vỗ cánh khổng lồ thay thế vị trí của nó. Chiếc quạt nổi và tạo ra một cơn gió mạnh. Cơn gió này có thể lấp đầy cánh buồm của một con tàu, tăng tốc độ của nó thêm 8 km (5 mile) mỗi giờ trong 8 giờ. Bạn có thể giải tán chiếc quạt như một hành động Ma thuật.
-- *Thuyền thiên nga (Swan boat; Rare).* Bạn có thể dùng một hành động Ma thuật để chạm lông vũ vào một vùng nước có đường kính ít nhất 18 m (60 feet). lông vũ biến mất, và một chiếc thuyền dài 15 m (50 feet), rộng 6 m (20 feet) có hình dạng con thiên nga thay thế vị trí của nó. Con thuyền tự di chuyển và di chuyển trên mặt nước với tốc độ 9,6 km (6 mile) mỗi giờ. Bạn có thể dùng một hành động Ma thuật trong khi ở trên thuyền để ra lệnh cho nó di chuyển hoặc rẽ tối đa 90 độ. Con thuyền tồn tại trong 24 giờ rồi biến mất. Bạn có thể giải tán con thuyền như một hành động Ma thuật.
-- *Cây (Tree; Ít gặp).* Bạn phải ở ngoài trời để dùng lông vũ này. Bạn có thể dùng một hành động Ma thuật để chạm nó vào một không gian trống trên mặt đất. lông vũ biến mất, và thay vào đó một cây sồi không có ma thuật mọc lên. Cây cao 18 m (60 feet) và có thân đường kính 1,5 m (5 feet), và các cành ở đỉnh trải rộng bán kính 6 m (20 feet).
-- *Roi (Whip; Rare).* Bạn có thể dùng một hành động Ma thuật để ném lông vũ đến một điểm trong vòng 3 m (10 feet) của bản thân. lông vũ biến mất, và một chiếc roi lơ lửng thay thế vị trí của nó. Sau đó bạn có thể dùng một hành động phụ để thực hiện một melee phép đòn tấn công nhắm vào một sinh vật trong vòng 3 m (10 feet) của roi, với đòn tấn công điểm cộng +9. Khi trúng, mục tiêu nhận 1d6 + 5 sát thương lực.
+- *Mỏ neo (Anchor; Ít gặp).* Bạn có thể dùng một hành động Ma thuật để chạm lông vũ vào một chiếc thuyền hoặc tàu. Trong 24 giờ tiếp theo, con tàu không thể bị di chuyển bằng bất kỳ cách nào. Chạm lông vũ vào con tàu lần nữa kết thúc hiệu ứng. Khi hiệu ứng kết thúc, lông vũ biến mất.
+- *Chim (Bird; Hiếm).* Bạn có thể dùng một hành động Ma thuật để ném lông vũ lên không trung 1,5 m (5 feet). Lông vũ biến mất và một con chim khổng lồ, nhiều màu sắc thay thế vị trí của nó. Con chim có chỉ số của một *Chim Roc* (Roc), nhưng nó không thể tấn công. Nó tuân theo mệnh lệnh đơn giản của bạn và có thể mang tối đa 225 kg (500 lb.) trong khi bay ở tốc độ tối đa của nó (25,6 km (16 mile) mỗi giờ, tối đa 230,4 km (144 mile) mỗi ngày, với 1 giờ nghỉ cho mỗi 3 giờ bay) hoặc 450 kg (1.000 lb.) ở một nửa tốc độ đó. Con chim biến mất sau khi bay hết khoảng cách tối đa của nó trong một ngày hoặc nếu nó giảm xuống 0 điểm sinh lực. Bạn có thể giải tán con chim như một hành động Ma thuật.
+- *Quạt (Fan; Ít gặp).* Nếu bạn đang ở trên một chiếc thuyền hoặc tàu, bạn có thể dùng một hành động Ma thuật để ném lông vũ lên không trung tối đa 3 m (10 feet). Lông vũ biến mất, và một chiếc quạt vỗ cánh khổng lồ thay thế vị trí của nó. Chiếc quạt nổi và tạo ra một cơn gió mạnh. Cơn gió này có thể lấp đầy cánh buồm của một con tàu, tăng tốc độ của nó thêm 8 km (5 mile) mỗi giờ trong 8 giờ. Bạn có thể giải tán chiếc quạt như một hành động Ma thuật.
+- *Thuyền thiên nga (Swan Boat; Hiếm).* Bạn có thể dùng một hành động Ma thuật để chạm lông vũ vào một vùng nước có đường kính ít nhất 18 m (60 feet). Lông vũ biến mất, và một chiếc thuyền dài 15 m (50 feet), rộng 6 m (20 feet) có hình dạng con thiên nga thay thế vị trí của nó. Con thuyền tự di chuyển và di chuyển trên mặt nước với tốc độ 9,6 km (6 mile) mỗi giờ. Bạn có thể dùng một hành động Ma thuật trong khi ở trên thuyền để ra lệnh cho nó di chuyển hoặc rẽ tối đa 90 độ. Con thuyền tồn tại trong 24 giờ rồi biến mất. Bạn có thể giải tán con thuyền như một hành động Ma thuật.
+- *Cây (Tree; Ít gặp).* Bạn phải ở ngoài trời để dùng lông vũ này. Bạn có thể dùng một hành động Ma thuật để chạm nó vào một không gian trống trên mặt đất. Lông vũ biến mất, và thay vào đó một cây sồi không có ma thuật mọc lên. Cây cao 18 m (60 feet) và có thân đường kính 1,5 m (5 feet), và các cành ở đỉnh trải rộng bán kính 6 m (20 feet).
+- *Roi (Whip; Hiếm).* Bạn có thể dùng một hành động Ma thuật để ném lông vũ đến một điểm trong vòng 3 m (10 feet) của bản thân. Lông vũ biến mất, và một chiếc roi lơ lửng thay thế vị trí của nó. Sau đó bạn có thể dùng một hành động phụ để thực hiện một đòn tấn công phép cận chiến nhắm vào một sinh vật trong vòng 3 m (10 feet) của roi, với điểm cộng tấn công +9. Khi trúng, mục tiêu nhận 1d6 + 5 sát thương lực.
 
-Như một hành động phụ, bạn có thể chỉ đạo roi bay xa tối đa 6 m (20 feet) và lặp lại cuộc tấn công nhắm vào một sinh vật trong vòng 3 m (10 feet) của roi. Roi biến mất sau 1 giờ, khi bạn dùng một hành động Ma thuật để giải tán nó, hoặc khi bạn ở trạng thái Mất năng lực hành động.
+Như một hành động phụ, bạn có thể chỉ đạo roi bay xa tối đa 6 m (20 feet) và lặp lại cuộc tấn công nhắm vào một sinh vật trong vòng 3 m (10 feet) của roi. Roi biến mất sau 1 giờ, khi bạn dùng một hành động Ma thuật để giải tán nó, khi bạn chết hoặc ở trạng thái Mất năng lực hành động.
 
 **Lông vũ ma thuật**
 
 | 1d100 | Lông vũ | Độ hiếm |
 |---|---|---|
-| 01–20 | Anchor | Ít gặp |
-| 21–35 | Bird | Rare |
-| 36–50 | Fan | Ít gặp |
-| 51–65 | Swan boat | Rare |
-| 66–90 | Tree | Ít gặp |
-| 91–00 | Roi | Rare |
+| 01–20 | Mỏ neo | Ít gặp |
+| 21–35 | Chim | Hiếm |
+| 36–50 | Quạt | Ít gặp |
+| 51–65 | Thuyền thiên nga | Hiếm |
+| 66–90 | Cây | Ít gặp |
+| 91–00 | Roi | Hiếm |
 
 ### Tượng nhỏ kỳ diệu (Figurine of Wondrous Power)
 
@@ -1087,8 +1089,8 @@ Sinh vật Thân thiện với bạn và đồng minh của bạn. Nó hiểu ng
 
 Sinh vật tồn tại trong một thời lượng cụ thể cho mỗi tượng nhỏ. Vào cuối thời lượng, sinh vật trở lại dạng tượng nhỏ của nó. Nó trở lại dạng tượng nhỏ sớm hơn nếu dạng sinh vật của nó giảm xuống 0 điểm sinh lực hoặc nếu bạn dùng một hành động Ma thuật trong khi chạm vào sinh vật để khiến nó trở lại dạng tượng nhỏ. Khi sinh vật trở lại thành tượng nhỏ, thuộc tính của nó không thể dùng lại cho đến khi một khoảng thời gian nhất định đã trôi qua, như được quy định trong mô tả của tượng nhỏ.
 
-- *Sư điểu đồng thiếc (Bronze Griffon; Rare).* Bức tượng đồng nhỏ này mô tả một griffon đang vươn mình. Nó có thể trở thành một *Sư điểu* (Griffon) trong tối đa 6 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 5 ngày đã trôi qua.
-- *Ruồi gỗ mun (Ebony Fly; Rare).* Bức tượng gỗ mun này, chạm khắc theo hình dạng một con ruồi ngựa, có thể trở thành một Người khổng lồ Fly (xem khối thông số đi kèm) trong tối đa 12 giờ và có thể được cưỡi như một thú cưỡi. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 2 ngày đã trôi qua.
+- *Sư điểu đồng thiếc (Bronze Griffon; Hiếm).* Bức tượng đồng nhỏ này mô tả một griffon đang vươn mình. Nó có thể trở thành một *Sư điểu* (Griffon) trong tối đa 6 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 5 ngày đã trôi qua.
+- *Ruồi gỗ mun (Ebony Fly; Hiếm).* Bức tượng gỗ mun này, chạm khắc theo hình dạng một con ruồi ngựa, có thể trở thành một *Ruồi khổng lồ* (Giant Fly) (xem khối thông số đi kèm) trong tối đa 12 giờ và có thể được cưỡi như một thú cưỡi. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 2 ngày đã trôi qua.
 
 **Ruồi khổng lồ (Giant Fly)**
 *Thú cỡ Lớn, không khuynh hướng*
@@ -1100,18 +1102,18 @@ Sinh vật tồn tại trong một thời lượng cụ thể cho mỗi tượng
 - **Ngôn ngữ:** Không có
 - **CR** 0 (XP 0; PB +2)
 
-- *Sư tử vàng (Golden Lions; Rare).* Những bức tượng vàng của sư tử này luôn được tạo ra thành cặp. Bạn có thể dùng một tượng nhỏ hoặc cả hai cùng lúc. Mỗi con có thể trở thành một *Sư tử* (Lion) trong tối đa 1 giờ. Một khi một con sư tử đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
-- *Dê ngà (Ivory Goats; Rare).* Những bức tượng ngà voi của dê này luôn được tạo thành bộ ba. Mỗi con dê trông độc đáo và hoạt động khác với những con khác. Thuộc tính của chúng như sau:
-  - *Dê khiếp đảm (Goat of Terror).* Tượng nhỏ này có thể trở thành một Người khổng lồ Goat trong tối đa 3 giờ. Con dê không thể tấn công, nhưng bạn có thể (vô hại) tháo sừng của nó ra và dùng chúng như vũ khí. Một sừng trở thành một +1 Thương kỵ binh, và sừng kia trở thành một +2 Kiếm dài. Tháo một sừng cần một hành động Ma thuật, và các vũ khí biến mất và sừng trở lại khi con dê trở về dạng tượng nhỏ. Trong khi bạn cưỡi con dê, bất kỳ sinh vật Thù địch nào bắt đầu lượt của nó trong một vùng tỏa 9 m (30 feet) bắt nguồn từ con dê phải thành công trong một cứu nguy Minh triết DC 15 hoặc ở trạng thái Hoảng sợ trong 1 phút, cho đến khi bạn không còn cưỡi con dê, hoặc cho đến khi con dê trở về dạng tượng nhỏ. Sinh vật Hoảng sợ lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. Một khi thành công trong lần cứu nguy, một sinh vật miễn nhiễm với hiệu ứng này trong 24 giờ tiếp theo. Một khi tượng nhỏ đã được dùng, nó không thể dùng lại cho đến khi 15 ngày đã trôi qua.
-  - *Dê du hành (Goat of Traveling).* Tượng nhỏ này có thể trở thành một *Ngựa cưỡi* (Riding Horse) cỡ Large với cùng chỉ số như một *Ngựa cưỡi* (Riding Horse). Nó có 24 lượt tích năng, và mỗi giờ hoặc một phần của giờ nó dành ở dạng dê tốn 1 lượt tích năng. Trong khi nó có lượt tích năng, bạn có thể dùng nó thường xuyên tùy ý. Khi nó hết lượt tích năng, nó trở về dạng tượng nhỏ và không thể dùng lại cho đến khi 7 ngày đã trôi qua, lúc đó nó phục hồi tất cả lượt tích năng đã dùng.
-  - *Dê lao nhọc (Goat of Travail).* Tượng nhỏ này có thể trở thành một Người khổng lồ Goat trong tối đa 3 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 30 ngày đã trôi qua.
-- *Voi cẩm thạch (Marble Elephant; Rare).* Bức tượng cẩm thạch này giống một con voi đang rống lên. Nó có thể trở thành một *Voi* (Elephant) trong tối đa 24 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
+- *Sư tử vàng (Golden Lions; Hiếm).* Những bức tượng vàng của sư tử này luôn được tạo ra thành cặp. Bạn có thể dùng một tượng nhỏ hoặc cả hai cùng lúc. Mỗi con có thể trở thành một *Sư tử* (Lion) trong tối đa 1 giờ. Một khi một con sư tử đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
+- *Dê ngà (Ivory Goats; Hiếm).* Những bức tượng ngà voi của dê này luôn được tạo thành bộ ba. Mỗi con dê trông độc đáo và hoạt động khác với những con khác. Thuộc tính của chúng như sau:
+  - *Dê khiếp đảm (Goat of Terror).* Tượng nhỏ này có thể trở thành một *Dê khổng lồ* (Giant Goat) trong tối đa 3 giờ. Con dê không thể tấn công, nhưng bạn có thể (vô hại) tháo sừng của nó ra và dùng chúng như vũ khí. Một sừng trở thành một +1 Thương kỵ binh, và sừng kia trở thành một +2 Kiếm dài. Tháo một sừng cần một hành động Ma thuật, và các vũ khí biến mất và sừng trở lại khi con dê trở về dạng tượng nhỏ. Trong khi bạn cưỡi con dê, bất kỳ sinh vật Thù địch nào bắt đầu lượt của nó trong một vùng tỏa 9 m (30 feet) bắt nguồn từ con dê phải thành công trong một cứu nguy Minh triết DC 15 hoặc ở trạng thái Hoảng sợ trong 1 phút, cho đến khi bạn không còn cưỡi con dê, hoặc cho đến khi con dê trở về dạng tượng nhỏ. Sinh vật Hoảng sợ lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. Một khi thành công trong lần cứu nguy, một sinh vật miễn nhiễm với hiệu ứng này trong 24 giờ tiếp theo. Một khi tượng nhỏ đã được dùng, nó không thể dùng lại cho đến khi 15 ngày đã trôi qua.
+  - *Dê du hành (Goat of Traveling).* Tượng nhỏ này có thể trở thành một con dê cỡ Lớn có cùng chỉ số như một *Ngựa cưỡi* (Riding Horse). Nó có 24 lượt tích năng, và mỗi giờ hoặc một phần của giờ ở dạng dê tiêu tốn 1 lượt tích năng. Khi vẫn còn lượt tích năng, bạn có thể dùng nó bao nhiêu lần tùy ý. Khi hết lượt tích năng, nó trở về dạng tượng nhỏ và không thể dùng lại cho đến khi 7 ngày trôi qua, lúc đó nó phục hồi tất cả lượt tích năng đã dùng.
+  - *Dê lao nhọc (Goat of Travail).* Tượng nhỏ này có thể trở thành một *Dê khổng lồ* (Giant Goat) trong tối đa 3 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 30 ngày đã trôi qua.
+- *Voi cẩm thạch (Marble Elephant; Hiếm).* Bức tượng cẩm thạch này giống một con voi đang rống lên. Nó có thể trở thành một *Voi* (Elephant) trong tối đa 24 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
 - *Tuấn mã hắc diện (Obsidian Steed; Rất hiếm).* Con ngựa obsidian đánh bóng này có thể trở thành một *Ác mã* (Nightmare) trong tối đa 24 giờ. Con nightmare chỉ chiến đấu để tự vệ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 5 ngày đã trôi qua.
 
-Tượng nhỏ có 10 phần trăm khả năng mỗi lần bạn dùng nó phớt lờ mệnh lệnh của bạn, kể cả mệnh lệnh trở về dạng tượng nhỏ. Nếu bạn cưỡi con nightmare trong khi nó đang phớt lờ mệnh lệnh của bạn, bạn và con nightmare ngay lập tức được vận chuyển đến một địa điểm ngẫu nhiên trên cõi Hades, nơi con nightmare trở về dạng tượng nhỏ.
+Tượng nhỏ có 10 phần trăm khả năng mỗi lần bạn dùng nó phớt lờ mệnh lệnh của bạn, kể cả mệnh lệnh trở về dạng tượng nhỏ. Nếu bạn cưỡi con ác mã trong khi nó đang phớt lờ mệnh lệnh của bạn, bạn và con ác mã ngay lập tức được vận chuyển đến một địa điểm ngẫu nhiên trên cõi Hades, nơi con ác mã trở về dạng tượng nhỏ.
 
-- *Chó mã não (Onyx Dog; Rare).* Bức tượng onyx của một con chó này có thể trở thành một *Chó ngao* (Mastiff) trong tối đa 6 giờ. Con mastiff có Trí tuệ 8 và có thể nói tiếng Common. Nó cũng có cảm nhận mù với tầm 18 m (60 feet). Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
-- *Cú đầu rắn (Serpentine Owl; Ít gặp).* Bức tượng hình rắn của một con cú này có thể trở thành một Người khổng lồ Owl trong tối đa 8 giờ. Con cú có thể giao tiếp bằng thần giao cách cảm với bạn ở bất kỳ khoảng cách nào nếu bạn và nó ở cùng cõi tồn tại. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 2 ngày đã trôi qua.
+- *Chó mã não (Onyx Dog; Hiếm).* Bức tượng onyx của một con chó này có thể trở thành một *Chó ngao* (Mastiff) trong tối đa 6 giờ. Con mastiff có Trí tuệ 8 và có thể nói tiếng Common. Nó cũng có cảm nhận mù với tầm 18 m (60 feet). Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 7 ngày đã trôi qua.
+- *Cú đầu rắn (Serpentine Owl; Hiếm).* Bức tượng hình rắn của một con cú này có thể trở thành một *Cú khổng lồ* (Giant Owl) trong tối đa 8 giờ. Con cú có thể giao tiếp bằng thần giao cách cảm với bạn ở bất kỳ khoảng cách nào nếu bạn và nó ở cùng cõi tồn tại. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 2 ngày đã trôi qua.
 - *Quạ bạc (Silver Raven; Ít gặp).* Bức tượng bạc của một con quạ này có thể trở thành một *Quạ* (Raven) trong tối đa 12 giờ. Một khi nó đã được dùng, nó không thể dùng lại cho đến khi 2 ngày đã trôi qua. Trong khi ở dạng quạ, tượng nhỏ cấp cho bạn thuộc tính thi triển phép *Sứ giả muông thú* (Animal Messenger) lên nó.
 
 ### Lưỡi lửa (Flame Tongue)
@@ -1126,13 +1128,13 @@ Trong khi cầm vũ khí ma thuật này, bạn có thể dùng một hành đ�
 
 Vật phẩm này trông giống một hộp gỗ dài 30 cm (12 inch), rộng 15 cm (6 inch), và sâu 15 cm (6 inch). Nó nặng 1,8 kg (4 lb.) và nổi trên mặt nước. Nó có thể được mở ra để cất vật phẩm bên trong. Vật phẩm này cũng có ba khẩu lệnh, mỗi từ cần một hành động Ma thuật để dùng:
 
-- *Khẩu lệnh thứ nhất (First Command Word).* Hộp mở gấp thành một Rowboat.
-- *Khẩu lệnh thứ hai (Second Command Word).* Hộp mở gấp thành một Keelboat.
+- *Khẩu lệnh thứ nhất (First Command Word).* Hộp mở gấp thành một *Thuyền chèo* (Rowboat).
+- *Khẩu lệnh thứ hai (Second Command Word).* Hộp mở gấp thành một *Thuyền đáy bằng* (Keelboat).
 - *Khẩu lệnh thứ ba (Third Command Word).* Thuyền gấp lại thành hộp nếu không có sinh vật nào trên tàu. Bất kỳ đồ vật nào trên tàu không thể vừa bên trong hộp sẽ vẫn ở bên ngoài hộp khi nó gấp lại. Bất kỳ đồ vật nào trên tàu có thể vừa bên trong hộp sẽ được cất vào.
 
 Khi hộp trở thành một con tàu, trọng lượng của nó trở thành trọng lượng của một con tàu bình thường cùng kích cỡ, và bất cứ thứ gì đã được cất trong hộp vẫn còn trong thuyền.
 
-Chỉ số cho Rowboat và Keelboat xuất hiện trong "Equipment." Nếu một trong hai con tàu bị giảm xuống 0 điểm sinh lực, *Thuyền gấp* bị phá hủy.
+Chỉ số của Thuyền chèo và Thuyền đáy bằng nằm trong chương Trang bị. Nếu một trong hai con tàu bị giảm xuống 0 điểm sinh lực, *Thuyền gấp* bị phá hủy.
 
 ### Kiếm băng giá (Frost Brand)
 
@@ -1160,7 +1162,7 @@ Lăng kính này có 50 lượt tích năng. Trong khi bạn đang cầm nó, b�
 - *Khẩu lệnh thứ hai (Second Command Word).* Bạn tiêu tốn 1 lượt tích năng và khiến đá bắn một tia sáng chói lóa vào một sinh vật bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Sinh vật phải thành công trong một cứu nguy Thể chất DC 15 hoặc ở trạng thái Mù trong 1 phút. Sinh vật lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công.
 - *Khẩu lệnh thứ ba (Third Command Word).* Bạn tiêu tốn 5 lượt tích năng và khiến đá lóe lên với ánh sáng cường độ cao trong một hình nón 9 m (30 feet). Mỗi sinh vật trong hình nón thực hiện một lần cứu nguy như thể bị tia sáng được tạo ra bởi khẩu lệnh thứ hai chiếu vào.
 
-Khi tất cả lượt tích năng của đá đã dùng hết, đá trở thành một viên đá quý không có ma thuật trị giá 50 GP.
+Khi tất cả lượt tích năng của đá đã dùng hết, đá trở thành một viên đá quý không có ma thuật trị giá 50 gp.
 
 ### Ngọc nhìn thấu (Gem of Seeing)
 
@@ -1174,7 +1176,7 @@ Viên đá này có 3 lượt tích năng. Như một hành động Ma thuật, 
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), hiếm*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Khi bạn tấn công trúng một Người khổng lồ bằng vũ khí này, Người khổng lồ chịu thêm 2d6 sát thương cùng loại với vũ khí và phải thành công trong một cứu nguy Sức mạnh DC 15 hoặc ở trạng thái Ngã sấp.
 
@@ -1182,25 +1184,25 @@ Khi bạn tấn công trúng một Người khổng lồ bằng vũ khí này, N
 
 *Giáp (Giáp da đinh tán), hiếm*
 
-Trong khi mặc bộ giáp này, bạn được +1 Chỉ số giáp. Bạn cũng có thể dùng một hành động phụ để khiến giáp mang hình dạng của một bộ quần áo bình thường hoặc một loại giáp khác. Bạn quyết định nó trông như thế nào — kể cả màu sắc, kiểu dáng, và phụ kiện — nhưng giáp vẫn giữ nguyên độ cồng kềnh và trọng lượng bình thường. Hình dạng ảo ảnh tồn tại cho đến khi bạn dùng thuộc tính này lần nữa hoặc cởi giáp ra.
+Trong khi mặc bộ giáp này, bạn nhận điểm cộng +1 vào Chỉ số giáp. Bạn cũng có thể dùng một hành động phụ để khiến giáp mang hình dạng của một bộ quần áo bình thường hoặc một loại giáp khác. Bạn quyết định nó trông như thế nào — kể cả màu sắc, kiểu dáng và phụ kiện — nhưng giáp vẫn giữ nguyên độ cồng kềnh và trọng lượng bình thường. Hình dạng ảo ảnh tồn tại cho đến khi bạn dùng thuộc tính này lần nữa hoặc cởi giáp ra.
 
 ### Găng bắt tên (Gloves of Missile Snaring)
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Nếu bạn bị trúng bởi một lần tung tấn công thực hiện bằng một Ranged hoặc Ném vũ khí trong khi đeo găng tay này, bạn có thể dùng một phản ứng để giảm sát thương đi 1d10 cộng hệ số Khéo léo của bạn nếu bạn có một tay rảnh. Nếu bạn giảm sát thương xuống 0, bạn có thể bắt được viên đạn hoặc vũ khí nếu nó đủ nhỏ để bạn cầm bằng tay đó.
+Nếu bạn bị trúng bởi một lần tung tấn công thực hiện bằng vũ khí Tầm xa hoặc vũ khí có thuộc tính Ném trong khi đeo găng tay này, bạn có thể dùng một phản ứng để giảm sát thương đi 1d10 cộng hệ số Khéo léo nếu có một tay rảnh. Nếu giảm sát thương xuống 0, bạn có thể bắt lấy viên đạn hoặc vũ khí nếu nó đủ nhỏ để cầm trong tay đó.
 
 ### Găng bơi và leo (Gloves of Swimming and Climbing)
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Trong khi đeo găng tay này, bạn có Tốc độ leo và Tốc độ bơi bằng Tốc độ của bạn, và bạn được +5 phép kiểm tra Sức mạnh (Điền kinh) thực hiện để leo trèo hoặc bơi.
+Trong khi đeo găng tay này, bạn có Tốc độ leo và Tốc độ bơi bằng Tốc độ của mình, đồng thời nhận điểm cộng +5 vào phép kiểm tra Sức mạnh (Điền kinh) thực hiện để leo trèo hoặc bơi.
 
 ### Găng trộm (Gloves of Thievery)
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Những chiếc găng tay này không thể nhận thấy được khi đeo. Trong khi đeo chúng, bạn được +5 phép kiểm tra Khéo léo (Khéo tay).
+Những chiếc găng tay này không thể bị nhận thấy khi đang được đeo. Trong khi đeo chúng, bạn nhận điểm cộng +5 vào phép kiểm tra Khéo léo (Khéo tay).
 
 ### Kính nhìn đêm (Goggles of Night)
 
@@ -1212,20 +1214,20 @@ Trong khi đeo những chiếc kính tối màu này, bạn có *Thị giác bó
 
 *Vũ khí (Búa tạ hoặc Búa chiến), huyền thoại (cần hòa hợp)*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Vũ khí có 5 lượt tích năng. Bạn có thể tiêu tốn 1 lượt tích năng và thực hiện một đòn tấn công tầm xa bằng vũ khí, ném nó như thể nó có thuộc tính Ném với tầm bình thường 6 m (20 feet) và tầm xa 18 m (60 feet). Nếu cuộc tấn công trúng, vũ khí giải phóng một tiếng sấm nghe được xa tới 90 m (300 feet). Mục tiêu và mọi sinh vật trong vòng 9 m (30 feet) của nó ngoài bạn phải thành công trong một cứu nguy Thể chất DC 17 hoặc ở trạng thái Choáng cho đến cuối lượt tiếp theo của bạn. Ngay sau khi trúng hoặc trượt, vũ khí bay trở lại tay bạn. Vũ khí phục hồi 1d4 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh.
 
-*Khắc tinh người khổng lồ.* Nếu bạn đồng điệu với vũ khí và đang mặc một *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) hoặc *Găng sức mạnh Ogre* (Gauntlets of Ogre Power) mà bạn cũng đồng điệu, bạn nhận các lợi ích sau:
+*Khắc tinh của người khổng lồ (Giant’s Bane).* Nếu bạn đồng điệu với vũ khí và đang đeo một *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) hoặc *Găng sức mạnh Ogre* (Gauntlets of Ogre Power) mà bạn cũng đồng điệu, bạn nhận các lợi ích sau:
 
-- Khi bạn tung ra 20 trên d20 cho một lần tung tấn công thực hiện bằng vũ khí này nhắm vào một Người khổng lồ, sinh vật đó phải thành công trong một cứu nguy Thể chất DC 17 hoặc chết.
-- điểm Sức mạnh được ban cho bởi *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) hoặc *Găng sức mạnh Ogre* (Gauntlets of Ogre Power) của bạn tăng thêm 4, tối đa 30.
+- *Diệt người khổng lồ (Giants’ Bane).* Khi bạn tung ra 20 trên d20 cho một lần tung tấn công thực hiện bằng vũ khí này nhắm vào một Người khổng lồ, sinh vật đó phải thành công trong một cứu nguy Thể chất DC 17 hoặc chết.
+- *Sức mạnh người khổng lồ (Might of Giants).* Điểm Sức mạnh được ban cho bởi *Thắt lưng sức mạnh người khổng lồ* (Belt of Giant Strength) hoặc *Găng sức mạnh Ogre* (Gauntlets of Ogre Power) tăng thêm 4, tối đa 30.
 
 ### Ba lô tiện dụng (Handy Haversack)
 
 *Vật phẩm kỳ diệu, hiếm*
 
-Chiếc ba lô này có một túi chính và hai túi bên, mỗi túi là một không gian ngoại chiều. Mỗi túi bên có thể chứa tối đa 90 kg (200 lb.) vật liệu, không vượt quá thể tích 25 khối lập phương foot. Túi chính có thể chứa tối đa 225 kg (500 lb.) vật liệu, không vượt quá thể tích 64 khối lập phương foot. Ba lô luôn nặng 2,25 kg (5 lb.), bất kể nội dung của nó.
+Chiếc ba lô này có một túi chính và hai túi bên, mỗi túi là một không gian ngoại chiều. Mỗi túi bên có thể chứa tối đa 90 kg (200 lb.) vật liệu, với thể tích không quá 0,7 m³ (25 feet khối). Túi chính có thể chứa tối đa 225 kg (500 lb.) vật liệu, với thể tích không quá 1,8 m³ (64 feet khối). Ba lô luôn nặng 2,25 kg (5 lb.), bất kể chứa gì.
 
 Lấy một vật phẩm ra khỏi ba lô cần một hành động Sử dụng hoặc một hành động phụ (tùy bạn chọn). Khi bạn thò tay vào ba lô tìm một vật phẩm cụ thể, vật phẩm đó luôn ở trên cùng một cách kỳ diệu.
 
@@ -1247,22 +1249,22 @@ Trong khi đội chiếc mũ này, bạn có thể thi triển phép *Cải dạ
 
 Chiếc mũ nhọn này có các thuộc tính sau.
 
-- *Tiêu điểm thi triển phép (Spellcasting Focus).* Trong khi cầm mũ, bạn có thể dùng nó như một Spellcasting Focus cho các phép Pháp sư của bạn. Bất kỳ phép nào bạn thi triển dùng mũ nhận một thành phần cử chỉ đặc biệt: bạn phải thò tay vào mũ và "kéo" phép ra khỏi nó.
-- *Phép chưa biết (Unknown Spell).* Trong khi cầm mũ, bạn có thể cố thi triển một phép cấp độ 1+ mà bạn không biết. Phép phải nằm trong danh sách phép của Pháp sư, phải có cấp độ bạn có thể thi triển, và không thể có thành phần vật chất có giá hơn 1.000 GP. Một khi bạn quyết định phép, bạn phải tiêu tốn một ô phép cùng cấp độ với phép. Sau đó, để xác định liệu bạn có thi triển thành công phép hay không, hãy thực hiện một phép kiểm tra Trí tuệ (Huyền thuật) (DC 10 cộng cấp độ của phép). Khi phép kiểm tra thành công, bạn thi triển phép dùng thời gian thi triển bình thường của nó, và bạn không thể dùng thuộc tính này lần nữa cho đến khi bạn hoàn thành một lần nghỉ ngắn hoặc nghỉ dài. Khi phép kiểm tra thất bại, bạn không thi triển được phép và một hiệu ứng ngẫu nhiên xảy ra thay vào đó, được xác định bằng cách tung trên bảng sau.
+- *Tiêu điểm thi triển phép (Spellcasting Focus).* Trong khi cầm mũ, bạn có thể dùng nó như một Tiêu điểm thi triển phép cho các phép Pháp sư của bạn. Bất kỳ phép nào bạn thi triển dùng mũ nhận một thành phần cử chỉ đặc biệt: bạn phải thò tay vào mũ và "kéo" phép ra khỏi nó.
+- *Phép chưa biết (Unknown Spell).* Trong khi cầm mũ, bạn có thể cố thi triển một phép bậc 1+ mà bạn không biết. Phép phải nằm trong danh sách phép của Pháp sư, phải có bậc mà bạn có thể thi triển, và không thể có thành phần vật chất có giá hơn 1.000 gp. Một khi bạn quyết định phép, bạn phải tiêu tốn một ô phép cùng bậc với phép. Sau đó, để xác định liệu bạn có thi triển thành công phép hay không, hãy thực hiện một phép kiểm tra Trí tuệ (Huyền thuật) (DC 10 cộng bậc của phép). Khi phép kiểm tra thành công, bạn thi triển phép dùng thời gian thi triển bình thường của nó, và bạn không thể dùng thuộc tính này lần nữa cho đến khi bạn hoàn thành một lần nghỉ ngắn hoặc nghỉ dài. Khi phép kiểm tra thất bại, bạn không thi triển được phép và một hiệu ứng ngẫu nhiên xảy ra thay vào đó, được xác định bằng cách tung trên bảng sau.
 
 Bất kỳ phép nào bạn thi triển từ mũ đều dùng DC cứu nguy phép và thưởng tấn công bằng phép của bạn.
 
 | 1d100 | Hiệu ứng |
 |---|---|
-| 01–50 | Bạn thi triển một phép ngẫu nhiên được xác định bằng cách tung 1d10: 1 là *Phóng to/thu nhỏ* (Enlarge/Reduce) (hiệu ứng phóng to); 2 là *Phóng to/thu nhỏ* (Enlarge/Reduce) (hiệu ứng thu nhỏ); 3 là *Lửa yêu tinh* (Faerie Fire); 4 là *Quả cầu lửa* (Fireball); 5 là *Cơn gió lốc* (Gust of Wind); 6 là *Vô hình* (Invisibility) (thi triển lên bản thân); 7 là *Tia sét* (Lightning Bolt); 8 là *Lực ảo ảnh* (Phantasmal Force); 9 là Polymorph; 10 là *Đám mây hôi thối* (Stinking Cloud). |
+| 01–50 | Bạn thi triển một phép ngẫu nhiên được xác định bằng cách tung 1d10: 1 là *Phóng to/thu nhỏ* (Enlarge/Reduce) (hiệu ứng phóng to); 2 là *Phóng to/thu nhỏ* (Enlarge/Reduce) (hiệu ứng thu nhỏ); 3 là *Lửa yêu tinh* (Faerie Fire); 4 là *Quả cầu lửa* (Fireball); 5 là *Cơn gió lốc* (Gust of Wind); 6 là *Vô hình* (Invisibility) (thi triển lên bản thân); 7 là *Tia sét* (Lightning Bolt); 8 là *Lực ảo ảnh* (Phantasmal Force); 9 là *Biến hình* (Polymorph); 10 là *Đám mây hôi thối* (Stinking Cloud). |
 | 51–55 | Bạn ở trạng thái Choáng cho đến cuối lượt tiếp theo của bạn, tin rằng điều gì đó tuyệt vời vừa xảy ra. |
 | 56–60 | Một đàn bướm vô hại lấp đầy một khối lập phương 3 m (10 feet) trong vòng 9 m (30 feet) của bản thân. Đàn bướm tan biến sau 1 phút. |
-| 61–65 | Bạn kéo một đồ vật không có ma thuật ra khỏi mũ. Tung 1d4 để xác định đồ vật: 1 là một lọ Axit (Acid); 2 là một bình Lửa giả kim; 3 là một Crowbar; 4 là một Đuốc đang cháy. |
+| 61–65 | Bạn kéo một đồ vật không có ma thuật ra khỏi mũ. Tung 1d4 để xác định đồ vật: 1 là một lọ Axit (Acid); 2 là một bình Lửa giả kim; 3 là một Xà beng (Crowbar); 4 là một Đuốc đang cháy. |
 | 66–70 | Bạn chịu một cơn "bệnh ma thuật" và ở trạng thái Trúng độc trong 1 giờ. |
 | 71–75 | Bạn ở trạng thái Hóa đá cho đến cuối lượt tiếp theo của bạn. |
-| 76–80 | Bạn kéo một đồ vật không có ma thuật ra khỏi mũ. Tung 1d4 để xác định đồ vật: 1 là một Dao găm; 2 là một sợi dây thừng Dây thừng buộc kèm một Grappling Hook ở một đầu; 3 là một túi Caltrops; 4 là một viên đá quý trị giá 50 GP. |
+| 76–80 | Bạn kéo một đồ vật không có ma thuật ra khỏi mũ. Tung 1d4 để xác định đồ vật: 1 là một Dao găm; 2 là một Dây thừng (Rope) có Móc câu leo (Grappling Hook) ở một đầu; 3 là một túi Chông sắt (Caltrops); 4 là một viên đá quý trị giá 50 gp. |
 | 81–85 | Một sinh vật xuất hiện trong một không gian trống gần bạn nhất có thể. Sinh vật không nằm dưới sự kiểm soát của bạn và hành động như bình thường, và nó biến mất sau 1 giờ hoặc khi nó giảm xuống 0 điểm sinh lực. Tung 1d4 để xác định sinh vật: 1 là một *Lạc đà* (Camel); 2 là một *Trăn* (Constrictor Snake); 3 là một *Voi* (Elephant); 4 là một *La* (Mule). |
-| 86–90 | Một bầy of Bats Thù địch bay ra khỏi mũ, chiếm không gian của bạn, và tấn công bạn. |
+| 86–90 | Một *Bầy dơi* (Swarm of Bats) Thù địch bay ra khỏi mũ, chiếm không gian của bạn, và tấn công bạn. |
 | 91–95 | Một cánh cổng hai chiều thẳng đứng, đường kính 3 m (10 feet), đến một cõi tồn tại khác mở ra trong một không gian trống trong vòng 9 m (30 feet) của bạn và vẫn mở cho đến cuối lượt tiếp theo của bạn. Quản trò xác định nó dẫn đến đâu. |
 | 96–00 | Bạn kéo một vật phẩm ma thuật ra khỏi mũ. Tung 1d6 để xác định độ hiếm của vật phẩm: 1–3 là thông thường; 4–5 là ít gặp; 6 là hiếm. Quản trò chọn vật phẩm, biến mất sau 1 giờ nếu nó không bị tiêu thụ hoặc phá hủy trước đó. |
 
@@ -1283,7 +1285,7 @@ Bạn nhận các lợi ích sau trong khi đeo mũ giáp.
 - *Ánh kim cương (Diamond Light).* Miễn là nó còn ít nhất một viên kim cương, mũ giáp phát ra một vùng tỏa 9 m (30 feet). Khi có ít nhất một Xác sống trong khu vực đó, vùng tỏa được lấp đầy bởi ánh sáng yếu. Bất kỳ Xác sống nào bắt đầu lượt của nó trong khu vực đó chịu 1d6 sát thương quang.
 - *Lửa ngọc opal (Fire Opal Flames).* Miễn là mũ giáp có ít nhất một viên opal lửa, bạn có thể dùng một hành động Ma thuật để khiến một vũ khí bạn đang cầm bùng cháy. Ngọn lửa phát ra ánh sáng rõ trong bán kính 3 m (10 feet) và ánh sáng yếu thêm 3 m (10 feet) nữa. Ngọn lửa vô hại đối với bạn và vũ khí. Khi bạn tấn công trúng bằng vũ khí đang bốc cháy, mục tiêu chịu thêm 1d6 sát thương lửa. Ngọn lửa tồn tại cho đến khi bạn dùng một hành động phụ để dập tắt chúng hoặc cho đến khi bạn thả hoặc cất vũ khí.
 - *Kháng hồng ngọc (Ruby Resistance).* Miễn là mũ giáp có ít nhất một viên hồng ngọc, bạn có kháng với sát thương lửa.
-- *Phép (Spells).* Bạn có thể thi triển một trong các phép sau (lần cứu nguy DC 18), dùng một trong các viên đá của mũ giáp thuộc loại quy định làm thành phần: *Quả cầu lửa* (Fireball) (opal), *Tia ngũ sắc* (Prismatic Spray) (opal lửa), *Tường lửa* (Wall of Fire) (kim cương), hoặc *Bão lửa* (Fire Storm) (hồng ngọc). Viên đá bị phá hủy khi phép được thi triển và biến mất khỏi mũ giáp.
+- *Phép (Spells).* Bạn có thể thi triển một trong các phép sau (lần cứu nguy DC 18), dùng một viên đá thuộc loại được chỉ định trên mũ giáp làm thành phần: *Ánh sáng ban ngày* (Daylight) dùng opal, *Quả cầu lửa* (Fireball) dùng opal lửa, *Tia ngũ sắc* (Prismatic Spray) dùng kim cương, hoặc *Tường lửa* (Wall of Fire) dùng hồng ngọc. Viên đá bị phá hủy khi phép được thi triển và biến mất khỏi mũ giáp.
 - *Chịu sát thương lửa (Taking Fire Damage).* Tung 1d20 nếu bạn đang đội mũ giáp và chịu sát thương lửa do thất bại trong một lần cứu nguy chống lại một phép. Với kết quả 1, mũ giáp phát ra các tia sáng từ những viên đá còn lại của nó rồi bị phá hủy. Mỗi sinh vật trong một vùng tỏa 18 m (60 feet) bắt nguồn từ bạn phải thành công trong một cứu nguy Khéo léo DC 17 hoặc bị một tia sáng chiếu trúng, chịu sát thương quang bằng số viên đá trong mũ giáp.
 
 ### Mũ trụ thông hiểu ngôn ngữ (Helm of Comprehending Languages)
@@ -1308,9 +1310,9 @@ Mũ giáp này có 3 lượt tích năng. Trong khi đội nó, bạn có thể 
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), huyền thoại (cần hòa hợp; chỉ Thánh kỵ sĩ)*
 
-Bạn được +3 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Khi bạn tấn công trúng một Ác quỷ hoặc một Xác sống bằng nó, sinh vật đó chịu thêm 2d10 sát thương quang.
+Bạn nhận điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Khi bạn tấn công trúng một Ác quỷ hoặc một Xác sống bằng nó, sinh vật đó chịu thêm 2d10 sát thương quang.
 
-Trong khi bạn cầm vũ khí đã rút, nó tạo ra một vùng tỏa 3 m (10 feet) bắt nguồn từ bạn. Bạn và tất cả sinh vật Thân thiện với bạn trong vùng tỏa có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng ma thuật khác. Nếu bạn có 17 level trở lên trong class Thánh kỵ sĩ, kích thước của vùng tỏa tăng lên 9 m (30 feet).
+Trong khi bạn cầm vũ khí đã rút, nó tạo ra một vùng tỏa 3 m (10 feet) bắt nguồn từ bạn. Bạn và tất cả sinh vật Thân thiện với bạn trong vùng tỏa có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng ma thuật khác. Nếu bạn có từ 17 cấp Thánh kỵ sĩ trở lên, kích thước của vùng tỏa tăng lên 9 m (30 feet).
 
 ### Tù và phá hủy (Horn of Blasting)
 
@@ -1331,10 +1333,10 @@ Nếu bạn thổi tù và mà không đáp ứng điều kiện của nó, các
 
 | 1d100 | Loại tù và | Số linh hồn | Điều kiện |
 |---|---|---|---|
-| 01–40 | Silver | 2 | Không có |
-| 41–75 | Brass | 3 | Proficiency với tất cả đơn giản vũ khí |
-| 76–90 | Bronze | 4 | huấn luyện với tất cả cỡ Trung bình giáp |
-| 91–00 | Iron | 5 | Proficiency với tất cả võ thuật vũ khí |
+| 01–40 | Bạc | 2 | Không có |
+| 41–75 | Đồng thau | 3 | Thành thạo mọi vũ khí đơn giản |
+| 76–90 | Đồng thiếc | 4 | Được huấn luyện với mọi loại giáp vừa |
+| 91–00 | Sắt | 5 | Thành thạo mọi vũ khí võ thuật |
 
 ### Móng ngựa gió thoảng (Horseshoes of a Zephyr)
 
@@ -1362,13 +1364,13 @@ Cây trượng sắt này có một nút bấm ở một đầu. Bạn có thể
 
 *Vật phẩm kỳ diệu, hiếm (cần hòa hợp)*
 
-Như một hành động Ma thuật, bạn có thể đặt bức tượng nhỏ adamantine 1-inch này xuống đất và, dùng một khẩu lệnh, khiến nó nhanh chóng phát triển thành một tòa tháp adamantine vuông. Lặp lại khẩu lệnh khiến tòa tháp trở về dạng tượng nhỏ, điều này chỉ hoạt động nếu tòa tháp trống rỗng. Mỗi sinh vật trong khu vực nơi tòa tháp xuất hiện bị đẩy đến một không gian trống bên ngoài nhưng liền kề tòa tháp. Các đồ vật trong khu vực không đang được mặc hoặc mang theo cũng bị đẩy ra khỏi tòa tháp.
+Như một hành động Ma thuật, bạn có thể đặt bức tượng nhỏ bằng adamantine cao 2,5 cm (1 inch) này xuống đất và dùng một khẩu lệnh để khiến nó nhanh chóng phát triển thành một tòa tháp adamantine hình vuông. Lặp lại khẩu lệnh khiến tòa tháp trở về dạng tượng nhỏ; điều này chỉ hoạt động nếu tòa tháp trống rỗng. Mỗi sinh vật trong khu vực nơi tòa tháp xuất hiện bị đẩy đến một không gian trống bên ngoài nhưng liền kề tòa tháp. Các đồ vật trong khu vực không được mặc hoặc mang theo cũng bị đẩy ra khỏi tòa tháp.
 
 Tòa tháp rộng 6 m (20 feet) mỗi cạnh và cao 9 m (30 feet), có các khe bắn tên ở tất cả các mặt và một lan can trên đỉnh. Phần bên trong của nó được chia thành hai tầng, với một cái thang, cầu thang, hoặc đường dốc (tùy bạn chọn) nối chúng. Cái thang, cầu thang, hoặc đường dốc này kết thúc tại một cửa sập dẫn lên mái. Khi được tạo ra, tòa tháp có một cửa duy nhất ở tầng trệt trên mặt hướng về phía bạn. Cửa chỉ mở theo lệnh của bạn, mà bạn có thể ra lệnh như một hành động phụ. Nó miễn nhiễm với phép *Gõ mở* (Knock) và ma thuật tương tự.
 
 Phép thuật ngăn tòa tháp bị lật đổ. Mái, cửa, và các bức tường mỗi cái có AC 20; HP 100; miễn nhiễm với đập, xuyên, và sát thương chém trừ loại được gây bởi thiết bị công thành; và kháng với tất cả các loại sát thương khác.
 
-Thu nhỏ tòa tháp trở lại dạng tượng nhỏ không sửa chữa sát thương cho tòa tháp. Chỉ một phép *Ước nguyện* (Wish) mới có thể sửa chữa tòa tháp này (cách dùng phép này được tính là sao chép một phép cấp độ 8 trở xuống). Mỗi lần thi triển *Ước nguyện* (Wish) khiến tòa tháp phục hồi toàn bộ điểm sinh lực của nó.
+Thu nhỏ tòa tháp trở lại dạng tượng nhỏ không sửa chữa sát thương cho tòa tháp. Chỉ một phép *Ước nguyện* (Wish) mới có thể sửa chữa tòa tháp này (cách dùng phép này được tính là sao chép một phép bậc 8 trở xuống). Mỗi lần thi triển *Ước nguyện* (Wish) khiến tòa tháp phục hồi toàn bộ điểm sinh lực của nó.
 
 ### Đá Ioun (Ioun Stone)
 
@@ -1376,7 +1378,7 @@ Thu nhỏ tòa tháp trở lại dạng tượng nhỏ không sửa chữa sát 
 
 Có kích thước khoảng bằng viên bi, *Đá Ioun* được đặt tên theo Ioun, một vị thần của tri thức và tiên tri được tôn thờ ở một số thế giới. Nhiều loại *Đá Ioun* tồn tại, mỗi loại có một sự kết hợp riêng biệt về hình dạng và màu sắc.
 
-Khi bạn dùng một hành động Ma thuật để tung một *Đá Ioun* lên không trung, viên đá xoay quanh đầu bạn ở khoảng cách 1d0,9 m (3 feet), ban cho bạn lợi ích của nó trong khi làm vậy. Bạn có thể có tối đa ba *Đá Ioun* xoay quanh đầu bạn cùng lúc.
+Khi bạn dùng một hành động Ma thuật để tung một *Đá Ioun* lên không trung, viên đá xoay quanh đầu bạn ở khoảng cách bằng 30 cm nhân kết quả 1d3 (1d3 feet), ban cho bạn lợi ích của nó trong khi làm vậy. Bạn có thể có tối đa ba *Đá Ioun* xoay quanh đầu bạn cùng lúc.
 
 Mỗi *Đá Ioun* xoay quanh đầu bạn được coi là một đồ vật bạn đang mặc. Viên đá xoay quanh tránh tiếp xúc với các sinh vật và đồ vật khác, điều chỉnh quỹ đạo của nó để tránh va chạm và ngăn chặn mọi nỗ lực của các sinh vật khác nhằm tấn công hoặc giật lấy nó.
 
@@ -1384,25 +1386,25 @@ Như một hành động Sử dụng, bạn có thể nắm lấy và cất bấ
 
 Loại đá quyết định độ hiếm và hiệu ứng của nó.
 
-- *Hấp thụ (Absorption; Rất hiếm).* Trong khi hình bầu dục màu tím nhạt này xoay quanh đầu bạn, bạn có thể dùng một phản ứng để hủy một phép cấp độ 4 trở xuống được thi triển bởi một sinh vật bạn có thể thấy. Một phép bị hủy không có hiệu lực, và bất kỳ tài nguyên nào dùng để thi triển nó đều bị lãng phí. Một khi viên đá đã hủy tổng cộng 20 cấp độ phép, nó cháy hết, chuyển sang màu xám mờ, và mất ma thuật của nó.
+- *Hấp thụ (Absorption; Rất hiếm).* Trong khi hình bầu dục màu tím nhạt này xoay quanh đầu bạn, bạn có thể dùng một phản ứng để hủy một phép bậc 4 trở xuống được thi triển bởi một sinh vật bạn có thể thấy. Một phép bị hủy không có hiệu lực, và bất kỳ tài nguyên nào dùng để thi triển nó đều bị lãng phí. Một khi viên đá đã hủy tổng cộng 20 bậc phép, nó cháy hết, chuyển sang màu xám mờ, và mất ma thuật của nó.
 - *Nhanh nhẹn (Agility; Rất hiếm).* Khéo léo của bạn tăng thêm 2, tối đa 20, trong khi quả cầu màu đỏ đậm này xoay quanh đầu bạn.
-- *Kiên cường (Fortitude; Rất hiếm).* Trong khi hình thoi màu xanh đậm này xoay quanh đầu bạn, bạn có lợi thế trên lần tung Sáng kiến và phép kiểm tra Minh triết (Tri giác).
-- *Hấp thụ cao cấp (Greater Absorption; Huyền thoại).* Trong khi hình bầu dục vân đá màu tím nhạt và xanh lá này xoay quanh đầu bạn, bạn có thể dùng một phản ứng để hủy một phép cấp độ 8 trở xuống được thi triển bởi một sinh vật bạn có thể thấy. Một phép bị hủy không có hiệu lực, và bất kỳ tài nguyên nào dùng để thi triển nó đều bị lãng phí. Một khi viên đá đã hủy tổng cộng 20 cấp độ phép, nó cháy hết, chuyển sang màu xám mờ, và mất ma thuật của nó.
-- *Vĩ đại (Greatness; Huyền thoại).* Thể chất của bạn tăng thêm 2, tối đa 20, trong khi hình thoi màu hồng này xoay quanh đầu bạn.
+- *Nhận biết (Awareness; Hiếm).* Trong khi hình thoi màu xanh lam đậm này xoay quanh đầu bạn, bạn có lợi thế trên lần tung Sáng kiến và phép kiểm tra Minh triết (Tri giác).
+- *Kiên cường (Fortitude; Rất hiếm).* Thể chất của bạn tăng thêm 2, tối đa 20, trong khi hình thoi màu hồng này xoay quanh đầu bạn.
+- *Hấp thụ cao cấp (Greater Absorption; Huyền thoại).* Trong khi hình bầu dục vân đá màu tím nhạt và xanh lá này xoay quanh đầu bạn, bạn có thể dùng một phản ứng để hủy một phép bậc 8 trở xuống được thi triển bởi một sinh vật bạn có thể thấy. Một phép bị hủy không có hiệu lực, và bất kỳ tài nguyên nào dùng để thi triển nó đều bị lãng phí. Một khi viên đá đã hủy tổng cộng 20 bậc phép, nó cháy hết, chuyển sang màu xám mờ, và mất ma thuật của nó.
 - *Thấu hiểu (Insight; Rất hiếm).* Minh triết của bạn tăng thêm 2, tối đa 20, trong khi quả cầu xanh lam rực rỡ này xoay quanh đầu bạn.
 - *Trí tuệ (Intellect; Rất hiếm).* Trí tuệ của bạn tăng thêm 2, tối đa 20, trong khi quả cầu vân đá đỏ tươi và xanh lam này xoay quanh đầu bạn.
 - *Lãnh đạo (Leadership; Rất hiếm).* Sức hút của bạn tăng thêm 2, tối đa 20, trong khi quả cầu vân đá hồng và xanh lá này xoay quanh đầu bạn.
-- *Tinh thông (Mastery; Huyền thoại).* thưởng thành thạo của bạn tăng thêm 1 trong khi lăng kính màu xanh lá nhạt này xoay quanh đầu bạn.
-- *Bảo hộ (Protection; Rare).* Bạn được +1 Chỉ số giáp trong khi lăng kính màu hồng phấn bụi này xoay quanh đầu bạn.
+- *Tinh thông (Mastery; Huyền thoại).* Thưởng thành thạo của bạn tăng thêm 1 trong khi lăng kính màu xanh lá nhạt này xoay quanh đầu bạn.
+- *Bảo hộ (Protection; Hiếm).* Bạn nhận điểm cộng +1 vào Chỉ số giáp trong khi lăng kính màu hồng phấn bụi này xoay quanh đầu bạn.
 - *Tái sinh (Regeneration; Huyền thoại).* Bạn phục hồi 15 điểm sinh lực vào cuối mỗi giờ viên đá trắng như ngọc trai này xoay quanh đầu bạn nếu bạn có ít nhất 1 điểm sinh lực.
-- *Dự trữ (Reserve; Rare).* Lăng kính màu tím rực rỡ này lưu trữ các phép được thi triển vào nó, giữ chúng cho đến khi bạn dùng chúng. Viên đá có thể lưu trữ tối đa 4 cấp độ phép cùng lúc. Khi được tìm thấy, nó chứa 1d4 cấp độ phép được lưu trữ do Quản trò chọn.
+- *Dự trữ (Reserve; Hiếm).* Lăng kính màu tím rực rỡ này lưu trữ các phép được thi triển vào nó, giữ chúng cho đến khi bạn dùng chúng. Viên đá có thể lưu trữ tối đa 4 bậc phép cùng lúc. Khi được tìm thấy, nó chứa 1d4 bậc phép được lưu trữ do Quản trò chọn.
 
-Bất kỳ sinh vật nào cũng có thể thi triển một phép cấp độ 1 đến 4 vào viên đá bằng cách chạm vào nó khi phép được thi triển. Phép không có hiệu ứng gì khác ngoài việc được lưu trữ trong viên đá. Nếu viên đá không thể chứa phép, phép bị dùng hết mà không có hiệu ứng. Bậc của ô phép dùng để thi triển phép xác định phép đó chiếm bao nhiêu không gian.
+Bất kỳ sinh vật nào cũng có thể thi triển một phép bậc 1 đến 4 vào viên đá bằng cách chạm vào nó khi phép được thi triển. Phép không có hiệu ứng gì khác ngoài việc được lưu trữ trong viên đá. Nếu viên đá không thể chứa phép, phép bị dùng hết mà không có hiệu ứng. Bậc của ô phép dùng để thi triển phép xác định phép đó chiếm bao nhiêu không gian.
 
-Trong khi viên đá này xoay quanh đầu bạn, bạn có thể thi triển bất kỳ phép nào được lưu trữ trong nó. Phép dùng bậc ô phép, DC cứu nguy phép, thưởng tấn công bằng phép, và thuộc tính thi triển phép của người thi triển ban đầu nhưng nếu không thì được coi như thể bạn thi triển phép. Phép được thi triển từ viên đá không còn được lưu trữ trong đó nữa, giải phóng không gian.
+Trong khi viên đá này xoay quanh đầu bạn, bạn có thể thi triển bất kỳ phép nào được lưu trữ trong nó. Phép dùng bậc ô phép, DC cứu nguy phép, điểm cộng tấn công phép và thuộc tính thi triển phép của người thi triển ban đầu, nhưng về các phương diện khác được coi như do bạn thi triển. Phép được thi triển từ viên đá không còn được lưu trữ trong đó nữa, giải phóng không gian.
 
 - *Sức mạnh (Strength; Rất hiếm).* Sức mạnh của bạn tăng thêm 2, tối đa 20, trong khi hình thoi màu xanh lam nhạt này xoay quanh đầu bạn.
-- *Nuôi dưỡng (Sustenance; Rare).* Bạn không cần ăn hoặc uống trong khi hình con thoi trong suốt này xoay quanh đầu bạn.
+- *Nuôi dưỡng (Sustenance; Hiếm).* Bạn không cần ăn hoặc uống trong khi hình con thoi trong suốt này xoay quanh đầu bạn.
 
 ### Đai sắt (Iron Bands)
 
@@ -1410,7 +1412,7 @@ Trong khi viên đá này xoay quanh đầu bạn, bạn có thể thi triển b
 
 Quả cầu sắt gỉ này có đường kính 7,5 cm (3 inch) và nặng 0,45 kg (1 lb.). Bạn có thể dùng một hành động Ma thuật để ném quả cầu vào một sinh vật cỡ Khổng lồ trở xuống bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Khi quả cầu di chuyển trong không khí, nó mở ra thành một mớ dải kim loại rối rắm.
 
-Thực hiện một lần tung tấn công tầm xa với đòn tấn công điểm cộng bằng hệ số Khéo léo của bạn cộng thưởng thành thạo của bạn. Khi trúng, mục tiêu ở trạng thái Kiềm giữ cho đến khi bạn dùng một hành động phụ để ra lệnh giải phóng nó. Làm vậy hoặc trượt trong cuộc tấn công khiến các dải co lại và trở lại thành một quả cầu.
+Thực hiện một lần tung tấn công tầm xa với điểm cộng tấn công bằng hệ số Khéo léo cộng Thưởng thành thạo của bạn. Khi trúng, mục tiêu ở trạng thái Kiềm giữ cho đến khi bạn dùng một hành động phụ để ra lệnh giải phóng nó. Làm vậy hoặc trượt trong cuộc tấn công khiến các dải co lại và trở lại thành một quả cầu.
 
 Một sinh vật có thể chạm vào các dải, kể cả sinh vật bị Kiềm giữ, có thể dùng một hành động để thực hiện một phép kiểm tra Sức mạnh (Điền kinh) DC 20 để phá vỡ các dải sắt. Khi phép kiểm tra thành công, vật phẩm bị phá hủy, và sinh vật bị Kiềm giữ được giải thoát. Khi phép kiểm tra thất bại, bất kỳ nỗ lực tiếp theo nào của sinh vật đó tự động thất bại cho đến khi 24 giờ đã trôi qua.
 
@@ -1438,13 +1440,13 @@ Mỗi lần bạn thực hiện một lần tung tấn công bằng vũ khí ma 
 
 *Vật phẩm kỳ diệu, ít gặp*
 
-Trong khi thắp sáng, chiếc đèn lồng có chụp này cháy trong 6 giờ với 1 pint dầu, tỏa ánh sáng rõ trong bán kính 9 m (30 feet) và ánh sáng yếu thêm 9 m (30 feet) nữa. Các sinh vật và đồ vật Vô hình có thể thấy được miễn là chúng ở trong ánh sáng rõ của đèn lồng. Bạn có thể dùng một hành động Sử dụng để hạ chụp đèn xuống, giảm ánh sáng của đèn lồng xuống ánh sáng yếu trong bán kính 1,5 m (5 feet).
+Trong khi thắp sáng, chiếc đèn lồng có chụp này cháy trong 6 giờ với khoảng 0,47 lít (1 pint) dầu, tỏa ánh sáng rõ trong bán kính 9 m (30 feet) và ánh sáng yếu thêm 9 m (30 feet) nữa. Các sinh vật và đồ vật Vô hình có thể được nhìn thấy miễn là chúng ở trong ánh sáng rõ của đèn lồng. Bạn có thể dùng một hành động Sử dụng để hạ chụp đèn xuống, giảm ánh sáng của đèn lồng thành ánh sáng yếu trong bán kính 1,5 m (5 feet).
 
 ### Kiếm may mắn (Luck Blade)
 
 *Vũ khí (Đại đao, Kiếm lớn, Kiếm dài, Kiếm rapier, Đao cong, Liềm, hoặc Kiếm ngắn), huyền thoại (cần hòa hợp)*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Trong khi vũ khí ở trên người bạn, bạn cũng được +1 lần cứu nguy.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Trong khi mang vũ khí trên người, bạn cũng nhận điểm cộng +1 vào các lần cứu nguy.
 
 - *May mắn (Luck).* Nếu vũ khí ở trên người bạn, bạn có thể gọi vận may của nó (không cần hành động) để tung lại một phép thử d20 thất bại nếu bạn không ở trạng thái Mất năng lực hành động. Bạn phải dùng kết quả lần tung thứ hai. Một khi được dùng, thuộc tính này không thể dùng lại cho đến bình minh tiếp theo.
 - *Điều ước (Wish).* Vũ khí có 1d3 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn 1 lượt tích năng và thi triển phép *Ước nguyện* (Wish) từ nó. Một khi được dùng, thuộc tính này không thể dùng lại cho đến bình minh tiếp theo. Vũ khí mất thuộc tính này nếu nó không còn lượt tích năng nào.
@@ -1461,7 +1463,7 @@ Khi bạn tấn công trúng một Ác quỷ hoặc một Xác sống bằng vũ
 
 *Vũ khí (Chùy đầu kim loại), hiếm*
 
-Bạn được +1 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Điểm cộng tăng lên +3 khi bạn dùng vũ khí để tấn công một Cấu thể.
+Bạn nhận điểm cộng +1 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Điểm cộng tăng lên +3 khi bạn dùng vũ khí để tấn công một Cấu thể.
 
 Khi bạn tung ra 20 trên một lần tung tấn công thực hiện bằng vũ khí này, mục tiêu chịu thêm 7 sát thương đập, hoặc 14 sát thương đập nếu nó là một Cấu thể. Nếu một Cấu thể còn 25 điểm sinh lực trở xuống sau khi chịu sát thương này, nó bị phá hủy.
 
@@ -1469,7 +1471,7 @@ Khi bạn tung ra 20 trên một lần tung tấn công thực hiện bằng vũ
 
 *Vũ khí (Chùy đầu kim loại), hiếm (cần hòa hợp)*
 
-Magic vũ khí này có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi cầm vũ khí, bạn có thể dùng một hành động Ma thuật và tiêu tốn 1 lượt tích năng để phát ra một làn sóng khủng bố từ nó. Mỗi sinh vật theo lựa chọn của bạn trong vòng 9 m (30 feet) của bạn phải thành công trong một cứu nguy Minh triết DC 15 hoặc ở trạng thái Hoảng sợ trong 1 phút. Trong khi Hoảng sợ theo cách này, một sinh vật phải dùng các lượt của nó để cố di chuyển càng xa bạn càng tốt, và nó không thể thực hiện tấn công cơ hội. Với hành động của nó, nó chỉ có thể dùng hành động Chạy nước rút hoặc cố thoát khỏi một hiệu ứng ngăn nó di chuyển. Nếu nó không có nơi nào để di chuyển, sinh vật có thể thực hiện hành động Né tránh. Vào cuối mỗi lượt của nó, một sinh vật lặp lại lần cứu nguy, kết thúc hiệu ứng trên bản thân khi thành công.
+Vũ khí ma thuật này có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi cầm vũ khí, bạn có thể dùng một hành động Ma thuật và tiêu tốn 1 lượt tích năng để phát ra một làn sóng khủng bố từ nó. Mỗi sinh vật theo lựa chọn của bạn trong phạm vi 9 m (30 feet) phải thành công trong một cứu nguy Minh triết DC 15 hoặc ở trạng thái Hoảng sợ trong 1 phút. Trong khi Hoảng sợ theo cách này, một sinh vật phải dùng các lượt của nó để cố di chuyển càng xa bạn càng tốt, và nó không thể thực hiện tấn công cơ hội. Với hành động của nó, nó chỉ có thể dùng hành động Chạy nước rút hoặc cố thoát khỏi một hiệu ứng ngăn nó di chuyển. Nếu nó không có nơi nào để di chuyển, sinh vật có thể thực hiện hành động Né tránh. Vào cuối mỗi lượt của nó, một sinh vật lặp lại lần cứu nguy, kết thúc hiệu ứng trên bản thân khi thành công.
 
 ### Áo choàng kháng phép (Mantle of Spell Resistance)
 
@@ -1493,7 +1495,7 @@ Cuốn sách này mô tả các bài tập thể dục, và chữ viết của n
 
 *Vật phẩm kỳ diệu, rất hiếm*
 
-Cuốn sách này chứa thông tin và các câu thần chú cần thiết để tạo ra một loại golem cụ thể. Quản trò chọn loại hoặc xác định nó ngẫu nhiên bằng cách tung trên bảng đi kèm. Để giải mã và dùng cuốn sách, bạn phải là một spellcaster có ít nhất hai ô phép cấp độ 5. Một sinh vật không thể dùng *Sách chế tạo golem* và cố đọc nó chịu 6d6 sát thương tâm linh.
+Cuốn sách này chứa thông tin và các câu thần chú cần thiết để tạo ra một loại golem cụ thể. Quản trò chọn loại hoặc xác định nó ngẫu nhiên bằng cách tung trên bảng đi kèm. Để giải mã và dùng cuốn sách, bạn phải là một người thi triển phép có ít nhất hai ô phép bậc 5. Một sinh vật không thể dùng *Sách chế tạo golem* và cố đọc nó chịu 6d6 sát thương tâm linh.
 
 Để tạo một golem, bạn phải dành thời gian được ghi trong bảng, làm việc không gián đoạn với cuốn sách trong tay và nghỉ ngơi không quá 8 giờ mỗi ngày. Bạn cũng phải trả chi phí quy định để mua vật liệu.
 
@@ -1501,10 +1503,10 @@ Một khi bạn hoàn thành việc tạo golem, cuốn sách bị thiêu rụi 
 
 | 1d20 | Golem | Thời gian | Chi phí |
 |---|---|---|---|
-| 1–5 | *Golem đất sét* (Clay Golem) | 30 ngày | 65.000 GP |
-| 6–17 | *Golem thịt* (Flesh Golem) | 60 ngày | 50.000 GP |
-| 18 | *Golem sắt* (Iron Golem) | 120 ngày | 100.000 GP |
-| 19–20 | *Golem đá* (Stone Golem) | 90 ngày | 80.000 GP |
+| 1–5 | *Golem đất sét* (Clay Golem) | 30 ngày | 65.000 gp |
+| 6–17 | *Golem thịt* (Flesh Golem) | 60 ngày | 50.000 gp |
+| 18 | *Golem sắt* (Iron Golem) | 120 ngày | 100.000 gp |
+| 19–20 | *Golem đá* (Stone Golem) | 90 ngày | 80.000 gp |
 
 ### Sách thân thủ nhanh nhẹn (Manual of Quickness of Action)
 
@@ -1522,7 +1524,7 @@ Dùng cây cọ và tiêu tốn 1 lọ sắc tố, bạn có thể vẽ bất k�
 
 Khi công việc hoàn thành, tất cả các đồ vật và đặc điểm địa hình đã vẽ trở thành thật. Vì vậy, vẽ một cánh cửa trên tường tạo ra một cánh cửa thật, có thể mở ra bất cứ thứ gì phía sau nó. Vẽ một cái hố tạo ra một cái hố thật, toàn bộ độ sâu của nó phải nằm trong khối lập phương 6 m (20 feet).
 
-Không đồ vật nào được tạo ra bởi một lọ sắc tố có thể có giá trị lớn hơn 25 GP, và tổng giá trị của tất cả các đồ vật được tạo ra bởi một lọ sắc tố không thể vượt quá 500 GP. Nếu bạn vẽ các đồ vật có giá trị lớn hơn (chẳng hạn một đống vàng lớn), chúng trông có vẻ chân thực, nhưng kiểm tra kỹ sẽ cho thấy chúng được làm từ bột nhão, bánh quy, hoặc vật liệu vô giá trị khác.
+Không đồ vật nào được tạo ra bởi một lọ sắc tố có thể có giá trị lớn hơn 25 gp, và tổng giá trị của tất cả các đồ vật được tạo ra bởi một lọ sắc tố không thể vượt quá 500 gp. Nếu bạn vẽ các đồ vật có giá trị lớn hơn (chẳng hạn một đống vàng lớn), chúng trông có vẻ chân thực, nhưng kiểm tra kỹ sẽ cho thấy chúng được làm từ bột nhão, bánh quy, hoặc vật liệu vô giá trị khác.
 
 Nếu bạn vẽ một dạng năng lượng chẳng hạn lửa hoặc sét, năng lượng tan biến ngay khi bạn hoàn thành bức vẽ, không gây hại gì.
 
@@ -1547,7 +1549,7 @@ Nếu gương nhốt một sinh vật nhưng mười hai ngăn ngoại chiều c
 
 Trong khi trong vòng 1,5 m (5 feet) của gương, bạn có thể dùng một hành động Ma thuật để gọi tên một sinh vật bị nhốt trong nó hoặc gọi một ngăn cụ thể theo số. Sinh vật được gọi tên hoặc bị nhốt trong ngăn được gọi tên xuất hiện như một hình ảnh trên bề mặt gương. Bạn và sinh vật đó sau đó có thể giao tiếp.
 
-Tương tự, bạn có thể dùng một hành động Ma thuật và dùng khẩu lệnh thứ hai để giải thoát một sinh vật bị nhốt trong gương. Sinh vật được giải thoát xuất hiện, cùng với tài sản của nó, trong không gian trống gần gương nhất.
+Tương tự, bạn có thể dùng một hành động Ma thuật và dùng khẩu lệnh thứ hai để giải thoát một sinh vật bị nhốt trong gương. Sinh vật được giải thoát xuất hiện cùng với tài sản của nó trong không gian trống gần gương nhất và quay lưng lại với gương.
 
 Đặt gương vào bên trong một không gian ngoại chiều được tạo ra bởi một *Túi chứa đồ* (Bag of Holding), *Hố di động* (Portable Hole), hoặc vật phẩm tương tự khác ngay lập tức phá hủy cả hai vật phẩm và mở một cánh cổng đến Cõi Astral. Cánh cổng xuất hiện tại nơi một vật phẩm được đặt vào vật phẩm kia. Bất kỳ sinh vật nào trong vòng 3 m (10 feet) của cánh cổng và không đứng sau che chắn toàn phần bị hút qua nó đến một địa điểm ngẫu nhiên trên Cõi Astral. Cánh cổng sau đó đóng lại. Cánh cổng chỉ một chiều và không thể mở lại.
 
@@ -1565,76 +1567,76 @@ Thường được tìm thấy trong một hộp hoặc túi, bộ bài này ch�
 
 Trước khi bạn rút một lá bài, bạn phải tuyên bố bạn định rút bao nhiêu lá rồi rút chúng ngẫu nhiên. Bất kỳ lá bài nào được rút vượt quá số lượng này không có hiệu ứng. Nếu không, ngay khi bạn rút một lá từ bộ bài, ma thuật của nó có hiệu lực. Bạn phải rút mỗi lá bài không quá 1 giờ sau lần rút trước đó. Nếu bạn không rút đủ số lượng đã chọn, số lá bài còn lại tự bay ra khỏi bộ bài và có hiệu lực cùng một lúc.
 
-Một khi một lá bài được rút, nó biến mất. Trừ khi lá bài là Fool hoặc Jester, lá bài xuất hiện lại trong bộ bài, khiến việc rút cùng một lá bài hai lần trở nên khả thi. (Một khi Fool hoặc Jester đã rời khỏi bộ bài, hãy tung lại trên bảng nếu lá bài đó xuất hiện lần nữa.)
+Một khi một lá bài được rút, nó biến mất. Trừ khi lá bài là Kẻ ngốc (Fool) hoặc Gã hề (Jester), lá bài xuất hiện lại trong bộ bài, khiến việc rút cùng một lá bài hai lần trở nên khả thi. (Một khi Kẻ ngốc hoặc Gã hề đã rời khỏi bộ bài, hãy tung lại trên bảng nếu lá bài đó xuất hiện lần nữa.)
 
 **Bộ bài bí ẩn**
 
 | 1d100 (bộ 13 lá) | 1d100 (bộ 22 lá) | Lá bài |
 |---|---|---|
-| — | 01–05 | Balance |
-| — | 06–10 | Comet |
-| — | 11–14 | Donjon |
+| — | 01–05 | Cân bằng (Balance) |
+| — | 06–10 | Sao chổi (Comet) |
+| — | 11–14 | Ngục tối (Donjon) |
 | 01–08 | 15–18 | Euryale |
-| — | 19–23 | Fates |
-| 09–16 | 24–27 | Flames |
-| — | 28–31 | Fool |
-| — | 32–36 | Gem |
-| 17–24 | 37–41 | Jester |
-| 25–32 | 42–46 | Key |
+| — | 19–23 | Định mệnh (Fates) |
+| 09–16 | 24–27 | Ngọn lửa (Flames) |
+| — | 28–31 | Kẻ ngốc (Fool) |
+| — | 32–36 | Ngọc (Gem) |
+| 17–24 | 37–41 | Gã hề (Jester) |
+| 25–32 | 42–46 | Chìa khóa (Key) |
 | 33–40 | 47–51 | *Hiệp sĩ* (Knight) |
-| 41–48 | 52–56 | Moon |
-| — | 57–60 | Puzzle |
-| 49–56 | 61–64 | Đạo tặc |
-| 57–64 | 65–68 | Ruin |
-| — | 69–73 | Sage |
-| 65–72 | 74–77 | Skull |
-| 73–80 | 78–82 | Star |
-| 81–88 | 83–87 | Sun |
-| — | 88–91 | Talons |
-| 89–96 | 92–96 | Throne |
-| 97–00 | 97–00 | Void |
+| 41–48 | 52–56 | Mặt trăng (Moon) |
+| — | 57–60 | Câu đố (Puzzle) |
+| 49–56 | 61–64 | Kẻ gian (Rogue) |
+| 57–64 | 65–68 | Tàn lụi (Ruin) |
+| — | 69–73 | Hiền triết (Sage) |
+| 65–72 | 74–77 | Đầu lâu (Skull) |
+| 73–80 | 78–82 | Ngôi sao (Star) |
+| 81–88 | 83–87 | Mặt trời (Sun) |
+| — | 88–91 | Móng vuốt (Talons) |
+| 89–96 | 92–96 | Ngai vàng (Throne) |
+| 97–00 | 97–00 | Hư không (Void) |
 
 Hiệu ứng của mỗi lá bài được mô tả dưới đây.
 
-- *Cân bằng (Balance).* Bạn có thể tăng một trong các điểm thuộc tính của bạn thêm 2, tối đa 22, miễn là bạn cũng giảm một điểm thuộc tính khác của bạn đi 2. Bạn không thể giảm một ability có điểm 5 trở xuống. Ngoài ra, bạn có thể chọn không điều chỉnh điểm thuộc tính của mình, trong trường hợp đó lá bài này không có hiệu ứng.
+- *Cân bằng (Balance).* Bạn có thể tăng một trong các điểm thuộc tính của bạn thêm 2, tối đa 22, miễn là bạn cũng giảm một điểm thuộc tính khác của bạn đi 2. Bạn không thể giảm một thuộc tính có điểm 5 trở xuống. Ngoài ra, bạn có thể chọn không điều chỉnh điểm thuộc tính của mình, trong trường hợp đó lá bài này không có hiệu ứng.
 - *Sao chổi (Comet).* Lần tiếp theo bạn tham gia chiến đấu chống lại một hoặc nhiều sinh vật Thù địch, bạn có thể chọn một trong số chúng làm kẻ địch của mình khi bạn tung Sáng kiến. Nếu bạn giảm kẻ địch của mình xuống 0 điểm sinh lực trong chiến đấu đó, bạn có lợi thế trên cứu nguy tử vong trong 1 năm. Nếu người khác giảm kẻ địch bạn đã chọn xuống 0 điểm sinh lực hoặc bạn không chọn kẻ địch, lá bài này không có hiệu ứng.
 - *Ngục tối (Donjon).* Bạn biến mất và bị chôn cất trong trạng thái ngủ đông trong một quả cầu ngoại chiều. Mọi thứ bạn đang mặc và mang theo biến mất cùng bạn ngoại trừ Cổ vật, ở lại trong không gian bạn đã chiếm khi bạn biến mất. Bạn vẫn bị giam cầm cho đến khi bạn được tìm thấy và lấy ra khỏi quả cầu. Bạn không thể bị định vị bởi bất kỳ ma thuật Tiên tri nào, nhưng một phép *Ước nguyện* (Wish) có thể tiết lộ vị trí nhà tù của bạn. Bạn không rút thêm lá bài nào nữa.
-- *Euryale (Euryale).* Diện mạo giống medusa của lá bài nguyền rủa bạn. Bạn nhận điểm trừ −2 vào lần cứu nguy trong khi bị nguyền theo cách này. Chỉ một vị thần hoặc ma thuật của lá Fates mới có thể chấm dứt lời nguyền này.
+- *Euryale (Euryale).* Diện mạo giống nữ yêu tóc rắn của lá bài nguyền rủa bạn. Bạn nhận điểm trừ −2 vào lần cứu nguy trong khi bị nguyền theo cách này. Chỉ một vị thần hoặc ma thuật của lá Định mệnh mới có thể chấm dứt lời nguyền này.
 - *Định mệnh (Fates).* Kết cấu của thực tại tan rã và xoay chuyển lại, cho phép bạn tránh hoặc xóa bỏ một sự kiện như thể nó chưa từng xảy ra. Bạn có thể dùng ma thuật của lá bài ngay khi bạn rút lá bài hoặc vào bất kỳ thời điểm nào khác trước khi bạn chết.
 - *Ngọn lửa (Flames).* Một con quỷ mạnh mẽ trở thành kẻ địch của bạn. Con quỷ tìm cách hủy hoại bạn và hành hạ bạn, tận hưởng sự đau khổ của bạn trước khi cố giết bạn. Mối thù này kéo dài cho đến khi bạn hoặc con quỷ chết.
 - *Kẻ ngốc (Fool).* Bạn có bất lợi trên phép thử d20 trong 72 giờ tiếp theo. Rút một lá bài khác; lần rút này không tính là một trong các lần rút đã tuyên bố của bạn.
-- *Ngọc (Gem).* Hai mươi lăm món trang sức trị giá 2.000 GP mỗi món hoặc năm mươi viên đá quý trị giá 1.000 GP mỗi viên xuất hiện dưới chân bạn.
+- *Ngọc (Gem).* Hai mươi lăm món trang sức trị giá 2.000 gp mỗi món hoặc năm mươi viên đá quý trị giá 1.000 gp mỗi viên xuất hiện dưới chân bạn.
 - *Gã hề (Jester).* Bạn có lợi thế trên phép thử d20 trong 72 giờ tiếp theo, hoặc bạn có thể rút hai lá bài bổ sung ngoài số lần rút đã tuyên bố của bạn.
-- *Chìa khóa (Key).* Một vũ khí ma thuật Rare trở lên mà bạn có thành thạo xuất hiện trong tay bạn. Quản trò chọn vũ khí.
-- *Hiệp sĩ (Knight).* Bạn nhận được sự phục vụ của một *Hiệp sĩ* (Knight), xuất hiện một cách kỳ diệu trong một không gian trống bạn chọn trong vòng 9 m (30 feet) của bản thân. *Hiệp sĩ* (Knight) có cùng khuynh hướng đạo đức với bạn và phục vụ bạn trung thành cho đến chết, tin rằng cả hai bạn đã được số phận đưa đẩy đến với nhau. Hãy làm việc với Quản trò của bạn để tạo tên và bối cảnh cho NPC này. Quản trò có thể dùng một khối thông số khác để thể hiện knight, tùy ý.
+- *Chìa khóa (Key).* Một vũ khí ma thuật độ hiếm Hiếm trở lên mà bạn có thành thạo xuất hiện trong tay bạn. Quản trò chọn vũ khí.
+- *Hiệp sĩ (Knight).* Bạn nhận được sự phục vụ của một *Hiệp sĩ* (Knight), xuất hiện một cách kỳ diệu trong một không gian trống bạn chọn trong vòng 9 m (30 feet) của bản thân. *Hiệp sĩ* (Knight) có cùng khuynh hướng đạo đức với bạn và phục vụ bạn trung thành cho đến chết, tin rằng cả hai bạn đã được số phận đưa đẩy đến với nhau. Hãy làm việc với Quản trò của bạn để tạo tên và bối cảnh cho NPC này. Quản trò có thể dùng một khối thông số khác để thể hiện hiệp sĩ, tùy ý.
 - *Mặt trăng (Moon).* Bạn nhận khả năng thi triển *Ước nguyện* (Wish) 1d3 lần.
 - *Câu đố (Puzzle).* Giảm vĩnh viễn Trí tuệ hoặc Minh triết của bạn đi 1d4 + 1 (tối thiểu điểm 1). Bạn có thể rút một lá bài bổ sung ngoài số lần rút đã tuyên bố của bạn.
 - *Kẻ gian (Rogue).* Một NPC do Quản trò chọn trở nên Thù địch với bạn. Bạn không biết danh tính của NPC này cho đến khi họ hoặc ai đó khác tiết lộ nó. Không gì kém hơn một phép *Ước nguyện* (Wish) hoặc sự can thiệp thần thánh có thể chấm dứt sự thù địch của NPC đối với bạn.
 - *Tàn lụi (Ruin).* Tất cả các hình thức tài sản bạn mang theo hoặc sở hữu, ngoài vật phẩm ma thuật, mất đi. Tài sản di động biến mất. Doanh nghiệp, tòa nhà, và đất đai bạn sở hữu mất đi theo cách làm thay đổi thực tại ít nhất có thể. Bất kỳ tài liệu nào chứng minh bạn nên sở hữu thứ đã mất theo lá bài này cũng biến mất.
 - *Hiền triết (Sage).* Vào bất kỳ thời điểm nào bạn chọn trong vòng một năm sau khi rút lá bài này, bạn có thể đặt một câu hỏi trong lúc thiền định và nhận một câu trả lời trung thực cho câu hỏi đó.
-- *Đầu lâu (Skull).* Một Hiện thân of Death (xem khối thông số đi kèm) xuất hiện trong một không gian trống gần bạn nhất có thể. Hiện thân chỉ nhắm mục tiêu bạn với các cuộc tấn công của nó, xuất hiện như một bộ xương ma quái khoác áo choàng đen rách nát và cầm một lưỡi hái ma quái. Hiện thân biến mất khi nó giảm xuống 0 điểm sinh lực hoặc bạn chết. Nếu một đồng minh của bạn gây sát thương cho avatar, đồng minh đó triệu hồi một avatar khác. Hiện thân mới xuất hiện trong một không gian trống gần đồng minh đó nhất có thể và chỉ nhắm mục tiêu đồng minh đó với các cuộc tấn công của nó. Bạn và đồng minh của bạn mỗi người chỉ có thể triệu hồi một avatar do lần rút bài này. Một sinh vật bị avatar giết không thể được hồi sinh.
+- *Đầu lâu (Skull).* Một Hiện thân tử thần (xem khối thông số đi kèm) xuất hiện trong một không gian trống gần bạn nhất có thể. Hiện thân chỉ nhắm mục tiêu bạn với các cuộc tấn công của nó, xuất hiện như một bộ xương ma quái khoác áo choàng đen rách nát và cầm một lưỡi hái ma quái. Hiện thân biến mất khi nó giảm xuống 0 điểm sinh lực hoặc bạn chết. Nếu một đồng minh của bạn gây sát thương cho hiện thân, đồng minh đó triệu hồi một hiện thân khác. Hiện thân mới xuất hiện trong một không gian trống gần đồng minh đó nhất có thể và chỉ nhắm mục tiêu đồng minh đó với các cuộc tấn công của nó. Bạn và đồng minh của bạn mỗi người chỉ có thể triệu hồi một hiện thân do lần rút bài này. Một sinh vật bị hiện thân giết không thể được hồi sinh.
 - *Ngôi sao (Star).* Tăng một trong các điểm thuộc tính của bạn thêm 2, tối đa 24.
 - *Mặt trời (Sun).* Một vật phẩm ma thuật (do Quản trò chọn) xuất hiện trên người bạn. Ngoài ra, bạn nhận 10 điểm sinh lực tạm thời mỗi ngày vào bình minh cho đến khi bạn chết.
 - *Móng vuốt (Talons).* Mọi vật phẩm ma thuật bạn mặc hoặc mang theo bị phân rã. Cổ vật trong tài sản của bạn biến mất thay vào đó.
-- *Ngai vàng (Throne).* Bạn nhận thành thạo và Expertise theo lựa chọn của bạn trong History, Insight, Intimidation, hoặc Persuasion. Ngoài ra, bạn nhận quyền sở hữu hợp pháp một pháo đài nhỏ ở đâu đó trên thế giới. Tuy nhiên, pháo đài hiện là nơi ở của một hoặc nhiều quái vật, phải bị dọn sạch trước khi bạn có thể nhận pháo đài là của mình.
+- *Ngai vàng (Throne).* Bạn nhận thành thạo và Chuyên môn trong một kỹ năng bạn chọn trong số Lịch sử, Thấu hiểu, Đe dọa hoặc Thuyết phục. Ngoài ra, bạn nhận quyền sở hữu hợp pháp một pháo đài nhỏ ở đâu đó trên thế giới. Tuy nhiên, pháo đài hiện là nơi ở của một hoặc nhiều quái vật, phải bị dọn sạch trước khi bạn có thể nhận pháo đài là của mình.
 - *Hư không (Void).* Linh hồn của bạn bị rút ra khỏi cơ thể và chứa trong một đồ vật tại một địa điểm do Quản trò chọn. Một hoặc nhiều thực thể mạnh mẽ canh giữ địa điểm đó. Trong khi linh hồn của bạn bị nhốt theo cách này, cơ thể bạn bất động, ngừng già đi, và không cần thức ăn, không khí, hoặc nước. Một phép *Ước nguyện* (Wish) không thể đưa linh hồn của bạn trở lại cơ thể, nhưng phép tiết lộ vị trí của đồ vật chứa linh hồn của bạn. Bạn không rút thêm lá bài nào nữa.
 
 **Hiện thân tử thần (Avatar of Death)**
 *Xác sống cỡ Trung bình, trung lập ác*
 - **AC** 20 · **Sáng kiến** +3 (13)
-- **HP** bằng một nửa HP maximum của người triệu hồi nó
+- **HP** bằng một nửa HP tối đa của người triệu hồi nó
 - **Tốc độ** 18 m (60 ft.), Bay 18 m (60 ft.) (lơ lửng)
 - **STR** 16 (+3, cứu nguy +3) · **DEX** 16 (+3, cứu nguy +3) · **CON** 16 (+3, cứu nguy +3) · **INT** 16 (+3, cứu nguy +3) · **WIS** 16 (+3, cứu nguy +3) · **CHA** 16 (+3, cứu nguy +3)
 - **Miễn nhiễm:** hoại tử, độc; Mê hoặc, Kiệt sức, Hoảng sợ, Tê liệt, Hóa đá, Trúng độc, Bất tỉnh
 - **Giác quan:** chân thị 18 m (60 ft.), Tri giác thụ động 13
 - **Ngôn ngữ:** Tất cả ngôn ngữ người triệu hồi nó biết
-- **CR** None (XP 0; PB bằng PB của người triệu hồi nó)
+- **CR** Không có (XP 0; PB bằng PB của người triệu hồi nó)
 
 *Đặc điểm*
 - *Di chuyển phi vật chất (Incorporeal Movement).* Hiện thân có thể di chuyển qua các sinh vật và đồ vật khác như thể chúng là địa hình khó đi. Nó chịu 5 (1d10) sát thương lực nếu nó kết thúc lượt của nó bên trong một đồ vật.
 
 *Hành động*
-- *Đa đòn (Multiattack).* Hiện thân thực hiện một số đòn Reaping Scythe bằng một nửa thưởng thành thạo của người triệu hồi (làm tròn lên).
+- *Đa đòn (Multiattack).* Hiện thân thực hiện số đòn *Lưỡi hái gặt hồn* bằng một nửa Thưởng thành thạo của người triệu hồi (làm tròn lên).
 - *Lưỡi hái gặt hồn (Reaping Scythe).* Tung tấn công cận chiến: Tự động trúng, tầm với 1,5 m (5 ft.). Trúng: 7 (1d8 + 3) sát thương chém cộng 4 (1d8) sát thương hoại tử.
 
 ### Vòng cổ thích nghi (Necklace of Adaptation)
@@ -1655,24 +1657,24 @@ Bạn có thể ném nhiều hạt, hoặc thậm chí toàn bộ vòng cổ, c�
 
 *Vật phẩm kỳ diệu, hiếm (cần hòa hợp; chỉ Giáo sĩ, Druid hoặc Thánh kỵ sĩ)*
 
-Vòng cổ này có 1d4 + 2 hạt ma thuật làm từ aquamarine, ngọc trai đen, hoặc topaz. Nó cũng có nhiều hạt không có ma thuật làm từ các loại đá như hổ phách, bloodstone, citrine, san hô, ngọc bích, ngọc trai, hoặc thạch anh. Nếu một hạt ma thuật bị tháo khỏi vòng cổ, hạt đó mất ma thuật của nó.
+Vòng cổ này có 1d4 + 2 hạt ma thuật làm từ ngọc xanh biển (aquamarine), ngọc trai đen hoặc hoàng ngọc (topaz). Nó cũng có nhiều hạt không có ma thuật làm từ các loại đá như hổ phách, huyết thạch (bloodstone), thạch anh vàng (citrine), san hô, ngọc bích, ngọc trai hoặc thạch anh. Nếu một hạt ma thuật bị tháo khỏi vòng cổ, hạt đó mất ma thuật.
 
 Sáu loại hạt ma thuật tồn tại. Quản trò quyết định loại của mỗi hạt trên vòng cổ hoặc xác định nó ngẫu nhiên bằng cách tung trên bảng dưới đây. Một vòng cổ có thể có nhiều hơn một hạt cùng loại. Để dùng một hạt, bạn phải đang đeo vòng cổ. Mỗi hạt chứa một phép mà bạn có thể thi triển từ nó như một hành động phụ (dùng DC cứu nguy phép của bạn nếu cần một lần cứu nguy). Một khi phép của một hạt ma thuật được thi triển, hạt đó không thể dùng lại cho đến bình minh tiếp theo.
 
 | 1d20 | Hạt | Phép |
 |---|---|---|
-| 1–6 | Bead of Blessing | Bless |
-| 7–12 | Bead of Curing | *Chữa vết thương* (Cure Wounds) (phiên bản bậc 2) |
-| 13–16 | Bead of Favor | *Phục hồi cao cấp* (Greater Restoration) |
-| 17–18 | Bead of Smiting | *Trừng phạt rực sáng* (Shining Smite) |
-| 19 | Bead of Summons | *Hộ vệ đức tin* (Guardian of Faith) |
-| 20 | Bead of Wind Walking | *Đi trên gió* (Wind Walk) |
+| 1–6 | Hạt ban phước (Bead of Blessing) | *Ban phước* (Bless) |
+| 7–12 | Hạt chữa trị (Bead of Curing) | *Chữa vết thương* (Cure Wounds) (phiên bản bậc 2) |
+| 13–16 | Hạt ân huệ (Bead of Favor) | *Phục hồi cao cấp* (Greater Restoration) |
+| 17–18 | Hạt trừng phạt (Bead of Smiting) | *Trừng phạt rực sáng* (Shining Smite) |
+| 19 | Hạt triệu hồi (Bead of Summons) | *Hộ vệ đức tin* (Guardian of Faith) |
+| 20 | Hạt đi trên gió (Bead of Wind Walking) | *Đi trên gió* (Wind Walk) |
 
 ### Kiếm cướp chín mạng (Nine Lives Stealer)
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), rất hiếm (cần hòa hợp)*
 
-Bạn được +2 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 *Hút sinh mạng.* Vũ khí có 1d8 + 1 lượt tích năng. Khi bạn tấn công một sinh vật có ít hơn 100 điểm sinh lực bằng vũ khí này và tung ra 20 trên d20 cho lần tung tấn công, sinh vật phải thành công trong một cứu nguy Thể chất DC 15 hoặc bị giết ngay lập tức khi thanh kiếm xé toạc sinh lực khỏi cơ thể nó. Cấu thể và Xác sống tự động thành công trong lần cứu nguy. Vũ khí mất 1 lượt tích năng nếu sinh vật bị giết. Khi vũ khí không còn lượt tích năng nào, nó mất thuộc tính này.
 
@@ -1698,7 +1700,7 @@ Các giọt dầu xám, đục này hình thành bên ngoài vật chứa của 
 
 *Thuốc, rất hiếm*
 
-Một lọ dầu này có thể phủ lên một vũ khí cận chiến hoặc hai mươi viên đạn, nhưng chỉ đạn và vũ khí cận chiến không có ma thuật gây chém hoặc sát thương xuyên mới bị ảnh hưởng. Bôi dầu mất 1 phút, sau đó dầu thấm một cách kỳ diệu vào bất cứ thứ gì nó phủ lên, biến vũ khí được phủ thành một +3 Vũ khí hoặc đạn được phủ thành +3 Ammunition.
+Một lọ dầu này có thể phủ lên một vũ khí cận chiến hoặc hai mươi viên đạn, nhưng chỉ đạn và vũ khí cận chiến không có ma thuật gây sát thương chém hoặc xuyên mới bị ảnh hưởng. Bôi dầu mất 1 phút, sau đó dầu thấm một cách kỳ diệu vào bất cứ thứ gì nó phủ lên, biến vũ khí được phủ thành Vũ khí +3 hoặc đạn được phủ thành Đạn +3.
 
 Loại dầu trong suốt, sền sệt này lấp lánh với những mảnh bạc siêu mỏng, nhỏ li ti.
 
@@ -1716,7 +1718,7 @@ Loại thuốc mỡ đen, dính này đặc và nặng, nhưng nó chảy nhanh 
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp; chỉ người thi triển phép)*
 
-Trong khi viên ngọc trai này ở trên người bạn, bạn có thể dùng một hành động Ma thuật để phục hồi một ô phép đã dùng cấp độ 3 trở xuống. Một khi bạn dùng viên ngọc trai, nó không thể dùng lại cho đến bình minh tiếp theo.
+Trong khi viên ngọc trai này ở trên người bạn, bạn có thể dùng một hành động Ma thuật để phục hồi một ô phép đã dùng bậc 3 trở xuống. Một khi bạn dùng viên ngọc trai, nó không thể dùng lại cho đến bình minh tiếp theo.
 
 ### Bùa đeo sức khỏe (Periapt of Health)
 
@@ -1759,9 +1761,9 @@ Cây sáo này có 3 lượt tích năng và phục hồi 1d3 lượt tích năn
 
 Trong khi cây sáo này ở trên người bạn, chuột thường và chuột khổng lồ Thờ ơ với bạn và sẽ không tấn công bạn trừ khi bạn đe dọa hoặc làm hại chúng.
 
-Cây sáo có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn thổi sáo như một hành động Ma thuật, bạn có thể dùng một hành động phụ để tiêu tốn 1 đến 3 lượt tích năng, gọi ra một bầy of Rats cho mỗi lượt tích năng tiêu tốn nếu có đủ chuột trong vòng nửa dặm của bạn để gọi theo cách này (do Quản trò xác định). Nếu không có đủ chuột để tạo thành một bầy, lượt tích năng bị lãng phí. Các bầy được gọi di chuyển về phía âm nhạc theo tuyến đường ngắn nhất có sẵn nhưng nếu không thì nằm dưới sự kiểm soát của bạn.
+Cây sáo có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn thổi sáo như một hành động Ma thuật, bạn có thể dùng một hành động phụ để tiêu tốn 1 đến 3 lượt tích năng, gọi ra một *Bầy chuột* (Swarm of Rats) cho mỗi lượt tích năng tiêu tốn nếu có đủ chuột trong phạm vi 800 m (nửa dặm) để gọi theo cách này (do Quản trò xác định). Nếu không có đủ chuột để tạo thành một bầy, lượt tích năng bị lãng phí. Các bầy được gọi di chuyển về phía âm nhạc theo tuyến đường ngắn nhất có thể, nhưng ngoài việc đó ra thì không nằm dưới sự kiểm soát của bạn.
 
-Bất cứ khi nào một bầy of Rats không nằm dưới sự kiểm soát của một sinh vật khác đến trong vòng 9 m (30 feet) của bạn trong khi bạn đang thổi sáo, bầy thực hiện một cứu nguy Minh triết DC 15. Khi thành công, bầy hành xử như bình thường và không thể bị âm nhạc của sáo lay chuyển trong 24 giờ tiếp theo. Khi thất bại, bầy bị âm nhạc của sáo lay chuyển và trở nên Thân thiện với bạn và đồng minh của bạn miễn là bạn tiếp tục thổi sáo mỗi vòng như một hành động Ma thuật. Một bầy Thân thiện tuân theo mệnh lệnh của bạn. Nếu bạn không đưa ra mệnh lệnh nào cho một bầy Thân thiện, nó tự vệ nhưng nếu không thì không thực hiện hành động nào. Nếu một bầy Thân thiện bắt đầu lượt của nó cách bạn hơn 9 m (30 feet), quyền kiểm soát của bạn đối với bầy đó kết thúc, và bầy hành xử như bình thường và không thể bị âm nhạc của sáo lay chuyển trong 24 giờ tiếp theo.
+Bất cứ khi nào một *Bầy chuột* (Swarm of Rats) không nằm dưới sự kiểm soát của một sinh vật khác đến trong vòng 9 m (30 feet) của bạn trong khi bạn đang thổi sáo, bầy thực hiện một cứu nguy Minh triết DC 15. Khi thành công, bầy hành xử như bình thường và không thể bị âm nhạc của sáo lay chuyển trong 24 giờ tiếp theo. Khi thất bại, bầy bị âm nhạc của sáo lay chuyển và trở nên Thân thiện với bạn và đồng minh của bạn miễn là bạn tiếp tục thổi sáo mỗi vòng như một hành động Ma thuật. Một bầy Thân thiện tuân theo mệnh lệnh của bạn. Nếu bạn không đưa ra mệnh lệnh nào cho một bầy Thân thiện, nó tự vệ nhưng nếu không thì không thực hiện hành động nào. Nếu một bầy Thân thiện bắt đầu lượt của nó cách bạn hơn 9 m (30 feet), quyền kiểm soát của bạn đối với bầy đó kết thúc, và bầy hành xử như bình thường và không thể bị âm nhạc của sáo lay chuyển trong 24 giờ tiếp theo.
 
 ### Giáp tấm Ethereal (Plate Armor of Etherealness)
 
@@ -1810,7 +1812,7 @@ Linh dược này tách thành các lớp màu nâu, bạc, và xám giống cá
 
 *Thuốc, hiếm*
 
-Khi bạn uống linh dược này, bạn nhận hiệu ứng "reduce" của phép *Phóng to/thu nhỏ* (Enlarge/Reduce) trong 1d4 giờ (không cần Tập trung).
+Khi bạn uống linh dược này, bạn nhận hiệu ứng “thu nhỏ” (reduce) của phép *Phóng to/thu nhỏ* (Enlarge/Reduce) trong 1d4 giờ (không cần Tập trung).
 
 Màu đỏ trong chất lỏng của linh dược liên tục co lại thành một hạt nhỏ rồi lại lan ra tô màu chất lỏng trong suốt xung quanh nó. Lắc chai không thể làm gián đoạn quá trình này.
 
@@ -1834,23 +1836,23 @@ Vật chứa của linh dược này dường như chứa sương mù di chuyể
 
 *Thuốc, độ hiếm tùy loại*
 
-Khi bạn uống linh dược này, điểm Sức mạnh của bạn thay đổi trong 1 giờ. Loại giant xác định điểm (xem bảng dưới đây). Linh dược không có hiệu ứng gì đối với bạn nếu Sức mạnh của bạn đã bằng hoặc lớn hơn điểm đó.
+Khi bạn uống linh dược này, điểm Sức mạnh của bạn thay đổi trong 1 giờ. Loại người khổng lồ xác định điểm số đó (xem bảng dưới đây). Linh dược không có hiệu ứng gì đối với bạn nếu điểm Sức mạnh đã bằng hoặc lớn hơn điểm số đó.
 
 Chất lỏng trong suốt của linh dược này có một mảnh sáng trôi nổi trong đó giống móng tay của một người khổng lồ.
 
 | Thuốc | STR | Độ hiếm |
 |---|---|---|
-| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (hill) | 21 | Ít gặp |
-| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (frost hoặc stone) | 23 | Rare |
-| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (fire) | 25 | Rare |
-| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (cloud) | 27 | Rất hiếm |
-| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (storm) | 29 | Huyền thoại |
+| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (loại đồi) | 21 | Ít gặp |
+| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (loại băng giá hoặc đá) | 23 | Hiếm |
+| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (loại lửa) | 25 | Hiếm |
+| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (loại mây) | 27 | Rất hiếm |
+| *Thuốc sức mạnh người khổng lồ* (Potion of Giant Strength) (loại bão) | 29 | Huyền thoại |
 
 ### Thuốc phóng to (Potion of Growth)
 
 *Thuốc, ít gặp*
 
-Khi bạn uống linh dược này, bạn nhận hiệu ứng "enlarge" của phép *Phóng to/thu nhỏ* (Enlarge/Reduce) trong 10 phút (không cần Tập trung).
+Khi bạn uống linh dược này, bạn nhận hiệu ứng “phóng to” (enlarge) của phép *Phóng to/thu nhỏ* (Enlarge/Reduce) trong 10 phút (không cần Tập trung).
 
 Màu đỏ trong chất lỏng của linh dược liên tục lan ra từ một hạt nhỏ để tô màu chất lỏng trong suốt xung quanh nó rồi co lại. Lắc chai không thể làm gián đoạn quá trình này.
 
@@ -1864,10 +1866,10 @@ Dù mạnh yếu thế nào, chất lỏng đỏ của linh dược lấp lánh 
 
 | Thuốc | HP hồi | Độ hiếm |
 |---|---|---|
-| *Thuốc chữa lành* (Potion of Healing) | 2d4 + 2 | Common |
-| *Thuốc chữa lành* (Potion of Healing) (greater) | 4d4 + 4 | Ít gặp |
-| *Thuốc chữa lành* (Potion of Healing) (superior) | 8d4 + 8 | Rare |
-| *Thuốc chữa lành* (Potion of Healing) (supreme) | 10d4 + 20 | Rất hiếm |
+| *Thuốc chữa lành* (Potion of Healing) | 2d4 + 2 | Thông thường |
+| *Thuốc chữa lành* (Potion of Healing) (loại cao cấp) | 4d4 + 4 | Ít gặp |
+| *Thuốc chữa lành* (Potion of Healing) (loại thượng cấp) | 8d4 + 8 | Hiếm |
+| *Thuốc chữa lành* (Potion of Healing) (loại tối thượng) | 10d4 + 20 | Rất hiếm |
 
 ### Thuốc anh hùng (Potion of Heroism)
 
@@ -1911,7 +1913,7 @@ Chất lỏng đặc, màu tím của linh dược này có một đám mây hì
 
 *Thuốc, ít gặp*
 
-Hỗn hợp này trông, có mùi, và có vị giống một *Thuốc chữa lành* (Potion of Healing) hoặc một linh dược có lợi khác. Tuy nhiên, thực ra nó là chất độc được che giấu bởi ma thuật ảo ảnh. Phép Identify tiết lộ bản chất thật của nó.
+Hỗn hợp này trông, có mùi, và có vị giống một *Thuốc chữa lành* (Potion of Healing) hoặc một linh dược có lợi khác. Tuy nhiên, thực ra nó là chất độc được che giấu bởi ma thuật ảo ảnh. Phép *Nhận diện* (Identify) tiết lộ bản chất thật của nó.
 
 Nếu bạn uống linh dược này, bạn chịu 4d6 sát thương độc và phải thành công trong một cứu nguy Thể chất DC 13 hoặc ở trạng thái Trúng độc trong 1 giờ.
 
@@ -1923,11 +1925,11 @@ Khi bạn uống linh dược này, bạn có kháng với một loại sát th�
 
 | 1d10 | Loại sát thương | 1d10 | Loại sát thương |
 |---|---|---|---|
-| 1 | Acid | 6 | Necrotic |
-| 2 | Cold | 7 | Poison |
-| 3 | Fire | 8 | Psychic |
-| 4 | Force | 9 | Radiant |
-| 5 | Lightning | 10 | Thunder |
+| 1 | Axit | 6 | Hoại tử |
+| 2 | Lạnh | 7 | Độc |
+| 3 | Lửa | 8 | Tâm linh |
+| 4 | Lực | 9 | Quang |
+| 5 | Sét | 10 | Sấm |
 
 ### Thuốc tốc độ (Potion of Speed)
 
@@ -1957,17 +1959,17 @@ Chất lỏng xanh lá đục của linh dược này có mùi biển và có m�
 
 *Vũ khí (Gậy), rất hiếm (cần hòa hợp)*
 
-Bạn được +2 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
+Bạn nhận điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này.
 
 Trong khi cầm vũ khí này, bạn có thể khiến nó phát ra ánh sáng yếu màu xanh lá xa tới 3 m (10 feet), hoặc như một hành động phụ hoặc sau khi bạn tung Sáng kiến, hoặc bạn có thể dập tắt ánh sáng như một hành động phụ.
 
-Trong khi cầm vũ khí này, bạn có thể dùng một hành động phụ để thay đổi hình dạng của nó, biến nó thành một cây trượng 6-inch (để dễ cất giữ) hoặc một cây sào 3 m (10 feet), hoặc trở lại thành một Gậy; vũ khí sẽ chỉ kéo dài tới mức không gian xung quanh cho phép.
+Trong khi cầm vũ khí này, bạn có thể dùng một hành động phụ để thay đổi hình dạng của nó, biến nó thành một thanh dài 15 cm (6 inch) để dễ cất giữ, một cây sào dài 3 m (10 feet), hoặc trở lại thành một Gậy; vũ khí chỉ kéo dài tới mức không gian xung quanh cho phép.
 
 Vũ khí có các thuộc tính bổ sung sau, tùy vào hình dạng của nó.
 
-- *Hỗ trợ nhào lộn (Acrobatic Assist; chỉ ở dạng Gậy).* Trong khi cầm vũ khí này, bạn có lợi thế trên phép kiểm tra Khéo léo (Nhào lộn).
+- *Hỗ trợ nhào lộn (Acrobatic Assist; chỉ ở dạng Gậy và sào 3 m).* Trong khi cầm vũ khí này, bạn có lợi thế trên phép kiểm tra Khéo léo (Nhào lộn).
 - *Gạt đòn (Attack Deflection; chỉ ở dạng Gậy).* Khi bạn bị trúng bởi một cuộc tấn công trong khi cầm vũ khí, bạn có thể dùng một phản ứng để xoay vũ khí quanh mình, được +5 Chỉ số giáp chống lại cuộc tấn công kích hoạt, có khả năng khiến cuộc tấn công trượt bạn. Bạn không thể dùng thuộc tính này lần nữa cho đến khi bạn hoàn thành một lần nghỉ ngắn hoặc nghỉ dài.
-- *Tầm (Range; chỉ ở dạng sào 3 m (10 feet)).* Vũ khí này có thuộc tính Ném với tầm bình thường 9 m (30 feet) và tầm xa 36 m (120 feet). Ngay sau khi bạn thực hiện một đòn tấn công tầm xa bằng vũ khí, nó bay trở lại tay bạn.
+- *Vũ khí tầm xa (Ranged Weapon; chỉ ở dạng Gậy).* Vũ khí này có thuộc tính Ném với tầm bình thường 9 m (30 feet) và tầm xa 36 m (120 feet). Ngay sau khi bạn thực hiện một đòn tấn công tầm xa bằng vũ khí, nó bay trở lại tay bạn.
 
 ### Nhẫn chi phối động vật (Ring of Animal Influence)
 
@@ -1976,7 +1978,7 @@ Vũ khí có các thuộc tính bổ sung sau, tùy vào hình dạng của nó.
 Chiếc nhẫn này có 3 lượt tích năng, và nó phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi đeo nhẫn, bạn có thể tiêu tốn 1 lượt tích năng để thi triển một trong các phép sau (lần cứu nguy DC 13) từ nó:
 
 - *Tình bạn muông thú* (Animal Friendship)
-- Fear (chỉ ảnh hưởng Thú)
+- *Sợ hãi* (Fear; chỉ ảnh hưởng Thú)
 - *Nói chuyện với muông thú* (Speak with Animals)
 
 ### Nhẫn triệu hồi djinni (Ring of Djinni Summoning)
@@ -1998,7 +2000,7 @@ Mỗi *Nhẫn chỉ huy nguyên tố* được liên kết với một trong b�
 Mọi *Nhẫn chỉ huy nguyên tố* đều có hai thuộc tính sau:
 
 - *Khắc tinh nguyên tố (Elemental Bane).* Trong khi đeo nhẫn, bạn có lợi thế trên lần tung tấn công nhắm vào Nguyên tố và chúng có bất lợi trên lần tung tấn công nhắm vào bạn.
-- *Chỉ huy nguyên tố (Elemental Command).* Trong khi đeo nhẫn, bạn có thể dùng một hành động Ma thuật để cố ép buộc một Nguyên tố bạn thấy trong vòng 18 m (60 feet) của bản thân. Nguyên tố thực hiện một cứu nguy Minh triết DC 18. Khi thất bại, Nguyên tố ở trạng thái Mê hoặc cho đến khi bắt đầu lượt tiếp theo của bạn, và bạn xác định nó làm gì với lượt di chuyển và hành động của nó trong lượt tiếp theo của nó.
+- *Cưỡng chế nguyên tố (Elemental Compulsion).* Trong khi đeo nhẫn, bạn có thể dùng một hành động Ma thuật để cố ép buộc một Nguyên tố bạn thấy trong vòng 18 m (60 feet) của bản thân. Nguyên tố thực hiện một cứu nguy Minh triết DC 18. Khi thất bại, Nguyên tố ở trạng thái Mê hoặc cho đến đầu lượt tiếp theo của bạn, và bạn quyết định cách nó di chuyển cùng hành động nó thực hiện trong lượt tiếp theo.
 
 *Tiêu điểm nguyên tố.* Trong khi đeo nhẫn, bạn hưởng lợi từ các thuộc tính bổ sung tương ứng với Cõi Nguyên tố liên kết của nhẫn:
 
@@ -2011,10 +2013,10 @@ Mọi *Nhẫn chỉ huy nguyên tố* đều có hai thuộc tính sau:
 
 | Cõi | Phép (lượt tích năng) |
 |---|---|
-| Air | *Sét dây chuyền* (Chain Lightning) (3 lượt tích năng), *Rơi nhẹ như lông* (Feather Fall) (0 lượt tích năng), *Cơn gió lốc* (Gust of Wind) (2 lượt tích năng), *Tường gió* (Wind Wall) (1 lượt tích năng) |
-| Earth | Earthquake (5 lượt tích năng), *Định hình đá* (Stone Shape) (2 lượt tích năng), Stoneskin (3 lượt tích năng), *Tường đá* (Wall of Stone) (3 lượt tích năng) |
-| Fire | *Bàn tay bốc lửa* (Burning Hands) (1 lượt tích năng), *Quả cầu lửa* (Fireball) (2 lượt tích năng), *Bão lửa* (Fire Storm) (4 lượt tích năng), *Tường lửa* (Wall of Fire) (3 lượt tích năng) |
-| Water | *Tạo hoặc hủy nước* (Create or Destroy Water) (1 lượt tích năng), *Bão băng* (Ice Storm) (2 lượt tích năng), *Sóng thần* (Tsunami) (5 lượt tích năng), *Tường băng* (Wall of Ice) (3 lượt tích năng), *Đi trên nước* (Water Walk) (2 lượt tích năng) |
+| Khí | *Sét dây chuyền* (Chain Lightning) (3 lượt tích năng), *Rơi nhẹ như lông* (Feather Fall) (0 lượt tích năng), *Cơn gió lốc* (Gust of Wind) (2 lượt tích năng), *Tường gió* (Wind Wall) (1 lượt tích năng) |
+| Đất | *Động đất* (Earthquake) (5 lượt tích năng), *Định hình đá* (Stone Shape) (2 lượt tích năng), *Da đá* (Stoneskin) (3 lượt tích năng), *Tường đá* (Wall of Stone) (3 lượt tích năng) |
+| Lửa | *Bàn tay bốc lửa* (Burning Hands) (1 lượt tích năng), *Quả cầu lửa* (Fireball) (2 lượt tích năng), *Bão lửa* (Fire Storm) (4 lượt tích năng), *Tường lửa* (Wall of Fire) (3 lượt tích năng) |
+| Nước | *Tạo hoặc hủy nước* (Create or Destroy Water) (1 lượt tích năng), *Bão băng* (Ice Storm) (2 lượt tích năng), *Sóng thần* (Tsunami) (5 lượt tích năng), *Tường băng* (Wall of Ice) (3 lượt tích năng), *Đi trên nước* (Water Walk) (2 lượt tích năng) |
 
 ### Nhẫn né tránh (Ring of Evasion)
 
@@ -2060,7 +2062,7 @@ Nếu bạn chết trong khi đeo nhẫn, linh hồn của bạn nhập vào nó
 
 *Nhẫn, hiếm (cần hòa hợp)*
 
-Bạn được +1 Chỉ số giáp và lần cứu nguy trong khi đeo chiếc nhẫn này.
+Bạn nhận điểm cộng +1 vào Chỉ số giáp và các lần cứu nguy trong khi đeo chiếc nhẫn này.
 
 ### Nhẫn tái sinh (Ring of Regeneration)
 
@@ -2076,22 +2078,22 @@ Bạn có kháng với một loại sát thương trong khi đeo chiếc nhẫn 
 
 | 1d10 | Loại sát thương | Đá quý |
 |---|---|---|
-| 1 | Acid | Pearl |
-| 2 | Cold | Tourmaline |
-| 3 | Fire | Garnet |
-| 4 | Force | Sapphire |
-| 5 | Lightning | Citrine |
-| 6 | Necrotic | Jet |
-| 7 | Poison | Amethyst |
-| 8 | Psychic | Jade |
-| 9 | Radiant | Topaz |
-| 10 | Thunder | Spinel |
+| 1 | Axit | Ngọc trai (Pearl) |
+| 2 | Lạnh | Tourmaline |
+| 3 | Lửa | Ngọc hồng lựu (Garnet) |
+| 4 | Lực | Sapphire |
+| 5 | Sét | Citrine |
+| 6 | Hoại tử | Huyền thạch (Jet) |
+| 7 | Độc | Thạch anh tím (Amethyst) |
+| 8 | Tâm linh | Ngọc bích (Jade) |
+| 9 | Quang | Topaz |
+| 10 | Sấm | Spinel |
 
 ### Nhẫn sao băng (Ring of Shooting Stars)
 
 *Nhẫn, rất hiếm (cần hòa hợp)*
 
-Bạn có thể thi triển phép *Ánh sáng nhảy múa* (Dancing Lights) hoặc Light từ nhẫn.
+Bạn có thể thi triển phép *Ánh sáng nhảy múa* (Dancing Lights) hoặc *Ánh sáng* (Light) từ nhẫn.
 
 Nhẫn có 6 lượt tích năng và phục hồi 1d6 lượt tích năng đã dùng mỗi ngày vào bình minh. Bạn có thể tiêu tốn lượt tích năng của nó để dùng các thuộc tính dưới đây.
 
@@ -2111,17 +2113,17 @@ Như một hành động phụ, bạn có thể di chuyển mỗi quả cầu t�
 
 *Nhẫn, hiếm (cần hòa hợp)*
 
-Chiếc nhẫn này lưu trữ các phép được thi triển vào nó, giữ chúng cho đến khi người đeo đã đồng điệu dùng chúng. Nhẫn có thể lưu trữ tối đa 5 cấp độ phép cùng lúc. Khi được tìm thấy, nó chứa 1d6 − 1 cấp độ phép được lưu trữ do Quản trò chọn.
+Chiếc nhẫn này lưu trữ các phép được thi triển vào nó, giữ chúng cho đến khi người đeo đã đồng điệu dùng chúng. Nhẫn có thể lưu trữ tối đa 5 bậc phép cùng lúc. Khi được tìm thấy, nó chứa 1d6 − 1 bậc phép được lưu trữ do Quản trò chọn.
 
-Bất kỳ sinh vật nào cũng có thể thi triển một phép cấp độ 1 đến 5 vào nhẫn bằng cách chạm vào nhẫn khi phép được thi triển. Phép không có hiệu ứng gì khác ngoài việc được lưu trữ trong nhẫn. Nếu nhẫn không thể chứa phép, phép bị dùng hết mà không có hiệu ứng. Bậc của ô phép dùng để thi triển phép xác định phép đó chiếm bao nhiêu không gian.
+Bất kỳ sinh vật nào cũng có thể thi triển một phép bậc 1 đến 5 vào nhẫn bằng cách chạm vào nhẫn khi phép được thi triển. Phép không có hiệu ứng gì khác ngoài việc được lưu trữ trong nhẫn. Nếu nhẫn không thể chứa phép, phép bị dùng hết mà không có hiệu ứng. Bậc của ô phép dùng để thi triển phép xác định phép đó chiếm bao nhiêu không gian.
 
-Trong khi đeo chiếc nhẫn này, bạn có thể thi triển bất kỳ phép nào được lưu trữ trong nó. Phép dùng bậc ô phép, DC cứu nguy phép, thưởng tấn công bằng phép, và thuộc tính thi triển phép của người thi triển ban đầu nhưng nếu không thì được coi như thể bạn thi triển phép. Phép được thi triển từ nhẫn không còn được lưu trữ trong đó nữa, giải phóng không gian.
+Trong khi đeo chiếc nhẫn này, bạn có thể thi triển bất kỳ phép nào được lưu trữ trong nó. Phép dùng bậc ô phép, DC cứu nguy phép, điểm cộng tấn công phép và thuộc tính thi triển phép của người thi triển ban đầu, nhưng về các phương diện khác được coi như do bạn thi triển. Phép được thi triển từ nhẫn không còn được lưu trữ trong đó nữa, giải phóng không gian.
 
 ### Nhẫn phản phép (Ring of Spell Turning)
 
 *Nhẫn, huyền thoại (cần hòa hợp)*
 
-Trong khi đeo chiếc nhẫn này, bạn có lợi thế trên lần cứu nguy chống lại phép. Nếu bạn thành công trong lần cứu nguy đối với một phép cấp độ 7 trở xuống, phép không có hiệu ứng gì đối với bạn. Nếu phép đó chỉ nhắm vào bạn và không tạo ra một khu vực hiệu ứng, bạn có thể dùng một phản ứng để làm chệch hướng phép trở lại người thi triển nó; người thi triển phải thực hiện một lần cứu nguy chống lại phép dùng DC cứu nguy phép của chính họ.
+Trong khi đeo chiếc nhẫn này, bạn có lợi thế trên lần cứu nguy chống lại phép. Nếu bạn thành công trong lần cứu nguy đối với một phép bậc 7 trở xuống, phép không có hiệu ứng gì đối với bạn. Nếu phép đó chỉ nhắm vào bạn và không tạo ra một khu vực hiệu ứng, bạn có thể dùng một phản ứng để làm chệch hướng phép trở lại người thi triển nó; người thi triển phải thực hiện một lần cứu nguy chống lại phép dùng DC cứu nguy phép của chính họ.
 
 ### Nhẫn bơi lội (Ring of Swimming)
 
@@ -2139,7 +2141,7 @@ Trong khi đeo chiếc nhẫn này, bạn có thể thi triển phép *Niệm l�
 
 *Nhẫn, hiếm (cần hòa hợp)*
 
-Chiếc nhẫn này có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi đeo nhẫn, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 đến 3 lượt tích năng để thực hiện một ranged phép đòn tấn công nhắm vào một sinh vật bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Nhẫn tạo ra một đầu cừu ma quái và thực hiện lần tung tấn công của nó với điểm cộng +7. Khi trúng, với mỗi lượt tích năng bạn tiêu tốn, mục tiêu chịu 2d10 sát thương lực và bị đẩy xa 1,5 m (5 feet) khỏi bạn.
+Chiếc nhẫn này có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi đeo nhẫn, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 đến 3 lượt tích năng và thực hiện một đòn tấn công phép tầm xa nhắm vào một sinh vật bạn có thể thấy trong phạm vi 18 m (60 feet) của bản thân. Nhẫn tạo ra một đầu cừu ma quái và thực hiện lần tung tấn công với điểm cộng +7. Khi trúng, với mỗi lượt tích năng bạn tiêu tốn, mục tiêu chịu 2d10 sát thương lực và bị đẩy xa 1,5 m (5 feet) khỏi bạn.
 
 Ngoài ra, bạn có thể tiêu tốn 1 đến 3 lượt tích năng của nhẫn như một hành động Ma thuật để cố phá vỡ một đồ vật không có ma thuật bạn có thể thấy trong vòng 18 m (60 feet) của bản thân không đang được mặc hoặc mang theo. Nhẫn thực hiện một phép kiểm tra Sức mạnh với điểm cộng +5 cho mỗi lượt tích năng bạn tiêu tốn.
 
@@ -2190,7 +2192,7 @@ Chiếc áo choàng này có 3 lượt tích năng, và nó phục hồi 1d3 lư
 
 *Vật phẩm kỳ diệu, rất hiếm (cần hòa hợp)*
 
-Chiếc áo choàng đen hoặc xanh đậm này được thêu những ngôi sao nhỏ màu trắng hoặc bạc. Bạn được +1 lần cứu nguy trong khi bạn mặc nó.
+Chiếc áo choàng đen hoặc xanh đậm này được thêu những ngôi sao nhỏ màu trắng hoặc bạc. Bạn nhận điểm cộng +1 vào các lần cứu nguy trong khi mặc nó.
 
 Sáu ngôi sao, nằm ở phần trên phía trước của áo choàng, đặc biệt lớn. Trong khi mặc áo choàng này, bạn có thể dùng một hành động Ma thuật để gỡ một trong các ngôi sao và tiêu tốn nó để thi triển phiên bản bậc 5 của phép *Phi tiêu ma thuật* (Magic Missile). Hàng ngày vào lúc hoàng hôn, 1d6 ngôi sao đã gỡ xuất hiện lại trên áo choàng.
 
@@ -2204,9 +2206,9 @@ Trang phục thanh lịch này được làm từ vải tinh xảo và trang tr�
 
 Bạn nhận các lợi ích sau trong khi mặc áo choàng.
 
-- *Giáp (Armor).* Nếu bạn không mặc giáp, base Chỉ số giáp của bạn là 15 cộng hệ số Khéo léo của bạn.
+- *Giáp (Armor).* Nếu bạn không mặc giáp, Chỉ số giáp cơ bản của bạn là 15 cộng hệ số Khéo léo.
 - *Kháng ma thuật (Magic Resistance).* Bạn có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng ma thuật khác.
-- *Pháp sư chiến trận (War Mage).* Phép lần cứu nguy DC và thưởng tấn công bằng phép của bạn mỗi cái tăng thêm 2.
+- *Pháp sư chiến trận (War Mage).* DC cứu nguy phép và điểm cộng tấn công phép của bạn đều tăng thêm 2.
 
 ### Áo choàng đồ dùng (Robe of Useful Items)
 
@@ -2216,30 +2218,30 @@ Chiếc áo choàng này có các miếng vải hình dạng và màu sắc khá
 
 Áo choàng có hai miếng mỗi loại trong các loại sau:
 
-- Bullseye Đèn lồng (đã đổ đầy dầu và thắp sáng)
-- Dao găm
-- Mirror
-- Pole
-- Dây thừng (cuộn tròn)
-- Sack
+- Đèn lồng chiếu điểm (Bullseye Lantern; đã đổ đầy dầu và thắp sáng)
+- Dao găm (Dagger)
+- Gương (Mirror)
+- Sào (Pole)
+- Dây thừng (Rope; cuộn tròn)
+- Bao tải (Sack)
 
 Ngoài ra, áo choàng có 4d4 miếng vải khác. Quản trò chọn các miếng vải hoặc xác định chúng ngẫu nhiên bằng cách tung trên bảng sau.
 
 | 1d100 | Miếng vá |
 |---|---|
-| 01–08 | Túi 100 GP |
-| 09–15 | Hộp bạc (dài 30 cm (1 foot), rộng và sâu 15 cm (6 inch)) trị giá 500 GP |
-| 16–22 | Cửa sắt (rộng tối đa 3 m (10 feet) và cao 3 m (10 feet), có thanh chắn ở một bên theo lựa chọn của bạn), bạn có thể đặt vào một lỗ mở bạn có thể với tới; nó tự điều chỉnh để vừa với lỗ mở, tự gắn và bản lề |
-| 23–30 | 10 viên đá quý trị giá 100 GP mỗi viên |
+| 01–08 | Túi 100 gp |
+| 09–15 | Hộp bạc (dài 30 cm (1 foot), rộng và sâu 15 cm (6 inch)) trị giá 500 gp |
+| 16–22 | Cửa sắt (rộng tối đa 3 m (10 feet) và cao 3 m (10 feet), có thanh chắn ở một bên theo lựa chọn của bạn), bạn có thể đặt vào một lỗ mở mình với tới; cửa tự điều chỉnh cho vừa với lỗ mở, tự gắn vào và tạo bản lề |
+| 23–30 | 10 viên đá quý trị giá 100 gp mỗi viên |
 | 31–44 | Thang gỗ (dài 7,2 m (24 feet)) |
-| 45–51 | Riding Horse cùng một Riding Saddle |
+| 45–51 | *Ngựa cưỡi* (Riding Horse) cùng một Yên cưỡi (Riding Saddle) |
 | 52–59 | Hố mở (một khối lập phương 3 m (10 feet)), bạn có thể đặt trên mặt đất trong vòng 3 m (10 feet) của bản thân |
 | 60–68 | 4 *Thuốc chữa lành* (Potions of Healing) |
-| 69–75 | Rowboat (dài 3,6 m (12 feet)) |
-| 76–83 | *Cuộn phép* (Spell Scroll) chứa một phép cấp độ 1, 2, hoặc 3 (tùy bạn chọn) |
-| 84–90 | 2 Mastiffs |
-| 91–96 | Cửa sổ (2 foot x 1,2 m (4 foot), sâu tối đa 60 cm (2 foot)), bạn có thể đặt trên một bề mặt thẳng đứng bạn có thể với tới |
-| 97–00 | Portable Ram |
+| 69–75 | Thuyền chèo (Rowboat; dài 3,6 m (12 feet)) |
+| 76–83 | *Cuộn phép* (Spell Scroll) chứa một phép bậc 1, 2, hoặc 3 (tùy bạn chọn) |
+| 84–90 | 2 *Chó ngao* (Mastiff) |
+| 91–96 | Cửa sổ (rộng 60 cm × cao 1,2 m (2 × 4 feet), sâu tối đa 60 cm (2 feet)), bạn có thể đặt trên một bề mặt thẳng đứng bạn có thể với tới |
+| 97–00 | Búa phá thành di động (Portable Ram) |
 
 ### Trượng hấp thụ (Rod of Absorption)
 
@@ -2249,7 +2251,7 @@ Trong khi cầm trượng này, bạn có thể dùng một phản ứng để h
 
 Khi bạn đồng điệu với trượng, bạn biết bao nhiêu cấp độ năng lượng trượng đã hấp thụ trong suốt thời gian tồn tại của nó và bao nhiêu cấp độ năng lượng phép nó hiện đang lưu trữ.
 
-Nếu bạn là một spellcaster đang cầm trượng, bạn có thể chuyển đổi năng lượng được lưu trữ trong nó thành ô phép để thi triển các phép bạn đã chuẩn bị hoặc biết. Bạn chỉ có thể tạo ô phép có cấp độ bằng hoặc thấp hơn ô phép của chính bạn, tối đa cấp độ 5. Bạn dùng các cấp độ đã lưu trữ thay cho ô phép của mình nhưng nếu không thì thi triển phép như bình thường. Ví dụ, bạn có thể dùng 3 cấp độ được lưu trữ trong trượng như một ô phép cấp độ 3.
+Nếu bạn là một người thi triển phép đang cầm trượng, bạn có thể chuyển đổi năng lượng được lưu trữ trong nó thành ô phép để thi triển các phép bạn đã chuẩn bị hoặc biết. Bạn chỉ có thể tạo ô phép có bậc bằng hoặc thấp hơn ô phép của chính bạn, tối đa bậc 5. Bạn dùng các bậc đã lưu trữ thay cho ô phép của mình nhưng nếu không thì thi triển phép như bình thường. Ví dụ, bạn có thể dùng 3 cấp độ được lưu trữ trong trượng như một ô phép bậc 3.
 
 Một trượng mới được tìm thấy thường có 1d10 cấp độ năng lượng phép được lưu trữ trong nó. Một trượng không còn có thể hấp thụ năng lượng phép và không còn năng lượng nào trở thành không có ma thuật.
 
@@ -2265,7 +2267,7 @@ Trượng này có các thuộc tính sau.
   - *Phát hiện ma thuật* (Detect Magic)
   - *Phát hiện độc và bệnh* (Detect Poison and Disease)
   - *Thấy vô hình* (See Invisibility)
-- *Hào quang bảo hộ (Protective Aura).* Như một hành động Ma thuật, bạn có thể cắm đầu cán của trượng xuống đất, sau đó đầu trượng tỏa ánh sáng rõ trong bán kính 18 m (60 feet) và ánh sáng yếu thêm 18 m (60 feet) nữa. Trong khi ở trong ánh sáng rõ đó, bạn và đồng minh của bạn được +1 Chỉ số giáp và lần cứu nguy và có thể cảm nhận vị trí của bất kỳ sinh vật Vô hình nào cũng ở trong ánh sáng rõ.
+- *Hào quang bảo hộ (Protective Aura).* Như một hành động Ma thuật, bạn có thể cắm đầu cán của trượng xuống đất, sau đó đầu trượng tỏa ánh sáng rõ trong bán kính 18 m (60 feet) và ánh sáng yếu thêm 18 m (60 feet) nữa. Trong khi ở trong ánh sáng rõ đó, bạn và đồng minh nhận điểm cộng +1 vào Chỉ số giáp và các lần cứu nguy, đồng thời có thể cảm nhận vị trí của bất kỳ sinh vật Vô hình nào cũng ở trong ánh sáng rõ.
 
 Đầu trượng ngừng phát sáng và hiệu ứng kết thúc sau 10 phút hoặc khi một sinh vật dùng một hành động Ma thuật để nhổ trượng khỏi đất. Một khi được dùng, thuộc tính này không thể dùng lại cho đến bình minh tiếp theo.
 
@@ -2273,13 +2275,13 @@ Trượng này có các thuộc tính sau.
 
 *Trượng, huyền thoại (cần hòa hợp)*
 
-Trượng này có một đầu có gờ, và nó hoạt động như một Chùy đầu kim loại ma thuật cấp điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trượng có các thuộc tính liên quan đến sáu nút khác nhau được đặt dọc theo cán. Nó cũng có ba thuộc tính khác, được trình bày chi tiết dưới đây.
+Trượng này có một đầu có gờ, và nó hoạt động như một Chùy đầu kim loại ma thuật cho điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trượng có các thuộc tính liên quan đến sáu nút khác nhau được đặt dọc theo cán. Nó cũng có ba thuộc tính khác, được trình bày chi tiết dưới đây.
 
 *Các nút bấm.* Bạn có thể ấn một trong các nút sau như một hành động phụ; hiệu ứng của một nút tồn tại cho đến khi bạn ấn một nút khác hoặc cho đến khi bạn ấn cùng nút đó lần nữa, khiến trượng trở về dạng bình thường của nó:
 
 - *Nút 1 (Button 1).* Một lưỡi kiếm lửa mọc ra từ đầu đối diện với đầu có gờ của trượng. Ngọn lửa tỏa ánh sáng rõ trong bán kính 12 m (40 feet) và ánh sáng yếu thêm 12 m (40 feet) nữa, và lưỡi kiếm hoạt động như một Kiếm dài ma thuật hoặc Kiếm ngắn (tùy bạn chọn) gây thêm 2d6 sát thương lửa khi trúng.
-- *Nút 2 (Button 2).* Đầu có gờ của trượng gập xuống và hai lưỡi hình lưỡi liềm bật ra, biến trượng thành một Rìu chiến ma thuật cấp điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
-- *Nút 3 (Button 3).* Đầu có gờ của trượng gập xuống, một mũi giáo bật ra từ đầu trượng, và tay cầm của trượng kéo dài thành một cán 1,8 m (6 feet), biến trượng thành một Giáo ma thuật cấp điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
+- *Nút 2 (Button 2).* Đầu có gờ của trượng gập xuống và hai lưỡi hình lưỡi liềm bật ra, biến trượng thành một Rìu chiến ma thuật cho điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
+- *Nút 3 (Button 3).* Đầu có gờ của trượng gập xuống, một mũi giáo bật ra từ đầu trượng, và tay cầm của trượng kéo dài thành một cán 1,8 m (6 feet), biến trượng thành một Giáo ma thuật cho điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
 - *Nút 4 (Button 4).* Trượng biến thành một cây sào leo trèo dài tối đa 15 m (50 feet) (bạn chỉ định chiều dài), mặc dù các nút của trượng vẫn nằm trong tầm với của bạn. Trên các bề mặt cứng như đá granite, một cây đinh nhọn ở đáy và ba móc ở đỉnh neo giữ cây sào. Các thanh ngang dài 7,5 cm (3 inch) bật ra từ hai bên, cách nhau 30 cm (1 foot), tạo thành một cái thang. Cây sào có thể chịu tối đa 1.800 kg (4.000 lb.). Nhiều trọng lượng hơn hoặc thiếu neo giữ khiến trượng trở về dạng bình thường của nó.
 - *Nút 5 (Button 5).* Trượng biến thành một cây búa phá cửa cầm tay và cấp cho người dùng nó điểm cộng +10 vào phép kiểm tra Sức mạnh (Điền kinh) thực hiện để phá vỡ cửa, chướng ngại vật, và các rào cản khác.
 - *Nút 6 (Button 6).* Trượng nhận hoặc vẫn ở dạng bình thường của nó và chỉ hướng bắc từ tính. (Không có gì xảy ra nếu chức năng này của trượng được dùng ở một địa điểm không có hướng bắc từ tính.) Trượng cũng cho bạn biết độ sâu gần đúng của bạn dưới lòng đất hoặc chiều cao của bạn phía trên nó.
@@ -2292,7 +2294,7 @@ Trượng này có một đầu có gờ, và nó hoạt động như một Chù
 
 *Trượng, huyền thoại (cần hòa hợp)*
 
-Trượng có 5 lượt tích năng. Trong khi cầm nó, bạn có thể thi triển một trong các phép sau từ nó: Heal (tiêu tốn 1 lượt tích năng) hoặc Resurrection (tiêu tốn 5 lượt tích năng). Trượng phục hồi 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng, hãy tung 1d20. Với kết quả 1, trượng biến mất trong một luồng ánh sáng vô hại.
+Trượng có 5 lượt tích năng. Trong khi cầm nó, bạn có thể thi triển một trong các phép sau từ nó: *Chữa lành* (Heal; tiêu tốn 1 lượt tích năng) hoặc *Phục sinh* (Resurrection; tiêu tốn 5 lượt tích năng). Trượng phục hồi 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng, hãy tung 1d20. Với kết quả 1, trượng biến mất trong một luồng ánh sáng vô hại.
 
 ### Trượng thống trị (Rod of Rulership)
 
@@ -2316,7 +2318,7 @@ Khi thời gian hết hoặc bạn dùng một hành động Ma thuật để k�
 
 Đoạn dây thừng dài 18 m (60 feet) này có thể chịu tối đa 1.350 kg (3.000 lb.). Trong khi cầm một đầu của dây, bạn có thể dùng một hành động Ma thuật để ra lệnh cho đầu kia của dây hoạt hóa và di chuyển về phía một đích bạn chọn, xa tối đa chiều dài của dây từ bạn. Đầu đó di chuyển 3 m (10 feet) trong lượt của bạn khi bạn ra lệnh lần đầu và 3 m (10 feet) vào đầu mỗi lượt tiếp theo của bạn cho đến khi đến đích hoặc cho đến khi bạn bảo nó dừng lại. Bạn cũng có thể bảo dây tự buộc chặt vào một đồ vật hoặc tự tháo ra, tự thắt nút hoặc tháo nút, hoặc tự cuộn lại để mang theo.
 
-Nếu bạn bảo dây thắt nút, các nút lớn xuất hiện cách nhau 30 cm (1 feet) dọc theo dây. Trong khi được thắt nút, dây ngắn lại thành chiều dài 15 m (50 feet) và cho lợi thế trên phép kiểm tra thuộc tính thực hiện để leo bằng dây.
+Nếu bạn bảo dây thắt nút, các nút lớn xuất hiện cách nhau 30 cm (1 foot) dọc theo dây. Trong khi được thắt nút, dây ngắn lại thành chiều dài 15 m (50 feet) và cho lợi thế trên phép kiểm tra thuộc tính thực hiện để leo bằng dây.
 
 Dây có AC 20, HP 20, và miễn nhiễm với độc và sát thương tâm linh. Nó phục hồi 1 điểm sinh lực mỗi 5 phút miễn là nó có ít nhất 1 điểm sinh lực. Nếu dây giảm xuống 0 điểm sinh lực, nó bị phá hủy.
 
@@ -2336,7 +2338,7 @@ Dây có AC 20, HP 20, và miễn nhiễm với độc và sát thương tâm li
 
 Chiếc huy chương hình bọ cánh cứng này cung cấp ba lợi ích trong khi ở trên người bạn.
 
-- *Lợi ích phòng thủ (Defensive Benefit).* Bạn được +1 Chỉ số giáp.
+- *Phòng thủ (Defense).* Bạn nhận điểm cộng +1 vào Chỉ số giáp.
 - *Bảo tồn (Preservation).* Bọ có 12 lượt tích năng. Nếu bạn thất bại trong một lần cứu nguy chống lại một phép Tử linh hoặc một hiệu ứng có hại bắt nguồn từ một Xác sống, bạn có thể dùng một phản ứng để tiêu tốn 1 lượt tích năng và biến lần cứu nguy thất bại thành một lần cứu nguy thành công. Bọ vỡ vụn thành bột và bị phá hủy khi lượt tích năng cuối cùng của nó được tiêu tốn.
 - *Kháng phép (Spell Resistance).* Bạn có lợi thế trên lần cứu nguy chống lại phép.
 
@@ -2344,7 +2346,7 @@ Chiếc huy chương hình bọ cánh cứng này cung cấp ba lợi ích trong
 
 *Vũ khí (Đao cong), rất hiếm (cần hòa hợp)*
 
-Bạn được +2 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, bạn có thể thực hiện một cuộc tấn công bằng nó như một hành động phụ trong mỗi lượt của bạn.
+Bạn nhận điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, bạn có thể thực hiện một đòn tấn công bằng nó như một hành động phụ trong mỗi lượt.
 
 ### Đá truyền tin (Sending Stones)
 
@@ -2352,7 +2354,7 @@ Bạn được +2 lần tung tấn công và lần tung sát thương thực hi�
 
 *Đá truyền tin* được tìm thấy theo cặp, mỗi viên đá được tạo ra để khớp với viên kia sao cho cặp đôi dễ dàng được nhận ra. Trong khi bạn chạm vào một viên đá, bạn có thể thi triển phép *Gửi tin* (Sending) từ nó. Mục tiêu là người mang viên đá kia. Nếu không có sinh vật nào mang viên đá kia, bạn biết điều đó ngay khi bạn dùng viên đá, và bạn không thi triển phép.
 
-Một khi Sending được thi triển bằng một trong hai viên đá, các viên đá không thể dùng lại cho đến bình minh tiếp theo. Nếu một trong các viên đá trong một cặp bị phá hủy, viên đá kia trở thành không có ma thuật.
+Một khi *Gửi tin* (Sending) được thi triển bằng một trong hai viên đá, các viên đá không thể dùng lại cho đến bình minh tiếp theo. Nếu một viên trong cặp bị phá hủy, viên còn lại trở thành không có ma thuật.
 
 ### Khiên canh gác (Sentinel Shield)
 
@@ -2378,7 +2380,7 @@ Trong khi cầm Khiên này, bạn có kháng với sát thương từ các cu�
 
 *Giáp (Khiên), rất hiếm (cần hòa hợp)*
 
-Trong khi cầm Khiên này, bạn được +2 Chỉ số giáp. Điểm cộng này cộng thêm vào điểm cộng AC bình thường của Khiên.
+Trong khi cầm Khiên này, bạn nhận điểm cộng +2 vào Chỉ số giáp. Điểm cộng này cộng thêm vào điểm cộng AC bình thường của Khiên.
 
 Khiên có các thuộc tính bổ sung sau bạn có thể dùng trong khi cầm nó.
 
@@ -2395,39 +2397,39 @@ Trong khi bạn mang đôi giày nhẹ này, bạn có thể di chuyển lên, x
 
 *Vật phẩm kỳ diệu, huyền thoại*
 
-Chất này sền sệt, màu trắng sữa có thể tạo ra một liên kết vĩnh viễn giữa bất kỳ hai đồ vật nào. Nó phải được lưu trữ trong một lọ hoặc bình đã được phủ bên trong bằng *Dầu trơn trượt* (Oil of Slipperiness). Khi được tìm thấy, một vật chứa chứa 1d6 + 1 ounce.
+Chất này sền sệt, màu trắng sữa có thể tạo ra một liên kết vĩnh viễn giữa bất kỳ hai đồ vật nào. Nó phải được lưu trữ trong một lọ hoặc bình đã được phủ bên trong bằng *Dầu trơn trượt* (Oil of Slipperiness). Khi được tìm thấy, một vật chứa có 1d6 + 1 ounce.
 
-Một ounce keo có thể phủ một bề mặt hình vuông 30 cm (1 feet). Bôi một ounce *Keo tối thượng* cần một hành động Sử dụng, và keo bôi mất 1 phút để đông cứng. Một khi nó đã làm vậy, liên kết nó tạo ra chỉ có thể bị phá vỡ bằng cách bôi *Dầu hóa Ethereal* (Oil of Etherealness) hoặc *Dung môi vạn năng* (Universal Solvent), hoặc bằng một phép *Ước nguyện* (Wish).
+Một ounce keo có thể phủ một bề mặt hình vuông cạnh 30 cm (1 foot). Bôi một ounce *Keo tối thượng* cần một hành động Sử dụng, và keo bôi mất 1 phút để đông cứng. Một khi nó đã làm vậy, liên kết nó tạo ra chỉ có thể bị phá vỡ bằng cách bôi *Dầu hóa Ethereal* (Oil of Etherealness) hoặc *Dung môi vạn năng* (Universal Solvent), hoặc bằng một phép *Ước nguyện* (Wish).
 
 ### Khiên hộ phép (Spellguard Shield)
 
 *Giáp (Khiên), rất hiếm (cần hòa hợp)*
 
-Trong khi cầm Khiên này, bạn có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng ma thuật khác, và phép lần tung tấn công có bất lợi khi nhắm vào bạn.
+Trong khi cầm Khiên này, bạn có lợi thế trên lần cứu nguy chống lại phép và các hiệu ứng ma thuật khác, và lần tung tấn công phép có bất lợi khi nhắm vào bạn.
 
 ### Cuộn phép (Spell Scroll)
 
 *Cuộn, độ hiếm tùy loại*
 
 Một *Cuộn phép* mang chữ viết của một phép duy nhất, được viết bằng một mật mã huyền bí. Nếu phép nằm trong danh sách phép của bạn, bạn có thể đọc cuộn và thi triển phép của nó mà không cần thành phần vật chất. Nếu không, cuộn không thể hiểu được. Thi triển phép bằng cách đọc cuộn cần thời gian thi triển bình thường của phép. Một khi phép được thi triển, cuộn vỡ vụn thành cát bụi. Nếu việc thi triển bị gián đoạn, cuộn không bị mất.
-Nếu phép nằm trong danh sách phép của bạn nhưng có cấp độ cao hơn cấp độ bạn có thể thi triển thông thường, bạn thực hiện một phép kiểm tra thuộc tính dùng thuộc tính thi triển phép của bạn để xác định liệu bạn có thi triển phép hay không. DC bằng 10 cộng cấp độ của phép. Khi phép kiểm tra thất bại, phép biến mất khỏi cuộn mà không có hiệu ứng gì khác.
+Nếu phép nằm trong danh sách phép của bạn nhưng có cấp độ cao hơn cấp độ bạn có thể thi triển thông thường, bạn thực hiện một phép kiểm tra thuộc tính dùng thuộc tính thi triển phép của bạn để xác định liệu bạn có thi triển phép hay không. DC bằng 10 cộng bậc của phép. Khi phép kiểm tra thất bại, phép biến mất khỏi cuộn mà không có hiệu ứng gì khác.
 
-Cấp độ của phép trên cuộn xác định DC lần cứu nguy và đòn tấn công điểm cộng của phép, cũng như độ hiếm của cuộn, như trong bảng sau.
+Cấp độ của phép trên cuộn xác định DC lần cứu nguy và điểm cộng tấn công của phép, cũng như độ hiếm của cuộn, như trong bảng sau.
 
 | Bậc phép | Độ hiếm | DC cứu nguy | Thưởng tấn công |
 |---|---|---|---|
-| Cantrip | Common | 13 | +5 |
-| 1 | Common | 13 | +5 |
+| Phép sơ cấp | Thông thường | 13 | +5 |
+| 1 | Thông thường | 13 | +5 |
 | 2 | Ít gặp | 13 | +5 |
 | 3 | Ít gặp | 15 | +7 |
-| 4 | Rare | 15 | +7 |
-| 5 | Rare | 17 | +9 |
+| 4 | Hiếm | 15 | +7 |
+| 5 | Hiếm | 17 | +9 |
 | 6 | Rất hiếm | 17 | +9 |
 | 7 | Rất hiếm | 18 | +10 |
 | 8 | Rất hiếm | 18 | +10 |
 | 9 | Huyền thoại | 19 | +11 |
 
-*Chép cuộn vào sách phép.* Một phép Pháp sư trên một *Cuộn phép* có thể được sao chép vào một spellbook. Khi một phép được sao chép theo cách này, người sao chép phải thành công trong một phép kiểm tra Trí tuệ (Huyền thuật) với DC bằng 10 cộng cấp độ của phép. Khi phép kiểm tra thành công, phép được sao chép. Dù phép kiểm tra thành công hay thất bại, *Cuộn phép* đều bị phá hủy.
+*Chép cuộn vào sách phép.* Một phép Pháp sư trên một *Cuộn phép* có thể được sao chép vào một sách phép. Khi một phép được sao chép theo cách này, người sao chép phải thành công trong một phép kiểm tra Trí tuệ (Huyền thuật) với DC bằng 10 cộng bậc của phép. Khi phép kiểm tra thành công, phép được sao chép. Dù phép kiểm tra thành công hay thất bại, *Cuộn phép* đều bị phá hủy.
 
 ### Quả cầu hủy diệt (Sphere of Annihilation)
 
@@ -2457,7 +2459,7 @@ Trượng này có 10 lượt tích năng. Trong khi cầm trượng, bạn có 
 
 - *Thi triển phép (Cast Spell).* Bạn có thể tiêu tốn 1 lượt tích năng của trượng để thi triển *Mê hoặc người* (Charm Person), *Ra lệnh* (Command), hoặc *Hiểu ngôn ngữ* (Comprehend Languages) từ nó dùng DC cứu nguy phép của bạn.
 - *Phản xạ yểm thuật (Reflect Enchantment).* Nếu bạn thành công trong một lần cứu nguy chống lại một phép Yểm thuật chỉ nhắm vào bạn, bạn có thể dùng một phản ứng để tiêu tốn 1 lượt tích năng của trượng và làm chệch hướng phép trở lại người thi triển nó như thể bạn đã thi triển phép.
-- *Nạp lại yểm thuật (Recharge Enchantment).* Nếu bạn thất bại trong một lần cứu nguy chống lại một phép Yểm thuật chỉ nhắm vào bạn, bạn có thể biến lần cứu nguy thất bại thành một lần cứu nguy thành công. Bạn không thể dùng thuộc tính này của trượng lần nữa cho đến bình minh tiếp theo.
+- *Kháng yểm thuật (Resist Enchantment).* Nếu bạn thất bại trong một lần cứu nguy chống lại một phép Yểm thuật chỉ nhắm vào bạn, bạn có thể biến lần cứu nguy thất bại thành một lần cứu nguy thành công. Bạn không thể dùng thuộc tính này của trượng lần nữa cho đến bình minh tiếp theo.
 
 *Hồi lượt tích năng.* Trượng phục hồi 1d8 + 2 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng, hãy tung 1d20. Với kết quả 1, trượng vỡ vụn thành cát bụi và bị phá hủy.
 
@@ -2495,11 +2497,11 @@ Trượng có 10 lượt tích năng. Trong khi cầm trượng, bạn có thể
 
 *Gậy phép, hiếm (cần hòa hợp; chỉ Thi sĩ, Giáo sĩ hoặc Druid)*
 
-Trượng này có 10 lượt tích năng. Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng spellcasting ability hệ số của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
+Trượng này có 10 lượt tích năng. Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng hệ số thuộc tính thi triển phép của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
 
 | Phép | Lượt tích năng tiêu hao |
 |---|---|
-| *Chữa vết thương* (Cure Wounds) | 1 lượt tích năng cho mỗi cấp độ phép (tối đa 4 cho một phép cấp độ 4) |
+| *Chữa vết thương* (Cure Wounds) | 1 lượt tích năng cho mỗi bậc phép (tối đa 4 cho một phép bậc 4) |
 | *Phục hồi cơ bản* (Lesser Restoration) | 2 |
 | *Chữa vết thương hàng loạt* (Mass Cure Wounds) | 5 |
 
@@ -2509,7 +2511,7 @@ Trượng này có 10 lượt tích năng. Trong khi cầm trượng, bạn có 
 
 *Gậy phép, rất hiếm (cần hòa hợp; chỉ Thuật sĩ, Warlock hoặc Pháp sư)*
 
-Trượng này có 20 lượt tích năng và có thể được cầm như một Gậy ma thuật cấp điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi cầm nó, bạn được +2 Chỉ số giáp, lần cứu nguy, và phép lần tung tấn công.
+Trượng này có 20 lượt tích năng và có thể được cầm như một Gậy ma thuật cho điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi cầm trượng, bạn nhận điểm cộng +2 vào Chỉ số giáp, các lần cứu nguy và lần tung tấn công phép.
 
 *Phép.* Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng DC cứu nguy phép của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
 
@@ -2519,7 +2521,7 @@ Trượng này có 20 lượt tích năng và có thể được cầm như mộ
 | *Quả cầu lửa* (Fireball) (phiên bản bậc 5) | 5 |
 | *Cầu bất khả xâm phạm* (Globe of Invulnerability) | 6 |
 | *Giữ quái vật* (Hold Monster) | 5 |
-| Levitate | 2 |
+| *Nâng lơ lửng* (Levitate) | 2 |
 | *Tia sét* (Lightning Bolt) (phiên bản bậc 5) | 5 |
 | *Phi tiêu ma thuật* (Magic Missile) | 1 |
 | *Tia suy yếu* (Ray of Enfeeblement) | 1 |
@@ -2533,7 +2535,7 @@ Trượng này có 20 lượt tích năng và có thể được cầm như mộ
 
 *Gậy phép, rất hiếm (cần hòa hợp)*
 
-Trượng này có thể được cầm như một Gậy ma thuật cấp điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
+Trượng này có thể được cầm như một Gậy ma thuật cho điểm cộng +3 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó.
 
 Trượng có 10 lượt tích năng. Khi bạn tấn công trúng bằng một đòn tấn công cận chiến dùng nó, bạn có thể tiêu tốn tối đa 3 lượt tích năng. Với mỗi lượt tích năng bạn tiêu tốn, mục tiêu chịu thêm 1d6 sát thương lực.
 
@@ -2545,9 +2547,9 @@ Trượng có 10 lượt tích năng. Khi bạn tấn công trúng bằng một 
 
 Trượng này có 10 lượt tích năng.
 
-*Mây côn trùng.* Trong khi cầm trượng, bạn có thể dùng một hành động Ma thuật và tiêu tốn 1 lượt tích năng để khiến một bầy côn trùng bay vô hại lấp đầy một vùng tỏa 9 m (30 feet) bắt nguồn từ bạn. Đàn côn trùng tồn tại trong 10 phút, khiến khu vực bị bị che khuất nặng đối với các sinh vật khác ngoài bạn. Một cơn gió mạnh (chẳng hạn cơn gió được tạo ra bởi phép *Cơn gió lốc* (Gust of Wind)) làm tan đàn côn trùng và kết thúc hiệu ứng.
+*Mây côn trùng.* Trong khi cầm trượng, bạn có thể dùng một hành động Ma thuật và tiêu tốn 1 lượt tích năng để khiến một bầy côn trùng bay vô hại lấp đầy một vùng tỏa 9 m (30 feet) bắt nguồn từ bạn. Đàn côn trùng tồn tại trong 10 phút, khiến khu vực bị che khuất nặng đối với các sinh vật khác ngoài bạn. Một cơn gió mạnh (chẳng hạn cơn gió được tạo ra bởi phép *Cơn gió lốc* (Gust of Wind)) làm tan đàn côn trùng và kết thúc hiệu ứng.
 
-*Phép.* Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng DC cứu nguy phép và phép đòn tấn công hệ số của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
+*Phép.* Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng DC cứu nguy phép và điểm cộng tấn công phép của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
 
 | Phép | Lượt tích năng tiêu hao |
 |---|---|
@@ -2560,9 +2562,9 @@ Trượng này có 10 lượt tích năng.
 
 *Gậy phép, huyền thoại (cần hòa hợp; chỉ Thuật sĩ, Warlock hoặc Pháp sư)*
 
-Trượng này có 50 lượt tích năng và có thể được cầm như một Gậy ma thuật cấp điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi bạn cầm nó, bạn được +2 phép lần tung tấn công.
+Trượng này có 50 lượt tích năng và có thể được cầm như một Gậy ma thuật cho điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi bạn cầm nó, bạn được +2 lần tung tấn công phép.
 
-*Hấp thụ phép.* Trong khi cầm trượng, bạn có lợi thế trên lần cứu nguy chống lại phép. Ngoài ra, bạn có thể dùng một phản ứng khi một sinh vật khác thi triển một phép chỉ nhắm vào bạn. Nếu làm vậy, trượng hấp thụ ma thuật của phép, hủy hiệu ứng của nó và nhận số lượt tích năng bằng cấp độ của phép đã hấp thụ. Tuy nhiên, nếu làm vậy khiến tổng số lượt tích năng của trượng vượt quá 50, trượng phát nổ như thể bạn đã kích hoạt Retributive Strike của nó (xem bên dưới).
+*Hấp thụ phép.* Trong khi cầm trượng, bạn có lợi thế trên lần cứu nguy chống lại phép. Ngoài ra, bạn có thể dùng một phản ứng khi một sinh vật khác thi triển một phép chỉ nhắm vào bạn. Nếu làm vậy, trượng hấp thụ ma thuật của phép, hủy hiệu ứng của nó và nhận số lượt tích năng bằng bậc của phép đã hấp thụ. Tuy nhiên, nếu làm vậy khiến tổng số lượt tích năng của trượng vượt quá 50, trượng phát nổ như thể bạn đã kích hoạt Đòn báo thù của nó (xem bên dưới).
 
 *Phép.* Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng DC cứu nguy phép của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
 
@@ -2576,17 +2578,17 @@ Trượng này có 50 lượt tích năng và có thể được cầm như mộ
 | *Quả cầu lửa* (Fireball) (phiên bản bậc 7) | 7 |
 | *Cầu lửa rực* (Flaming Sphere) | 2 |
 | *Bão băng* (Ice Storm) | 4 |
-| Invisibility | 2 |
-| Knock | 2 |
-| Light | 0 |
+| *Vô hình* (Invisibility) | 2 |
+| *Gõ mở* (Knock) | 2 |
+| *Ánh sáng* (Light) | 0 |
 | *Tia sét* (Lightning Bolt) (phiên bản bậc 7) | 7 |
 | *Bàn tay pháp sư* (Mage Hand) | 0 |
 | *Xuyên tường* (Passwall) | 5 |
 | *Dịch chuyển liên cõi* (Plane Shift) | 7 |
 | *Chống thiện ác* (Protection from Evil and Good) | 0 |
-| Telekinesis | 5 |
+| *Viễn động lực* (Telekinesis) | 5 |
 | *Tường lửa* (Wall of Fire) | 4 |
-| Web | 2 |
+| *Mạng nhện* (Web) | 2 |
 
 *Hồi lượt tích năng.* Trượng phục hồi 4d6 + 2 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng, hãy tung 1d20. Với kết quả 20, trượng phục hồi 1d12 + 1 lượt tích năng.
 
@@ -2596,7 +2598,7 @@ Trượng này có 50 lượt tích năng và có thể được cầm như mộ
 
 *Gậy phép, ít gặp (cần hòa hợp)*
 
-Như một hành động Ma thuật, bạn có thể ném trượng này xuống đất trong một không gian trống trong vòng 3 m (10 feet) của bạn, khiến trượng trở thành một Người khổng lồ Constrictor Snake trong không gian đó. Con rắn nằm dưới sự kiểm soát của bạn và chia sẻ lượt Sáng kiến của bạn, thực hiện lượt của nó ngay sau bạn.
+Như một hành động Ma thuật, bạn có thể ném trượng này xuống đất trong một không gian trống trong vòng 3 m (10 feet) của bạn, khiến trượng trở thành một *Trăn khổng lồ* (Giant Constrictor Snake) trong không gian đó. Con rắn nằm dưới sự kiểm soát của bạn và chia sẻ lượt Sáng kiến của bạn, thực hiện lượt của nó ngay sau bạn.
 
 Trong lượt của bạn, bạn có thể ra lệnh bằng ý nghĩ cho con rắn (không cần hành động) nếu nó trong vòng 18 m (60 feet) của bạn và bạn không ở trạng thái Mất năng lực hành động. Bạn quyết định con rắn thực hiện hành động gì và nó di chuyển đến đâu trong lượt của nó, hoặc bạn có thể ra một mệnh lệnh chung, chẳng hạn tấn công kẻ địch của bạn hoặc canh giữ một địa điểm. Không có mệnh lệnh từ bạn, con rắn tự vệ.
 
@@ -2606,7 +2608,7 @@ Như một hành động phụ, bạn có thể ra lệnh cho con rắn trở l�
 
 *Gậy phép, hiếm (cần hòa hợp; chỉ Druid)*
 
-Trượng này có 6 lượt tích năng và có thể được cầm như một Gậy ma thuật cấp điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi cầm nó, bạn được +2 phép lần tung tấn công.
+Trượng này có 6 lượt tích năng và có thể được cầm như một Gậy ma thuật cho điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Trong khi cầm nó, bạn được +2 lần tung tấn công phép.
 
 *Phép.* Trong khi cầm trượng, bạn có thể thi triển một trong các phép trong bảng sau từ nó, dùng DC cứu nguy phép của bạn. Bảng cho biết bạn phải tiêu tốn bao nhiêu lượt tích năng để thi triển phép.
 
@@ -2629,11 +2631,11 @@ Trượng này có 6 lượt tích năng và có thể được cầm như một
 
 *Gậy phép, rất hiếm (cần hòa hợp)*
 
-Trượng này có thể được cầm như một Gậy ma thuật cấp điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Nó cũng có các thuộc tính bổ sung sau. Một khi một trong các thuộc tính này được dùng, nó không thể dùng lại cho đến bình minh tiếp theo.
+Trượng này có thể được cầm như một Gậy ma thuật cho điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng nó. Nó cũng có các thuộc tính bổ sung sau. Một khi một trong các thuộc tính này được dùng, nó không thể dùng lại cho đến bình minh tiếp theo.
 
 - *Sét (Lightning).* Khi bạn tấn công trúng bằng một đòn tấn công cận chiến dùng trượng, bạn có thể khiến mục tiêu chịu thêm 2d6 sát thương sét (không cần hành động).
 - *Sấm (Thunder).* Khi bạn tấn công trúng bằng một đòn tấn công cận chiến dùng trượng, bạn có thể khiến trượng phát ra một tiếng sấm nghe được xa tới 90 m (300 feet) (không cần hành động). Mục tiêu bạn tấn công trúng phải thành công trong một cứu nguy Thể chất DC 17 hoặc ở trạng thái Choáng cho đến cuối lượt tiếp theo của bạn.
-- *Sấm và sét (Thunder and Lightning).* Ngay sau khi bạn tấn công trúng bằng một đòn tấn công cận chiến dùng trượng, bạn có thể dùng một hành động phụ để dùng các thuộc tính sét và Thunder (xem ở trên) cùng lúc. Làm vậy không tốn lượt dùng hàng ngày của các thuộc tính đó, chỉ tốn lượt dùng của thuộc tính này.
+- *Sấm và sét (Thunder and Lightning).* Ngay sau khi bạn tấn công trúng bằng một đòn tấn công cận chiến dùng trượng, bạn có thể dùng một hành động phụ để dùng đồng thời các thuộc tính Sét và Sấm (xem ở trên). Làm vậy không tốn lượt dùng hằng ngày của hai thuộc tính đó, chỉ tốn lượt dùng của thuộc tính này.
 - *Sét đánh (Lightning Strike).* Bạn có thể dùng một hành động Ma thuật để khiến một tia sét bắn ra từ đầu trượng trong một đường thẳng rộng 1,5 m (5 feet) và dài 36 m (120 feet). Mỗi sinh vật trong đường thẳng đó thực hiện một cứu nguy Khéo léo DC 17, chịu 9d6 sát thương sét khi thất bại hoặc một nửa sát thương đó khi thành công.
 - *Tiếng sấm (Thunderclap).* Bạn có thể dùng một hành động Ma thuật để khiến trượng tạo ra một tiếng sấm nghe được xa tới 180 m (600 feet). Mọi sinh vật trong một vùng tỏa 18 m (60 feet) bắt nguồn từ bạn thực hiện một cứu nguy Thể chất DC 17. Khi thất bại, một sinh vật chịu 2d6 sát thương sấm và ở trạng thái Điếc trong 1 phút. Khi thành công, một sinh vật chỉ nhận một nửa sát thương đó.
 
@@ -2649,13 +2651,13 @@ Trượng có thể được cầm như một Gậy ma thuật. Khi trúng, nó 
 
 *Vật phẩm kỳ diệu, hiếm*
 
-Trong khi chạm viên đá nặng 5-pound này xuống đất, bạn có thể dùng một hành động Ma thuật để triệu hồi một *Nguyên tố đất* (Earth Elemental). Nguyên tố xuất hiện trong một không gian trống bạn chọn trong vòng 9 m (30 feet) của bản thân, tuân theo mệnh lệnh của bạn, và hành động ngay sau bạn theo lượt Sáng kiến của bạn. Nguyên tố biến mất sau 1 giờ, khi nó chết, hoặc khi bạn giải tán nó bằng một hành động phụ. Viên đá không thể dùng theo cách này lần nữa cho đến bình minh tiếp theo.
+Trong khi chạm viên đá nặng 2,3 kg (5 lb.) này xuống đất, bạn có thể dùng một hành động Ma thuật để triệu hồi một *Nguyên tố đất* (Earth Elemental). Nguyên tố xuất hiện trong một ô trống bạn chọn trong phạm vi 9 m (30 feet) quanh mình, tuân theo mệnh lệnh của bạn và hành động ngay sau bạn theo thứ tự Sáng kiến. Nguyên tố biến mất sau 1 giờ, khi nó chết hoặc khi bạn giải tán nó bằng một hành động phụ. Viên đá không thể dùng theo cách này lần nữa cho đến bình minh tiếp theo.
 
-### Đá may mắn (Stone of Good Luck)
+### Đá may mắn (Stone of Good Luck; Luckstone)
 
 *Vật phẩm kỳ diệu, ít gặp (cần hòa hợp)*
 
-Trong khi viên mã não đánh bóng này ở trên người bạn, bạn được +1 phép kiểm tra thuộc tính và lần cứu nguy.
+Trong khi viên mã não đánh bóng này ở trên người bạn, bạn nhận điểm cộng +1 vào các phép kiểm tra thuộc tính và lần cứu nguy.
 
 ### Kiếm mặt trời (Sun Blade)
 
@@ -2663,9 +2665,9 @@ Trong khi viên mã não đánh bóng này ở trên người bạn, bạn đư�
 
 Vật phẩm này trông giống một chuôi kiếm.
 
-- *Lưỡi quang (Blade of Radiance).* Trong khi nắm chuôi kiếm, bạn có thể dùng một hành động phụ để khiến một lưỡi kiếm bằng ánh sáng thuần khiết xuất hiện hoặc khiến lưỡi kiếm biến mất. Trong khi lưỡi kiếm tồn tại, vũ khí ma thuật này hoạt động như một Kiếm dài với thuộc tính *Kiếm mặt trời* (Sun Blade). Nếu bạn thành thạo với Kiếm dài hoặc Kiếm ngắn, bạn thành thạo với *Kiếm mặt trời* (Sun Blade).
+- *Lưỡi quang (Blade of Radiance).* Trong khi nắm chuôi kiếm, bạn có thể dùng một hành động phụ để khiến một lưỡi kiếm bằng ánh sáng thuần khiết xuất hiện hoặc khiến lưỡi kiếm biến mất. Trong khi lưỡi kiếm tồn tại, vũ khí ma thuật này hoạt động như một Kiếm dài với thuộc tính Tinh tế (Finesse). Nếu bạn thành thạo với Kiếm dài hoặc Kiếm ngắn, bạn thành thạo với *Kiếm mặt trời* (Sun Blade).
 
-Bạn được +2 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí này, gây sát thương quang thay vì sát thương chém. Khi bạn tấn công trúng một Xác sống bằng nó, mục tiêu đó chịu thêm 1d8 sát thương quang.
+Bạn nhận điểm cộng +2 vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí này, vốn gây sát thương quang thay vì sát thương chém. Khi bạn tấn công trúng một Xác sống bằng nó, mục tiêu đó chịu thêm 1d8 sát thương quang.
 
 - *Ánh nắng (Sunlight).* Lưỡi kiếm phát sáng của thanh kiếm tỏa ánh sáng rõ trong bán kính 4,5 m (15 feet) và ánh sáng yếu thêm 4,5 m (15 feet) nữa. Ánh sáng này là ánh nắng mặt trời. Trong khi lưỡi kiếm tồn tại, bạn có thể dùng một hành động Ma thuật để mở rộng hoặc thu hẹp bán kính ánh sáng rõ và ánh sáng yếu của nó mỗi cái 1,5 m (5 feet), tối đa 9 m (30 feet) mỗi cái hoặc tối thiểu 3 m (10 feet) mỗi cái.
 
@@ -2695,14 +2697,13 @@ Khi bạn tấn công trúng một sinh vật bằng vũ khí ma thuật này, m
 
 Bùa này là một biểu tượng mạnh mẽ của sự thiện lành. Một Ác quỷ hoặc một Xác sống chạm vào bùa chịu 8d6 sát thương quang và chịu sát thương đó lần nữa mỗi khi nó kết thúc lượt của nó cầm hoặc mang bùa.
 
-- *Biểu tượng thánh (Holy Symbol).* Bạn có thể dùng bùa như một Holy *Biểu tượng* (Symbol).
-- *Đẩy lùi trách phạt (Spurn Rebuke).* Bạn được +2 phép lần tung tấn công trong khi bạn đeo hoặc cầm nó.
-- *Bùng nổ mặt trời (Sunburst).* Bùa có 7 lượt tích năng. Trong khi đeo hoặc cầm bùa, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng và nhắm mục tiêu một sinh vật bạn có thể thấy trên mặt đất trong vòng 36 m (120 feet) của bản thân. Một khe nứt bốc lửa mở ra dưới mục tiêu, và mục tiêu thực hiện một cứu nguy Khéo léo DC 20. Nếu mục tiêu là một Ác quỷ hoặc một Xác sống, nó có bất lợi trên lần cứu nguy. Khi thất bại, mục tiêu rơi vào khe nứt và bị xóa sổ, không để lại di thể. Khi thành công, mục tiêu không bị ném vào khe nứt nhưng chịu 4d6 sát thương tâm linh từ thử thách này. Trong cả hai trường hợp, khe nứt sau đó đóng lại, không để lại dấu vết tồn tại của nó. Khi bạn tiêu tốn lượt tích năng cuối cùng, bùa tan biến thành các hạt ánh sáng vàng và bị phá hủy.
+- *Biểu tượng thánh (Holy Symbol).* Bạn có thể dùng bùa như một Biểu tượng thánh. Bạn nhận điểm cộng +2 vào các lần tung tấn công phép trong khi đeo hoặc cầm nó.
+- *Khiển trách thuần khiết (Pure Rebuke).* Bùa có 7 lượt tích năng. Trong khi đeo hoặc cầm bùa, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng và nhắm mục tiêu một sinh vật bạn có thể thấy trên mặt đất trong vòng 36 m (120 feet) của bản thân. Một khe nứt bốc lửa mở ra dưới mục tiêu, và mục tiêu thực hiện một cứu nguy Khéo léo DC 20. Nếu mục tiêu là một Ác quỷ hoặc một Xác sống, nó có bất lợi trên lần cứu nguy. Khi thất bại, mục tiêu rơi vào khe nứt và bị xóa sổ, không để lại di thể. Khi thành công, mục tiêu không bị ném vào khe nứt nhưng chịu 4d6 sát thương tâm linh từ thử thách này. Trong cả hai trường hợp, khe nứt sau đó đóng lại, không để lại dấu vết tồn tại của nó. Khi bạn tiêu tốn lượt tích năng cuối cùng, bùa tan biến thành các hạt ánh sáng vàng và bị phá hủy.
 
 ### Bùa quả cầu (Talisman of the Sphere)
 
 *Vật phẩm kỳ diệu, huyền thoại (cần hòa hợp)*
-Trong khi đeo hoặc cầm bùa này, bạn có lợi thế trên bất kỳ phép kiểm tra Trí tuệ (Huyền thuật) nào bạn thực hiện để giành quyền kiểm soát một *Quả cầu hủy diệt* (Sphere of Annihilation). Ngoài ra, khi bạn bắt đầu lượt của mình trong khi đang kiểm soát một *Quả cầu hủy diệt* (Sphere of Annihilation), bạn có thể dùng một hành động Ma thuật để di chuyển nó 3 m (10 feet) cộng thêm một số feet bằng 10 lần hệ số Trí tuệ của bạn. Việc di chuyển này không cần phải theo đường thẳng.
+Trong khi đeo hoặc cầm bùa này, bạn có lợi thế trên bất kỳ phép kiểm tra Trí tuệ (Huyền thuật) nào bạn thực hiện để giành quyền kiểm soát một *Quả cầu hủy diệt* (Sphere of Annihilation). Ngoài ra, khi bạn bắt đầu lượt của mình trong khi đang kiểm soát một *Quả cầu hủy diệt* (Sphere of Annihilation), bạn có thể dùng một hành động Ma thuật để di chuyển nó 3 m (10 feet) cộng thêm 3 m (10 feet) cho mỗi điểm trong hệ số Trí tuệ của bạn. Việc di chuyển này không cần phải theo đường thẳng.
 
 ### Bùa ác tột cùng (Talisman of Ultimate Evil)
 
@@ -2710,9 +2711,8 @@ Trong khi đeo hoặc cầm bùa này, bạn có lợi thế trên bất kỳ ph
 
 Vật phẩm này tượng trưng cho cái ác không hối cải. Một sinh vật không phải là một Ác quỷ hoặc một Xác sống chạm vào bùa chịu 8d6 sát thương hoại tử và chịu sát thương đó lần nữa mỗi khi nó kết thúc lượt của nó cầm hoặc mang bùa.
 
-- *Biểu tượng thánh (Holy Symbol).* Bạn có thể dùng bùa như một Holy *Biểu tượng* (Symbol).
-- *Ác tột cùng (Ultimate Evil).* Bạn được +2 phép lần tung tấn công trong khi bạn đeo hoặc cầm nó.
-- *Bùng nổ mặt trời (Sunburst).* Bùa có 6 lượt tích năng. Trong khi đeo hoặc cầm bùa, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng và nhắm mục tiêu một sinh vật bạn có thể thấy trên mặt đất trong vòng 36 m (120 feet) của bản thân. Một khe nứt bốc lửa mở ra dưới mục tiêu, và mục tiêu thực hiện một cứu nguy Khéo léo DC 20. Nếu mục tiêu là một Thiên thể, nó có bất lợi trên lần cứu nguy. Khi thất bại, mục tiêu rơi vào khe nứt và bị xóa sổ, không để lại di thể. Khi thành công, mục tiêu không bị ném vào khe nứt nhưng chịu 4d6 sát thương tâm linh từ thử thách này. Trong cả hai trường hợp, khe nứt sau đó đóng lại, không để lại dấu vết tồn tại của nó. Khi bạn tiêu tốn lượt tích năng cuối cùng, bùa tan rã thành chất nhầy hôi thối và bị phá hủy.
+- *Biểu tượng thánh (Holy Symbol).* Bạn có thể dùng bùa như một Biểu tượng thánh. Bạn nhận điểm cộng +2 vào các lần tung tấn công phép trong khi đeo hoặc cầm nó.
+- *Kết cục tối hậu (Ultimate End).* Bùa có 6 lượt tích năng. Trong khi đeo hoặc cầm bùa, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng và nhắm mục tiêu một sinh vật bạn có thể thấy trên mặt đất trong vòng 36 m (120 feet) của bản thân. Một khe nứt bốc lửa mở ra dưới mục tiêu, và mục tiêu thực hiện một cứu nguy Khéo léo DC 20. Nếu mục tiêu là một Thiên thể, nó có bất lợi trên lần cứu nguy. Khi thất bại, mục tiêu rơi vào khe nứt và bị xóa sổ, không để lại di thể. Khi thành công, mục tiêu không bị ném vào khe nứt nhưng chịu 4d6 sát thương tâm linh từ thử thách này. Trong cả hai trường hợp, khe nứt sau đó đóng lại, không để lại dấu vết tồn tại của nó. Khi bạn tiêu tốn lượt tích năng cuối cùng, bùa tan rã thành chất nhầy hôi thối và bị phá hủy.
 
 ### Chùy lớn sấm rền (Thunderous Greatclub)
 
@@ -2747,7 +2747,7 @@ Cuốn sách này chứa các bài tập về trực giác và nhận thức sâ
 
 *Vũ khí (Đinh ba), ít gặp (cần hòa hợp)*
 
-Magic vũ khí này có 3 lượt tích năng, và nó phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi bạn mang nó, bạn có thể tiêu tốn 1 lượt tích năng để thi triển phép *Thống trị muông thú* (Dominate Beast) (lần cứu nguy DC 15) từ nó lên một Thú có Tốc độ bơi.
+Vũ khí ma thuật này có 3 lượt tích năng và phục hồi 1d3 lượt tích năng đã dùng mỗi ngày vào bình minh. Trong khi mang nó, bạn có thể tiêu tốn 1 lượt tích năng để thi triển phép *Thống trị muông thú* (Dominate Beast) (DC cứu nguy 15) từ nó lên một Thú có Tốc độ bơi.
 
 ### Dung môi vạn năng (Universal Solvent)
 
@@ -2755,21 +2755,21 @@ Magic vũ khí này có 3 lượt tích năng, và nó phục hồi 1d3 lượt 
 
 Ống này chứa chất lỏng màu trắng sữa có mùi cồn nồng nặc. Khi được tìm thấy, một ống chứa 1d6 + 1 ounce.
 
-Bạn có thể dùng một hành động Sử dụng để đổ 1 hoặc nhiều ounce dung môi từ ống lên một bề mặt. Mỗi ounce ngay lập tức hòa tan tối đa 30 cm (1 foot) vuông chất kết dính nó chạm vào, kể cả *Keo tối thượng* (Sovereign Glue).
+Bạn có thể dùng một hành động Sử dụng để đổ 1 hoặc nhiều ounce dung môi từ ống lên một bề mặt. Mỗi ounce ngay lập tức hòa tan tối đa 0,093 m² (1 foot vuông) chất kết dính nó chạm vào, kể cả *Keo tối thượng* (Sovereign Glue).
 
 ### Vũ khí hung ác (Vicious Weapon)
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), hiếm*
 
-Magic vũ khí này gây thêm 2d6 sát thương cho bất kỳ sinh vật nào nó trúng. Damage thêm này cùng loại với sát thương bình thường của vũ khí.
+Vũ khí ma thuật này gây thêm 2d6 sát thương cho bất kỳ sinh vật nào nó đánh trúng. Sát thương thêm này cùng loại với sát thương bình thường của vũ khí.
 
 ### Kiếm Vorpal (Vorpal Sword)
 
 *Vũ khí (Đại đao, Kiếm lớn, Kiếm dài, hoặc Đao cong), huyền thoại (cần hòa hợp)*
 
-Bạn được +3 lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, vũ khí bỏ qua kháng với sát thương chém.
+Bạn nhận điểm cộng +3 vào các lần tung tấn công và sát thương thực hiện bằng vũ khí ma thuật này. Ngoài ra, vũ khí bỏ qua kháng với sát thương chém.
 
-Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất một cái đầu và tung ra 20 trên d20 cho lần tung tấn công, bạn chặt đứt một trong các đầu của sinh vật. Sinh vật chết nếu nó không thể sống sót mà không có cái đầu đã mất. Một sinh vật miễn nhiễm với hiệu ứng này nếu nó có miễn nhiễm với sát thương chém, nếu nó không có hoặc không cần một cái đầu, hoặc nếu Quản trò quyết định rằng sinh vật quá lớn để đầu của nó bị chặt đứt bằng vũ khí này. Sinh vật như vậy thay vào đó chịu thêm 30 sát thương chém từ đòn trúng. Nếu sinh vật có Huyền thoại kháng, nó có thể tiêu tốn một lượt dùng hàng ngày của đặc điểm đó để tránh mất đầu, thay vào đó chịu sát thương thêm.
+Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất một cái đầu và tung ra 20 trên d20 cho lần tung tấn công, bạn chặt đứt một trong các đầu của sinh vật. Sinh vật chết nếu nó không thể sống sót mà không có cái đầu đã mất. Một sinh vật miễn nhiễm với hiệu ứng này nếu nó có miễn nhiễm với sát thương chém, nếu nó không có hoặc không cần một cái đầu, hoặc nếu Quản trò quyết định rằng sinh vật quá lớn để đầu của nó bị chặt đứt bằng vũ khí này. Sinh vật như vậy thay vào đó chịu thêm 30 sát thương chém từ đòn trúng. Nếu sinh vật có Kháng cự huyền thoại (Legendary Resistance), nó có thể tiêu tốn một lượt dùng hàng ngày của đặc điểm đó để tránh mất đầu, thay vào đó chịu sát thương thêm.
 
 ### Đũa trói buộc (Wand of Binding)
 
@@ -2790,7 +2790,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, hiếm (cần hòa hợp)*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng. Trong 1 phút, bạn biết hướng của sinh vật Thù địch với bạn gần nhất trong vòng 18 m (60 feet), nhưng không biết khoảng cách của nó với bạn. Đũa phép có thể cảm nhận sự hiện diện của các sinh vật Thù địch Vô hình, phi vật chất, cải trang, hoặc ẩn nấp, cũng như những sinh vật ở ngay trước mắt. Hiệu ứng kết thúc nếu bạn ngừng cầm đũa phép.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng. Trong 1 phút, bạn biết hướng của sinh vật Thù địch với bạn gần nhất trong vòng 18 m (60 feet), nhưng không biết khoảng cách của nó với bạn. Đũa phép có thể cảm nhận sự hiện diện của các sinh vật Thù địch Vô hình, ở trạng thái Ethereal, cải trang, hoặc ẩn nấp, cũng như những sinh vật ở ngay trước mắt. Hiệu ứng kết thúc nếu bạn ngừng cầm đũa phép.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2804,8 +2804,8 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 | Phép | Lượt tích năng tiêu hao |
 |---|---|
-| Command (chỉ "flee" hoặc "grovel") | 1 |
-| Fear (hình nón 18 m (60 feet)) | 3 |
+| *Ra lệnh* (Command; chỉ “chạy trốn” (flee) hoặc “quỳ xuống” (grovel)) | 1 |
+| *Sợ hãi* (Fear; hình nón 18 m (60 feet)) | 3 |
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2813,7 +2813,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, hiếm (cần hòa hợp; chỉ người thi triển phép)*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Quả cầu lửa* (Fireball) (lần cứu nguy DC 15) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 3 của phép. Bạn có thể tăng cấp độ của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Quả cầu lửa* (Fireball) (lần cứu nguy DC 15) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 3 của phép. Bạn có thể tăng bậc của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2821,7 +2821,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, hiếm (cần hòa hợp; chỉ người thi triển phép)*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Tia sét* (Lightning Bolt) (lần cứu nguy DC 15) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 3 của phép. Bạn có thể tăng cấp độ của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Tia sét* (Lightning Bolt) (lần cứu nguy DC 15) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 3 của phép. Bạn có thể tăng bậc của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2835,7 +2835,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, ít gặp*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Phi tiêu ma thuật* (Magic Missile) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 1 của phép. Bạn có thể tăng cấp độ của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể tiêu tốn không quá 3 lượt tích năng để thi triển phép *Phi tiêu ma thuật* (Magic Missile) từ nó. Với 1 lượt tích năng, bạn thi triển phiên bản bậc 1 của phép. Bạn có thể tăng bậc của phép thêm 1 cho mỗi lượt tích năng bổ sung bạn tiêu tốn.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2843,7 +2843,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, hiếm (cần hòa hợp; chỉ người thi triển phép)*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng để khiến một tia sáng xanh mảnh phóng ra từ đầu đũa phép về phía một sinh vật bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Mục tiêu phải thành công trong một cứu nguy Thể chất DC 15 hoặc ở trạng thái Tê liệt trong 1 phút. Vào cuối mỗi lượt của mục tiêu, nó lặp lại lần cứu nguy, kết thúc hiệu ứng trên bản thân khi thành công.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật và tiêu tốn 1 lượt tích năng để khiến một tia sáng xanh mảnh phóng ra từ đầu đũa phép về phía một sinh vật bạn có thể thấy trong vòng 18 m (60 feet) của bản thân. Mục tiêu phải thành công trong một cứu nguy Thể chất DC 15 hoặc ở trạng thái Tê liệt trong 1 phút. Vào cuối mỗi lượt của mục tiêu, nó lặp lại lần cứu nguy, kết thúc hiệu ứng trên bản thân khi thành công.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành tro tàn và bị phá hủy.
 
@@ -2865,7 +2865,7 @@ Khi bạn dùng vũ khí này để tấn công một sinh vật có ít nhất 
 
 *Đũa phép, ít gặp (+1), hiếm (+2), hoặc rất hiếm (+3) (cần hòa hợp; chỉ người thi triển phép)*
 
-Trong khi cầm đũa phép này, bạn nhận một điểm cộng vào phép lần tung tấn công được xác định bởi độ hiếm của đũa phép. Ngoài ra, bạn bỏ qua che chắn một nửa khi thực hiện một phép lần tung tấn công.
+Trong khi cầm đũa phép này, bạn nhận một điểm cộng vào lần tung tấn công phép được xác định bởi độ hiếm của đũa phép. Ngoài ra, bạn bỏ qua che chắn một nửa khi thực hiện một lần tung tấn công phép.
 
 ### Đũa mạng nhện (Wand of Web)
 
@@ -2879,7 +2879,7 @@ Trong khi cầm đũa phép này, bạn nhận một điểm cộng vào phép l
 
 *Đũa phép, hiếm (cần hòa hợp)*
 
-Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng trong khi chọn một điểm trong vòng 36 m (120 feet) của bản thân. Địa điểm đó trở thành điểm xuất phát của một phép hoặc hiệu ứng ma thuật khác được xác định bằng cách tung trên bảng ***Đũa kỳ diệu* Effects**. Các phép thi triển từ đũa phép có lần cứu nguy DC là 15. Nếu tầm tối đa của một phép thường ngắn hơn 36 m (120 feet), nó trở thành 36 m (120 feet) khi thi triển từ đũa phép. Nếu một hiệu ứng có nhiều mục tiêu khả dĩ, Quản trò xác định ngẫu nhiên mục tiêu nào trong số đó bị ảnh hưởng.
+Đũa phép này có 7 lượt tích năng. Trong khi cầm nó, bạn có thể dùng một hành động Ma thuật để tiêu tốn 1 lượt tích năng trong khi chọn một điểm trong vòng 36 m (120 feet) của bản thân. Địa điểm đó trở thành điểm xuất phát của một phép hoặc hiệu ứng ma thuật khác được xác định bằng cách tung trên bảng **Hiệu ứng của Đũa kỳ diệu**. Các phép thi triển từ đũa phép có lần cứu nguy DC là 15. Nếu tầm tối đa của một phép thường ngắn hơn 36 m (120 feet), nó trở thành 36 m (120 feet) khi thi triển từ đũa phép. Nếu một hiệu ứng có nhiều mục tiêu khả dĩ, Quản trò xác định ngẫu nhiên mục tiêu nào trong số đó bị ảnh hưởng.
 
 *Hồi lượt tích năng.* Đũa phép phục hồi 1d6 + 1 lượt tích năng đã dùng mỗi ngày vào bình minh. Nếu bạn tiêu tốn lượt tích năng cuối cùng của đũa phép, hãy tung 1d20. Với kết quả 1, đũa phép vỡ vụn thành cát bụi và bị phá hủy.
 
@@ -2887,13 +2887,13 @@ Trong khi cầm đũa phép này, bạn nhận một điểm cộng vào phép l
 
 | 1d100 | Hiệu ứng |
 |---|---|
-| 01–20 | Bạn thi triển một phép bắt nguồn từ điểm đã chọn. Tung 1d10 để xác định phép: 1–2 là bóng tối; 3–4 là *Lửa yêu tinh* (Faerie Fire); 5–6 là *Quả cầu lửa* (Fireball); 7–8 là Slow; 9–10 là *Đám mây hôi thối* (Stinking Cloud). |
+| 01–20 | Bạn thi triển một phép bắt nguồn từ điểm đã chọn. Tung 1d10 để xác định phép: 1–2 là *Bóng tối* (Darkness); 3–4 là *Lửa yêu tinh* (Faerie Fire); 5–6 là *Quả cầu lửa* (Fireball); 7–8 là *Làm chậm* (Slow); 9–10 là *Đám mây hôi thối* (Stinking Cloud). |
 | 21–25 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, bạn ở trạng thái Choáng cho đến khi bắt đầu lượt tiếp theo của bạn, tin rằng điều gì đó tuyệt vời vừa xảy ra. |
-| 26–30 | Bạn thi triển *Cơn gió lốc* (Gust of Wind). đường thẳng được tạo ra bởi phép kéo dài từ bạn đến điểm xuất phát đã chọn. |
+| 26–30 | Bạn thi triển *Cơn gió lốc* (Gust of Wind). Đường thẳng được tạo ra bởi phép kéo dài từ bạn đến điểm xuất phát đã chọn. |
 | 31–35 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, bạn chịu 1d6 sát thương tâm linh. |
-| 36–40 | Mưa lớn rơi trong 1 phút trong một hình trụ cao 36 m (120 feet), bán kính 18 m (60 feet) có tâm tại điểm xuất phát đã chọn. Trong thời gian đó, khu vực hiệu ứng bị bị che khuất nhẹ. |
-| 41–45 | Một đám mây 600 con bướm khổng lồ lấp đầy một hình trụ cao 18 m (60 feet), bán kính 9 m (30 feet) có tâm tại điểm xuất phát đã chọn. Những con bướm tồn tại trong 10 phút, trong thời gian đó khu vực hiệu ứng bị bị che khuất nặng. |
-| 46–50 | Bạn thi triển *Tia sét* (Lightning Bolt). đường thẳng được tạo ra bởi phép kéo dài từ bạn đến điểm xuất phát đã chọn. |
+| 36–40 | Mưa lớn rơi trong 1 phút trong một hình trụ cao 36 m (120 feet), bán kính 18 m (60 feet) có tâm tại điểm xuất phát đã chọn. Trong thời gian đó, khu vực hiệu ứng bị che khuất nhẹ. |
+| 41–45 | Một đám mây 600 con bướm khổng lồ lấp đầy một hình trụ cao 18 m (60 feet), bán kính 9 m (30 feet) có tâm tại điểm xuất phát đã chọn. Những con bướm tồn tại trong 10 phút, trong thời gian đó khu vực hiệu ứng bị che khuất nặng. |
+| 46–50 | Bạn thi triển *Tia sét* (Lightning Bolt). Đường thẳng được tạo ra bởi phép kéo dài từ bạn đến điểm xuất phát đã chọn. |
 | 51–55 | Sinh vật gần điểm xuất phát đã chọn nhất được phóng to như thể bạn đã thi triển *Phóng to/thu nhỏ* (Enlarge/Reduce) lên nó. Nếu mục tiêu không phải bạn và không thể bị ảnh hưởng bởi phép đó, bạn trở thành mục tiêu thay vào đó. |
 | 56–60 | Một sinh vật được tạo ra bằng ma thuật xuất hiện trong một không gian trống gần điểm xuất phát đã chọn nhất có thể. Sinh vật không nằm dưới sự kiểm soát của bạn, hành động như bình thường, và biến mất sau 1 giờ hoặc khi nó giảm xuống 0 điểm sinh lực. Tung 1d4 để xác định sinh vật nào xuất hiện. Với kết quả 1, một *Tê giác* (Rhinoceros) xuất hiện; với 2, một *Voi* (Elephant) xuất hiện; và với 3–4, một *Chuột* (Rat) xuất hiện. |
 | 61–64 | Cỏ phủ một vòng tròn đất bán kính 18 m (60 feet), với tâm của vòng tròn đó gần điểm xuất phát đã chọn nhất có thể. Cỏ đã có sẵn ở đó phát triển gấp mười lần kích thước bình thường của nó và vẫn mọc um tùm trong 1 phút. |
@@ -2902,15 +2902,15 @@ Trong khi cầm đũa phép này, bạn nhận một điểm cộng vào phép l
 | 73–77 | Lá mọc ra từ sinh vật gần điểm xuất phát đã chọn nhất. Trừ khi chúng bị hái đi, lá chuyển sang màu nâu và rụng sau 24 giờ. |
 | 78–82 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, một luồng ánh sáng rực rỡ, nhiều màu sắc lan tỏa từ bạn trong một vùng tỏa 9 m (30 feet). Mỗi sinh vật trong khu vực phải thành công trong một cứu nguy Thể chất DC 15 hoặc ở trạng thái Mù trong 1 phút. Một sinh vật lặp lại lần cứu nguy vào cuối mỗi lượt của nó, kết thúc hiệu ứng trên bản thân khi thành công. |
 | 83–87 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, bạn thi triển *Vô hình* (Invisibility) lên bản thân. |
-| 88–92 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, một dòng 1d4 × 10 viên đá quý, mỗi viên trị giá 1 GP, bắn ra từ đầu đũa phép trong một đường thẳng dài 9 m (30 feet) và rộng 1,5 m (5 feet) về phía điểm xuất phát đã chọn. Mỗi viên đá gây 1 sát thương đập, và tổng sát thương của các viên đá được chia đều cho tất cả các sinh vật trong đường thẳng. |
-| 93–97 | Bạn thi triển *Biến hình* (Polymorph), nhắm vào sinh vật gần điểm xuất phát đã chọn nhất. Tung 1d4 để xác định hình dạng mới của mục tiêu. Với kết quả 1, hình dạng mới là một *Gấu đen* (Black Bear); với 2, hình dạng mới là một Người khổng lồ Wasp; với 3–4, hình dạng mới là một *Ếch* (Frog). |
+| 88–92 | Không có gì xảy ra tại điểm xuất phát đã chọn. Thay vào đó, một dòng 1d4 × 10 viên đá quý, mỗi viên trị giá 1 gp, bắn ra từ đầu đũa phép trong một đường thẳng dài 9 m (30 feet) và rộng 1,5 m (5 feet) về phía điểm xuất phát đã chọn. Mỗi viên đá gây 1 sát thương đập, và tổng sát thương của các viên đá được chia đều cho tất cả các sinh vật trong đường thẳng. |
+| 93–97 | Bạn thi triển *Biến hình* (Polymorph), nhắm vào sinh vật gần điểm xuất phát đã chọn nhất. Tung 1d4 để xác định hình dạng mới của mục tiêu. Với kết quả 1, hình dạng mới là một *Gấu đen* (Black Bear); với 2, hình dạng mới là một *Ong bắp cày khổng lồ* (Giant Wasp); với 3–4, hình dạng mới là một *Ếch* (Frog). |
 | 98–00 | Sinh vật gần điểm xuất phát đã chọn nhất thực hiện một cứu nguy Thể chất DC 15. Khi thất bại, sinh vật ở trạng thái Kiềm giữ và bắt đầu biến thành đá. Trong khi Kiềm giữ theo cách này, sinh vật lặp lại lần cứu nguy vào cuối lượt tiếp theo của nó. Khi thành công, hiệu ứng kết thúc. Khi thất bại lần cứu nguy đó, sinh vật ở trạng thái Hóa đá thay vì trạng thái Kiềm giữ. Việc hóa đá kéo dài cho đến khi sinh vật được giải thoát bằng phép *Phục hồi cao cấp* (Greater Restoration) hoặc ma thuật tương tự. |
 
 ### Vũ khí +1, +2 hoặc +3 (Weapon, +1, +2, or +3)
 
 *Vũ khí (vũ khí đơn giản hoặc võ thuật bất kỳ), ít gặp (+1), hiếm (+2), hoặc rất hiếm (+3)*
 
-Bạn có một điểm cộng vào lần tung tấn công và lần tung sát thương thực hiện bằng vũ khí ma thuật này. Điểm cộng được xác định bởi độ hiếm của vũ khí.
+Bạn nhận một điểm cộng vào các lần tung tấn công và sát thương thực hiện bằng vũ khí ma thuật này. Điểm cộng được xác định bởi độ hiếm của vũ khí.
 
 ### Vũ khí cảnh giới (Weapon of Warning)
 
@@ -2918,8 +2918,8 @@ Bạn có một điểm cộng vào lần tung tấn công và lần tung sát t
 
 Miễn là vũ khí này trong tầm với của bạn và bạn đã đồng điệu với nó, bạn và đồng minh trong vòng 9 m (30 feet) của bạn nhận các lợi ích sau.
 
-- *Cảnh giác (Alertness).* Vũ khí một cách kỳ diệu đánh thức mỗi đối tượng đang ngủ tự nhiên khi chiến đấu bắt đầu. Lợi ích siêu nhiên này không đánh thức một đối tượng khỏi giấc ngủ do ma thuật gây ra.
-- *Báo trước (Forewarned).* Mỗi đối tượng có lợi thế trên lần tung Sáng kiến của nó.
+- *Báo động (Alarm).* Vũ khí đánh thức bằng ma thuật mỗi đối tượng đang ngủ tự nhiên khi chiến đấu bắt đầu. Lợi ích siêu nhiên này không đánh thức một đối tượng khỏi giấc ngủ do ma thuật gây ra.
+- *Sẵn sàng siêu nhiên (Supernatural Readiness).* Mỗi đối tượng có lợi thế trên lần tung Sáng kiến của nó.
 
 ### Giếng vạn giới (Well of Many Worlds)
 

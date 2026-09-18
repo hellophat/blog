@@ -19,7 +19,7 @@ Bảng thuật ngữ dùng các quy ước sau:
 
 **Xem thêm (See Also).** Một số mục có phần "Xem thêm" dẫn tới các mục khác trong bảng thuật ngữ, tới các phần khác của tài liệu, hoặc cả hai.
 
-**Thuật ngữ lỗi thời (Obsolete Terms).** Bảng thuật ngữ chỉ định nghĩa các thuật ngữ luật hiện hành. Nếu bạn tìm một thuật ngữ từ phiên bản luật phiên bản thứ năm trước đây, hãy tra mục lục.
+**Thuật ngữ lỗi thời (Obsolete Terms).** Bảng thuật ngữ chỉ định nghĩa các thuật ngữ luật hiện hành. Nếu bạn tìm một thuật ngữ từ phiên bản trước của luật phiên bản thứ năm, hãy tra mục lục.
 
 **Chữ viết tắt (Abbreviations).** Các chữ viết tắt dưới đây xuất hiện trong bảng thuật ngữ và ở nơi khác trong luật chơi.
 
@@ -32,7 +32,7 @@ Bảng thuật ngữ dùng các quy ước sau:
 | Cha. | Sức hút (Charisma) | NPC | Nhân vật không phải người chơi (Nonplayer character) |
 | CN | Hỗn loạn trung lập (Chaotic Neutral) | PB | Thưởng thành thạo (Proficiency Bonus) |
 | Con. | Thể chất (Constitution) | PP | Đồng bạch kim (Platinum Piece) |
-| CP | Đồng đồng (Copper Piece) | R | Nghi thức (Ritual) |
+| CP | Xu đồng (Copper Piece) | R | Nghi thức (Ritual) |
 | CR | Mức thách thức (Challenge Rating) | S | Thành phần cử chỉ (Somatic component) |
 | DC | Độ khó (Difficulty Class) | SP | Đồng bạc (Silver Piece) |
 | Dex. | Khéo léo (Dexterity) | Str. | Sức mạnh (Strength) |
@@ -97,7 +97,7 @@ Huấn luyện giáp cho phép bạn mặc giáp thuộc một loại nhất đ�
 
 ### Tấn công (Attack) [Hành động]
 
-Khi thực hiện hành động Tấn công, bạn có thể tung tấn công bằng vũ khí hoặc đòn tay không.
+Khi thực hiện hành động Tấn công, bạn có thể tung tấn công bằng vũ khí hoặc đòn đánh không vũ khí.
 
 *Trang bị và cất vũ khí.* Bạn có thể trang bị hoặc cất một vũ khí khi thực hiện một đòn tấn công thuộc hành động này, trước hoặc sau đòn đó. Nếu trang bị vũ khí trước đòn tấn công, bạn không bắt buộc phải dùng nó cho đòn đó. Trang bị vũ khí gồm rút vũ khí khỏi vỏ hoặc nhặt lên. Cất vũ khí gồm tra vào vỏ, cất đi hoặc thả xuống.
 
@@ -105,7 +105,7 @@ Khi thực hiện hành động Tấn công, bạn có thể tung tấn công b�
 
 ### Lần tung tấn công (Attack Roll)
 
-Lần tung tấn công là một phép thử d20 thể hiện việc tấn công bằng vũ khí, đòn tay không hoặc phép. *Xem thêm:* [Chương 1 – Phép thử d20](01-Playing-the-Game.md#phép-thử-d20-d20-tests).
+Lần tung tấn công là một phép thử d20 thể hiện việc tấn công bằng vũ khí, đòn đánh không vũ khí hoặc phép. *Xem thêm:* [Chương 1 – Phép thử d20](01-Playing-the-Game.md#phép-thử-d20-d20-tests).
 
 ### Thái độ (Attitude) [Thái độ]
 
@@ -460,7 +460,7 @@ Khi ở trạng thái Bị vật lộn, bạn chịu các hiệu ứng sau.
 
 ### Vật lộn (Grappling)
 
-Sinh vật có thể vật lộn sinh vật khác. Nhân vật thường vật lộn bằng đòn tay không. Nhiều quái vật có đòn tấn công đặc biệt giúp nhanh chóng vật lộn con mồi. Dù cuộc vật lộn bắt đầu bằng cách nào, nó tuân theo các quy tắc sau. *Xem thêm:* [Đòn tay không](#đòn-tay-không-unarmed-strike) và [Bị vật lộn](#bị-vật-lộn-grappled-trạng-thái).
+Sinh vật có thể vật lộn sinh vật khác. Nhân vật thường vật lộn bằng đòn đánh không vũ khí. Nhiều quái vật có đòn tấn công đặc biệt giúp nhanh chóng vật lộn con mồi. Dù cuộc vật lộn bắt đầu bằng cách nào, nó tuân theo các quy tắc sau. *Xem thêm:* [Đòn đánh không vũ khí](#đòn-đánh-không-vũ-khí-unarmed-strike) và [Bị vật lộn](#bị-vật-lộn-grappled-trạng-thái).
 
 - *Mỗi tay một cuộc vật lộn.* Vật lộn thành công khiến sinh vật rơi vào trạng thái Bị vật lộn. Sinh vật phải có một tay rảnh để vật lộn sinh vật khác. Một số khối thông số và hiệu ứng cho phép sinh vật vật lộn bằng xúc tu, hàm hoặc bộ phận cơ thể khác. Dù dùng bộ phận nào, kẻ vật lộn chỉ có thể vật lộn một sinh vật mỗi lúc bằng bộ phận đó, và không thể dùng bộ phận đó nhắm vào sinh vật khác trừ khi kết thúc cuộc vật lộn.
 - *Kết thúc trạng thái Bị vật lộn.* Sinh vật Bị vật lộn có thể dùng hành động để thực hiện phép kiểm tra Sức mạnh (Điền kinh) hoặc Khéo léo (Nhào lộn) với DC thoát của cuộc vật lộn; nếu thành công, trạng thái kết thúc với nó. Trạng thái cũng kết thúc nếu kẻ vật lộn rơi vào trạng thái Mất năng lực hành động hoặc khoảng cách giữa mục tiêu và kẻ vật lộn vượt quá tầm của cuộc vật lộn. Ngoài ra, kẻ vật lộn có thể thả mục tiêu bất cứ lúc nào (không cần hành động).
@@ -670,7 +670,7 @@ Một ô bị chiếm nếu có sinh vật trong đó hoặc bị đồ vật l�
 
 ### Tấn công cơ hội (Opportunity Attacks)
 
-Bạn có thể thực hiện tấn công cơ hội khi một sinh vật bạn nhìn thấy rời khỏi tầm với của bạn bằng hành động, hành động phụ, phản ứng hoặc một trong các tốc độ của nó. Để tấn công cơ hội, hãy dùng phản ứng để tấn công cận chiến bằng vũ khí hoặc đòn tay không nhắm vào sinh vật kích hoạt. Đòn tấn công diễn ra ngay trước khi sinh vật rời tầm với của bạn. *Xem thêm:* [Chương 1 – Chiến đấu](01-Playing-the-Game.md#chiến-đấu-combat).
+Bạn có thể thực hiện tấn công cơ hội khi một sinh vật bạn nhìn thấy rời khỏi tầm với của bạn bằng hành động, hành động phụ, phản ứng hoặc một trong các tốc độ của nó. Để tấn công cơ hội, hãy dùng phản ứng để tấn công cận chiến bằng vũ khí hoặc đòn đánh không vũ khí nhắm vào sinh vật kích hoạt. Đòn tấn công diễn ra ngay trước khi sinh vật rời tầm với của bạn. *Xem thêm:* [Chương 1 – Chiến đấu](01-Playing-the-Game.md#chiến-đấu-combat).
 
 ### Tê liệt (Paralyzed) [Trạng thái]
 
@@ -953,11 +953,11 @@ Nếu có chân thị, thị giác của bạn được tăng cường trong m�
 - *Biến đổi.* Bạn nhận ra hình dạng thật của sinh vật hay đồ vật đã bị ma thuật biến đổi mà bạn nhìn thấy.
 - *Cõi Ethereal.* Bạn nhìn được vào Cõi Ethereal.
 
-### Đòn tay không (Unarmed Strike)
+### Đòn đánh không vũ khí (Unarmed Strike)
 
-Thay vì dùng vũ khí để tấn công cận chiến, bạn có thể đấm, đá, húc đầu hoặc tung một đòn mạnh tương tự. Trong luật chơi, đây là đòn tay không — đòn tấn công cận chiến dùng cơ thể để gây sát thương, vật lộn hoặc xô một mục tiêu trong phạm vi 1,5 m (5 feet) quanh bạn.
+Thay vì dùng vũ khí để tấn công cận chiến, bạn có thể đấm, đá, húc đầu hoặc tung một đòn mạnh tương tự. Trong luật chơi, đây là đòn đánh không vũ khí — đòn tấn công cận chiến dùng cơ thể để gây sát thương, vật lộn hoặc xô một mục tiêu trong phạm vi 1,5 m (5 feet) quanh bạn.
 
-Mỗi khi dùng đòn tay không, hãy chọn một trong các hiệu ứng sau.
+Mỗi khi dùng đòn đánh không vũ khí, hãy chọn một trong các hiệu ứng sau.
 
 - *Sát thương.* Bạn tung tấn công nhắm vào mục tiêu. Thưởng của lần tung bằng hệ số Sức mạnh cộng thưởng thành thạo. Nếu trúng, mục tiêu chịu sát thương đập bằng 1 cộng hệ số Sức mạnh của bạn.
 - *Vật lộn.* Mục tiêu phải thành công cứu nguy Sức mạnh hoặc Khéo léo (nó chọn), nếu không rơi vào trạng thái Bị vật lộn. DC của lần cứu nguy và mọi nỗ lực thoát bằng 8 cộng hệ số Sức mạnh và thưởng thành thạo của bạn. Chỉ vật lộn được nếu mục tiêu không lớn hơn bạn quá một bậc kích cỡ và bạn có một tay rảnh để tóm nó. *Xem thêm:* [Vật lộn](#vật-lộn-grappling).

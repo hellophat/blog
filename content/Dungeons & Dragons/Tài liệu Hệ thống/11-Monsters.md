@@ -41,7 +41,7 @@ Trò chơi có các loại sinh vật sau, bản thân chúng không có quy t�
 - **Tiên (Fey)** là sinh vật gắn với Feywild hoặc các sức mạnh tự nhiên, như dryad và goblin.
 - **Ác quỷ (Fiends)** là sinh vật gắn với Hạ giới đáng sợ, như balor và chó săn địa ngục.
 - **Người khổng lồ (Giants)** là sinh vật to lớn mang hình dáng giống người, như người khổng lồ lửa và troll.
-- **Hình người (Humanoids)** là những con người được xác định qua vai trò và nghề nghiệp, như pháp sư, cướp biển và chiến binh. Họ thuộc nhiều giống loài khác nhau.
+- **Hình người (Humanoids)** là những người được xác định qua vai trò và nghề nghiệp, như pháp sư, cướp biển và chiến binh. Họ thuộc nhiều giống loài khác nhau.
 - **Quái thể (Monstrosities)** là sinh vật dị thường có nguồn gốc kỳ lạ, như mimic và owlbear.
 - **Chất nhờn (Oozes)** là sinh vật dạng keo, như black pudding và gelatinous cube.
 - **Thực vật (Plants)** là thực vật có tri giác và quái vật nấm, như shambling mound và treant.
@@ -86,15 +86,15 @@ Hệ số Thể chất của quái vật được nhân với số xúc xắc si
 
 **Kháng và dễ tổn thương (Resistances and Vulnerabilities).** Các mục này liệt kê những loại sát thương quái vật kháng hoặc dễ tổn thương, nếu có. Xem [Chương 1 – Kháng và dễ tổn thương](01-Playing-the-Game.md#kháng-và-dễ-tổn-thương-resistance-and-vulnerability) để biết thêm.
 
-**Miễn nhiễm (Immunities).** Mục này liệt kê những thứ quái vật miễn nhiễm, nếu có. Nếu quái vật miễn nhiễm cả sát thương lẫn trạng thái, các loại sát thương được liệt kê trước trạng thái.
+**Miễn nhiễm (Immunities).** Mục này liệt kê những thứ quái vật miễn nhiễm, nếu có. Nếu quái vật miễn nhiễm cả sát thương lẫn trạng thái, các loại sát thương được liệt kê trước trạng thái. Xem [Chương 1 – Chiến đấu](01-Playing-the-Game.md#chiến-đấu-combat) để biết chi tiết.
 
 **Trang bị (Gear).** Quái vật thành thạo trang bị của mình. Nếu quái vật có trang bị có thể trao đi hoặc thu lại, các vật phẩm đó được liệt kê ở mục Trang bị. Khối thông số có thể có những điểm đặc biệt khi quái vật dùng một vật phẩm, và có thể bỏ qua quy tắc ở [Chương 6 – Trang bị](06-Equipment.md#đồ-phiêu-lưu-adventuring-gear) cho vật phẩm đó. Khi người khác dùng, vật phẩm thu lại được tuân theo quy tắc ở Chương 6, bỏ qua các điểm đặc biệt trong khối thông số.
 
 Mục Trang bị không nhất thiết liệt kê toàn bộ đồ đạc của quái vật. Ví dụ, quái vật mặc quần áo được mặc định là ăn mặc phù hợp, và quần áo không ghi ở mục này. Trang bị được nhắc tới ngoài mục Trang bị được coi là siêu nhiên hoặc rất đặc thù, và không dùng được sau khi quái vật bị đánh bại.
 
-*Đạn dược và tấn công tầm xa.* Quái vật cần đạn để tấn công tầm xa luôn mang đủ đạn cần thiết.
+*Đạn dược và tấn công tầm xa (Ammunition and Ranged Attacks).* Quái vật cần đạn để tấn công tầm xa luôn mang đủ đạn cần thiết.
 
-*Trang bị thêm đồ cho quái vật.* Bạn có thể trang bị thêm cho quái vật theo ý muốn, lấy cảm hứng từ các vật phẩm ở Chương 6. Bạn quyết định bao nhiêu trang bị có thể thu lại sau khi sinh vật bị giết và chúng còn dùng được hay không.
+*Trang bị vật phẩm khác cho quái vật (Equipping a Monster with Other Items).* Bạn có thể trang bị thêm cho quái vật theo ý muốn, lấy cảm hứng từ các vật phẩm ở Chương 6. Bạn quyết định bao nhiêu trang bị có thể thu lại sau khi sinh vật bị giết và chúng còn dùng được hay không.
 
 Hãy cẩn thận khi cho quái vật vật phẩm ma thuật thiên về chiến đấu, vì chúng có thể làm thay đổi Mức thách thức. Nếu bạn cho quái vật một vật phẩm ma thuật, quái vật có thể hòa hợp với vật phẩm như ghi ở [Chương 6 – Vật phẩm ma thuật](06-Equipment.md#vật-phẩm-ma-thuật-magic-items). Quái vật có nhãn lớp nhân vật sau loại sinh vật được coi là thành viên của lớp đó khi xét điều kiện hòa hợp.
 
@@ -102,7 +102,7 @@ Hãy cẩn thận khi cho quái vật vật phẩm ma thuật thiên về chiế
 
 **Ngôn ngữ (Languages).** Mục này liệt kê các ngôn ngữ quái vật dùng để giao tiếp. Đôi khi quái vật hiểu một ngôn ngữ nhưng không nói được, và điều này được ghi trong mục. "Không" (None) nghĩa là sinh vật không hiểu ngôn ngữ nào.
 
-*Thần giao cách cảm.* Thần giao cách cảm là khả năng ma thuật cho phép sinh vật giao tiếp bằng tâm trí với sinh vật khác trong một phạm vi nhất định. Xem [Chương 8 – Thần giao cách cảm](08-Rules-Glossary.md#thần-giao-cách-cảm-telepathy) để biết thêm.
+*Thần giao cách cảm (Telepathy).* Thần giao cách cảm là khả năng ma thuật cho phép sinh vật giao tiếp bằng tâm trí với sinh vật khác trong một phạm vi nhất định. Xem [Chương 8 – Thần giao cách cảm](08-Rules-Glossary.md#thần-giao-cách-cảm-telepathy) để biết thêm.
 
 **Mức thách thức (Challenge Rating).** Mức thách thức được định nghĩa ở [Chương 8 – Mức thách thức](08-Rules-Glossary.md#mức-thách-thức-challenge-rating), còn hướng dẫn dùng CR để lên kế hoạch cuộc chạm trán chiến đấu nằm ở [Chương 9 – Cuộc chạm trán chiến đấu](09-Gameplay-Toolbox.md#cuộc-chạm-trán-chiến-đấu-combat-encounters).
 
@@ -147,7 +147,7 @@ Trừ khi quy tắc nói khác, quái vật được triệu hồi bằng phép 
 
 **Hành động (Actions).** Quái vật có thể thực hiện các hành động trong phần này, hoặc một trong các hành động mà mọi sinh vật đều có, như mô tả ở [Chương 1 – Hành động](01-Playing-the-Game.md#hành-động-actions).
 
-*Ký hiệu tấn công.* Mục mô tả đòn tấn công của quái vật cho biết đó là tấn công cận chiến hay tầm xa, rồi ghi thưởng tung tấn công, tầm với hoặc tầm, và điều xảy ra khi trúng. Đòn tấn công nhắm một mục tiêu trừ khi mô tả nói khác. Để biết chi tiết về các loại tấn công, xem [Chương 1 – Thực hiện đòn tấn công](01-Playing-the-Game.md#thực-hiện-đòn-tấn-công-making-an-attack) và [Chương 7 – Thi triển phép](07-Spells.md#thi-triển-phép-casting-spells).
+*Ký hiệu tấn công (Attack Notation).* Mục mô tả đòn tấn công của quái vật cho biết đó là tấn công cận chiến hay tầm xa, rồi ghi điểm cộng của lần tung tấn công, tầm với hoặc tầm, và điều xảy ra khi trúng. Đòn tấn công nhắm một mục tiêu trừ khi mô tả nói khác. Để biết chi tiết về các loại tấn công, xem [Chương 1 – Thực hiện đòn tấn công](01-Playing-the-Game.md#thực-hiện-đòn-tấn-công-making-an-attack) và [Chương 7 – Thi triển phép](07-Spells.md#thi-triển-phép-casting-spells).
 
 *Trúng (Hit).* Sát thương gây ra hoặc hiệu ứng khác xảy ra khi đòn tấn công trúng mục tiêu được mô tả sau chữ "Trúng".
 
@@ -155,11 +155,11 @@ Trừ khi quy tắc nói khác, quái vật được triệu hồi bằng phép 
 
 *Trúng hoặc trượt (Hit or Miss).* Nếu đòn tấn công có hiệu ứng xảy ra dù trúng hay trượt, thông tin đó nằm sau chữ "Trúng hoặc trượt".
 
-*Ký hiệu hiệu ứng cứu nguy.* Nếu hiệu ứng buộc cứu nguy, nó ghi loại cứu nguy cần thực hiện, rồi ghi DC, mô tả sinh vật nào phải cứu nguy, và giải thích điều xảy ra khi thất bại hoặc thành công.
+*Ký hiệu hiệu ứng cứu nguy (Saving Throw Effect Notation).* Nếu hiệu ứng buộc cứu nguy, nó ghi loại cứu nguy cần thực hiện, rồi ghi DC, mô tả sinh vật nào phải cứu nguy, và giải thích điều xảy ra khi thất bại hoặc thành công.
 
 "Chỉ một nửa sát thương" (Half damage only) khi cứu nguy thành công nghĩa là mục tiêu chịu một nửa sát thương (làm tròn xuống) so với mục tiêu thất bại, và bỏ qua mọi phần khác của hiệu ứng.
 
-*Ký hiệu sát thương.* Khối thông số thường ghi cả con số lẫn biểu thức xúc xắc cho mỗi lần gây sát thương. Ví dụ, một đòn tấn công có thể gây 4 (1d4 + 2) sát thương khi trúng. Bạn quyết định dùng con số hay biểu thức xúc xắc trong ngoặc; không dùng cả hai.
+*Ký hiệu sát thương (Damage Notation).* Khối thông số thường ghi cả con số lẫn biểu thức xúc xắc cho mỗi lần gây sát thương. Ví dụ, một đòn tấn công có thể gây 4 (1d4 + 2) sát thương khi trúng. Bạn quyết định dùng con số hay biểu thức xúc xắc trong ngoặc; không dùng cả hai.
 
 *Đa đòn (Multiattack).* Một số sinh vật có thể tấn công nhiều lần khi thực hiện hành động Tấn công. Những sinh vật này có mục Đa đòn trong phần Hành động của khối thông số. Mục này nêu các đòn tấn công sinh vật có thể thực hiện, cùng các khả năng bổ sung nó có thể dùng, trong hành động Tấn công.
 
@@ -167,9 +167,9 @@ Trừ khi quy tắc nói khác, quái vật được triệu hồi bằng phép 
 
 Phép của quái vật có thể có quy tắc hoặc hạn chế đặc biệt. Ví dụ, green hag có thể thi triển phép *Vô hình* (Invisibility), nhưng phép có hạn chế "chỉ bản thân" (self only), nghĩa là phép chỉ tác động lên hag.
 
-*Thành phần phép.* Đặc điểm Thi triển phép ghi rõ quái vật có bỏ qua một số thành phần phép hay không. Nếu phép cần thành phần, hãy mô tả quái vật dùng thành phần lời nói, cử chỉ hoặc vật chất để báo hiệu cho nhân vật biết nó đang thi triển phép. Quái vật cần thành phần vật chất luôn có sẵn chúng.
+*Thành phần phép (Spell Components).* Đặc điểm Thi triển phép ghi rõ quái vật có bỏ qua một số thành phần phép hay không. Nếu phép cần thành phần, hãy mô tả quái vật dùng thành phần lời nói, cử chỉ hoặc vật chất để báo hiệu cho nhân vật biết nó đang thi triển phép. Quái vật cần thành phần vật chất luôn có sẵn chúng.
 
-*Thời gian thi triển từ 1 phút trở lên.* Nếu phép có thời gian thi triển từ 1 phút trở lên nhưng được liệt kê trong một hành động thi triển phép, quái vật không thi triển phép đó chỉ trong một hành động, trừ khi mô tả hành động nói khác; quái vật phải thực hiện hành động Ma thuật mỗi lượt và duy trì Tập trung để thi triển, như mô tả ở [Chương 8 – Ma thuật](08-Rules-Glossary.md#ma-thuật-magic-hành-động).
+*Thời gian thi triển từ 1 phút trở lên (Casting Times of 1+ Minutes).* Nếu phép có thời gian thi triển từ 1 phút trở lên nhưng được liệt kê trong một hành động thi triển phép, quái vật không thi triển phép đó chỉ trong một hành động, trừ khi mô tả hành động nói khác; quái vật phải thực hiện hành động Ma thuật mỗi lượt và duy trì Tập trung để thi triển, như mô tả ở [Chương 8 – Ma thuật](08-Rules-Glossary.md#ma-thuật-magic-hành-động).
 
 **Hành động phụ (Bonus Actions).** Nếu quái vật có lựa chọn hành động phụ, chúng được liệt kê trong phần này. Xem [Chương 1 – Hành động phụ](01-Playing-the-Game.md#hành-động-phụ-bonus-actions) để biết chi tiết.
 
@@ -185,10 +185,10 @@ Quái vật có số lần dùng hành động huyền thoại giới hạn, ghi
 - *Hồi X–Y (Recharge X–Y).* Quái vật có thể dùng phần đó một lần. Vào đầu mỗi lượt của quái vật, tung 1d6. Nếu kết quả nằm trong khoảng ghi ở ký hiệu (X–Y), quái vật hồi lần dùng của phần đó. Phần này cũng được nạp lại khi quái vật hoàn thành lần nghỉ ngắn hoặc nghỉ dài. Ví dụ, "Hồi 5–6" ở một hành động nghĩa là quái vật có thể thực hiện hành động đó một lần; sau đó, vào đầu mỗi lượt tiếp theo, nó hồi lần dùng nếu tung được 5 hoặc 6 trên 1d6.
 - *Hồi sau nghỉ ngắn hoặc nghỉ dài (Recharge after a Short or Long Rest).* Quái vật có thể dùng phần đó một lần và phải hoàn thành lần nghỉ ngắn hoặc nghỉ dài mới dùng lại được.
 
-## Điều khiển quái vật (Running Monsters)
+## Điều khiển một quái vật (Running a Monster)
 
 Để quái vật hành động đúng với Mức thách thức, hãy tuân theo các quy tắc sau trong chiến đấu:
 
 - **Khả năng đặc biệt (Special Abilities).** Nếu quái vật có khả năng đặc biệt gây nhiều sát thương nhưng giới hạn số lần dùng, như vũ khí hơi thở cần nạp lại hay một phép chỉ thi triển được một lần mỗi ngày, hãy cho nó dùng khả năng đó càng sớm và càng thường xuyên càng tốt.
 - **Đa đòn (Multiattack).** Nếu quái vật có Đa đòn, hãy cho nó dùng Đa đòn trong mọi lượt nó không dùng một khả năng mạnh hơn.
-- **Hành động phụ, phản ứng, hành động huyền thoại.** Nếu khối thông số của quái vật có hành động phụ, phản ứng hoặc hành động huyền thoại, hãy bảo đảm nó dùng chúng thường xuyên nhất có thể.
+- **Hành động phụ, phản ứng và hành động huyền thoại (Bonus Actions, Reactions, Legendary Actions).** Nếu khối thông số của quái vật có hành động phụ, phản ứng hoặc hành động huyền thoại, hãy bảo đảm nó dùng chúng thường xuyên nhất có thể.

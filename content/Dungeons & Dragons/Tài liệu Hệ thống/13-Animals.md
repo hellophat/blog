@@ -64,7 +64,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 - *Đa đòn (Multiattack).* Ape thực hiện hai đòn Nắm đấm.
 - *Nắm đấm (Fist).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương đập.
-- *Ném đá (Rock; Hồi 6).* Tung tấn công tầm xa: +5, tầm 7,5/15 m (25/15 m (50 ft.)) Trúng: 10 (2d6 + 3) sát thương đập.
+- *Ném đá (Rock; Hồi 6).* Tung tấn công tầm xa: +5, tầm 7,5/15 m (25/50 ft.) Trúng: 10 (2d6 + 3) sát thương đập.
 
 ### Rùa cổ Archelon (Archelon)
 
@@ -792,7 +792,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Phản ứng*
 
-- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Bạch tuộc chịu sát thương trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 3 m (10 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. khối lập phương bị bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
+- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Bạch tuộc chịu sát thương trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 3 m (10 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. Khối lập phương bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
 
 ### Cú khổng lồ (Giant Owl)
 
@@ -1308,7 +1308,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Phản ứng*
 
-- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Một sinh vật kết thúc lượt của nó trong vòng 1,5 m (5 feet) của bạch tuộc trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 1,5 m (5 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. khối lập phương bị bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
+- *Mây mực (Ink Cloud; 1/Ngày).* Kích hoạt: Một sinh vật kết thúc lượt của nó trong phạm vi 1,5 m (5 feet) của bạch tuộc trong khi ở dưới nước. Phản hồi: Bạch tuộc giải phóng mực lấp đầy một khối lập phương 1,5 m (5 feet) có tâm tại bản thân, và bạch tuộc di chuyển tối đa Tốc độ bơi của nó. Khối lập phương bị che khuất nặng trong 1 phút hoặc cho đến khi một dòng chảy mạnh hoặc hiệu ứng tương tự làm tan mực.
 
 ### Cú (Owl)
 
@@ -1350,7 +1350,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Báo thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Báo thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 ### Cá piranha (Piranha)
 
@@ -1569,7 +1569,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 ### Bọ cạp (Scorpion)
 
@@ -1785,7 +1785,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Hành động phụ*
 
-- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Hide.
+- *Thoát thân nhanh nhẹn (Nimble Escape).* Hổ thực hiện hành động Rút lui hoặc Ẩn nấp.
 
 ### Khủng long ba sừng (Triceratops)
 

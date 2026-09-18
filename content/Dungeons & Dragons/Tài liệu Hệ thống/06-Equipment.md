@@ -635,7 +635,7 @@ Thú cưỡi giúp bạn đi nhanh hơn qua vùng hoang dã, nhưng công dụng
 
 **Tốc độ (Speed).** Lưu ý sau:
 
-Tàu đi ngược gió mạnh chỉ đạt nửa tốc độ. Khi lặng gió, tàu không thể đi bằng buồm mà phải chèo. Thuyền đáy bằng (Keelboat) và Thuyền chèo (Rowboat) dùng trên hồ và sông. Nếu xuôi dòng, cộng tốc độ dòng nước (thường 4,8 km/h; 3 mile/giờ) vào tốc độ phương tiện. Các phương tiện này không thể chèo ngược dòng chảy mạnh, nhưng có thể được động vật trên bờ kéo ngược dòng. Thuyền chèo có thể khiêng theo và nặng 45 kg (100 pound).
+Tàu đi ngược gió mạnh chỉ đạt nửa tốc độ. Khi lặng gió, tàu không thể đi bằng buồm mà phải chèo. Thuyền đáy bằng (Keelboat) và Thuyền chèo (Rowboat) dùng trên hồ và sông. Nếu xuôi dòng, cộng tốc độ dòng nước (thường 4,8 km/h; 3 mph) vào tốc độ phương tiện. Các phương tiện này không thể chèo ngược dòng chảy mạnh, nhưng có thể được động vật trên bờ kéo ngược dòng. Thuyền chèo có thể khiêng theo và nặng 45 kg (100 lb.).
 
 **Phương tiện trên không và trên nước (Airborne and Waterborne Vehicles)**
 
@@ -745,7 +745,7 @@ Các cuộc phiêu lưu hứa hẹn — nhưng không bảo đảm — cơ hội
 
 Phép *Nhận diện* (Identify) là cách nhanh nhất để biết thuộc tính của vật phẩm. Ngoài ra, bạn có thể tập trung vào vật phẩm trong một lần nghỉ ngắn khi tiếp xúc trực tiếp với nó. Cuối lần nghỉ, bạn biết thuộc tính và cách dùng (nhưng không biết lời nguyền nếu có).
 
-Đôi khi vật phẩm mang manh mối về thuộc tính. Lệnh kích hoạt của *Nhẫn rơi nhẹ* (Ring of Feather Falling) có thể được khắc bên trong nhẫn, hoặc hoa văn lông vũ có thể gợi ý công dụng của nó.
+Đôi khi vật phẩm mang manh mối về thuộc tính. Từ lệnh để kích hoạt một chiếc nhẫn có thể được khắc bên trong vòng nhẫn, hoặc hoa văn lông vũ có thể gợi ý rằng đó là *Nhẫn rơi nhẹ* (Ring of Feather Falling).
 
 Mặc thử hoặc thử nghiệm cũng có thể hé lộ thuộc tính. Riêng với thuốc ma thuật, nếm một chút là đủ biết tác dụng. Vật phẩm khác có thể cần thử nhiều hơn. Ví dụ, nếu nhân vật đeo *Nhẫn bơi lội* (Ring of Swimming), GM có thể nói: "Cử động của bạn trơn tru đến lạ." Có thể sau đó bạn nhảy xuống sông xem chuyện gì xảy ra, và GM sẽ nói bạn bơi giỏi bất ngờ.
 

@@ -494,7 +494,7 @@ Dùng các hướng dẫn sau để tạo cuộc chạm trán chiến đấu v�
 *Ví dụ 1.* Cuộc chạm trán độ khó thấp cho bốn nhân vật cấp 1 có ngân sách 50 × 4 = 200 XP. Với ngân sách đó, bạn có thể dựng bất kỳ cuộc chạm trán nào sau:
 
 - 1 Bugbear Warrior (200 XP)
-- 2 Giant Wasp (100 XP mỗi con), tổng 200 XP
+- 2 *Ong bắp cày khổng lồ* (Giant Wasp; 100 XP mỗi con), tổng 200 XP
 - 6 Giant Rat (25 XP mỗi con), tổng 150 XP
 
 *Ví dụ 2.* Cuộc chạm trán độ khó vừa cho năm nhân vật cấp 3 có ngân sách 225 × 5 = 1.125 XP. Với ngân sách đó, bạn có thể dựng một trong hai cuộc chạm trán sau:

@@ -53,6 +53,22 @@ Tên riêng fantasy không có từ Việt tương đương được giữ nguy�
 
 Tệp dùng tên ASCII ổn định để URL nhất quán; tiêu đề hiển thị giữ đầy đủ dấu tiếng Việt.
 
+### Quy ước riêng cho SRD 5.2.1
+
+SRD 5.2.1 dùng hệ thuật ngữ luật của D&D 2024. Ngoài các nguyên tắc kế thừa từ bản Luật cơ bản 2018, bản dịch này áp dụng thêm các quy ước sau:
+
+- Thuật ngữ luật được trình bày dưới dạng **Tiếng Việt (English)** ở tiêu đề và lần xuất hiện đầu tiên trong một mục lớn. Sau đó ưu tiên dùng tiếng Việt để câu văn tự nhiên. Tên phép, vật phẩm ma thuật, quái vật và các mục cần tra cứu vẫn giữ tên tiếng Anh trong ngoặc.
+- Tên chính thức của hành động và trạng thái được viết hoa để phân biệt với nghĩa thông thường: **hành động Tấn công**, **hành động Ma thuật**, **trạng thái Mù**, **trạng thái Bất tỉnh**. Các từ không chỉ cơ chế cụ thể được viết thường.
+- Các hành động mới hoặc được chuẩn hóa trong luật 2024 được dịch thống nhất: **Influence** → **Tác động**, **Magic** → **Ma thuật**, **Search** → **Tìm kiếm**, **Study** → **Nghiên cứu**, **Utilize** → **Sử dụng**.
+- Các thuật ngữ cơ chế 2024 được dịch thống nhất: **Heroic Inspiration** → **Cảm hứng anh hùng**, **Weapon Mastery** → **Tinh thông vũ khí**, **Mastery Property** → **thuộc tính Tinh thông**, **Unarmed Strike** → **đòn đánh không vũ khí**, **Bloodied** → **Đẫm máu**.
+- Phân biệt rõ các thuật ngữ về khoảng cách: **movement** → **lượng di chuyển**, **Speed** → **Tốc độ**, **Range** → **tầm**, **Reach** → **tầm với**, **teleport** → **dịch chuyển tức thời**.
+- Trong mô tả phép, dùng cố định các nhãn **Thời gian thi triển**, **Tầm**, **Thành phần**, **Thời lượng** và **Khi thi triển ở bậc cao hơn**. **Character level** là **cấp nhân vật**; **spell level** là **bậc phép**; **spell slot** là **ô phép**.
+- **Use** khi chỉ tài nguyên giới hạn được dịch là **lượt sử dụng**; **expend** là **tiêu hao**; **regain** là **hồi lại**. Không dùng “lượt” cho một lần kích hoạt nếu bản gốc không mô tả một tài nguyên có số lần dùng giới hạn.
+- Trong câu chỉ dẫn, dùng **bạn** cho đối tượng mà quy tắc đang áp dụng và **nhân vật** khi nói về thực thể trên phiếu nhân vật. Không luân phiên “bạn”, “người chơi” và “nhân vật” nếu bản gốc không đổi chủ thể.
+- Trong khối thông số, giữ nguyên các mã **AC**, **HP**, **DC**, **PB**, **CR**, **XP**, ký hiệu xúc xắc và công thức. Nhãn trường được Việt hóa; tên tiếng Anh được giữ trong tiêu đề để tra cứu.
+- *Tên phép* và *vật phẩm ma thuật* được in nghiêng; **thuật ngữ luật** được in đậm tại điểm định nghĩa; `code` chỉ dành cho ký hiệu xúc xắc, công thức hoặc giá trị kỹ thuật khi cần tránh nhập nhằng.
+- Đoạn ghi công CC-BY-4.0 bằng tiếng Anh được giữ nguyên văn. Bản diễn giải tiếng Việt, nếu có, chỉ mang tính hỗ trợ và không thay thế nội dung ghi công bắt buộc.
+
 ## Mục lục chi tiết
 
 - [Chương 1: Chơi trò chơi](01-Playing-the-Game.md)
@@ -81,6 +97,7 @@ Tệp dùng tên ASCII ổn định để URL nhất quán; tiêu đề hiển t
     - [Hiểm họa (Hazards)](01-Playing-the-Game.md#hiểm-họa-hazards)
     - [Hành trình (Travel)](01-Playing-the-Game.md#hành-trình-travel)
   - [Chiến đấu (Combat)](01-Playing-the-Game.md#chiến-đấu-combat)
+    - [Thứ tự chiến đấu (The Order of Combat)](01-Playing-the-Game.md#thứ-tự-chiến-đấu-the-order-of-combat)
     - [Lượt của bạn (Your Turn)](01-Playing-the-Game.md#lượt-của-bạn-your-turn)
     - [Di chuyển và vị trí (Movement and Position)](01-Playing-the-Game.md#di-chuyển-và-vị-trí-movement-and-position)
     - [Thực hiện đòn tấn công (Making an Attack)](01-Playing-the-Game.md#thực-hiện-đòn-tấn-công-making-an-attack)

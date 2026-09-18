@@ -71,7 +71,7 @@ Bạn có thể Cuồng nộ số lần ghi ở cột Số lần Cuồng nộ �
 Khi đang Cuồng nộ, bạn tuân theo các quy tắc sau:
 
 - **Kháng sát thương (Damage Resistance).** Bạn kháng sát thương đập, xuyên và chém.
-- **Sát thương Cuồng nộ (Rage Damage).** Khi tấn công bằng Sức mạnh — với vũ khí hoặc đòn tay không — và gây sát thương lên mục tiêu, bạn được cộng thêm sát thương tăng theo cấp Man rợ, như trong cột Sát thương Cuồng nộ.
+- **Sát thương Cuồng nộ (Rage Damage).** Khi tấn công bằng Sức mạnh — với vũ khí hoặc đòn đánh không vũ khí — và gây sát thương lên mục tiêu, bạn được cộng thêm sát thương tăng theo cấp Man rợ, như trong cột Sát thương Cuồng nộ.
 - **Sức mạnh vượt trội (Strength Advantage).** Bạn có lợi thế khi kiểm tra Sức mạnh và cứu nguy Sức mạnh.
 - **Không Tập trung hay thi triển phép (No Concentration or Spells).** Bạn không thể duy trì Tập trung và không thể thi triển phép.
 - **Thời lượng (Duration).** Cuồng nộ kéo dài đến hết lượt kế tiếp của bạn và kết thúc sớm nếu bạn mặc giáp nặng hoặc rơi vào trạng thái Mất năng lực hành động. Nếu Cuồng nộ vẫn còn vào lượt kế tiếp, bạn có thể kéo dài thêm một vòng bằng một trong các cách sau:
@@ -105,7 +105,7 @@ Khi đạt một số cấp Man rợ nhất định, bạn có thể dùng thu�
 
 **Cấp 7: Vồ theo bản năng (Instinctive Pounce).** Trong cùng hành động phụ dùng để vào Cuồng nộ, bạn có thể di chuyển tối đa một nửa Tốc độ.
 
-**Cấp 9: Đòn tàn bạo (Brutal Strike).** Nếu dùng Tấn công liều lĩnh, bạn có thể từ bỏ lợi thế ở một lần tung tấn công dựa trên Sức mạnh tùy chọn trong lượt. Lần tung được chọn không được chịu bất lợi. Nếu nó trúng, mục tiêu chịu thêm 1d10 sát thương cùng loại với sát thương của vũ khí hoặc đòn tay không, và bạn có thể gây một hiệu ứng Đòn tàn bạo tùy chọn. Bạn có các lựa chọn sau:
+**Cấp 9: Đòn tàn bạo (Brutal Strike).** Nếu dùng Tấn công liều lĩnh, bạn có thể từ bỏ lợi thế ở một lần tung tấn công dựa trên Sức mạnh tùy chọn trong lượt. Lần tung được chọn không được chịu bất lợi. Nếu nó trúng, mục tiêu chịu thêm 1d10 sát thương cùng loại với sát thương của vũ khí hoặc đòn đánh không vũ khí, và bạn có thể gây một hiệu ứng Đòn tàn bạo tùy chọn. Bạn có các lựa chọn sau:
 
 - **Đòn hất văng (Forceful Blow).** Mục tiêu bị đẩy thẳng ra xa bạn 4,5 m (15 feet). Sau đó bạn có thể di chuyển tối đa một nửa Tốc độ thẳng về phía mục tiêu mà không kích hoạt tấn công cơ hội.
 - **Đòn cắt gân (Hamstring Blow).** Tốc độ của mục tiêu giảm 4,5 m (15 feet) cho đến đầu lượt kế tiếp của bạn. Mỗi lúc, mục tiêu chỉ chịu ảnh hưởng của một Đòn cắt gân — đòn gần nhất.
@@ -137,11 +137,11 @@ Ngoài ra, Cuồng nộ giờ dữ dội đến mức kéo dài 10 phút mà kh�
 
 Man rợ đi theo Con đường Cuồng chiến dồn Cuồng nộ chủ yếu vào bạo lực. Con đường của họ là cơn thịnh nộ không kiềm chế, và họ say sưa trong hỗn loạn chiến trận khi để Cuồng nộ chiếm lấy và tiếp sức.
 
-**Cấp 3: Điên loạn (Frenzy).** Nếu dùng Tấn công liều lĩnh khi đang Cuồng nộ, bạn gây thêm sát thương lên mục tiêu đầu tiên mà bạn đánh trúng trong lượt bằng đòn tấn công dựa trên Sức mạnh. Để tính sát thương thêm, tung số viên d6 bằng điểm cộng Sát thương Cuồng nộ rồi cộng lại. Sát thương này cùng loại với vũ khí hoặc đòn tay không dùng để tấn công.
+**Cấp 3: Điên loạn (Frenzy).** Nếu dùng Tấn công liều lĩnh khi đang Cuồng nộ, bạn gây thêm sát thương lên mục tiêu đầu tiên mà bạn đánh trúng trong lượt bằng đòn tấn công dựa trên Sức mạnh. Để tính sát thương thêm, tung số viên d6 bằng điểm cộng Sát thương Cuồng nộ rồi cộng lại. Sát thương này cùng loại với vũ khí hoặc đòn đánh không vũ khí dùng để tấn công.
 
 **Cấp 6: Cuồng nộ vô tri (Mindless Rage).** Khi đang Cuồng nộ, bạn miễn nhiễm trạng thái Mê hoặc và Hoảng sợ. Nếu đang bị Mê hoặc hoặc Hoảng sợ khi vào Cuồng nộ, trạng thái đó kết thúc.
 
-**Cấp 10: Trả đũa (Retaliation).** Khi chịu sát thương từ một sinh vật trong phạm vi 1,5 m (5 feet), bạn có thể dùng phản ứng để tấn công cận chiến sinh vật đó bằng vũ khí hoặc đòn tay không.
+**Cấp 10: Trả đũa (Retaliation).** Khi chịu sát thương từ một sinh vật trong phạm vi 1,5 m (5 feet), bạn có thể dùng phản ứng để tấn công cận chiến sinh vật đó bằng vũ khí hoặc đòn đánh không vũ khí.
 
 **Cấp 14: Khí thế đáng sợ (Intimidating Presence).** Bằng một hành động phụ, bạn có thể gieo nỗi kinh hoàng bằng khí thế đe dọa và sức mạnh nguyên thủy. Khi đó, mỗi sinh vật tùy chọn trong vùng tỏa 9 m (30 feet) quanh bạn phải cứu nguy Minh triết (DC bằng 8 + hệ số Sức mạnh + thưởng thành thạo của bạn). Nếu thất bại, sinh vật rơi vào trạng thái Hoảng sợ trong 1 phút. Cuối mỗi lượt của mình, sinh vật Hoảng sợ lặp lại lần cứu nguy, kết thúc hiệu ứng lên bản thân nếu thành công.
 
@@ -817,7 +817,7 @@ Các cột 1–9 là số ô phép theo bậc phép.
 
 **Cấp 1: Tiếng Druid (Druidic).** Bạn biết Druidic, ngôn ngữ bí mật của các Druid. Trong lúc học thứ tiếng cổ xưa này, bạn cũng khám phá ra ma thuật trò chuyện với động vật; bạn luôn chuẩn bị sẵn phép *Nói chuyện với muông thú* (Speak with Animals).
 
-Bạn có thể dùng tiếng Druid để để lại thông điệp ẩn. Bạn và những ai biết tiếng Druid tự động nhận ra các thông điệp đó. Người khác phát hiện được sự tồn tại của thông điệp nếu thành công phép kiểm tra Trí tuệ (Điều tra) DC 15, nhưng không thể giải mã nếu không dùng ma thuật.
+Bạn có thể dùng tiếng Druid để lại thông điệp ẩn. Bạn và những ai biết tiếng Druid tự động nhận ra các thông điệp đó. Người khác phát hiện được sự tồn tại của thông điệp nếu thành công phép kiểm tra Trí tuệ (Điều tra) DC 15, nhưng không thể giải mã nếu không dùng ma thuật.
 
 **Cấp 1: Thiên chức nguyên thủy (Primal Order).** Bạn đã hiến mình cho một trong các vai trò thiêng liêng sau:
 
@@ -1219,7 +1219,7 @@ Bạn có thể dùng đặc tính này hai lần giữa hai lần nghỉ dài t
 
 Nhà vô địch tập trung phát triển kỹ năng chiến đấu trên con đường không ngừng theo đuổi chiến thắng. Họ kết hợp luyện tập khắc nghiệt với thể chất xuất sắc để tung đòn tàn khốc, vượt qua hiểm nguy và giành lấy vinh quang. Dù ở cuộc thi đấu hay trận chiến đẫm máu, Nhà vô địch luôn nhắm đến vòng nguyệt quế của kẻ thắng cuộc.
 
-**Cấp 3: Chí mạng cải tiến (Improved Critical).** Lần tung tấn công bằng vũ khí và đòn tay không của bạn là đòn chí mạng khi d20 ra 19 hoặc 20.
+**Cấp 3: Chí mạng cải tiến (Improved Critical).** Lần tung tấn công bằng vũ khí và đòn đánh không vũ khí của bạn là đòn chí mạng khi d20 ra 19 hoặc 20.
 
 **Cấp 3: Vận động viên phi thường (Remarkable Athlete).** Nhờ thể lực vượt trội, bạn có lợi thế khi tung Sáng kiến và kiểm tra Sức mạnh (Điền kinh).
 
@@ -1229,7 +1229,7 @@ Ngoài ra, ngay sau khi ghi đòn chí mạng, bạn có thể di chuyển tối
 
 **Cấp 10: Chiến binh anh hùng (Heroic Warrior).** Hưng phấn chiến trận thôi thúc bạn tiến tới chiến thắng. Trong chiến đấu, mỗi khi bắt đầu lượt mà không có Cảm hứng anh hùng, bạn có thể tự nhận Cảm hứng anh hùng.
 
-**Cấp 15: Chí mạng thượng thừa (Superior Critical).** Lần tung tấn công bằng vũ khí và đòn tay không của bạn giờ là đòn chí mạng khi d20 ra 18–20.
+**Cấp 15: Chí mạng thượng thừa (Superior Critical).** Lần tung tấn công bằng vũ khí và đòn đánh không vũ khí của bạn giờ là đòn chí mạng khi d20 ra 18–20.
 
 **Cấp 18: Kẻ sống sót (Survivor).** Bạn đạt đỉnh cao sức bền chiến trận, nhận các lợi ích sau:
 
@@ -1290,15 +1290,15 @@ Ngoài ra, ngay sau khi ghi đòn chí mạng, bạn có thể di chuyển tối
 
 ### Đặc tính lớp Võ tăng (Monk Class Features)
 
-**Cấp 1: Võ thuật (Martial Arts).** Quá trình luyện võ giúp bạn làm chủ các lối đánh dùng đòn tay không và vũ khí Võ tăng, gồm:
+**Cấp 1: Võ thuật (Martial Arts).** Quá trình luyện võ giúp bạn làm chủ các lối đánh dùng đòn đánh không vũ khí và vũ khí Võ tăng, gồm:
 - Vũ khí cận chiến đơn giản
 - Vũ khí cận chiến võ thuật có thuộc tính Nhẹ
 
 Bạn nhận các lợi ích sau khi tay không hoặc chỉ cầm vũ khí Võ tăng, đồng thời không mặc giáp và không cầm Khiên:
 
-- **Đòn tay không thưởng (Bonus Unarmed Strike).** Bạn có thể thực hiện một đòn tay không bằng hành động phụ.
-- **Xúc xắc Võ thuật (Martial Arts Die).** Bạn có thể tung 1d6 thay cho sát thương thường của đòn tay không hoặc vũ khí Võ tăng. Xúc xắc này thay đổi khi bạn lên cấp Võ tăng, như trong cột Võ thuật.
-- **Đòn khéo léo (Dexterous Attacks).** Bạn có thể dùng hệ số Khéo léo thay cho hệ số Sức mạnh khi tung tấn công và sát thương bằng đòn tay không và vũ khí Võ tăng. Ngoài ra, khi dùng lựa chọn Vật lộn hoặc Xô của đòn tay không, bạn có thể dùng hệ số Khéo léo thay cho Sức mạnh để tính DC cứu nguy.
+- **Đòn đánh không vũ khí thưởng (Bonus Unarmed Strike).** Bạn có thể thực hiện một đòn đánh không vũ khí bằng hành động phụ.
+- **Xúc xắc Võ thuật (Martial Arts Die).** Bạn có thể tung 1d6 thay cho sát thương thường của đòn đánh không vũ khí hoặc vũ khí Võ tăng. Xúc xắc này thay đổi khi bạn lên cấp Võ tăng, như trong cột Võ thuật.
+- **Đòn khéo léo (Dexterous Attacks).** Bạn có thể dùng hệ số Khéo léo thay cho hệ số Sức mạnh khi tung tấn công và sát thương bằng đòn đánh không vũ khí và vũ khí Võ tăng. Ngoài ra, khi dùng lựa chọn Vật lộn hoặc Xô của đòn đánh không vũ khí, bạn có thể dùng hệ số Khéo léo thay cho Sức mạnh để tính DC cứu nguy.
 
 **Cấp 1: Phòng thủ không giáp (Unarmored Defense).** Khi không mặc giáp và không cầm Khiên, AC cơ bản của bạn bằng 10 cộng hệ số Khéo léo và Minh triết.
 
@@ -1308,7 +1308,7 @@ Bạn có thể tiêu các điểm này để tăng cường hoặc kích hoạt
 
 Một số đặc tính dùng điểm tập trung buộc mục tiêu cứu nguy. DC cứu nguy bằng 8 + hệ số Minh triết + thưởng thành thạo.
 
-- **Mưa đòn (Flurry of Blows).** Bạn có thể tiêu 1 điểm tập trung để thực hiện hai đòn tay không bằng hành động phụ.
+- **Mưa đòn (Flurry of Blows).** Bạn có thể tiêu 1 điểm tập trung để thực hiện hai đòn đánh không vũ khí bằng hành động phụ.
 - **Phòng thủ nhẫn nại (Patient Defense).** Bạn có thể dùng hành động Rút lui bằng hành động phụ. Ngoài ra, bạn có thể tiêu 1 điểm tập trung để dùng cả Rút lui lẫn Né tránh bằng hành động phụ.
 - **Bước chân của gió (Step of the Wind).** Bạn có thể dùng hành động Chạy nước rút bằng hành động phụ. Ngoài ra, bạn có thể tiêu 1 điểm tập trung để dùng cả Rút lui lẫn Chạy nước rút bằng hành động phụ, và khoảng cách nhảy của bạn được nhân đôi trong lượt đó.
 
@@ -1328,9 +1328,9 @@ Nếu giảm sát thương về 0, bạn có thể tiêu 1 điểm tập trung �
 
 **Cấp 5: Tấn công thêm (Extra Attack).** Bạn có thể tấn công hai lần thay vì một mỗi khi dùng hành động Tấn công trong lượt.
 
-**Cấp 5: Đòn gây choáng (Stunning Strike).** Một lần mỗi lượt, khi đánh trúng một sinh vật bằng vũ khí Võ tăng hoặc đòn tay không, bạn có thể tiêu 1 điểm tập trung để thử đánh choáng. Mục tiêu phải cứu nguy Thể chất. Nếu thất bại, nó rơi vào trạng thái Choáng cho đến đầu lượt kế tiếp của bạn. Nếu thành công, Tốc độ của nó giảm một nửa cho đến đầu lượt kế tiếp của bạn, và lần tung tấn công tiếp theo nhắm vào nó trước thời điểm đó có lợi thế.
+**Cấp 5: Đòn gây choáng (Stunning Strike).** Một lần mỗi lượt, khi đánh trúng một sinh vật bằng vũ khí Võ tăng hoặc đòn đánh không vũ khí, bạn có thể tiêu 1 điểm tập trung để thử đánh choáng. Mục tiêu phải cứu nguy Thể chất. Nếu thất bại, nó rơi vào trạng thái Choáng cho đến đầu lượt kế tiếp của bạn. Nếu thành công, Tốc độ của nó giảm một nửa cho đến đầu lượt kế tiếp của bạn, và lần tung tấn công tiếp theo nhắm vào nó trước thời điểm đó có lợi thế.
 
-**Cấp 6: Đòn cường hóa (Empowered Strikes).** Mỗi khi gây sát thương bằng đòn tay không, bạn có thể chọn gây sát thương lực hoặc loại sát thương thường của nó.
+**Cấp 6: Đòn cường hóa (Empowered Strikes).** Mỗi khi gây sát thương bằng đòn đánh không vũ khí, bạn có thể chọn gây sát thương lực hoặc loại sát thương thường của nó.
 
 **Cấp 7: Né tránh bẩm sinh (Evasion).** Khi chịu hiệu ứng cho phép cứu nguy Khéo léo để chỉ chịu một nửa sát thương, bạn không chịu sát thương nếu thành công và chỉ chịu một nửa nếu thất bại. Bạn không hưởng lợi ích này khi ở trạng thái Mất năng lực hành động.
 
@@ -1338,7 +1338,7 @@ Nếu giảm sát thương về 0, bạn có thể tiêu 1 điểm tập trung �
 
 **Cấp 10: Tập trung nâng cao (Heightened Focus).** Mưa đòn, Phòng thủ nhẫn nại và Bước chân của gió nhận các lợi ích sau:
 
-- **Mưa đòn (Flurry of Blows).** Bạn có thể tiêu 1 điểm tập trung để dùng Mưa đòn và thực hiện ba đòn tay không thay vì hai.
+- **Mưa đòn (Flurry of Blows).** Bạn có thể tiêu 1 điểm tập trung để dùng Mưa đòn và thực hiện ba đòn đánh không vũ khí thay vì hai.
 - **Phòng thủ nhẫn nại (Patient Defense).** Khi tiêu điểm tập trung để dùng Phòng thủ nhẫn nại, bạn nhận số điểm sinh lực tạm thời bằng hai lần tung xúc xắc Võ thuật.
 - **Bước chân của gió (Step of the Wind).** Khi tiêu điểm tập trung để dùng Bước chân của gió, bạn có thể chọn một sinh vật tự nguyện cỡ Lớn trở xuống trong phạm vi 1,5 m (5 feet). Bạn mang sinh vật đó theo cho đến hết lượt. Việc di chuyển của nó không kích hoạt tấn công cơ hội.
 
@@ -1378,7 +1378,7 @@ Bạn có thể dùng đặc tính này số lần bằng hệ số Minh triết
 
 **Cấp 11: Bước chân thoăn thoắt (Fleet Step).** Khi thực hiện một hành động phụ không phải Bước chân của gió, bạn cũng có thể dùng Bước chân của gió ngay sau hành động phụ đó.
 
-**Cấp 17: Chưởng rung động (Quivering Palm).** Bạn có thể tạo ra những rung động chết người trong cơ thể người khác. Khi đánh trúng một sinh vật bằng đòn tay không, bạn có thể tiêu 4 điểm tập trung để khởi phát những rung động vô hình, kéo dài số ngày bằng cấp Võ tăng. Rung động vô hại trừ khi bạn dùng một hành động để kết thúc chúng. Ngoài ra, khi dùng hành động Tấn công trong lượt, bạn có thể bỏ một đòn tấn công để kết thúc rung động. Để kết thúc, bạn và mục tiêu phải ở cùng một cõi tồn tại. Khi đó, mục tiêu phải cứu nguy Thể chất, chịu 10d12 sát thương lực nếu thất bại hoặc một nửa nếu thành công.
+**Cấp 17: Chưởng rung động (Quivering Palm).** Bạn có thể tạo ra những rung động chết người trong cơ thể người khác. Khi đánh trúng một sinh vật bằng đòn đánh không vũ khí, bạn có thể tiêu 4 điểm tập trung để khởi phát những rung động vô hình, kéo dài số ngày bằng cấp Võ tăng. Rung động vô hại trừ khi bạn dùng một hành động để kết thúc chúng. Ngoài ra, khi dùng hành động Tấn công trong lượt, bạn có thể bỏ một đòn tấn công để kết thúc rung động. Để kết thúc, bạn và mục tiêu phải ở cùng một cõi tồn tại. Khi đó, mục tiêu phải cứu nguy Thể chất, chịu 10d12 sát thương lực nếu thất bại hoặc một nửa nếu thành công.
 
 Mỗi lúc chỉ một sinh vật chịu hiệu ứng của đặc tính này. Bạn có thể kết thúc rung động mà không gây hại (không cần hành động).
 
@@ -1498,7 +1498,7 @@ Nếu có Thánh kỵ sĩ khác, mỗi lúc một sinh vật chỉ hưởng lợ
 
 **Cấp 10: Hào quang dũng cảm (Aura of Courage).** Bạn và đồng minh miễn nhiễm trạng thái Hoảng sợ khi ở trong Hào quang bảo hộ của bạn. Nếu một đồng minh đang Hoảng sợ bước vào hào quang, trạng thái đó không có tác dụng với họ khi ở đó.
 
-**Cấp 11: Đòn quang minh (Radiant Strikes).** Đòn đánh của bạn giờ mang sức mạnh siêu nhiên. Khi đánh trúng mục tiêu bằng lần tung tấn công dùng vũ khí cận chiến hoặc đòn tay không, mục tiêu chịu thêm 1d8 sát thương quang.
+**Cấp 11: Đòn quang minh (Radiant Strikes).** Đòn đánh của bạn giờ mang sức mạnh siêu nhiên. Khi đánh trúng mục tiêu bằng lần tung tấn công dùng vũ khí cận chiến hoặc đòn đánh không vũ khí, mục tiêu chịu thêm 1d8 sát thương quang.
 
 **Cấp 14: Cú chạm phục hồi (Restoring Touch).** Khi dùng Đặt tay chữa lành lên một sinh vật, bạn cũng có thể loại bỏ một hoặc nhiều trạng thái sau khỏi sinh vật: Mù, Mê hoặc, Điếc, Hoảng sợ, Tê liệt hoặc Choáng. Bạn phải tiêu 5 HP từ nguồn Đặt tay chữa lành cho mỗi trạng thái được loại bỏ; các điểm này không đồng thời hồi HP cho sinh vật.
 
@@ -2434,7 +2434,7 @@ Các khẩn chú huyền bí được xếp theo thứ tự chữ cái tên ti�
 
 **Trừng phạt huyền bí (Eldritch Smite).** *Điều kiện tiên quyết: Warlock cấp 5+, khẩn chú Khế ước Lưỡi kiếm.* Một lần mỗi lượt, khi đánh trúng một sinh vật bằng vũ khí khế ước, bạn có thể tiêu một ô phép Ma thuật khế ước để gây thêm 1d8 sát thương lực, cộng 1d8 cho mỗi bậc của ô phép, và có thể khiến mục tiêu rơi vào trạng thái Ngã sấp nếu nó cỡ Khổng lồ trở xuống.
 
-**Giáo huyền bí (Eldritch Spear).** *Điều kiện tiên quyết: Warlock cấp 2+, một phép sơ cấp Warlock gây sát thương.* Chọn một phép sơ cấp Warlock đã biết có gây sát thương và có tầm từ 3 m (10 feet) trở lên. Khi thi triển phép đó, tầm của nó tăng thêm một số feet bằng 30 lần cấp Warlock (tức 9 m mỗi cấp). Bạn có thể nhận khẩn chú này nhiều lần; mỗi lần, chọn một phép sơ cấp đủ điều kiện khác.
+**Giáo huyền bí (Eldritch Spear).** *Điều kiện tiên quyết: Warlock cấp 2+, một phép sơ cấp Warlock gây sát thương.* Chọn một phép sơ cấp Warlock đã biết có gây sát thương và có tầm từ 3 m (10 feet) trở lên. Khi thi triển phép đó, tầm của nó tăng thêm 9 m (30 feet) nhân với cấp Warlock của bạn. Bạn có thể nhận khẩn chú này nhiều lần; mỗi lần, chọn một phép sơ cấp đủ điều kiện khác.
 
 **Sinh lực quỷ dữ (Fiendish Vigor).** *Điều kiện tiên quyết: Warlock cấp 2+.* Bạn có thể thi triển *Giả sinh mệnh* (False Life) lên bản thân mà không tiêu ô phép. Khi thi triển bằng đặc tính này, bạn không tung xúc xắc điểm sinh lực tạm thời mà tự động lấy giá trị cao nhất.
 

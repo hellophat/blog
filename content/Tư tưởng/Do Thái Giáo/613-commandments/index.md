@@ -2220,35 +2220,45 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N20)
 
-### N21 — Người bị dụ dỗ không được giấu chứng cứ buộc tội kẻ dụ dỗ
+### N21 — Người bị dụ dỗ không được im lặng giấu chứng cứ buộc tội kẻ dụ dỗ
 
 **English:** For the person whom a mesit tried to convince not to withhold any evidence he is aware of that would incriminate the mesit.
 
 **Hebrew (Maimonides):** שלא ישתוק המוסת מללמד חובה על המסית, אם ידע לו חובה
 
-### N22 — Không hưởng lợi từ đồ trang sức của ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N21)
+
+### N22 — Không hưởng lợi từ vật trang sức phủ trên vật được thờ
 
 **English:** Not to benefit from ornaments that have adorned false gods.
 
 **Hebrew (Maimonides):** שלא ליהנות בציפויי נעבד
 
-### N23 — Không xây dựng lại thành đã sa vào thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N22)
+
+### N23 — Không xây dựng lại [thành bội giáo](../glossary#apostate-city)
 
 **English:** Not to rebuild an apostate city to its former stature.
 
 **Hebrew (Maimonides):** שלא לבנות עיר הנידחת לכמות שהייתה
 
-### N24 — Không hưởng lợi từ tài sản của thành ấy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N23)
+
+### N24 — Không hưởng lợi từ tài sản của [thành bội giáo](../glossary#apostate-city)
 
 **English:** Not to benefit from the property of an apostate city.
 
 **Hebrew (Maimonides):** שלא ליהנות בממון עיר הנידחת
 
-### N25 — Không hưởng lợi từ ngẫu tượng, đồ phụ trợ, lễ vật hoặc rượu tế của chúng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N24)
+
+### N25 — Không hưởng lợi từ vật thờ, đồ phụ trợ, lễ vật hay rượu tế của nó
 
 **English:** Not to benefit from false gods, from any of their accessories, anything offered to them, or any wine brought as a libation for them.
 
 **Hebrew (Maimonides):** שלא ליהנות בעבודה זרה, ובכל משמשיה ובתקרובת שלה וביין שנתנסך לה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N25)
 
 ### N26 — Không nói tiên tri nhân danh ngẫu tượng
 
@@ -2256,11 +2266,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להתנבא בשמה
 
-### N27 — Không nói lời tiên tri giả
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N26)
+
+### N27 — Không nói lời tiên tri giả nhân danh Thiên Chúa
 
 **English:** Not to relate false prophecies.
 
 **Hebrew (Maimonides):** שלא להתנבא בשקר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N27)
 
 ### N28 — Không nghe kẻ nói tiên tri nhân danh ngẫu tượng
 
@@ -2268,83 +2282,111 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לשמוע למתנבא בשם עבודה זרה
 
-### N29 — Không chần chừ xử tử hoặc sợ ngôn sứ giả
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N28)
+
+### N29 — Không vì nể sợ mà né tránh việc xử tử ngôn sứ giả
 
 **English:** Not to refrain from executing a false prophet, nor to fear him.
 
 **Hebrew (Maimonides):** שלא נימנע מהריגת נביא השקר ולא נירא ממנו
 
-### N30 — Không theo luật lệ và phong tục của người thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N29)
+
+### N30 — Không theo lề lối và phong tục của người thờ ngẫu tượng
 
 **English:** Not to follow the laws or customs of the worshipers of false gods.
 
 **Hebrew (Maimonides):** שלא ללכת בחוקות עובדי עבודה זרה ולא במנהגותם
 
-### N31 — Không thực hành ma thuật đen
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N30)
+
+### N31 — Không hành nghề bói toán theo lối [kesem](../glossary#divination)
 
 **English:** Not to practice black magic.
 
 **Hebrew (Maimonides):** שלא לקסום
 
-### N32 — Không bói toán
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N31)
+
+### N32 — Không định ngày giờ tốt xấu theo lối [onen](../glossary#divination)
 
 **English:** Not to practice divination.
 
 **Hebrew (Maimonides):** שלא לעונן
 
-### N33 — Không hành nghề đoán điềm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N32)
+
+### N33 — Không hành động theo điềm báo
 
 **English:** Not to act as a soothsayer.
 
 **Hebrew (Maimonides):** שלא לנחש
 
-### N34 — Không làm phù thủy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N33)
+
+### N34 — Không thực hành phép phù thủy
 
 **English:** Not to practice sorcery.
 
 **Hebrew (Maimonides):** שלא לכשף
 
-### N35 — Không niệm chú
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N34)
+
+### N35 — Không niệm chú theo lối [chover chaver](../glossary#divination)
 
 **English:** Not to cast spells.
 
 **Hebrew (Maimonides):** שלא לחבור חבר
 
-### N36 — Không cầu vấn [ov](../glossary#ov-and-yidoni)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N35)
+
+### N36 — Không tìm đến hỏi người hành nghề [ov](../glossary#ov-and-yidoni)
 
 **English:** Not to consult an ov.
 
 **Hebrew (Maimonides):** שלא לשאול באוב
 
-### N37 — Không cầu vấn [yid'oni](../glossary#ov-and-yidoni)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N36)
+
+### N37 — Không tìm đến hỏi người hành nghề [yid'oni](../glossary#ov-and-yidoni)
 
 **English:** Not to consult a yid'oni.
 
 **Hebrew (Maimonides):** שלא לשאול ביידעוני
 
-### N38 — Không tìm tin từ người chết qua giấc mơ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N37)
+
+### N38 — Không tìm cách để người chết hiện về báo tin trong giấc mơ
 
 **English:** Not to seek information from the dead in dreams.
 
 **Hebrew (Maimonides):** שלא לשאול בחלום מן המתים
 
-### N39 — Phụ nữ không mặc trang phục dành cho nam giới
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N38)
+
+### N39 — Phụ nữ không dùng vật dụng và trang phục đặc trưng của nam giới
 
 **English:** For a woman not to wear articles appropriate for men.
 
 **Hebrew (Maimonides):** שלא תעדה אישה עדי איש
 
-### N40 — Nam giới không mặc trang phục dành cho nữ giới
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N39)
+
+### N40 — Nam giới không dùng trang phục và đồ trang sức đặc trưng của nữ giới
 
 **English:** For a man not to wear articles appropriate for women.
 
 **Hebrew (Maimonides):** שלא יעדה איש עדי אישה
 
-### N41 — Không xăm mình như người thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N40)
+
+### N41 — Không xăm hình trên thân thể
 
 **English:** Not to tattoo our bodies like the worshipers of false gods.
 
 **Hebrew (Maimonides):** שלא לכתוב בגוף כעובדי עבודה זרה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N41)
 
 ### N42 — Không mặc [sha'atnez](../glossary#shaatnez)
 
@@ -2352,23 +2394,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא ללבוש שעטנז כמו שלובשין כומרי עבודה זרה
 
-### N43 — Không cạo tóc mai hai bên đầu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N42)
+
+### N43 — Không cạo tròn [tóc mai](../glossary#peot) hai bên đầu
 
 **English:** Not to shave the temples of our heads, as do the worshipers of false gods.
 
 **Hebrew (Maimonides):** שלא להקיף פיאת ראש ככומרי עבודה זרה
 
-### N44 — Không cạo sạch râu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N43)
+
+### N44 — Không cạo hủy râu bằng dao cạo
 
 **English:** Not to shave off our beards entirely, as do the priests of false gods.
 
 **Hebrew (Maimonides):** שלא להשחית כל הזקן כעובדי עבודה זרה
 
-### N45 — Không rạch thịt mình như người thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N44)
+
+### N45 — Không rạch thịt mình, vì người chết hay trong việc thờ ngẫu tượng
 
 **English:** Not to make cuts in our flesh, as the worshipers of false gods do.
 
 **Hebrew (Maimonides):** שלא להתגודד כעובדי עבודה זרה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N45)
 
 ### N46 — Không bao giờ định cư tại Ai Cập
 
@@ -2376,77 +2426,103 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לשכון בארץ מצריים לעולם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N46)
+
 ### N47 — Không chạy theo ý nghĩ của lòng và điều mắt thấy
 
 **English:** Not to stray after the thoughts of one's heart or the sights one's eyes behold.
 
 **Hebrew (Maimonides):** שלא לתור אחר מחשבות הלב וראיית העיניים
 
-### N48 — Không lập giao ước với bảy dân tộc Canaan
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N47)
+
+### N48 — Không lập giao ước với [bảy dân Canaan](../glossary#seven-nations)
 
 **English:** Not to establish a covenant with the seven [Canaanite] nations.
 
 **Hebrew (Maimonides):** שלא לכרות ברית לשבעה עממין
 
-### N49 — Không để người nào thuộc bảy dân tộc Canaan sống sót
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N48)
+
+### N49 — Không để người nào thuộc [bảy dân Canaan](../glossary#seven-nations) sống sót
 
 **English:** Not to allow a single member of the seven [Canaanite] nations to live.
 
 **Hebrew (Maimonides):** שלא להחיות אדם משבעה עממים
 
-### N50 — Không ưu đãi người thờ ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N49)
+
+### N50 — Không tán dương hay ban ơn không công cho người thờ ngẫu tượng
 
 **English:** Not to show favor to the worshipers of false gods.
 
 **Hebrew (Maimonides):** שלא לחון על עובדי עבודה זרה
 
-### N51 — Không cho người thờ ngẫu tượng định cư trong đất mình
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N50)
+
+### N51 — Không để người thờ ngẫu tượng định cư trong đất Israel
 
 **English:** Not to allow the worshipers of false gods to settle in our land.
 
 **Hebrew (Maimonides):** שלא להושיב עובדי עבודה זרה בארצנו
 
-### N52 — Không kết hôn với dân ngoại
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N51)
+
+### N52 — Không kết hôn với người thờ ngẫu tượng
 
 **English:** Not to marry gentiles.
 
 **Hebrew (Maimonides):** שלא להתחתן בעובדי עבודה זרה
 
-### N53 — Phụ nữ Do Thái không kết hôn với đàn ông Ammon hoặc Moab dù đã cải đạo
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N52)
+
+### N53 — Người nam Ammon hoặc Moab dù đã cải đạo không được kết hôn với phụ nữ Israel
 
 **English:** For a Jewish woman never to marry an Ammonite or Moabite [even after conversion].
 
 **Hebrew (Maimonides):** שלא יישא עמוני ומואבי בת ישראל לעולם
 
-### N54 — Không cấm thế hệ thứ ba của người Edom cải đạo gia nhập cộng đồng hôn nhân Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N53)
+
+### N54 — Không loại trừ hậu duệ Edom cải đạo quá ba thế hệ khỏi hôn nhân với Israel
 
 **English:** Not to prevent the third generation of [converts from] the descendants of Esau from marrying among [the Jewish people].
 
 **Hebrew (Maimonides):** שלא להרחיק זרע עשיו מן הקהל אלא עד שלושה דורות
 
-### N55 — Không cấm thế hệ thứ ba của người Ai Cập cải đạo gia nhập cộng đồng hôn nhân Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N54)
+
+### N55 — Không loại trừ hậu duệ Ai Cập cải đạo quá ba thế hệ khỏi hôn nhân với Israel
 
 **English:** Not to prevent the third generation of Egyptian [converts] from marrying among [the Jewish people].
 
 **Hebrew (Maimonides):** שלא להרחיק מצרי מלבוא בקהל אלא עד שלושה דורות
 
-### N56 — Không đề nghị hòa bình với Ammon và Moab khi khai chiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N55)
+
+### N56 — Không chủ động đề nghị hòa bình với Ammon và Moab khi khai chiến
 
 **English:** Not to make an offer of peace to Ammon and Moav at the outbreak of war, as is done for other nations.
 
 **Hebrew (Maimonides):** שלא לקרוא שלום לעמון ומואב בתחילה בשעת מלחמה כשאר גויים
 
-### N57 — Không phá cây ăn quả hoặc vật có giá trị khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N56)
+
+### N57 — Không chặt cây ăn quả hay hủy hoại vô ích bất cứ vật gì có giá trị
 
 **English:** Not to destroy fruit trees nor to destroy anything else of value.
 
 **Hebrew (Maimonides):** שלא להשחית אילני מאכל, וכן כל שיש בו השחתה אסור
 
-### N58 — Binh sĩ không sợ hãi kẻ thù trong chiến tranh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N57)
+
+### N58 — Người lính không được sợ hãi và tháo chạy trước quân thù
 
 **English:** For soldiers not to fear or become frightened of the enemy during war.
 
 **Hebrew (Maimonides):** שלא ייראו אנשי המלחמה ולא יפחדו מאויביהם בשעת מלחמה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N58)
 
 ### N59 — Không quên việc ác Amalek đã làm
 
@@ -2454,119 +2530,159 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא יסור מליבנו מעשה עמלק הרע שעשה לנו
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N59)
+
 ### N60 — Không nguyền rủa Danh Thiên Chúa
 
 **English:** The prohibition against blessing [i.e., cursing] God's name.
 
 **Hebrew (Maimonides):** שאנו מוזהרין על ברכת השם
 
-### N61 — Không vi phạm lời thề
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N60)
+
+### N61 — Không thề dối nhân danh Thiên Chúa
 
 **English:** Not to violate an oath.
 
 **Hebrew (Maimonides):** שלא לעבור על שבועת ביטוי
 
-### N62 — Không thề vô ích
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N61)
+
+### N62 — Không thề một lời thề vô ích
 
 **English:** Not to take an oath in vain.
 
 **Hebrew (Maimonides):** שלא ישבע לשוא
 
-### N63 — Không xúc phạm Danh Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N62)
+
+### N63 — Không xúc phạm Danh Thiên Chúa
 
 **English:** Not to profane the name of the Holy One, blessed be He.
 
 **Hebrew (Maimonides):** שלא לחלל את שם הקדוש ברוך הוא
 
-### N64 — Không thử thách lời hứa của Thiên Chúa
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N63)
+
+### N64 — Không thử thách vượt mức một ngôn sứ đã được xác nhận
 
 **English:** Not to test the promises of God.
 
 **Hebrew (Maimonides):** שלא לנסות את דבר ה'
 
-### N65 — Không phá Đền Thánh, hội đường, nhà học, văn bản thánh hoặc xóa Danh Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N64)
+
+### N65 — Không phá hủy nơi thánh, không xóa Danh Thánh, không hủy văn bản thánh
 
 **English:** Not to destroy the Temple, synagogues, or houses of study; and similarly, not to erase any of [God’s] sacred names, nor to destroy any sacred texts.
 
 **Hebrew (Maimonides):** שלא לאבד בית המקדש, או בתי כנסייות, או בתי מדרשות; וכן אין מוחקין את השמות המוקדשין, ואין מאבדין כתבי הקודש
 
-### N66 — Không để thi thể bị treo qua đêm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N65)
+
+### N66 — Không để thi thể người bị treo sau hành quyết qua đêm
 
 **English:** Not to leave a corpse that was hung on the gallows.
 
 **Hebrew (Maimonides):** שלא ילין הצלוב על העץ
 
-### N67 — Không gián đoạn việc canh giữ Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N66)
+
+### N67 — Không bỏ dở việc canh giữ Đền Thờ
 
 **English:** Not to interrupt the watch held around the Temple.
 
 **Hebrew (Maimonides):** שלא להשבית שמירה סביב למקדש
 
-### N68 — Tư tế không tùy tiện vào gian Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N67)
+
+### N68 — Tư tế không được vào nơi thánh ngoài giờ phụng vụ
 
 **English:** For a priest not to enter the Temple building at all times.
 
 **Hebrew (Maimonides):** שלא יכנס כהן להיכל בכל עת
 
-### N69 — Tư tế có khuyết tật làm mất tư cách không vượt quá khu vực bàn thờ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N68)
+
+### N69 — Tư tế có khuyết tật không được vào quá bàn thờ
 
 **English:** For a priest with a disqualifying physical deformity not to proceed beyond [the beginning of] the altar.
 
 **Hebrew (Maimonides):** שלא יכנס בעל מום מן המזבח ולפנים
 
-### N70 — Tư tế có khuyết tật làm mất tư cách không phụng sự trong Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N69)
+
+### N70 — Tư tế có khuyết tật vĩnh viễn không được phụng vụ
 
 **English:** For a priest with a disqualifying physical deformity not to serve [in the Temple].
 
 **Hebrew (Maimonides):** שלא יעבוד בעל מום
 
-### N71 — Tư tế có khuyết tật tạm thời không phụng sự trong Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N70)
+
+### N71 — Tư tế có khuyết tật tạm thời không được phụng vụ
 
 **English:** For a priest with a disqualifying physical deformity of a temporary nature not to serve [in the Temple].
 
 **Hebrew (Maimonides):** שלא יעבוד בעל מום עובר
 
-### N72 — Người Lêvi không làm việc của tư tế và tư tế không làm việc của người Lêvi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N71)
+
+### N72 — Người Lêvi và tư tế không làm công việc của nhau
 
 **English:** For the Levites not to perform the services of the priests, and for the priests not to perform the services of the Levites.
 
 **Hebrew (Maimonides):** שלא יתעסקו הלויים בעבודת הכהנים ולא הכהנים בעבודת הלויים
 
-### N73 — Người say không vào Đền Thánh hoặc đưa ra phán quyết [halakhah](../glossary#halakhah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N72)
+
+### N73 — Người say không được vào nơi thánh hay ra phán quyết [halakhah](../glossary#halakhah)
 
 **English:** For a person who is intoxicated not to enter the Temple nor to render a halachic decision.
 
 **Hebrew (Maimonides):** שלא יכנס למקדש ולא יורה בתורה שתוי יין
 
-### N74 — Người không phải tư tế không phụng sự trong Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N73)
+
+### N74 — Người không phải tư tế không được phụng vụ trong Đền Thờ
 
 **English:** For a non-priest not to serve in the Temple.
 
 **Hebrew (Maimonides):** שלא יעבוד הזר במקדש
 
-### N75 — Tư tế ô uế nghi lễ không phụng sự trong Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N74)
+
+### N75 — Tư tế đang ô uế không được phụng vụ
 
 **English:** For a priest who is ritually impure not to serve [in the Temple].
 
 **Hebrew (Maimonides):** שלא יעבוד כהן טמא
 
-### N76 — Tư tế đã ngâm [mikveh](../glossary#mikveh) không phụng sự cho đến hết ngày
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N75)
+
+### N76 — Tư tế đã ngâm mình nhưng chưa hết ngày không được phụng vụ
 
 **English:** For a priest who has immersed himself in a mikveh in order to purify himself from ritual impurity not to serve [in the Temple] until the conclusion, of that day.
 
 **Hebrew (Maimonides):** שלא יעבוד כהן טבול יום עד שיעריב שמשו
 
-### N77 — Tư tế ô uế nghi lễ không vào sân Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N76)
+
+### N77 — Người ô uế không được vào sân Đền Thờ
 
 **English:** For a priest who is ritually impure not to enter the Temple courtyard.
 
 **Hebrew (Maimonides):** שלא יכנס טמא לעזרה
 
-### N78 — Người ô uế không vào trại Lêvi, tương ứng với Núi Đền
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N77)
+
+### N78 — Người ô uế không được vào trại người Lêvi, tức [Núi Đền](../glossary#temple-mount)
 
 **English:** For a person who is impure not to enter the camp of the Levites, the parallel for all time being the Temple Mount.
 
 **Hebrew (Maimonides):** שלא יכנס טמא למחנה לויה שכנגדו לדורות הר הבית
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N78)
 
 ### N79 — Không xây bàn thờ bằng đá đẽo
 
@@ -2574,71 +2690,95 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לבנות אבני מזבח גזית
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N79)
+
 ### N80 — Không lên bàn thờ bằng bậc thang
 
 **English:** Not to ascend to the altar using steps.
 
 **Hebrew (Maimonides):** שלא לפסוע על המזבח
 
-### N81 — Không dập lửa trên bàn thờ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N80)
+
+### N81 — Không dập tắt lửa trên bàn thờ
 
 **English:** Not to extinguish the fire of the altar.
 
 **Hebrew (Maimonides):** שלא לכבות אש המזבח
 
-### N82 — Không dâng hương hay lễ vật không được quy định trên bàn thờ vàng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N81)
+
+### N82 — Không dâng hương lạ hay lễ vật khác trên bàn thờ vàng
 
 **English:** Not to offer any [undesired] incense offering or any sacrifices on the golden altar.
 
 **Hebrew (Maimonides):** שלא להקטיר ולהקריב במזבח הזהב
 
-### N83 — Không pha chế lại dầu xức theo cùng công thức
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N82)
+
+### N83 — Không pha chế dầu xức thánh theo đúng công thức của nó
 
 **English:** Not to duplicate the composition of the anointing oil.
 
 **Hebrew (Maimonides):** שלא לעשות במתכונת שמן המשחה
 
-### N84 — Không dùng dầu xức cho người không được phép
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N83)
+
+### N84 — Không dùng dầu xức thánh để xức cho người không được phép
 
 **English:** Not to anoint an unauthorized person with the anointing oil.
 
 **Hebrew (Maimonides):** שלא לסוך בשמן המשחה זר
 
-### N85 — Không pha chế lại hương theo cùng công thức
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N84)
+
+### N85 — Không pha chế hương thánh theo đúng công thức của nó
 
 **English:** Not to duplicate the composition of the incense offering.
 
 **Hebrew (Maimonides):** שלא לעשות במתכונת הקטורת
 
-### N86 — Không tháo đòn khiêng khỏi Hòm Giao Ước
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N85)
+
+### N86 — Không tháo đòn khiêng khỏi Hòm Bia
 
 **English:** Not to remove the staves of the ark.
 
 **Hebrew (Maimonides):** שלא להוציא בדי הארון
 
-### N87 — Không để tấm đeo ngực của Thượng tế rời khỏi [ephod](../glossary#ephod-and-breastplate)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N86)
+
+### N87 — Không để tấm che ngực tách khỏi [ephod](../glossary#ephod-and-breastplate)
 
 **English:** For the [High Priest's] breastplate not to come loose from the ephod.
 
 **Hebrew (Maimonides):** שלא ייזח החושן מעל האיפוד
 
-### N88 — Không làm rách áo choàng của Thượng tế
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N87)
+
+### N88 — Không xé áo choàng của thượng tế
 
 **English:** For the [High Priest's] cloak not to tear.
 
 **Hebrew (Maimonides):** שלא ייקרע המעיל
 
-### N89 — Không dâng lễ vật thánh ngoài Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N88)
+
+### N89 — Không dâng lễ vật thánh bên ngoài sân Đền Thờ
 
 **English:** Not to offer sacred offerings outside [the Temple].
 
 **Hebrew (Maimonides):** שלא להעלות קודשים בחוץ
 
-### N90 — Không giết lễ vật thánh ngoài Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N89)
+
+### N90 — Không sát tế lễ vật thánh bên ngoài sân Đền Thờ
 
 **English:** Not to slaughter sacred offerings outside [the Temple].
 
 **Hebrew (Maimonides):** שלא לשחוט קודשים בחוץ
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N90)
 
 ### N91 — Không thánh hiến con vật có khuyết tật để dâng trên bàn thờ
 
@@ -2646,11 +2786,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להקדיש בעלי מומין למזבח
 
-### N92 — Không giết con vật có khuyết tật làm lễ vật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N91)
+
+### N92 — Không sát tế con vật có khuyết tật làm lễ vật
 
 **English:** Not to slaughter animals with disqualifying physical blemishes as sacrifices.
 
 **Hebrew (Maimonides):** שלא לשחוט בעלי מומין לשם קרבן
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N92)
 
 ### N93 — Không rảy máu con vật có khuyết tật lên bàn thờ
 
@@ -2658,11 +2802,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לזרוק דם בעלי מומין לגבי המזבח
 
-### N94 — Không thiêu phần hiến tế của con vật có khuyết tật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N93)
+
+### N94 — Không thiêu các phần dâng của con vật có khuyết tật
 
 **English:** Not to burn the sacrificial portions of animals with disqualifying physical blemishes [as sacrifices on the altar].
 
 **Hebrew (Maimonides):** שלא להקטיר אימורי בעלי מומין
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N94)
 
 ### N95 — Không dâng con vật có khuyết tật tạm thời
 
@@ -2670,35 +2818,47 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להקריב בעל מום עובר
 
-### N96 — Không dâng con vật có khuyết tật do dân ngoại mang đến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N95)
+
+### N96 — Không dâng con vật có khuyết tật do người ngoài Do Thái mang đến
 
 **English:** Not to offer an animal with a disqualifying physical blemish as a sacrifice when it was brought by gentiles.
 
 **Hebrew (Maimonides):** שלא להקריב בעל מום מיד הגויים
 
-### N97 — Không cố ý gây khuyết tật cho con vật đã thánh hiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N96)
+
+### N97 — Không gây khuyết tật cho con vật đã được thánh hiến
 
 **English:** Not to inflict a disqualifying physical blemish upon a consecrated animal.
 
 **Hebrew (Maimonides):** שלא ייתן מום בקודשים
 
-### N98 — Không thiêu vật có chất ngọt hoặc men làm lễ dâng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N97)
+
+### N98 — Không thiêu men hay mật trên bàn thờ
 
 **English:** Not to burn as an offering anything which is sweetened or leavened.
 
 **Hebrew (Maimonides):** שלא להקריב שאור או דבש
 
-### N99 — Không dâng lễ vật thiếu muối
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N98)
+
+### N99 — Không dâng lễ vật không có muối
 
 **English:** Not to offer a sacrifice which is unsalted.
 
 **Hebrew (Maimonides):** שלא להקריב תפל
 
-### N100 — Không dâng con vật là tiền công mại dâm hoặc vật đổi lấy chó
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N99)
+
+### N100 — Không dâng tiền công mại dâm hay vật đổi lấy chó
 
 **English:** Not to offer as a sacrifice an animal received by a prostitute as her fee, or an animal received in exchange for a dog.
 
 **Hebrew (Maimonides):** שלא להקריב אתנן ומחיר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N100)
 
 ### N101 — Không giết con vật mẹ và con của nó trong cùng một ngày
 
@@ -2706,71 +2866,95 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לשחוט אותו ואת בנו
 
-### N102 — Không đổ dầu ôliu lên lễ phẩm bột của người phạm tội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N101)
+
+### N102 — Không trộn dầu vào lễ ngũ cốc đền tội
 
 **English:** Not to place olive oil on the meal offering brought by a sinner.
 
 **Hebrew (Maimonides):** שלא ליתן שמן זית במנחת חוטא
 
-### N103 — Không đặt nhũ hương lên lễ phẩm ấy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N102)
+
+### N103 — Không đặt nhũ hương lên lễ ngũ cốc đền tội
 
 **English:** Not to place frankincense on such a sacrifice.
 
 **Hebrew (Maimonides):** שלא ליתן עליה לבונה
 
-### N104 — Không đổ dầu lên lễ phẩm bột của [sotah](../glossary#sotah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N103)
+
+### N104 — Không trộn dầu vào lễ ngũ cốc của người phụ nữ bị nghi ngoại tình
 
 **English:** Not to place oil on the meal offering brought by a sotah.
 
 **Hebrew (Maimonides):** שלא ייתן שמן במנחת סוטה
 
-### N105 — Không đặt nhũ hương lên lễ phẩm ấy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N104)
+
+### N105 — Không đặt nhũ hương lên lễ ngũ cốc của người phụ nữ bị nghi ngoại tình
 
 **English:** Not to place frankincense on such a sacrifice.
 
 **Hebrew (Maimonides):** שלא ייתן עליו לבונה
 
-### N106 — Không thay con vật khác cho lễ vật đã chọn
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N105)
+
+### N106 — Không đổi con vật khác thay cho lễ vật đã được thánh hiến
 
 **English:** Not to substitute [another animal] for [one selected as] a sacred offering.
 
 **Hebrew (Maimonides):** שלא להמיר את הקודשים
 
-### N107 — Không đổi mục đích hiến tế của con vật đã thánh hiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N106)
+
+### N107 — Không đổi một lễ vật đã thánh hiến từ loại này sang loại khác
 
 **English:** Not to change the designation of a consecrated animal from one sacrifice to another.
 
 **Hebrew (Maimonides):** שלא לשנות את הקודשים מקרבן לקרבן
 
-### N108 — Không chuộc con vật kosher đầu lòng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N107)
+
+### N108 — Không chuộc lại con đầu lòng của súc vật thanh sạch
 
 **English:** Not to redeem a firstling kosher animal.
 
 **Hebrew (Maimonides):** שלא לפדות בכור בהמה טהורה
 
-### N109 — Không bán phần mười gia súc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N108)
+
+### N109 — Không bán con vật thuộc phần mười của đàn gia súc
 
 **English:** Not to sell the tithe of cattle.
 
 **Hebrew (Maimonides):** שלא למכור מעשר בהמה
 
-### N110 — Không bán ruộng đã biệt hiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N109)
+
+### N110 — Không bán ruộng đất đã biệt hiến cho tư tế
 
 **English:** Not to sell a field that has been dedicated.
 
 **Hebrew (Maimonides):** שלא למכור שדה החרם
 
-### N111 — Không chuộc ruộng đã biệt hiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N110)
+
+### N111 — Không chuộc lại ruộng đất đã biệt hiến cho tư tế
 
 **English:** Not to redeem a field that has been dedicated.
 
 **Hebrew (Maimonides):** שלא לפדות שדה החרם
 
-### N112 — Không cắt lìa đầu chim làm lễ vật chuộc tội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N111)
+
+### N112 — Không cắt lìa đầu con chim dâng làm lễ đền tội
 
 **English:** Not to sever the head of a bird [brought as] a sin offering.
 
 **Hebrew (Maimonides):** שלא יבדיל ראש חטאת העוף
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N112)
 
 ### N113 — Không bắt con vật đã thánh hiến làm việc
 
@@ -2778,167 +2962,223 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעבוד בקודשים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N113)
+
 ### N114 — Không xén lông con vật đã thánh hiến
 
 **English:** Not to shear consecrated animals.
 
 **Hebrew (Maimonides):** שלא לגזוז את הקודשים
 
-### N115 — Không giết lễ vật [Pesach](../glossary#pesach) khi còn sở hữu [chametz](../glossary#chametz)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N114)
+
+### N115 — Không sát tế lễ Vượt Qua khi còn giữ men trong nhà
 
 **English:** Not to slaughter the Paschal sacrifice while one possesses chametz.
 
 **Hebrew (Maimonides):** שלא ישחוט הפסח והחמץ קיים
 
-### N116 — Không để phần hiến tế của lễ [Pesach](../glossary#pesach) qua đêm đến mất tư cách
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N115)
+
+### N116 — Không để các phần dâng của lễ Vượt Qua qua đêm đến mức mất tư cách
 
 **English:** Not to allow the sacrificial portions of the Paschal sacrifice to become disqualified by remaining overnight.
 
 **Hebrew (Maimonides):** שלא להניח אימורי הפסח עד שיפסלו בלינה
 
-### N117 — Không để thịt lễ [Pesach](../glossary#pesach) qua đêm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N116)
+
+### N117 — Không để thịt lễ Vượt Qua còn thừa đến sáng
 
 **English:** Not to allow the meat of the Paschal sacrifice to remain [overnight].
 
 **Hebrew (Maimonides):** שלא להותיר מבשר הפסח
 
-### N118 — Không để thịt lễ Chaggigah đến ngày thứ ba
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N117)
+
+### N118 — Không để thịt lễ chagigah ngày mười bốn còn thừa đến ngày thứ ba
 
 **English:** Not to allow the meat of the Chaggigah sacrifice to remain until the third day.
 
 **Hebrew (Maimonides):** שלא להותיר מחגיגת ארבעה עשר ליום השלישי
 
-### N119 — Không để thịt lễ [Pesach](../glossary#pesach) thứ hai đến sáng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N118)
+
+### N119 — Không để thịt lễ Vượt Qua thứ hai còn thừa đến sáng
 
 **English:** Not to allow the meat of the second Paschal sacrifice to remain until the morning.
 
 **Hebrew (Maimonides):** שלא להותיר מבשר פסח שני עד בוקר
 
-### N120 — Không để thịt lễ tạ ơn đến sáng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N119)
+
+### N120 — Không để thịt lễ tạ ơn còn thừa đến sáng
 
 **English:** Not to allow the meat of the thanksgiving offering to remain until the morning.
 
 **Hebrew (Maimonides):** שלא להותיר מבשר התודה עד בוקר
 
-### N121 — Không bẻ xương lễ vật [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N120)
+
+### N121 — Không bẻ xương lễ Vượt Qua
 
 **English:** Not to break any of the bones of the Paschal sacrifice.
 
 **Hebrew (Maimonides):** שלא לשבור עצם בפסח
 
-### N122 — Không bẻ xương lễ vật [Pesach](../glossary#pesach) thứ hai
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N121)
+
+### N122 — Không bẻ xương lễ Vượt Qua thứ hai
 
 **English:** Not to break any of the bones of the Second Paschal sacrifice.
 
 **Hebrew (Maimonides):** שלא לשבור עצם בפסח שני
 
-### N123 — Không mang thịt lễ [Pesach](../glossary#pesach) ra khỏi nhóm cùng ăn
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N122)
+
+### N123 — Không mang thịt lễ Vượt Qua ra khỏi nhóm cùng ăn
 
 **English:** Not to remove the meat of the Paschal sacrifice from the company [in which it is being eaten].
 
 **Hebrew (Maimonides):** שלא להוציא מבשר הפסח מן החבורה
 
-### N124 — Không để phần còn lại của lễ phẩm bột lên men
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N123)
+
+### N124 — Không để phần còn lại của lễ ngũ cốc lên men
 
 **English:** Not to allow any of the remaining portions of the meal offerings to leaven.
 
 **Hebrew (Maimonides):** שלא לעשות שיירי מנחות חמץ
 
-### N125 — Không ăn thịt lễ [Pesach](../glossary#pesach) sống hoặc luộc trong nước
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N124)
+
+### N125 — Không ăn thịt lễ Vượt Qua sống hay luộc
 
 **English:** Not to eat the meat of the Paschal sacrifice raw or boiled in water.
 
 **Hebrew (Maimonides):** שלא לאכול בשר הפסח נא ומבושל
 
-### N126 — Không cho ngoại kiều cư trú ăn thịt lễ [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N125)
+
+### N126 — Không cho kiều dân cư trú hay người làm thuê ăn thịt lễ Vượt Qua
 
 **English:** Not to feed the meat of the Paschal sacrifice to a resident alien.
 
 **Hebrew (Maimonides):** שלא להאכיל בשר הפסח לגר תושב
 
-### N127 — Không cho nam giới chưa cắt bao quy đầu ăn thịt lễ [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N126)
+
+### N127 — Người nam chưa cắt bì không được ăn thịt lễ Vượt Qua
 
 **English:** Not to feed the meat of the Paschal sacrifice to an uncircumcised male.
 
 **Hebrew (Maimonides):** שלא יאכל הערל בשר הפסח
 
-### N128 — Không cho người Do Thái bội giáo ăn thịt lễ [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N127)
+
+### N128 — Không cho người Do Thái đã chuyển sang thờ ngẫu tượng ăn thịt lễ Vượt Qua
 
 **English:** Not to feed the meat of the Paschal sacrifice to an apostate Jew.
 
 **Hebrew (Maimonides):** שלא להאכיל בשר הפסח לישראל שנשתמד
 
-### N129 — Người ô uế nghi lễ không ăn thức ăn đã thánh hiến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N128)
+
+### N129 — Người đang ô uế không được ăn đồ thánh
 
 **English:** For a person who became ritually impure not to partake of consecrated foods.
 
 **Hebrew (Maimonides):** שלא יאכל אדם שנטמא קודשים
 
-### N130 — Không ăn thức ăn đã thánh hiến bị ô uế nghi lễ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N129)
+
+### N130 — Không ăn đồ thánh đã bị ô uế
 
 **English:** Not to partake of consecrated foods that have contracted ritual impurity.
 
 **Hebrew (Maimonides):** שלא לאכול מן הקודשים שנטמאו
 
-### N131 — Không ăn thịt hiến tế quá thời hạn được phép
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N130)
+
+### N131 — Không ăn thịt lễ vật đã quá thời hạn
 
 **English:** Not to eat sacrificial meat that has remained past the limits allotted for its consumption.
 
 **Hebrew (Maimonides):** שלא לאכול נותר
 
-### N132 — Không ăn [piggul](../glossary#piggul)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N131)
+
+### N132 — Không ăn lễ vật đã bị vô hiệu vì ý định sai ([piggul](../glossary#piggul))
 
 **English:** Not to eat piggul.
 
 **Hebrew (Maimonides):** שלא לאכול פיגול
 
-### N133 — Người không được phép không ăn [terumot](../glossary#terumah-terumot-and-tevel)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N132)
+
+### N133 — Người không thuộc dòng tư tế không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
 
 **English:** For an unauthorized person not to partake of terumot.
 
 **Hebrew (Maimonides):** שלא יאכל זר תרומות
 
-### N134 — Người thuê đất hoặc làm thuê cho tư tế không ăn [terumah](../glossary#terumah-terumot-and-tevel)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N133)
+
+### N134 — Người cư ngụ hay người làm thuê của tư tế cũng không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
 
 **English:** For not even a tenant or a hired worker employed by a priest to partake of terumah.
 
 **Hebrew (Maimonides):** שלא יאכל אפילו תושב כוהן ושכירו תרומה
 
-### N135 — Người chưa cắt bao quy đầu không ăn [terumah](../glossary#terumah-terumot-and-tevel) hoặc thức ăn thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N134)
+
+### N135 — Người chưa cắt bì không được ăn [terumah](../glossary#terumah-terumot-and-tevel) hay đồ thánh khác
 
 **English:** For an uncircumcised person not to partake of terumah or other consecrated foods.
 
 **Hebrew (Maimonides):** שלא יאכל ערל תרומה, והוא הדין לשאר קודשים. .ודבר זה לימדו הכתוב מן הפסח בגזירה שווה, ואינו בפירוש מן התורה; ומפי השמועה למדו שאיסור ערל בקודשים מגופי תורה, ואינו מדברי סופרים
 
-### N136 — Tư tế ô uế không ăn [terumah](../glossary#terumah-terumot-and-tevel)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N135)
+
+### N136 — Tư tế đang ô uế không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
 
 **English:** For a priest who is impure not to partake of terumah.
 
 **Hebrew (Maimonides):** שלא יאכל כוהן טמא תרומה
 
-### N137 — Chalalah không ăn thức ăn thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N136)
+
+### N137 — Người phụ nữ [chalalah](../glossary#zonah-and-chalalah) không được ăn đồ thánh
 
 **English:** For a chalalah not to partake of consecrated foods, neither terumah, nor the breast and the shankbone [given to the priest].
 
 **Hebrew (Maimonides):** שלא תאכל חללה קודש, לא תרומות ולא חזה ושוק
 
-### N138 — Không ăn lễ phẩm bột do tư tế dâng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N137)
+
+### N138 — Không ăn lễ ngũ cốc của tư tế
 
 **English:** For a meal offering brought by a priest not to be eaten.
 
 **Hebrew (Maimonides):** שלא תיאכל מנחת כוהן
 
-### N139 — Không ăn thịt lễ chuộc tội có máu được rảy trong nơi thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N138)
+
+### N139 — Không ăn thịt lễ đền tội có máu được đem vào nơi thánh
 
 **English:** Not to partake of the meat of the sin offerings [whose blood is sprinkled] within [the Temple sanctuary].
 
 **Hebrew (Maimonides):** שלא לאכול בשר חטאות הנעשות בפנים
 
-### N140 — Không ăn con vật thánh bị mất tư cách vì cố ý gây khuyết tật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N139)
+
+### N140 — Không ăn lễ vật đã bị vô hiệu, kể cả con vật bị cố ý gây khuyết tật
 
 **English:** Not to partake of consecrated animals that were disqualified [for use as sacrifices because] a blemish was intentionally inflicted upon them.
 
 **Hebrew (Maimonides):** שלא לאכול פסולי המוקדשין שהוטל בהם מום בכוונה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N140)
 
 ### N141 — Không ăn ngũ cốc thuộc phần mười thứ hai ngoài Jerusalem
 
@@ -2946,11 +3186,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לאכול מעשר שני של דגן חוץ לירושלים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N141)
+
 ### N142 — Không uống rượu thuộc phần mười thứ hai ngoài Jerusalem
 
 **English:** Not to consume wine [separated as] the second tithe outside of Jerusalem.
 
 **Hebrew (Maimonides):** שלא לאכול מעשר שני של תירוש חוץ לירושלים
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N142)
 
 ### N143 — Không dùng dầu thuộc phần mười thứ hai ngoài Jerusalem
 
@@ -2958,17 +3202,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לאכול מעשר שני של יצהר חוץ לירושלים
 
-### N144 — Không ăn con vật đầu lòng không khuyết tật ngoài Jerusalem
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N143)
+
+### N144 — Không ăn con đầu lòng lành lặn ngoài Jerusalem
 
 **English:** Not to eat an unblemished firstling animal outside of Jerusalem.
 
 **Hebrew (Maimonides):** שלא לאכול בכור תמים חוץ לירושלים
 
-### N145 — Tư tế không ăn lễ chuộc tội hoặc lễ chuộc lỗi ngoài sân Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N144)
+
+### N145 — Tư tế không được ăn lễ đền tội hay lễ đền bù ngoài sân Đền Thờ
 
 **English:** For the priests not to eat a sin offering or a guilt offering outside the Temple courtyard.
 
 **Hebrew (Maimonides):** שלא יאכלו הכוהנים חטאת ואשם חוץ לעזרה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N145)
 
 ### N146 — Không ăn thịt lễ toàn thiêu
 
@@ -2976,239 +3226,319 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לאכול בשר העולה
 
-### N147 — Không ăn thịt lễ vật bậc thánh thấp trước khi rảy máu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N146)
+
+### N147 — Không ăn thịt lễ vật thánh bậc thấp trước khi rảy máu
 
 **English:** Not to eat the meat of sacrifices of a lesser order of holiness before the sprinkling of their blood.
 
 **Hebrew (Maimonides):** שלא לאכול בשר קודשים קלים קודם זריקת דמים
 
-### N148 — Người không được phép không ăn thịt lễ vật bậc cực thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N147)
+
+### N148 — Người không thuộc dòng tư tế không được ăn lễ vật cực thánh
 
 **English:** For an unauthorized person not to eat the meat of the sacrifices of the highest order of sanctity.
 
 **Hebrew (Maimonides):** שלא יאכל זר בשר קודשי קודשים
 
-### N149 — Tư tế không ăn bikkurim trước khi đặt xuống sân Đền Thánh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N148)
+
+### N149 — Tư tế không được ăn hoa quả đầu mùa trước khi chúng được đặt trong sân Đền Thờ
 
 **English:** For a priest not to partake of the first fruits [Bikkurim] before they are placed down in the Temple courtyard.
 
 **Hebrew (Maimonides):** שלא יאכל כוהן ביכורים קודם הנחה בעזרה
 
-### N150 — Không ăn phần mười thứ hai bị ô uế trước khi chuộc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N149)
+
+### N150 — Không ăn phần mười thứ hai khi nó hay người ăn đang ô uế, trước khi chuộc lại
 
 **English:** Not to eat the second tithe which has become impure, even within Jerusalem, until it has been redeemed.
 
 **Hebrew (Maimonides):** שלא לאכול מעשר שני בטומאה ואפילו בירושלים עד שייפדה
 
-### N151 — Không ăn phần mười thứ hai khi đang chịu tang
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N150)
+
+### N151 — Không ăn phần mười thứ hai khi đang có tang chưa chôn cất
 
 **English:** Not to eat the second tithe while in mourning.
 
 **Hebrew (Maimonides):** שלא לאכול מעשר שני באנינות
 
-### N152 — Không dùng tiền chuộc phần mười thứ hai ngoài thức ăn và đồ uống
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N151)
+
+### N152 — Không dùng tiền chuộc phần mười thứ hai vào việc gì ngoài ăn uống
 
 **English:** Not to use the proceeds [from the redemption of] the second tithe for anything aside from food and drink.
 
 **Hebrew (Maimonides):** שלא להוציא דמי מעשר שני בשאר דברים שאין בהם אכילה ושתייה
 
-### N153 — Không ăn [tevel](../glossary#terumah-terumot-and-tevel)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N152)
+
+### N153 — Không ăn nông sản chưa tách terumah và các phần mười ([tevel](../glossary#terumah-terumot-and-tevel))
 
 **English:** Not to eat tevel. Tevel refers to produce from which one is obligated to separate terumah and tithes from which God's terumah has not been separated.
 
 **Hebrew (Maimonides):** שלא לאכול הטבל; והטבל הוא הדבר שגידוליו מן הארץ החייב בתרומות ומעשרות, שלא הוציאו ממנו תרומת ה': 
 
-### N154 — Không tách các lễ phẩm nông nghiệp sai thứ tự quy định
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N153)
+
+### N154 — Không tách các phần dâng nông nghiệp sai thứ tự
 
 **English:** Not to separate terumah before the first fruits, nor the first tithe before terumah, nor the second tithe before the first. Rather, [the agricultural gifts] must be given in order - first, the first fruits; afterwards, terumah; afterwards, the first tithe; and, afterwards, the second tithe -.
 
 **Hebrew (Maimonides):** שלא להקדים תרומה לביכורים, ולא מעשר ראשון לתרומה, ולא מעשר שני לראשון, אלא מוציאין על הסדר: .ביכורים תחילה, ואחר כך תרומה גדולה, ואחר כך מעשר ראשון, ואחר כך מעשר שני
 
-### N155 — Không trì hoãn dâng lễ vật đã khấn hứa
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N154)
+
+### N155 — Không chậm trễ dâng những lễ vật đã khấn hay đã hứa
 
 **English:** Not to delay bringing sacrifices you have vowed to offer, or animals which you have pledged to bring as sacrifices.
 
 **Hebrew (Maimonides):** שלא לאחר הנדרים והנדבות שנדר ושנדב
 
-### N156 — Không hành hương lễ hội mà không mang lễ vật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N155)
+
+### N156 — Không lên hành hương dự lễ mà không mang lễ vật
 
 **English:** Not to make a festive pilgrimage without [bringing] a sacrifice.
 
 **Hebrew (Maimonides):** שלא לעלות לחג בלא קרבן
 
-### N157 — Không vi phạm lời khấn tự cấm mình sử dụng một vật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N156)
+
+### N157 — Không vi phạm lời khấn tự cấm mình dùng một vật
 
 **English:** Not to violate a vow which a person makes forbidding his use of anything.
 
 **Hebrew (Maimonides):** שלא לעבור על דברים שאסר אדם על נפשו
 
-### N158 — Tư tế không cưới [zonah](../glossary#zonah-and-chalalah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N157)
+
+### N158 — Tư tế không được lấy người phụ nữ mang địa vị [zonah](../glossary#zonah-and-chalalah)
 
 **English:** For a priest not to marry an immoral woman [zonah].
 
 **Hebrew (Maimonides):** שלא ייקח כוהן זונה
 
-### N159 — Tư tế không cưới [chalalah](../glossary#zonah-and-chalalah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N158)
+
+### N159 — Tư tế không được lấy người phụ nữ [chalalah](../glossary#zonah-and-chalalah)
 
 **English:** For a priest not to marry a chalalah.
 
 **Hebrew (Maimonides):** שלא ייקח כוהן חללה
 
-### N160 — Tư tế không cưới người phụ nữ đã ly hôn
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N159)
+
+### N160 — Tư tế không được lấy người phụ nữ đã ly hôn
 
 **English:** For a priest not to marry a divorcee.
 
 **Hebrew (Maimonides):** שלא ייקח כוהן גרושה
 
-### N161 — Thượng tế không cưới góa phụ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N160)
+
+### N161 — Thượng tế không được lấy góa phụ
 
 **English:** For a High Priest not to marry a widow.
 
 **Hebrew (Maimonides):** שלא ייקח כוהן גדול אלמנה
 
-### N162 — Thượng tế không quan hệ tính dục với góa phụ, kể cả ngoài hôn nhân
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N161)
+
+### N162 — Thượng tế không được ăn nằm với góa phụ, kể cả ngoài hôn nhân
 
 **English:** For a High Priest not to have sexual relations with a widow even outside the context of marriage, because by doing so he profanes her.
 
 **Hebrew (Maimonides):** שלא יבעול כוהן גדול אלמנה, ואפילו בלא קידושים, מפני שמחללה
 
-### N163 — Tư tế không vào Đền Thánh với tóc mọc quá dài không chỉnh tề
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N162)
+
+### N163 — Tư tế không được vào nơi thánh với tóc để dài không cắt
 
 **English:** For a priest not to enter the Temple with hair that has grown unseemingly long.
 
 **Hebrew (Maimonides):** שלא ייכנס כוהן למקדש פרוע ראש
 
-### N164 — Tư tế không vào Đền Thánh với áo rách
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N163)
+
+### N164 — Tư tế không được vào nơi thánh với áo rách
 
 **English:** For a priest not to enter the Temple with torn garments.
 
 **Hebrew (Maimonides):** שלא ייכנס כוהן למקדש קרוע בגדים
 
-### N165 — Tư tế không rời sân Đền Thánh giữa lúc phụng sự
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N164)
+
+### N165 — Tư tế không được rời sân Đền Thờ giữa lúc phụng vụ
 
 **English:** For a priest not to leave the Temple courtyard in the midst of service.
 
 **Hebrew (Maimonides):** שלא ייצא כוהן מן העזרה בשעת עבודה
 
-### N166 — Tư tế thường không làm mình ô uế vì tiếp xúc tử thi ngoài trường hợp được phép
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N165)
+
+### N166 — Tư tế thường không được làm mình ô uế vì người chết, trừ những người thân được phép
 
 **English:** For a common priest not to become impure through contact with a corpse [with the exception of the specific instances permitted by the Torah].
 
 **Hebrew (Maimonides):** שלא ייטמא כוהן הדיוט לשאר מתים
 
-### N167 — Thượng tế không làm mình ô uế vì bất kỳ tử thi nào, kể cả thân nhân
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N166)
+
+### N167 — Thượng tế không được làm mình ô uế vì người chết, kể cả người thân
 
 **English:** For a High Priest not to become impure [through contact with any corpse], even [those of] his relatives.
 
 **Hebrew (Maimonides):** שלא ייטמא כוהן גדול ואפילו לקרוביו
 
-### N168 — Thượng tế không vào nơi có tử thi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N167)
+
+### N168 — Thượng tế không được vào nơi có thi thể
 
 **English:** For a High Priest not to enter the place where a corpse is found.
 
 **Hebrew (Maimonides):** שלא ייכנס כוהן גדול עם מת
 
-### N169 — Chi tộc Lêvi không nhận phần đất tại [Eretz Yisrael](../glossary#eretz-yisrael-diaspora)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N168)
+
+### N169 — Chi tộc Lêvi không được nhận phần đất trong [Đất Israel](../glossary#eretz-yisrael-diaspora)
 
 **English:** For the tribe of Levi not to take a portion of Eretz Yisrael.
 
 **Hebrew (Maimonides):** שלא ייקח כל שבט לוי חלק בארץ
 
-### N170 — Chi tộc Lêvi không nhận chiến lợi phẩm khi chinh phục [Eretz Yisrael](../glossary#eretz-yisrael-diaspora)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N169)
+
+### N170 — Chi tộc Lêvi không được nhận phần chiến lợi phẩm khi chinh phục Đất
 
 **English:** For the tribe of Levi not to take a portion of the spoils in the conquest of Eretz Yisrael.
 
 **Hebrew (Maimonides):** שלא ייקח כל שבט לוי חלק בביזה בשעת כיבוש הארץ
 
-### N171 — Không giật tóc để tang người chết
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N170)
+
+### N171 — Không cạo trọc một chỗ trên đầu để tang người chết
 
 **English:** Not to tear out hair [in mourning] for the dead.
 
 **Hebrew (Maimonides):** שלא לעשות קורחה על מת
 
-### N172 — Không ăn động vật không kosher
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N171)
+
+### N172 — Không ăn thú vật không thanh sạch
 
 **English:** Not to eat non-kosher animals.
 
 **Hebrew (Maimonides):** שלא לאכול בהמה טמאה
 
-### N173 — Không ăn cá không kosher
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N172)
+
+### N173 — Không ăn cá không thanh sạch
 
 **English:** Not to eat non-kosher fish.
 
 **Hebrew (Maimonides):** שלא לאכול דג טמא
 
-### N174 — Không ăn chim không kosher
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N173)
+
+### N174 — Không ăn chim không thanh sạch
 
 **English:** Not to eat non-kosher birds.
 
 **Hebrew (Maimonides):** שלא לאכול עוף טמא
 
-### N175 — Không ăn côn trùng bay
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N174)
+
+### N175 — Không ăn côn trùng có cánh
 
 **English:** Not to eat flying insects.
 
 **Hebrew (Maimonides):** שלא לאכול שרץ העוף
 
-### N176 — Không ăn côn trùng sinh sôi trên đất
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N175)
+
+### N176 — Không ăn các loài lúc nhúc trên mặt đất
 
 **English:** Not to eat insects that breed on land.
 
 **Hebrew (Maimonides):** שלא לאכול שרץ הארץ
 
-### N177 — Không ăn sinh vật bò trên mặt đất
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N176)
+
+### N177 — Không ăn các sinh vật sinh ra từ vật thối rữa
 
 **English:** Not to eat anything that creeps on the earth.
 
 **Hebrew (Maimonides):** שלא לאכול רמש הארץ
 
-### N178 — Không ăn sâu sinh trong nông sản sau khi tiếp xúc không khí
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N177)
+
+### N178 — Không ăn sâu bọ sinh trong nông sản sau khi chúng đã bò ra ngoài
 
 **English:** Not to eat worms that breed in produce after they become exposed to the air.
 
 **Hebrew (Maimonides):** שלא לאכול תולעת הפירות כשתצא לאוויר
 
-### N179 — Không ăn sinh vật lúc nhúc sinh trong nước
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N178)
+
+### N179 — Không ăn các loài lúc nhúc sinh trong nước
 
 **English:** Not to eat swarming creatures that breed in the water.
 
 **Hebrew (Maimonides):** שלא לאכול שרץ המים
 
-### N180 — Không ăn xác súc vật chết không qua giết mổ hợp lệ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N179)
+
+### N180 — Không ăn thịt con vật chết không qua giết mổ hợp lệ
 
 **English:** Not to eat carrion.
 
 **Hebrew (Maimonides):** שלא לאכול מתה
 
-### N181 — Không ăn con vật bị thương chí tử, tức [trefah](../glossary#trefah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N180)
+
+### N181 — Không ăn thịt con vật bị thương tổn chí tử ([trefah](../glossary#trefah))
 
 **English:** Not to eat an animal with a mortal infliction (trefah).
 
 **Hebrew (Maimonides):** שלא לאכול טריפה
 
-### N182 — Không ăn chi thể lấy từ con vật đang sống
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N181)
+
+### N182 — Không ăn chi thể cắt từ con vật đang sống
 
 **English:** Not to eat a limb from a living animal.
 
 **Hebrew (Maimonides):** שלא לאכול אבר מן החי
 
-### N183 — Không ăn dây thần kinh tọa bị lệch
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N182)
+
+### N183 — Không ăn dây thần kinh tọa
 
 **English:** Not to eat the displaced [sciatic] nerve.
 
 **Hebrew (Maimonides):** שלא לאכול גיד הנשה
 
-### N184 — Không ăn hoặc uống máu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N183)
+
+### N184 — Không ăn máu
 
 **English:** Not to consume blood.
 
 **Hebrew (Maimonides):** שלא לאכול דם
 
-### N185 — Không ăn mỡ cứng bị cấm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N184)
+
+### N185 — Không ăn loại mỡ bị cấm (chelev)
 
 **English:** Not to partake of [hard] fat.
 
 **Hebrew (Maimonides):** שלא לאכול חלב
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N185)
 
 ### N186 — Không nấu thịt với sữa
 
@@ -3216,155 +3546,207 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לבשל בשר בחלב
 
-### N187 — Không ăn thịt với sữa
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N186)
+
+### N187 — Không ăn thịt đã nấu với sữa
 
 **English:** Not to eat meat and milk [together].
 
 **Hebrew (Maimonides):** שלא לאכול בשר בחלב
 
-### N188 — Không ăn thịt con bò bị ném đá chết
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N187)
+
+### N188 — Không ăn thịt con bò bị kết án ném đá
 
 **English:** Not to partake of the meat of an ox that was stoned to death.
 
 **Hebrew (Maimonides):** שלא לאכול בשר שור הנסקל
 
-### N189 — Không ăn bánh từ vụ mùa mới trước [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N188)
+
+### N189 — Không ăn bánh làm từ ngũ cốc vụ mới trước lễ omer
 
 **English:** Not to eat bread made from newly grown produce before Pesach.
 
 **Hebrew (Maimonides):** שלא לאכול פת תבואה חדשה קודם הפסח
 
-### N190 — Không ăn hạt rang từ vụ mùa mới trước [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N189)
+
+### N190 — Không ăn hạt rang từ ngũ cốc vụ mới trước lễ omer
 
 **English:** Not to eat roasted grain from newly grown produce before Pesach.
 
 **Hebrew (Maimonides):** שלא לאכול קלי מן החדש
 
-### N191 — Không ăn hạt tươi từ vụ mùa mới trước [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N190)
+
+### N191 — Không ăn hạt tươi từ ngũ cốc vụ mới trước lễ omer
 
 **English:** Not to eat fresh grain from newly grown produce before Pesach.
 
 **Hebrew (Maimonides):** שלא לאכול כרמל מתבואה חדשה
 
-### N192 — Không ăn [orlah](../glossary#orlah) trong ba năm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N191)
+
+### N192 — Không ăn trái cây của cây trồng trong ba năm đầu ([orlah](../glossary#orlah))
 
 **English:** Not to eat orlah for three years.
 
 **Hebrew (Maimonides):** שלא לאכול עורלה
 
-### N193 — Không ăn các loài gieo trộn trong vườn nho
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N192)
+
+### N193 — Không ăn sản vật của vườn nho gieo lẫn giống
 
 **English:** Not to eat mixed species planted in a vineyard.
 
 **Hebrew (Maimonides):** שלא לאכול כלאי הכרם
 
-### N194 — Không uống rượu dùng làm lễ tưới cho ngẫu tượng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N193)
+
+### N194 — Không uống rượu đã được rưới dâng cho vật thờ
 
 **English:** Not to drink wine used for idolatrous libations.
 
 **Hebrew (Maimonides):** שלא לשתות יין נסך
 
-### N195 — Không ăn uống như kẻ tham ăn say sưa
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N194)
+
+### N195 — Không ăn uống vô độ như đứa con ngang bướng
 
 **English:** Not to eat or drink like a glutton and a drunkard.
 
 **Hebrew (Maimonides):** שלא לאכול ולשתות דרך זולל וסובא
 
-### N196 — Không ăn trong ngày chay [Yom Kippur](../glossary#yom-kippur)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N195)
+
+### N196 — Không ăn uống trong ngày chay [Yom Kippur](../glossary#yom-kippur)
 
 **English:** Not to eat on the day of the fast [of Yom Kippur].
 
 **Hebrew (Maimonides):** שלא לאכול ביום הצום
 
-### N197 — Không ăn [chametz](../glossary#chametz) trong [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N196)
+
+### N197 — Không ăn men trong lễ Vượt Qua
 
 **English:** Not to partake of chametz on Pesach.
 
 **Hebrew (Maimonides):** שלא לאכול חמץ בפסח
 
-### N198 — Không ăn hỗn hợp có [chametz](../glossary#chametz)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N197)
+
+### N198 — Không ăn hỗn hợp có men trong lễ Vượt Qua
 
 **English:** Not to eat a mixture of chametz.
 
 **Hebrew (Maimonides):** שלא לאכול תערובת חמץ
 
-### N199 — Không ăn [chametz](../glossary#chametz) sau giữa trưa ngày 14 Nisan
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N198)
+
+### N199 — Không ăn men sau trưa ngày 14 Nisan
 
 **English:** Not to eat chametz after noontime on the fourteenth [of Nisan].
 
 **Hebrew (Maimonides):** שלא לאכול חמץ אחר חצות יום ארבעה עשר
 
-### N200 — Không để người ta thấy [chametz](../glossary#chametz) thuộc sở hữu mình trong [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N199)
+
+### N200 — Không để men thuộc sở hữu mình hiện diện trong lễ Vượt Qua
 
 **English:** Not to have chametz seen [in one's possession during Pesach].
 
 **Hebrew (Maimonides):** שלא ייראה חמץ
 
-### N201 — Không để tìm thấy [chametz](../glossary#chametz) thuộc sở hữu mình trong [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N200)
+
+### N201 — Không để men thuộc sở hữu mình được tìm thấy trong nhà trong lễ Vượt Qua
 
 **English:** Not to have chametz found [in one's possession during Pesach].
 
 **Hebrew (Maimonides):** שלא יימצא חמץ
 
-### N202 — [Nazirite](../glossary#nazirite) không uống rượu hoặc thứ pha rượu có vị rượu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N201)
+
+### N202 — Người [nazir](../glossary#nazirite) không uống rượu hay thứ pha rượu, kể cả giấm rượu
 
 **English:** For a Nazarite not to drink wine or partake of anything in which wine was mixed and has the taste of wine.
 
 **Hebrew (Maimonides):** שלא ישתה הנזיר יין, ולא דבר שנתערב בו יין וטעמו כטעם יין
 
-### N203 — [Nazirite](../glossary#nazirite) không ăn nho tươi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N202)
+
+### N203 — Người [nazir](../glossary#nazirite) không ăn nho tươi
 
 **English:** [For a Nazarite] not to eat fresh grapes.
 
 **Hebrew (Maimonides):** שלא יאכל ענבים לחים
 
-### N204 — [Nazirite](../glossary#nazirite) không ăn nho khô
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N203)
+
+### N204 — Người [nazir](../glossary#nazirite) không ăn nho khô
 
 **English:** [For a Nazarite] not to eat raisins.
 
 **Hebrew (Maimonides):** שלא יאכל ענבים יבשים
 
-### N205 — [Nazirite](../glossary#nazirite) không ăn hạt nho
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N204)
+
+### N205 — Người [nazir](../glossary#nazirite) không ăn hạt nho
 
 **English:** [For a Nazarite] not to eat grape seeds.
 
 **Hebrew (Maimonides):** שלא יאכל חרצנים
 
-### N206 — [Nazirite](../glossary#nazirite) không ăn vỏ nho
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N205)
+
+### N206 — Người [nazir](../glossary#nazirite) không ăn vỏ nho
 
 **English:** [For a Nazarite] not to eat grape peels.
 
 **Hebrew (Maimonides):** שלא יאכל זוגין
 
-### N207 — [Nazirite](../glossary#nazirite) không làm mình ô uế vì tiếp xúc tử thi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N206)
+
+### N207 — Người [nazir](../glossary#nazirite) không làm mình ô uế vì người chết
 
 **English:** For a Nazarite not to become impure through contact with a dead body.
 
 **Hebrew (Maimonides):** שלא ייטמא הנזיר למת
 
-### N208 — [Nazirite](../glossary#nazirite) không vào dưới mái có tử thi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N207)
+
+### N208 — Người [nazir](../glossary#nazirite) không đi vào nơi có thi thể
 
 **English:** [For a Nazarite] not to enter below any roof beneath which a corpse is found.
 
 **Hebrew (Maimonides):** שלא ייכנס באוהל המת
 
-### N209 — [Nazirite](../glossary#nazirite) không cạo tóc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N208)
+
+### N209 — Người [nazir](../glossary#nazirite) không cạo tóc
 
 **English:** [For a Nazarite] not to shave.
 
 **Hebrew (Maimonides):** שלא יגלח הנזיר
 
-### N210 — Không gặt hết toàn bộ cánh đồng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N209)
+
+### N210 — Không gặt hết góc ruộng
 
 **English:** Not to harvest one's entire field.
 
 **Hebrew (Maimonides):** שלא לקצור כל השדה
 
-### N211 — Không nhặt những bông lúa riêng lẻ rơi khi gặt
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N210)
+
+### N211 — Không nhặt những bông lúa rơi khi gặt
 
 **English:** Not to gather the [individual] stalks that fall in the harvest.
 
 **Hebrew (Maimonides):** שלא ללקוט השיבולים הנופלות בשעת קצירה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N211)
 
 ### N212 — Không hái các chùm nho chưa phát triển đầy đủ
 
@@ -3372,101 +3754,135 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לבצור עוללות הכרם
 
-### N213 — Không nhặt từng quả nho rơi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N212)
+
+### N213 — Không nhặt những quả nho rơi riêng lẻ
 
 **English:** Not to gather individual [fallen grapes].
 
 **Hebrew (Maimonides):** שלא ללקוט פרט הכרם
 
-### N214 — Không lấy bó lúa bị bỏ quên
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N213)
+
+### N214 — Không quay lại lấy bó lúa đã bỏ quên
 
 **English:** Not to take a sheaf which has been forgotten.
 
 **Hebrew (Maimonides):** שלא ליקח עומר השכחה
 
-### N215 — Không gieo lẫn các giống hạt
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N214)
+
+### N215 — Không gieo lẫn hai loại hạt giống
 
 **English:** Not to sow mixed species of seeds together.
 
 **Hebrew (Maimonides):** שלא לזרוע כלאי זרעים
 
-### N216 — Không gieo ngũ cốc hoặc rau trong vườn nho
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N215)
+
+### N216 — Không gieo ngũ cốc hay rau trong vườn nho
 
 **English:** Not to sow grain or vegetables in a vineyard.
 
 **Hebrew (Maimonides):** שלא לזרוע תבואה או ירק בכרם
 
-### N217 — Không lai giống các loài động vật khác nhau
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N216)
+
+### N217 — Không cho súc vật giao phối khác loài
 
 **English:** Not to crossbreed different species of animals.
 
 **Hebrew (Maimonides):** שלא להרביע בהמה מין בשאינו מינו
 
-### N218 — Không bắt hai loài động vật khác nhau cùng làm việc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N217)
+
+### N218 — Không bắt hai loài súc vật khác nhau cùng làm việc
 
 **English:** Not to work with two different species of animals together.
 
 **Hebrew (Maimonides):** שלא יעשה מלאכה בשני מיני בהמה כאחד
 
-### N219 — Không bịt mõm bò khi nó làm việc với sản vật có thể ăn
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N218)
+
+### N219 — Không bịt mõm súc vật khi nó làm việc với nông sản
 
 **English:** Not to muzzle an ox while it is working with produce from which it would eat and derive benefit.
 
 **Hebrew (Maimonides):** שלא לחסום בהמה בשעת מלאכה בדבר שאוכלת ממנו ונהנית
 
-### N220 — Không canh tác đất trong năm thứ bảy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N219)
+
+### N220 — Không canh tác đất trong năm Sabát
 
 **English:** Not to cultivate the land in the seventh year.
 
 **Hebrew (Maimonides):** שלא לעבוד אדמה בשביעית
 
-### N221 — Không chăm tác cây trong năm thứ bảy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N220)
+
+### N221 — Không chăm sóc cây trong năm Sabát
 
 **English:** Not to cultivate trees in the seventh year.
 
 **Hebrew (Maimonides):** שלא לעבוד אילן בשביעית
 
-### N222 — Không gặt cây tự mọc trong năm thứ bảy như năm thường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N221)
+
+### N222 — Không gặt sản vật tự mọc trong năm Sabát như năm thường
 
 **English:** Not to reap crops that grow on their own in the seventh year in the same manner as in an ordinary year.
 
 **Hebrew (Maimonides):** שלא לקצור ספיחי שביעית כדרך שקוצרין בשאר השנים
 
-### N223 — Không hái quả tự mọc trong năm thứ bảy như năm thường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N222)
+
+### N223 — Không hái quả cây trong năm Sabát như năm thường
 
 **English:** Not to reap fruit that grows on trees in the seventh year in the same manner as in an ordinary year.
 
 **Hebrew (Maimonides):** שלא לאסוף פירות האילן בשביעית כדרך שאוספין בכל שנה ושנה
 
-### N224 — Không làm nông trên đất hoặc cây trong năm [Jubilee](../glossary#jubilee)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N223)
+
+### N224 — Không canh tác đất hay cây trong [Năm Toàn Xá](../glossary#jubilee)
 
 **English:** Not to do [agricultural] work - whether with land or trees - in the Jubilee year.
 
 **Hebrew (Maimonides):** שלא לעבוד בשנת יובל בין אדמה בין אילן
 
-### N225 — Không gặt cây tự mọc trong năm [Jubilee](../glossary#jubilee) như năm thường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N224)
+
+### N225 — Không gặt sản vật tự mọc trong [Năm Toàn Xá](../glossary#jubilee) như năm thường
 
 **English:** Not to reap crops that grow on their own in the Jubilee year in the same manner as in an ordinary year.
 
 **Hebrew (Maimonides):** שלא לקצור ספיחי יובל כשאר השנים
 
-### N226 — Không hái quả trong năm [Jubilee](../glossary#jubilee) như năm thường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N225)
+
+### N226 — Không hái quả trong [Năm Toàn Xá](../glossary#jubilee) như năm thường
 
 **English:** Not to reap the fruit of the Jubilee year in the same manner as in an ordinary year.
 
 **Hebrew (Maimonides):** שלא לאסוף פירות יובל כאסיפת שאר השנים
 
-### N227 — Không bán vĩnh viễn ruộng tại [Eretz Yisrael](../glossary#eretz-yisrael-diaspora)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N226)
+
+### N227 — Không bán vĩnh viễn ruộng đất ở [Đất Israel](../glossary#eretz-yisrael-diaspora)
 
 **English:** Not to sell a field in Eretz Yisrael in perpetuity.
 
 **Hebrew (Maimonides):** שלא למכור שדה בארץ ישראל לצמיתות
 
-### N228 — Không đổi công dụng đất trống và ruộng cấp cho người Lêvi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N227)
+
+### N228 — Không thay đổi công dụng đất quanh thành và ruộng của người Lêvi
 
 **English:** Not to change [the purpose of] the open areas and fields [granted to] the Levites.
 
 **Hebrew (Maimonides):** שלא לשנות מגרשי הלויים ושדותיהם
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N228)
 
 ### N229 — Không bỏ mặc người Lêvi
 
@@ -3474,35 +3890,47 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעזוב הלויים
 
-### N230 — Không đòi khoản vay sau khi năm thứ bảy đã qua
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N229)
+
+### N230 — Không đòi khoản nợ đã được xóa bởi năm Sabát
 
 **English:** Not to demand the repayment of a loan after the seventh year has passed.
 
 **Hebrew (Maimonides):** שלא יתבע הלוואה שעברה עליה שביעית
 
-### N231 — Không từ chối cho người nghèo vay vì năm [shemitah](../glossary#shemittah) sắp đến
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N230)
+
+### N231 — Không từ chối cho người nghèo vay vì năm Sabát sắp đến
 
 **English:** Not to withhold lending money to a poor person because of the advent of the shemitah year.
 
 **Hebrew (Maimonides):** שלא יימנע מלהלוות לעני מפני השמיטה
 
-### N232 — Không từ chối cho người nghèo vay hoặc cung cấp nhu cầu của họ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N231)
+
+### N232 — Không làm ngơ trước người nghèo, không từ chối giúp đỡ họ
 
 **English:** Not to withhold lending money to a poor person or providing him with his needs.
 
 **Hebrew (Maimonides):** שלא יימנע מלהחיות לעני ומליתן לו מה שהוא צריך
 
-### N233 — Không cho tôi tớ Hebrew ra đi tay trắng khi được tự do
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N232)
+
+### N233 — Không cho người phục vụ Hebrew ra đi tay trắng khi được tự do
 
 **English:** Not to send away a Hebrew servant empty-handed when he goes free.
 
 **Hebrew (Maimonides):** שלא לשלח עבד עברי ריקם כשייצא חופשי
 
-### N234 — Không đòi nợ người nghèo khi biết họ không có khả năng trả
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N233)
+
+### N234 — Không thúc ép con nợ nghèo khi biết họ không có khả năng trả
 
 **English:** Not to demand payment of a debt from a poor person when one knows that he is impoverished, nor to cause him grief.
 
 **Hebrew (Maimonides):** שלא יתבע העני בחובו כשיידע שהוא עני, ולא יצר לו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N234)
 
 ### N235 — Không cho người Do Thái vay lấy lãi
 
@@ -3510,35 +3938,47 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להלוות בריבית לישראל
 
-### N236 — Không vay có lãi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N235)
+
+### N236 — Không vay tiền với lãi
 
 **English:** Not to borrow with interest.
 
 **Hebrew (Maimonides):** שלא ללוות בריבית
 
-### N237 — Không môi giới, bảo lãnh, làm chứng hoặc lập khế ước cho khoản vay lấy lãi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N236)
+
+### N237 — Không làm trung gian, bảo lãnh, nhân chứng hay lập khế ước cho khoản vay có lãi
 
 **English:** Not to intermediate between the borrower and lender when interest is involved, not to act as a guarantor or a witness [to such a loan], nor to draw up a contract for it.
 
 **Hebrew (Maimonides):** שלא להשית יד בין לווה ומלווה בריבית, ולא להיות ערב, ולא עד, ולא לכתוב שטר ביניהם
 
-### N238 — Không chậm trả lương
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N237)
+
+### N238 — Không chậm trả tiền công
 
 **English:** Not to delay payment of a worker.
 
 **Hebrew (Maimonides):** שלא לאחר פעולת שכיר
 
-### N239 — Không cưỡng lấy vật cầm cố của con nợ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N238)
+
+### N239 — Không xông vào nhà con nợ để cưỡng lấy vật cầm cố
 
 **English:** Not to take security from a debtor by force.
 
 **Hebrew (Maimonides):** שלא ימשכן בעל חוב בזרוע
 
-### N240 — Không giữ vật cầm cố khi chủ cần dùng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N239)
+
+### N240 — Không giữ vật cầm cố của người nghèo khi họ cần dùng
 
 **English:** Not to withhold the return of security to its owner when he needs it.
 
 **Hebrew (Maimonides):** שלא למנוע העבוט מבעליו העני בעת שהוא צריך לו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N240)
 
 ### N241 — Không lấy vật cầm cố của góa phụ
 
@@ -3546,23 +3986,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא למשכן האלמנה
 
-### N242 — Không lấy dụng cụ dùng để chuẩn bị thức ăn làm vật cầm cố
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N241)
+
+### N242 — Không lấy dụng cụ dùng để làm ra thức ăn làm vật cầm cố
 
 **English:** Not to take utensils used in the preparation of food.
 
 **Hebrew (Maimonides):** שלא לחבול כלים שעושין בהם אוכל נפש
 
-### N243 — Không bắt cóc người Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N242)
+
+### N243 — Không bắt cóc người Israel
 
 **English:** Not to kidnap a Jewish person.
 
 **Hebrew (Maimonides):** שלא לגנוב נפש מישראל
 
-### N244 — Không trộm cắp
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N243)
+
+### N244 — Không trộm tài sản
 
 **English:** Not to steal.
 
 **Hebrew (Maimonides):** שלא לגנוב ממון
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N244)
 
 ### N245 — Không cướp đoạt
 
@@ -3570,35 +4018,47 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגזול
 
-### N246 — Không dời mốc ranh đất
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N245)
+
+### N246 — Không dời mốc ranh giới đất của người khác
 
 **English:** Not to alter land boundaries.
 
 **Hebrew (Maimonides):** שלא להסיג גבול
 
-### N247 — Không chiếm giữ phần phải trả cho người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N246)
+
+### N247 — Không cậy thế giữ lại tiền của người khác
 
 **English:** Not to wrong [a colleague by withholding his due].
 
 **Hebrew (Maimonides):** שלא לעשוק
 
-### N248 — Không phủ nhận một yêu cầu chính đáng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N247)
+
+### N248 — Không chối tài sản của người khác đang ở trong tay mình
 
 **English:** Not to deny [a just claim].
 
 **Hebrew (Maimonides):** שלא לכחש בממון חברו
 
-### N249 — Không thề gian để chối nghĩa vụ tiền bạc với người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N248)
+
+### N249 — Không thề dối để chối nghĩa vụ tiền bạc với người khác
 
 **English:** Not to swear falsely in denying a monetary [obligation to] a colleague.
 
 **Hebrew (Maimonides):** שלא לישבע על כפירת ממון חברו
 
-### N250 — Không gian lận trong kinh doanh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N249)
+
+### N250 — Không gian lận giá cả trong mua bán
 
 **English:** Not to cheat in business.
 
 **Hebrew (Maimonides):** שלא יונה במקח וממכר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N250)
 
 ### N251 — Không làm tổn thương người khác bằng lời nói
 
@@ -3606,17 +4066,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא יונה בדברים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N251)
+
 ### N252 — Không làm tổn thương người cải đạo bằng lời nói
 
 **English:** Not to hurt a convert with words.
 
 **Hebrew (Maimonides):** שלא להונות את הגר בדברים
 
-### N253 — Không gian lận với người cải đạo trong kinh doanh
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N252)
+
+### N253 — Không gian lận với người cải đạo trong tiền bạc
 
 **English:** Not to cheat a convert in business.
 
 **Hebrew (Maimonides):** שלא להונות את הגר במקח וממכר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N253)
 
 ### N254 — Không trả nô lệ trốn đến [Eretz Yisrael](../glossary#eretz-yisrael-diaspora) về cho chủ ở hải ngoại
 
@@ -3624,23 +4090,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להחזיר עבד שברח לארץ ישראל לאדוניו שבחוצה לארץ
 
-### N255 — Không ngược đãi người nô lệ ấy
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N254)
+
+### N255 — Không làm tổn thương người nô lệ đã trốn đến [Eretz Yisrael](../glossary#eretz-yisrael-diaspora)
 
 **English:** Not to wrong such a servant.
 
 **Hebrew (Maimonides):** שלא להונות עבד זה
 
-### N256 — Không áp bức góa phụ hoặc trẻ mồ côi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N255)
+
+### N256 — Không làm khổ góa phụ hay trẻ mồ côi
 
 **English:** Not to oppress any widow or orphan.
 
 **Hebrew (Maimonides):** שלא לענות יתום ואלמנה
 
-### N257 — Không bắt tôi tớ Hebrew làm việc hèn hạ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N256)
+
+### N257 — Không bắt tôi tớ Hebrew làm những việc hạ nhục dành cho nô lệ
 
 **English:** Not to have a Hebrew servant perform servile tasks.
 
 **Hebrew (Maimonides):** שלא לעבוד בעבד עברי כעבודת עבד
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N257)
 
 ### N258 — Không bán tôi tớ Hebrew theo cách bán nô lệ
 
@@ -3648,17 +4122,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא למכור אותו ממכרת עבד
 
-### N259 — Không bắt tôi tớ Hebrew lao dịch khắc nghiệt
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N258)
+
+### N259 — Không bắt tôi tớ Hebrew làm việc khắc nghiệt
 
 **English:** Not to make a Hebrew servant perform rigorous work.
 
 **Hebrew (Maimonides):** שלא לעבוד בעבד עברי בפרך
 
-### N260 — Không để người ngoại bang bắt tôi tớ Hebrew lao dịch khắc nghiệt
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N259)
+
+### N260 — Không để người ngoại bang bắt tôi tớ Hebrew đã bán cho mình làm việc khắc nghiệt
 
 **English:** Not to allow a gentile [who purchased a Hebrew servant] to make him work rigorously.
 
 **Hebrew (Maimonides):** שלא להניח הגוי לעבד בעבד עברי הנמכר לו בפרך
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N260)
 
 ### N261 — Không bán nữ tỳ Hebrew cho người khác
 

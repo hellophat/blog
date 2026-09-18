@@ -16,12 +16,8 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Playing the Ga
 Ba trụ cột chính của lối chơi D&D là **tương tác xã hội**, **khám phá** và **chiến đấu**. Dù đang ở trụ cột nào, trò chơi cũng diễn ra theo một khuôn mẫu cơ bản:
 
 1. **Quản trò mô tả cảnh.** Quản trò (Game Master, GM) cho người chơi biết các nhà phiêu lưu của họ đang ở đâu và xung quanh có gì (bao nhiêu cánh cửa dẫn ra khỏi phòng, trên bàn có gì, v.v.).
-2. **Người chơi mô tả điều họ muốn làm.** Đôi khi điều này nghĩa là mô tả chính xác nhân vật của một người chơi làm gì — ví dụ, một nhà phiêu lưu có thể băng qua phòng để mở một cánh cửa. Một người chơi khác có thể muốn nói gì đó với một nhân vật khác trong phòng. Đôi khi nhiều người chơi cùng bàn bạc, đưa ra ý kiến hoặc đề xuất cho GM về việc nhóm sẽ làm gì. GM lắng nghe và quyết định cách phân xử hành động của họ.
-3. **GM thuật lại kết quả hành động của các nhà phiêu lưu.** Đôi khi việc phân xử một hành động rất đơn giản.
-
-Thông thường, các nhân vật đi cùng nhau khi di chuyển qua một hầm ngục hoặc môi trường khác. Đôi khi các nhà phiêu lưu làm những việc khác nhau: một người lục soát rương báu, người thứ hai xem xét một ký hiệu bí ẩn khắc trên tường, còn người thứ ba canh chừng quái vật. Ngoài chiến đấu, GM bảo đảm mỗi nhân vật đều có cơ hội hành động và quyết định kết quả của hoạt động đó. Trong chiến đấu, các nhân vật hành động theo lượt.
-
-Nếu một nhà phiêu lưu băng qua phòng và cố mở một cánh cửa, GM có thể nói cánh cửa mở ra và mô tả những gì phía sau. Nhưng cánh cửa có thể bị khóa, sàn nhà có thể giấu một cái bẫy, hoặc một hoàn cảnh nào đó có thể khiến nhiệm vụ trở nên khó khăn. Trong những trường hợp đó, GM có thể yêu cầu người chơi tung xúc xắc để giúp xác định điều gì xảy ra. Việc mô tả kết quả thường dẫn đến một điểm quyết định khác, đưa trò chơi quay lại bước 1.
+2. **Người chơi mô tả việc nhân vật của họ làm.** Thông thường, các nhân vật đi cùng nhau khi di chuyển qua một hầm ngục hoặc môi trường khác. Đôi khi các nhà phiêu lưu làm những việc khác nhau: một người lục soát rương báu, người thứ hai xem xét một ký hiệu bí ẩn khắc trên tường, còn người thứ ba canh chừng quái vật. Ngoài chiến đấu, GM bảo đảm mỗi nhân vật đều có cơ hội hành động và quyết định cách phân xử hoạt động của họ. Trong chiến đấu, các nhân vật hành động theo lượt.
+3. **GM thuật lại kết quả hành động của các nhà phiêu lưu.** Đôi khi việc phân xử một nhiệm vụ rất đơn giản. Nếu một nhà phiêu lưu băng qua phòng và cố mở một cánh cửa, GM có thể nói cánh cửa mở ra và mô tả những gì phía sau. Nhưng cánh cửa có thể bị khóa, sàn nhà có thể giấu một cái bẫy, hoặc một hoàn cảnh nào đó có thể khiến nhiệm vụ trở nên khó khăn. Trong những trường hợp đó, GM có thể yêu cầu người chơi tung xúc xắc để giúp xác định điều gì xảy ra. Việc mô tả kết quả thường dẫn đến một điểm quyết định khác, đưa trò chơi quay lại bước 1.
 
 Khuôn mẫu này lặp lại trong suốt mỗi buổi chơi (mỗi lần bạn ngồi xuống chơi D&D), dù các nhà phiêu lưu đang trò chuyện với một quý tộc, khám phá một phế tích hay chiến đấu với một con rồng. Trong một số tình huống — đặc biệt là chiến đấu — hành động được tổ chức chặt chẽ hơn và mọi người hành động theo lượt.
 
@@ -155,7 +151,7 @@ Bảng **Thuộc tính dùng khi tung tấn công** cho biết hệ số thuộc
 
 | Thuộc tính | Loại tấn công |
 |---|---|
-| Sức mạnh | Tấn công cận chiến bằng vũ khí hoặc đòn tay không (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) |
+| Sức mạnh | Tấn công cận chiến bằng vũ khí hoặc đòn đánh không vũ khí (xem [Bảng thuật ngữ luật](08-Rules-Glossary.md)) |
 | Khéo léo | Tấn công tầm xa bằng vũ khí |
 | Tùy trường hợp | Tấn công bằng phép (thuộc tính sử dụng do đặc tính thi triển phép của người thi triển quyết định, như giải thích trong [Phép thuật](07-Spells.md)) |
 
@@ -165,7 +161,9 @@ Một số đặc tính cho phép bạn dùng hệ số thuộc tính khác vớ
 
 **Chỉ số giáp (Armor Class).** Chỉ số giáp của một sinh vật thể hiện sinh vật đó tránh bị thương trong chiến đấu tốt đến đâu. AC của nhân vật được xác định khi tạo nhân vật (xem [Tạo nhân vật](02-Character-Creation.md)), còn AC của quái vật được ghi trong khối thông số.
 
-Mọi sinh vật đều bắt đầu với cùng công thức tính AC cơ bản: **10 + hệ số Khéo léo của sinh vật**. AC có thể được điều chỉnh thêm bởi giáp, vật phẩm ma thuật, phép và nhiều thứ khác. Một số phép và đặc tính lớp cho nhân vật một cách tính AC khác. Nhân vật có nhiều đặc tính cho các cách tính AC khác nhau phải chọn dùng một; tại một thời điểm, mỗi sinh vật chỉ có một cách tính AC cơ bản có hiệu lực.
+**Tính AC (Calculating AC).** Mọi sinh vật đều bắt đầu với cùng công thức tính AC cơ bản: **10 + hệ số Khéo léo của sinh vật**. AC có thể được điều chỉnh thêm bởi giáp, vật phẩm ma thuật, phép và nhiều thứ khác.
+
+**Chỉ một AC cơ bản (Only One Base AC).** Một số phép và đặc tính lớp cho nhân vật một cách tính AC khác. Nhân vật có nhiều đặc tính cho các cách tính AC khác nhau phải chọn dùng một; tại một thời điểm, mỗi sinh vật chỉ có một cách tính AC cơ bản có hiệu lực.
 
 **Tung được 20 hoặc 1 (Rolling 20 or 1).** Nếu bạn tung được 20 trên d20 (gọi là "20 tự nhiên") khi tung tấn công, đòn tấn công trúng bất kể hệ số hay AC của mục tiêu. Đây gọi là **đòn chí mạng** (Critical Hit, xem [Chiến đấu](#chiến-đấu-combat)). Nếu bạn tung được 1 trên d20 ("1 tự nhiên") khi tung tấn công, đòn tấn công trượt bất kể hệ số hay AC của mục tiêu.
 
@@ -242,7 +240,7 @@ Nếu thành thạo một kỹ năng, sinh vật cộng thưởng thành thạo 
 | Tôn giáo (Religion) | Trí tuệ | Nhớ lại kiến thức về thần linh, nghi lễ tôn giáo và biểu tượng thiêng liêng |
 | Khéo tay (Sleight of Hand) | Khéo léo | Móc túi, giấu một vật nhỏ trong tay, hoặc làm ảo thuật tay |
 | Lén lút (Stealth) | Khéo léo | Tránh bị chú ý bằng cách di chuyển lặng lẽ và nấp sau vật cản |
-| Sinh tồn (Survival) | Minh triết | Lần theo dấu vết, tìm thức ăn, hoặc tránh hiểm họa tự nhiên |
+| Sinh tồn (Survival) | Minh triết | Lần theo dấu vết, tìm thức ăn, tìm đường mòn hoặc tránh hiểm họa tự nhiên |
 
 **Xác định kỹ năng (Determining Skills).** Các kỹ năng thành thạo ban đầu của nhân vật được xác định khi tạo nhân vật; kỹ năng thành thạo của quái vật được ghi trong khối thông số.
 
@@ -270,7 +268,7 @@ Khi làm điều gì đó ngoài di chuyển hoặc trò chuyện, bạn thườ
 
 | Hành động | Tóm tắt |
 |---|---|
-| Tấn công (Attack) | Tấn công bằng vũ khí hoặc đòn tay không. |
+| Tấn công (Attack) | Tấn công bằng vũ khí hoặc đòn đánh không vũ khí. |
 | Chạy nước rút (Dash) | Trong phần còn lại của lượt, nhận thêm lượng di chuyển bằng Tốc độ của bạn. |
 | Rút lui (Disengage) | Việc di chuyển của bạn không kích hoạt tấn công cơ hội trong phần còn lại của lượt. |
 | Né tránh (Dodge) | Cho đến đầu lượt kế tiếp của bạn, lần tung tấn công nhắm vào bạn chịu bất lợi và bạn có lợi thế khi cứu nguy Khéo léo. Bạn mất lợi ích này nếu rơi vào trạng thái Mất năng lực hành động hoặc Tốc độ của bạn bằng 0. |
@@ -344,7 +342,7 @@ Một số việc khi phiêu lưu — như phát hiện nguy hiểm, đánh trú
 **Ánh sáng (Light).** Sự hiện diện hay vắng mặt của ánh sáng quyết định mức chiếu sáng của một khu vực, như định nghĩa dưới đây.
 
 - *Ánh sáng rõ (Bright Light).* Ánh sáng rõ cho phép hầu hết sinh vật nhìn bình thường. Ngay cả ngày u ám cũng có ánh sáng rõ, cũng như đuốc, đèn lồng, lửa và các nguồn sáng khác trong một bán kính nhất định.
-- *Ánh sáng yếu (Dim Light).* Ánh sáng yếu, còn gọi là bóng râm, tạo ra khu vực che khuất nhẹ. Vùng ánh sáng yếu thường là ranh giới giữa vùng ánh sáng rõ và bóng tối xung quanh. Ánh sáng dịu lúc chạng vạng và rạng đông cũng là ánh sáng yếu. Một đêm trăng tròn đặc biệt sáng có thể phủ lên mặt đất một lớp ánh sáng yếu.
+- *Ánh sáng yếu (Dim Light).* Ánh sáng yếu, còn gọi là bóng râm, tạo ra khu vực che khuất nhẹ. Vùng ánh sáng yếu thường là ranh giới giữa vùng ánh sáng rõ và bóng tối xung quanh. Ánh sáng dịu lúc chạng vạng và rạng đông cũng là ánh sáng yếu. Trăng tròn có thể phủ lên mặt đất một lớp ánh sáng yếu.
 - *Bóng tối (Darkness).* Bóng tối tạo ra khu vực che khuất nặng. Nhân vật gặp bóng tối khi ở ngoài trời ban đêm (kể cả phần lớn những đêm có trăng), trong hầm ngục không có đèn, hoặc trong vùng bóng tối ma thuật.
 
 **Giác quan đặc biệt (Special Senses).** Một số sinh vật có giác quan đặc biệt giúp nhận biết mọi thứ trong những tình huống nhất định. [Bảng thuật ngữ luật](08-Rules-Glossary.md) định nghĩa các giác quan đặc biệt sau: **cảm nhận mù** (Blindsight), **thị giác bóng tối** (Darkvision), **cảm nhận chấn động** (Tremorsense) và **chân thị** (Truesight).
@@ -386,9 +384,9 @@ Trong một cuộc phiêu lưu, nhân vật có thể đi những quãng đườ
 
 | Nhịp độ | Quãng đường mỗi phút | Mỗi giờ | Mỗi ngày |
 |---|---|---|---|
-| Nhanh | 120 m (400 feet) | 6,4 km (4 mile) | 48 km (30 mile) |
-| Bình thường | 90 m (300 feet) | 4,8 km (3 mile) | 38,4 km (24 mile) |
-| Chậm | 60 m (200 feet) | 3,2 km (2 mile) | 28,8 km (18 mile) |
+| Nhanh | 120 m (400 feet) | 6,4 km (4 miles) | 48 km (30 miles) |
+| Bình thường | 90 m (300 feet) | 4,8 km (3 miles) | 38,4 km (24 miles) |
+| Chậm | 60 m (200 feet) | 3,2 km (2 miles) | 28,8 km (18 miles) |
 
 Mỗi nhịp độ có một hiệu ứng trong trò chơi:
 
@@ -403,6 +401,8 @@ Mỗi nhịp độ có một hiệu ứng trong trò chơi:
 ![Minh hoạ kỹ thuật huyền thuật cho chiến đấu: bản đồ chiến thuật, di chuyển, tầm đánh và che chắn.](assets/chapter-01-combat.png)
 
 Nhà phiêu lưu gặp nhiều quái vật nguy hiểm và kẻ ác độc. Trong những khoảnh khắc đó, chiến đấu thường nổ ra.
+
+### Thứ tự chiến đấu (The Order of Combat)
 
 Một trận chiến điển hình là cuộc đụng độ giữa hai phe: những nhát vũ khí, đòn nhử, đỡ gạt, bước chân và phép thuật. Trò chơi tổ chức chiến đấu thành chu kỳ **vòng** (round) và **lượt** (turn). Một vòng tương ứng khoảng 6 giây trong thế giới trò chơi. Trong một vòng, mỗi người tham chiến có một lượt. Thứ tự lượt được xác định khi bắt đầu chiến đấu, lúc mọi người tung Sáng kiến. Khi mọi người đã đi hết lượt, trận chiến sang vòng kế tiếp nếu chưa bên nào bị đánh bại.
 
@@ -524,7 +524,7 @@ Khi thực hiện đòn tấn công tầm xa, bạn bắn cung, ném rìu hoặc
 
 ### Tấn công cận chiến (Melee Attacks)
 
-Đòn tấn công cận chiến cho phép bạn đánh một mục tiêu trong tầm với của mình. Đòn cận chiến thường dùng vũ khí cầm tay hoặc đòn tay không. Nhiều quái vật tấn công cận chiến bằng vuốt, răng hoặc bộ phận cơ thể khác. Một số phép cũng dùng đòn tấn công cận chiến.
+Đòn tấn công cận chiến cho phép bạn đánh một mục tiêu trong tầm với của mình. Đòn cận chiến thường dùng vũ khí cầm tay hoặc đòn đánh không vũ khí. Nhiều quái vật tấn công cận chiến bằng vuốt, răng hoặc bộ phận cơ thể khác. Một số phép cũng dùng đòn tấn công cận chiến.
 
 **Tầm với (Reach).** Sinh vật có tầm với 1,5 m (5 feet), nên có thể tấn công cận chiến các mục tiêu trong phạm vi 1,5 m (5 feet). Một số sinh vật có đòn cận chiến với tầm với lớn hơn, như ghi trong mô tả của chúng.
 
@@ -532,7 +532,7 @@ Khi thực hiện đòn tấn công tầm xa, bạn bắn cung, ném rìu hoặc
 
 *Tránh tấn công cơ hội (Avoiding an Opportunity Attack).* Bạn có thể tránh kích hoạt tấn công cơ hội bằng hành động Rút lui. Bạn cũng không kích hoạt tấn công cơ hội khi dịch chuyển tức thời (Teleport) hoặc khi bị di chuyển mà không dùng lượng di chuyển, hành động, hành động phụ hay phản ứng của mình. Ví dụ, bạn không kích hoạt tấn công cơ hội nếu một vụ nổ hất bạn ra khỏi tầm với của kẻ thù hoặc nếu bạn rơi ngang qua kẻ thù.
 
-*Thực hiện tấn công cơ hội (Making an Opportunity Attack).* Bạn có thể tấn công cơ hội khi một sinh vật mà bạn nhìn thấy rời khỏi tầm với của bạn. Để làm vậy, dùng phản ứng để tấn công cận chiến sinh vật đó bằng vũ khí hoặc đòn tay không. Đòn tấn công xảy ra ngay trước khi sinh vật rời khỏi tầm với của bạn.
+*Thực hiện tấn công cơ hội (Making an Opportunity Attack).* Bạn có thể tấn công cơ hội khi một sinh vật mà bạn nhìn thấy rời khỏi tầm với của bạn. Để làm vậy, dùng phản ứng để tấn công cận chiến sinh vật đó bằng vũ khí hoặc đòn đánh không vũ khí. Đòn tấn công xảy ra ngay trước khi sinh vật rời khỏi tầm với của bạn.
 
 ### Chiến đấu trên thú cưỡi (Mounted Combat)
 
@@ -562,7 +562,7 @@ Trận chiến dưới nước dùng các quy tắc sau.
 
 Thương tích và cái chết là mối đe dọa thường trực, như trình bày trong các quy tắc sau.
 
-**Nghỉ ngơi (Resting).** Nhà phiêu lưu không thể phiêu lưu suốt ngày đêm; họ cần nghỉ ngơi. Mọi sinh vật đều có thể nghỉ ngắn 1 giờ trong ngày và nghỉ dài 8 giờ để kết thúc một ngày. Hồi điểm sinh lực là một trong những lợi ích chính của nghỉ ngơi. [Bảng thuật ngữ luật](08-Rules-Glossary.md) trình bày luật nghỉ ngắn và nghỉ dài.
+**Nghỉ ngơi (Resting).** Nhà phiêu lưu không thể phiêu lưu suốt ngày đêm; họ cần nghỉ ngơi. Mọi sinh vật đều có thể thực hiện những lần Nghỉ ngắn kéo dài 1 giờ trong ngày và một lần Nghỉ dài 8 giờ để kết thúc ngày đó. Hồi điểm sinh lực là một trong những lợi ích chính của nghỉ ngơi. [Bảng thuật ngữ luật](08-Rules-Glossary.md) trình bày luật Nghỉ ngắn và Nghỉ dài.
 
 ### Điểm sinh lực (Hit Points)
 
@@ -633,13 +633,13 @@ Khi HP của một sinh vật giảm về 0, nó hoặc chết ngay hoặc bất
 
 **Cứu nguy tử vong (Death Saving Throws).** Mỗi khi bắt đầu lượt với 0 HP, bạn phải thực hiện một lần cứu nguy tử vong để xác định mình tiến gần cái chết hơn hay bám trụ được với sự sống. Khác các lần cứu nguy khác, lần này không gắn với điểm thuộc tính nào. Bạn phó mặc cho số phận.
 
-**Tung 1d20 (Roll 1d20).** Nếu kết quả từ 10 trở lên, bạn thành công; ngược lại, bạn thất bại. Một lần thành công hay thất bại tự nó không có hiệu ứng. Ở lần thành công thứ ba, bạn trở nên **Ổn định** (Stable, xem "Ổn định nhân vật" bên dưới). Ở lần thất bại thứ ba, bạn chết.
+**Ba lần thành công/thất bại (Three Successes/Failures).** Tung 1d20. Nếu kết quả từ 10 trở lên, bạn thành công; ngược lại, bạn thất bại. Một lần thành công hay thất bại tự nó không có hiệu ứng. Ở lần thành công thứ ba, bạn trở nên **Ổn định** (Stable, xem "Ổn định nhân vật" bên dưới). Ở lần thất bại thứ ba, bạn chết.
 
 Các lần thành công và thất bại không cần liên tiếp; hãy đếm cả hai cho đến khi một loại đạt ba lần. Cả hai bộ đếm trở về 0 khi bạn hồi bất kỳ HP nào hoặc trở nên Ổn định.
 
 **Tung được 1 hoặc 20 (Rolling a 1 or 20).** Khi tung được 1 trên d20 cho cứu nguy tử vong lúc 0 HP, bạn chịu hai lần thất bại. Nếu tung được 20, bạn hồi 1 HP.
 
-Nếu bạn chịu bất kỳ sát thương nào khi đang có 0 HP, bạn chịu một lần thất bại cứu nguy tử vong. Nếu sát thương đến từ đòn chí mạng, bạn chịu hai lần thất bại. Nếu sát thương bằng hoặc vượt điểm sinh lực tối đa của bạn, bạn chết.
+**Sát thương khi có 0 điểm sinh lực (Damage at 0 Hit Points).** Nếu bạn chịu bất kỳ sát thương nào khi đang có 0 HP, bạn chịu một lần thất bại cứu nguy tử vong. Nếu sát thương đến từ đòn chí mạng, bạn chịu hai lần thất bại. Nếu sát thương bằng hoặc vượt điểm sinh lực tối đa của bạn, bạn chết.
 
 **Ổn định nhân vật (Stabilizing a Character).** Bạn có thể dùng hành động Trợ giúp để cố ổn định một sinh vật có 0 HP, đòi hỏi thành công một phép kiểm tra Minh triết (Y học) DC 10.
 

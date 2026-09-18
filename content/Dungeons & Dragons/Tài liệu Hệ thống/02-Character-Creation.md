@@ -40,7 +40,7 @@ Chọn một lớp nhân vật và ghi lên phiếu. Bảng **Tổng quan lớp 
 | Giáo sĩ (Cleric) | Thần linh | Minh triết | Trung bình |
 | Druid | Thiên nhiên | Minh triết | Cao |
 | Chiến binh (Fighter) | Vũ khí | Sức mạnh hoặc Khéo léo | Thấp |
-| Võ tăng (Monk) | Võ tay không | Khéo léo và Minh triết | Cao |
+| Võ tăng (Monk) | Chiến đấu không vũ khí | Khéo léo và Minh triết | Cao |
 | Thánh kỵ sĩ (Paladin) | Bảo vệ | Sức mạnh và Sức hút | Trung bình |
 | Kiểm lâm (Ranger) | Sinh tồn | Khéo léo và Minh triết | Trung bình |
 | Đạo tặc (Rogue) | Lén lút | Khéo léo | Thấp |
@@ -254,9 +254,9 @@ Phiếu nhân vật có chỗ ghi HP hiện tại khi bạn chịu sát thương
 
   **Điểm cộng tấn công bằng phép = hệ số thuộc tính thi triển phép + thưởng thành thạo**
 
-  Hệ số thuộc tính thi triển phép của một phép được xác định bởi danh sách phép, đặc tính lớp hoặc kỳ tài đã cho bạn khả năng thi triển phép đó.
+  Hệ số thuộc tính thi triển phép của một phép được xác định bởi đặc tính đã cho bạn khả năng thi triển phép đó.
 
-  Nếu lớp nhân vật cho bạn đặc tính Thi triển phép (Spellcasting) hoặc Ma thuật khế ước (Pact Magic), bảng đặc tính lớp cho biết số ô phép, số phép sơ cấp bạn biết và số phép bạn có thể chuẩn bị. Hãy chọn phép sơ cấp và các phép chuẩn bị, rồi ghi chúng — cùng số ô phép — lên phiếu.
+  **Ô phép, phép sơ cấp và phép đã chuẩn bị (Spell Slots, Cantrips, and Prepared Spells).** Nếu lớp nhân vật cho bạn đặc tính Thi triển phép (Spellcasting) hoặc Ma thuật khế ước (Pact Magic), bảng đặc tính lớp cho biết số ô phép, số phép sơ cấp bạn biết và số phép bạn có thể chuẩn bị. Hãy chọn phép sơ cấp và các phép chuẩn bị, rồi ghi chúng — cùng số ô phép — lên phiếu.
 
 ## Lên cấp (Level Advancement)
 
@@ -327,18 +327,18 @@ Mỗi cấp mới mang đến những năng lực giúp nhân vật đối phó 
 
 GM có thể cho các nhân vật trong nhóm bắt đầu ở cấp cao hơn 1. Nên bắt đầu ở cấp 3 nếu nhóm gồm những người chơi D&D dày dạn kinh nghiệm.
 
-Tạo nhân vật cấp cao dùng các bước tạo nhân vật trong chương này cùng luật lên cấp trong phần [Lên cấp](#lên-cấp-level-advancement). Bạn bắt đầu với lượng XP tối thiểu cần cho cấp khởi đầu. Ví dụ, nếu GM cho bạn bắt đầu ở cấp 10, bạn có 64.000 XP.
+**Tạo nhân vật (Creating Your Character).** Tạo nhân vật cấp cao dùng các bước tạo nhân vật trong chương này cùng luật lên cấp trong phần [Lên cấp](#lên-cấp-level-advancement). Bạn bắt đầu với lượng XP tối thiểu cần cho cấp khởi đầu. Ví dụ, nếu GM cho bạn bắt đầu ở cấp 10, bạn có 64.000 XP.
 
 **Trang bị khởi đầu (Starting Equipment).** GM quyết định nhân vật có được nhiều hơn trang bị tiêu chuẩn của nhân vật cấp 1 hay không, thậm chí có thể có một hoặc nhiều vật phẩm ma thuật. Bảng **Trang bị khởi đầu ở cấp cao hơn** là hướng dẫn cho GM.
 
 **Trang bị khởi đầu ở cấp cao hơn (Starting Equipment at Higher Levels)**
 
-| Cấp khởi đầu | Trang bị và tiền |
-|---|---|
-| 2–4 | Trang bị khởi đầu thông thường |
-| 5–10 | 500 gp cộng 1d10 × 25 gp cộng trang bị khởi đầu thông thường (vật phẩm ma thuật: 1 Thông thường) |
-| 11–16 | 5.000 gp cộng 1d10 × 250 gp cộng trang bị khởi đầu thông thường (vật phẩm ma thuật: 1 Thông thường, 1 Ít gặp) |
-| 17–20 | 20.000 gp cộng 1d10 × 250 gp cộng trang bị khởi đầu thông thường (vật phẩm ma thuật: 2 Thông thường, 3 Ít gặp, 1 Hiếm) |
+| Cấp khởi đầu | Trang bị và tiền | Vật phẩm ma thuật |
+|---|---|---|
+| 2–4 | Trang bị khởi đầu thông thường | 1 Thông thường |
+| 5–10 | 500 gp cộng 1d10 × 25 gp cộng trang bị khởi đầu thông thường | 1 Thông thường, 1 Ít gặp |
+| 11–16 | 5.000 gp cộng 1d10 × 250 gp cộng trang bị khởi đầu thông thường | 2 Thông thường, 3 Ít gặp, 1 Hiếm |
+| 17–20 | 20.000 gp cộng 1d10 × 250 gp cộng trang bị khởi đầu thông thường | 2 Thông thường, 4 Ít gặp, 3 Hiếm, 1 Rất hiếm |
 
 Hãy bàn với GM về những trang bị có thể mua bằng số tiền khởi đầu. Ví dụ, súng được mô tả trong [Trang bị](06-Equipment.md) quá đắt với nhân vật cấp 1, nhưng có thể mua được nếu GM cho phép.
 
@@ -375,8 +375,8 @@ Tương tự, khẩn chú Lưỡi kiếm khát máu (Thirsting Blade) của Warl
 
 **Thi triển phép (Spellcasting).** Khả năng thi triển phép phụ thuộc một phần vào tổng cấp ở mọi lớp thi triển phép và một phần vào cấp riêng ở từng lớp. Khi có đặc tính Thi triển phép từ nhiều lớp, hãy dùng các quy tắc dưới đây. Nếu đa lớp nhưng chỉ một lớp có Thi triển phép, hãy theo luật của lớp đó.
 
-- **Phép đã chuẩn bị (Spells Prepared).** Bạn xác định phép có thể chuẩn bị cho từng lớp riêng, như thể bạn chỉ theo lớp đó. Ví dụ, nếu bạn là Kiểm lâm cấp 4 / Thuật sĩ cấp 3, bạn có thể chuẩn bị năm phép Kiểm lâm bậc 1 và sáu phép Thuật sĩ bậc 1 hoặc 2 (cùng bốn phép sơ cấp Thuật sĩ).
-- **Phép sơ cấp (Cantrips).** Mỗi phép bạn chuẩn bị gắn với một lớp, và bạn dùng thuộc tính thi triển phép của lớp đó khi thi triển. Nếu một phép sơ cấp mạnh lên ở cấp cao hơn, mức tăng dựa trên tổng cấp nhân vật, không phải cấp trong một lớp cụ thể, trừ khi phép nói khác.
+- **Phép đã chuẩn bị (Spells Prepared).** Bạn xác định phép có thể chuẩn bị cho từng lớp riêng, như thể bạn chỉ theo lớp đó. Ví dụ, nếu bạn là Kiểm lâm cấp 4 / Thuật sĩ cấp 3, bạn có thể chuẩn bị năm phép Kiểm lâm bậc 1 và sáu phép Thuật sĩ bậc 1 hoặc 2 (cùng bốn phép sơ cấp Thuật sĩ). Mỗi phép bạn chuẩn bị gắn với một lớp, và bạn dùng thuộc tính thi triển phép của lớp đó khi thi triển.
+- **Phép sơ cấp (Cantrips).** Nếu một phép sơ cấp mạnh lên ở cấp cao hơn, mức tăng dựa trên tổng cấp nhân vật, không phải cấp trong một lớp cụ thể, trừ khi phép nói khác.
 - **Ô phép (Spell Slots).** Xác định số ô phép bằng cách cộng:
   - Toàn bộ cấp của bạn ở các lớp Thi sĩ, Giáo sĩ, Druid, Thuật sĩ và Pháp sư
   - Một nửa cấp (làm tròn lên) ở các lớp Thánh kỵ sĩ và Kiểm lâm

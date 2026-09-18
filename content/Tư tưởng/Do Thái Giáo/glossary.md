@@ -979,6 +979,184 @@ Hai địa vị pháp lý trong luật Torah về việc lôi kéo người khá
 
 **Điểm cần tránh:** Đây là các phạm trù tố tụng của một hệ thống tòa án tôn giáo cổ đại, gắn với Sanhedrin và với Đất Israel thời Đền Thờ. Hệ thống ấy đã không vận hành từ gần hai nghìn năm; các nguồn rabbi cũng ghi lại xu hướng dựng hàng rào chứng cứ khiến án tử gần như không thể tuyên. Không được dùng các nhãn này cho người truyền đạo, người đổi tôn giáo hay người bất đồng tín ngưỡng trong bất kỳ cộng đồng nào ngày nay.
 
+<a id="yayin-nesekh"></a>
+### Yayin nesekh và takroves / rượu tế và lễ vật dâng thần khác — יֵין נֶסֶךְ / תִּקְרֹבֶת
+
+*Yayin nesekh* là rượu đã được rưới dâng cho một vật thờ; *takroves* là lễ vật đã dâng cho nó. Theo halakhah, cả hai, cùng vật thờ và các đồ phụ trợ, bị cấm không chỉ để ăn uống mà cả để hưởng lợi dưới mọi hình thức, như bán lại hay dùng làm hàng hóa. Truyền thống rabbi về sau còn đặt thêm những lệnh cấm mang tính rào chắn đối với rượu của người ngoài Do Thái nói chung; lớp quy định ấy thuộc luật rabbi và không đồng nhất với lệnh cấm của Torah.
+
+<a id="navi-sheker"></a>
+### Navi và navi sheker / ngôn sứ và ngôn sứ giả — נָבִיא / נְבִיא שֶׁקֶר
+
+*Navi* là người được xem là truyền đạt lời Thiên Chúa. Torah đặt tiêu chí nhận diện ngôn sứ giả: người nói nhân danh thần khác, hoặc người nói nhân danh Thiên Chúa điều Ngài không truyền (Phục Truyền 13:2–6; 18:20–22). Trong hệ thống của Maimonides, dấu lạ hay phép lạ không đủ để hợp thức hóa một lời kêu gọi thờ thần khác.
+
+**Điểm cần tránh:** “Ngôn sứ” trong Do Thái giáo không đồng nghĩa với thầy bói hay người đoán trước tương lai; Maimonides phân biệt rõ hai phạm trù này. Nhãn “ngôn sứ giả” là phạm trù xét xử của tòa thời cổ, không phải lời kết án dành cho lãnh tụ tôn giáo của các truyền thống khác.
+
+<a id="chukkot-hagoyim"></a>
+### Chukkot haGoyim / phong tục của các dân — חֻקּוֹת הַגּוֹיִם
+
+Lệnh cấm “đi theo luật lệ của các dân” (Lêvi 18:3; 20:23), được truyền thống rabbi hiểu là những tập quán gắn với việc thờ ngẫu tượng hoặc không có lý do hợp lý nào ngoài việc bắt chước. *Sifra* nêu ví dụ các sân khấu và trường đua thời La Mã; Rabbi Meir đồng nhất chúng với *darkhei haEmori*, “lối của người Amorite”, tức các tập tục mê tín.
+
+**Điểm cần tránh:** Đây không phải lệnh cấm mọi thứ đến từ văn hóa khác. Các nguồn rabbi phân biệt giữa tập quán có mục đích thực tế hay xã hội và tập quán mang ý nghĩa phụng tự hoặc mê tín; ranh giới cụ thể được bàn cãi nhiều trong halakhah đời sau.
+
+<a id="divination"></a>
+### Kesem, onen, nachash, kishuf, chever / các hình thức bói toán và ma thuật — קֶסֶם / עוֹנֵן / נַחַשׁ / כִּשּׁוּף / חֶבֶר
+
+Danh sách trong Phục Truyền 18:10–11 gồm nhiều thực hành mà Torah cấm. Maimonides định nghĩa từng loại: *kosem* tự đưa mình vào trạng thái để nói điều tương lai; *me’onen* là người định ngày tốt ngày xấu, kể cả theo chiêm tinh; *menachesh* hành động theo điềm; *mekhashef* thực hiện ma thuật thật sự bằng hành vi; *chover chaver* niệm những lời vô nghĩa với niềm tin rằng chúng có hiệu lực. Ông kết luận rằng mọi điều ấy đều là “lời dối và hư ảo”.
+
+**Điểm cần tránh:** Các thuật ngữ tiếng Việt như “bói”, “xem ngày”, “bùa chú” chỉ tương ứng một phần. Định nghĩa của Maimonides xác định cấu thành pháp lý cho người Do Thái trong hệ thống của ông, không phải lời phán xét về các thực hành văn hóa Việt Nam.
+
+<a id="makkat-mardut"></a>
+### Makkat mardut / roi kỷ luật của rabbi — מַכַּת מַרְדּוּת
+
+Hình phạt roi mang tính kỷ luật do luật rabbi đặt ra cho những vi phạm không đủ điều kiện chịu *malkot* của Torah, chẳng hạn khi vi phạm không kèm hành vi hoặc chỉ là lệnh cấm của rabbi. Mức độ do tòa quyết định. Như *malkot*, đây là thẩm quyền của tòa có thẩm quyền, không phải quyền của cá nhân hay cộng đồng.
+
+<a id="seven-nations"></a>
+### Shiv'at ha'amamim / bảy dân Canaan — שִׁבְעָה עֲמָמִים
+
+Bảy dân mà Torah liệt kê là cư dân đất Canaan trước Israel (Phục Truyền 7:1): Hittite, Girgashite, Amorite, Canaanite, Perizzite, Hivite và Jebusite. Một số điều luật chiến tranh và hôn nhân trong Torah chỉ nhắm vào các dân này.
+
+**Điểm cần tránh:** Đây là phạm trù của văn bản cổ, không phải nhóm người có thể nhận diện ngày nay. Maimonides viết rằng “ký ức về họ đã mất”, và Mishnah ghi nguyên tắc rằng vua Assyria Sennacherib đã xáo trộn các dân tộc. Không được gán nhãn này cho bất kỳ dân tộc, tôn giáo hay cộng đồng hiện đại nào.
+
+<a id="noahide-laws"></a>
+### Sheva mitzvot bnei Noach và ger toshav / bảy điều luật Noah và kiều dân — שֶׁבַע מִצְווֹת בְּנֵי נֹחַ / גֵּר תּוֹשָׁב
+
+Theo truyền thống rabbi, mọi nhân loại, với tư cách con cháu Noah, chịu bảy điều luật căn bản: cấm thờ ngẫu tượng, cấm phạm thượng, cấm giết người, cấm quan hệ tình dục bị cấm, cấm trộm cướp, cấm ăn thịt cắt từ con vật còn sống, và nghĩa vụ lập tòa án. *Ger toshav* là người không cải đạo nhưng chính thức nhận bảy điều luật ấy, và theo Maimonides được quyền cư trú.
+
+**Điểm cần tránh:** Bảy điều luật không phải một tôn giáo mà người ngoài Do Thái được kêu gọi “gia nhập”; chúng là cách luật rabbi phân loại nghĩa vụ đạo đức phổ quát.
+
+<a id="kehal-hashem"></a>
+### Kehal Hashem / “vào cộng đoàn của Thiên Chúa” — קְהַל ה׳
+
+Trong Phục Truyền 23, cụm “vào cộng đoàn của YHWH” được truyền thống rabbi hiểu là **kết hôn** với người Israel, không phải việc được cải đạo hay được tham dự đời sống tôn giáo. Các hạn chế liên quan đến người Ammon, Moab, Edom và Ai Cập vì thế là hạn chế hôn nhân áp dụng cho người đã cải đạo.
+
+**Điểm cần tránh:** Maimonides ghi rằng vì Sennacherib đã xáo trộn các dân tộc, ngày nay mọi người cải đạo, từ bất cứ đâu, đều được phép kết hôn ngay; các hạn chế này không có đối tượng áp dụng hiện nay.
+
+<a id="bal-tashchit"></a>
+### Bal tashchit / cấm hủy hoại vô ích — בַּל תַּשְׁחִית
+
+Nguyên tắc rút từ lệnh cấm chặt cây ăn quả khi vây thành (Phục Truyền 20:19), được mở rộng thành lệnh cấm phá hủy mọi thứ có giá trị cách vô ích: đập vỡ đồ dùng, xé áo, phá nhà, lấp giếng, bỏ phí thức ăn. Điều cấm nhắm vào sự hủy hoại **không có mục đích**; chặt cây vì nó gây hại hay vì gỗ có giá trị hơn thì không bị cấm.
+
+<a id="peot"></a>
+### Peot / tóc mai và các “góc” của râu tóc — פֵּאוֹת
+
+Nghĩa chữ là “các góc, các rìa”. Torah cấm “cạo tròn góc đầu” và “hủy hoại góc râu” (Lêvi 19:27). Maimonides giải thích đây là kiểu cạo của các tư tế thờ ngẫu tượng. Lọn tóc mai dài mà một số cộng đồng Do Thái giữ ngày nay là tập quán phát triển từ điều luật này, không phải yêu cầu tối thiểu của nó.
+
+<a id="megadef"></a>
+### Megadef và birkat Hashem / kẻ phạm thượng — מְגַדֵּף / בִּרְכַּת הַשֵּׁם
+
+*Megadef* là người nguyền rủa Danh Thiên Chúa. Các nguồn rabbi gọi hành vi ấy bằng lối nói kiêng *birkat Hashem*, nghĩa chữ là “chúc tụng Danh”, để tránh ghi lời nguyền. Định nghĩa pháp lý rất hẹp: phải nguyền rủa chính Danh bốn chữ bằng một danh xưng thánh.
+
+**Điểm cần tránh:** Đây không phải luật “báng bổ tôn giáo” theo nghĩa trừng phạt phê bình hay bất đồng tôn giáo; nó gắn với một hành vi ngôn từ được định nghĩa hẹp và với tòa án thời Đền Thờ.
+
+<a id="shevuat-bitui-shav"></a>
+### Shevuat bitui và shevuat shav / lời thề hứa và lời thề vô ích — שְׁבוּעַת בִּטּוּי / שְׁבוּעַת שָׁוְא
+
+Hai loại lời thề cá nhân trong luật rabbi. *Shevuat bitui*, “lời thề bằng miệng”, là thề sẽ làm hoặc không làm, hay đã làm hoặc chưa làm một việc có thể xảy ra; vi phạm nó là thề dối. *Shevuat shav*, “lời thề hư không”, là lời thề tự nó vô nghĩa: phủ nhận điều hiển nhiên, khẳng định điều ai cũng biết, thề bỏ một điều răn, hoặc thề làm điều không thể.
+
+**Điểm cần tránh:** Đây là các phạm trù về lời thề có nhân danh Thiên Chúa, không phải lệnh cấm mọi lời hứa hay mọi cách nói “thề” trong đời thường.
+
+<a id="sacred-names"></a>
+### Các Danh không được xóa và genizah — שֵׁמוֹת שֶׁאֵינָם נִמְחָקִים / גְּנִיזָה
+
+Maimonides liệt kê bảy danh xưng Hebrew của Thiên Chúa mà khi đã được viết với ý thánh thì không được xóa hay hủy. Văn bản thánh đã cũ hoặc hư hỏng không bị vứt bỏ mà được cất vào *genizah*, nơi lưu giữ rồi chôn cất. Genizah Cairo nổi tiếng, nơi tìm thấy hàng trăm nghìn mảnh văn bản trung đại, có cả thư tay của chính Maimonides, hình thành từ tập quán này.
+
+**Điểm cần tránh:** Thói quen viết “G-d” trong tiếng Anh là tập quán thận trọng của một số cộng đồng, không phải yêu cầu tối thiểu của điều luật, vốn nói về các danh xưng Hebrew được viết với ý thánh.
+
+<a id="heichal"></a>
+### Heichal và Kodesh haKodashim / Gian Thánh và Nơi Cực Thánh — הֵיכָל / קֹדֶשׁ הַקֳּדָשִׁים
+
+Tòa nhà chính của Đền Thờ gồm hai gian: *heichal*, Gian Thánh, nơi đặt chân đèn, bàn bánh và bàn thờ hương; và *Kodesh haKodashim*, Nơi Cực Thánh, sau bức màn *parokhet*, nơi chỉ thượng tế được vào một lần mỗi năm vào Yom Kippur. Bàn thờ lễ toàn thiêu nằm ngoài tòa nhà, trong sân.
+
+<a id="three-camps"></a>
+### Ba “trại” và các mức thánh thiêng — מַחֲנֵה שְׁכִינָה / מַחֲנֵה לְוִיָּה / מַחֲנֵה יִשְׂרָאֵל
+
+Truyền thống rabbi đọc cấu trúc trại Israel trong hoang địa thành ba vòng thánh thiêng: *machaneh Shekhinah* (trại của sự Hiện diện), *machaneh leviyah* (trại của người Lêvi) và *machaneh Yisrael* (trại của dân). Khi có Đền Thờ, chúng tương ứng với sân Đền Thờ, Núi Đền và thành Jerusalem. Mỗi loại ô uế bị giới hạn ở một vòng khác nhau.
+
+<a id="tevul-yom"></a>
+### Tevul yom / người đã ngâm mình nhưng chưa hết ngày — טְבוּל יוֹם
+
+Người đã ngâm mình trong *mikveh* để thoát một trạng thái ô uế, nhưng theo luật phải chờ đến khi mặt trời lặn mới hoàn tất sự thanh sạch. Trong khoảng thời gian ấy, người đó có địa vị trung gian: không còn ô uế đầy đủ, nhưng chưa được phụng sự hay ăn một số của lễ.
+
+<a id="baal-mum"></a>
+### Ba'al mum / tư tế có khuyết tật cơ thể — בַּעַל מוּם
+
+Tư tế có một trong những khuyết tật được liệt kê (Lêvi 21:17–23) thì không được thực hiện phụng vụ tại bàn thờ, dù vẫn là tư tế, vẫn được ăn phần của lễ dành cho tư tế và vẫn có thể làm những việc khác trong Đền Thờ. Khuyết tật có thể là vĩnh viễn hay tạm thời.
+
+**Điểm cần tránh:** Đây là quy định về điều kiện phụng vụ, song song với quy định con vật dâng lễ phải lành lặn; nó không phải phán xét về giá trị con người, và truyền thống không coi người khuyết tật là kém thánh thiện.
+
+<a id="shechutei-chutz"></a>
+### Shechutei chutz và bamah / sát tế và dâng lễ ngoài nơi thánh — שְׁחוּטֵי חוּץ / בָּמָה
+
+*Shechutei chutz* là việc sát tế hay dâng một của lễ thánh bên ngoài sân Đền Thờ. *Bamah*, “nơi cao”, là bàn thờ địa phương. Kinh Thánh Hebrew kể rằng trước khi có Đền Thờ, các *bamah* từng được dùng hợp pháp; Phục Truyền 12 tập trung việc dâng lễ về “nơi Thiên Chúa chọn”, và từ đó việc dâng lễ ở nơi khác bị cấm.
+
+**Điểm cần tránh:** Điều cấm nói về của lễ súc vật, không phải về cầu nguyện hay học Torah, vốn có thể thực hiện ở bất cứ đâu. Maimonides còn ghi rằng người ngoài Do Thái được phép dâng lễ toàn thiêu cho Thiên Chúa ở bàn thờ riêng của họ.
+
+<a id="etnan-mechir"></a>
+### Etnan và mechir / tiền công mại dâm và vật đổi lấy chó — אֶתְנַן / מְחִיר
+
+Hai loại tài sản mà Phục Truyền 23:19 cấm đem vào nhà Thiên Chúa để làm lễ vật: *etnan* là vật trao cho người mại dâm làm tiền công; *mechir kelev* là vật đổi lấy một con chó. Luật rabbi áp dụng điều cấm cho **chính vật ấy**; nếu nó đã biến đổi, như lúa mì thành bột, thì được phép.
+
+**Điểm cần tránh:** Một số học giả hiện đại cho rằng “chó” ở đây có thể là thuật ngữ chỉ một loại người phục vụ trong đền thờ ngoại giáo; truyền thống rabbi đọc theo nghĩa đen. Điều luật nói về lễ vật, không phải phán xét về giá trị con người.
+
+<a id="chagigah"></a>
+### Chagigah / lễ vật hành hương — חֲגִיגָה
+
+Của lễ thuộc loại lễ bình an được dâng trong các kỳ hành hương. *Chagigat arba’ah asar*, “lễ chagigah ngày mười bốn”, là lễ bình an tự nguyện dâng cùng lễ Vượt Qua vào chiều 14 Nisan khi đoàn người đông, để lễ Vượt Qua được ăn khi đã no. Nó được ăn trong hai ngày và một đêm, khác với lễ Vượt Qua phải ăn hết trong đêm.
+
+<a id="todah"></a>
+### Todah / lễ tạ ơn — תּוֹדָה
+
+Một loại lễ bình an được dâng để tạ ơn sau khi thoát nạn, như vượt biển, qua sa mạc, khỏi bệnh hay ra tù. Nó đi kèm bốn mươi ổ bánh và, khác với các lễ bình an thông thường được ăn trong hai ngày, phải được ăn hết trong một ngày và một đêm. Một số nhà chú giải về sau giải thích thời hạn ngắn ấy như một cách buộc người dâng mời nhiều người cùng ăn, làm cho lời tạ ơn trở thành việc chung.
+
+<a id="mumar"></a>
+### Mumar và meshumad / người Do Thái chối bỏ luật — מוּמָר / מְשֻׁמָּד
+
+Thuật ngữ rabbi cho người Do Thái cố ý từ bỏ việc tuân giữ luật. Các nguồn phân biệt nhiều hạng: người bỏ một điều luật vì ham muốn, người bỏ để chọc giận, và *mumar la’avodah zarah*, người chuyển sang thờ ngẫu tượng. Chữ *meshumad* xuất hiện nhiều trong các bản chép tay trung đại, một phần vì kiểm duyệt đã thay thế các từ khác.
+
+**Điểm cần tránh:** Đây là một phạm trù pháp lý về việc tham gia nghi lễ, không phải nhãn để gán cho người thế tục, người khác quan điểm hay người đổi tôn giáo ngày nay. Theo halakhah cổ điển, người ấy vẫn là người Do Thái.
+
+<a id="aninut"></a>
+### Aninut / thời gian tang chế trước khi chôn cất — אֲנִינוּת
+
+Giai đoạn đầu tiên của tang chế, từ lúc người thân qua đời đến khi chôn cất. Người trong giai đoạn này, *onen*, được miễn nhiều nghĩa vụ tôn giáo để lo việc tang lễ, và không được ăn đồ thánh. Theo Maimonides, *aninut* theo luật Torah chỉ kéo dài trong ngày mất; đêm sau đó thuộc luật của các hiền sĩ.
+
+<a id="kodashim"></a>
+### Kodshei kodashim và kodashim kalim / lễ vật cực thánh và lễ vật thánh bậc thấp — קָדְשֵׁי קָדָשִׁים / קָדָשִׁים קַלִּים
+
+Hai bậc thánh của lễ vật. Lễ vật cực thánh, như lễ đền tội và lễ đền bù, chỉ được tư tế nam ăn trong sân Đền Thờ, trong một ngày và một đêm. Lễ vật thánh bậc thấp, như lễ bình an, lễ tạ ơn và con đầu lòng, được ăn ở bất cứ đâu trong thành Jerusalem, và một số loại được cả người không phải tư tế ăn. Không gian và thời gian được phép ăn khác nhau theo bậc thánh.
+
+<a id="met-mitzvah"></a>
+### Met mitzvah / người chết không ai chôn cất — מֵת מִצְוָה
+
+Thi thể một người Do Thái được tìm thấy ở nơi không có ai lo chôn cất. Theo halakhah, việc chôn cất người ấy ưu tiên hơn gần như mọi nghĩa vụ khác: ngay cả thượng tế, người bị cấm làm mình ô uế vì xác chết, kể cả vì cha mẹ, cũng phải tự tay chôn cất nếu không có ai khác. Nguyên tắc này thể hiện rằng phẩm giá của người chết đứng trên sự thanh sạch nghi lễ.
+
+<a id="basar-bechalav"></a>
+### Basar bechalav / thịt với sữa — בָּשָׂר בְּחָלָב
+
+Lệnh cấm “đừng nấu dê con trong sữa mẹ nó”, được Torah nhắc ba lần (Xuất Hành 23:19; 34:26; Phục Truyền 14:21). Truyền thống rabbi đọc ba lần lặp thành ba điều cấm: nấu, ăn và hưởng lợi. Theo luật Torah, điều cấm áp dụng cho thịt và sữa của gia súc thanh sạch; các hiền sĩ mở rộng sang thịt thú rừng và gia cầm. Việc tách riêng bát đĩa, dụng cụ và thời gian chờ giữa bữa thịt và bữa sữa là các tập quán phát triển về sau.
+
+<a id="prosbul"></a>
+### Prosbul / văn bản giữ nợ qua năm Sabát — פְּרוֹזְבּוּל
+
+Thể chế do Hillel lập ra khi thấy người ta không dám cho vay trước năm Sabát, vì sợ khoản nợ bị xóa. Người cho vay trao quyền đòi nợ cho tòa án bằng một văn bản; vì việc xóa nợ chỉ áp dụng cho nợ giữa cá nhân, nợ đã giao cho tòa không bị xóa. *Prosbul* thường được nêu như ví dụ điển hình cho việc các hiền sĩ điều chỉnh luật để giữ đúng mục đích của Torah là bảo vệ người nghèo.
+
+<a id="kilayim"></a>
+### Kilayim / các loại lẫn lộn — כִּלְאַיִם
+
+Họ điều luật về sự tách biệt các loại: không lai giống súc vật khác loài, không gieo hai loại hạt chung một ruộng, không gieo ngũ cốc hay rau trong vườn nho, và không mặc *sha’atnez*. Riêng *kilayim* trong vườn nho bị cấm cả ăn và hưởng lợi. Ở Đất Israel phần lớn là luật Torah; ngoài Đất, các hiền sĩ phân biệt từng loại.
+
+<a id="chadash"></a>
+### Chadash / nông sản mới trước lễ omer — חָדָשׁ
+
+Ngũ cốc thu hoạch trong năm, thuộc năm loại (lúa mì, lúa mạch, spelt, lúa mạch đen, yến mạch theo cách hiểu truyền thống), không được ăn trước khi lễ *omer* được dâng vào ngày 16 Nisan. Khi Đền Thờ không còn, thời điểm ấy được tính theo ngày. Việc luật này có áp dụng ngoài Đất Israel hay không là một tranh luận lâu dài trong halakhah.
+
+<a id="ben-sorer-umoreh"></a>
+### Ben sorer umoreh / đứa con ngang bướng và bất trị — בֵּן סוֹרֵר וּמוֹרֶה
+
+Luật ở Phục Truyền 21:18–21 về người con trai không nghe lời cha mẹ, “ăn uống vô độ và say sưa”, bị cha mẹ đưa ra trước các trưởng lão. Truyền thống rabbi đặt những điều kiện hẹp đến mức gần như không thể xảy ra, và Talmud Sanhedrin 71a chép rằng trường hợp ấy “chưa từng có và sẽ không bao giờ có”, chỉ được viết ra để học hỏi.
+
+**Điểm cần tránh:** Đây không phải cơ sở cho việc trừng phạt con cái, và không có liên hệ nào với cách nuôi dạy con trong đời sống Do Thái thực tế.
+
 <a id="war-herem"></a>
 ### Herem trong chiến tranh — חֵרֶם
 
@@ -1239,3 +1417,24 @@ Nghĩa vụ cứu người đang bị truy đuổi trước nguy cơ bị giết
 
 Hệ luật về thứ tự người nhận tài sản khi một người chết, gắn với đất gia sản và dòng họ Israel cổ. Dân Số 27 ưu tiên con trai, rồi mở nhánh cho con gái khi không có con trai, sau đó đến các họ hàng khác. Cấu trúc này khác chế độ chia đều và quyền vợ chồng trong nhiều luật dân sự hiện đại; di chúc và chuyển tài sản khi còn sống tạo thêm vấn đề pháp lý riêng.
 
+
+<a id="onaah"></a>
+### Ona’ah / gây thiệt hại bằng mua bán hoặc lời nói — אוֹנָאָה
+
+Thuật ngữ rabbi cho việc làm người khác bị thiệt. *Ona’at mamon* là bán đắt hoặc mua rẻ quá mức so với giá thị trường; theo Mishnah và Maimonides, chênh lệch một phần sáu thì phải hoàn lại phần chênh, lớn hơn nữa thì giao dịch có thể bị hủy. *Ona’at devarim* là làm tổn thương bằng lời: nhắc lại quá khứ của người đã ăn năn, nhắc gốc gác của người cải đạo, hỏi giá món hàng khi không định mua. Talmud coi loại sau nặng hơn loại trước vì tiền còn trả lại được, còn nỗi nhục thì không.
+
+**Điểm cần tránh:** *Ona’ah* không phải mọi khoản lời trong buôn bán; luật giới hạn sự chênh lệch không được báo trước, không cấm người bán có lãi.
+
+<a id="shevuat-hapikadon"></a>
+### Shevuat ha-pikadon / lời thề chối tài sản gửi — שְׁבוּעַת הַפִּקָּדוֹן
+
+Lời thề dối để chối một khoản tiền hay tài sản của người khác đang ở trong tay mình: đồ gửi giữ, món vay, vật đã chiếm đoạt, vật nhặt được. Lêvi 5:20–26 buộc người ấy trả đủ vốn, thêm một phần năm, và dâng lễ vật *asham* khi thú nhận. Maimonides tách hai điều cấm: chối tài sản (“đừng chối”) và thề dối để chối (“đừng nói dối nhau”).
+
+**Điểm cần tránh:** Đây không phải mọi lời thề sai; nó là loại lời thề gắn với một nghĩa vụ tài sản cụ thể đối với người khác.
+
+<a id="hasagat-gevul"></a>
+### Hasagat gevul / dời mốc ranh — הַסָּגַת גְּבוּל
+
+Nghĩa gốc là lén dời cột mốc giữa hai thửa ruộng để nới đất mình vào đất người bên cạnh. Theo Sifrei và Maimonides, điều cấm riêng này chỉ áp dụng trong Eretz Yisrael, còn ở nơi khác hành vi ấy vẫn là trộm hoặc cướp. Về sau, văn học rabbi dùng cụm từ này theo nghĩa bóng cho việc lấn sang sinh kế hoặc lĩnh vực của người khác.
+
+**Điểm cần tránh:** Nghĩa bóng về cạnh tranh kinh doanh là sự mở rộng hậu kỳ, có luật riêng và nhiều tranh luận; không nên đọc ngược nó vào câu Phục Truyền.
