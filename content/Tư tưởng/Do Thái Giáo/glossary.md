@@ -1438,3 +1438,66 @@ Lời thề dối để chối một khoản tiền hay tài sản của ngườ
 Nghĩa gốc là lén dời cột mốc giữa hai thửa ruộng để nới đất mình vào đất người bên cạnh. Theo Sifrei và Maimonides, điều cấm riêng này chỉ áp dụng trong Eretz Yisrael, còn ở nơi khác hành vi ấy vẫn là trộm hoặc cướp. Về sau, văn học rabbi dùng cụm từ này theo nghĩa bóng cho việc lấn sang sinh kế hoặc lĩnh vực của người khác.
 
 **Điểm cần tránh:** Nghĩa bóng về cạnh tranh kinh doanh là sự mở rộng hậu kỳ, có luật riêng và nhiều tranh luận; không nên đọc ngược nó vào câu Phục Truyền.
+
+<a id="kenas"></a>
+### Kenas / tiền phạt cố định — קְנָס
+
+Khoản tiền mà Torah ấn định cho một số vi phạm, không tính theo thiệt hại thực tế: bồi thường gấp đôi của kẻ trộm, gấp bốn hay gấp năm khi trộm rồi giết hoặc bán bò cừu, khoản phạt của kẻ dụ dỗ hay vu khống người vợ. Vì vượt quá thiệt hại, *kenas* chỉ được tòa có thẩm quyền đầy đủ áp dụng, và theo luật rabbi, người tự thú trước khi có nhân chứng thì không phải nộp.
+
+**Điểm cần tránh:** *Kenas* không phải mọi khoản bồi thường; bồi thường thiệt hại thông thường là *mamon*, và chịu các quy tắc khác.
+
+<a id="onah"></a>
+### She’er, kesut, onah / thức ăn, quần áo và quyền chăn gối — שְׁאֵר כְּסוּת וְעוֹנָה
+
+Ba nghĩa vụ của người chồng mà truyền thống rabbi đọc từ Xuất Hành 21:10. Theo cách đọc được Maimonides theo, *she’er* là thức ăn, *kesut* là quần áo, *onah* là quan hệ vợ chồng; Talmud ghi một cách đọc khác của Rabbi Elazar hoán đổi nghĩa của hai từ đầu và cuối. *Onah* ở đây là quyền của người vợ: người chồng không được từ chối để làm vợ đau khổ.
+
+**Điểm cần tránh:** Đây là nghĩa vụ của người chồng đối với vợ, không phải quyền của người chồng đòi hỏi vợ.
+
+<a id="lifnei-iver"></a>
+### Lifnei iver / đặt vật cản trước người mù — לִפְנֵי עִוֵּר
+
+Lệnh cấm ở Lêvi 19:14, “đừng đặt vật cản trước người mù”. Truyền thống rabbi đọc nó chủ yếu theo nghĩa bóng: đừng cho người “mù trong việc ấy” một lời khuyên có hại để mình hưởng lợi, và đừng giúp hay tạo điều kiện cho người khác phạm tội. Từ đó *lifnei iver* trở thành một nguyên tắc rộng về trách nhiệm của người góp phần vào lỗi của người khác.
+
+**Điểm cần tránh:** Nghĩa bóng không thay thế nghĩa đen; đặt vật cản thật trước người khiếm thị vẫn bị cấm, và còn thuộc các luật về gây nguy hiểm.
+
+<a id="ones"></a>
+### Ones / bị cưỡng ép — אֹנֶס
+
+Tình trạng một người làm điều bị cấm vì bị ép buộc, bị đe dọa, hoặc vì hoàn cảnh ngoài khả năng kiểm soát. Nguyên tắc Talmud là **אֹנֶס רַחֲמָנָא פַּטְרֵיהּ** (*ones Rachmana patrei*), “Torah miễn trách cho người bị cưỡng ép”, dựa trên Phục Truyền 22:26 về người thiếu nữ bị cưỡng hiếp. Tòa không trừng phạt người bị cưỡng ép, kể cả trong những trường hợp luật đòi phải chịu chết chứ không được vi phạm.
+
+**Điểm cần tránh:** Không phải mọi áp lực đều là cưỡng ép theo nghĩa pháp lý; và việc tòa không trừng phạt không có nghĩa hành vi ấy trở thành được phép.
+
+<a id="lashon-hara"></a>
+### Lashon ha-ra và rechilut / lời nói xấu và đưa chuyện — לָשׁוֹן הָרָע / רְכִילוּת
+
+Hai phạm trù về lời nói gây hại trong luật rabbi. *Rechilut* là mang chuyện từ người này sang người kia: “ông ấy nói thế này về anh”. *Lashon ha-ra* là kể điều xấu, **dù là sự thật**, về một người khác. Nếu điều kể ra là sai sự thật thì gọi là *motzi shem ra*, bôi nhọ. Talmud nói *lashon ha-ra* “giết ba người”: người nói, người nghe, và người bị nói đến.
+
+**Điểm cần tránh:** Khác với khái niệm vu khống trong luật hiện đại, *lashon ha-ra* bị cấm ngay cả khi điều kể ra là đúng; luật rabbi có những ngoại lệ, như khi cần cảnh báo để người khác khỏi bị hại.
+
+<a id="pikuach-nefesh"></a>
+### Pikuach nefesh / cứu mạng sống — פִּקּוּחַ נֶפֶשׁ
+
+Nguyên tắc rằng việc cứu một mạng người đứng trên hầu hết các điều răn, kể cả Shabbat và Yom Kippur. Khi có nghi ngờ về nguy hiểm tính mạng, người ta vẫn phải hành động để cứu. Ba ngoại lệ là thờ ngẫu tượng, giết người và các quan hệ tình dục bị cấm nghiêm trọng, nơi luật đòi người ta chịu chết chứ không vi phạm.
+
+**Điểm cần tránh:** *Pikuach nefesh* không phải một sự miễn trừ miễn cưỡng; Maimonides viết rằng luật của Torah “không phải là sự báo thù trên thế gian, mà là lòng thương xót, nhân ái và hòa bình”.
+
+<a id="arayot"></a>
+### Arayot / các quan hệ tính dục bị cấm — עֲרָיוֹת
+
+Số nhiều của *ervah*, nghĩa đen “sự trần truồng”, từ cụm Lêvi 18 lặp lại: “đừng phơi bày sự trần truồng của…”. Thuật ngữ chỉ các quan hệ bị cấm vì huyết thống, hôn nhân, hay vì người phụ nữ đã có chồng. Theo luật rabbi, mọi quan hệ trong nhóm này bị *karet*; một số còn bị tòa xử tử. Hôn nhân giữa những người thuộc nhóm này không có hiệu lực pháp lý.
+
+**Điểm cần tránh:** Danh sách của Torah không trùng với danh sách cấm kết hôn của luật dân sự Việt Nam hay của giáo luật Công giáo; ví dụ, Torah không cấm cưới em họ, nhưng cấm cưới chị em của người vợ khi vợ còn sống.
+
+<a id="techum"></a>
+### Techum Shabbat / giới hạn đi lại trong Shabbat — תְּחוּם שַׁבָּת
+
+Khoảng cách tối đa một người được đi ra ngoài nơi mình ở trong ngày Shabbat. Theo luật rabbi, giới hạn là 2.000 *amah* (khoảng 1 km) tính từ rìa khu dân cư. Maimonides cho rằng giới hạn theo luật Torah là 12 *mil*, theo kích thước trại Israel trong hoang mạc, còn 2.000 *amah* là luật của các hiền sĩ. Người ta có thể mở rộng giới hạn bằng *eruv techumin*, đặt thức ăn từ trước ở một điểm trong phạm vi được phép.
+
+**Điểm cần tránh:** *Techum* chỉ giới hạn việc đi bộ ra khỏi khu dân cư, không giới hạn việc đi lại bên trong thành phố.
+
+<a id="melekh"></a>
+### Melekh / vua Israel — מֶלֶךְ
+
+Phục Truyền 17:14–20 cho phép Israel lập vua, nhưng giới hạn quyền lực của vua ngay trong đoạn luật ấy: vua phải là người Israel, không được có nhiều ngựa, nhiều vợ, nhiều vàng bạc, và phải chép một cuốn Torah để đọc suốt đời, “để lòng vua không kiêu căng với anh em mình”. Trong *Mishneh Torah*, luật về vua là một phần của nhóm luật về thời kỳ Israel có chủ quyền và Đền Thờ, gắn với hy vọng về Đấng Messiah.
+
+**Điểm cần tránh:** Luật về vua không phải lý thuyết về quân chủ nói chung, và không thể áp dụng cho các nhà nước hiện đại; nhiều điều trong đó là giới hạn chứ không phải đặc quyền.

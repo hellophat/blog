@@ -28,7 +28,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 *Hành động*
 
 - *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 15 (2d10 + 4) sát thương xuyên.
-- *Vuốt (Claws).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 8 (1d8 + 4) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và allosaurus đã di chuyển 9 m (30 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu ở trạng thái Ngã sấp, và allosaurus có thể thực hiện một đòn Cắn nhắm vào nó.
+- *Vuốt (Claws).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 8 (1d8 + 4) sát thương chém. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống và khủng long Allosaurus đã di chuyển 9 m (30 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu ở trạng thái Ngã sấp, và nó có thể thực hiện một đòn Cắn nhắm vào mục tiêu.
 
 ### Khủng long Ankylosaurus (Ankylosaurus)
 
@@ -44,7 +44,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Ankylosaurus thực hiện hai đòn Đuôi.
+- *Đa đòn (Multiattack).* Khủng long Ankylosaurus thực hiện hai đòn Đuôi.
 - *Đuôi (Tail).* Tung tấn công cận chiến: +6, tầm với 3 m (10 ft.). Trúng: 9 (1d10 + 4) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Khổng lồ trở xuống, nó ở trạng thái Ngã sấp.
 
 ### Vượn (Ape)
@@ -62,9 +62,9 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Ape thực hiện hai đòn Nắm đấm.
+- *Đa đòn (Multiattack).* Vượn thực hiện hai đòn Nắm đấm.
 - *Nắm đấm (Fist).* Tung tấn công cận chiến: +5, tầm với 1,5 m (5 ft.). Trúng: 5 (1d4 + 3) sát thương đập.
-- *Ném đá (Rock; Hồi 6).* Tung tấn công tầm xa: +5, tầm 7,5/15 m (25/50 ft.) Trúng: 10 (2d6 + 3) sát thương đập.
+- *Ném đá (Rock; Hồi 6).* Tung tấn công tầm xa: +5, tầm 7,5/15 m (25/50 ft.). Trúng: 10 (2d6 + 3) sát thương đập.
 
 ### Rùa cổ Archelon (Archelon)
 
@@ -81,11 +81,11 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Đặc điểm*
 
-- *Lưỡng cư (Amphibious).* Archelon có thể thở trong không khí và nước.
+- *Lưỡng cư (Amphibious).* Rùa cổ Archelon có thể thở trong không khí và nước.
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Archelon thực hiện hai đòn Cắn.
+- *Đa đòn (Multiattack).* Rùa cổ Archelon thực hiện hai đòn Cắn.
 - *Cắn (Bite).* Tung tấn công cận chiến: +6, tầm với 1,5 m (5 ft.). Trúng: 14 (3d6 + 4) sát thương xuyên.
 
 ### Khỉ đầu chó (Baboon)
@@ -102,7 +102,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Đặc điểm*
 
-- *Chiến thuật bầy đàn (Pack Tactics).* Baboon có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của baboon trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
+- *Chiến thuật bầy đàn (Pack Tactics).* Khỉ đầu chó có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của nó trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
 
 *Hành động*
 
@@ -332,7 +332,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Đặc điểm*
 
-- *Nhanh nhẹn (Agile).* Hươu không kích hoạt một tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
+- *Nhanh nhẹn (Agile).* Hươu không kích hoạt một đòn tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -444,7 +444,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 *Đặc điểm*
 
-- *Bay lướt (Flyby).* Rắn không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+- *Bay lướt (Flyby).* Rắn không kích hoạt một đòn tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -466,7 +466,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 *Đặc điểm*
 
 - *Lưỡng cư (Amphibious).* Ếch có thể thở trong không khí và nước.
-- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của ếch tối đa 3 m (10 feet) và cú nhảy cao của nó tối đa 1,5 m (5 feet) dù có hoặc không có đà chạy.
+- *Nhảy tại chỗ (Standing Leap).* Cú nhảy xa của ếch tối đa 3 m (10 feet) và cú nhảy cao của nó tối đa 1,5 m (5 feet) dù có hoặc không có đà chạy.
 
 *Hành động*
 
@@ -489,7 +489,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 
 - *Đa đòn (Multiattack).* Khỉ đột thực hiện hai đòn Nắm đấm.
 - *Nắm đấm (Fist).* Tung tấn công cận chiến: +9, tầm với 3 m (10 ft.). Trúng: 22 (3d10 + 6) sát thương đập.
-- *Ném tảng đá (Boulder Toss; Hồi 6).* Khỉ đột ném một tảng đá vào một điểm nó có thể thấy trong vòng 27 m (90 feet). Cứu nguy Khéo léo: DC 17, mỗi sinh vật trong một hình cầu bán kính 1,5 m (5 feet) có tâm tại điểm đó. Thất bại: 24 (7d6) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp. Thành công: Chỉ nửa sát thương.
+- *Ném tảng đá (Boulder Toss; Hồi 6).* Khỉ đột ném một tảng đá vào một điểm nó có thể thấy trong vòng 27 m (90 feet). Cứu nguy Khéo léo: DC 17, mỗi sinh vật trong một hình cầu bán kính 1,5 m (5 feet) có tâm tại điểm đó. Thất bại: 24 (7d6) sát thương đập. Nếu mục tiêu là một sinh vật cỡ Lớn trở xuống, nó ở trạng thái Ngã sấp. Thành công: Chỉ chịu nửa sát thương.
 
 *Hành động phụ*
 
@@ -702,7 +702,7 @@ Nguồn: *System Reference Document 5.2.1* (SRD 5.2.1), chương "Animals".
 *Đặc điểm*
 
 - *Lưỡng cư (Amphibious).* Ếch có thể thở trong không khí và nước.
-- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của ếch tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
+- *Nhảy tại chỗ (Standing Leap).* Cú nhảy xa của ếch tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
 
 *Hành động*
 
@@ -810,7 +810,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bay lướt (Flyby).* Cú không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+- *Bay lướt (Flyby).* Cú không kích hoạt một đòn tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -942,7 +942,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 *Đặc điểm*
 
 - *Lưỡng cư (Amphibious).* Cóc có thể thở trong không khí và nước.
-- *Nhảy tại chỗ (Standing Leap).* cú nhảy xa của cóc tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
+- *Nhảy tại chỗ (Standing Leap).* Cú nhảy xa của cóc tối đa 6 m (20 feet) và cú nhảy cao của nó tối đa 3 m (10 feet) dù có hoặc không có đà chạy.
 
 *Hành động*
 
@@ -1002,7 +1002,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bay lướt (Flyby).* Ong bắp cày không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+- *Bay lướt (Flyby).* Ong bắp cày không kích hoạt một đòn tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -1198,7 +1198,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 *Đặc điểm*
 
 - *Chiến thuật bầy đàn (Pack Tactics).* Sư tử có lợi thế trên một lần tung tấn công nhắm vào một sinh vật nếu ít nhất một trong các đồng minh của sư tử trong vòng 1,5 m (5 feet) của sinh vật đó và đồng minh đó không ở trạng thái Mất năng lực hành động.
-- *Nhảy đà (Running Leap).* Với một đà chạy 3 m (10 feet), sư tử có thể cú nhảy xa tối đa 7,5 m (25 feet).
+- *Nhảy đà (Running Leap).* Với đà chạy 3 m (10 feet), sư tử có thể nhảy xa tối đa 7,5 m (25 feet).
 
 *Hành động*
 
@@ -1325,7 +1325,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bay lướt (Flyby).* Cú không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+- *Bay lướt (Flyby).* Cú không kích hoạt một đòn tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -1387,7 +1387,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Nín thở (Hold Breath).* Plesiosaurus có thể nín thở trong 1 giờ.
+- *Nín thở (Hold Breath).* Bò sát biển Plesiosaurus có thể nín thở trong 1 giờ.
 
 *Hành động*
 
@@ -1443,7 +1443,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bay lướt (Flyby).* Pteranodon không kích hoạt một tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
+- *Bay lướt (Flyby).* Thằn lằn bay Pteranodon không kích hoạt một đòn tấn công cơ hội khi nó bay ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -1464,7 +1464,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Nhanh nhẹn (Agile).* Chuột không kích hoạt một tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
+- *Nhanh nhẹn (Agile).* Chuột không kích hoạt một đòn tấn công cơ hội khi nó di chuyển ra khỏi tầm với của kẻ địch.
 
 *Hành động*
 
@@ -1560,7 +1560,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Nhảy đà (Running Leap).* Với một đà chạy 3 m (10 feet), hổ răng kiếm có thể cú nhảy xa tối đa 7,5 m (25 feet).
+- *Nhảy đà (Running Leap).* Với đà chạy 3 m (10 feet), hổ răng kiếm có thể nhảy xa tối đa 7,5 m (25 feet).
 
 *Hành động*
 
@@ -1646,7 +1646,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con dơi cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con dơi cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
@@ -1669,7 +1669,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 *Đặc điểm*
 
 - *Leo như nhện (Spider Climb).* Nếu bầy có Tốc độ leo, bầy có thể leo lên các bề mặt khó, kể cả dọc theo trần nhà, mà không cần thực hiện phép kiểm tra thuộc tính.
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một côn trùng cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một côn trùng cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
@@ -1691,8 +1691,8 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con cá piranha cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
-- *Thở dưới nước (Water Breathing).* bầy chỉ có thể thở dưới nước.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con cá piranha cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Thở dưới nước (Water Breathing).* Bầy chỉ có thể thở dưới nước.
 
 *Hành động*
 
@@ -1714,7 +1714,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con chuột cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con chuột cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
@@ -1737,7 +1737,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con quạ cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con quạ cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
@@ -1760,7 +1760,7 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Đặc điểm*
 
-- *Bầy (Swarm).* bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con rắn cỡ Tí hon. bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
+- *Bầy (Swarm).* Bầy có thể chiếm không gian của một sinh vật khác và ngược lại, và bầy có thể di chuyển qua bất kỳ lỗ mở nào đủ lớn cho một con rắn cỡ Tí hon. Bầy không thể phục hồi điểm sinh lực hoặc nhận điểm sinh lực tạm thời.
 
 *Hành động*
 
@@ -1801,8 +1801,8 @@ Vào cuối lượt tiếp theo của ếch, mục tiêu bị nuốt chịu 5 (2
 
 *Hành động*
 
-- *Đa đòn (Multiattack).* Triceratops thực hiện hai đòn Húc sừng.
-- *Húc sừng (Gore).* Tung tấn công cận chiến: +9, tầm với 1,5 m (5 ft.). Trúng: 19 (2d12 + 6) sát thương xuyên. Nếu mục tiêu cỡ Khổng lồ trở xuống và triceratops đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 9 (2d8) sát thương xuyên và ở trạng thái Ngã sấp.
+- *Đa đòn (Multiattack).* Khủng long ba sừng thực hiện hai đòn Húc sừng.
+- *Húc sừng (Gore).* Tung tấn công cận chiến: +9, tầm với 1,5 m (5 ft.). Trúng: 19 (2d12 + 6) sát thương xuyên. Nếu mục tiêu cỡ Khổng lồ trở xuống và khủng long ba sừng đã di chuyển 6 m (20 feet) trở lên trực tiếp về phía nó ngay trước khi trúng, mục tiêu chịu thêm 9 (2d8) sát thương xuyên và ở trạng thái Ngã sấp.
 
 ### Khủng long bạo chúa (Tyrannosaurus Rex)
 

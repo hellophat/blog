@@ -587,7 +587,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Đặc điểm*
 
 - *Vô định hình (Amorphous).* Bùn có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
-- *Dạng ăn mòn (Corrosive Form).* Một sinh vật tấn công trúng bùn bằng một lần tung tấn công cận chiến chịu 4 (1d8) sát thương axit. Đạn phi phép thuật bị phá hủy ngay sau khi trúng bùn và gây bất kỳ sát thương nào. Bất kỳ vũ khí phi phép thuật nào cũng nhận một điểm trừ −1 cộng dồn vào lần tung tấn công ngay sau khi gây sát thương cho bùn và tiếp xúc với nó. Vũ khí bị phá hủy nếu điểm trừ đạt đến −5. điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên vũ khí.
+- *Dạng ăn mòn (Corrosive Form).* Một sinh vật tấn công trúng bùn bằng một lần tung tấn công cận chiến chịu 4 (1d8) sát thương axit. Đạn phi phép thuật bị phá hủy ngay sau khi trúng bùn và gây bất kỳ sát thương nào. Bất kỳ vũ khí phi phép thuật nào cũng nhận một điểm trừ −1 cộng dồn vào lần tung tấn công ngay sau khi gây sát thương cho bùn và tiếp xúc với nó. Vũ khí bị phá hủy nếu điểm trừ đạt đến −5. Điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên vũ khí.
 
 Trong 1 phút, bùn có thể ăn xuyên qua 60 cm (2 feet) gỗ hoặc kim loại phi phép thuật.
 
@@ -2516,7 +2516,7 @@ Số lần hành động huyền thoại: 3 (4 trong hang ổ). Ngay sau lượt
 *Đặc điểm*
 
 - *Vô định hình (Amorphous).* Bùn có thể di chuyển qua một không gian hẹp tới 2,5 cm (1 inch) mà không tốn thêm lượng di chuyển để làm vậy.
-- *Dạng ăn mòn (Corrosive Form).* Đạn phi phép thuật bị phá hủy ngay sau khi trúng bùn và gây bất kỳ sát thương nào. Bất kỳ vũ khí phi phép thuật nào cũng nhận một điểm trừ −1 cộng dồn vào lần tung tấn công ngay sau khi gây sát thương cho bùn và tiếp xúc với nó. Vũ khí bị phá hủy nếu điểm trừ đạt đến −5. điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên vũ khí.
+- *Dạng ăn mòn (Corrosive Form).* Đạn phi phép thuật bị phá hủy ngay sau khi trúng bùn và gây bất kỳ sát thương nào. Bất kỳ vũ khí phi phép thuật nào cũng nhận một điểm trừ −1 cộng dồn vào lần tung tấn công ngay sau khi gây sát thương cho bùn và tiếp xúc với nó. Vũ khí bị phá hủy nếu điểm trừ đạt đến −5. Điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên vũ khí.
 
 Bùn có thể ăn xuyên qua kim loại hoặc gỗ phi phép thuật dày 2-inch trong 1 vòng.
 
@@ -4541,7 +4541,7 @@ Xúc tu có thể bị gây sát thương, giải phóng một sinh vật nó đ
 
 - *Đa đòn (Multiattack).* Quái vật gỉ sét thực hiện một đòn Cắn và dùng Râu hai lần.
 - *Cắn (Bite).* Tung tấn công cận chiến: +3, tầm với 1,5 m (5 ft.). Trúng: 5 (1d8 + 1) sát thương xuyên.
-- *Râu (Antennae).* Quái vật gỉ sét nhắm mục tiêu một đồ vật kim loại phi phép thuật — giáp hoặc một vũ khí — đang được mặc hoặc mang theo bởi một sinh vật trong vòng 1,5 m (5 feet) của bản thân. Cứu nguy Khéo léo: DC 11, sinh vật mang đồ vật đó. Thất bại: Đồ vật nhận một điểm trừ −1 vào AC nó cung cấp (giáp) hoặc vào lần tung tấn công của nó (vũ khí). Giáp bị phá hủy nếu điểm trừ giảm AC của nó xuống 10, và một vũ khí bị phá hủy nếu điểm trừ của nó đạt đến −5. điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên giáp hoặc vũ khí.
+- *Râu (Antennae).* Quái vật gỉ sét nhắm mục tiêu một đồ vật kim loại phi phép thuật — giáp hoặc một vũ khí — đang được mặc hoặc mang theo bởi một sinh vật trong vòng 1,5 m (5 feet) của bản thân. Cứu nguy Khéo léo: DC 11, sinh vật mang đồ vật đó. Thất bại: Đồ vật nhận một điểm trừ −1 vào AC nó cung cấp (giáp) hoặc vào lần tung tấn công của nó (vũ khí). Giáp bị phá hủy nếu điểm trừ giảm AC của nó xuống 10, và một vũ khí bị phá hủy nếu điểm trừ của nó đạt đến −5. Điểm trừ có thể được loại bỏ bằng cách thi triển phép *Sửa chữa* (Mending) lên giáp hoặc vũ khí.
 - *Hủy kim loại (Destroy Metal).* Quái vật gỉ sét chạm vào một đồ vật kim loại phi phép thuật trong phạm vi 1,5 m (5 feet) của bản thân không đang được mặc hoặc mang theo. Cú chạm phá hủy một khối lập phương cạnh 30 cm (1 foot) của đồ vật đó.
 
 *Phản ứng*

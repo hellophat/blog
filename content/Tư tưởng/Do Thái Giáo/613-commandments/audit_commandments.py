@@ -83,6 +83,10 @@ for n in range(args.start,args.end+1):
                 errors.append(f'{p.name}:{ln}: Hebrew chưa có phiên âm ngay sau: {m.group(1)}')
     for anchor in re.findall(r'\.\./glossary#([^)]+)',s):
         if anchor not in anchors: errors.append(f'{p.name}: neo glossary không tồn tại: {anchor}')
+    # Unrendered template code (e.g. {G('ger','ger')} or {'[N1](./N1)'}) must never reach a page.
+    for ln,line in enumerate(s.splitlines(),1):
+        m=re.search(r"\{(?:'\[|[A-Z]{1,4}\(|[A-Z]{2,4}\})",line)
+        if m: errors.append(f'{p.name}:{ln}: còn mã mẫu chưa render: {line[m.start():m.start()+30]}')
     # Candidate loanwords are warnings for editorial review, not automatic failures.
     for ln,line in enumerate(s.splitlines(),1):
         if ln <= 12 or line.startswith('#') or line.startswith('- **Bối cảnh lịch sử'): continue

@@ -4146,47 +4146,63 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא למכור אמה עברייה לאחר
 
-### N262 — Không khước từ thức ăn, quần áo hoặc quyền chăn gối của nữ tỳ Hebrew đã được định làm vợ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N261)
+
+### N262 — Không khước từ thức ăn, quần áo và quyền chăn gối của nữ tỳ Hebrew đã được định làm vợ
 
 **English:** Not to withhold from a Hebrew maidservant who has been designated as a bride living expenses, clothing, or conjugal rights.
 
 **Hebrew (Maimonides):** שלא למנוע מאמה עברייה היעודה שאר כסות ועונה
 
-### N263 — Không bán [yefat to'ar](../glossary#yefat-toar) làm nữ tỳ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N262)
+
+### N263 — Không bán [yefat to'ar](../glossary#yefat-toar)
 
 **English:** Not to sell a yefat to'ar, as a maidservant.
 
 **Hebrew (Maimonides):** שלא למכור אשת יפת תואר
 
-### N264 — Không ép [yefat to'ar](../glossary#yefat-toar) phục dịch như nữ tỳ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N263)
+
+### N264 — Không giữ [yefat to'ar](../glossary#yefat-toar) làm nữ tỳ
 
 **English:** Not to force a yefat to'ar to serve as a maidservant.
 
 **Hebrew (Maimonides):** שלא לכבוש אשת יפת תואר שפחה
 
-### N265 — Không tham muốn tài sản của người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N264)
+
+### N265 — Không tham muốn đến mức tìm cách lấy vật của người khác
 
 **English:** Not to covet.
 
 **Hebrew (Maimonides):** שלא לחמוד
 
-### N266 — Không ham muốn tài sản của người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N265)
+
+### N266 — Không ham muốn trong lòng vật của người khác
 
 **English:** Not to desire.
 
 **Hebrew (Maimonides):** שלא להתאוות
 
-### N267 — Người gặt thuê không ăn sản vật chưa hái trước khi hoàn tất công việc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N266)
+
+### N267 — Người làm thuê không ăn hoa màu chưa hái khi chưa đến lúc hoàn tất công việc
 
 **English:** For a worker who is harvesting crops not to eat from the unpicked produce before he has finished work.
 
 **Hebrew (Maimonides):** שלא יאכל השכיר שלא בשעת גמר מלאכה מן המחובר שהוא עושה בו
 
-### N268 — Người làm thuê không lấy nhiều hơn phần mình ăn
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N267)
+
+### N268 — Người làm thuê không lấy quá phần mình ăn
 
 **English:** For a worker not to take more than what he eats [from the produce he harvests].
 
 **Hebrew (Maimonides):** שלא ייקח השכיר יתר על אכילתו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N268)
 
 ### N269 — Không làm ngơ trước đồ thất lạc
 
@@ -4194,29 +4210,39 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא יתעלם מן האבידה
 
-### N270 — Không bỏ mặc con vật ngã dưới gánh trên đường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N269)
+
+### N270 — Không bỏ mặc con vật ngã quỵ dưới gánh nặng trên đường
 
 **English:** Not to leave an animal fallen under its load on the road.
 
 **Hebrew (Maimonides):** שלא להניח הבהמה רובצת תחת משאה בדרך
 
-### N271 — Không làm sai lệch phép đo
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N270)
+
+### N271 — Không gian lận trong đo lường
 
 **English:** Not to falsify measurements.
 
 **Hebrew (Maimonides):** שלא לעשות עול במדה
 
-### N272 — Không giữ hai bộ cân đo khác nhau
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N271)
+
+### N272 — Không giữ hai loại quả cân và đấu đo khác nhau
 
 **English:** Not to possess two sets of weights and measures.
 
 **Hebrew (Maimonides):** שלא להיות אצלנו איפה ואיפה אבן ואבן
 
-### N273 — Không xét xử gian dối
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N272)
+
+### N273 — Không xét xử bất công
 
 **English:** Not to act deceitfully in judgment.
 
 **Hebrew (Maimonides):** שלא לעוול המשפט
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N273)
 
 ### N274 — Không nhận hối lộ
 
@@ -4224,41 +4250,55 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא ליקח שוחד
 
-### N275 — Không thiên vị người có địa vị khi xét xử
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N274)
+
+### N275 — Không nể trọng người có địa vị khi xét xử
 
 **English:** Not to honor a man of stature in judgment.
 
 **Hebrew (Maimonides):** שלא לכבד גדול בדין
 
-### N276 — Thẩm phán không sợ kẻ ác mà tránh phán quyết công chính
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N275)
+
+### N276 — Thẩm phán không vì sợ kẻ hung ác mà né tránh phán quyết
 
 **English:** For a judge not to fear rendering [a just] judgment because of a wicked man.
 
 **Hebrew (Maimonides):** שלא יירא הדיין בדין מאדם רע
 
-### N277 — Không thiên vị người nghèo khi xét xử
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N276)
+
+### N277 — Không thương hại người nghèo khi xét xử
 
 **English:** Not to have mercy on a poor person in judgment.
 
 **Hebrew (Maimonides):** שלא לרחם על עני בדין
 
-### N278 — Không bẻ cong công lý bất lợi cho người có tội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N277)
+
+### N278 — Không xử ép một người chỉ vì người ấy kém giữ đạo
 
 **English:** Not to pervert judgment against a sinner.
 
 **Hebrew (Maimonides):** שלא להטות משפט אדם חוטא
 
-### N279 — Không thương hại người gây thiệt hại khi xét tiền phạt
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N278)
+
+### N279 — Không thương hại người phải nộp tiền phạt
 
 **English:** Not to have pity on a person who has caused damages in judgments concerning fines.
 
 **Hebrew (Maimonides):** שלא לרחם על המזיק בדיני קנסות
 
-### N280 — Không bẻ cong công lý của người cải đạo hoặc trẻ mồ côi
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N279)
+
+### N280 — Không bẻ cong công lý đối với người cải đạo hoặc trẻ mồ côi
 
 **English:** Not to pervert the justice due converts or orphans.
 
 **Hebrew (Maimonides):** שלא להטות משפט גרים ויתומים
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N280)
 
 ### N281 — Không nghe một bên đương sự khi bên kia vắng mặt
 
@@ -4266,17 +4306,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לשמוע מאחד מבעלי דינין ואין חברו עימו
 
-### N282 — Không kết án tử hình chỉ bằng đa số hơn một phiếu
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N281)
+
+### N282 — Không kết án tử hình khi đa số chỉ hơn một phiếu
 
 **English:** Not to render a conviction in a capital case when there is only a majority of one.
 
 **Hebrew (Maimonides):** שלא לנטות אחרי רבים בדיני נפשות, אם היו המחייבין יתר על המזכין אחד
 
-### N283 — Người đã biện hộ trắng án trong vụ tử hình không chuyển sang kết tội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N282)
+
+### N283 — Người đã lập luận để tha bổng trong vụ án tử hình không chuyển sang lập luận kết tội
 
 **English:** For a person who argued in favor of acquittal in a capital case not to argue for a conviction.
 
 **Hebrew (Maimonides):** שלא ילמד חובה מי שלימד זכות תחילה בדיני נפשות
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N283)
 
 ### N284 — Không bổ nhiệm người không thông thạo [Torah](../glossary#torah) làm thẩm phán
 
@@ -4284,23 +4330,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא למנות בדיינין אדם שאינו חכם בדברי תורה, אף על פי שהוא חכם בחכמות אחרות
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N284)
+
 ### N285 — Không làm chứng gian
 
 **English:** Not to give false testimony.
 
 **Hebrew (Maimonides):** שלא להעיד בשקר
 
-### N286 — Người phạm tội không làm nhân chứng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N285)
+
+### N286 — Người phạm tội không được làm nhân chứng
 
 **English:** For a sinner not to act as a witness.
 
 **Hebrew (Maimonides):** שלא יעיד בעל עבירה
 
-### N287 — Thân nhân không làm nhân chứng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N286)
+
+### N287 — Thân nhân không được làm nhân chứng
 
 **English:** For a relative not to act as a witness.
 
 **Hebrew (Maimonides):** שלא יעיד קרוב
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N287)
 
 ### N288 — Không phán quyết chỉ dựa trên lời của một nhân chứng
 
@@ -4308,17 +4362,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לכרות הדין על פי עד אחד
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N288)
+
 ### N289 — Không giết người vô tội
 
 **English:** Not to kill an innocent person.
 
 **Hebrew (Maimonides):** שלא להרוג נקי
 
-### N290 — Không phán quyết từ suy đoán khi không có hai nhân chứng thấy sự việc
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N289)
+
+### N290 — Không kết án dựa trên suy đoán khi không có hai nhân chứng thấy tận mắt
 
 **English:** Not to render a decision on the basis of a presumption, unless two witnesses observe the actual matter.
 
 **Hebrew (Maimonides):** שלא לחתוך הדין באומד הדעת, עד שיראו שני עדים גופו של דבר
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N290)
 
 ### N291 — Nhân chứng không tham gia phán quyết vụ án tử hình mình đã làm chứng
 
@@ -4326,17 +4386,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא יורה העד בדין שהעיד בו בדיני נפשות
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N291)
+
 ### N292 — Không hành quyết người trước khi xét xử
 
 **English:** Not to execute a person liable for execution before he stands trial.
 
 **Hebrew (Maimonides):** שלא להרוג מחוייב הריגה קודם שיעמוד בדין
 
-### N293 — Không thương xót kẻ đang truy đuổi để giết hoặc cưỡng hiếp nạn nhân
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N292)
+
+### N293 — Không thương xót kẻ đang truy đuổi để giết hay cưỡng hiếp người khác
 
 **English:** Not to have pity on a pursuer. Rather, he should be killed before he kills or rapes the person he is pursuing.
 
 **Hebrew (Maimonides):** שלא לחוס על הרודף, אלא הורגין אותו קודם שיגיע לנרדף ויהרגנו או יגלה ערוותו
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N293)
 
 ### N294 — Không trừng phạt người bị cưỡng ép phạm tội
 
@@ -4344,11 +4410,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לענוש האנוס
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N294)
+
 ### N295 — Không nhận tiền chuộc thay án của kẻ giết người
 
 **English:** Not to take a ransom from a murderer.
 
 **Hebrew (Maimonides):** שלא ליקח כופר מן הרוצח
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N295)
 
 ### N296 — Không nhận tiền chuộc thay án lưu đày của người vô ý giết người
 
@@ -4356,23 +4426,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא ליקח כופר בגלות רוצח בשגגה
 
-### N297 — Không bỏ mặc người đang nguy hiểm tính mạng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N296)
+
+### N297 — Không bỏ mặc người đang nguy hiểm đến tính mạng
 
 **English:** Not to neglect [a person] in mortal danger.
 
 **Hebrew (Maimonides):** שלא לעמוד על הדם
 
-### N298 — Không để lại chướng ngại nguy hiểm
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N297)
+
+### N298 — Không để lại mối nguy hiểm chết người
 
 **English:** Not to leave obstacles.
 
 **Hebrew (Maimonides):** שלא להניח מכשול
 
-### N299 — Không làm người thiếu hiểu biết lầm đường
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N298)
+
+### N299 — Không làm người không biết lầm đường
 
 **English:** Not to mislead an unsuspecting person.
 
 **Hebrew (Maimonides):** שלא להכשיל תם בדרך
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N299)
 
 ### N300 — Không đánh quá số roi quy định
 
@@ -4380,11 +4458,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא להוסיף במלקות המחוייב מלקות
 
-### N301 — Không nói hành
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N300)
+
+### N301 — Không đưa chuyện nói xấu
 
 **English:** Not to gossip.
 
 **Hebrew (Maimonides):** שלא לרגל
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N301)
 
 ### N302 — Không nuôi lòng thù ghét
 
@@ -4392,11 +4474,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לשנוא בלב
 
-### N303 — Không làm nhục người Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N302)
+
+### N303 — Không làm nhục người khác
 
 **English:** Not to embarrass any Jewish person.
 
 **Hebrew (Maimonides):** שלא להלבין פני אדם מישראל
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N303)
 
 ### N304 — Không trả thù
 
@@ -4404,23 +4490,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לנקום
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N304)
+
 ### N305 — Không ôm hận
 
 **English:** Not to bear a grudge.
 
 **Hebrew (Maimonides):** שלא לנטור
 
-### N306 — Không bắt chim mẹ cùng chim non
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N305)
+
+### N306 — Không bắt chim mẹ cùng với chim non
 
 **English:** Not to take a mother bird together with the young.
 
 **Hebrew (Maimonides):** שלא ליקח אם על הבנים
 
-### N307 — Không cạo tóc quanh chỗ hói do [tzara'at](../glossary#tzaraat)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N306)
+
+### N307 — Không cạo vùng hói do [tzara'at](../glossary#tzaraat)
 
 **English:** Not to shave the hair around a bald spot brought about by tzara’at].
 
 **Hebrew (Maimonides):** שלא לגלח שיער הנתק
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N307)
 
 ### N308 — Không xóa dấu hiệu [tzara'at](../glossary#tzaraat)
 
@@ -4428,41 +4522,55 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לתלוש סימני צרעת
 
-### N309 — Không cày hoặc gieo vùng đất quanh dòng nước nơi làm lễ chuộc vụ giết người chưa phá
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N308)
+
+### N309 — Không cày cấy thung lũng nơi làm lễ [eglah arufah](../glossary#eglah-arufah)
 
 **English:** Not to till or sow the land [around] a powerful river [at which atonement was made for an unsolved murder].
 
 **Hebrew (Maimonides):** שלא לעבוד ולזרוע בנחל איתן
 
-### N310 — Không để phù thủy sống
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N309)
+
+### N310 — Không để kẻ làm phép thuật sống
 
 **English:** Not to allow a sorcerer to live.
 
 **Hebrew (Maimonides):** שלא להחיות מכשף
 
-### N311 — Không buộc chú rể làm nghĩa vụ công trong năm đầu hôn nhân
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N310)
+
+### N311 — Không bắt chú rể làm nghĩa vụ công trong năm đầu hôn nhân
 
 **English:** For a groom not to be held liable for any type of public service - e.g., army, guarding the walls [of a city], and the like -.
 
 **Hebrew (Maimonides):** שלא יתחייב חתן בדבר מצורכי רבים כל שנתו, כגון צבא ושמירת החומה וכיוצא בהן
 
-### N312 — Không chống lại thẩm quyền của tòa án
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N311)
+
+### N312 — Không chống lại phán quyết của tòa án tối cao
 
 **English:** Not to reject the authority of the court.
 
 **Hebrew (Maimonides):** שלא להמרות על פי בית דין
 
-### N313 — Không thêm điều răn vào [Torah](../glossary#torah), gồm Luật thành văn và truyền thống khẩu truyền
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N312)
+
+### N313 — Không thêm điều răn vào [Torah](../glossary#torah), gồm cả Luật thành văn và Luật truyền khẩu
 
 **English:** Not to add to the mitzvot of the Torah. [This applies] both to the Written Law and to its explanation conveyed by the oral tradition.
 
 **Hebrew (Maimonides):** שלא להוסיף על מצוות התורה, בין תורה שבכתב בין בפירושה שקיבלו על פה
 
-### N314 — Không bớt bất kỳ điều răn nào khỏi [Torah](../glossary#torah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N313)
+
+### N314 — Không bớt đi bất kỳ điều răn nào của [Torah](../glossary#torah)
 
 **English:** Not to diminish from any of the mitzvot of the Torah.
 
 **Hebrew (Maimonides):** שלא לגרוע מכל מצוות התורה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N314)
 
 ### N315 — Không nguyền rủa thẩm phán
 
@@ -4470,17 +4578,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לקלל הדיין
 
-### N316 — Không nguyền rủa [nasi](../glossary#nasi), tức vua hoặc người đứng đầu học viện tại [Eretz Yisrael](../glossary#eretz-yisrael-diaspora)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N315)
+
+### N316 — Không nguyền rủa [nasi](../glossary#nasi), tức vua hoặc người đứng đầu Sanhedrin
 
 **English:** Not to curse a nasi - i.e., the king or the head of the academy in Eretz Yisrael -.
 
 **Hebrew (Maimonides):** שלא לקלל הנשיא, והוא המלך או ראש ישיבת ארץ ישראל
 
-### N317 — Không nguyền rủa người Do Thái khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N316)
+
+### N317 — Không nguyền rủa người khác
 
 **English:** Not to curse any other Jew.
 
 **Hebrew (Maimonides):** שלא לקלל אחד משאר ישראל
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N317)
 
 ### N318 — Không nguyền rủa cha mẹ
 
@@ -4488,11 +4602,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לקלל אב ואם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N318)
+
 ### N319 — Không đánh cha mẹ
 
 **English:** Not to strike one's father or mother.
 
 **Hebrew (Maimonides):** שלא להכות אב ואם
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N319)
 
 ### N320 — Không làm việc trong ngày [Shabbat](../glossary#shabbat)
 
@@ -4500,11 +4618,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה בשבת
 
-### N321 — Không đi quá giới hạn thành phố trong ngày [Shabbat](../glossary#shabbat)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N320)
+
+### N321 — Không đi ra ngoài giới hạn thành phố trong ngày [Shabbat](../glossary#shabbat)
 
 **English:** Not to travel beyond the boundaries of a city on the Sabbath as travelers do.
 
 **Hebrew (Maimonides):** שלא להלך חוץ לתחום מדינה כהולכי דרכים בשבת
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N321)
 
 ### N322 — Tòa án không thi hành hình phạt trong ngày [Shabbat](../glossary#shabbat)
 
@@ -4512,17 +4634,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לענוש בשבת
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N322)
+
 ### N323 — Không làm việc trong ngày đầu [Pesach](../glossary#pesach)
 
 **English:** Not to work on the first day of Pesach.
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה בראשון של פסח
 
-### N324 — Không làm việc trong ngày thứ bảy [Pesach](../glossary#pesach)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N323)
+
+### N324 — Không làm việc trong ngày thứ bảy của [Pesach](../glossary#pesach)
 
 **English:** Not to work on the seventh day of Pesach.
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה בשביעי של פסח
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N324)
 
 ### N325 — Không làm việc trong lễ [Shavuot](../glossary#shavuot)
 
@@ -4530,17 +4658,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה בחג השבועות
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N325)
+
 ### N326 — Không làm việc vào ngày đầu tháng thứ bảy, tức [Rosh HaShanah](../glossary#rosh-hashanah)
 
 **English:** Not to work on the first day of the seventh month [the day of Rosh HaShanah].
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה באחד לחודש השביעי
 
-### N327 — Không làm việc trong [Yom Kippur](../glossary#yom-kippur)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N326)
+
+### N327 — Không làm việc trong ngày [Yom Kippur](../glossary#yom-kippur)
 
 **English:** Not to work on Yom Kippur.
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה ביום הכיפורים
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N327)
 
 ### N328 — Không làm việc trong ngày đầu lễ [Sukkot](../glossary#sukkot)
 
@@ -4548,11 +4682,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה בראשון של חג
 
-### N329 — Không làm việc trong ngày thứ tám lễ [Sukkot](../glossary#sukkot)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N328)
+
+### N329 — Không làm việc trong ngày thứ tám của lễ [Sukkot](../glossary#sukkot)
 
 **English:** Not to work on the eighth day of the festival [of Sukkot].
 
 **Hebrew (Maimonides):** שלא לעשות מלאכה ביום שמיני של חג
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N329)
 
 ### N330 — Không quan hệ tính dục với mẹ mình
 
@@ -4560,11 +4698,15 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אם
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N330)
+
 ### N331 — Không quan hệ tính dục với vợ của cha mình
 
 **English:** Not to have intimate relations with one's father's wife.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אשת אב
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N331)
 
 ### N332 — Không quan hệ tính dục với chị em gái mình
 
@@ -4572,23 +4714,31 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחות
 
-### N333 — Không quan hệ tính dục với chị em gái cùng cha hoặc cùng mẹ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N332)
+
+### N333 — Không quan hệ tính dục với chị em gái là con gái của vợ cha mình
 
 **English:** Not to have intimate relations with a sister, the daughter of either one's father or mother.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחות מן האב ומן האם
 
-### N334 — Không quan hệ tính dục với cháu gái gọi bằng ông nội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N333)
+
+### N334 — Không quan hệ tính dục với cháu gái nội
 
 **English:** Not to have intimate relations with one's son's daughter.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות בת הבן
 
-### N335 — Không quan hệ tính dục với cháu gái gọi bằng ông ngoại
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N334)
+
+### N335 — Không quan hệ tính dục với cháu gái ngoại
 
 **English:** Not to have intimate relations with one's daughter's daughter.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות בת הבת
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N335)
 
 ### N336 — Không quan hệ tính dục với con gái mình
 
@@ -4596,47 +4746,63 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגלות ערוות הבת; ולמה לא נתפרשה בתורה, מפני שאסר בת הבת שתק מן הבת, ומפי השמועה למדו שאיסור הבת מגופי תורה, כשאר עריות
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N336)
+
 ### N337 — Không quan hệ tính dục với một phụ nữ và con gái của bà
 
 **English:** Not to have intimate relations with a woman and her daughter.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אישה ובתה
 
-### N338 — Không quan hệ tính dục với một phụ nữ và cháu gái bên con trai của bà
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N337)
+
+### N338 — Không quan hệ tính dục với một phụ nữ và cháu gái nội của bà
 
 **English:** Not to have intimate relations with a woman and her son's daughter.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אישה ובת בנה
 
-### N339 — Không quan hệ tính dục với một phụ nữ và cháu gái bên con gái của bà
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N338)
+
+### N339 — Không quan hệ tính dục với một phụ nữ và cháu gái ngoại của bà
 
 **English:** Not to have intimate relations with a woman and her daughter's daughter.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אישה ובת בתה
 
-### N340 — Không quan hệ tính dục với chị em gái của cha
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N339)
+
+### N340 — Không quan hệ tính dục với cô ruột
 
 **English:** Not to have intimate relations with one's father's sister.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחות האב
 
-### N341 — Không quan hệ tính dục với chị em gái của mẹ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N340)
+
+### N341 — Không quan hệ tính dục với dì ruột
 
 **English:** Not to have intimate relations with one's mother's sister.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחות האם
 
-### N342 — Không quan hệ tính dục với vợ của chú hoặc bác bên nội
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N341)
+
+### N342 — Không quan hệ tính dục với vợ của chú bác bên nội
 
 **English:** Not to have intimate relations with the wife of one's father's brother.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אשת אחי האב
 
-### N343 — Không quan hệ tính dục với vợ của con trai
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N342)
+
+### N343 — Không quan hệ tính dục với con dâu
 
 **English:** Not to have intimate relations with one's son's wife.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אשת הבן
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N343)
 
 ### N344 — Không quan hệ tính dục với vợ của anh em trai
 
@@ -4644,17 +4810,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אשת אח
 
-### N345 — Không quan hệ tính dục với chị em gái của vợ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N344)
+
+### N345 — Không quan hệ tính dục với chị em gái của vợ khi vợ còn sống
 
 **English:** Not to have intimate relations with one's wife's sister.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחות אישה
 
-### N346 — Không quan hệ tính dục với phụ nữ đang trong trạng thái [niddah](../glossary#niddah)
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N345)
+
+### N346 — Không quan hệ tính dục với phụ nữ đang trong thời kỳ [niddah](../glossary#niddah)
 
 **English:** Not to have intimate relations with a woman in the niddah state.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות נידה
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N346)
 
 ### N347 — Không quan hệ tính dục với phụ nữ đã có chồng
 
@@ -4662,95 +4834,127 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אשת איש
 
-### N348 — Nam giới không thực hiện hành vi tính dục với động vật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N347)
+
+### N348 — Nam giới không quan hệ tính dục với động vật
 
 **English:** Not to perform a sexual act with an animal.
 
 **Hebrew (Maimonides):** שלא לשכב עם בהמה
 
-### N349 — Phụ nữ không thực hiện hành vi tính dục với động vật
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N348)
+
+### N349 — Phụ nữ không quan hệ tính dục với động vật
 
 **English:** For a woman not to perform a sexual act with an animal.
 
 **Hebrew (Maimonides):** שלא תביא אישה בהמה עליה
 
-### N350 — Không giao hợp hậu môn giữa nam giới
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N349)
+
+### N350 — Nam giới không giao hợp với nam giới
 
 **English:** Not to commit sodomy.
 
 **Hebrew (Maimonides):** שלא לשכב עם זכר
 
-### N351 — Không giao hợp hậu môn với cha mình
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N350)
+
+### N351 — Không quan hệ tính dục với chính cha mình
 
 **English:** Not to commit sodomy with one's father.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות האב עצמו
 
-### N352 — Không giao hợp hậu môn với anh em trai của cha
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N351)
+
+### N352 — Không quan hệ tính dục với chú bác bên nội
 
 **English:** Not to commit sodomy with one's father's brother.
 
 **Hebrew (Maimonides):** שלא לגלות ערוות אחי האב עצמו
 
-### N353 — Không thân mật theo cách có thể dẫn đến giao hợp với người bị cấm quan hệ
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N352)
+
+### N353 — Không thân mật với người bị cấm theo cách có thể dẫn đến quan hệ tính dục
 
 **English:** Not to be intimate with a woman with whom sexual relations are forbidden in matters that might lead to intercourse - e.g., embracing, kissing, winks, or signs -.
 
 **Hebrew (Maimonides):** שלא ליקרב לעריות בדברים המביאין לידי גילוי ערווה, כגון חיבוק ונישוק ורמיזה וקפיצה
 
-### N354 — [Mamzer](../glossary#mamzer) không kết hôn với phụ nữ Do Thái sinh ra trong cộng đồng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N353)
+
+### N354 — [Mamzer](../glossary#mamzer) không kết hôn với người Israel
 
 **English:** For a mamzer not to marry a natural born Jewess.
 
 **Hebrew (Maimonides):** שלא יישא ממזר בת ישראל
 
-### N355 — Không để có [kedeishah](../glossary#kedeishah) trong dân Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N354)
+
+### N355 — Không để có [kedeishah](../glossary#kedeishah) trong dân Israel
 
 **English:** For there not to be a kedeishah - i.e., a woman who engages in intimate relations without a marriage contract and a marriage ceremony - [among the Jewish people].
 
 **Hebrew (Maimonides):** שלא תהיה קדשה, והיא הנבעלת בלא כתובה וקידושין
 
-### N356 — Người đàn ông không tái hôn với vợ cũ sau khi nàng đã kết hôn với người khác
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N355)
+
+### N356 — Không cưới lại vợ cũ sau khi nàng đã kết hôn với người khác
 
 **English:** For a man who is divorced not to remarry his divorcee after she marries anyone else.
 
 **Hebrew (Maimonides):** שלא יחזיר המגרש גרושתו אחר שנישאת לאחר
 
-### N357 — [Yevamah](../glossary#yibbum-yavam-yevamah-and-halitzah) không kết hôn với ai khác ngoài [yavam](../glossary#yibbum-yavam-yevamah-and-halitzah) của mình
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N356)
+
+### N357 — [Yevamah](../glossary#yibbum-yavam-yevamah-and-halitzah) không kết hôn với người khác ngoài [yavam](../glossary#yibbum-yavam-yevamah-and-halitzah) của mình
 
 **English:** For a yevamah not to marry anyone other than her yavam.
 
 **Hebrew (Maimonides):** שלא תינשא היבמה לאחר חוץ מיבמה
 
-### N358 — Kẻ cưỡng hiếp không được ly hôn người phụ nữ mình đã cưỡng hiếp
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N357)
+
+### N358 — Kẻ cưỡng hiếp đã cưới nạn nhân không được ly dị nàng
 
 **English:** For a rapist not to divorce the woman he raped.
 
 **Hebrew (Maimonides):** שלא יגרש האונס אנוסתו
 
-### N359 — Người vu khống phẩm hạnh của vợ không được ly hôn nàng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N358)
+
+### N359 — Người vu khống vợ không được ly dị nàng
 
 **English:** For a person who defamed his wife's character not to divorce her.
 
 **Hebrew (Maimonides):** שלא יגרש מוציא שם רע את אשתו
 
-### N360 — Người đàn ông mất khả năng sinh sản không kết hôn với phụ nữ Do Thái sinh ra trong cộng đồng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N359)
+
+### N360 — Người đàn ông bị thương tổn cơ quan sinh sản không kết hôn với người Israel
 
 **English:** For a man incapable of procreation not to marry a natural born Jewess.
 
 **Hebrew (Maimonides):** שלא ייקח סריס בת ישראל
 
-### N361 — Không thiến con đực thuộc bất kỳ loài nào
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N360)
+
+### N361 — Không thiến con đực của bất kỳ loài nào
 
 **English:** Not to castrate a male from any species - neither a human, a domestic animal, a wild beast, nor a bird.
 
 **Hebrew (Maimonides):** שלא לסרס זכר מכל המינין, לא אדם ולא בהמה חיה ועוף
 
-### N362 — Không bổ nhiệm người cải đạo cai trị dân Do Thái
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N361)
+
+### N362 — Không lập người cải đạo làm vua cai trị Israel
 
 **English:** Not to appoint a convert [to a position of authority] over the Jewish people.
 
 **Hebrew (Maimonides):** שלא למנות על ישראל איש מקהל גרים
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N362)
 
 ### N363 — Vua không tích lũy nhiều ngựa
 
@@ -4758,17 +4962,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 **Hebrew (Maimonides):** שלא ירבה המלך סוסים
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N363)
+
 ### N364 — Vua không có quá nhiều vợ
 
 **English:** For a king not to accumulate many wives.
 
 **Hebrew (Maimonides):** שלא ירבה המלך נשים
 
-### N365 — Vua không tích lũy quá nhiều bạc vàng
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N364)
+
+### N365 — Vua không tích lũy quá nhiều vàng bạc
 
 **English:** For a king not to accumulate much silver and gold.
 
 **Hebrew (Maimonides):** שלא ירבה לו המלך כסף וזהב
+
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./N365)
 
 ---
 

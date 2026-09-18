@@ -65,6 +65,7 @@ Một thuật ngữ phải có mục glossary nếu nó là thiết chế, nghi 
 - English và Hebrew khớp `index.md`.
 - Đủ các mục bắt buộc và ba tầng nguồn.
 - Điều hướng không đứt.
+- Không còn mã mẫu chưa render (ví dụ `{G('ger','ger')}` hay `{'[N1](./N1)'}`) do sinh trang bằng script.
 - Audit không còn lỗi và Quartz build thành công.
 
 ## Trình tự dự án hiện tại
@@ -72,6 +73,6 @@ Một thuật ngữ phải có mục glossary nếu nó là thiết chế, nghi 
 1. Chuẩn hóa P161–P190.
 2. Audit và sửa toàn bộ P1–P190 theo tiêu chuẩn này.
 3. P1–P248 đã vượt audit; toàn bộ các điều răn tích cực đã được biên soạn.
-4. Nhóm điều cấm: N1–N260 đã được biên soạn và vượt audit. Các trang N theo cùng cấu trúc bắt buộc, có thêm mục **Đối chiếu lỗi thường gặp** và dung lượng lớn hơn các trang P.
+4. Nhóm điều cấm: N1–N365 đã được biên soạn và vượt audit; toàn bộ 613 điều răn đã có trang chi tiết. Các trang N theo cùng cấu trúc bắt buộc, có thêm mục **Đối chiếu lỗi thường gặp** và dung lượng lớn hơn các trang P.
 5. Script `audit_commandments.py` nhận cả `P<số>` lẫn `N<số>`; `--start` và `--end` phải cùng loại. Mỗi lần chạy `--report` ghi đè `AUDIT-REPORT.md` cho đúng một khoảng, nên cần chạy lại cho khoảng muốn lưu.
-6. Tiếp tục biên soạn theo từng nhóm kế tiếp và mở rộng phạm vi audit sau mỗi nhóm.
+6. Việc tiếp theo là rà soát: chạy audit cho cả P1–P248 và N1–N365 sau mỗi lần sửa, kiểm tra lại các tài liệu tham khảo hiện đại (ghi từ trí nhớ, chưa đối chiếu bằng tìm kiếm), và chạy Quartz build.
