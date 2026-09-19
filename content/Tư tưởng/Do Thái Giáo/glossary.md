@@ -9,7 +9,7 @@ tags:
 
 # Bảng thuật ngữ Do Thái giáo
 
-Bảng này giải thích các từ và khái niệm xuất hiện trong bài [613 điều răn](./613-commandments). Mục tiêu không chỉ là chuyển tự tiếng Hebrew, mà còn chỉ ra những chỗ một từ tiếng Việt quen thuộc có thể khiến người đọc liên tưởng sai sang cơ cấu tôn giáo hoặc văn hóa Việt Nam.
+Bảng này giải thích các từ và khái niệm xuất hiện trong bài [613 điều răn](./613-commandments) và các bài [[Tìm hiểu tư tưởng|Tìm hiểu tư tưởng Do Thái]] và [[Tư tưởng|Tư tưởng Do Thái giáo]]. Các nhóm mục về bối cảnh Cận Đông cổ đại, thần linh, hiện vật khảo cổ và học giả hiện đại chủ yếu phục vụ hai bài sau. Mục tiêu không chỉ là chuyển tự tiếng Hebrew, mà còn chỉ ra những chỗ một từ tiếng Việt quen thuộc có thể khiến người đọc liên tưởng sai sang cơ cấu tôn giáo hoặc văn hóa Việt Nam.
 
 ## Cách đọc bảng thuật ngữ
 
@@ -1866,6 +1866,106 @@ Tên hai vua Judea thuộc dòng Herod, có tổ tiên là người Edom, thế 
 
 Tướng La Mã, về sau là hoàng đế (79–81 CN), chỉ huy cuộc vây hãm và phá hủy Jerusalem cùng Đền Thờ thứ Hai năm 70. Khải hoàn môn Titus ở Rome khắc cảnh lính La Mã mang cây đèn *menorah* và các vật thánh khác.
 
+<a id="deborah-jephthah"></a>
+### Deborah và Jephthah — דְּבוֹרָה / יִפְתָּח
+
+Hai “thủ lãnh” (*shofetim*) trong sách Thẩm Phán, thời trước khi Israel có vua. Deborah là nữ ngôn sứ và thủ lãnh; bài ca mang tên bà (Thẩm Phán 5) được nhiều học giả xếp vào số những văn bản cổ nhất của Kinh Thánh, kể việc các chi tộc tập hợp dưới danh YHWH để chống các vua Canaan. Jephthah là thủ lãnh ở vùng Gilead, bên kia sông Jordan; trong cuộc thương thuyết với vua Ammon, ông nói “Chemosh, thần của ngươi” ban đất cho Ammon cũng như YHWH ban đất cho Israel (Thẩm Phán 11:24), và ông nổi tiếng bi thảm vì lời khấn dẫn đến việc hiến tế chính con gái mình.
+
+<a id="nathan"></a>
+### Nathan — נָתָן
+
+Ngôn sứ ở triều đình vua David. Sau khi David lấy Bathsheba và sắp đặt cho chồng bà là Uriah tử trận, Nathan kể dụ ngôn người giàu cướp con chiên duy nhất của người nghèo, rồi nói thẳng với nhà vua: “Người đó chính là ngài” (2 Samuel 12). Đây là hình mẫu sớm của ngôn sứ phê phán vua.
+
+<a id="jeroboam"></a>
+### Jeroboam I — יָרָבְעָם
+
+Vua đầu tiên của vương quốc Israel phương bắc sau khi các chi tộc phía bắc tách khỏi dòng David (khoảng cuối thế kỷ X TCN). Để dân không phải hành hương về Jerusalem, ông dựng hai tượng bò con bằng vàng ở hai đền hoàng gia Bethel và Dan (1 Các Vua 12:26–33). Các sách Các Vua dùng cụm từ “tội của Jeroboam” làm điệp khúc để phán xét mọi vua phương bắc về sau. Nhiều học giả cho rằng tượng bò ban đầu là bệ ngai của YHWH vô hình, không phải tượng một thần khác.
+
+<a id="omri-dynasty"></a>
+### Omri, Ahab và Jezebel — עָמְרִי / אַחְאָב / אִיזֶבֶל
+
+Vương triều hùng mạnh nhất của Israel phương bắc (khoảng 885–841 TCN). **Omri** lập kinh đô Samaria; các văn bản Assyria hơn một thế kỷ sau vẫn gọi Israel là “nhà Omri”. Con ông là **Ahab** (trị vì khoảng 874–853 TCN) góp 2.000 chiến xa vào trận Qarqar. **Jezebel**, vợ Ahab, là công chúa Phoenicia, con của Ethbaal — Kinh Thánh gọi ông là “vua người Sidon” (1 Các Vua 16:31), còn Josephus xác định là vua Tyre; bà bảo trợ việc thờ Baal của Tyre (có lẽ là thần Melqart) tại Samaria và đối đầu với ngôn sứ Elijah. Kinh Thánh mô tả vương triều này rất tiêu cực, nhưng khảo cổ cho thấy đây là thời kỳ thịnh vượng và quyền lực nhất của Israel. Xem thêm [Ahab và Naboth](#ahab-naboth).
+
+<a id="jehu"></a>
+### Jehu — יֵהוּא
+
+Tướng quân của Israel phương bắc, lên ngôi bằng một cuộc đảo chính đẫm máu khoảng năm 841 TCN với sự ủng hộ của nhóm ngôn sứ quanh Elisha. Ông giết vua Joram, hoàng thái hậu Jezebel, toàn bộ hậu duệ Ahab, rồi lừa tập hợp và tàn sát những người thờ Baal ở Samaria (2 Các Vua 9–10). Trên **Bia đá đen của Shalmaneser III** (nay ở British Museum), Jehu — hoặc sứ giả của ông — được khắc đang phủ phục nộp cống cho vua Assyria: đây là hình ảnh duy nhất còn lại của một vua Israel hay Judah.
+
+<a id="ahaz-manasseh"></a>
+### Ahaz và Manasseh — אָחָז / מְנַשֶּׁה
+
+Hai vua Judah bị các sách Các Vua đánh giá rất tiêu cực. **Ahaz** (khoảng 735–715 TCN), cha của Hezekiah, khi bị liên minh Aram–Israel tấn công đã cầu cứu vua Assyria Tiglath-Pileser III, đổi lại Judah trở thành chư hầu; ông cho làm một bàn thờ mới trong Đền Thờ theo mẫu bàn thờ ở Damascus (2 Các Vua 16). **Manasseh** (khoảng 697–642 TCN), con của Hezekiah, trị vì lâu nhất trong các vua Judah; ông là chư hầu trung thành của Assyria (tên ông có trong văn bản của Esarhaddon và Ashurbanipal) và phục hồi các nơi thờ trên cao, bàn thờ Baal và tượng Asherah mà cha ông đã dẹp. 2 Các Vua 21–24 coi tội của Manasseh là nguyên nhân khiến Jerusalem bị phá hủy.
+
+<a id="zedekiah"></a>
+### Zedekiah — צִדְקִיָּהוּ
+
+Vua cuối cùng của Judah (597–586 TCN), được vua Babylon Nebuchadnezzar đặt lên ngôi sau đợt lưu đày thứ nhất (bản Công giáo viết Xítkigia). Ông nổi dậy với hy vọng Ai Cập trợ giúp; Jerusalem bị vây và phá hủy, các con ông bị giết trước mặt ông, rồi ông bị móc mắt và giải về Babylon (2 Các Vua 25). Trong cuộc vây hãm, ông ra lệnh giải phóng tôi tớ Hebrew theo luật Torah rồi lại cho bắt họ về (Giêrêmia 34).
+
+<a id="mesha"></a>
+### Mesha — מֵישַׁע
+
+Vua Moab vào thế kỷ IX TCN. Theo 2 Các Vua 3, ông nộp cống cho Israel rồi nổi dậy sau khi Ahab chết. Ông để lại **Bia Mesha**, kể lại cùng cuộc chiến từ phía Moab. Xem [Bia Mesha](#mesha-stele).
+
+<a id="assyrian-kings"></a>
+### Tiglath-Pileser III, Shalmaneser III, Esarhaddon và Ashurbanipal
+
+Các vua của Đế quốc Tân Assyria. **Shalmaneser III** (859–824 TCN) đánh liên minh các vua Levant ở Qarqar và nhận cống của Jehu. **Tiglath-Pileser III** (745–727 TCN; Kinh Thánh còn gọi là Pul) biến Assyria thành một đế quốc thực thụ: quân đội thường trực, sáp nhập các nước nhỏ thành tỉnh, và chính sách **di dân cưỡng bức** hàng loạt; Israel và Judah trở thành chư hầu dưới thời ông. **Esarhaddon** (681–669 TCN), con của Sennacherib, chinh phục Ai Cập và năm 672 TCN buộc các chư hầu thề trung thành với thái tử Ashurbanipal bằng một hiệp ước nổi tiếng. **Ashurbanipal** (669–khoảng 631 TCN) là vị vua lớn cuối cùng; thư viện của ông ở Nineveh bảo tồn phần lớn văn học Lưỡng Hà mà ta biết ngày nay, kể cả sử thi Gilgamesh. Xem thêm [Sennacherib](#sennacherib) và [hiệp ước chư hầu](#vassal-treaties).
+
+<a id="nebuchadnezzar"></a>
+### Nebuchadnezzar II — נְבוּכַדְנֶאצַּר
+
+Vua Đế quốc Tân Babylon (605–562 TCN; bản Công giáo viết Nabucôđônôxo). Năm 605 TCN ông đánh bại Ai Cập ở Carchemish và giành quyền kiểm soát Levant. Ông lưu đày vua Jehoiachin cùng giới lãnh đạo Judah năm 597 TCN, rồi phá hủy Jerusalem và Đền Thờ năm 587/586 TCN sau cuộc nổi dậy của Zedekiah.
+
+<a id="necho"></a>
+### Necho II — נְכוֹ
+
+Pharaoh Ai Cập thuộc vương triều XXVI (610–595 TCN). Năm 609 TCN, ông kéo quân lên phía bắc để cứu viện tàn quân Assyria chống Babylon; vua Josiah của Judah chặn đường ông ở Megiddo và tử trận (2 Các Vua 23:29). Sau đó Necho đặt vua chư hầu ở Jerusalem, cho đến khi bị Babylon đánh bại ở Carchemish năm 605 TCN.
+
+<a id="akhenaten"></a>
+### Akhenaten và thần Aten
+
+Pharaoh vương triều XVIII (trị vì khoảng 1353–1336 TCN), ban đầu mang tên Amenhotep IV. Ông đưa việc thờ **Aten** — đĩa mặt trời — lên vị trí độc tôn, đóng cửa hoặc bỏ bê đền thờ các thần khác, xóa tên thần Amun trên các công trình, và dời kinh đô đến thành mới Akhetaten (nay là Amarna). Sau khi ông mất, cải cách bị đảo ngược và tên ông bị xóa khỏi danh sách vua. Các **thư Amarna** tìm thấy tại kinh đô này gồm thư từ của các vua thành bang Canaan gửi pharaoh, là nguồn quan trọng về Canaan trước khi Israel xuất hiện. Không có bằng chứng trực tiếp nào nối cải cách của Akhenaten với tôn giáo Israel.
+
+<a id="cyrus"></a>
+### Cyrus Đại đế — כּוֹרֶשׁ
+
+Cyrus II (trị vì khoảng 559–530 TCN), người sáng lập Đế quốc Ba Tư Achaemenid (bản Công giáo viết Kyrô). Năm 539 TCN ông chiếm Babylon gần như không đổ máu. **Trụ Cyrus** — một ống đất sét khắc chữ Akkadian, nay ở British Museum — trình bày ông như người được thần Marduk chọn, đã trả tượng thần về đền và cho các dân bị lưu đày trở về quê. Sách Ezra 1 ghi một chiếu chỉ cho phép người Judah trở về xây lại Đền Thờ; Isaia 45:1 gọi ông là “người được xức dầu” của YHWH — người ngoại duy nhất trong Kinh Thánh Hebrew được gọi như vậy.
+
+<a id="artaxerxes"></a>
+### Artaxerxes — אַרְתַּחְשַׁסְתְּא
+
+Tên của ba vua Ba Tư Achaemenid. Nehemiah là quan dâng rượu của **Artaxerxes I** (465–424 TCN) trước khi được cử làm tổng đốc Judah (năm 445 TCN). Ezra 7 kể Ezra được cử đến Jerusalem vào “năm thứ bảy của vua Artaxerxes”, nhưng không rõ là Artaxerxes I (tức năm 458 TCN) hay Artaxerxes II (tức năm 398 TCN); vì vậy thứ tự Ezra–Nehemiah vẫn còn tranh luận.
+
+<a id="alexander-successors"></a>
+### Alexander Đại đế, nhà Ptolemy và nhà Seleucid
+
+**Alexander** xứ Macedonia (356–323 TCN) chinh phục toàn bộ Đế quốc Ba Tư trong khoảng 334–323 TCN, kể cả vùng Levant năm 332 TCN. Sau khi ông mất, các tướng lĩnh chia nhau đế quốc. **Nhà Ptolemy** cai trị Ai Cập từ Alexandria và kiểm soát Judea trong khoảng một thế kỷ; **nhà Seleucid** cai trị Syria và Lưỡng Hà từ Antioch, giành lấy Judea khoảng năm 200 TCN. Người Do Thái sống dưới cả hai vương triều, và cộng đồng Alexandria trở thành trung tâm Do Thái lớn nhất nói tiếng Hy Lạp.
+
+<a id="antiochus-iv"></a>
+### Antiochus IV Epiphanes — אַנְטִיוֹכוּס
+
+Vua Seleucid (175–164 TCN). Danh hiệu *Epiphanes* nghĩa là “(thần) hiển hiện”; những người chống ông chế thành *Epimanes*, “kẻ điên”. Ông bán chức Thượng tế cho người trả giá cao nhất, cướp kho Đền Thờ, và năm 167 TCN ban hành các sắc lệnh cấm giữ Shabbat, cắt bì và đọc Torah, đặt việc thờ Zeus Olympios trong Đền Thờ. Sách Đanien gọi vật thờ ấy là “sự ghê tởm gây hoang tàn”. Nguyên nhân của các sắc lệnh — tham vọng Hy Lạp hóa, nhu cầu tài chính, hay phản ứng trước nội chiến giữa các phe tư tế ở Jerusalem — vẫn còn tranh luận.
+
+<a id="maccabees-hasmoneans"></a>
+### Mattathias, Judah Maccabee và nhà Hasmonean — חַשְׁמוֹנָאִים
+
+**Mattathias**, một tư tế ở làng Modein, khởi xướng cuộc nổi dậy chống các sắc lệnh của Antiochus IV năm 167 TCN. Con ông là **Judah**, biệt danh *Maccabee* (có lẽ nghĩa là “cái búa”; viết theo lối Việt là Maccabê), lãnh đạo chiến tranh du kích và giành lại Đền Thờ năm 164 TCN. Các anh em ông là Jonathan và Simon lần lượt kế tục; khoảng năm 140 TCN Simon được tôn làm Thượng tế và lãnh tụ, mở đầu nhà nước độc lập. Vương triều được gọi là **Hasmonean** theo tên một tổ tiên, Hashmonai. **John Hyrcanus I** (134–104 TCN) mở rộng lãnh thổ, chinh phục Idumea và Samaria; các con cháu ông xưng vương. Cuộc nội chiến giữa hai anh em Hyrcanus II và Aristobulus II mở đường cho La Mã can thiệp năm 63 TCN. Xem [Hanukkah](#hanukkah).
+
+<a id="pompey"></a>
+### Pompey — פּוֹמְפֵּיוּס
+
+Gnaeus Pompeius Magnus (106–48 TCN), tướng và chính khách La Mã. Năm 63 TCN, được mời can thiệp vào cuộc nội chiến Hasmonean, ông vây và chiếm Jerusalem, rồi bước vào Nơi Cực Thánh của Đền Thờ, dù không lấy đồ vật thánh. Từ đó Judea trở thành nước lệ thuộc La Mã, về sau dưới quyền vua Herod.
+
+<a id="josephus"></a>
+### Flavius Josephus — יוֹסֵף בֶּן מַתִּתְיָהוּ
+
+Sử gia Do Thái (37–khoảng 100 CN), xuất thân gia đình tư tế ở Jerusalem. Trong cuộc khởi nghĩa chống La Mã năm 66, ông chỉ huy quân Do Thái ở Galilee, đầu hàng tướng Vespasian, rồi sống ở Rome dưới sự bảo trợ của hoàng gia Flavian. Các tác phẩm *Chiến tranh Do Thái*, *Cổ sử Do Thái* và *Chống Apion* là nguồn chính về thời Đền Thờ thứ Hai, nhưng cần đọc với ý thức rằng ông viết cho độc giả La Mã và bảo vệ chính mình.
+
+<a id="eighth-century-prophets"></a>
+### Amos, Hosea và Micah — עָמוֹס / הוֹשֵׁעַ / מִיכָה
+
+Ba ngôn sứ thế kỷ VIII TCN, cùng thời với Isaiah, có sách mang tên họ trong nhóm “Mười Hai Ngôn sứ” (bản Công giáo viết Amốt, Hôsê, Mikha). **Amos**, một người chăn nuôi từ Tekoa ở Judah, lên phía bắc tố cáo giới giàu có ở Samaria bóc lột người nghèo và tuyên bố vương quốc Israel sẽ sụp đổ. **Hosea**, người phương bắc, dùng hình ảnh hôn nhân bị phản bội để nói về việc Israel chạy theo Baal. **Micah**, một người làng Moresheth ở Judah, lên án các địa chủ chiếm ruộng và tuyên bố cả Jerusalem sẽ thành đống đổ nát. Xem thêm [Isaiah, Jeremiah…](#prophets).
+
 ## Địa danh, dân tộc và nhóm tôn giáo
 
 <a id="sinai"></a>
@@ -1886,7 +1986,7 @@ Các dân láng giềng của Israel cổ: Moab và Ammon ở phía đông sông
 <a id="mesopotamia"></a>
 ### Babylon, Assyria và Media — בָּבֶל / אַשּׁוּר / מָדַי
 
-Các đế quốc ở Lưỡng Hà và Iran cổ. Assyria hủy diệt vương quốc phía bắc Israel (722 TCN); Babylon phá hủy Jerusalem và Đền Thờ thứ nhất (586 TCN); Media là vùng tây bắc Iran. Từ thời lưu đày, Babylon trở thành trung tâm lớn của đời sống Do Thái, nơi Talmud Babylon được hình thành.
+Các đế quốc ở Lưỡng Hà và Iran cổ. Assyria hủy diệt vương quốc phía bắc Israel (722 TCN); Babylon phá hủy Jerusalem và Đền Thờ thứ nhất (586 TCN); Media là vùng tây bắc Iran. Từ thời lưu đày, Babylon trở thành trung tâm lớn của đời sống Do Thái, nơi Talmud Babylon được hình thành. Xem chi tiết hơn ở [Đế quốc Tân Assyria và Đế quốc Tân Babylon](#assyria-babylon).
 
 <a id="jordan"></a>
 ### Jordan — יַרְדֵּן
@@ -1958,6 +2058,327 @@ Các nhóm tôn giáo thời Đền Thờ thứ Hai. Người Pharisee chấp nh
 
 *Ashkenaz* là tên trung đại của vùng đất Đức; người Do Thái Ashkenazi là cộng đồng có gốc từ Trung và Đông Âu, khác với người Sephardi có gốc từ bán đảo Iberia. Hai nhóm có một số tập quán khác nhau.
 
+<a id="levant"></a>
+### Cận Đông cổ đại, Levant và Nam Levant
+
+**Cận Đông cổ đại** (*Ancient Near East*) là tên gọi chung các nền văn minh cổ ở Ai Cập, Levant, Anatolia (Thổ Nhĩ Kỳ ngày nay), Lưỡng Hà và Iran, từ khi có chữ viết (khoảng 3000 TCN) đến cuộc chinh phục của Alexander (thế kỷ IV TCN). **Levant** là dải đất ven bờ đông Địa Trung Hải, gồm Syria, Lebanon, Israel, Palestine và Jordan ngày nay. **Nam Levant** là phần phía nam của dải đất ấy, đại khái trùng với vùng Canaan của Kinh Thánh.
+
+<a id="israel-judah-kingdoms"></a>
+### Vương quốc Israel và vương quốc Judah — יִשְׂרָאֵל / יְהוּדָה
+
+Theo Kinh Thánh, sau khi Solomon chết (khoảng cuối thế kỷ X TCN), vương quốc của David chia làm hai. **Israel** ở phía bắc gồm phần lớn các chi tộc, đông dân và giàu hơn, kinh đô cuối cùng là Samaria; bị Assyria xóa sổ năm 722/720 TCN. **Judah** ở phía nam, nhỏ và nghèo hơn, giữ kinh đô Jerusalem và dòng vua David; bị Babylon phá hủy năm 586 TCN.
+
+Tên gọi thay đổi theo thời gian: Judah (Hebrew *Yehudah*) trở thành tỉnh **Yehud** dưới Ba Tư, rồi **Judea** (*Ioudaia*) trong tiếng Hy Lạp và La-tinh. Người thuộc Judah là *Yehudi*, chữ về sau được dịch là “người Do Thái”. Vì vậy, trước lưu đày, “người Israel” và “người Judah” là hai nhóm chính trị khác nhau; sau lưu đày, “Israel” trở thành tên tôn giáo của cả cộng đồng, còn “người Judea/người Do Thái” là tên gọi phổ biến với người ngoài. Xem thêm [Israel](#israel).
+
+<a id="samaria-bethel-dan"></a>
+### Samaria, Bethel và Dan — שֹׁמְרוֹן / בֵּית אֵל / דָּן
+
+**Samaria** là kinh đô của vương quốc Israel phương bắc do vua Omri xây, đồng thời là tên của cả vùng đồi trung tâm quanh đó. **Bethel** (“nhà của El”) ở biên giới phía nam và **Dan** ở cực bắc là hai đền thờ hoàng gia nơi vua Jeroboam I đặt tượng bò con bằng vàng. Bethel còn là nơi gắn với giấc mơ chiếc thang của Jacob (Sáng Thế 28); vua Josiah của Judah đã phá bàn thờ ở đây (2 Các Vua 23:15).
+
+<a id="megiddo-lachish-jezreel"></a>
+### Megiddo, Lachish và thung lũng Jezreel — מְגִדּוֹ / לָכִישׁ / יִזְרְעֶאל
+
+**Thung lũng Jezreel** là đồng bằng màu mỡ nhất ở miền bắc, cắt ngang vùng đồi và nối bờ biển với sông Jordan — nơi lý tưởng cho chiến xa. **Megiddo** là thành kiên cố canh giữ con đèo mà tuyến đường ven biển đi qua để vào thung lũng; vì vị trí ấy, nó chứng kiến nhiều trận chiến đến mức tên “Har Megiddo” về sau thành *Armageddon*, nơi trận chiến cuối cùng trong sách Khải Huyền. **Lachish** là thành lớn thứ hai của Judah, canh giữ lối từ đồng bằng lên Jerusalem; nó bị Sennacherib phá năm 701 TCN và bị Babylon phá năm 588/586 TCN.
+
+<a id="tyre-sidon"></a>
+### Tyre và Sidon — צֹר / צִידוֹן
+
+Hai thành cảng lớn của người Phoenicia trên bờ biển Lebanon ngày nay, giàu lên nhờ buôn bán đường biển khắp Địa Trung Hải, gỗ bá hương và thuốc nhuộm màu tím. Vua Hiram của Tyre cung cấp gỗ và thợ cho Solomon xây Đền Thờ; công chúa Jezebel, con vua Ethbaal (theo Josephus là vua Tyre), kết hôn với vua Ahab của Israel. Xem thêm [Phoenicia](#ancient-sites).
+
+<a id="assyria-babylon"></a>
+### Đế quốc Tân Assyria và Đế quốc Tân Babylon
+
+**Assyria** là vương quốc ở thượng lưu sông Tigris (bắc Iraq ngày nay), mang tên thần Ashur. Thời **Tân Assyria** (khoảng 911–609 TCN) nó trở thành đế quốc lớn nhất thế giới lúc bấy giờ, với các kinh đô Nimrud (Kalhu) rồi **Nineveh**; nó nổi tiếng về quân đội, kỹ thuật công thành, sự tàn bạo được tự hào ghi lại trong phù điêu, và chính sách di dân cưỡng bức. Nineveh bị liên quân Babylon và Media phá năm 612 TCN.
+
+**Babylon** là thành phố bên sông Euphrates (miền trung Iraq), từng là kinh đô của Hammurabi. **Đế quốc Tân Babylon** (626–539 TCN), cực thịnh dưới Nebuchadnezzar II, kế thừa phần lớn lãnh thổ Assyria ở phía tây; nó lưu đày giới lãnh đạo Judah nhưng để họ sống thành cộng đồng, nhờ vậy truyền thống được bảo tồn. Babylon rơi vào tay Cyrus năm 539 TCN. Xem thêm [Babylon, Assyria và Media](#mesopotamia).
+
+<a id="persian-empire"></a>
+### Đế quốc Ba Tư Achaemenid
+
+Đế quốc do Cyrus Đại đế lập (khoảng 550 TCN), đến thời cực thịnh trải từ Ai Cập và Hy Lạp đến Ấn Độ; bị Alexander Đại đế chinh phục năm 330 TCN. Các kinh đô gồm Pasargadae, Susa, Persepolis và Babylon. Đế quốc chia thành các tỉnh lớn (*satrapy*) do tổng trấn cai quản; Judah (Yehud) là một tỉnh nhỏ trong tỉnh lớn “Bên kia Sông” (*Abar-Nahara*, tức phía tây sông Euphrates). Tiếng Aramaic là ngôn ngữ hành chính chung. Chính sách của Ba Tư là để các dân bị trị giữ đền thờ, tư tế và luật lệ riêng, miễn là trung thành và nộp thuế.
+
+<a id="ancient-egypt"></a>
+### Ai Cập cổ đại — מִצְרַיִם
+
+Nền văn minh dọc sông Nile, với nhà nước thống nhất từ khoảng 3000 TCN. Thời **Tân Vương quốc** (khoảng 1550–1070 TCN), Ai Cập cai trị các thành bang Canaan qua các vua chư hầu; sau sự sụp đổ khoảng năm 1200 TCN, nó rút khỏi Canaan và không bao giờ lấy lại quyền lực cũ. Trong thời Israel và Judah, Ai Cập thường là đối trọng của Assyria và Babylon, hứa hẹn cứu viện các nước nhỏ nổi dậy — những lời hứa mà các ngôn sứ cảnh báo là không đáng tin. Memphis ở vùng châu thổ là một trong các kinh đô lâu đời nhất. Trong Kinh Thánh, Ai Cập vừa là “nhà nô lệ” vừa là nơi tị nạn.
+
+<a id="hittites"></a>
+### Người Hittite — חִתִּים
+
+Đế quốc ở Anatolia (khoảng 1650–1180 TCN), từng tranh giành Syria với Ai Cập (trận Kadesh năm 1274 TCN). Người Hittite để lại nhiều văn bản hiệp ước với các vua chư hầu, có cấu trúc thường được so sánh với giao ước trong Kinh Thánh. **Điểm cần tránh:** “người Hittite” trong danh sách bảy dân Canaan của Kinh Thánh (như Uriah người Hittite) nhiều khả năng là một nhóm nhỏ ở Canaan, không nhất thiết đồng nhất với đế quốc Anatolia.
+
+<a id="philistines"></a>
+### Người Philistine — פְּלִשְׁתִּים
+
+Một nhóm trong các “Dân Biển” đến từ vùng Aegea, định cư ở đồng bằng ven biển phía nam Canaan khoảng thế kỷ XII TCN, lập năm thành Gaza, Ashkelon, Ashdod, Ekron và Gath. Họ là đối thủ chính của Israel thời Saul và David (câu chuyện Goliath). Tên vùng “Palestine” bắt nguồn từ tên họ qua tiếng Hy Lạp và La-tinh.
+
+<a id="yehud-judea-idumea"></a>
+### Yehud, Judea và Idumea
+
+**Yehud** là tên tỉnh Judah dưới thời Ba Tư: một vùng nhỏ quanh Jerusalem, dân số ước tính chỉ vài chục nghìn người, do tổng đốc cai quản và có Đền Thờ thứ Hai làm trung tâm. **Judea** là tên Hy Lạp–La-tinh của cùng vùng ấy từ thời Hy Lạp hóa. **Idumea** là vùng phía nam Judea, nơi người Edom định cư sau khi Judah sụp đổ; John Hyrcanus I chinh phục vùng này cuối thế kỷ II TCN và buộc dân ở đó theo luật Do Thái. Vua Herod về sau có gốc gác Idumea. Xem thêm [Moab, Ammon, Edom](#neighbor-peoples).
+
+<a id="gerizim"></a>
+### Núi Gerizim — הַר גְּרִזִּים
+
+Ngọn núi cạnh Shechem (nay là Nablus). Phục Truyền 11 và 27 đặt lời chúc phúc trên núi này. Người Samaritan xây một đền thờ YHWH trên đỉnh núi, có lẽ từ thế kỷ V TCN, và coi đây — chứ không phải Jerusalem — là nơi Thiên Chúa chọn. John Hyrcanus I phá đền này khoảng năm 112–110 TCN, theo niên đại của tiền xu tìm thấy tại chỗ; Josephus kể một niên đại sớm hơn. Cộng đồng Samaritan nhỏ bé ngày nay vẫn cử hành lễ Vượt Qua với hiến tế chiên trên núi. Xem [người Samaritan](#samaritans).
+
+<a id="seir-teman-midian"></a>
+### Seir, Teman và Midian — שֵׂעִיר / תֵּימָן / מִדְיָן
+
+**Seir** là dãy núi ở xứ Edom, phía nam Biển Chết; **Teman** (“phương nam”) là một vùng của Edom, và cũng dùng để chỉ miền nam nói chung. **Midian** là vùng tây bắc bán đảo Arabia, phía đông vịnh Aqaba; theo Xuất Hành, Moses sống ở đó và cưới con gái Jethro, tư tế Midian. Một số bài thơ cổ nhất của Kinh Thánh nói YHWH “đến từ Seir”, “từ Teman” — cơ sở cho giả thuyết rằng YHWH có gốc gác ở miền nam.
+
+<a id="trade-routes"></a>
+### Đường ven biển và Đường vua
+
+Hai trục giao thông lớn xuyên qua Nam Levant. **Đường ven biển** (thường gọi bằng tên La-tinh muộn *Via Maris*) chạy dọc đồng bằng Địa Trung Hải từ Ai Cập lên, qua Megiddo và thung lũng Jezreel, rồi tới Damascus. **Đường vua** (*Derech HaMelech*, Dân Số 20:17) chạy ở phía đông sông Jordan, dọc cao nguyên từ vịnh Aqaba lên Damascus, nối với các tuyến buôn hương liệu từ Arabia. Ai kiểm soát hai con đường này sẽ thu được thuế và lợi ích thương mại lớn.
+
+<a id="qarqar"></a>
+### Trận Qarqar (853 TCN)
+
+Trận đánh bên sông Orontes ở Syria giữa vua Assyria Shalmaneser III và liên minh mười hai vua vùng Levant, dẫn đầu là vua Damascus. Theo **Bia Kurkh** của Assyria, “Ahab người Israel” góp 2.000 chiến xa — lực lượng chiến xa lớn nhất liên minh — và 10.000 bộ binh. Assyria tuyên bố chiến thắng, nhưng không tiến thêm được trong nhiều năm. Kinh Thánh không nhắc đến trận này; đây là lần đầu một vua Israel xuất hiện trong văn bản ngoại quốc có niên đại chắc chắn.
+
+<a id="siloam"></a>
+### Đường hầm Siloam — נִקְבַּת הַשִּׁלֹחַ
+
+Đường hầm dài khoảng 533 m đục xuyên đá dưới Thành David ở Jerusalem, dẫn nước từ suối Gihon bên ngoài tường thành vào hồ Siloam bên trong, thường được gắn với việc vua Hezekiah chuẩn bị chống vây hãm của Assyria (2 Các Vua 20:20). **Bản khắc Siloam** tìm thấy trong đường hầm kể lại khoảnh khắc hai toán thợ đục từ hai đầu gặp nhau.
+
+<a id="zion"></a>
+### Sion — צִיּוֹן
+
+Tên ban đầu của đồi pháo đài Jebus mà David chiếm và đặt làm kinh đô, về sau chỉ núi Đền Thờ, cả thành Jerusalem, và biểu tượng của dân Israel. **Thần học Sion** là niềm tin rằng YHWH ngự tại Sion và sẽ không để thành rơi vào tay kẻ thù; việc Jerusalem sống sót năm 701 TCN củng cố niềm tin này, và việc thành bị phá năm 586 TCN làm nó khủng hoảng. Xem [Jerusalem](#jerusalem).
+
+<a id="alexandria-leontopolis"></a>
+### Alexandria và Leontopolis
+
+**Alexandria** là thành do Alexander Đại đế lập ở châu thổ sông Nile năm 331 TCN, kinh đô nhà Ptolemy, nơi có cộng đồng Do Thái lớn nhất thời cổ nói tiếng Hy Lạp; bản dịch Kinh Thánh Hy Lạp (*Septuaginta*) và triết gia Philo xuất phát từ đây. **Leontopolis** là nơi ở Ai Cập mà một nhánh gia đình Thượng tế (Onias IV) xây một đền thờ YHWH vào thế kỷ II TCN; đền này hoạt động đến năm 73 CN — một ví dụ nữa cho thấy việc tập trung phụng tự tại Jerusalem chưa bao giờ tuyệt đối.
+
+<a id="essenes-karaites"></a>
+### Essene và Karaite
+
+**Người Essene** là một nhóm thời Đền Thờ thứ Hai được Josephus, Philo và Pliny mô tả là sống khổ hạnh, chia sẻ tài sản và giữ thanh sạch nghiêm ngặt; nhiều học giả gắn họ với cộng đồng để lại các bản thảo Qumran. **Người Karaite** là một phong trào xuất hiện muộn hơn nhiều (từ thế kỷ VIII–IX CN ở Babylon), chỉ chấp nhận Kinh Thánh thành văn và bác bỏ thẩm quyền của Torah truyền khẩu và Talmud. Xem [Pharisee và Sadducee](#second-temple-groups) và [Qumran](#qumran).
+
+## Thần linh và tôn giáo Cận Đông cổ đại
+
+Các mục dưới đây giải thích bối cảnh tôn giáo được dùng trong bài [[Tư tưởng|Tư tưởng Do Thái giáo]]. Chúng mô tả các tôn giáo ấy theo hiểu biết của giới sử học, không phải theo cách Kinh Thánh đánh giá chúng.
+
+<a id="monotheism-terms"></a>
+### Độc thần, đơn thần và độc quyền phụng tự
+
+- **Đa thần** (*polytheism*): thờ nhiều thần, mỗi thần có lĩnh vực riêng.
+- **Đơn thần** (*henotheism*): thừa nhận có nhiều thần nhưng tôn một thần lên trên hết, thường là thần của dân mình hay thành mình.
+- **Độc quyền phụng tự** (*monolatry*): chỉ **thờ** một thần, dù không nhất thiết phủ nhận các thần khác tồn tại. “Ngươi không được có thần nào khác trước mặt Ta” có thể đọc theo nghĩa này.
+- **Độc thần** (*monotheism*): khẳng định chỉ có **một** Thiên Chúa thực sự hiện hữu; các “thần” khác hoặc không có thật, hoặc chỉ là hữu thể thấp hơn. Những tuyên bố rõ nhất theo nghĩa này nằm ở Isaia 40–55.
+
+Nhiều học giả cho rằng tôn giáo Israel đi qua các giai đoạn trên theo thời gian, dù ranh giới giữa chúng không rõ ràng và các nhóm khác nhau có thể giữ các quan niệm khác nhau cùng một lúc.
+
+<a id="el-divine-council"></a>
+### El và hội đồng thần linh — אֵל
+
+**El** là tên thần tối cao trong tôn giáo Canaan: một vị thần già, khôn ngoan, “cha của các thần và loài người”, chủ tọa **hội đồng các thần** (các “con của El”). Trong tiếng Hebrew, *el* cũng là danh từ chung “thần”, và *Elohim* (dạng số nhiều) là tên thường dùng nhất cho Thiên Chúa trong Kinh Thánh. Nhiều tên riêng mang thành tố El: Israel, Bethel, Samuel, Elijah. Dấu vết của hội đồng thần linh còn lại trong Thánh Vịnh 82, Gióp 1–2 và Phục Truyền 32:8–9. Nhiều học giả cho rằng YHWH dần được đồng nhất với El và thu nhận các danh hiệu của El như “Đấng Tối Cao” (*Elyon*) và “Đấng Toàn Năng” (*Shaddai*).
+
+<a id="baal-anat"></a>
+### Baal và Anat — בַּעַל / עֲנָת
+
+*Baal* nghĩa đen là “chủ”, “chồng”, và là danh hiệu của **Hadad**, thần bão tố và mưa của vùng Syria–Canaan. Trong các văn bản Ugarit, Baal chiến thắng Yam (Biển cả) và Mot (Cái chết), rồi được tôn làm vua; khi Baal bị Mot nuốt, đất đai khô hạn; khi Baal sống lại, mưa trở về. Đối với nông dân sống nhờ mưa, Baal là thần của sự sống còn. Mỗi thành có “Baal” riêng của mình, như Baal của Tyre (có lẽ là Melqart). **Anat** là nữ thần chiến tranh hung bạo, em gái và đồng minh của Baal. Kinh Thánh gán nhiều hình ảnh của Baal cho YHWH — “Đấng cưỡi mây”, Đấng khuất phục biển cả — đồng thời tranh chấp gay gắt với việc thờ Baal. Xem thêm [Baal, Peor, Bel và Nebo](#peor-baal).
+
+<a id="national-gods"></a>
+### Chemosh, Milkom và Qaus
+
+Các thần quốc gia của những dân láng giềng Israel: **Chemosh** của Moab, **Milkom** của Ammon, **Qaus** của Edom. Mỗi thần gắn với một dân và một vương quốc, tương tự vị trí của YHWH ở Israel và Judah thời quân chủ. Kinh Thánh ghi vua Solomon xây nơi thờ Chemosh và Milkom gần Jerusalem cho các bà vợ ngoại quốc, và vua Josiah phá chúng đi (1 Các Vua 11:7; 2 Các Vua 23:13). Khi các vương quốc này biến mất, việc thờ các thần ấy cũng dần mai một.
+
+<a id="mesopotamian-gods"></a>
+### Ashur, Marduk và Shamash
+
+Các thần lớn của Lưỡng Hà. **Ashur** là thần của thành và đế quốc Assyria; vua Assyria tự coi mình là người đại diện của Ashur, và chiến tranh bành trướng là mở rộng quyền cai trị của thần. **Marduk** là thần bảo hộ Babylon; sử thi *Enuma Elish* kể Marduk đánh bại nữ thần biển hỗn mang Tiamat, tạo dựng thế giới từ xác bà và được tôn làm vua các thần. **Shamash** là thần mặt trời, thần của công lý; bia Luật Hammurabi khắc cảnh Shamash trao biểu tượng quyền lực cho nhà vua.
+
+<a id="zeus-olympios"></a>
+### Zeus Olympios
+
+Zeus, vua các thần Hy Lạp, với danh hiệu “ngự trên núi Olympus”. Năm 167 TCN, theo 2 Maccabê 6:2, Antiochus IV cho đổi tên Đền Thờ Jerusalem thành đền của Zeus Olympios. Một số học giả cho rằng người dân địa phương có thể đã đồng nhất vị thần này với “Chúa Trời” (*Baal Shamem*) của Syria, nên đối với phe ủng hộ Hy Lạp hóa, đó là một sự dung hợp chứ không phải một vị thần hoàn toàn xa lạ.
+
+<a id="zoroastrianism"></a>
+### Zoroaster và Ahura Mazda
+
+**Zoroaster** (*Zarathustra*) là nhà cải cách tôn giáo Iran, niên đại rất không chắc chắn (các ước tính trải từ khoảng 1500 đến 600 TCN). Tôn giáo gắn với tên ông đặt **Ahura Mazda** (“Chúa Khôn ngoan”) làm thần tối cao, đối lập với thế lực hủy diệt, và nói về phán xét sau khi chết. Các bản khắc của vua Darius I thường nhân danh Ahura Mazda. Ảnh hưởng của tư tưởng Iran lên Do Thái giáo — về thiên thần, ma quỷ, thế mạt và sự sống lại — là vấn đề tranh luận lâu dài trong giới nghiên cứu.
+
+<a id="yhwh-alone"></a>
+### Phong trào chỉ-YHWH
+
+Tên gọi (*YHWH-alone movement*) do học giả Morton Smith đưa ra năm 1971 để chỉ một nhóm thiểu số — gồm một số ngôn sứ, tư tế và quan chức — chủ trương Israel chỉ được thờ YHWH, trong khi đa số dân chúng và nhiều vua vẫn thờ YHWH cùng các thần khác. Theo giả thuyết này, phần lớn Kinh Thánh Hebrew được biên tập bởi những người kế thừa nhóm ấy, nên nó trình bày quan điểm của họ như chuẩn mực từ ban đầu.
+
+<a id="mosaic-distinction"></a>
+### Sự phân biệt Mosaic
+
+Khái niệm của nhà Ai Cập học Jan Assmann: sự phân biệt giữa **tôn giáo đúng** và **tôn giáo sai**, mà ông gắn với hình ảnh Moses. Theo Assmann, các tôn giáo đa thần có thể “dịch” thần của nhau (thần mặt trời Ai Cập tương ứng thần mặt trời Babylon), nên ít khi coi thần của người khác là giả. Độc thần kiểu Kinh Thánh — và trước đó, trong chốc lát, cải cách của Akhenaten — cắt đứt khả năng “dịch” ấy. Assmann gọi hệ quả tiêu cực của sự phân biệt này là “cái giá của độc thần”; nhiều học giả Do Thái và Kitô giáo đã phản bác rằng ông khái quát quá mức. Trong các bài viết về sau (khoảng năm 2015), chính Assmann cho biết ông không còn giữ lý thuyết này ở dạng ban đầu.
+
+<a id="shasu"></a>
+### Người Shasu — שָׁסוּ
+
+Từ Ai Cập chỉ các nhóm du mục chăn nuôi ở vùng Levant và bên kia sông Jordan thời Tân Vương quốc. Danh sách địa danh tại đền Soleb (thời Amenhotep III, thế kỷ XIV TCN) và Amara West (thời Ramesses II) nhắc “đất của người Shasu YHW”, có lẽ ở vùng Edom–Seir. Đây là dấu vết ngoài Kinh Thánh cổ nhất có thể liên quan đến danh xưng YHWH, dù cách đọc và vị trí vẫn còn tranh luận.
+
+<a id="bamot"></a>
+### Nơi thờ trên cao (*bamah*/*bamot*) — בָּמָה / בָּמוֹת
+
+Các nơi thờ tự địa phương, thường trên đồi hoặc ở cổng thành, có bàn thờ, trụ đá và đôi khi cột Asherah. Trước các cuộc cải cách của Hezekiah và Josiah, đây là nơi người dân dâng lễ vật cho YHWH (và các thần khác) mà không cần lên Jerusalem. Các sách Các Vua đánh giá ngay cả những vua “tốt” vì đã không dẹp các nơi thờ trên cao.
+
+<a id="teraphim-figurines"></a>
+### Teraphim và tượng trụ Judah — תְּרָפִים
+
+**Teraphim** là tượng thần gia đình, có thể liên quan đến tổ tiên, được dùng để cầu hỏi và bảo vệ nhà cửa. Rachel lấy trộm teraphim của cha mình là Laban (Sáng Thế 31); Michal, vợ David, đặt teraphim trên giường để đánh lừa người của Saul (1 Samuel 19). **Tượng trụ Judah** là hàng trăm tượng nhỏ bằng đất nung hình phụ nữ, thân trụ, hai tay đỡ ngực, tìm thấy trong nhà ở Judah thế kỷ VIII–VII TCN; nhiều học giả cho rằng chúng liên quan đến việc cầu mong sinh nở và nuôi con, có thể gắn với Asherah. Cả hai cho thấy tôn giáo gia đình khác xa tôn giáo chính thức mà các sách Kinh Thánh chủ trương.
+
+<a id="nehushtan"></a>
+### Nehushtan — נְחֻשְׁתָּן
+
+Con rắn bằng đồng mà theo Dân Số 21 Moses làm ra để những người bị rắn cắn nhìn vào mà được chữa lành. 2 Các Vua 18:4 kể rằng cho đến thời Hezekiah, người ta vẫn dâng hương cho nó trong Đền Thờ, và Hezekiah đã đập vỡ nó. Chi tiết này cho thấy cả một vật thờ được gán cho Moses cũng có thể bị loại bỏ khi cải cách tôn giáo đòi hỏi.
+
+## Văn bản cổ và hiện vật khảo cổ
+
+<a id="merneptah-stele"></a>
+### Bia Merneptah
+
+Bia đá khắc chữ tượng hình của pharaoh Merneptah (trị vì khoảng 1213–1203 TCN), con của Ramesses II, ca ngợi chiến thắng của ông ở Canaan, do Flinders Petrie tìm thấy ở Thebes năm 1896, nay ở Bảo tàng Ai Cập tại Cairo. Câu “Israel bị tàn phá, hạt giống của nó không còn” là lần đầu tiên tên Israel xuất hiện ngoài Kinh Thánh. Ký hiệu đi kèm cho thấy Israel lúc ấy được coi là một **dân**, không phải một thành hay một vương quốc.
+
+<a id="mesha-stele"></a>
+### Bia Mesha
+
+Bia đá bazan khắc chữ Moab khoảng năm 840 TCN, tìm thấy năm 1868 ở Dhiban (Jordan), nay ở Bảo tàng Louvre. Vua Mesha kể rằng Omri, vua Israel, đã áp bức Moab “vì Chemosh giận đất mình”, rồi Chemosh bảo Mesha đi chiếm lại đất; Mesha “hiến trọn” (*ḥrm*, cùng gốc với *cherem* trong Hebrew) dân thành Nebo cho thần, và lấy “các vật dụng của YHWH” đem đến trước Chemosh. Đây là một trong những bản khắc sớm nhất nhắc đến danh YHWH, và cho thấy láng giềng của Israel suy nghĩ về thần linh, chiến tranh và đất đai theo cùng một mô hình. Xem [cherem](#cherem).
+
+<a id="samaria-ostraca-lmlk"></a>
+### Mảnh gốm Samaria và quai vò *lmlk*
+
+**Mảnh gốm Samaria** là khoảng một trăm mảnh gốm viết mực tìm thấy trong cung điện Samaria, thế kỷ VIII TCN, ghi việc các làng nộp rượu và dầu ô liu cho triều đình. **Quai vò *lmlk*** là hàng nghìn quai vò chứa lớn ở Judah, đóng dấu chữ *lmlk* (“của vua”) cùng tên một trong bốn thành, thường được liên hệ với việc vua Hezekiah tích trữ lương thực trước chiến tranh với Assyria. Cả hai là bằng chứng về kinh tế thuế khóa và kho dự trữ của nhà nước.
+
+<a id="sennacherib-prism-lachish"></a>
+### Lăng trụ Sennacherib và phù điêu Lachish
+
+**Lăng trụ Sennacherib** là các lăng trụ đất sét sáu mặt khắc chữ hình nêm ghi biên niên các chiến dịch của vua Assyria này. Về chiến dịch năm 701 TCN, văn bản nói ông chiếm 46 thành của Judah, lưu đày 200.150 người, và nhốt Hezekiah trong Jerusalem “như chim trong lồng” — nhưng không nói đến việc chiếm được thành. **Phù điêu Lachish** là chuỗi phù điêu đá trong cung điện của Sennacherib ở Nineveh (nay ở British Museum), mô tả chi tiết cuộc vây hãm và hạ thành Lachish: máy công thành, cung thủ, người bị xử tử, và gia đình người Judah đi lưu đày.
+
+<a id="kuntillet-ajrud"></a>
+### Kuntillet ʿAjrud và Khirbet el-Qom
+
+**Kuntillet ʿAjrud** là một trạm dừng chân ở đông bắc Sinai, khoảng năm 800 TCN, có liên hệ với vương quốc Israel phương bắc. Trên các vò chứa và tường có dòng chữ chúc phúc “bởi YHWH của Samaria và Asherah của Ngài” và “YHWH của Teman và Asherah của Ngài”, kèm hình vẽ. **Khirbet el-Qom** là địa điểm gần Hebron ở Judah, nơi một bản khắc trong mộ (thế kỷ VIII TCN) cũng nhắc “YHWH và Asherah của Ngài”. Giới nghiên cứu tranh luận “Asherah” ở đây là nữ thần phối ngẫu hay vật thờ, nhưng dù theo cách nào, các bản khắc cho thấy tôn giáo thực tế đa dạng hơn nhiều so với Kinh Thánh. Xem [Asherah](#asherah).
+
+<a id="vassal-treaties"></a>
+### Hiệp ước chư hầu và Hiệp ước kế vị Esarhaddon
+
+Hiệp ước giữa một **bá chủ** (vua đế quốc) và **chư hầu** (vua nước nhỏ) là hình thức ngoại giao chuẩn của Cận Đông cổ đại. Chư hầu giữ ngai vàng nhưng phải nộp cống, cung cấp quân và trung thành tuyệt đối. Các hiệp ước Hittite (thế kỷ XIV–XIII TCN) thường có phần giới thiệu bá chủ, kể lại ân huệ đã ban, điều khoản, quy định lưu giữ và đọc định kỳ, danh sách thần chứng giám, và lời chúc phúc–nguyền rủa.
+
+**Hiệp ước kế vị Esarhaddon** (672 TCN) buộc các chư hầu thề trung thành với thái tử Ashurbanipal. Các bản sao được tìm thấy ở Nimrud (1955) và ở Tell Tayinat, tỉnh Hatay, nam Thổ Nhĩ Kỳ (2009) — bản sau được đặt trong đền thờ của một tỉnh phía tây, cho thấy văn bản kiểu này được trưng bày ở chính các vùng bị trị. Hiệp ước yêu cầu “yêu” thái tử như chính mạng sống mình, tố giác bất kỳ ai — kể cả người thân hay ngôn sứ — xúi giục phản loạn, và chứa một chuỗi lời nguyền dài. Nhiều học giả thấy những điểm song song đáng chú ý với Phục Truyền 13 và 28.
+
+<a id="mesopotamian-myths"></a>
+### Enuma Elish, Atrahasis và Gilgamesh
+
+Ba tác phẩm văn học lớn của Lưỡng Hà. ***Enuma Elish*** (“Khi ở trên cao…”) là sử thi sáng thế Babylon, kể Marduk đánh bại Tiamat và tạo dựng thế giới; loài người được tạo ra để lao dịch thay các thần. ***Atrahasis*** kể các thần gửi trận lụt để diệt loài người vì họ quá ồn ào, và một người được báo trước để đóng tàu cứu sự sống. **Sử thi Gilgamesh** kể hành trình tìm sự bất tử của vua Uruk, trong đó có câu chuyện đại hồng thủy của Utnapishtim rất gần với câu chuyện Noah. Sáng Thế 1–11 vừa dùng chung nhiều mô-típ với các văn bản này vừa phản bác thế giới quan của chúng.
+
+<a id="elephantine-papyri"></a>
+### Giấy cói Elephantine
+
+Kho văn bản bằng tiếng Aramaic (thế kỷ V TCN) của một đồn binh gồm những người lính gốc Judah đóng trên đảo Elephantine ở sông Nile (gần Aswan, miền nam Ai Cập), phục vụ Đế quốc Ba Tư. Họ có đền thờ riêng cho **YHW** (dạng viết của YHWH) và dâng lễ vật ở đó; các danh sách nhắc cả những tên như Anat-Yahu và Eshem-Bethel. Một lá thư năm 419 TCN hướng dẫn họ giữ lễ bánh không men; năm 410 TCN, các tư tế thần Khnum địa phương, với sự đồng lõa của quan cai trị Ba Tư Vidranga, phá đền thờ của họ; năm 407 TCN, họ viết thư xin tổng đốc Judah là Bagohi và các con của Sanballat, tổng đốc Samaria, giúp xây lại. Kho văn bản cho thấy một cộng đồng người Judah hầu như không biết đến Torah theo hình thức đã hoàn chỉnh.
+
+<a id="maccabees-books"></a>
+### Sách Maccabê
+
+Hai sách chính kể về cuộc khởi nghĩa chống Antiochus IV. **1 Maccabê**, ban đầu có lẽ viết bằng tiếng Hebrew, trình bày lịch sử theo quan điểm ủng hộ nhà Hasmonean. **2 Maccabê**, viết bằng tiếng Hy Lạp, là bản tóm lược một tác phẩm năm quyển của Jason xứ Cyrene, nhấn mạnh các vị tử đạo và phép lạ. Cả hai không nằm trong Kinh Thánh Hebrew (Tanakh) nhưng có trong bản Kinh Thánh Công giáo và Chính thống giáo. Từ *Ioudaismos* (Do Thái giáo) xuất hiện lần đầu trong 2 Maccabê 2:21.
+
+<a id="ioudaismos"></a>
+### Ioudaismos và Hellenismos
+
+Hai danh từ Hy Lạp được dùng đối lập nhau trong sách 2 Maccabê: *Ioudaismos* (2:21; 8:1; 14:38) và *Hellenismos* (4:13). Nhiều học giả, như Steve Mason, cho rằng ở đây *Ioudaismos* chưa có nghĩa “một tôn giáo” theo hiểu biết hiện đại, mà là **hành động giữ và bảo vệ lối sống Judea** trước áp lực Hy Lạp hóa — gần với “sống theo kiểu Judea” hơn là “đạo Do Thái”. Tuy vậy, đây là nguồn gốc của từ “Judaism” và các từ tương đương trong các ngôn ngữ châu Âu.
+
+## Kinh Thánh học, thời kỳ lịch sử và khái niệm nghiên cứu
+
+<a id="bible-books"></a>
+### Các sách Kinh Thánh được trích trong loạt bài
+
+Tên sách trong bài theo cách gọi tiếng Việt phổ biến; bảng dưới đây đối chiếu với tên tiếng Anh, tên Hebrew và cách viết trong bản Công giáo tiếng Việt khi khác.
+
+| Trong bài | Tiếng Anh | Hebrew | Bản Công giáo (CGKPV) |
+|---|---|---|---|
+| Sáng Thế | Genesis | *Bereshit* | Sáng thế (St) |
+| Xuất Hành | Exodus | *Shemot* | Xuất hành (Xh) |
+| Lêvi | Leviticus | *Vayikra* | Lê-vi (Lv) |
+| Dân Số | Numbers | *Bamidbar* | Dân số (Ds) |
+| Phục Truyền (Luật Lệ) | Deuteronomy | *Devarim* | Đệ nhị luật (Đnl) |
+| Thẩm Phán | Judges | *Shoftim* | Thủ lãnh (Tl) |
+| 1–2 Samuel | 1–2 Samuel | *Shmuel* | 1–2 Sa-mu-en (1–2 Sm) |
+| 1–2 Các Vua | 1–2 Kings | *Melakhim* | 1–2 Vua (1–2 V) |
+| Isaiah / Isaia | Isaiah | *Yeshayahu* | I-sai-a (Is) |
+| Jeremiah / Giêrêmia | Jeremiah | *Yirmeyahu* | Giê-rê-mi-a (Gr) |
+| Hosea | Hosea | *Hoshea* | Hô-sê (Hs) |
+| Amos | Amos | *Amos* | A-mốt (Am) |
+| Micah | Micah | *Mikhah* | Mi-kha (Mk) |
+| Habakkuk | Habakkuk | *Ḥavakuk* | Kha-ba-cúc (Kb) |
+| Thánh Vịnh | Psalms | *Tehillim* | Thánh vịnh (Tv) |
+| Ezra | Ezra | *Ezra* | Ét-ra (Er) |
+| Nehemiah | Nehemiah | *Neḥemyah* | Nơ-khe-mi-a (Nkm) |
+| Đanien | Daniel | *Daniyyel* | Đa-ni-en (Đn) |
+| 1–2 Maccabê | 1–2 Maccabees | (không có trong Tanakh) | 1–2 Ma-ca-bê (1–2 Mcb) |
+
+Cột cuối ghi đúng cách viết và chữ viết tắt trong bản dịch của Nhóm Phiên dịch Các Giờ Kinh Phụng vụ (CGKPV). Ở những chỗ khác, bảng thuật ngữ này viết liền các tên phiên âm Công giáo, không dùng gạch nối (ví dụ Giêrêmia, Kyrô, Xítkigia).
+
+Năm sách đầu gọi chung là **Ngũ Kinh** (*Pentateuch*), tức Torah theo nghĩa hẹp. Xem [Torah](#torah) và [Tanakh](#tanakh).
+
+<a id="pentateuch-sources"></a>
+### Các lớp văn bản của Torah
+
+Giới nghiên cứu hiện đại nhìn chung đồng ý rằng Torah không do một người viết trong một lần, mà là kết quả của việc biên tập nhiều nguồn qua nhiều thế kỷ. Các lớp thường được nhắc đến:
+
+- **Bộ luật Giao ước** (Xuất Hành 20:22–23:33): thường được coi là bộ luật cổ nhất, gần với các bộ luật Lưỡng Hà, phản ánh xã hội nông nghiệp thôn làng.
+- **Phục Truyền** (ký hiệu **D**), đặc biệt phần lõi chương 12–26: thường được liên hệ với cải cách của Josiah (thế kỷ VII TCN), nhấn mạnh tập trung phụng tự, lòng trung thành độc nhất và bảo vệ người yếu thế.
+- **Bộ luật Thánh thiện** (Lêvi 17–26, ký hiệu **H**): lấy “Hãy nên thánh vì Ta là thánh” làm trung tâm, mở rộng sự thánh thiện từ tư tế ra toàn dân và cả đất đai.
+- **Văn bản tư tế** (ký hiệu **P**): gồm sáng thế trong sáu ngày (Sáng Thế 1), gia phả, giao ước cắt bì, và phần lớn luật về lễ tế và thanh sạch; nhiều học giả xếp vào thời lưu đày hoặc sau lưu đày.
+
+Mô hình kinh điển của thế kỷ XIX–XX là **thuyết văn liệu** (*Documentary hypothesis*), chia Ngũ Kinh thành bốn nguồn J, E, D, P. Ngày nay nhiều học giả, nhất là ở châu Âu, đã từ bỏ hoặc sửa đổi mạnh mô hình này, nhưng việc phân biệt D và P vẫn được chấp nhận rộng rãi. Truyền thống Do Thái chính thống thì coi toàn bộ Torah được ban cho Moses.
+
+<a id="deuteronomistic-history"></a>
+### Lịch sử Phục Truyền
+
+Tên gọi (*Deuteronomistic History*) do học giả Martin Noth đưa ra năm 1943 cho khối sách từ Phục Truyền đến 2 Các Vua (Giôsuê, Thẩm Phán, 1–2 Samuel, 1–2 Các Vua), mà ông cho là được biên tập thành một bộ lịch sử thống nhất, dùng thần học của Phục Truyền để giải thích vì sao Israel và Judah sụp đổ: vì thờ thần khác và thờ ở ngoài nơi Thiên Chúa chọn. Nhiều học giả cho rằng bộ lịch sử này có một lần biên tập thời Josiah và một lần nữa trong thời lưu đày.
+
+<a id="deutero-isaiah"></a>
+### Isaia thứ hai (Isaia 40–55)
+
+Sách Isaia hiện nay thường được chia làm ba phần. Chương 1–39 chứa phần lớn lời của ngôn sứ Isaiah ở Jerusalem thế kỷ VIII TCN. Chương 40–55 (**Isaia thứ hai**, *Deutero-Isaiah*) nói với người lưu đày ở Babylon vào cuối thế kỷ VI TCN, gọi tên Cyrus, và chứa những tuyên bố độc thần rõ ràng nhất của Kinh Thánh. Chương 56–66 (**Isaia thứ ba**) thường được xếp vào thời sau khi trở về. Truyền thống Do Thái và Kitô giáo cổ coi cả sách là của một ngôn sứ.
+
+<a id="imperial-authorization"></a>
+### Giả thuyết ủy quyền đế quốc
+
+Giả thuyết do học giả Thụy Sĩ Peter Frei đề xuất vào thập niên 1980: Đế quốc Ba Tư có chính sách chính thức công nhận luật của từng dân địa phương làm luật có hiệu lực trong tỉnh, và chính áp lực ấy đã thúc đẩy người Judah hoàn tất Ngũ Kinh thành một văn bản thống nhất, dung hòa nhiều truyền thống. Bằng chứng gồm Ezra 7:25–26 (“luật của Thiên Chúa ngươi và luật của vua”) và các văn bản Ba Tư về luật lệ ở Ai Cập. Nhiều học giả phản bác rằng không có bằng chứng về một chính sách như vậy trên toàn đế quốc, nhưng vẫn công nhận bối cảnh Ba Tư có vai trò quan trọng trong việc hình thành Torah.
+
+<a id="vassal-tribute"></a>
+### Bá chủ, chư hầu, cống nạp và lao dịch
+
+**Bá chủ** là vua của một cường quốc buộc các nước nhỏ phục tùng; **chư hầu** là nước nhỏ ấy, vẫn có vua riêng nhưng mất quyền tự chủ đối ngoại. **Cống nạp** là khoản vàng, bạc, sản vật, đôi khi cả người (như con gái vua) mà chư hầu nộp định kỳ. **Lao dịch** là nghĩa vụ làm việc không công cho nhà nước — xây công trình, làm đường, phục vụ quân đội — mà cả vua bản xứ lẫn đế quốc ngoại bang đều có thể áp đặt. Kinh Thánh ghi Solomon bắt dân làm lao dịch, và đó là một nguyên nhân khiến các chi tộc phương bắc ly khai (1 Các Vua 12).
+
+<a id="bet-av"></a>
+### Nhà cha, thị tộc và chi tộc — בֵּית אָב / מִשְׁפָּחָה / שֵׁבֶט
+
+Ba tầng của cấu trúc thân tộc Israel cổ. **Nhà cha** (*bet av*) là đại gia đình vài thế hệ sống cùng nhau trên phần đất thừa kế, dưới quyền người cha lớn tuổi nhất — đơn vị cơ bản của sản xuất, sở hữu và thờ cúng. **Thị tộc** (*mishpachah*) gồm nhiều nhà cha có chung tổ tiên, thường là một làng hoặc cụm làng, có nghĩa vụ chuộc lại đất và người của họ hàng. **Chi tộc** (*shevet* hoặc *matteh*) là tập hợp lớn nhất, mang tên một con trai của Jacob. Luật chuộc đất và Năm Toàn Xá nhằm giữ đất trong nhà cha và thị tộc. Xem [các chi tộc](#tribes).
+
+<a id="archaeological-periods"></a>
+### Thời đại Đồ đồng muộn, Sụp đổ và Thời đại Đồ sắt
+
+Cách phân kỳ khảo cổ học thông dụng cho vùng Levant:
+
+- **Thời đại Đồ đồng muộn** (khoảng 1550–1200 TCN): các thành bang Canaan dưới quyền Ai Cập; mạng lưới thương mại quốc tế rộng khắp Địa Trung Hải.
+- **Sự sụp đổ Thời đại Đồ đồng** (khoảng 1200–1150 TCN): nhiều đế quốc và thành lớn — Hittite, Ugarit, Mycenae — sụp đổ hoặc suy tàn, có lẽ do tổng hợp của hạn hán, động đất, di dân (các “Dân Biển”), nổi loạn và tan rã thương mại.
+- **Thời đại Đồ sắt I** (khoảng 1200–1000 TCN): làng nhỏ mọc lên ở vùng đồi; thời kỳ các “thủ lãnh” trong Kinh Thánh.
+- **Thời đại Đồ sắt II** (khoảng 1000–586 TCN): hình thành và sụp đổ của các vương quốc Israel và Judah.
+
+Sau đó là thời Babylon và Ba Tư (586–332 TCN), thời Hy Lạp hóa (332–63 TCN) và thời La Mã.
+
+<a id="babylonian-exile"></a>
+### Lưu đày Babylon và thời Đền Thờ thứ Hai
+
+**Lưu đày Babylon** chỉ các đợt Babylon di dời người Judah sang Lưỡng Hà: năm 597 TCN (vua Jehoiachin và giới lãnh đạo), năm 587/586 TCN (sau khi Jerusalem bị phá) và có lẽ năm 582 TCN. Người bị lưu đày chủ yếu là tầng lớp trên — vua, quý tộc, tư tế, thợ thủ công; phần lớn nông dân ở lại. Cộng đồng lưu đày (*golah*) sống thành làng bên các kênh đào gần Nippur. Sau năm 539 TCN, một phần trở về theo nhiều đợt, nhưng nhiều người ở lại, tạo nên cộng đồng Do Thái Babylon kéo dài hơn hai nghìn năm.
+
+**Thời Đền Thờ thứ Hai** chỉ giai đoạn từ khi Đền Thờ được xây lại (515 TCN) đến khi bị La Mã phá (70 CN), bao gồm thời Ba Tư, Hy Lạp hóa, Hasmonean và La Mã. Đây là thời kỳ Torah được hoàn tất, các nhóm Pharisee, Sadducee, Essene hình thành, và Do Thái giáo mang hình dạng mà ta nhận ra hôm nay. Xem [Đền Thờ](#temple).
+
+<a id="hellenization"></a>
+### Hy Lạp hóa
+
+Quá trình văn hóa Hy Lạp lan rộng khắp Cận Đông sau cuộc chinh phục của Alexander: tiếng Hy Lạp thành ngôn ngữ của hành chính và giới có học; các thành mới theo mô hình *polis* với thể dục trường (*gymnasion*), nhà hát và đền thờ Hy Lạp. Ở Jerusalem, năm 175 TCN, Thượng tế Jason lập một thể dục trường và xin biến Jerusalem thành một *polis* mang tên Antioch. Hy Lạp hóa không phải là một chính sách áp đặt thống nhất mà là một sức hút văn hóa; nhiều người Do Thái, kể cả những người trung thành với Torah, tiếp nhận ngôn ngữ và tư tưởng Hy Lạp. Xung đột năm 167 TCN nổ ra khi sức hút ấy gặp quyền lực cưỡng chế.
+
 ## Học giả hiện đại
 
 <a id="mary-douglas"></a>
@@ -1979,6 +2400,66 @@ Hai học giả người Mỹ về Kinh Thánh và Cận Đông cổ đại. Gre
 ### Francesco Redi
 
 Thầy thuốc và nhà tự nhiên học người Ý (1626–1697). Năm 1668, thí nghiệm của ông cho thấy dòi không tự sinh ra từ thịt thối, mà từ trứng ruồi.
+
+<a id="finkelstein-silberman"></a>
+### Israel Finkelstein và Neil Asher Silberman
+
+**Israel Finkelstein** (sinh 1949) là nhà khảo cổ học người Israel, giáo sư danh dự Đại học Tel Aviv, nay đứng đầu Trường Khảo cổ học và Văn hóa Hàng hải của Đại học Haifa; từ năm 1994 ông đồng chỉ huy khai quật Megiddo. Ông nổi tiếng với việc hạ niên đại một số công trình vốn được gán cho thời David–Solomon (“niên đại thấp”) và với luận điểm rằng Judah chỉ trở thành một nhà nước phát triển vào thế kỷ VIII TCN. **Neil Asher Silberman** (sinh 1950) là nhà khảo cổ và tác giả người Mỹ. Cuốn *The Bible Unearthed* (2001) do hai người viết chung đã đưa các tranh luận này đến đông đảo độc giả; nhiều kết luận của nó vẫn bị các nhà khảo cổ khác phản bác. **Điểm cần tránh:** không nhầm với J. J. Finkelstein, học giả về luật Lưỡng Hà (xem [Moshe Greenberg và J. J. Finkelstein](#greenberg-finkelstein)).
+
+<a id="mark-smith"></a>
+### Mark S. Smith
+
+Học giả Kinh Thánh người Mỹ, chuyên về văn bản Ugarit và lịch sử tôn giáo Israel, giảng dạy tại Đại học New York và Chủng viện Thần học Princeton. Các cuốn *The Early History of God* (1990) và *The Origins of Biblical Monotheism* (2001) lập luận rằng YHWH ban đầu là một thần trong thế giới thần linh Canaan, dần hợp nhất với El và thu nhận đặc điểm của Baal, và rằng độc thần là kết quả của một quá trình lâu dài.
+
+<a id="morton-smith"></a>
+### Morton Smith
+
+Sử gia tôn giáo cổ đại người Mỹ (1915–1991), giảng dạy tại Đại học Columbia. Cuốn *Palestinian Parties and Politics That Shaped the Old Testament* (1971) đưa ra khái niệm “phong trào chỉ-YHWH”, đọc Kinh Thánh Hebrew như sản phẩm của cuộc tranh chấp giữa các phe phái tôn giáo–chính trị. Xem [phong trào chỉ-YHWH](#yhwh-alone).
+
+<a id="jan-assmann"></a>
+### Jan Assmann
+
+Nhà Ai Cập học và lý thuyết gia văn hóa người Đức (1938–2024), giáo sư Đại học Heidelberg. Ông nổi tiếng với khái niệm **ký ức văn hóa** — cách một cộng đồng lưu giữ và tái tạo quá khứ qua văn bản, nghi lễ và định chế — và với khái niệm **sự phân biệt Mosaic**. Các cuốn *Moses the Egyptian* (bản tiếng Anh 1997, tiếng Đức 1998) và *Die Mosaische Unterscheidung* (2003; bản tiếng Anh *The Price of Monotheism*, 2010) gây tranh luận rộng rãi. Xem [sự phân biệt Mosaic](#mosaic-distinction).
+
+<a id="rainer-albertz"></a>
+### Rainer Albertz
+
+Học giả Cựu Ước người Đức (sinh 1943), giáo sư Đại học Münster. Bộ *A History of Israelite Religion in the Old Testament Period* (bản tiếng Đức 1992, bản tiếng Anh 1994) viết lịch sử tôn giáo Israel theo hướng xã hội học, phân biệt tôn giáo chính thức của nhà nước với tôn giáo gia đình và các nhóm xã hội.
+
+<a id="william-dever"></a>
+### William G. Dever
+
+Nhà khảo cổ học người Mỹ (sinh 1933), giáo sư Đại học Arizona (1975–2002), sau đó giảng dạy tại Lycoming College; ông chỉ huy khai quật Gezer và Khirbet el-Qom, nơi tìm thấy bản khắc nhắc đến “YHWH và Asherah của Ngài”. Cuốn *Did God Have a Wife?* (2005) bàn về tôn giáo dân gian ở Israel cổ, nhất là vai trò của phụ nữ và Asherah. Ông cũng là người phê phán mạnh xu hướng “tối giản” coi Kinh Thánh gần như không có giá trị lịch sử.
+
+<a id="grabbe-faust-schwartz"></a>
+### Lester L. Grabbe, Avraham Faust và Seth Schwartz
+
+**Lester L. Grabbe** (sinh 1945), học giả người Mỹ giảng dạy tại Đại học Hull (Anh), tác giả *Ancient Israel: What Do We Know and How Do We Know It?* — một tổng quan thận trọng cân nhắc từng loại bằng chứng. **Avraham Faust**, nhà khảo cổ học tại Đại học Bar-Ilan (Israel), nghiên cứu cấu trúc xã hội, kinh tế hộ gia đình và bản sắc dân tộc ở Israel thời Đồ sắt. **Seth Schwartz**, sử gia tại Đại học Columbia, nghiên cứu xã hội Do Thái từ thời Hy Lạp hóa đến Hậu cổ đại, tác giả *Imperialism and Jewish Society*.
+
+<a id="schmid-levinson"></a>
+### Konrad Schmid và Bernard M. Levinson
+
+**Konrad Schmid** (sinh 1965), giáo sư Cựu Ước tại Đại học Zurich, tác giả *The Old Testament: A Literary History*, trình bày lịch sử hình thành các văn bản Kinh Thánh theo từng thời kỳ. **Bernard M. Levinson**, giáo sư tại Đại học Minnesota, nghiên cứu cách sách Phục Truyền viết lại các luật cổ hơn trong Bộ luật Giao ước để phục vụ cải cách tập trung phụng tự.
+
+<a id="otto-steymans"></a>
+### Eckart Otto và Hans Ulrich Steymans
+
+**Eckart Otto** (sinh 1944), giáo sư Cựu Ước tại Đại học Munich, chuyên về luật Kinh Thánh và luật Cận Đông cổ đại; ông lập luận rằng phần lõi sách Phục Truyền được viết như một “bản đối trọng” với hiệp ước chư hầu Assyria. **Hans Ulrich Steymans**, tu sĩ Dòng Đa Minh, giáo sư Cựu Ước tại Đại học Fribourg (Thụy Sĩ) từ 2004 đến 2021, so sánh chi tiết chuỗi lời nguyền trong Phục Truyền 28 với Hiệp ước kế vị Esarhaddon. Xem [hiệp ước chư hầu](#vassal-treaties).
+
+<a id="frei-watts"></a>
+### Peter Frei và James W. Watts
+
+**Peter Frei** là sử gia cổ đại người Thụy Sĩ, người đề xuất giả thuyết ủy quyền đế quốc Ba Tư. **James W. Watts**, giáo sư tại Đại học Syracuse (Mỹ), chủ biên tập *Persia and Torah* (2001) tập hợp các ý kiến ủng hộ và phản bác giả thuyết ấy. Xem [giả thuyết ủy quyền đế quốc](#imperial-authorization).
+
+<a id="porten-mason"></a>
+### Bezalel Porten và Steve Mason
+
+**Bezalel Porten** (sinh 1931), học giả tại Đại học Hebrew Jerusalem, người biên tập và dịch toàn bộ các văn bản Aramaic từ Elephantine. **Steve Mason**, sử gia người Canada chuyên về Josephus, từng giảng dạy tại Đại học York (Toronto) và nay ở Đại học Groningen (Hà Lan); trong bài báo năm 2007 “Jews, Judaeans, Judaizing, Judaism”, ông lập luận rằng từ *Ioudaismos* thời cổ không có nghĩa “tôn giáo” theo cách hiểu hiện đại. Xem [giấy cói Elephantine](#elephantine-papyri) và [Ioudaismos](#ioudaismos).
+
+<a id="martin-noth"></a>
+### Martin Noth
+
+Học giả Cựu Ước người Đức (1902–1968), người đưa ra khái niệm “Lịch sử Phục Truyền” (1943) và lý thuyết về một liên minh mười hai chi tộc trước thời quân chủ (lý thuyết sau này đã bị bỏ phần lớn). Xem [Lịch sử Phục Truyền](#deuteronomistic-history).
 
 ## Lịch, phụng vụ và tập quán
 

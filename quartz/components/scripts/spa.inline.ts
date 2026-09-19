@@ -110,14 +110,8 @@ async function _navigate(url: URL, isBack: boolean = false) {
   document.querySelector(".navigation-progress")?.remove()
   micromorph(document.body, html.body)
 
-  // scroll into place and add history
-  if (!isBack) {
-    if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
-    } else {
-      window.scrollTo({ top: 0 })
-    }
+  if (!isBack && !url.hash) {
+    window.scrollTo({ top: 0 })
   }
 
   // now, patch head, re-executing scripts
@@ -125,6 +119,13 @@ async function _navigate(url: URL, isBack: boolean = false) {
   elementsToRemove.forEach((el) => el.remove())
   const elementsToAdd = html.head.querySelectorAll(":not([data-persist])")
   elementsToAdd.forEach((el) => document.head.appendChild(el))
+
+  // scroll to the anchor only after the head is patched: swapping stylesheets
+  // reflows the page and cancels a smooth scroll started before it
+  if (!isBack && url.hash) {
+    const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
+    el?.scrollIntoView({ behavior: "instant" })
+  }
 
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses

@@ -1,10 +1,8 @@
 ---
-title: Ghi chú
+title: Về thái độ đón nhận bản dịch cộng đồng
 ---
 
 ---
-
-## Về thái độ đón nhận bản dịch cộng đồng
 
 Tôi nghĩ việc được tiếp cận với những tài liệu chuyên biệt (_những thứ được viết một cách có hệ thống bởi những người thật sự tâm huyết và chuyên môn trong lĩnh vực của họ_), sẽ mang lại lợi ích cho người bắt đầu trên con đường nghiên cứu những chủ đề mới.
 
