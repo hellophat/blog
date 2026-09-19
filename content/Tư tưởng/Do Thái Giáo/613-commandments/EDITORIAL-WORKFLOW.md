@@ -46,6 +46,7 @@ Một thuật ngữ phải có mục glossary nếu nó là thiết chế, nghi 
 - nêu điều dễ nhầm trong văn hóa Việt Nam;
 - có neo HTML ổn định;
 - được liên kết tại lần xuất hiện quan trọng trong trang.
+- khi có bản dịch Việt rõ ràng, nhãn hiển thị phải đặt tiếng Việt trước và giữ phiên âm trong ngoặc, ví dụ `[Lều Hội Ngộ (*Mishkan*)](../glossary#mishkan)`; tên riêng và tên tác phẩm không bị dịch cưỡng ép.
 
 ## Hai vòng rà soát
 
@@ -72,7 +73,7 @@ Một thuật ngữ phải có mục glossary nếu nó là thiết chế, nghi 
 
 1. Chuẩn hóa P161–P190.
 2. Audit và sửa toàn bộ P1–P190 theo tiêu chuẩn này.
-3. P1–P248 đã vượt audit; toàn bộ các điều răn tích cực đã được biên soạn.
+3. P1–P248 đã vượt audit; toàn bộ các điều răn tích cực đã được biên soạn, và ngày 19/9/2026 đã được viết lại theo cùng cấu trúc với các trang N (halakhah cụ thể trong *Mishneh Torah* đã đối chiếu với Sefaria, ghi rõ việc còn áp dụng ngày nay hay không, có mục **Đối chiếu lỗi thường gặp**, và ba lớp nguồn tham khảo).
 4. Nhóm điều cấm: N1–N365 đã được biên soạn và vượt audit; toàn bộ 613 điều răn đã có trang chi tiết. Các trang N theo cùng cấu trúc bắt buộc, có thêm mục **Đối chiếu lỗi thường gặp** và dung lượng lớn hơn các trang P.
 5. Script `audit_commandments.py` nhận cả `P<số>` lẫn `N<số>`; `--start` và `--end` phải cùng loại. Mỗi lần chạy `--report` ghi đè `AUDIT-REPORT.md` cho đúng một khoảng, nên cần chạy lại cho khoảng muốn lưu.
 6. Việc tiếp theo là rà soát: chạy audit cho cả P1–P248 và N1–N365 sau mỗi lần sửa, và chạy Quartz build. Các tài liệu tham khảo hiện đại (khoảng 35 sách và bài báo) và mọi link ngoài Sefaria đã được đối chiếu bằng tìm kiếm web ngày 19/9/2026; khi thêm tài liệu mới, phải kiểm lại theo cùng cách, không ghi từ trí nhớ.

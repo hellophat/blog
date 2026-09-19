@@ -19,7 +19,7 @@ enableToc: true
 
 ## 613 điều răn là gì?
 
-Trong tiếng Hebrew, một điều răn được gọi là [**mitzvah**](../glossary#mitzvah) (מִצְוָה; số nhiều: **mitzvot**, מִצְווֹת). Trong cách dùng thông thường, từ này đôi khi được hiểu rộng là một việc thiện. Tuy nhiên, trong cụm từ “613 mitzvot”, nó chỉ những mệnh lệnh và điều cấm mà [truyền thống rabbi](../glossary#rabbi) nhận diện trong [Torah](../glossary#torah).
+Trong tiếng Hebrew, một điều răn được gọi là [điều răn (*mitzvah*)](../glossary#mitzvah) (מִצְוָה; số nhiều: **mitzvot**, מִצְווֹת). Trong cách dùng thông thường, từ này đôi khi được hiểu rộng là một việc thiện. Tuy nhiên, trong cụm từ “613 mitzvot”, nó chỉ những mệnh lệnh và điều cấm mà [kinh sư (*rabbi*)](../glossary#rabbi) nhận diện trong [Torah](../glossary#torah).
 
 Con số 613 không xuất hiện dưới dạng một danh sách được đánh số trong Torah. Nguồn rabbi thường được viện dẫn sớm nhất là [*Talmud Babylon*](../glossary#talmud), Makkot 23b: Rabbi Simlai giảng rằng [Moses](../glossary#moses) đã nhận 613 điều răn, gồm 365 điều cấm và 248 điều phải làm. Chính đoạn Talmud này nêu **con số**, chứ không liệt kê đủ 613 mục. Các học giả Do Thái về sau vì thế đã xây dựng những danh mục không hoàn toàn giống nhau.
 
@@ -144,7 +144,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P9)
 
-### P10 — Đọc *Shema* mỗi sáng và mỗi tối
+### P10 — Đọc [lời tuyên xưng *Shema*](../glossary#shema) mỗi sáng và mỗi tối
 
 **English:** To recite the Shema in the morning and at night.
 
@@ -152,7 +152,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P10)
 
-### P11 — Học Torah và truyền dạy Torah
+### P11 — Học và truyền dạy [Torah](../glossary#torah)
 
 **English:** To study Torah and teach it.
 
@@ -160,7 +160,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P11)
 
-### P12 — Đeo [*tefillin*](../glossary#tefillin) trên đầu
+### P12 — Đeo [hộp kinh (*tefillin*)](../glossary#tefillin) trên đầu
 
 **English:** To bind tefillin on the head.
 
@@ -168,7 +168,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P12)
 
-### P13 — Đeo *tefillin* trên cánh tay
+### P13 — Đeo [hộp kinh (*tefillin*)](../glossary#tefillin) trên cánh tay
 
 **English:** To bind tefillin on the arm.
 
@@ -176,7 +176,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P13)
 
-### P14 — Làm và mang tua áo [*tzitzit*](../glossary#tzitzit)
+### P14 — Làm và mang [tua áo nhắc điều răn (*tzitzit*)](../glossary#tzitzit)
 
 **English:** To make fringes on a four-cornered garment.
 
@@ -184,7 +184,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P14)
 
-### P15 — Gắn [*mezuzah*](../glossary#mezuzah) trên khung cửa
+### P15 — Gắn [hộp kinh gắn trên trụ cửa (*mezuzah*)](../glossary#mezuzah) trên khung cửa
 
 **English:** To affix a mezuzah to the doorposts of the home.
 
@@ -192,7 +192,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P15)
 
-### P16 — Tập hợp dân chúng để nghe đọc Torah sau năm [*shemittah*](../glossary#shemittah)
+### P16 — Tập hợp dân chúng để nghe đọc [Torah](../glossary#torah) sau [năm nghỉ đất (*shemittah*)](../glossary#shemittah)
 
 **English:** To assemble the people to hear the Torah after the sabbatical year.
 
@@ -208,7 +208,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P17)
 
-### P18 — Nhà vua phải viết một cuộn Torah thứ hai
+### P18 — Nhà vua phải viết một [cuộn Torah](../glossary#torah-scroll) thứ hai
 
 **English:** For the king to write a second Torah scroll for himself.
 
@@ -272,7 +272,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P25)
 
-### P26 — Các tư tế chúc phúc cho Israel
+### P26 — Các tư tế chúc phúc cho [Israel](../glossary#israel)
 
 **English:** For the priests to bless Israel.
 
@@ -280,7 +280,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P26)
 
-### P27 — Đặt bánh tiến và nhũ hương trước YHWH mỗi Sabbath
+### P27 — Đặt bánh tiến và nhũ hương trước [YHWH](../glossary#yhwh) mỗi [ngày nghỉ (*Shabbat*)](../glossary#shabbat)
 
 **English:** To arrange the showbread and frankincense before God every Sabbath.
 
@@ -312,7 +312,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P30)
 
-### P31 — Đưa người đang ô uế nghi lễ ra khỏi trại của Sự Hiện Diện
+### P31 — Đưa người đang [ô uế nghi lễ](../glossary#ritual-purity) ra khỏi [trại của Sự Hiện Diện](../glossary#three-camps)
 
 **English:** To send ritually impure persons out of the camp of the Divine Presence.
 
@@ -336,7 +336,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P33)
 
-### P34 — Khi di chuyển, khiêng Hòm Giao Ước trên vai
+### P34 — Khi di chuyển, khiêng [Hòm Giao Ước](../glossary#ark-of-covenant) trên vai
 
 **English:** To carry the Ark of the Covenant on the shoulders when it is transported.
 
@@ -376,7 +376,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P38)
 
-### P39 — Dâng lễ vật *tamid* mỗi ngày
+### P39 — Dâng [lễ vật thường nhật (*tamid*)](../glossary#tamid) mỗi ngày
 
 **English:** To offer the two daily tamid offerings.
 
@@ -392,7 +392,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P40)
 
-### P41 — Dâng lễ vật bổ sung vào mỗi Sabbath
+### P41 — Dâng lễ vật bổ sung vào mỗi [ngày nghỉ (*Shabbat*)](../glossary#shabbat)
 
 **English:** To offer an additional sacrifice every Sabbath.
 
@@ -408,7 +408,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P42)
 
-### P43 — Dâng lễ vật bổ sung trong bảy ngày Pesach
+### P43 — Dâng lễ vật bổ sung trong bảy ngày [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To offer an additional sacrifice on each of the seven days of Passover.
 
@@ -416,7 +416,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P43)
 
-### P44 — Dâng lễ phẩm *omer* vào ngày thứ hai của Pesach
+### P44 — Dâng [lễ phẩm bó lúa đầu mùa (*omer*)](../glossary#omer) vào ngày thứ hai của [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To bring the omer grain offering with a lamb after the first day of Passover.
 
@@ -424,7 +424,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P44)
 
-### P45 — Dâng lễ vật bổ sung vào Shavuot
+### P45 — Dâng lễ vật bổ sung vào [lễ Tuần (*Shavuot*)](../glossary#shavuot)
 
 **English:** To offer an additional sacrifice on Shavuot.
 
@@ -432,7 +432,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P45)
 
-### P46 — Dâng hai ổ bánh và các lễ vật đi kèm vào Shavuot
+### P46 — Dâng hai ổ bánh và các lễ vật đi kèm vào [lễ Tuần (*Shavuot*)](../glossary#shavuot)
 
 **English:** To bring the two loaves and their accompanying sacrifices on Shavuot.
 
@@ -440,7 +440,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P46)
 
-### P47 — Dâng lễ vật bổ sung vào Rosh Hashanah
+### P47 — Dâng lễ vật bổ sung vào [lễ Đầu Năm (*Rosh Hashanah*)](../glossary#rosh-hashanah)
 
 **English:** To offer an additional sacrifice on Rosh Hashanah.
 
@@ -448,7 +448,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P47)
 
-### P48 — Dâng lễ vật bổ sung vào Yom Kippur
+### P48 — Dâng lễ vật bổ sung vào [Ngày Xá Tội (*Yom Kippur*)](../glossary#yom-kippur)
 
 **English:** To offer an additional sacrifice on Yom Kippur.
 
@@ -456,7 +456,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P48)
 
-### P49 — Thực hiện nghi lễ đặc biệt của Yom Kippur
+### P49 — Thực hiện nghi lễ đặc biệt của [Ngày Xá Tội (*Yom Kippur*)](../glossary#yom-kippur)
 
 **English:** To perform the prescribed Yom Kippur service.
 
@@ -464,7 +464,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P49)
 
-### P50 — Dâng lễ vật bổ sung trong Sukkot
+### P50 — Dâng lễ vật bổ sung trong [lễ Lều (*Sukkot*)](../glossary#sukkot)
 
 **English:** To offer the additional sacrifices on Sukkot.
 
@@ -472,7 +472,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P50)
 
-### P51 — Dâng lễ vật bổ sung vào Shemini Atzeret
+### P51 — Dâng lễ vật bổ sung vào [ngày bế mạc thứ tám (*Shemini Atzeret*)](../glossary#shemini-atzeret)
 
 **English:** To offer an additional sacrifice on Shemini Atzeret.
 
@@ -480,7 +480,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P51)
 
-### P52 — Hành hương và dâng lễ vật trong ba kỳ lễ
+### P52 — Hành hương và dâng lễ vật trong [ba kỳ lễ hành hương](../glossary#pilgrimage-festivals)
 
 **English:** To celebrate the three pilgrimage festivals with a festival offering.
 
@@ -488,7 +488,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P52)
 
-### P53 — Xuất hiện trước YHWH trong ba kỳ hành hương
+### P53 — Xuất hiện trước YHWH trong [ba kỳ lễ hành hương](../glossary#pilgrimage-festivals)
 
 **English:** To appear before God at the Temple on the pilgrimage festivals.
 
@@ -504,7 +504,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P54)
 
-### P55 — Giết lễ vật Pesach vào thời điểm quy định
+### P55 — Giết [lễ vật Vượt Qua (*korban Pesach*)](../glossary#korban-pesach) vào thời điểm quy định
 
 **English:** To slaughter the Passover offering at its appointed time.
 
@@ -512,7 +512,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P55)
 
-### P56 — Ăn thịt lễ vật Pesach trong đêm 15 Nisan
+### P56 — Ăn thịt [lễ vật Vượt Qua (*korban Pesach*)](../glossary#korban-pesach) trong đêm 15 [tháng Nisan](../glossary#nisan)
 
 **English:** To eat the meat of the Passover offering on the night of the fifteenth of Nisan.
 
@@ -520,7 +520,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P56)
 
-### P57 — Thực hiện Pesach Sheni cho người không thể dự Pesach đúng kỳ
+### P57 — Thực hiện [lễ Vượt Qua thứ hai (*Pesach Sheni*)](../glossary#pesach-sheni) cho người không thể dự [lễ Vượt Qua (*Pesach*)](../glossary#pesach) đúng kỳ
 
 **English:** To offer the second Passover sacrifice for those unable to observe the first.
 
@@ -528,7 +528,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P57)
 
-### P58 — Ăn lễ vật Pesach Sheni với matzah và rau đắng
+### P58 — Ăn [lễ vật Vượt Qua thứ hai (*korban Pesach Sheni*)](../glossary#pesach-sheni) với [bánh không men (*matzah*)](../glossary#matzah) và rau đắng
 
 **English:** To eat the second Passover offering with matzah and bitter herbs.
 
@@ -608,7 +608,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P67)
 
-### P68 — Tòa án tối cao dâng lễ vật khi phán quyết sai
+### P68 — [Đại Tòa án (*Sanhedrin*)](../glossary#sanhedrin) dâng lễ vật khi phán quyết sai
 
 **English:** For the High Court to offer a sacrifice after an erroneous ruling.
 
@@ -616,7 +616,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P68)
 
-### P69 — Cá nhân dâng chatat vì vô ý phạm điều cấm chịu hình phạt *karet*
+### P69 — Cá nhân dâng [lễ vật thanh tẩy (*chatat*)](../glossary#chatat) vì vô ý phạm điều cấm chịu [hình phạt bị cắt khỏi cộng đồng (*karet*)](../glossary#karet)
 
 **English:** For an individual to bring a purification offering after unintentionally violating a prohibition punishable by karet.
 
@@ -624,7 +624,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P69)
 
-### P70 — Dâng *asham talui* khi nghi ngờ mình đã phạm lỗi nghiêm trọng
+### P70 — Dâng [lễ đền lỗi khi còn nghi ngờ (*asham talui*)](../glossary#asham-talui) khi nghi ngờ mình đã phạm lỗi nghiêm trọng
 
 **English:** To bring a provisional guilt offering when uncertain whether a grave prohibition was violated.
 
@@ -632,7 +632,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P70)
 
-### P71 — Dâng *asham vadai* trong những trường hợp đền lỗi xác định
+### P71 — Dâng [lễ đền lỗi xác định (*asham vadai*)](../glossary#asham-vadai) trong những trường hợp đền lỗi xác định
 
 **English:** To bring a definite guilt offering for specified transgressions.
 
@@ -640,7 +640,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P71)
 
-### P72 — Dâng lễ vật thay đổi theo khả năng kinh tế
+### P72 — Dâng [lễ vật tùy khả năng kinh tế](../glossary#adjustable-offering)
 
 **English:** To bring an adjustable offering for specified transgressions.
 
@@ -672,23 +672,23 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P75)
 
-### P76 — Người khỏi *tzaraat* dâng lễ vật hoàn tất thanh tẩy
-
-**English:** For a person healed from tzaraat to bring an offering after purification.
-
-**Hebrew (Maimonides):** לְהַקְרִיב הַמְּצֹרָע קָרְבָּן אַחַר שֶׁיִּטְהָר
-
-[Đọc bản dịch, nguồn Torah và bối cảnh →](./P76)
-
-### P77 — Người mẹ dâng lễ vật sau thời gian thanh tẩy hậu sản
+### P76 — Người mẹ dâng lễ vật sau thời gian thanh tẩy hậu sản
 
 **English:** For a woman who gave birth to bring an offering after her purification period.
 
 **Hebrew (Maimonides):** לְהַקְרִיב הַיּוֹלֶדֶת קָרְבָּן אַחַר שֶׁתִּטָּהֵר
 
+[Đọc bản dịch, nguồn Torah và bối cảnh →](./P76)
+
+### P77 — Người khỏi [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) dâng lễ vật hoàn tất thanh tẩy
+
+**English:** For a person healed from tzaraat to bring an offering after purification.
+
+**Hebrew (Maimonides):** לְהַקְרִיב הַמְּצֹרָע קָרְבָּן אַחַר שֶׁיִּטְהָר
+
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P77)
 
-### P78 — Tách phần mười của đàn gia súc
+### P78 — Tách [phần mười đàn gia súc](../glossary#animal-tithe)
 
 **English:** To tithe cattle and flock animals.
 
@@ -704,7 +704,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P79)
 
-### P80 — Chuộc con trai đầu lòng
+### P80 — [Chuộc con trai đầu lòng (*pidyon haben*)](../glossary#pidyon-haben)
 
 **English:** To redeem a firstborn son.
 
@@ -744,7 +744,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P84)
 
-### P85 — Đưa các lễ vật từ ngoài Đất Israel về Đền Thờ
+### P85 — Đưa các lễ vật từ ngoài [Đất Israel](../glossary#eretz-yisrael-diaspora) về Đền Thờ
 
 **English:** To bring sacred offerings from outside the Land of Israel to God’s chosen house.
 
@@ -784,7 +784,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P89)
 
-### P90 — Thiêu thịt lễ vật đã trở nên ô uế nghi lễ
+### P90 — Thiêu thịt lễ vật đã trở nên [ô uế nghi lễ](../glossary#ritual-purity)
 
 **English:** To burn sacred meat that has become ritually impure.
 
@@ -800,7 +800,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P91)
 
-### P92 — Người Nazirite để tóc mọc trong thời gian lời khấn
+### P92 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) để tóc mọc trong thời gian lời khấn
 
 **English:** For a Nazirite to let the hair of the head grow during the term of the vow.
 
@@ -808,7 +808,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P92)
 
-### P93 — Người Nazirite cạo tóc theo nghi thức khi kết thúc hoặc bị ô uế
+### P93 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) cạo tóc theo nghi thức khi kết thúc hoặc bị ô uế
 
 **English:** For a Nazirite to shave when completing the vow, or after becoming impure through contact with the dead.
 
@@ -832,7 +832,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P95)
 
-### P96 — Xác định ô uế nghi lễ do chạm xác động vật
+### P96 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) do chạm xác động vật
 
 **English:** For contact with the carcass of an animal to impart ritual impurity.
 
@@ -840,7 +840,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P96)
 
-### P97 — Xác định ô uế nghi lễ từ tám loài sinh vật bò sát được nêu tên
+### P97 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) từ tám loài sinh vật bò sát được nêu tên
 
 **English:** For the carcasses of the eight specified creeping creatures to impart ritual impurity.
 
@@ -848,7 +848,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P97)
 
-### P98 — Xác định khả năng thực phẩm tiếp nhận ô uế nghi lễ
+### P98 — Xác định khả năng thực phẩm tiếp nhận [ô uế nghi lễ](../glossary#ritual-purity)
 
 **English:** For certain foods to be capable of becoming ritually impure.
 
@@ -856,7 +856,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P98)
 
-### P99 — Xác định trạng thái ô uế nghi lễ của niddah
+### P99 — Xác định trạng thái [ô uế nghi lễ](../glossary#ritual-purity) của [người trong kỳ kinh nguyệt nghi lễ (*niddah*)](../glossary#niddah)
 
 **English:** For a woman in the niddah state to be ritually impure and to transmit impurity.
 
@@ -864,7 +864,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P99)
 
-### P100 — Xác định trạng thái ô uế nghi lễ sau sinh
+### P100 — Xác định trạng thái [ô uế nghi lễ](../glossary#ritual-purity) sau sinh
 
 **English:** For a woman after childbirth to have a ritual status comparable to niddah.
 
@@ -872,7 +872,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P100)
 
-### P101 — Xác định trạng thái và khả năng truyền ô uế của người mắc tzaraat
+### P101 — Xác định trạng thái và khả năng truyền ô uế của người mắc [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat)
 
 **English:** For a person afflicted with tzaraat to be ritually impure and to transmit impurity.
 
@@ -880,7 +880,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P101)
 
-### P102 — Xác định ô uế nghi lễ của tzaraat trên vải và da
+### P102 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) của [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) trên vải và da
 
 **English:** For a garment afflicted with tzaraat to be ritually impure and to transmit impurity.
 
@@ -888,7 +888,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P102)
 
-### P103 — Xác định ô uế nghi lễ của tzaraat trong nhà
+### P103 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) của [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) trong nhà
 
 **English:** For a house afflicted with tzaraat to impart ritual impurity.
 
@@ -896,7 +896,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P103)
 
-### P104 — Xác định khả năng truyền ô uế của zav
+### P104 — Xác định khả năng truyền ô uế của [người nam có tiết dịch bất thường (*zav*)](../glossary#zav-zavah)
 
 **English:** For a zav to impart ritual impurity.
 
@@ -904,7 +904,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P104)
 
-### P105 — Xác định ô uế nghi lễ do tinh dịch
+### P105 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) do tinh dịch
 
 **English:** For an emission of semen to impart ritual impurity.
 
@@ -912,7 +912,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P105)
 
-### P106 — Xác định khả năng truyền ô uế của zavah
+### P106 — Xác định khả năng truyền ô uế của [người nữ có tiết huyết bất thường (*zavah*)](../glossary#zav-zavah)
 
 **English:** For a zavah to impart ritual impurity.
 
@@ -920,7 +920,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P106)
 
-### P107 — Xác định ô uế nghi lễ do xác người
+### P107 — Xác định [ô uế nghi lễ](../glossary#ritual-purity) do xác người
 
 **English:** For a human corpse to impart ritual impurity.
 
@@ -936,7 +936,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P108)
 
-### P109 — Ngâm toàn thân trong mikveh để chuyển khỏi trạng thái ô uế
+### P109 — Ngâm toàn thân trong [bể ngâm thanh tẩy (*mikveh*)](../glossary#mikveh) để chuyển khỏi trạng thái ô uế
 
 **English:** For purification from ritual impurity to involve immersion in the waters of a mikveh.
 
@@ -944,7 +944,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P109)
 
-### P110 — Thanh tẩy tzaraat bằng tuyết tùng, hương thảo, chỉ đỏ, chim và nước sống
+### P110 — Thanh tẩy [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) bằng tuyết tùng, hương thảo, chỉ đỏ, chim và nước sống
 
 **English:** For purification from tzaraat to use cedar wood, hyssop, crimson wool, two birds, and living water.
 
@@ -952,7 +952,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P110)
 
-### P111 — Người được thanh tẩy khỏi tzaraat cạo toàn bộ tóc
+### P111 — Người được thanh tẩy khỏi [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) cạo toàn bộ tóc
 
 **English:** For a person being purified from tzaraat to shave all the hair.
 
@@ -960,7 +960,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P111)
 
-### P112 — Người mang tzaraat công khai cho người khác biết trạng thái của mình
+### P112 — Người mang [bệnh da nghi lễ (*tzaraat*)](../glossary#tzaraat) công khai cho người khác biết trạng thái của mình
 
 **English:** For a person afflicted with tzaraat to make the ritual status publicly recognizable.
 
@@ -968,7 +968,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P112)
 
-### P113 — Chuẩn bị bò cái đỏ để tro sẵn dùng cho việc thanh tẩy
+### P113 — Chuẩn bị [bò cái đỏ (*parah adumah*)](../glossary#parah-adumah) để tro sẵn dùng cho việc thanh tẩy
 
 **English:** To prepare the red heifer so that its ashes are available for purification.
 
@@ -992,7 +992,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P115)
 
-### P116 — Nộp giá trị do kohen định cho ngôi nhà đã thánh hiến
+### P116 — Nộp giá trị do [tư tế (*kohen*)](../glossary#kohen) định cho ngôi nhà đã thánh hiến
 
 **English:** For one who consecrates a house to pay the value appraised by the priest when redeeming it.
 
@@ -1000,7 +1000,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P116)
 
-### P117 — Áp dụng mức định giá Torah cho cánh đồng đã thánh hiến
+### P117 — Áp dụng mức định giá của [Torah](../glossary#torah) cho cánh đồng đã thánh hiến
 
 **English:** For one who consecrates a field to pay the valuation prescribed by the Torah.
 
@@ -1072,7 +1072,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P125)
 
-### P126 — Tách terumah gedolah và trao cho kohen
+### P126 — Tách [phần đóng góp lớn (*terumah gedolah*)](../glossary#terumah-gedolah) và trao cho [tư tế (*kohen*)](../glossary#kohen)
 
 **English:** To separate the great terumah from produce and give it to a priest.
 
@@ -1096,7 +1096,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P128)
 
-### P129 — Người Lêvi tách một phần mười từ phần mười và trao cho kohen
+### P129 — Người Lêvi tách một phần mười từ phần mười và trao cho [tư tế (*kohen*)](../glossary#kohen)
 
 **English:** For the Levites to separate a tithe from the tithe they receive and give it to the priests.
 
@@ -1128,7 +1128,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P132)
 
-### P133 — Tách một phần bột nhào và trao cho kohen
+### P133 — Tách một phần bột nhào và trao cho [tư tế (*kohen*)](../glossary#kohen)
 
 **English:** To separate a portion of dough and give it to a priest.
 
@@ -1152,7 +1152,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P135)
 
-### P136 — Thánh hóa Năm Toàn Xá bằng việc ngừng canh tác
+### P136 — Thánh hóa [Năm Toàn Xá (*Yovel*)](../glossary#jubilee) bằng việc ngừng canh tác
 
 **English:** To sanctify the Jubilee year by observing agricultural rest as in the sabbatical year.
 
@@ -1160,7 +1160,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P136)
 
-### P137 — Thổi shofar để công bố tự do trong Năm Toàn Xá
+### P137 — Thổi [tù và sừng cừu (*shofar*)](../glossary#shofar) để công bố tự do trong [Năm Toàn Xá (*Yovel*)](../glossary#jubilee)
 
 **English:** To sound the shofar in the Jubilee year and proclaim liberty.
 
@@ -1168,7 +1168,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P137)
 
-### P138 — Hoàn trả đất tổ nghiệp trong Năm Toàn Xá
+### P138 — Hoàn trả đất tổ nghiệp trong [Năm Toàn Xá (*Yovel*)](../glossary#jubilee)
 
 **English:** To restore hereditary land to its ancestral holding in the Jubilee year.
 
@@ -1184,7 +1184,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P139)
 
-### P140 — Đếm các năm shemittah và Yovel
+### P140 — Đếm các [năm nghỉ đất (*shemittah*)](../glossary#shemittah) và [Năm Toàn Xá (*Yovel*)](../glossary#jubilee)
 
 **English:** To count the sabbatical and Jubilee years.
 
@@ -1208,7 +1208,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P142)
 
-### P143 — Tra cho kohen chân trước, hai hàm và dạ múi khế của con vật đã giết mổ
+### P143 — Tra cho [tư tế (*kohen*)](../glossary#kohen) chân trước, hai hàm và dạ múi khế của con vật đã giết mổ
 
 **English:** To give a priest the foreleg, the two cheeks, and the maw from a slaughtered animal.
 
@@ -1216,7 +1216,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P143)
 
-### P144 — Tra phần lông cừu xén đầu tiên cho kohen
+### P144 — Tra phần lông cừu xén đầu tiên cho [tư tế (*kohen*)](../glossary#kohen)
 
 **English:** To give the first portion of a sheep's fleece to a priest.
 
@@ -1296,7 +1296,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P153)
 
-### P154 — Nghỉ vào ngày Shabbat
+### P154 — Nghỉ vào [ngày nghỉ (*Shabbat*)](../glossary#shabbat)
 
 **English:** To rest on the seventh day, Shabbat.
 
@@ -1304,7 +1304,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P154)
 
-### P155 — Thánh hóa Shabbat bằng lời khi ngày bắt đầu và kết thúc
+### P155 — Thánh hóa [ngày nghỉ (*Shabbat*)](../glossary#shabbat) bằng lời khi ngày bắt đầu và kết thúc
 
 **English:** To sanctify Shabbat with words at its entrance and departure.
 
@@ -1312,7 +1312,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P155)
 
-### P156 — Loại bỏ chametz trước Pesach
+### P156 — Loại bỏ [thực phẩm lên men (*chametz*)](../glossary#chametz) trước [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To remove chametz before the festival of Pesach.
 
@@ -1320,7 +1320,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P156)
 
-### P157 — Kể lại cuộc Xuất Hành trong đêm đầu Pesach
+### P157 — Kể lại cuộc Xuất Hành trong đêm đầu [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To recount the Exodus from Egypt on the first night of Pesach.
 
@@ -1328,7 +1328,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P157)
 
-### P158 — Ăn matzah trong đêm đầu Pesach
+### P158 — Ăn [bánh không men (*matzah*)](../glossary#matzah) trong đêm đầu [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To eat matzah on the first night of Pesach.
 
@@ -1336,7 +1336,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P158)
 
-### P159 — Nghỉ lao động trong ngày đầu Pesach
+### P159 — Nghỉ lao động trong ngày đầu [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To rest from prohibited labor on the first day of Pesach.
 
@@ -1344,7 +1344,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P159)
 
-### P160 — Nghỉ lao động trong ngày thứ bảy của Pesach
+### P160 — Nghỉ lao động trong ngày thứ bảy của [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To rest from prohibited labor on the seventh day of Pesach.
 
@@ -1352,7 +1352,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P160)
 
-### P161 — Đếm 49 ngày kể từ ngày gặt [omer](../glossary#omer)
+### P161 — Đếm 49 ngày kể từ ngày gặt [bó lúa đầu mùa (*omer*)](../glossary#omer)
 
 **English:** To count 49 days from the harvesting of the omer.
 
@@ -1360,7 +1360,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P161)
 
-### P162 — Nghỉ vào ngày thứ năm mươi sau [Pesach](../glossary#pesach)
+### P162 — Nghỉ vào ngày thứ năm mươi sau [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** To rest on the fiftieth day [after Pesach].
 
@@ -1376,7 +1376,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P163)
 
-### P164 — Tự hạ mình bằng việc nhịn ăn trong [Yom Kippur](../glossary#yom-kippur)
+### P164 — Tự hạ mình bằng việc nhịn ăn trong [Ngày Xá Tội (*Yom Kippur*)](../glossary#yom-kippur)
 
 **English:** To fast on the tenth [of this month, Yom Kippur,].
 
@@ -1384,7 +1384,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P164)
 
-### P165 — Nghỉ lao động trong ngày chay ấy
+### P165 — Nghỉ lao động trong [Ngày Xá Tội (*Yom Kippur*)](../glossary#yom-kippur)
 
 **English:** To rest on [this] fast day.
 
@@ -1392,7 +1392,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P165)
 
-### P166 — Nghỉ vào ngày đầu lễ [Sukkot](../glossary#sukkot)
+### P166 — Nghỉ vào ngày đầu [lễ Lều (*Sukkot*)](../glossary#sukkot)
 
 **English:** To rest on the first day of the festival of Sukkot.
 
@@ -1400,7 +1400,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P166)
 
-### P167 — Nghỉ vào ngày thứ tám của lễ [Sukkot](../glossary#sukkot)
+### P167 — Nghỉ vào [ngày bế mạc thứ tám (*Shemini Atzeret*)](../glossary#shemini-atzeret)
 
 **English:** To rest on the eighth day of the festival of Sukkot.
 
@@ -1408,7 +1408,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P167)
 
-### P168 — Ở trong [sukkah](../glossary#sukkah) suốt bảy ngày
+### P168 — Ở trong [lều tạm (*sukkah*)](../glossary#sukkah) suốt bảy ngày
 
 **English:** To dwell in a sukkah for seven days.
 
@@ -1416,7 +1416,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P168)
 
-### P169 — Cầm [bốn loài](../glossary#lulav-and-four-species) trong lễ [Sukkot](../glossary#sukkot)
+### P169 — Cầm bốn loài trong [lễ Lều (*Sukkot*)](../glossary#sukkot)
 
 **English:** To take the lulav [and the other three species on Sukkot].
 
@@ -1424,7 +1424,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P169)
 
-### P170 — Nghe tiếng [shofar](../glossary#shofar) vào [Rosh Hashanah](../glossary#rosh-hashanah)
+### P170 — Nghe tiếng [tù và sừng cừu (*shofar*)](../glossary#shofar) vào [lễ Đầu Năm (*Rosh Hashanah*)](../glossary#rosh-hashanah)
 
 **English:** To hear the sound of the shofar on Rosh HaShanah.
 
@@ -1432,7 +1432,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P170)
 
-### P171 — Đóng góp [nửa shekel](../glossary#half-shekel) mỗi năm
+### P171 — Đóng góp [nửa đồng *shekel*](../glossary#half-shekel) mỗi năm
 
 **English:** To give a half-shekel each year.
 
@@ -1456,7 +1456,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P173)
 
-### P174 — Tuân theo phán quyết của [Đại Tòa án](../glossary#beit-din-hagadol)
+### P174 — Tuân theo phán quyết của Đại Tòa án
 
 **English:** To obey the High Court regarding all [the ordinances] they establish for Israel.
 
@@ -1464,7 +1464,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P174)
 
-### P175 — Theo đa số trong tranh luận pháp luật của [Sanhedrin](../glossary#sanhedrin)
+### P175 — Theo đa số trong tranh luận pháp luật của [Đại Tòa án (*Sanhedrin*)](../glossary#sanhedrin)
 
 **English:** To follow the majority if there is a difference of opinion in the Sanhedrin concerning a law.
 
@@ -1472,7 +1472,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P175)
 
-### P176 — Bổ nhiệm [thẩm phán và viên chức tòa án](../glossary#judges-officers)
+### P176 — Bổ nhiệm thẩm phán và viên chức tòa án
 
 **English:** To appoint judges and court officers in each and every Jewish community.
 
@@ -1504,7 +1504,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P179)
 
-### P180 — Áp dụng hình phạt tương xứng cho [nhân chứng gian](../glossary#conspiring-witnesses)
+### P180 — Áp dụng hình phạt tương xứng cho nhân chứng gian
 
 **English:** To [punish] false witnesses [by] giving them the same penalty that they wish to have imposed [on the defendant].
 
@@ -1512,7 +1512,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P180)
 
-### P181 — Thực hiện nghi thức [bê cái bị chặt cổ](../glossary#eglah-arufah) cho vụ giết người chưa phá
+### P181 — Thực hiện nghi thức bê cái bị chặt cổ cho vụ giết người chưa phá
 
 **English:** To decapitate the calf [brought as atonement for an unsolved murder] as required.
 
@@ -1520,7 +1520,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P181)
 
-### P182 — Thiết lập sáu [thành trú ẩn](../glossary#cities-of-refuge)
+### P182 — Thiết lập sáu thành trú ẩn
 
 **English:** To prepare six refuge cities.
 
@@ -1552,7 +1552,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P185)
 
-### P186 — Thi hành án đối với [thành sa vào thờ ngẫu tượng](../glossary#apostate-city)
+### P186 — Thi hành án đối với thành sa vào thờ ngẫu tượng
 
 **English:** To slay the inhabitants of an apostate city and burn the city.
 
@@ -1560,7 +1560,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P186)
 
-### P187 — Tiêu diệt bảy dân tộc Canaan được liệt kê
+### P187 — Tiêu diệt [bảy dân Canaan](../glossary#seven-nations) được liệt kê
 
 **English:** To destroy the seven nations [that dwelled in] Eretz Yisrael.
 
@@ -1568,7 +1568,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P187)
 
-### P188 — Xóa bỏ dòng giống [Amalek](../glossary#amalek)
+### P188 — Xóa bỏ [dòng giống Amalek](../glossary#amalek)
 
 **English:** To exterminate the seed of Amalek.
 
@@ -1584,7 +1584,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P189)
 
-### P190 — Tiến hành [chiến tranh tự nguyện](../glossary#optional-war) theo luật Torah
+### P190 — Tiến hành chiến tranh tự nguyện theo [luật Torah](../glossary#torah)
 
 **English:** To wage a voluntary war according to the laws prescribed by the Torah.
 
@@ -1624,7 +1624,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P194)
 
-### P195 — Làm việc từ thiện
+### P195 — Thực hiện [nghĩa vụ trợ giúp (*tzedakah*)](../glossary#tzedakah) cho người thiếu thốn
 
 **English:** To give charity.
 
@@ -1632,7 +1632,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P195)
 
-### P196 — Tặng quà khi cho tôi tớ Hebrew thôi việc
+### P196 — Tặng quà khi cho [tôi tớ người Hebrew (*eved Ivri*)](../glossary#eved-ivri) thôi việc
 
 **English:** To give a severance gift to a Hebrew servant.
 
@@ -1648,7 +1648,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P197)
 
-### P198 — Cho người ngoại bang vay lấy lãi
+### P198 — Cho người ngoài cộng đồng vay lấy lãi theo phạm vi luật cổ
 
 **English:** To lend to a gentile at interest.
 
@@ -1664,7 +1664,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P199)
 
-### P200 — Trả lương đúng hạn
+### P200 — Trả lương cho người làm thuê đúng hạn
 
 **English:** To pay a worker his wage on time.
 
@@ -1680,7 +1680,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P201)
 
-### P202 — Giúp người khác dỡ gánh khỏi người hoặc súc vật của họ
+### P202 — Giúp người khác dỡ gánh khỏi súc vật đang quỵ
 
 **English:** To assist a colleague in unloading a burden which he or his beast [is carrying].
 
@@ -1688,7 +1688,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P202)
 
-### P203 — Giúp người khác chất gánh lên súc vật
+### P203 — Giúp người khác chất lại gánh lên súc vật
 
 **English:** To [help a colleague] load a burden unto a beast.
 
@@ -1696,7 +1696,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P203)
 
-### P204 — Hoàn trả đồ thất lạc
+### P204 — Hoàn trả đồ vật bị thất lạc
 
 **English:** To return a lost object.
 
@@ -1704,7 +1704,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P204)
 
-### P205 — Khiển trách người phạm tội
+### P205 — Khiển trách người phạm sai trái mà không mang tội vì họ
 
 **English:** To rebuke a person who sins.
 
@@ -1712,7 +1712,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P205)
 
-### P206 — Yêu thương mọi người trong dân mình
+### P206 — Yêu người thuộc cộng đồng giao ước như chính mình
 
 **English:** To love every member of our people.
 
@@ -1728,7 +1728,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P207)
 
-### P208 — Dùng cân và quả cân chính xác
+### P208 — Dùng cân, quả cân và đơn vị đo chính xác
 
 **English:** To balance scales with correct weights.
 
@@ -1736,7 +1736,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P208)
 
-### P209 — Tôn kính các hiền giả
+### P209 — Tôn kính các hiền giả [Torah](../glossary#torah)
 
 **English:** To honor the Sages.
 
@@ -1752,7 +1752,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P210)
 
-### P211 — Kính sợ cha mẹ
+### P211 — Kính sợ và giữ sự tôn trọng đối với cha mẹ
 
 **English:** To fear one's father and mother.
 
@@ -1760,7 +1760,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P211)
 
-### P212 — Sinh sôi nảy nở
+### P212 — Sinh con và xây dựng thế hệ kế tiếp
 
 **English:** To be fruitful and multiply.
 
@@ -1768,7 +1768,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P212)
 
-### P213 — Chỉ quan hệ tính dục trong hôn nhân
+### P213 — Thiết lập quan hệ hôn nhân bằng [nghi thức xác lập hôn nhân (*kiddushin*)](../glossary#kiddushin)
 
 **English:** To have sexual relations [only within] marriage.
 
@@ -1776,7 +1776,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P213)
 
-### P214 — Chú rể chung vui với vợ trong một năm
+### P214 — Chú rể dành năm đầu để chung vui và xây dựng gia đình với vợ
 
 **English:** For a groom to rejoice together with his wife for a year.
 
@@ -1784,7 +1784,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P214)
 
-### P215 — Cắt bao quy đầu cho con trai
+### P215 — Thực hiện [nghi thức cắt bì giao ước (*brit milah*)](../glossary#brit-milah) cho con trai
 
 **English:** To circumcise a son.
 
@@ -1792,7 +1792,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P215)
 
-### P216 — Thực hiện hôn nhân levirate với góa phụ của người anh em chết không con
+### P216 — Thực hiện [hôn nhân nối dõi (*yibbum*)](../glossary#yibbum-yavam-yevamah-and-halitzah) trong trường hợp người anh em chết không con
 
 **English:** To marry the widow of one's brother who died childless.
 
@@ -1800,7 +1800,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P216)
 
-### P217 — Thực hiện nghi thức [halitzah](../glossary#yibbum-yavam-yevamah-and-halitzah) nếu [yavam](../glossary#yibbum-yavam-yevamah-and-halitzah) không cưới góa phụ của anh em mình
+### P217 — Thực hiện [nghi thức tháo giày (*halitzah*)](../glossary#yibbum-yavam-yevamah-and-halitzah) khi không tiến hành [hôn nhân nối dõi (*yibbum*)](../glossary#yibbum-yavam-yevamah-and-halitzah)
 
 **English:** To remove the yavam's shoe [if he does not marry his brother's widow].
 
@@ -1808,7 +1808,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P217)
 
-### P218 — Kẻ cưỡng hiếp phải cưới người phụ nữ mình đã cưỡng hiếp
+### P218 — Buộc kẻ cưỡng hiếp chịu trách nhiệm hôn nhân nếu người nữ chấp thuận
 
 **English:** For a rapist to marry the woman he raped.
 
@@ -1816,7 +1816,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P218)
 
-### P219 — Người vu khống vợ phải duy trì hôn nhân với nàng trọn đời
+### P219 — Buộc người vu khống vợ duy trì trách nhiệm hôn nhân suốt đời
 
 **English:** For a person who made defamatory remarks about his wife to remain married to her for his entire life.
 
@@ -1824,7 +1824,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P219)
 
-### P220 — Áp dụng luật về người dụ dỗ, gồm khoản phạt năm mươi shekel
+### P220 — Áp dụng luật bồi thường đối với người dụ dỗ thiếu nữ chưa đính hôn
 
 **English:** To carry out the judgment concerning a seducer, fining him fifty shekels and carrying out the other laws regarding this matter.
 
@@ -1832,7 +1832,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P220)
 
-### P221 — Thực hiện thủ tục [Torah](../glossary#torah) dành cho [yefat to'ar](../glossary#yefat-toar)
+### P221 — Áp dụng thủ tục giới hạn đối với [người nữ tù binh được chọn làm vợ (*yefat to’ar*)](../glossary#yefat-toar)
 
 **English:** To carry out the procedure [the Torah] prescribes for a yefat to'ar.
 
@@ -1840,7 +1840,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P221)
 
-### P222 — Ly hôn bằng [get](../glossary#get)
+### P222 — Thực hiện ly hôn bằng [chứng thư ly hôn (*get*)](../glossary#get)
 
 **English:** To divorce with a get.
 
@@ -1848,7 +1848,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P222)
 
-### P223 — Thực hiện thủ tục dành cho [sotah](../glossary#sotah)
+### P223 — Thực hiện [thủ tục đối với người vợ bị nghi ngoại tình (*sotah*)](../glossary#sotah) theo [luật Torah](../glossary#torah)
 
 **English:** To carry out the [procedure] prescribed for a sotah.
 
@@ -1856,7 +1856,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P223)
 
-### P224 — Đánh roi kẻ có tội
+### P224 — Tòa án thi hành hình phạt roi trong giới hạn luật định
 
 **English:** To whip the wicked.
 
@@ -1864,7 +1864,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P224)
 
-### P225 — Đày người vô ý làm chết người đến thành trú ẩn
+### P225 — Đưa người vô ý làm chết người đến thành trú ẩn
 
 **English:** To exile a person who accidentally kills a person.
 
@@ -1872,7 +1872,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P225)
 
-### P226 — Tòa án thi hành án tử hình bằng chém đầu
+### P226 — Tòa án thi hành án tử hình bằng gươm trong phạm vi luật cổ
 
 **English:** For a court to execute by decapitation.
 
@@ -1880,7 +1880,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P226)
 
-### P227 — Tòa án thi hành án tử hình bằng siết cổ
+### P227 — Tòa án thi hành án tử hình bằng siết cổ trong phạm vi luật cổ
 
 **English:** For a court to execute by strangulation.
 
@@ -1888,7 +1888,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P227)
 
-### P228 — Tòa án thi hành án tử hình bằng thiêu
+### P228 — Tòa án thi hành án tử hình bằng “thiêu” trong phạm vi luật cổ
 
 **English:** For a court to execute by burning [the condemned] with fire.
 
@@ -1896,7 +1896,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P228)
 
-### P229 — Tòa án thi hành án tử hình bằng ném đá
+### P229 — Tòa án thi hành án tử hình bằng ném đá trong phạm vi luật cổ
 
 **English:** For a court to execute by stoning [the condemned] with stones.
 
@@ -1904,7 +1904,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P229)
 
-### P230 — Treo thi thể người thuộc diện phải treo
+### P230 — Treo thi thể thuộc diện luật định sau hành quyết
 
 **English:** To hang [the corpses] of those liable for hanging.
 
@@ -1920,7 +1920,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P231)
 
-### P232 — Áp dụng luật về tôi tớ Hebrew
+### P232 — Áp dụng toàn bộ luật về [tôi tớ người Hebrew (*eved Ivri*)](../glossary#eved-ivri)
 
 **English:** To carry out the laws concerning a Hebrew servant.
 
@@ -1928,7 +1928,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P232)
 
-### P233 — Chủ cưới nữ tỳ Hebrew đã được định hôn cho mình
+### P233 — Thực hiện [việc chủ nhận nữ tỳ người Hebrew làm vợ (*yi’ud*)](../glossary#amah-ivriyah) theo các điều kiện luật định
 
 **English:** To marry a Hebrew maidservant.
 
@@ -1936,7 +1936,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P233)
 
-### P234 — Chuộc nữ tỳ Hebrew
+### P234 — Chuộc [nữ tỳ người Hebrew (*amah Ivriyah*)](../glossary#amah-ivriyah) khỏi thời kỳ phục dịch
 
 **English:** To redeem a Hebrew maidservant.
 
@@ -1944,7 +1944,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P234)
 
-### P235 — Để tôi tớ Canaan phục dịch vĩnh viễn
+### P235 — Áp dụng địa vị phục dịch lâu dài của [tôi tớ người Canaan (*eved Kena’ani*)](../glossary#eved-kenaani) trong luật cổ
 
 **English:** To have a Canaanite servant serve forever.
 
@@ -1952,7 +1952,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P235)
 
-### P236 — Người gây thương tích phải bồi thường
+### P236 — Buộc người gây thương tích bồi thường thiệt hại
 
 **English:** For a person who injures [a colleague] to pay him damages.
 
@@ -1960,7 +1960,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P236)
 
-### P237 — Xét xử thiệt hại do bò gây ra
+### P237 — Xét trách nhiệm thiệt hại do gia súc gây ra
 
 **English:** To judge regarding the damages caused by an ox.
 
@@ -1968,7 +1968,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P237)
 
-### P238 — Xét xử thiệt hại do hố gây ra
+### P238 — Xét trách nhiệm thiệt hại do hố hoặc chướng ngại gây ra
 
 **English:** To judge regarding the damages caused by a pit.
 
@@ -1976,7 +1976,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P238)
 
-### P239 — Xét xử kẻ trộm và buộc bồi thường hoặc chịu án
+### P239 — Xét xử hành vi trộm và áp dụng trách nhiệm tương ứng
 
 **English:** To judge a thief, obligating him for payment or execution.
 
@@ -1984,7 +1984,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P239)
 
-### P240 — Xét xử thiệt hại do súc vật ăn phá
+### P240 — Xét trách nhiệm khi súc vật ăn hoặc giẫm phá tài sản
 
 **English:** To judge regarding the damages caused by grazing.
 
@@ -1992,7 +1992,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P240)
 
-### P241 — Xét xử thiệt hại do lửa gây ra
+### P241 — Xét trách nhiệm thiệt hại do lửa lan gây ra
 
 **English:** To judge regarding the damages caused by fire.
 
@@ -2000,7 +2000,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P241)
 
-### P242 — Xét xử vụ việc liên quan người giữ đồ không công
+### P242 — Xét trách nhiệm của người giữ đồ không nhận công
 
 **English:** To render judgment [in questions] regarding an unpaid watchman.
 
@@ -2008,7 +2008,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P242)
 
-### P243 — Xét xử vụ việc liên quan người giữ đồ có công
+### P243 — Xét trách nhiệm của người giữ đồ có công và người thuê
 
 **English:** To render judgment [in questions] regarding a paid watchman.
 
@@ -2016,7 +2016,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P243)
 
-### P244 — Xét xử vụ việc liên quan người vay mượn
+### P244 — Xét trách nhiệm của người vay mượn tài sản
 
 **English:** To render judgment [in questions] regarding a borrower.
 
@@ -2024,7 +2024,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P244)
 
-### P245 — Xét xử tranh chấp giao dịch
+### P245 — Xét xử giao dịch mua bán theo luật
 
 **English:** To render judgment [in questions] regarding business transactions.
 
@@ -2032,7 +2032,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P245)
 
-### P246 — Xét xử khiếu kiện giữa người với người
+### P246 — Xét xử khiếu kiện và phủ nhận nghĩa vụ giữa các bên
 
 **English:** To render judgment [in questions] regarding claims made by one person against another.
 
@@ -2040,7 +2040,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P246)
 
-### P247 — Cứu người bị truy đuổi, kể cả phải giết kẻ truy đuổi
+### P247 — Cứu người bị truy đuổi bằng mức lực cần thiết
 
 **English:** To save a person who is being pursued even if it is necessary to kill the pursuer.
 
@@ -2048,7 +2048,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./P247)
 
-### P248 — Xét xử các vấn đề thừa kế
+### P248 — Xét xử việc phân chia thừa kế
 
 **English:** To render judgment [in questions] regarding inheritances.
 
@@ -2117,7 +2117,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N7)
 
-### N8 — Không thực hành nghi thức của [ov](../glossary#ov-and-yidoni)
+### N8 — Không thực hành [nghi thức gọi hồn bằng *ov*](../glossary#ov-and-yidoni)
 
 **English:** Not to perform the deeds associated with an ov.
 
@@ -2125,7 +2125,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N8)
 
-### N9 — Không thực hành nghi thức của [yid'oni](../glossary#ov-and-yidoni)
+### N9 — Không thực hành [nghi thức tiên tri bằng *yid’oni*](../glossary#ov-and-yidoni)
 
 **English:** Not to perform the deeds associated with a yid'oni.
 
@@ -2237,7 +2237,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N22)
 
-### N23 — Không xây dựng lại [thành bội giáo](../glossary#apostate-city)
+### N23 — Không xây dựng lại [thành bị lôi kéo thờ ngẫu tượng (*ir ha-nidachat*)](../glossary#apostate-city)
 
 **English:** Not to rebuild an apostate city to its former stature.
 
@@ -2245,7 +2245,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N23)
 
-### N24 — Không hưởng lợi từ tài sản của [thành bội giáo](../glossary#apostate-city)
+### N24 — Không hưởng lợi từ tài sản của [thành bị lôi kéo thờ ngẫu tượng (*ir ha-nidachat*)](../glossary#apostate-city)
 
 **English:** Not to benefit from the property of an apostate city.
 
@@ -2301,7 +2301,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N30)
 
-### N31 — Không hành nghề bói toán theo lối [kesem](../glossary#divination)
+### N31 — Không hành nghề [bói toán theo lối *kesem*](../glossary#divination)
 
 **English:** Not to practice black magic.
 
@@ -2309,7 +2309,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N31)
 
-### N32 — Không định ngày giờ tốt xấu theo lối [onen](../glossary#divination)
+### N32 — Không định ngày giờ tốt xấu theo [lối *onen*](../glossary#divination)
 
 **English:** Not to practice divination.
 
@@ -2333,7 +2333,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N34)
 
-### N35 — Không niệm chú theo lối [chover chaver](../glossary#divination)
+### N35 — Không [niệm chú theo lối buộc bùa (*chover chaver*)](../glossary#divination)
 
 **English:** Not to cast spells.
 
@@ -2341,7 +2341,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N35)
 
-### N36 — Không tìm đến hỏi người hành nghề [ov](../glossary#ov-and-yidoni)
+### N36 — Không tìm đến hỏi [người hành nghề *ov*](../glossary#ov-and-yidoni)
 
 **English:** Not to consult an ov.
 
@@ -2349,7 +2349,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N36)
 
-### N37 — Không tìm đến hỏi người hành nghề [yid'oni](../glossary#ov-and-yidoni)
+### N37 — Không tìm đến hỏi [người hành nghề *yid’oni*](../glossary#ov-and-yidoni)
 
 **English:** Not to consult a yid'oni.
 
@@ -2389,7 +2389,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N41)
 
-### N42 — Không mặc [sha'atnez](../glossary#shaatnez)
+### N42 — Không mặc [vải pha len và lanh (*sha’atnez*)](../glossary#shaatnez)
 
 **English:** Not to wear sha'atnez, as do the priests of false gods.
 
@@ -2501,7 +2501,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N55)
 
-### N56 — Không chủ động đề nghị hòa bình với Ammon và Moab khi khai chiến
+### N56 — Không chủ động đề nghị hòa bình với [Ammon và Moab](../glossary#neighbor-peoples) khi khai chiến
 
 **English:** Not to make an offer of peace to Ammon and Moav at the outbreak of war, as is done for other nations.
 
@@ -2637,7 +2637,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N72)
 
-### N73 — Người say không được vào nơi thánh hay ra phán quyết [halakhah](../glossary#halakhah)
+### N73 — Người say không được vào nơi thánh hay ra phán quyết về [luật Do Thái (*halakhah*)](../glossary#halakhah)
 
 **English:** For a person who is intoxicated not to enter the Temple nor to render a halachic decision.
 
@@ -2749,7 +2749,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N86)
 
-### N87 — Không để tấm che ngực tách khỏi [ephod](../glossary#ephod-and-breastplate)
+### N87 — Không để tấm che ngực tách khỏi [áo lễ *ephod*](../glossary#ephod-and-breastplate)
 
 **English:** For the [High Priest's] breastplate not to come loose from the ephod.
 
@@ -2997,7 +2997,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N117)
 
-### N118 — Không để thịt lễ chagigah ngày mười bốn còn thừa đến ngày thứ ba
+### N118 — Không để thịt [lễ vật hành hương ngày mười bốn (*chagigah*)](../glossary#chagigah) còn thừa đến ngày thứ ba
 
 **English:** Not to allow the meat of the Chaggigah sacrifice to remain until the third day.
 
@@ -3109,7 +3109,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N131)
 
-### N132 — Không ăn lễ vật đã bị vô hiệu vì ý định sai ([piggul](../glossary#piggul))
+### N132 — Không ăn lễ vật đã bị vô hiệu vì ý định sai ([lễ vật vô hiệu vì ý định sai (*piggul*)](../glossary#piggul))
 
 **English:** Not to eat piggul.
 
@@ -3117,7 +3117,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N132)
 
-### N133 — Người không thuộc dòng tư tế không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
+### N133 — Người không thuộc dòng tư tế không được ăn [phần dành cho tư tế (*terumah*)](../glossary#terumah-terumot-and-tevel)
 
 **English:** For an unauthorized person not to partake of terumot.
 
@@ -3125,7 +3125,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N133)
 
-### N134 — Người cư ngụ hay người làm thuê của tư tế cũng không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
+### N134 — Người cư ngụ hay người làm thuê của tư tế cũng không được ăn [phần dành cho tư tế (*terumah*)](../glossary#terumah-terumot-and-tevel)
 
 **English:** For not even a tenant or a hired worker employed by a priest to partake of terumah.
 
@@ -3133,7 +3133,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N134)
 
-### N135 — Người chưa cắt bì không được ăn [terumah](../glossary#terumah-terumot-and-tevel) hay đồ thánh khác
+### N135 — Người chưa cắt bì không được ăn [phần dành cho tư tế (*terumah*)](../glossary#terumah-terumot-and-tevel) hay đồ thánh khác
 
 **English:** For an uncircumcised person not to partake of terumah or other consecrated foods.
 
@@ -3141,7 +3141,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N135)
 
-### N136 — Tư tế đang ô uế không được ăn [terumah](../glossary#terumah-terumot-and-tevel)
+### N136 — Tư tế đang ô uế không được ăn [phần dành cho tư tế (*terumah*)](../glossary#terumah-terumot-and-tevel)
 
 **English:** For a priest who is impure not to partake of terumah.
 
@@ -3149,7 +3149,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N136)
 
-### N137 — Người phụ nữ [chalalah](../glossary#zonah-and-chalalah) không được ăn đồ thánh
+### N137 — [Người phụ nữ mất địa vị tư tế (*chalalah*)](../glossary#zonah-and-chalalah) không được ăn đồ thánh
 
 **English:** For a chalalah not to partake of consecrated foods, neither terumah, nor the breast and the shankbone [given to the priest].
 
@@ -3277,7 +3277,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N152)
 
-### N153 — Không ăn nông sản chưa tách terumah và các phần mười ([tevel](../glossary#terumah-terumot-and-tevel))
+### N153 — Không ăn [nông sản chưa tách phần dâng và phần mười (*tevel*)](../glossary#terumah-terumot-and-tevel)
 
 **English:** Not to eat tevel. Tevel refers to produce from which one is obligated to separate terumah and tithes from which God's terumah has not been separated.
 
@@ -3317,7 +3317,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N157)
 
-### N158 — Tư tế không được lấy người phụ nữ mang địa vị [zonah](../glossary#zonah-and-chalalah)
+### N158 — Tư tế không được lấy người phụ nữ mang [địa vị *zonah*](../glossary#zonah-and-chalalah)
 
 **English:** For a priest not to marry an immoral woman [zonah].
 
@@ -3325,7 +3325,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N158)
 
-### N159 — Tư tế không được lấy người phụ nữ [chalalah](../glossary#zonah-and-chalalah)
+### N159 — Tư tế không được lấy [người phụ nữ mất địa vị tư tế (*chalalah*)](../glossary#zonah-and-chalalah)
 
 **English:** For a priest not to marry a chalalah.
 
@@ -3501,7 +3501,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N180)
 
-### N181 — Không ăn thịt con vật bị thương tổn chí tử ([trefah](../glossary#trefah))
+### N181 — Không ăn thịt con vật bị thương tổn chí tử ([con vật bị thương tổn không được ăn (*trefah*)](../glossary#trefah))
 
 **English:** Not to eat an animal with a mortal infliction (trefah).
 
@@ -3589,7 +3589,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N191)
 
-### N192 — Không ăn trái cây của cây trồng trong ba năm đầu ([orlah](../glossary#orlah))
+### N192 — Không ăn trái cây của cây trồng trong ba năm đầu ([hoa trái ba năm đầu (*orlah*)](../glossary#orlah))
 
 **English:** Not to eat orlah for three years.
 
@@ -3645,7 +3645,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N198)
 
-### N199 — Không ăn men sau trưa ngày 14 Nisan
+### N199 — Không ăn [thực phẩm lên men (*chametz*)](../glossary#chametz) sau trưa ngày 14 [tháng Nisan](../glossary#nisan)
 
 **English:** Not to eat chametz after noontime on the fourteenth [of Nisan].
 
@@ -3669,7 +3669,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N201)
 
-### N202 — Người [nazir](../glossary#nazirite) không uống rượu hay thứ pha rượu, kể cả giấm rượu
+### N202 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không uống rượu hay thứ pha rượu, kể cả giấm rượu
 
 **English:** For a Nazarite not to drink wine or partake of anything in which wine was mixed and has the taste of wine.
 
@@ -3677,7 +3677,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N202)
 
-### N203 — Người [nazir](../glossary#nazirite) không ăn nho tươi
+### N203 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không ăn nho tươi
 
 **English:** [For a Nazarite] not to eat fresh grapes.
 
@@ -3685,7 +3685,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N203)
 
-### N204 — Người [nazir](../glossary#nazirite) không ăn nho khô
+### N204 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không ăn nho khô
 
 **English:** [For a Nazarite] not to eat raisins.
 
@@ -3693,7 +3693,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N204)
 
-### N205 — Người [nazir](../glossary#nazirite) không ăn hạt nho
+### N205 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không ăn hạt nho
 
 **English:** [For a Nazarite] not to eat grape seeds.
 
@@ -3701,7 +3701,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N205)
 
-### N206 — Người [nazir](../glossary#nazirite) không ăn vỏ nho
+### N206 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không ăn vỏ nho
 
 **English:** [For a Nazarite] not to eat grape peels.
 
@@ -3709,7 +3709,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N206)
 
-### N207 — Người [nazir](../glossary#nazirite) không làm mình ô uế vì người chết
+### N207 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không làm mình ô uế vì người chết
 
 **English:** For a Nazarite not to become impure through contact with a dead body.
 
@@ -3717,7 +3717,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N207)
 
-### N208 — Người [nazir](../glossary#nazirite) không đi vào nơi có thi thể
+### N208 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không đi vào nơi có thi thể
 
 **English:** [For a Nazarite] not to enter below any roof beneath which a corpse is found.
 
@@ -3725,7 +3725,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N208)
 
-### N209 — Người [nazir](../glossary#nazirite) không cạo tóc
+### N209 — [Người khấn biệt mình (*nazir*)](../glossary#nazirite) không cạo tóc
 
 **English:** [For a Nazarite] not to shave.
 
@@ -4165,7 +4165,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N263)
 
-### N264 — Không giữ [yefat to'ar](../glossary#yefat-toar) làm nữ tỳ
+### N264 — Không giữ [người nữ tù binh được chọn làm vợ (*yefat to’ar*)](../glossary#yefat-toar) làm nữ tỳ
 
 **English:** Not to force a yefat to'ar to serve as a maidservant.
 
@@ -4509,7 +4509,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N306)
 
-### N307 — Không cạo vùng hói do [tzara'at](../glossary#tzaraat)
+### N307 — Không cạo vùng hói do [dấu tổn thương nghi lễ (*tzara’at*)](../glossary#tzaraat)
 
 **English:** Not to shave the hair around a bald spot brought about by tzara’at].
 
@@ -4517,7 +4517,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N307)
 
-### N308 — Không xóa dấu hiệu [tzara'at](../glossary#tzaraat)
+### N308 — Không xóa dấu hiệu [dấu tổn thương nghi lễ (*tzara’at*)](../glossary#tzaraat)
 
 **English:** Not to remove the signs of tzara’at.
 
@@ -4525,7 +4525,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N308)
 
-### N309 — Không cày cấy thung lũng nơi làm lễ [eglah arufah](../glossary#eglah-arufah)
+### N309 — Không cày cấy thung lũng nơi làm lễ [bê cái bị chặt cổ (*eglah arufah*)](../glossary#eglah-arufah)
 
 **English:** Not to till or sow the land [around] a powerful river [at which atonement was made for an unsolved murder].
 
@@ -4637,7 +4637,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N322)
 
-### N323 — Không làm việc trong ngày đầu [Pesach](../glossary#pesach)
+### N323 — Không làm việc trong ngày đầu [lễ Vượt Qua (*Pesach*)](../glossary#pesach)
 
 **English:** Not to work on the first day of Pesach.
 
@@ -4685,7 +4685,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N328)
 
-### N329 — Không làm việc trong ngày thứ tám của lễ [Sukkot](../glossary#sukkot)
+### N329 — Không làm việc trong [ngày bế mạc thứ tám (*Shemini Atzeret*)](../glossary#shemini-atzeret)
 
 **English:** Not to work on the eighth day of the festival [of Sukkot].
 
@@ -4821,7 +4821,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N345)
 
-### N346 — Không quan hệ tính dục với phụ nữ đang trong thời kỳ [niddah](../glossary#niddah)
+### N346 — Không quan hệ tính dục với [phụ nữ trong kỳ kinh nguyệt nghi lễ (*niddah*)](../glossary#niddah)
 
 **English:** Not to have intimate relations with a woman in the niddah state.
 
@@ -4885,7 +4885,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N353)
 
-### N354 — [Mamzer](../glossary#mamzer) không kết hôn với người Israel
+### N354 — [Người sinh từ quan hệ bị cấm (*mamzer*)](../glossary#mamzer) không kết hôn với người [Israel](../glossary#israel)
 
 **English:** For a mamzer not to marry a natural born Jewess.
 
@@ -4893,7 +4893,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N354)
 
-### N355 — Không để có [kedeishah](../glossary#kedeishah) trong dân Israel
+### N355 — Không để có [người phụ nữ bán dâm nghi lễ (*kedeishah*)](../glossary#kedeishah) trong dân Israel
 
 **English:** For there not to be a kedeishah - i.e., a woman who engages in intimate relations without a marriage contract and a marriage ceremony - [among the Jewish people].
 
@@ -4909,7 +4909,7 @@ Do đó, “613” không đơn giản là kết quả tìm tất cả các câu
 
 [Đọc bản dịch, nguồn Torah và bối cảnh →](./N356)
 
-### N357 — [Yevamah](../glossary#yibbum-yavam-yevamah-and-halitzah) không kết hôn với người khác ngoài [yavam](../glossary#yibbum-yavam-yevamah-and-halitzah) của mình
+### N357 — [Góa phụ chưa hoàn tất thủ tục nối dõi (*yevamah*)](../glossary#yibbum-yavam-yevamah-and-halitzah) không kết hôn với người khác ngoài [anh em chồng có nghĩa vụ nối dõi (*yavam*)](../glossary#yibbum-yavam-yevamah-and-halitzah)
 
 **English:** For a yevamah not to marry anyone other than her yavam.
 

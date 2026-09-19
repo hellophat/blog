@@ -49,7 +49,7 @@ Một kho văn bản rabbi gồm **Mishnah** và các cuộc thảo luận gọi
 *Rabbi* nghĩa gần với “thầy của tôi”, về sau là danh xưng của người có thẩm quyền học thuật và pháp lý trong Do Thái giáo. Rabbi không hoàn toàn tương đương linh mục Công giáo: họ không nhất thiết thuộc một dòng dõi tư tế và chức năng chính gắn với học, dạy, giải thích Torah và hướng dẫn cộng đồng. “Truyền thống rabbi” chỉ nền văn hóa giải thích phát triển đặc biệt sau thời Đền Thờ thứ hai.
 
 <a id="halakhah"></a>
-### Halakhah — הֲלָכָה
+### Luật Do Thái (*halakhah*) — הֲלָכָה
 
 Toàn bộ truyền thống pháp lý và thực hành Do Thái, bao gồm luật từ Torah, cách giải thích của các rabbi, án lệ, tập quán và phán quyết về sau. Từ này liên hệ với gốc “đi/bước đi”, gợi ý con đường phải sống. Halakhah không đơn giản là “luật tôn giáo” tách khỏi đời thường; nó có thể điều chỉnh nghi lễ, ăn uống, gia đình, thương mại, lịch, nông nghiệp và đạo đức.
 
@@ -118,7 +118,7 @@ Bốn phụ âm của Tên riêng của Thiên Chúa trong Kinh Thánh Hebrew, t
 Quan hệ cam kết có tính ràng buộc giữa Thiên Chúa và một cá nhân hay cộng đồng, với lời hứa, nghĩa vụ và dấu hiệu đi kèm. “Giao ước” trong Kinh Thánh có điểm tương đồng với hiệp ước và cam kết thân tộc của thế giới Cận Đông cổ đại, nhưng mang nội dung thần học riêng. Nó không đơn thuần là “hợp đồng”: các bên không nhất thiết ngang hàng và quan hệ bao gồm căn tính, lòng trung thành cùng ký ức cộng đồng.
 
 <a id="shema"></a>
-### Shema — שְׁמַע
+### Lời tuyên xưng *Shema* — שְׁמַע
 
 Từ mở đầu Phục Truyền 6:4, nghĩa là “hãy nghe”, đồng thời có sắc thái lưu tâm và vâng theo. *Shema* cũng là tên phần kinh trung tâm gồm ba đoạn Torah (Phục Truyền 6:4–9; 11:13–21; Dân Số 15:37–41), được đọc sáng và tối. Nó không chỉ là một câu khẳng định độc thần mà còn là lời cam kết trung thành và ghi nhớ điều răn.
 
@@ -138,7 +138,7 @@ Cụm Latin nghĩa là “noi theo Thiên Chúa”. Trong đạo đức Do Thái
 Ngày nghỉ thánh hằng tuần, từ lúc mặt trời lặn tối thứ Sáu đến khi đêm xuống tối thứ Bảy theo cách tính ngày Do Thái. Shabbat tưởng nhớ công trình sáng tạo và cuộc giải phóng khỏi Ai Cập. Nó không đơn giản là “Chủ nhật của người Do Thái”: khác ngày trong tuần, nền tảng Kinh Thánh, nghi thức và các loại công việc bị cấm.
 
 <a id="tefillah"></a>
-### Tefillah / cầu nguyện — תְּפִלָּה
+### Cầu nguyện (*tefillah*) — תְּפִלָּה
 
 *Tefillah* là cầu nguyện; trong cách dùng hẹp, từ này có thể chỉ *Amidah*, chuỗi lời nguyện đứng ở trung tâm các buổi cầu nguyện hằng ngày. Cầu nguyện Do Thái có thời điểm, cấu trúc và văn bản cộng đồng, bên cạnh lời nguyện cá nhân tự phát. Maimonides xếp cầu nguyện vào P5 bằng cách giải thích mệnh lệnh “phụng sự” Thiên Chúa là sự phụng sự bằng tấm lòng. Vì vậy, “cầu nguyện” ở đây không chỉ mang nghĩa xin ơn.
 
@@ -150,22 +150,22 @@ Lễ kéo dài tám ngày tưởng niệm việc tái cung hiến Đền Thờ J
 ## Vật dụng và thực hành
 
 <a id="tefillin"></a>
-### Tefillin — תְּפִלִּין
+### Hộp kinh (*tefillin*) — תְּפִלִּין
 
 Một cặp hộp da nhỏ chứa các đoạn Torah viết trên da thuộc. **Tefillin shel yad** được buộc ở cánh tay; **tefillin shel rosh** được đặt trên đầu. Trong thực hành Chính thống phổ biến, nam giới trưởng thành đeo vào các buổi sáng ngày thường; tập quán về giới tính và cách thực hành khác nhau giữa các phong trào Do Thái. Từ “hộp kinh” chỉ giúp hình dung hình dạng, nhưng không nên liên tưởng đến bùa hộ mệnh dân gian như thể đó là toàn bộ ý nghĩa của vật này.
 
 <a id="tzitzit"></a>
-### Tzitzit — צִיצִת
+### Tua áo nhắc điều răn (*tzitzit*) — צִיצִת
 
 Các tua sợi được gắn vào bốn góc của y phục theo Dân Số 15 và Phục Truyền 22, nhằm nhắc người mặc nhớ các điều răn. Ngày nay chúng thường nằm trên **tallit** (khăn choàng cầu nguyện) hoặc **tallit katan** (áo nhỏ mặc bên trong). Tzitzit không chỉ là tua trang trí hay dấu hiệu dân tộc.
 
 <a id="tekhelet"></a>
-### Tekhelet — תְּכֵלֶת
+### Sợi chỉ xanh lam (*tekhelet*) — תְּכֵלֶת
 
 Màu xanh lam đến xanh tím quý được Torah yêu cầu dùng trong một sợi của tzitzit và trong một số vật liệu Đền Thờ. Thuốc nhuộm cổ thường được liên hệ với động vật thân mềm biển; kỹ thuật và nhận diện chính xác bị thất truyền trong nhiều thế kỷ. Một số cộng đồng hiện đại đã phục hồi sợi màu này, trong khi nhiều người vẫn dùng tzitzit toàn trắng do còn tranh luận về nguồn thuốc nhuộm.
 
 <a id="mezuzah"></a>
-### Mezuzah / mezuzot — מְזוּזָה / מְזוּזוֹת
+### Hộp kinh gắn trên trụ cửa (*mezuzah*) — מְזוּזָה / מְזוּזוֹת
 
 Trong Hebrew Kinh Thánh, *mezuzah* nghĩa là trụ cửa. Trong thực hành Do Thái, từ này chỉ mảnh da thuộc viết Phục Truyền 6:4–9 và 11:13–21 rồi gắn trên trụ cửa, thường đặt trong hộp bảo vệ; *mezuzot* là số nhiều. Hộp bên ngoài không phải phần chính của mitzvah. Mezuzah đánh dấu ngôi nhà bằng lời giao ước; không nên giản lược nó thành vật trang trí hoặc bùa cầu may.
 
@@ -215,7 +215,7 @@ Cấu trúc dành cho lễ vật. Mishkan và Đền Thờ có bàn thờ lớn 
 Nghi thức tư tế nhấc một phần tro khỏi bàn thờ lễ thiêu vào đầu chu kỳ phục vụ mỗi ngày. Nghĩa đen gần với “nhấc phần tro”, không chỉ là quét dọn. Phần tro còn lại cũng được dọn theo quy định, nhưng Maimonides phân biệt hành vi mitzvah mang tính nghi lễ với công việc duy trì bàn thờ nói chung.
 
 <a id="tamid"></a>
-### Korban tamid / lễ vật thường xuyên — קָרְבַּן תָּמִיד
+### Lễ vật hằng ngày (*tamid*) — קָרְבַּן תָּמִיד
 
 Lễ vật cộng đồng được dâng đều đặn mỗi sáng và chạng vạng tại Đền Thờ, gồm chiên cùng phần bột, dầu và rượu. **Korban** là vật được mang đến gần nơi thánh; **tamid** nghĩa là thường xuyên hoặc liên tục. Từ “hy sinh” trong tiếng Việt có thể gợi sự từ bỏ lợi ích cá nhân, nhưng *korban* ở đây trước hết là một phạm trù nghi lễ cụ thể.
 
@@ -225,7 +225,7 @@ Lễ vật cộng đồng được dâng đều đặn mỗi sáng và chạng v
 Trong luật lễ vật, *minchah* thường là lễ phẩm từ bột hoặc ngũ cốc, thường đi cùng dầu và đôi khi nhũ hương; không phải lễ vật động vật. *Minchah* cũng là tên buổi cầu nguyện chiều của Do Thái giáo, được liên hệ với thời điểm lễ vật chiều. Phải dựa vào ngữ cảnh để biết từ đang chỉ lễ phẩm hay buổi cầu nguyện.
 
 <a id="musaf"></a>
-### Musaf / lễ vật bổ sung — מוּסָף
+### Lễ vật bổ sung (*musaf*) — מוּסָף
 
 Lễ vật cộng đồng được **thêm** vào korban tamid trong Shabbat, đầu tháng và các lễ hội. Sau khi Đền Thờ bị phá hủy, tên *Musaf* tiếp tục được dùng cho một buổi cầu nguyện bổ sung vào các ngày ấy. Cầu nguyện Musaf tưởng niệm và tổ chức thời gian theo chế độ lễ vật cổ, nhưng không phải hiến tế động vật trong hội đường.
 
@@ -292,7 +292,7 @@ Pesach, Shavuot và Sukkot, ba lễ mà Torah yêu cầu hành hương đến n�
 Nghĩa vụ biểu hiện niềm vui trong ngày lễ bằng các hình thức vật chất và cộng đồng. Trong thời Đền Thờ, nó gắn với lễ vật bình an; halakhah về sau nói đến ăn uống, trang phục và những điều phù hợp với từng thành viên gia đình. Torah đặc biệt kể cả người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ, nên niềm vui lễ hội bao hàm việc chia sẻ với người dễ bị bỏ quên.
 
 <a id="korban-pesach"></a>
-### Korban Pesach / lễ vật Vượt Qua — קָרְבַּן פֶּסַח
+### Lễ vật Vượt Qua (*korban Pesach*) — קָרְבַּן פֶּסַח
 
 Con chiên hoặc dê được giết vào chiều ngày 14 Nisan và ăn theo nhóm trong đêm mở đầu Pesach khi Đền Thờ còn hoạt động. Nó không phải mọi món thịt dùng trong bữa Seder và cũng không đồng nhất với toàn bộ lễ Pesach. Sau khi Đền Thờ bị phá hủy, người Do Thái không dâng korban Pesach; xương ống trên đĩa Seder chỉ mang tính tưởng niệm trong nhiều truyền thống.
 
@@ -307,7 +307,7 @@ Tháng mùa xuân được Torah gọi là “tháng thứ nhất”, thường 
 Cơ hội vào ngày 14 Iyar, muộn một tháng, dành cho người không thể dâng lễ vật Pesach đúng kỳ vì ô uế do xác chết hoặc ở xa. Đây không phải một tuần lễ Vượt Qua thứ hai và không lặp lại toàn bộ luật kiêng men của Pesach chính.
 
 <a id="matzah"></a>
-### Matzah / bánh không men — מַצָּה
+### Bánh không men (*matzah*) — מַצָּה
 
 Bánh làm từ ngũ cốc và nước, được ngăn không cho lên men theo tiêu chuẩn thời gian và chế biến của halakhah. Matzah gắn với sự vội vã của cuộc Xuất Hành và được ăn trong Pesach. Nó không đơn giản là mọi loại bánh dẹt hoặc bánh không dùng men công nghiệp.
 
@@ -322,7 +322,7 @@ Rau có vị đắng dùng trong bữa Pesach để tưởng nhớ sự cay đ�
 Hai kèn kim loại dài được Dân Số 10 giao cho các tư tế dùng để triệu tập, điều động, báo động và thổi trong nghi lễ lễ vật. Chúng khác shofar về vật liệu, hình dáng và chức năng. Hình ảnh kèn hiện đại kiểu châu Âu không nên được dùng để minh họa nếu không chú thích.
 
 <a id="shofar"></a>
-### Shofar — שׁוֹפָר
+### Tù và sừng dê (*shofar*) — שׁוֹפָר
 
 Nhạc khí làm từ sừng động vật phù hợp, đặc biệt gắn với Rosh Hashanah và kết thúc Yom Kippur. Shofar không phải kèn bạc *chatzotzrot*. Tiếng Việt đều có thể gọi là “kèn”, nên bài giữ tên Hebrew để tránh nhập hai mitzvot và hai truyền thống nhạc cụ thành một.
 
@@ -337,7 +337,7 @@ Tính từ nghĩa là toàn vẹn, trọn vẹn hoặc không tì vết. Trong l
 Muối đi cùng lễ vật và tượng trưng cho tính bền vững của giao ước, có thể liên hệ khả năng bảo quản và bữa ăn kết ước. Nó không phải loại muối riêng có quyền năng ma thuật và không tương đương tập tục rắc muối trừ tà.
 
 <a id="olah"></a>
-### Olah / lễ toàn thiêu — עֹלָה
+### Lễ toàn thiêu (*olah*) — עֹלָה
 
 Lễ vật động vật hoặc chim được đốt gần như toàn bộ trên bàn thờ; tên gọi bắt nguồn từ “đi lên”. Máu được xử lý tại bàn thờ và người dâng không ăn thịt. Thuật ngữ “toàn thiêu” trong nghi lễ này không nên bị nhập với Holocaust, tên một biến cố diệt chủng hiện đại.
 
@@ -352,17 +352,17 @@ Loại lễ vật thường gắn với vi phạm vô ý hoặc một số trạ
 *Asham* có thể nghĩa lỗi, trách nhiệm hoặc lễ vật đền lỗi. Nó áp dụng cho những trường hợp cụ thể như xâm phạm vật thánh, tài sản hay trách nhiệm chưa chắc chắn. Khi có thiệt hại tài sản, lễ vật không thay thế nghĩa vụ hoàn trả và khoản bổ sung.
 
 <a id="shelamim"></a>
-### Shelamim / lễ vật bình an — שְׁלָמִים
+### Lễ bình an (*shelamim*) — שְׁלָמִים
 
 Lễ vật trong đó một phần được đốt, một phần dành cho tư tế và phần còn lại được người dâng cùng nhóm ăn trong trạng thái thanh sạch. Tên liên hệ với *shalom*—sự trọn vẹn và an hòa. Nó có thể là lễ tạ ơn, tự nguyện hoặc hoàn thành lời khấn, không chỉ liên quan hòa bình sau chiến tranh.
 
 <a id="sanhedrin"></a>
-### Sanhedrin / tòa án tối cao — סַנְהֶדְרִין
+### Đại Tòa án (*Sanhedrin*) — סַנְהֶדְרִין
 
 Tên Hy Lạp được dùng trong truyền thống rabbi cho hội đồng pháp lý cấp cao. Maimonides liên hệ “mắt của hội chúng” trong Lêvi 4 với tòa án có thẩm quyền hướng dẫn luật cho cộng đồng. Không nên đồng nhất Sanhedrin cổ với quốc hội, nội các hay tòa án tối cao của Nhà nước Israel hiện đại.
 
 <a id="karet"></a>
-### Karet — כָּרֵת
+### Hình phạt khai trừ thiêng liêng (*karet*) — כָּרֵת
 
 Hình phạt “bị cắt khỏi” dành cho một số vi phạm nghiêm trọng trong Torah. Cách hiểu hậu quả chính xác được thảo luận trong truyền thống rabbi, nhưng đây là hình phạt thuộc quyền Thiên Chúa, không đồng nhất với án tử hình do tòa án hoặc khai trừ hội đường thông thường.
 
@@ -382,17 +382,17 @@ Lễ vật dành cho trường hợp một người có nghi ngờ xác định 
 Nghĩa đen là lễ vật “đi lên và đi xuống”: hình thức lễ vật thay đổi theo khả năng kinh tế của người dâng. Lêvi 5 cho phép lần lượt vật nuôi, chim, hoặc một lượng bột đối với một số vi phạm nhất định. Vì vậy, đây không phải mức phạt tăng giảm theo độ nặng của tội, mà là cơ chế để người nghèo vẫn có thể hoàn thành nghĩa vụ nghi lễ.
 
 <a id="vidui"></a>
-### Vidui / xưng nhận — וִדּוּי
+### Lời xưng nhận (*vidui*) — וִדּוּי
 
 Sự thừa nhận bằng lời trước Thiên Chúa rằng mình đã phạm sai, một thành phần của *teshuvah*—quá trình quay trở lại và sửa đổi. Không nên hiểu *vidui* theo mô hình bí tích xưng tội với giáo sĩ: trong Do Thái giáo, rabbi không ban sự tha tội thay mặt Thiên Chúa. Với lỗi gây hại cho người khác, lời xưng nhận cũng không thay thế việc xin lỗi, hoàn trả và khắc phục hậu quả.
 
 <a id="zav-zavah"></a>
-### Zav và zavah — זָב / זָבָה
+### Người có tiết dịch bất thường (*zav/zavah*) — זָב / זָבָה
 
 Các phạm trù nghi lễ trong Lêvi 15 dành cho người nam hoặc nữ có một số dạng tiết dịch sinh dục bất thường. Chúng tạo ra trạng thái ô uế nghi lễ trong một thời hạn, sau đó có thủ tục đếm ngày, tắm và—khi Đền Thờ hoạt động—dâng lễ vật. Đây không phải sự kết án đạo đức hay một chẩn đoán y khoa hiện đại; *zavah* cũng không hoàn toàn đồng nghĩa với *niddah*, trạng thái gắn với kinh nguyệt.
 
 <a id="tzaraat"></a>
-### Tzaraat — צָרַעַת
+### Dấu tổn thương nghi lễ (*tzara’at*) — צָרַעַת
 
 Trạng thái nghi lễ được Lêvi 13–14 mô tả trên da người, quần áo và nhà cửa, do tư tế xem xét và tuyên bố tình trạng. **Metzora** là người được xác định mang trạng thái ấy; **beged menugga** và **bayit menugga** lần lượt là y phục/vật liệu và ngôi nhà mang dấu hiệu. Từ *tzaraat* thường từng được dịch là “phong cùi”, nhưng không đồng nhất với bệnh Hansen hiện đại: vật liệu và nhà cửa cũng có thể mang trạng thái này theo văn bản. Tư tế thực hiện phân loại nghi lễ, không hành nghề chẩn đoán y khoa theo nghĩa hiện đại.
 
@@ -447,17 +447,17 @@ Con vật mà chủ sở hữu tìm cách dùng để thay một con đã đư�
 Phần của *minchah* còn lại sau khi tư tế lấy và đốt “phần tưởng niệm” trên bàn thờ. Phần này được phân cho các tư tế ăn theo quy định về địa điểm, thời hạn và thanh sạch. “Còn lại” không mang nghĩa thức ăn thừa hay phần kém chất lượng, mà là phần được nghi lễ chủ ý dành lại sau phần thuộc bàn thờ.
 
 <a id="notar"></a>
-### Notar / lễ vật còn quá hạn — נוֹתָר
+### Phần lễ vật quá hạn (*notar*) — נוֹתָר
 
 Thịt hoặc phần ăn được của lễ vật vẫn còn sau thời hạn mà Torah cho phép ăn. Khi thời hạn hết, phần ấy phải bị thiêu. *Notar* khác vật thánh bị ô uế: nguyên nhân mất tư cách ở đây là thời gian, ngay cả khi thịt không tiếp xúc bất cứ nguồn ô uế nào. Không nên hiểu đơn giản là “đồ ăn thừa” có thể cất cho bữa sau.
 
 <a id="nazirite"></a>
-### Nazir / Nazirite — נָזִיר
+### Người khấn biệt mình (*nazir*) — נָזִיר
 
 Người nhận lời khấn được quy định trong Dân Số 6, gồm kiêng rượu và sản phẩm từ nho, không cắt tóc và tránh ô uế do người chết trong thời kỳ khấn. Cả nam lẫn nữ đều có thể nhận lời khấn. *Nazir* mang nghĩa người được biệt riêng hoặc kiêng giữ, không đồng nhất với tu sĩ sống độc thân, ẩn sĩ hay thành viên một dòng tu theo văn hóa Kitô giáo hoặc Phật giáo.
 
 <a id="vows"></a>
-### Neder và shevuah / lời khấn và lời thề — נֶדֶר / שְׁבוּעָה
+### Lời khấn (*neder*) — נֶדֶר / שְׁבוּעָה
 
 Hai cơ chế lời nói có hiệu lực pháp lý nhưng không hoàn toàn giống nhau. Nói giản lược, *neder* thường đặt một vật hoặc lợi ích vào địa vị bị cấm hay được biệt riêng đối với người nói; *shevuah* ràng buộc chính người nói phải làm hoặc không làm. Bản dịch Việt thường gọi cả hai là “lời thề”, dễ che mất những điều kiện và thủ tục khác nhau của chúng.
 
@@ -467,7 +467,7 @@ Hai cơ chế lời nói có hiệu lực pháp lý nhưng không hoàn toàn gi
 *Hafarah* là việc người có thẩm quyền gia đình vô hiệu một số lời khấn trong thời hạn và điều kiện của Dân Số 30. *Hatarah* là việc một học giả hoặc tòa gồm những người đủ tư cách tháo gỡ lời khấn dựa trên những căn cứ được luật rabbi công nhận. Hai thủ tục không phải giấy phép chung để thất hứa và cũng không tương đương hủy hợp đồng dân sự hiện đại.
 
 <a id="nevelah"></a>
-### Nevelah / xác động vật — נְבֵלָה
+### Xác động vật chết không qua giết mổ (*nevelah*) — נְבֵלָה
 
 Trong luật thực phẩm và thanh sạch, đây là xác của một loài thú hoặc gia súc chết không qua cách giết mổ làm nó hợp lệ để ăn. Tiếp xúc, mang hoặc ăn có thể tạo những hậu quả nghi lễ khác nhau. *Nevelah* không chỉ mọi xác chết—xác người có hệ luật riêng—và trạng thái phát sinh không tự động là bệnh truyền nhiễm hay lỗi đạo đức.
 
@@ -482,7 +482,7 @@ Tám sinh vật được nêu tên trong Lêvi 11:29–30 mà xác chết của 
 Khả năng một số thực phẩm tiếp nhận và truyền trạng thái ô uế theo luật nghi lễ, đặc biệt sau khi đã tiếp xúc một trong các chất lỏng làm chúng “sẵn sàng” tiếp nhận ô uế. Phạm trù này khác với luật **kosher**, vốn xác định loài và cách chế biến được phép ăn, và cũng khác an toàn vệ sinh thực phẩm. Một món có thể kosher nhưng mang ô uế nghi lễ.
 
 <a id="niddah"></a>
-### Niddah — נִדָּה
+### Tình trạng kinh nguyệt nghi lễ (*niddah*) — נִדָּה
 
 Trạng thái pháp lý–nghi lễ gắn trước hết với dòng máu kinh nguyệt trong Lêvi 15, kéo theo quy tắc về tiếp xúc, việc tiếp cận vật thánh và quan hệ vợ chồng. Luật rabbi về sau phát triển chi tiết thực hành, gồm việc đếm ngày và ngâm *mikveh*. Dịch *niddah* thành “người đàn bà dơ bẩn” là sai lệch: đây không phải phán xét vệ sinh, tội lỗi hay phẩm giá của người có kinh.
 
@@ -492,22 +492,22 @@ Trạng thái pháp lý–nghi lễ gắn trước hết với dòng máu kinh n
 Cụm Hebrew Kinh Thánh chỉ tinh dịch hoặc sự xuất tinh, nghĩa đen gắn với “dòng/hạt giống giao hợp”. Lêvi 15 quy định việc xuất tinh tạo trạng thái ô uế nghi lễ tạm thời cho người và vật tiếp xúc. Trạng thái ấy không tự động là tội tình dục, bệnh lý hay nhận xét rằng quan hệ vợ chồng là dơ bẩn.
 
 <a id="corpse-impurity"></a>
-### Tumat met / ô uế do người chết — טֻמְאַת מֵת
+### Ô uế do người chết (*tumat met*) — טֻמְאַת מֵת
 
 Trạng thái phát sinh do chạm xác người, xương hoặc mộ, và trong một số trường hợp do cùng ở dưới một mái hoặc “lều” với xác. Dân Số 19 quy định thời hạn bảy ngày và việc rảy nước tro bò đỏ. Đây là địa vị nghi lễ nghiêm trọng nhưng không phải tội: chăm sóc và mai táng người chết vẫn có thể là nghĩa vụ tôn giáo.
 
 <a id="mei-niddah"></a>
-### Mei niddah / nước thanh tẩy bằng tro bò đỏ — מֵי נִדָּה
+### Nước thanh tẩy tro bò đỏ (*mei niddah*) — מֵי נִדָּה
 
 Nước từ nguồn được trộn với tro của *parah adumah*—bò cái đỏ—rồi rảy trong quá trình thanh tẩy ô uế do xác người. Trong Dân Số 19, nước này thanh tẩy đúng đối tượng nhưng việc chuẩn bị, rảy hoặc chạm nó có thể khiến người đang thanh sạch trở nên ô uế đến chiều. Không nên nhầm *mei niddah* với nước tắm kinh nguyệt hoặc một thứ “nước thánh” dùng cho mọi mục đích.
 
 <a id="mikveh"></a>
-### Mikveh / bể ngâm nghi lễ — מִקְוֶה
+### Bể ngâm nghi lễ (*mikveh*) — מִקְוֶה
 
 Một tập hợp nước đáp ứng các điều kiện của halakhah để người hoặc đồ vật ngâm toàn bộ nhằm chuyển khỏi một số trạng thái ô uế. Mikveh thường gắn với nước tự nhiên hoặc nước mưa được thu theo cách hợp lệ; nó không đơn giản là bồn tắm, hồ bơi hay nơi tắm công cộng. Việc ngâm nghi lễ không thay thế tắm rửa vệ sinh hoặc điều trị y khoa.
 
 <a id="tzaraat-purification"></a>
-### Nghi thức thanh tẩy tzaraat — טָהֳרַת צָרַעַת
+### Thanh tẩy khỏi *tzara’at* — טָהֳרַת צָרַעַת
 
 Bước đầu được Lêvi 14 quy định bằng hai chim thanh sạch, gỗ tuyết tùng, *ezov* thường dịch là hyssop hoặc hương thảo, sợi nhuộm đỏ thẫm và “nước sống” từ nguồn. Một con chim được giết, con còn sống cùng các vật liệu được dùng trong nghi thức rảy rồi thả đi. Đây là nghi thức chuyển địa vị của người hoặc nhà đã được kohen xác định; không phải thuốc chữa bệnh da, phép trừ tà hay nghi lễ phóng sinh theo truyền thống Việt Nam.
 
@@ -532,32 +532,32 @@ Năm thứ năm mươi sau bảy chu kỳ bảy năm theo Lêvi 25, được cô
 Việc sử dụng, hưởng lợi hoặc làm giảm giá trị tài sản đã thánh hiến trái với địa vị của nó. Khi vô ý, Lêvi 5 quy định hoàn trả, phần bổ sung gọi là *chomesh* và lễ vật đền lỗi; trong phép tính rabbi, phần bổ sung bằng một phần tư giá trị gốc, tức một phần năm của tổng mới. *Meilah* không chỉ là trộm cắp thông thường: ngay cả người không định chiếm hữu vẫn có thể phải chịu trách nhiệm vì đã dùng vật dành cho nơi thánh.
 
 <a id="neta-revai"></a>
-### Neta revai / hoa trái năm thứ tư — נֶטַע רְבָעִי
+### Hoa trái năm thứ tư (*neta revai*) — נֶטַע רְבָעִי
 
 Hoa trái của cây trong năm thứ tư tính theo hệ thống luật nông nghiệp Do Thái. Ba năm đầu thuộc **orlah** và không được hưởng; sản phẩm năm thứ tư có địa vị thánh, được ăn tại Jerusalem trong điều kiện thích hợp hoặc được chuộc theo luật. Đây là niên kỳ nghi lễ của cây, không phải khuyến cáo rằng quả của mọi cây dưới bốn năm đều độc.
 
 <a id="peah"></a>
-### Peah / góc ruộng dành lại — פֵּאָה
+### Góc ruộng dành cho người nghèo (*peah*) — פֵּאָה
 
 Phần ở cạnh hoặc góc ruộng mà chủ không thu hoạch để người nghèo và ngoại kiều cư trú tự thu gom. Torah không nêu một tỷ lệ số học trong câu lệnh; Mishnah về sau quy định mức tối thiểu trong điều kiện thông thường và điều chỉnh theo ruộng, sản lượng và số người cần. *Peah* là quyền tiếp cận sản vật tại ruộng, không đồng nhất với thuế nhà nước hay tiền quyên góp tự nguyện.
 
 <a id="leket"></a>
-### Leket / bông lúa rơi khi gặt — לֶקֶט
+### Bông lúa rơi dành cho người nghèo (*leket*) — לֶקֶט
 
 Những bông hoặc thân lúa vô tình rơi khỏi tay người gặt trong thao tác thu hoạch, được để lại cho người nghèo. Luật rabbi xác định số lượng và hoàn cảnh nào tạo thành *leket*; nó không bao gồm mọi thất thoát trong vận chuyển hay chế biến. Chủ ruộng không thu gom phần này để tự chọn người nhận, vì quyền mót phát sinh ngay tại đồng.
 
 <a id="shikhecha"></a>
-### Shikhecha / sản vật bị quên — שִׁכְחָה
+### Bó lúa bỏ quên dành cho người nghèo (*shikhechah*) — שִׁכְחָה
 
 Bó lúa hoặc, theo sự phát triển pháp lý, một số sản vật mà chủ hay người làm thực sự bỏ quên trong ruộng. Phục Truyền 24 cấm quay lại lấy và dành phần ấy cho ngoại kiều, trẻ mồ côi và góa phụ. Đây không phải một lễ vật tự nguyện; khi các điều kiện của “quên” đã hình thành, chủ mất quyền thu hồi.
 
 <a id="olelot"></a>
-### Olelot / chùm nho không hoàn chỉnh — עוֹלְלוֹת
+### Chùm nho sót dành cho người nghèo (*olelot*) — עוֹלְלוֹת
 
 Những chùm nho thiếu cấu trúc phát triển đầy đủ theo tiêu chí của luật rabbi, được để lại cho người nghèo. *Olelot* khác *peret*, là các quả riêng lẻ rơi lúc hái, và khác lệnh chung không thu vét vườn. Dịch đơn giản thành “nho xấu” dễ làm người đọc tưởng chủ vườn chỉ cho phần hư hỏng.
 
 <a id="peret"></a>
-### Peret / quả nho rơi rời rạc — פֶּרֶט
+### Quả nho rơi dành cho người nghèo (*peret*) — פֶּרֶט
 
 Các quả nho riêng lẻ rơi khỏi tay người hái trong quá trình thu hoạch và phải được để lại cho người nghèo cùng ngoại kiều cư trú. *Peret* là quyền mót cụ thể trong vườn nho, không phải toàn bộ quả còn sót sau mùa và không đồng nhất với *olelot*.
 
@@ -567,32 +567,32 @@ Các quả nho riêng lẻ rơi khỏi tay người hái trong quá trình thu h
 Những quả chín đầu tiên được đánh dấu, đặt trong giỏ và mang đến Đền Thờ. Truyền thống rabbi gắn nghĩa vụ với bảy sản vật ca ngợi Đất Israel: lúa mì, lúa mạch, nho, vả, lựu, ôliu và chà là. *Bikkurim* không phải mọi sản phẩm đầu tiên của nghề nghiệp và khác phần sản vật đầu mùa trao trực tiếp cho kohen gọi là *terumah*.
 
 <a id="terumah-gedolah"></a>
-### Terumah gedolah / phần dâng lớn cho tư tế — תְּרוּמָה גְּדוֹלָה
+### Phần dành cho tư tế (*terumah gedolah*) — תְּרוּמָה גְּדוֹלָה
 
 Phần đầu của ngũ cốc, rượu và dầu được tách riêng và trao cho kohen. “Gedolah” phân biệt nó với *terumat maaser*, không nhất thiết nói đây là phần có khối lượng lớn; Torah không ấn định tỷ lệ, còn luật rabbi đưa ra các mức thông thường. Phần này mang địa vị thánh và có những hạn chế về người được ăn cùng trạng thái thanh sạch.
 
 <a id="maaser-rishon"></a>
-### Maaser rishon / phần mười thứ nhất — מַעֲשֵׂר רִאשׁוֹן
+### Phần mười thứ nhất (*ma’aser rishon*) — מַעֲשֵׂר רִאשׁוֹן
 
 Một phần mười sản vật được tách sau *terumah gedolah* và trao cho người Lêvi. Từ phần nhận được, người Lêvi tiếp tục tách *terumat maaser* cho kohen. Nó khác phần mười thứ hai được chủ ăn tại Jerusalem và phần mười dành cho người nghèo trong những năm nhất định.
 
 <a id="maaser-sheni"></a>
-### Maaser sheni / phần mười thứ hai — מַעֲשֵׂר שֵׁנִי
+### Phần mười thứ hai (*ma’aser sheni*) — מַעֲשֵׂר שֵׁנִי
 
 Phần mười có địa vị thánh nhưng vẫn do chủ sở hữu dùng làm thực phẩm tại Jerusalem trong năm thứ nhất, thứ hai, thứ tư và thứ năm của chu kỳ nông nghiệp bảy năm. Khi đường xa, giá trị có thể được chuyển sang tiền rồi dùng mua thực phẩm tại Jerusalem theo luật. Đây không phải khoản trao cho người Lêvi hay thuế thu nhập hiện đại.
 
 <a id="terumat-maaser"></a>
-### Terumat maaser / phần dâng từ phần mười — תְּרוּמַת מַעֲשֵׂר
+### Phần mười của phần mười (*terumat ma’aser*) — תְּרוּמַת מַעֲשֵׂר
 
 Một phần mười của *maaser rishon* mà người Lêvi tách và trao cho kohen. Nó tương ứng một phần trăm của sản lượng ban đầu nếu tính đơn giản, nhưng địa vị pháp lý là “phần dâng từ phần mười”, không phải sắc thuế một phần trăm độc lập đánh trực tiếp lên chủ ruộng.
 
 <a id="maaser-ani"></a>
-### Maaser ani / phần mười cho người nghèo — מַעֲשֵׂר עָנִי
+### Phần mười cho người nghèo (*ma’aser ani*) — מַעֲשֵׂר עָנִי
 
 Phần mười dành cho người nghèo trong năm thứ ba và thứ sáu của chu kỳ bảy năm, thay cho *maaser sheni* của những năm ấy. Người Lêvi, ngoại kiều cư trú, trẻ mồ côi và góa phụ được nêu trong nhóm hưởng. Nó được phân phối tại địa phương, khác bữa ăn nghi lễ của phần mười thứ hai tại Jerusalem.
 
 <a id="vidui-maaser"></a>
-### Vidui maaser / lời tuyên bố về phần mười — וִדּוּי מַעֲשֵׂר
+### Lời tuyên xưng về phần mười (*vidui ma’aser*) — וִדּוּי מַעֲשֵׂר
 
 Lời đọc trong Phục Truyền 26 xác nhận người nói đã lấy các phần thánh khỏi nhà, phân phối đúng cho người Lêvi, ngoại kiều, trẻ mồ côi và góa phụ, đồng thời không sử dụng sai quy định. Dù *vidui* thường có nghĩa xưng nhận lỗi, nội dung ở đây chủ yếu là lời khai đã tuân thủ. Nó không phải bản khai thuế hay lời xưng tội với giáo sĩ.
 
@@ -617,7 +617,7 @@ Cơ chế trong Lêvi 25 bảo vệ đất tổ nghiệp của gia tộc: thân 
 Nhà ở trong thành thuộc loại “có tường” theo luật Lêvi 25 và các tiêu chí rabbi. Người bán có một năm để chuộc; sau thời hạn, quyền của người mua trở thành vĩnh viễn và nhà không trở lại trong Jubilee. Quy tắc khác nhà tại làng không tường và đất nông nghiệp, nên “nhà có hàng rào” theo nghĩa thông thường không đủ để thuộc loại này.
 
 <a id="shemittat-kesafim"></a>
-### Shemittat kesafim / xóa nợ năm thứ bảy — שְׁמִטַּת כְּסָפִים
+### Xóa nợ năm thứ bảy (*shemittat kesafim*) — שְׁמִטַּת כְּסָפִים
 
 Việc chủ nợ buông quyền đòi các khoản vay thuộc phạm vi luật khi kết thúc năm *shemittah*. Phục Truyền 15 đồng thời cấm vì sắp đến năm xóa nợ mà khép tay trước người nghèo. *Prozbul*, do Hillel gắn với tòa án, là cơ chế rabbi nhằm tránh tình trạng chủ tiền ngừng cho vay; nó không đơn giản là tuyên bố cá nhân rằng nợ không còn được xóa.
 
@@ -637,12 +637,12 @@ Chân trước, hai phần hàm hoặc má và **kevah**—dạ múi khế, ngă
 Phần đầu của lông cừu khi xén được trao cho kohen theo Phục Truyền 18. Luật rabbi quy định loại vật nuôi, số lượng đàn và lượng trao. Đây là nguyên liệu dệt dành cho tư tế, không phải con cừu sinh đầu tiên, toàn bộ bộ lông hay mọi sản phẩm len đã qua công nghiệp.
 
 <a id="cherem"></a>
-### Cherem / tài sản hiến định không thể chuộc — חֵרֶם
+### Vật biệt hiến (*cherem*) — חֵרֶם
 
 Trong Lêvi 27, một loại tuyên hiến tài sản có tính không thể bán hoặc chuộc, với các quy tắc xác định tài sản dành cho Thiên Chúa hay kohen. Cùng gốc từ *cherem* còn được dùng ở nơi khác cho việc hủy diệt dành riêng hoặc, trong lịch sử rabbi, sự khai trừ cộng đồng. Các nghĩa này không được nhập làm một nếu không xét văn cảnh.
 
 <a id="shechita"></a>
-### Shechita / giết mổ theo halakhah — שְׁחִיטָה
+### Giết mổ nghi lễ (*shechitah*) — שְׁחִיטָה
 
 Phương thức giết mổ thú hoặc chim được phép ăn bằng một đường cắt liên tục ở vùng cổ với con dao đáp ứng tiêu chuẩn, do người có kỹ năng thực hiện. Luật còn liên quan việc kiểm tra con vật và xử lý máu. *Shechita* không chỉ là đọc lời chúc trên thịt; lời chúc không thể biến cách giết mổ không hợp lệ thành kosher.
 
@@ -677,7 +677,7 @@ Thẩm quyền của *beit din*—tòa án Do Thái—trong việc xác lập đ
 **Kiddush** là lời thánh hóa đánh dấu Shabbat hoặc ngày lễ bắt đầu, thường đọc trên rượu tại bữa ăn. **Havdalah** là nghi thức “phân biệt” khi thời gian thánh kết thúc, thường có rượu, hương thơm và ánh lửa. Rượu và các vật dụng thuộc hình thức nghi lễ halakhah; cốt lõi Maimonides nhấn mạnh là ghi nhớ và phân biệt ngày bằng lời.
 
 <a id="chametz"></a>
-### Chametz và seor / ngũ cốc lên men và bột gây men — חָמֵץ / שְׂאֹר
+### Thực phẩm lên men (*chametz*) — חָמֵץ / שְׂאֹר
 
 *Chametz* là sản phẩm từ năm loại ngũ cốc đã tiếp xúc nước và lên men theo tiêu chuẩn Pesach; *seor* là khối bột lên men dùng gây men. Khái niệm không đồng nhất với mọi thực phẩm có men vi sinh, bột nở hóa học hoặc đồ ăn “phồng”. Trong Pesach, các luật riêng điều chỉnh việc ăn, sở hữu, hưởng lợi và loại bỏ chametz.
 
@@ -698,13 +698,18 @@ Lễ hành hương kéo dài bảy ngày vào mùa thu, theo sau bởi ngày l�
 
 ## Nơi thánh và nghi lễ Đền Thờ
 
+<a id="manna"></a>
+### Manna — מָן
+
+Thức ăn mà theo Xuất Hành 16, Israel nhặt mỗi sáng trong hoang địa; vào ngày thứ sáu họ nhặt gấp đôi, và không có manna vào ngày Shabbat. Truyền thống rabbi rút từ câu chuyện này nhiều luật về Shabbat.
+
 <a id="mishkan"></a>
-### Mishkan / Lều Hội Ngộ — מִשְׁכָּן
+### Lều Hội Ngộ (*Mishkan*) — מִשְׁכָּן
 
 Nơi thánh di động được mô tả trong Xuất Hành, dựng bằng khung, vải và da để đồng hành cùng Israel trong hoang mạc. *Mishkan* nghĩa gần với “nơi cư ngụ”. Nó là tiền thân văn chương và nghi lễ của Đền Thờ Jerusalem, nhưng không phải cùng một tòa nhà.
 
 <a id="shekhinah"></a>
-### Shekhinah / Sự Hiện Diện — שְׁכִינָה
+### Sự hiện diện của Thiên Chúa (*Shekhinah*) — שְׁכִינָה
 
 Thuật ngữ rabbi chỉ sự hiện diện ngự trị của Thiên Chúa, từ gốc Hebrew mang nghĩa “ở/ngự”. Từ *Shekhinah* không xuất hiện như một danh từ riêng trong Torah, dù được xây dựng từ ngôn ngữ Kinh Thánh về việc YHWH ngự giữa Israel. Nó không phải một nữ thần độc lập hay một vật thể nằm trong Đền Thờ.
 
@@ -783,7 +788,7 @@ Qumran là địa điểm gần bờ tây bắc Biển Chết, cạnh các hang 
 ## Thuật ngữ xuất hiện trong các điều răn còn lại
 
 <a id="sukkah"></a>
-### Sukkah — סֻכָּה
+### Lều tạm (*sukkah*) — סֻכָּה
 
 Lều tạm dùng trong lễ Sukkot, có mái che bằng vật liệu thực vật đã rời khỏi đất. Việc “ở trong sukkah” là một thực hành nghi lễ, không chỉ có nghĩa chung là ở trong lều.
 
@@ -793,17 +798,17 @@ Lều tạm dùng trong lễ Sukkot, có mái che bằng vật liệu thực v�
 *Lulav* vốn là nhánh chà là, đồng thời thường được dùng để gọi bó nghi lễ gồm chà là, sim và liễu; bó này được cầm cùng quả *etrog* trong Sukkot.
 
 <a id="yibbum-yavam-yevamah-and-halitzah"></a>
-### Yibbum, yavam, yevamah và halitzah — יִבּוּם / יָבָם / יְבָמָה / חֲלִיצָה
+### Hôn nhân nối dõi và nghi thức tháo dép (*yibbum/chalitzah*) — יִבּוּם / יָבָם / יְבָמָה / חֲלִיצָה
 
 *Yibbum* là hôn nhân levirate: người đàn ông cưới góa phụ của người anh em chết không con. Người đàn ông là *yavam*, góa phụ là *yevamah*. *Halitzah* là nghi thức tháo giày chấm dứt ràng buộc ấy khi họ không kết hôn.
 
 <a id="get"></a>
-### Get / chứng thư ly hôn — גֵּט
+### Chứng thư ly hôn (*get*) — גֵּט
 
 Văn kiện ly hôn theo halakhah, phải được viết và trao với các điều kiện về ý hướng, tên, nhân chứng và thủ tục. Dịch đơn thuần là “ly hôn” làm mất ý rằng điều răn nói đến một văn bản pháp lý cụ thể. Khi việc trao bị từ chối, người vợ có thể thành *agunah*—người bị “neo” trong hôn nhân—một vấn đề mà các cộng đồng tìm cơ chế phòng ngừa và giải quyết.
 
 <a id="sotah"></a>
-### Sotah — סוֹטָה
+### Người vợ bị nghi ngoại tình (*sotah*) — סוֹטָה
 
 Người vợ thuộc thủ tục Dân Số 5 khi chồng ghen tuông nghi ngoại tình trong những điều kiện pháp lý nhất định. Nghi thức gắn với Đền Thờ, lễ phẩm, lời thề và “nước đắng”; không phải xét nghiệm pháp y và không được thực hiện ngày nay. Đây là một địa vị pháp lý–nghi lễ cổ đại, không phải từ đồng nghĩa chung cho “người ngoại tình”.
 
@@ -813,7 +818,7 @@ Người vợ thuộc thủ tục Dân Số 5 khi chồng ghen tuông nghi ngo�
 Nghĩa đen là “người phụ nữ dung mạo đẹp”, chỉ nữ tù binh chiến tranh trong thủ tục đặc thù của Đệ Nhị Luật 21. Luật trì hoãn hành vi của người chiến thắng, dành một tháng tang chế và cấm bán nàng nếu quan hệ không tiếp tục, nhưng vẫn nằm trong bất đối xứng quyền lực của cảnh tù binh. Thuật ngữ không nên tách khỏi bối cảnh chiến tranh cổ đại hoặc dùng để hợp thức hóa cưỡng ép hiện đại.
 
 <a id="ov-and-yidoni"></a>
-### Ov và yid'oni — אוֹב / יִדְּעֹנִי
+### Thuật gọi hồn (*ov/yid’oni*) — אוֹב / יִדְּעֹנִי
 
 Hai loại người hoặc phép cầu hồn bị Torah cấm. Nghĩa và kỹ thuật chính xác của chúng không hoàn toàn chắc chắn, nên giữ phiên âm thay vì đồng nhất với mọi hình thức “phù thủy”.
 
@@ -823,7 +828,7 @@ Hai loại người hoặc phép cầu hồn bị Torah cấm. Nghĩa và kỹ t
 Tên gắn với nghi thức “cho con đi qua lửa” bị Torah cấm. Học giới tranh luận đây là một thần linh, một loại lễ hiến tế hay tên của nghi thức; vì vậy bài giữ nguyên tên riêng.
 
 <a id="shaatnez"></a>
-### Sha'atnez — שַׁעַטְנֵז
+### Vải pha len và lanh (*sha’atnez*) — שַׁעַטְנֵז
 
 Vải hoặc y phục pha len và lanh bị cấm trong Torah. Đây không phải lệnh cấm chung đối với mọi loại vải pha.
 
@@ -833,27 +838,27 @@ Vải hoặc y phục pha len và lanh bị cấm trong Torah. Đây không ph�
 Hai bộ phận trong phẩm phục của Thượng tế. *Ephod* là một loại áo hay tạp dề nghi lễ; *ḥoshen* là tấm đeo ngực gắn với ephod.
 
 <a id="piggul"></a>
-### Piggul — פִּגּוּל
+### Lễ vật vô hiệu vì ý định sai (*piggul*) — פִּגּוּל
 
 Lễ vật bị mất tư cách do tư tế có ý định ăn hoặc dâng phần của nó ngoài thời gian hay nơi chốn được phép. Không phải mọi lễ vật hỏng hoặc ô uế đều là *piggul*.
 
 <a id="terumah-terumot-and-tevel"></a>
-### Terumah, terumot và tevel — תְּרוּמָה / תְּרוּמוֹת / טֶבֶל
+### Phần dành cho tư tế (*terumah*) — תְּרוּמָה / תְּרוּמוֹת / טֶבֶל
 
 *Terumah* là phần nông sản được tách cho tư tế; *terumot* là số nhiều và trong một số ngữ cảnh bao gồm nhiều phần dâng. *Tevel* là nông sản chưa tách đủ các phần dâng và phần mười bắt buộc.
 
 <a id="zonah-and-chalalah"></a>
-### Zonah và chalalah — זוֹנָה / חֲלָלָה
+### Các địa vị hôn nhân bị cấm với tư tế (*zonah/chalalah*) — זוֹנָה / חֲלָלָה
 
 Hai địa vị hôn nhân trong luật tư tế. Phạm vi pháp lý của *zonah* hẹp và kỹ thuật hơn từ “gái mại dâm” thông thường; *chalalah* là phụ nữ bị mất tư cách tư tế do một quan hệ bị cấm đối với kohen hoặc sinh ra từ quan hệ ấy.
 
 <a id="trefah"></a>
-### Trefah — טְרֵפָה
+### Con vật bị thương tổn không được ăn (*trefah*) — טְרֵפָה
 
 Con vật bị thương hoặc mắc tổn thương chí tử theo phân loại halakhah. Trong cách dùng hiện đại, từ này đôi khi được dùng rộng cho đồ ăn không kosher, nhưng điều răn ở đây có nghĩa kỹ thuật hẹp hơn.
 
 <a id="orlah"></a>
-### Orlah — עָרְלָה
+### Hoa trái ba năm đầu (*orlah*) — עָרְלָה
 
 Hoa trái của cây trong ba năm đầu sau khi trồng, bị cấm dùng theo Lêvi 19. Không nên nhầm với nghĩa khác của cùng gốc từ liên quan đến “chưa cắt bao quy đầu”.
 
@@ -863,12 +868,12 @@ Hoa trái của cây trong ba năm đầu sau khi trồng, bị cấm dùng theo
 Người đứng đầu hoặc thủ lĩnh. Trong hệ thống của Maimonides ở điều cấm này, từ có thể chỉ vua hoặc người đứng đầu học viện tại Eretz Yisrael.
 
 <a id="mamzer"></a>
-### Mamzer — מַמְזֵר
+### Người sinh từ quan hệ bị cấm (*mamzer*) — מַמְזֵר
 
 Địa vị pháp lý của người sinh từ một số quan hệ bị Torah cấm nghiêm trọng. Từ này không tương đương với “con ngoài giá thú” theo nghĩa rộng trong văn hóa Việt.
 
 <a id="kedeishah"></a>
-### Kedeishah — קְדֵשָׁה
+### Người phụ nữ bán dâm nghi lễ (*kedeishah*) — קְדֵשָׁה
 
 Trong cách Maimonides trình bày điều cấm, chỉ người phụ nữ quan hệ tính dục mà không có khế ước và nghi thức hôn nhân. Cách hiểu thuật ngữ trong văn bản Kinh Thánh là vấn đề còn được tranh luận.
 
@@ -953,7 +958,7 @@ Vùng đất trống hoặc đồng cỏ bao quanh một thành, dùng cho gia s
 Rào chắn bảo vệ trên mái phẳng có người sử dụng. Điều luật phản ánh kiến trúc nhà cổ nơi mái là không gian sinh hoạt; truyền thống rabbi phát triển từ đây nguyên tắc rộng hơn về loại bỏ nguy hiểm có thể dự liệu.
 
 <a id="avodah-zarah"></a>
-### Avodah zarah và meshamsheha / thờ thần khác và vật phụ trợ — עֲבוֹדָה זָרָה / מְשַׁמְּשֶׁיהָ
+### Việc thờ thần khác (*avodah zarah*) — עֲבוֹדָה זָרָה / מְשַׁמְּשֶׁיהָ
 
 *Avodah zarah* nghĩa chữ là “sự phụng tự xa lạ”, thuật ngữ rabbi cho việc thờ thần khác hoặc ngẫu tượng. *Meshamsheha* là các đồ vật phục vụ trực tiếp cho sự thờ cúng ấy, không phải mọi tài sản từng thuộc về một người ngoài Do Thái.
 
@@ -1056,7 +1061,7 @@ Hai loại lời thề cá nhân trong luật rabbi. *Shevuat bitui*, “lời t
 **Điểm cần tránh:** Đây là các phạm trù về lời thề có nhân danh Thiên Chúa, không phải lệnh cấm mọi lời hứa hay mọi cách nói “thề” trong đời thường.
 
 <a id="sacred-names"></a>
-### Các Danh không được xóa và genizah — שֵׁמוֹת שֶׁאֵינָם נִמְחָקִים / גְּנִיזָה
+### Các danh xưng thánh — שֵׁמוֹת שֶׁאֵינָם נִמְחָקִים / גְּנִיזָה
 
 Maimonides liệt kê bảy danh xưng Hebrew của Thiên Chúa mà khi đã được viết với ý thánh thì không được xóa hay hủy. Văn bản thánh đã cũ hoặc hư hỏng không bị vứt bỏ mà được cất vào *genizah*, nơi lưu giữ rồi chôn cất. Genizah Cairo nổi tiếng, nơi tìm thấy hàng trăm nghìn mảnh văn bản trung đại, có cả thư tay của chính Maimonides, hình thành từ tập quán này.
 
@@ -1073,7 +1078,7 @@ Tòa nhà chính của Đền Thờ gồm hai gian: *heichal*, Gian Thánh, nơi
 Truyền thống rabbi đọc cấu trúc trại Israel trong hoang địa thành ba vòng thánh thiêng: *machaneh Shekhinah* (trại của sự Hiện diện), *machaneh leviyah* (trại của người Lêvi) và *machaneh Yisrael* (trại của dân). Khi có Đền Thờ, chúng tương ứng với sân Đền Thờ, Núi Đền và thành Jerusalem. Mỗi loại ô uế bị giới hạn ở một vòng khác nhau.
 
 <a id="tevul-yom"></a>
-### Tevul yom / người đã ngâm mình nhưng chưa hết ngày — טְבוּל יוֹם
+### Người đã ngâm mình chờ đến chiều (*tevul yom*) — טְבוּל יוֹם
 
 Người đã ngâm mình trong *mikveh* để thoát một trạng thái ô uế, nhưng theo luật phải chờ đến khi mặt trời lặn mới hoàn tất sự thanh sạch. Trong khoảng thời gian ấy, người đó có địa vị trung gian: không còn ô uế đầy đủ, nhưng chưa được phụng sự hay ăn một số của lễ.
 
@@ -1099,7 +1104,7 @@ Hai loại tài sản mà Phục Truyền 23:19 cấm đem vào nhà Thiên Chú
 **Điểm cần tránh:** Một số học giả hiện đại cho rằng “chó” ở đây có thể là thuật ngữ chỉ một loại người phục vụ trong đền thờ ngoại giáo; truyền thống rabbi đọc theo nghĩa đen. Điều luật nói về lễ vật, không phải phán xét về giá trị con người.
 
 <a id="chagigah"></a>
-### Chagigah / lễ vật hành hương — חֲגִיגָה
+### Lễ vật hành hương (*chagigah*) — חֲגִיגָה
 
 Của lễ thuộc loại lễ bình an được dâng trong các kỳ hành hương. *Chagigat arba’ah asar*, “lễ chagigah ngày mười bốn”, là lễ bình an tự nguyện dâng cùng lễ Vượt Qua vào chiều 14 Nisan khi đoàn người đông, để lễ Vượt Qua được ăn khi đã no. Nó được ăn trong hai ngày và một đêm, khác với lễ Vượt Qua phải ăn hết trong đêm.
 
@@ -1141,12 +1146,12 @@ Lệnh cấm “đừng nấu dê con trong sữa mẹ nó”, được Torah nh
 Thể chế do Hillel lập ra khi thấy người ta không dám cho vay trước năm Sabát, vì sợ khoản nợ bị xóa. Người cho vay trao quyền đòi nợ cho tòa án bằng một văn bản; vì việc xóa nợ chỉ áp dụng cho nợ giữa cá nhân, nợ đã giao cho tòa không bị xóa. *Prosbul* thường được nêu như ví dụ điển hình cho việc các hiền sĩ điều chỉnh luật để giữ đúng mục đích của Torah là bảo vệ người nghèo.
 
 <a id="kilayim"></a>
-### Kilayim / các loại lẫn lộn — כִּלְאַיִם
+### Sự pha giống bị cấm (*kilayim*) — כִּלְאַיִם
 
 Họ điều luật về sự tách biệt các loại: không lai giống súc vật khác loài, không gieo hai loại hạt chung một ruộng, không gieo ngũ cốc hay rau trong vườn nho, và không mặc *sha’atnez*. Riêng *kilayim* trong vườn nho bị cấm cả ăn và hưởng lợi. Ở Đất Israel phần lớn là luật Torah; ngoài Đất, các hiền sĩ phân biệt từng loại.
 
 <a id="chadash"></a>
-### Chadash / nông sản mới trước lễ omer — חָדָשׁ
+### Ngũ cốc vụ mới (*chadash*) — חָדָשׁ
 
 Ngũ cốc thu hoạch trong năm, thuộc năm loại (lúa mì, lúa mạch, spelt, lúa mạch đen, yến mạch theo cách hiểu truyền thống), không được ăn trước khi lễ *omer* được dâng vào ngày 16 Nisan. Khi Đền Thờ không còn, thời điểm ấy được tính theo ngày. Việc luật này có áp dụng ngoài Đất Israel hay không là một tranh luận lâu dài trong halakhah.
 
@@ -1198,7 +1203,7 @@ Danh từ Hebrew chỉ một con vật nhỏ thuộc đàn chiên hoặc dê; b�
 Thịt mang địa vị thánh do thuộc một lễ vật, và vì thế chịu các quy tắc riêng về người được ăn, nơi ăn, thời hạn và trạng thái thanh sạch. Cụm này không chỉ mọi món thịt dùng trong một bữa ăn tôn giáo; ở P90, nó nói đến thịt lễ vật đã tiếp nhận ô uế và phải bị thiêu.
 
 <a id="yoledet"></a>
-### Yoledet / người nữ sau sinh — יוֹלֶדֶת
+### Người mẹ sau sinh (*yoledet*) — יוֹלֶדֶת
 
 Dạng giống cái của động từ “sinh”, dùng cho người nữ vừa sinh con. Trong Lêvi 12, *yoledet* bước vào một chuỗi trạng thái và thời hạn nghi lễ liên quan máu hậu sản; thuật ngữ không hàm ý rằng sinh nở là tội lỗi, mất vệ sinh hay làm giảm phẩm giá của người mẹ.
 
@@ -1233,7 +1238,7 @@ Trong Đệ Nhị Luật 23, *yad* là địa điểm được chỉ định bê
 Nghĩa vụ trả lại chính vật đã chiếm đoạt hoặc giá trị phải bồi hoàn theo luật. *Gezel* nói đến việc lấy hoặc giữ tài sản trái quyền của chủ; lời xin lỗi, lễ vật hay hình phạt không thay thế việc khôi phục tài sản cho người bị hại. Nó khác *hashavat aveidah*, hoàn trả vật người khác vô ý đánh mất.
 
 <a id="tzedakah"></a>
-### Tzedakah / nghĩa vụ trợ giúp công chính — צְדָקָה
+### Nghĩa vụ cứu trợ (*tzedakah*) — צְדָקָה
 
 Nghĩa vụ hỗ trợ người thiếu thốn, từ gốc từ liên hệ “công chính/đúng đắn”. Vì vậy *tzedakah* rộng hơn cảm hứng làm từ thiện tùy ý: pháp điển bàn về mức ưu tiên, nhu cầu, phẩm giá người nhận và việc giúp họ tự đứng vững. Thuật ngữ không đồng nhất với bố thí để tích công hoặc quyền của người cho kiểm soát đời sống người nhận.
 
@@ -1313,7 +1318,7 @@ Nghĩa vụ chăm lo và hành xử tôn kính đối với cha và mẹ, đư�
 Mệnh lệnh và phúc lành về sự tiếp nối nhân loại trong Sáng Thế 1 và 9, được pháp điển Do Thái triển khai thành nghĩa vụ sinh sản với các điều kiện cụ thể. Thuật ngữ không có nghĩa người vô sinh, độc thân, không thể mang thai hoặc không có con kém phẩm giá. Các quyết định y khoa và nguy cơ sức khỏe không thể được giải quyết chỉ bằng việc lặp lại khẩu hiệu này.
 
 <a id="kiddushin"></a>
-### Kiddushin và nissuin / thiết lập và hoàn tất hôn nhân — קִדּוּשִׁין / נִשּׂוּאִין
+### Lễ kết lập hôn nhân (*kiddushin*) — קִדּוּשִׁין / נִשּׂוּאִין
 
 *Kiddushin* tạo quan hệ hôn nhân độc quyền về pháp lý; *nissuin* đưa hai người vào đời sống hôn nhân hoàn chỉnh. Trong lễ cưới Do Thái ngày nay, hai giai đoạn thường diễn ra liên tiếp dưới *chuppah*. *Kiddushin* không đơn giản là đính hôn hiện đại và không có nghĩa quan hệ tình dục tự động tạo thành hôn nhân hợp lệ.
 
@@ -1343,7 +1348,7 @@ Nghĩa chữ là người “đưa ra tiếng xấu”, nhưng trong Đệ Nhị
 Người nam dụ dỗ một thiếu nữ chưa đính hôn trong phạm trù Xuất Hành 22, được phân biệt với *ones* là cưỡng ép. Luật đặt trách nhiệm hôn nhân–tài chính nhưng cho người cha quyền từ chối trong cấu trúc phụ hệ cổ. Trả khoản tiền không mua quyền sở hữu người nữ, không làm hành vi trở thành đúng và không thay thế luật hiện đại về đồng thuận cùng độ tuổi bảo vệ.
 
 <a id="malkot"></a>
-### Malkot / hình phạt roi của tòa — מַלְקוֹת
+### Hình phạt roi (*malkot*) — מַלְקוֹת
 
 Hình phạt thân thể do tòa đủ thẩm quyền áp dụng cho một số vi phạm, với số roi và đánh giá sức khỏe được giới hạn. Truyền thống rabbi đặt mức tối đa thực hành là ba mươi chín, dưới giới hạn bốn mươi của Đệ Nhị Luật. Đây không phải quyền của cha mẹ, giáo sĩ, cộng đồng hay đám đông tự đánh người bị coi là có lỗi.
 
@@ -1363,7 +1368,7 @@ Việc phơi thi thể trong thời gian ngắn sau khi người thuộc một s
 Nghĩa vụ không để thi thể người bị hành quyết và treo qua đêm mà phải hạ xuống, chôn trong ngày. Luật giới hạn việc bêu nhục thi thể và được truyền thống liên hệ giá trị mai táng kịp thời rộng hơn. Đây không có nghĩa bỏ qua điều tra pháp y hoặc các yêu cầu hợp pháp hiện đại khi cái chết chưa được làm rõ.
 
 <a id="eved-ivri"></a>
-### Eved Ivri / người Hebrew phục dịch lệ thuộc — עֶבֶד עִבְרִי
+### Người phục vụ Hebrew (*eved Ivri*) — עֶבֶד עִבְרִי
 
 Một người Hebrew/Israel bước vào địa vị phục dịch có thời hạn do nghèo túng, tự bán sức lao động hoặc trong một số trường hợp tư pháp. Torah và pháp điển giới hạn thời hạn, cách đối xử và trả tự do. Địa vị này không phải lao động tự do hiện đại, nhưng cũng khác chế độ nô lệ hàng hóa chủng tộc cận đại; phân biệt lịch sử không làm mọi hình thức lệ thuộc trở nên chấp nhận được ngày nay.
 
@@ -1468,7 +1473,7 @@ Tình trạng một người làm điều bị cấm vì bị ép buộc, bị �
 **Điểm cần tránh:** Không phải mọi áp lực đều là cưỡng ép theo nghĩa pháp lý; và việc tòa không trừng phạt không có nghĩa hành vi ấy trở thành được phép.
 
 <a id="lashon-hara"></a>
-### Lashon ha-ra và rechilut / lời nói xấu và đưa chuyện — לָשׁוֹן הָרָע / רְכִילוּת
+### Lời nói xấu (*lashon ha-ra*) — לָשׁוֹן הָרָע / רְכִילוּת
 
 Hai phạm trù về lời nói gây hại trong luật rabbi. *Rechilut* là mang chuyện từ người này sang người kia: “ông ấy nói thế này về anh”. *Lashon ha-ra* là kể điều xấu, **dù là sự thật**, về một người khác. Nếu điều kể ra là sai sự thật thì gọi là *motzi shem ra*, bôi nhọ. Talmud nói *lashon ha-ra* “giết ba người”: người nói, người nghe, và người bị nói đến.
 
@@ -1482,7 +1487,7 @@ Nguyên tắc rằng việc cứu một mạng người đứng trên hầu hế
 **Điểm cần tránh:** *Pikuach nefesh* không phải một sự miễn trừ miễn cưỡng; Maimonides viết rằng luật của Torah “không phải là sự báo thù trên thế gian, mà là lòng thương xót, nhân ái và hòa bình”.
 
 <a id="arayot"></a>
-### Arayot / các quan hệ tính dục bị cấm — עֲרָיוֹת
+### Các quan hệ tính dục bị cấm (*arayot*) — עֲרָיוֹת
 
 Số nhiều của *ervah*, nghĩa đen “sự trần truồng”, từ cụm Lêvi 18 lặp lại: “đừng phơi bày sự trần truồng của…”. Thuật ngữ chỉ các quan hệ bị cấm vì huyết thống, hôn nhân, hay vì người phụ nữ đã có chồng. Theo luật rabbi, mọi quan hệ trong nhóm này bị *karet*; một số còn bị tòa xử tử. Hôn nhân giữa những người thuộc nhóm này không có hiệu lực pháp lý.
 
@@ -1501,3 +1506,774 @@ Khoảng cách tối đa một người được đi ra ngoài nơi mình ở tr
 Phục Truyền 17:14–20 cho phép Israel lập vua, nhưng giới hạn quyền lực của vua ngay trong đoạn luật ấy: vua phải là người Israel, không được có nhiều ngựa, nhiều vợ, nhiều vàng bạc, và phải chép một cuốn Torah để đọc suốt đời, “để lòng vua không kiêu căng với anh em mình”. Trong *Mishneh Torah*, luật về vua là một phần của nhóm luật về thời kỳ Israel có chủ quyền và Đền Thờ, gắn với hy vọng về Đấng Messiah.
 
 **Điểm cần tránh:** Luật về vua không phải lý thuyết về quân chủ nói chung, và không thể áp dụng cho các nhà nước hiện đại; nhiều điều trong đó là giới hạn chứ không phải đặc quyền.
+
+## Tác phẩm, nhà chú giải và các hiền sĩ
+
+<a id="mishnah-midrash-works"></a>
+### Sifra, Sifrei và Mekhilta — סִפְרָא / סִפְרֵי / מְכִילְתָּא
+
+Ba tập *midrash halakhah*, tức sách giải thích luật theo từng câu Torah, hình thành từ trường của các *tanna* (hiền sĩ thời Mishnah, thế kỷ I–III CN). **Mekhilta** giải thích sách Xuất Hành, **Sifra** giải thích sách Lêvi, **Sifrei** giải thích Dân Số và Phục Truyền Luật Lệ. Maimonides dựa rất nhiều vào ba tập này khi xác định câu Torah nào là nền của điều răn nào.
+
+**Điểm cần tránh:** Đây không phải phần của Torah, cũng không phải sách của một tác giả duy nhất; mỗi tập lưu lại nhiều ý kiến, đôi khi trái nhau.
+
+<a id="baraita"></a>
+### Baraita — בָּרַיְתָא
+
+Chữ Aramaic nghĩa là “bên ngoài”: một lời dạy của các *tanna* không được đưa vào Mishnah, nhưng được Talmud trích dẫn, thường mở đầu bằng “תַּנְיָא” (*tanya*, “có lời dạy rằng”). Baraita có thẩm quyền ngang hàng với các hiền sĩ thời Mishnah, nhưng thường nhường Mishnah khi mâu thuẫn.
+
+<a id="midrash"></a>
+### Midrash — מִדְרָשׁ
+
+Từ gốc **דרשׁ** (*darash*, “tìm kiếm, tra hỏi”): vừa là phương pháp đọc kỹ từng chữ Kinh Thánh để rút ra luật hay bài học, vừa là tên một thể loại sách. *Midrash halakhah* rút ra luật (xem Sifra, Sifrei và Mekhilta); *midrash aggadah* rút ra bài học đạo đức, truyện kể và thần học.
+
+**Điểm cần tránh:** Một cách đọc midrash thường không phải nghĩa đơn giản (*peshat*) của câu văn; hai lớp này nên được phân biệt.
+
+<a id="targum-onkelos"></a>
+### Targum Onkelos — תַּרְגּוּם אוּנְקְלוֹס
+
+Bản dịch Torah sang tiếng Aramaic được dùng rộng rãi nhất, được truyền thống gán cho Onkelos, một người cải đạo thế kỷ II CN. Vì là bản dịch có tính giải thích, Targum Onkelos thường cho thấy cách các hiền sĩ hiểu một câu Torah; Maimonides đôi khi dựa vào nó.
+
+<a id="vayikra-rabbah"></a>
+### Vayikra Rabbah — וַיִּקְרָא רַבָּה
+
+Một tập *midrash aggadah* về sách Lêvi, biên soạn ở Đất Israel khoảng thế kỷ V CN, gồm các bài giảng mang tính đạo đức và thần học hơn là luật.
+
+<a id="halakhot-gedolot"></a>
+### Halakhot Gedolot — הֲלָכוֹת גְּדוֹלוֹת
+
+Một bộ luật thời Geonim (thế kỷ IX), thường gán cho Rabbi Shimon Kayyara ở Babylon. Phần mở đầu của nó có một danh sách 613 điều răn; *Sefer HaMitzvot* của Maimonides được viết một phần để phê bình và sửa danh sách ấy.
+
+<a id="guide-for-the-perplexed"></a>
+### Sách Hướng dẫn cho người bối rối — מוֹרֵה נְבוּכִים (*Moreh Nevukhim*)
+
+Tác phẩm triết học của Maimonides, viết bằng tiếng Judeo-Arabic khoảng năm 1190, nhằm hòa giải Torah với triết học Aristotle. Phần III (các chương 26–49) bàn về **lý do** của các điều răn, và thường đưa ra lý do lịch sử hay đạo đức cho những luật mà *Mishneh Torah* chỉ trình bày như quy định.
+
+**Điểm cần tránh:** Lý do trong *Moreh Nevukhim* không thay đổi nghĩa vụ pháp lý; chính Maimonides giữ luật dù lý do có thể không còn áp dụng.
+
+<a id="masekhet"></a>
+### Masekhet / các tractate — מַסֶּכֶת
+
+Mishnah và Talmud được chia thành 63 “tractate” (*masekhet*, nghĩa đen là “tấm dệt”), mỗi tractate mang một tên Hebrew hay Aramaic theo chủ đề chính: ví dụ *Berakhot* (“các lời chúc tụng”), *Shabbat*, *Pesachim* (“các lễ vật Vượt Qua”), *Yoma* (“Ngày”, tức Yom Kippur), *Sukkah*, *Beitzah*, *Megillah*, *Yevamot* (hôn nhân kế huynh), *Ketubot* (văn tự hôn nhân), *Nedarim* (lời khấn), *Nazir*, *Sotah*, *Gittin* (giấy ly hôn), *Kiddushin*, *Bava Kamma*, *Bava Metzia* và *Bava Batra* (“cửa thứ nhất, giữa, cuối” của luật dân sự), *Sanhedrin*, *Makkot* (hình phạt roi), *Shevuot* (lời thề), *Avodah Zarah*, *Horayot*, *Avot*, *Zevachim*, *Menachot*, *Chullin*, *Bekhorot*, *Arakhin*, *Temurah*, *Keritot*, *Middot*, *Peah*, *Bikkurim*, *Sheviit*, *Shekalim*, *Yadayim*, *Makhshirin*. Cách trích dẫn “Mishnah Sotah 9:9” nghĩa là tractate Sotah, chương 9, đoạn 9; còn “Talmud Sanhedrin 71a” chỉ tờ 71, mặt a, của bản Talmud Babylon.
+
+<a id="geonim"></a>
+### Geonim — גְּאוֹנִים
+
+Danh hiệu các vị đứng đầu học viện Sura và Pumbedita ở Babylon, từ cuối thế kỷ VI đến thế kỷ XI. Họ là thẩm quyền của thế giới Do Thái trong giai đoạn giữa Talmud và các nhà luận giải trung đại; Maimonides thường dẫn các “Geonim” như những người lưu giữ truyền thống thực hành.
+
+<a id="rashi"></a>
+### Rashi — רַשִׁ״י
+
+Tên viết tắt của Rabbi Shlomo Yitzchaki (1040–1105), sống ở Troyes, Pháp. Chú giải của ông về Torah và gần như toàn bộ Talmud Babylon là nền tảng của việc học Do Thái; ông thường giải thích nghĩa đơn giản của câu văn, kèm những cách đọc midrash được chọn lọc.
+
+<a id="ramban"></a>
+### Ramban / Nachmanides — רַמְבַּ״ן
+
+Tên viết tắt của Rabbi Moshe ben Nachman (1194–1270), ở Girona, Catalonia. Ông viết chú giải Torah và một bản phê bình (*hasagot*) về *Sefer HaMitzvot* của Maimonides, trong đó ông không đồng ý với nhiều cách đếm điều răn.
+
+**Điểm cần tránh:** Không nhầm Ramban (Nachmanides) với Rambam (Maimonides).
+
+<a id="raavad"></a>
+### Raavad — רַאֲבַ״ד
+
+Tên viết tắt của Rabbi Avraham ben David ở Posquières, miền nam nước Pháp (khoảng 1125–1198). Những lời phê bình ngắn (*hasagot*) của ông được in bên lề *Mishneh Torah*, và thường ghi lại chỗ ông không đồng ý hay không tìm thấy nguồn của Maimonides.
+
+<a id="ibn-ezra"></a>
+### Ibn Ezra — אִבְּן עֶזְרָא
+
+Rabbi Avraham ibn Ezra (1089–khoảng 1167), học giả người Tây Ban Nha, nhà ngữ pháp, nhà thơ và nhà chú giải Kinh Thánh. Chú giải Torah của ông chú trọng ngữ pháp và nghĩa đơn giản của câu văn.
+
+<a id="menachem-meiri"></a>
+### Menachem Meiri — מְנַחֵם הַמְּאִירִי
+
+Rabbi Menachem ben Shlomo HaMeiri (1249–khoảng 1315), sống ở Perpignan, vùng Provence–Languedoc. Tác phẩm *Beit HaBechirah* của ông chú giải Talmud; ông nổi tiếng với lập luận rằng những dân tộc “bị ràng buộc bởi các con đường của tôn giáo” không thuộc phạm trù thờ ngẫu tượng trong luật Talmud.
+
+<a id="rabbeinu-gershom"></a>
+### Rabbeinu Gershom — רַבֵּנוּ גֵּרְשׁוֹם
+
+Rabbi Gershom ben Yehudah (khoảng 960–1040), ở Mainz, được gọi là “Ánh sáng của cuộc lưu đày”. Các lệnh cấm (*takkanot*) gắn với tên ông, như cấm đa thê và cấm ly hôn khi người vợ không đồng ý, trở thành luật trong các cộng đồng Ashkenazi.
+
+<a id="sefaria"></a>
+### Sefaria
+
+Thư viện số mở, miễn phí, chứa văn bản Hebrew và bản dịch của Kinh Thánh, Mishnah, Talmud, *Mishneh Torah* và nhiều tác phẩm khác. Các liên kết nguồn trong loạt bài này đều dẫn về Sefaria để người đọc tự kiểm tra.
+
+<a id="tanna-amora"></a>
+### Tanna và amora — תַּנָּא / אָמוֹרָא
+
+*Tanna* (số nhiều *tannaim*) là các hiền sĩ thời Mishnah, khoảng thế kỷ I TCN đến đầu thế kỷ III CN. *Amora* (số nhiều *amoraim*) là các hiền sĩ thời Talmud, khoảng thế kỷ III–V CN, ở Babylon và Đất Israel. Danh xưng “Rabbi” thường dành cho hiền sĩ ở Đất Israel, còn “Rav” cho hiền sĩ ở Babylon; “Rabban” là danh xưng của một số vị đứng đầu Sanhedrin.
+
+<a id="hillel-shammai"></a>
+### Hillel và Shammai — הִלֵּל / שַׁמַּאי
+
+Hai hiền sĩ cuối thế kỷ I TCN – đầu thế kỷ I CN, và là người sáng lập hai trường phái Beit Hillel và Beit Shammai. Hai trường tranh luận về hàng trăm vấn đề luật; halakhah hầu như luôn theo Beit Hillel. Hillel được gắn với việc lập ra *prosbul* để người nghèo vẫn vay được tiền trước năm thứ bảy.
+
+<a id="rabbi-akiva"></a>
+### Rabbi Akiva — רַבִּי עֲקִיבָא
+
+Rabbi Akiva ben Yosef (khoảng 50–135 CN), một trong những *tanna* có ảnh hưởng lớn nhất; phương pháp giải thích từng chữ của ông là nền của nhiều luật rabbi. Ông bị người La Mã xử tử sau cuộc khởi nghĩa Bar Kokhba.
+
+<a id="rabbi-tarfon"></a>
+### Rabbi Tarfon — רַבִּי טַרְפוֹן
+
+*Tanna* đầu thế kỷ II CN, một tư tế sống ở Lod, cùng thời với Rabbi Akiva. Nhiều cuộc tranh luận giữa hai người được ghi trong Mishnah.
+
+<a id="rabbi-eliezer"></a>
+### Rabbi Eliezer — רַבִּי אֱלִיעֶזֶר
+
+Khi không kèm định ngữ, thường chỉ Rabbi Eliezer ben Hyrcanus, *tanna* cuối thế kỷ I – đầu thế kỷ II CN, học trò của Rabban Yochanan ben Zakkai, nổi tiếng với lập trường giữ truyền thống; câu chuyện “lò Akhnai” trong Talmud (Bava Metzia 59b) kể các hiền sĩ đã không theo ông dù có tiếng từ trời ủng hộ.
+
+<a id="rabbi-eliezer-ben-yaakov"></a>
+### Rabbi Eliezer ben Yaakov — רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב
+
+Tên của hai *tanna*; người thứ nhất, thế kỷ I CN, được truyền thống gắn với việc lưu giữ những chi tiết về Đền Thờ trong tractate Middot.
+
+<a id="rabbi-yehoshua"></a>
+### Rabbi Yehoshua — רַבִּי יְהוֹשֻׁעַ
+
+Rabbi Yehoshua ben Chananiah, *tanna* cuối thế kỷ I – đầu thế kỷ II CN, học trò của Rabban Yochanan ben Zakkai và là người đối thoại quen thuộc với Rabbi Eliezer.
+
+<a id="rabbi-yirmeyah"></a>
+### Rabbi Yirmeyah — רַבִּי יִרְמְיָה
+
+*Amora* thế kỷ III–IV CN, học ở Babylon rồi sang Đất Israel.
+
+<a id="rabban-yochanan-ben-zakkai"></a>
+### Rabban Yochanan ben Zakkai — רַבָּן יוֹחָנָן בֶּן זַכַּאי
+
+Hiền sĩ thế kỷ I CN. Theo truyền thống, ông rời Jerusalem bị vây năm 70 và lập học viện ở Yavneh, nơi đặt nền cho Do Thái giáo rabbi sau khi Đền Thờ bị phá hủy. Nhiều quy định mới (*takkanot*) để thay thế các nghi lễ Đền Thờ được gắn với tên ông.
+
+<a id="rabban-gamliel"></a>
+### Rabban Gamliel — רַבָּן גַּמְלִיאֵל
+
+Tên của nhiều vị đứng đầu Sanhedrin (*nasi*) thuộc dòng dõi Hillel. Trong Mishnah, thường là Rabban Gamliel II ở Yavneh, cuối thế kỷ I CN.
+
+<a id="rabban-shimon-ben-gamliel"></a>
+### Rabban Shimon ben Gamliel — רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל
+
+Tên của hai vị *nasi*; trong Mishnah thường là Rabban Shimon ben Gamliel II (thế kỷ II CN), cha của Rabbi Yehudah HaNasi, người biên soạn Mishnah.
+
+<a id="rabbi-elazar-ben-azaryah"></a>
+### Rabbi Elazar ben Azaryah — רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה
+
+*Tanna* cuối thế kỷ I – đầu thế kỷ II CN, dòng dõi tư tế, từng đứng đầu học viện Yavneh khi còn rất trẻ.
+
+<a id="rabbi-elazar"></a>
+### Rabbi Elazar — רַבִּי אֶלְעָזָר
+
+Tên của nhiều hiền sĩ. Trong Mishnah, không kèm định ngữ thường chỉ Rabbi Elazar ben Shammua (thế kỷ II CN); trong Talmud Babylon thường chỉ *amora* Rabbi Elazar ben Pedat (thế kỷ III CN). Rabbi Elazar Chisma là một *tanna* đầu thế kỷ II CN, nổi tiếng về toán học và thiên văn.
+
+<a id="rabbi-meir"></a>
+### Rabbi Meir — רַבִּי מֵאִיר
+
+*Tanna* thế kỷ II CN, học trò của Rabbi Akiva. Theo Talmud, một ý kiến không ghi tên trong Mishnah thường là của ông.
+
+<a id="rabbi-yehudah"></a>
+### Rabbi Yehudah — רַבִּי יְהוּדָה
+
+Trong Mishnah, không kèm định ngữ thường chỉ Rabbi Yehudah bar Ilai, *tanna* thế kỷ II CN, học trò của Rabbi Akiva. Không nhầm với Rabbi Yehudah HaNasi, người biên soạn Mishnah.
+
+<a id="rabbi-yose"></a>
+### Rabbi Yose — רַבִּי יוֹסֵי
+
+Trong Mishnah, không kèm định ngữ thường chỉ Rabbi Yose ben Chalafta, *tanna* thế kỷ II CN ở Tzippori. Rabbi Yose haGlili (“người Galilê”) là một *tanna* đầu thế kỷ II CN; Rabbi Yose ben Yehudah là một *tanna* cuối thế kỷ II CN.
+
+<a id="rabbi-shimon"></a>
+### Rabbi Shimon — רַבִּי שִׁמְעוֹן
+
+Trong Mishnah, không kèm định ngữ thường chỉ Rabbi Shimon bar Yochai, *tanna* thế kỷ II CN, học trò của Rabbi Akiva, nổi tiếng với việc tìm lý do của các điều luật. Rabbi Shimon ben Yehudah là học trò của ông.
+
+<a id="rabbi-yishmael"></a>
+### Rabbi Yishmael — רַבִּי יִשְׁמָעֵאל
+
+Rabbi Yishmael ben Elisha, *tanna* đầu thế kỷ II CN, người đặt ra mười ba quy tắc giải thích Torah. Trường phái của ông (“nhà của Rabbi Yishmael”) để lại *Mekhilta* về sách Xuất Hành. Học trò của ông, Rabbi Yonatan, là *tanna* thế kỷ II CN.
+
+<a id="rabbi-nehorai"></a>
+### Rabbi Nehorai — רַבִּי נְהוֹרַאי
+
+*Tanna* thế kỷ II CN; Talmud có ý kiến đồng nhất ông với Rabbi Meir hay Rabbi Elazar ben Arakh.
+
+<a id="ben-azzai"></a>
+### Ben Azzai — בֶּן עַזַּאי
+
+Shimon ben Azzai, *tanna* đầu thế kỷ II CN, học giả nổi tiếng với sự tận tụy học Torah. Ông cho rằng câu “đây là sách về dòng dõi con người” (Sáng Thế 5:1), câu nói về phẩm giá chung của mọi con người, là nguyên tắc lớn của Torah.
+
+<a id="ben-teima"></a>
+### Ben Teima — בֶּן תֵּימָא
+
+Yehudah ben Teima, *tanna* được biết qua một số ý kiến trong Mishnah và Talmud.
+
+<a id="shimon-ben-shetach"></a>
+### Shimon ben Shetach — שִׁמְעוֹן בֶּן שָׁטַח
+
+Hiền sĩ thế kỷ I TCN, đứng đầu Sanhedrin thời nữ hoàng Salome Alexandra; được truyền thống gắn với nhiều cải cách về tòa án và *ketubah*.
+
+<a id="rav-chisda-sheshet"></a>
+### Rav Chisda, Rav Sheshet và Rava — רַב חִסְדָּא / רַב שֵׁשֶׁת / רָבָא
+
+Các *amora* ở Babylon. Rav Chisda và Rav Sheshet sống cuối thế kỷ III – đầu thế kỷ IV CN; Rava (mất khoảng năm 352) đứng đầu học viện ở Mechoza, và các cuộc tranh luận của ông với Abaye là một phần trung tâm của Talmud Babylon.
+
+## Nhân vật Kinh Thánh và lịch sử
+
+<a id="abraham-isaac-jacob"></a>
+### Abraham, Isaac và Jacob — אַבְרָהָם / יִצְחָק / יַעֲקֹב
+
+Ba tổ phụ của Israel trong sách Sáng Thế (bản dịch Công giáo tiếng Việt viết Ápraham, Isaác, Giacóp). Jacob được đổi tên là Israel sau khi vật lộn với một nhân vật bí ẩn ở Peniel (Sáng Thế 32), và mười hai con trai của ông là tổ tiên của mười hai chi tộc. Sarah là vợ Abraham; Leah và Rachel là vợ Jacob, Bilhah là nữ tỳ của Rachel.
+
+<a id="tribes"></a>
+### Các chi tộc: Reuben, Levi, Judah, Joseph, Gad, Manasseh — שְׁבָטִים
+
+Tên các con trai của Jacob và các chi tộc mang tên họ. Chi tộc Levi không có đất riêng mà phục vụ nơi thánh (xem người Lêvi); Joseph được chia thành hai chi tộc Ephraim và Manasseh; Reuben, Gad và nửa chi tộc Manasseh định cư ở phía đông sông Jordan. Judah là chi tộc của dòng vua David, và về sau tên của nó trở thành gốc của chữ “Do Thái”.
+
+<a id="moses-family"></a>
+### Amram, Yocheved và Miriam — עַמְרָם / יוֹכֶבֶד / מִרְיָם
+
+Cha, mẹ và chị của Moses và Aaron (Xuất Hành 6:20; Dân Số 26:59). Miriam là nữ ngôn sứ dẫn các phụ nữ hát mừng sau khi vượt biển (Xuất Hành 15:20–21), và bị *tzara’at* sau khi nói xấu Moses (Dân Số 12).
+
+<a id="aaron-sons"></a>
+### Nadab, Abihu, Eleazar và Ithamar — נָדָב / אֲבִיהוּא / אֶלְעָזָר / אִיתָמָר
+
+Bốn con trai của Aaron. Nadab và Abihu chết khi dâng “lửa lạ” trước YHWH vào ngày khánh thành Nhà Tạm (Lêvi 10:1–2); Eleazar và Ithamar tiếp tục chức tư tế, và mọi *kohen* về sau được coi là hậu duệ của họ.
+
+<a id="kehath-korah"></a>
+### Kehath, Korah và Uzzah — קְהָת / קֹרַח / עֻזָּה
+
+Kehath là con của Levi, và dòng Kehath phụ trách khiêng các vật thánh trên vai (Dân Số 4; 7:9). Korah, thuộc dòng Kehath, cầm đầu cuộc nổi loạn chống Moses và Aaron (Dân Số 16). Uzzah chết khi chạm vào Hòm Giao Ước đang được chở trên xe thời vua David (2 Samuel 6).
+
+<a id="noah"></a>
+### Noah — נֹחַ
+
+Nhân vật trong trận lụt ở Sáng Thế 6–9 (bản Công giáo viết Nôê). Truyền thống rabbi coi các điều luật được ban cho Noah và con cháu là nền của bảy điều luật Noah, áp dụng cho mọi dân tộc.
+
+<a id="esau-edom"></a>
+### Esau — עֵשָׂו
+
+Anh sinh đôi của Jacob, tổ tiên của dân Edom (Sáng Thế 25; 36). Trong văn học rabbi về sau, “Esau” và “Edom” thường được dùng làm biểu tượng cho La Mã.
+
+<a id="laban"></a>
+### Laban — לָבָן
+
+Người Aram, cậu và cha vợ của Jacob (Sáng Thế 29–31). Haggadah Pesach đọc câu “một người Aram đi lang thang là cha tôi” (Phục Truyền 26:5) thành “một người Aram (Laban) muốn hủy diệt cha tôi”.
+
+<a id="pharaoh"></a>
+### Pharaoh — פַּרְעֹה
+
+Tước hiệu của vua Ai Cập cổ; trong sách Xuất Hành, đó là nhà vua áp bức Israel và không cho dân ra đi. Torah không nêu tên riêng của vị Pharaoh này.
+
+<a id="joshua"></a>
+### Joshua — יְהוֹשֻׁעַ
+
+Người phụ tá và kế vị Moses, lãnh đạo Israel vào đất Canaan (sách Giôsuê). Truyền thống rabbi coi ông là mắt xích đầu tiên nhận Torah truyền khẩu từ Moses.
+
+<a id="balak-balaam"></a>
+### Balak và Balaam — בָּלָק / בִּלְעָם
+
+Balak là vua Moab; ông thuê Balaam, một người tiên tri không thuộc Israel, để nguyền rủa Israel, nhưng Balaam lại chúc phúc (Dân Số 22–24).
+
+<a id="zelophehad"></a>
+### Zelophehad và các con gái — צְלָפְחָד
+
+Người chi tộc Manasseh chết trong hoang địa mà không có con trai. Năm người con gái của ông (Mahlah, Noa, Hoglah, Milcah, Tirzah) đến trước Moses đòi phần đất của cha, và luật thừa kế cho con gái được ban ra từ vụ việc ấy (Dân Số 27; 36).
+
+<a id="ruth-boaz"></a>
+### Ruth và Boaz — רוּת / בֹּעַז
+
+Ruth là người phụ nữ Moab, theo mẹ chồng Naomi về Bethlehem; Boaz là người họ hàng cho nàng mót lúa trong ruộng mình rồi cưới nàng (sách Ruth). Họ là tổ tiên của vua David.
+
+<a id="samson"></a>
+### Samson — שִׁמְשׁוֹן
+
+Thủ lãnh trong sách Thẩm Phán 13–16, được hiến dâng làm *nazir* từ khi còn trong lòng mẹ, nổi tiếng về sức mạnh.
+
+<a id="samuel-saul"></a>
+### Samuel và Saul — שְׁמוּאֵל / שָׁאוּל
+
+Samuel là ngôn sứ và thủ lãnh cuối cùng trước thời quân chủ; ông xức dầu cho Saul làm vua đầu tiên của Israel, rồi cho David (1 Samuel). Các sách 1 và 2 Samuel mang tên ông.
+
+<a id="david-solomon"></a>
+### David và Solomon — דָּוִד / שְׁלֹמֹה
+
+David (khoảng thế kỷ X TCN) là vua thứ hai của Israel, người lập Jerusalem làm kinh đô; truyền thống coi ông là tác giả nhiều Thánh Vịnh và tổ tiên của Mashiach. Con ông là Solomon xây Đền Thờ thứ nhất. Adonijah là con trai khác của David, từng tranh ngôi với Solomon (1 Các Vua 1).
+
+<a id="amnon-tamar-absalom"></a>
+### Amnon, Tamar và Absalom — אַמְנוֹן / תָּמָר / אַבְשָׁלוֹם
+
+Các con của vua David. Amnon cưỡng hiếp em cùng cha khác mẹ là Tamar (không phải Tamar con dâu của Judah); Absalom, anh ruột của Tamar, im lặng nuôi hận rồi giết Amnon (2 Samuel 13).
+
+<a id="judah-tamar"></a>
+### Judah và Tamar (Sáng Thế 38) — יְהוּדָה / תָּמָר
+
+Tamar là con dâu của Judah, góa chồng hai lần mà không có con. Khi Judah không cho người con trai thứ ba cưới nàng, nàng cải trang và có con với chính Judah; khi bị kết án, nàng không công khai tên ông, chỉ gửi đồ vật của ông để ông tự nhận (Sáng Thế 38). Talmud dùng chuyện này để dạy rằng thà chết còn hơn làm người khác bẽ mặt trước công chúng.
+
+**Điểm cần tránh:** Không nhầm với Tamar con gái vua David (2 Samuel 13).
+
+<a id="dama-ben-netinah"></a>
+### Dama ben Netinah
+
+Một người không phải Do Thái ở Ashkelon mà Talmud (Kiddushin 31a) kể như tấm gương tôn kính cha mẹ: ông bỏ một vụ làm ăn lớn để không đánh thức cha đang ngủ gối đầu lên chìa khóa.
+
+<a id="doeg"></a>
+### Doeg — דּוֹאֵג
+
+Người Edom, quan chức của vua Saul, tố cáo các tư tế ở Nob đã giúp David, dẫn đến việc họ bị giết (1 Samuel 21–22). Văn học rabbi dùng ông làm ví dụ về tác hại của lời đưa chuyện.
+
+<a id="ahab-naboth"></a>
+### Ahab và Naboth — אַחְאָב / נָבוֹת
+
+Ahab là vua vương quốc phía bắc Israel (thế kỷ IX TCN); khi Naboth không chịu bán vườn nho của tổ tiên, hoàng hậu Jezebel dựng nhân chứng giả để Naboth bị xử tử, và Ahab chiếm vườn nho (1 Các Vua 21).
+
+<a id="elijah"></a>
+### Elijah — אֵלִיָּהוּ
+
+Ngôn sứ thời vua Ahab (bản Công giáo viết Êlia). Trên núi Carmel, ông dâng lễ vật ngoài Jerusalem để thách thức các tiên tri của Baal (1 Các Vua 18); truyền thống rabbi coi đây là trường hợp ngôn sứ được truyền tạm ngưng một điều luật.
+
+<a id="hezekiah-josiah"></a>
+### Hezekiah và Josiah — חִזְקִיָּהוּ / יֹאשִׁיָּהוּ
+
+Hai vua Judah (cuối thế kỷ VIII và cuối thế kỷ VII TCN) được Kinh Thánh ghi nhận vì đã dẹp các nơi thờ tự ngoài Jerusalem. Cuộc cải cách của Josiah (2 Các Vua 22–23) thường được giới nghiên cứu liên hệ với sách Phục Truyền.
+
+<a id="prophets"></a>
+### Isaiah, Jeremiah, Ezekiel, Malachi, Daniel — נְבִיאִים
+
+Các ngôn sứ mà sách mang tên họ nằm trong phần Nevi’im và Ketuvim của Tanakh. Hananiah con Azzur là ngôn sứ đối đầu với Jeremiah ở Giêrêmia 28 và bị coi là ngôn sứ giả.
+
+<a id="ezra-nehemiah"></a>
+### Ezra và Nehemiah — עֶזְרָא / נְחֶמְיָה
+
+Hai nhà lãnh đạo thời hậu lưu đày (thế kỷ V TCN). Ezra, thầy thông giáo và tư tế, đọc Torah công khai cho dân; Nehemiah, quan tổng đốc, xây lại tường Jerusalem. Truyền thống rabbi gán cho Ezra nhiều quy định nền tảng.
+
+<a id="sennacherib"></a>
+### Sennacherib — סַנְחֵרִיב
+
+Vua Assyria (trị vì 705–681 TCN), vây Jerusalem thời vua Hezekiah. Mishnah Yadayim 4:4 dùng việc các vua Assyria di dời dân chúng để nói rằng các dân tộc cổ đã bị xáo trộn, nên các phạm trù sắc tộc trong Torah không còn nhận diện được.
+
+<a id="kudurru"></a>
+### Kudurru
+
+Chữ Akkadian chỉ các cột đá ranh giới của Babylon cổ, ghi việc ban đất và khắc lời nguyền cho kẻ dời ranh, một song song với luật cấm dời mốc ranh trong Torah.
+
+<a id="hammurabi"></a>
+### Hammurabi và các bộ luật Lưỡng Hà
+
+Hammurabi là vua Babylon (trị vì khoảng 1792–1750 TCN), người để lại bộ luật khắc trên bia đá nổi tiếng nhất của Lưỡng Hà. Bộ luật Eshnunna còn cổ hơn một chút. Giới nghiên cứu so sánh các bộ luật này với luật trong Xuất Hành 21–23.
+
+<a id="agrippa"></a>
+### Agrippa — אַגְרִיפַּס
+
+Tên hai vua Judea thuộc dòng Herod, có tổ tiên là người Edom, thế kỷ I CN; Mishnah Sotah 7:8 kể một vua Agrippa khóc khi đọc câu “đừng đặt người ngoại làm vua”, và dân chúng đáp “ngài là anh em của chúng tôi”.
+
+<a id="titus"></a>
+### Titus
+
+Tướng La Mã, về sau là hoàng đế (79–81 CN), chỉ huy cuộc vây hãm và phá hủy Jerusalem cùng Đền Thờ thứ Hai năm 70. Khải hoàn môn Titus ở Rome khắc cảnh lính La Mã mang cây đèn *menorah* và các vật thánh khác.
+
+## Địa danh, dân tộc và nhóm tôn giáo
+
+<a id="sinai"></a>
+### Sinai — סִינַי
+
+Ngọn núi nơi Israel nhận Torah theo sách Xuất Hành 19–20 (bản Công giáo viết Xinai); vị trí chính xác không được biết chắc. Truyền thống rabbi coi Torah truyền khẩu cũng được ban ở Sinai.
+
+<a id="canaan"></a>
+### Canaan — כְּנַעַן
+
+Tên cổ của vùng đất giữa sông Jordan và Địa Trung Hải, nơi Israel định cư; đồng thời là tên một trong bảy dân cư trú ở đó (xem bảy dân Canaan).
+
+<a id="neighbor-peoples"></a>
+### Moab, Ammon, Edom và Aram — מוֹאָב / עַמּוֹן / אֱדוֹם / אֲרָם
+
+Các dân láng giềng của Israel cổ: Moab và Ammon ở phía đông sông Jordan, Edom ở phía đông nam, Aram ở phía bắc (vùng Syria ngày nay). Torah đặt những luật riêng về việc họ gia nhập cộng đồng Israel (Phục Truyền 23:4–9).
+
+<a id="mesopotamia"></a>
+### Babylon, Assyria và Media — בָּבֶל / אַשּׁוּר / מָדַי
+
+Các đế quốc ở Lưỡng Hà và Iran cổ. Assyria hủy diệt vương quốc phía bắc Israel (722 TCN); Babylon phá hủy Jerusalem và Đền Thờ thứ nhất (586 TCN); Media là vùng tây bắc Iran. Từ thời lưu đày, Babylon trở thành trung tâm lớn của đời sống Do Thái, nơi Talmud Babylon được hình thành.
+
+<a id="jordan"></a>
+### Jordan — יַרְדֵּן
+
+Con sông chảy từ phía bắc xuống Biển Chết, ranh giới phía đông của đất Canaan trong Torah. “Bên kia sông Jordan” chỉ vùng các chi tộc Reuben, Gad và nửa chi tộc Manasseh định cư.
+
+<a id="biblical-places"></a>
+### Massah, Rephidim, Peniel, Gilgal và Carmel — מַסָּה / רְפִידִים / פְּנִיאֵל / גִּלְגָּל / כַּרְמֶל
+
+Các địa danh trong Kinh Thánh. Massah (“thử thách”) là tên gọi nơi Israel thử thách Thiên Chúa vì thiếu nước ở Rephidim (Xuất Hành 17:1–7); Peniel là nơi Jacob vật lộn với một nhân vật bí ẩn (Sáng Thế 32); Gilgal là nơi Israel cắt bì và mừng lễ Vượt Qua đầu tiên sau khi vào đất (Giôsuê 5); núi Carmel là nơi Elijah đối đầu với các tiên tri của Baal (1 Các Vua 18).
+
+<a id="peor-baal"></a>
+### Baal, Peor, Bel và Nebo — בַּעַל / פְּעוֹר
+
+Tên các thần được Kinh Thánh nhắc đến. Baal là thần bão của người Canaan; Baal Peor là thần được thờ ở Moab (Dân Số 25), mà theo truyền thống rabbi được thờ bằng hành vi phóng uế. Bel và Nebo là các thần Babylon (Isaia 46:1). Maimonides cho phép nhắc những tên thần có trong Kinh Thánh.
+
+<a id="markulis"></a>
+### Markulis — מַרְקוּלִיס
+
+Dạng Hebrew của tên thần La Mã Mercurius. Theo Mishnah, thần này được thờ bằng cách ném đá vào một đống đá hay trụ đá; vì vậy ai ném đá vào đó, dù với ý chế giễu, vẫn phạm tội thờ ngẫu tượng.
+
+<a id="vesta"></a>
+### Vesta
+
+Nữ thần lò sưởi của La Mã. Đền của bà ở Rome giữ một ngọn lửa không bao giờ tắt, do các nữ tư tế Vestal canh giữ.
+
+<a id="ancient-sites"></a>
+### Ugarit, Mari, Phoenicia và Carthage
+
+Các nền văn minh và địa điểm cổ ở Cận Đông và Địa Trung Hải mà văn bản của chúng giúp hiểu bối cảnh Kinh Thánh. Ugarit (Syria, thế kỷ XIV–XII TCN) để lại văn bản tôn giáo Canaan; Mari (bên sông Euphrates, thế kỷ XVIII TCN) để lại văn bản về ngôn sứ; Phoenicia là các thành bên bờ Lebanon, với thuộc địa Kition trên đảo Síp và Carthage ở Bắc Phi, nơi các khu chôn cất gọi là *tophet* được tìm thấy.
+
+<a id="archaeological-sites"></a>
+### Tel Dan, Arad, Gezer, Ketef Hinnom và Wadi Murabba’at
+
+Các địa điểm khảo cổ ở Israel và vùng lân cận. Tel Dan, Arad và Gezer có các cụm đá dựng và nơi thờ tự thời Israel cổ; ở Ketef Hinnom, Jerusalem, người ta tìm thấy hai phiến bạc nhỏ khắc lời chúc tư tế, có niên đại khoảng thế kỷ VII–VI TCN; Wadi Murabba’at, gần Biển Chết, là nơi tìm thấy các văn bản thời khởi nghĩa Bar Kokhba.
+
+<a id="dura-europos"></a>
+### Dura-Europos
+
+Thành cổ bên sông Euphrates (Syria ngày nay). Hội đường ở đây, được trang trí khoảng năm 244 CN, có các bức tranh tường vẽ cảnh Kinh Thánh, cho thấy người Do Thái cổ không hiểu lệnh cấm hình ảnh theo một cách duy nhất.
+
+<a id="fustat-cairo"></a>
+### Fustat và triều Ayyubid
+
+Fustat là thành cổ nay thuộc Cairo, nơi Maimonides sống từ khoảng năm 1166 đến khi mất (1204). Triều Ayyubid do Saladin lập ở Ai Cập; Maimonides làm thầy thuốc cho triều đình này.
+
+<a id="provence"></a>
+### Provence và Languedoc
+
+Miền nam nước Pháp trung đại, nơi có nhiều trung tâm học thuật Do Thái quan trọng, như của Raavad và Menachem Meiri.
+
+<a id="tiberias-lod-ashkelon"></a>
+### Tiberias, Lod và Ashkelon
+
+Các thành ở Đất Israel. Theo truyền thống, Sanhedrin cuối cùng đóng ở Tiberias; Lod là nơi Rabbi Tarfon và nhiều hiền sĩ khác sống; Ashkelon là thành ven biển, nơi Talmud đặt câu chuyện về Dama ben Netinah.
+
+<a id="samaritans"></a>
+### Kuthim / người Samaritan — כּוּתִים
+
+Cộng đồng ở vùng Samaria, giữ Torah nhưng có truyền thống riêng và không công nhận Đền Thờ Jerusalem. Văn học rabbi gọi họ là *Kuthim*, theo tên Kuthah, một nơi mà theo 2 Các Vua 17 những người được Assyria đưa đến Samaria có xuất xứ.
+
+<a id="second-temple-groups"></a>
+### Pharisee, Sadducee và Boethusian — פְּרוּשִׁים / צְדוֹקִים / בַּיְתוֹסִים
+
+Các nhóm tôn giáo thời Đền Thờ thứ Hai. Người Pharisee chấp nhận Torah truyền khẩu và là tiền thân của truyền thống rabbi; người Sadducee, gắn với tầng lớp tư tế, chỉ chấp nhận Torah thành văn theo cách hiểu của họ; người Boethusian là một nhóm gần với người Sadducee. Các nguồn rabbi thường ghi lại những tranh luận với hai nhóm sau.
+
+<a id="ashkenazi"></a>
+### Ashkenazi và Ashkenaz — אַשְׁכְּנַז
+
+*Ashkenaz* là tên trung đại của vùng đất Đức; người Do Thái Ashkenazi là cộng đồng có gốc từ Trung và Đông Âu, khác với người Sephardi có gốc từ bán đảo Iberia. Hai nhóm có một số tập quán khác nhau.
+
+## Học giả hiện đại
+
+<a id="mary-douglas"></a>
+### Mary Douglas
+
+Nhà nhân học người Anh (1921–2007). Cuốn *Purity and Danger* (1966) của bà đọc luật ăn uống trong Lêvi 11 như một hệ thống phân loại thế giới, nơi những sinh vật “không đúng loại của mình” bị coi là ô uế.
+
+<a id="jacob-milgrom"></a>
+### Jacob Milgrom
+
+Học giả Kinh Thánh người Mỹ (1923–2010), tác giả bộ chú giải sách Lêvi ba tập trong bộ Anchor Yale Bible và chú giải sách Dân Số của JPS.
+
+<a id="greenberg-finkelstein"></a>
+### Moshe Greenberg và J. J. Finkelstein
+
+Hai học giả người Mỹ về Kinh Thánh và Cận Đông cổ đại. Greenberg (1928–2010) và Finkelstein (1922–1974) so sánh luật Torah với các bộ luật Lưỡng Hà, và chỉ ra rằng Torah đặt giá trị mạng sống con người ngoài phạm vi bồi thường bằng tiền.
+
+<a id="francesco-redi"></a>
+### Francesco Redi
+
+Thầy thuốc và nhà tự nhiên học người Ý (1626–1697). Năm 1668, thí nghiệm của ông cho thấy dòi không tự sinh ra từ thịt thối, mà từ trứng ruồi.
+
+## Lịch, phụng vụ và tập quán
+
+<a id="hebrew-months"></a>
+### Các tháng Tishrei, Shevat, Adar và Iyar — תִּשְׁרֵי / שְׁבָט / אֲדָר / אִיָּר
+
+Tên các tháng trong lịch Hebrew, có gốc từ tên tháng Babylon. Tishrei là tháng thứ bảy tính từ Nisan, có Rosh Hashanah, Yom Kippur và Sukkot; Shevat có ngày 15, “năm mới của cây”; Adar là tháng cuối năm tính từ Nisan, có lễ Purim; Iyar là tháng thứ hai, giữa Pesach và Shavuot. Năm nhuận có thêm một tháng Adar.
+
+<a id="purim"></a>
+### Purim — פּוּרִים
+
+Lễ ngày 14 Adar, kỷ niệm việc người Do Thái ở Ba Tư thoát khỏi âm mưu tiêu diệt, theo sách Esther. Đây là lễ do truyền thống lập ra, không có trong Torah. Shabbat trước Purim gọi là *Shabbat Zakhor*, khi người ta đọc đoạn “hãy nhớ điều Amalek đã làm”.
+
+<a id="simchat-torah"></a>
+### Simchat Torah — שִׂמְחַת תּוֹרָה
+
+“Niềm vui của Torah”: ngày kết thúc và bắt đầu lại chu kỳ đọc Torah hằng năm trong hội đường, vào ngày thứ hai của Shemini Atzeret ở hải ngoại, hay trùng với Shemini Atzeret ở Israel. Tên và nghi thức xuất hiện sau thời Talmud.
+
+<a id="hallel"></a>
+### Hallel — הַלֵּל
+
+“Ca ngợi”: một nhóm Thánh Vịnh (113–118) được hát trong các ngày lễ, và trong bữa Seder đêm Pesach. Thời Đền Thờ, Hallel được hát khi giết và ăn lễ vật Pesach.
+
+<a id="amidah"></a>
+### Amidah — עֲמִידָה
+
+“Lời cầu nguyện đứng”, còn gọi là *Shemoneh Esreh* (“mười tám lời chúc”), là trung tâm của các buổi cầu nguyện hằng ngày. Hình thức cố định của nó được các hiền sĩ ở Yavneh sắp xếp sau khi Đền Thờ bị phá hủy.
+
+<a id="liturgical-blessings"></a>
+### Shehecheyanu và Birkat HaGomel — שֶׁהֶחֱיָנוּ / בִּרְכַּת הַגּוֹמֵל
+
+Hai lời chúc tụng. *Shehecheyanu* (“Đấng đã cho chúng con được sống”) được đọc khi một dịp vui đến lần đầu hay theo mùa; *Birkat HaGomel* được đọc công khai trong hội đường bởi người vừa thoát khỏi hiểm nguy, như qua biển, qua sa mạc, khỏi bệnh nặng hay ra khỏi tù.
+
+<a id="kol-nidrei"></a>
+### Kol Nidrei — כׇּל נִדְרֵי
+
+“Mọi lời khấn”: công thức Aramaic đọc đầu đêm Yom Kippur, tuyên bố hủy bỏ những lời khấn cá nhân với Thiên Chúa. Nó không hủy bỏ những lời hứa hay hợp đồng với người khác, dù trong lịch sử đã bị những người chống Do Thái xuyên tạc như vậy.
+
+<a id="afikoman"></a>
+### Afikoman — אֲפִיקוֹמָן
+
+Miếng bánh *matzah* được ăn cuối bữa Seder, để tưởng nhớ thịt lễ vật Pesach thời Đền Thờ, vốn phải được ăn sau cùng. Chữ có gốc Hy Lạp.
+
+<a id="netilat-yadayim"></a>
+### Netilat yadayim — נְטִילַת יָדַיִם
+
+Nghi thức rửa tay bằng cách dội nước từ một vật chứa, trước khi ăn bánh mì và trong một số dịp khác. Đây là luật của các hiền sĩ, không phải một điều răn Torah.
+
+<a id="tallit"></a>
+### Tallit — טַלִּית
+
+Khăn choàng bốn góc có gắn tua *tzitzit*, được mặc khi cầu nguyện buổi sáng. Nó là cách truyền thống dùng để thực hiện điều răn tzitzit, vì bổn phận chỉ áp dụng cho áo có bốn góc.
+
+<a id="keriah"></a>
+### Keriah — קְרִיעָה
+
+Việc xé áo khi nghe tin một người thân qua đời hay khi chôn cất, một cử chỉ tang chế cổ xưa mà người Do Thái vẫn giữ đến nay.
+
+<a id="teshuvah"></a>
+### Teshuvah — תְּשׁוּבָה
+
+“Quay về”: sự ăn năn, gồm nhận ra lỗi, hối hận, xưng nhận và quyết tâm không tái phạm. Với lỗi đối với người khác, *teshuvah* đòi phải sửa chữa và xin người bị hại tha thứ. Maimonides viết riêng *Hilkhot Teshuvah* về chủ đề này.
+
+<a id="azazel"></a>
+### Azazel — עֲזָאזֵל
+
+Từ khó hiểu trong nghi lễ Yom Kippur (Lêvi 16), chỉ nơi con dê gánh tội được gửi vào hoang mạc. Talmud (Yoma 67b) hiểu đó là tên một vách núi hiểm trở; một số nhà giải thích hiểu là tên một thế lực trong hoang mạc. Tiếng Anh gọi con dê này là *scapegoat*.
+
+## Thuật ngữ luật và thực hành bổ sung
+
+<a id="mishnah-term"></a>
+### Mishnah — מִשְׁנָה
+
+Bộ sưu tập luật truyền khẩu được Rabbi Yehudah HaNasi biên soạn khoảng năm 200 CN, chia thành sáu phần và 63 tractate. Mishnah là tầng đầu tiên của Talmud (xem Talmud và masekhet).
+
+<a id="halakhah-lemoshe-misinai"></a>
+### Truyền thống luật từ Sinai (*halakhah le-Moshe mi-Sinai*) — הֲלָכָה לְמֹשֶׁה מִסִּינַי
+
+“Luật ban cho Moses tại Sinai”: nhãn cho những quy định được coi là có từ truyền khẩu của Moses, dù không được rút ra từ câu Torah nào. Chúng có thẩm quyền như luật Torah.
+
+<a id="ezov"></a>
+### Ezov — אֵזוֹב
+
+Cây dùng trong các nghi lễ thanh tẩy: rảy máu Pesach ở Ai Cập, thanh tẩy người mắc *tzara’at* và nghi lễ bò cái đỏ. Nó thường được dịch là “hương thảo” hay “hyssop”, nhưng loài cây Kinh Thánh này chưa được xác định chắc chắn; nhiều nhà nghiên cứu nghĩ đến cây kinh giới dại Syria (*Origanum syriacum*).
+
+<a id="semikhah"></a>
+### Semikhah — סְמִיכָה
+
+“Đặt tay”: sự phong chức của các thẩm phán, được truyền từ thầy sang trò từ thời Moses. Chỉ tòa gồm những người có *semikhah* này mới có thẩm quyền xử các án phạt theo luật Torah; chuỗi truyền ấy bị gián đoạn vào thời Talmud. Danh xưng “rabbi” ngày nay cũng được gọi là *semikhah*, nhưng không mang thẩm quyền cổ ấy.
+
+<a id="beit-din"></a>
+### Beit din — בֵּית דִּין
+
+“Nhà xét xử”: tòa án rabbi. Tòa thường gồm ba thẩm phán; tòa xử án tử hình gồm hai mươi ba người; Tòa Tối Cao (Sanhedrin) gồm bảy mươi mốt người. Ngày nay các *beit din* chủ yếu xử các vấn đề hôn nhân, cải đạo, kashrut và tranh chấp dân sự khi các bên đồng ý.
+
+<a id="chief-rabbinate"></a>
+### Rabbinate Trưởng của Israel — הָרַבָּנוּת הָרָאשִׁית
+
+Cơ quan tôn giáo nhà nước ở Israel, lập năm 1921 thời Anh ủy trị, với hai rabbi trưởng Ashkenazi và Sephardi. Nó quản lý các tòa rabbi về hôn nhân, ly hôn và các vấn đề tôn giáo khác của người Do Thái ở Israel.
+
+<a id="ketubah"></a>
+### Khế ước hôn nhân (*ketubah*) — כְּתֻבָּה
+
+Văn tự hôn nhân, ghi các nghĩa vụ của người chồng đối với vợ, trong đó có khoản tiền phải trả cho người vợ nếu ly hôn hay nếu chồng qua đời. Các hiền sĩ lập ra *ketubah* để người chồng không dễ dàng ly hôn vợ, và để bảo vệ người vợ về kinh tế.
+
+<a id="zar"></a>
+### Zar — זָר
+
+“Người ngoài”: trong luật Đền Thờ, người không thuộc dòng tư tế (hay, tùy văn cảnh, không thuộc người Lêvi), nên không được làm một số nghi lễ hay ăn một số vật thánh. Không có nghĩa là người ngoại quốc.
+
+<a id="chalal"></a>
+### Chalal — חָלָל
+
+Con trai sinh ra từ cuộc hôn nhân bị cấm đối với tư tế (xem zonah và chalalah); người ấy mất địa vị tư tế, và địa vị ấy truyền qua dòng nam.
+
+<a id="chok"></a>
+### Chok / chukim — חֹק / חֻקִּים
+
+“Quy định, sắc lệnh”: trong truyền thống rabbi, những điều luật không nêu lý do hay có lý do khó hiểu, như luật bò cái đỏ hay *sha’atnez*, đối lập với *mishpatim* là những luật mà lý trí con người tự hiểu được.
+
+<a id="toevah"></a>
+### To’evah — תּוֹעֵבָה
+
+Thường dịch là “điều ghê tởm”, nhưng trong Kinh Thánh là một phạm trù nghi lễ và đạo đức: những gì bị đặt ra ngoài ranh giới được phép. Từ này được dùng cho nhiều thứ khác nhau, từ thờ ngẫu tượng, thức ăn bị cấm đến gian lận cân đo.
+
+<a id="rasha"></a>
+### Rasha — רָשָׁע
+
+“Kẻ ác”: trong luật chứng cứ rabbi, người đã phạm một tội có hình phạt, nhất là tội liên quan đến tiền bạc, nên bị loại khỏi tư cách nhân chứng.
+
+<a id="oshek-gezel"></a>
+### Oshek và gezel — עֹשֶׁק / גֶּזֶל
+
+*Oshek* là “chèn ép”: giữ lại tiền của người khác, như tiền công hay khoản nợ, bằng cách trì hoãn hay chối; *gezel* là cướp công khai. Talmud (Bava Metzia 111a) ghi các cách định nghĩa khác nhau của Rav Chisda và Rav Sheshet. Xem thêm hoàn trả tài sản chiếm đoạt.
+
+<a id="lav-hanitak-laaseh"></a>
+### Lav ha-nitak la-aseh — לָאו הַנִּתָּק לַעֲשֵׂה
+
+“Điều cấm được chuyển thành mệnh lệnh”: một điều cấm mà Torah kèm theo cách sửa chữa, như trả lại vật đã cướp. Theo phương pháp rabbi, người vi phạm không bị phạt roi nếu đã làm theo mệnh lệnh sửa chữa.
+
+<a id="bal-teacher"></a>
+### Bal te’acher — בַּל תְּאַחֵר
+
+“Đừng chậm trễ”: điều cấm trì hoãn việc thực hiện một lời khấn hay dâng một lễ vật đã hứa (Phục Truyền 23:22). Theo luật rabbi, người ta vi phạm khi đã qua ba kỳ lễ hành hương mà chưa thực hiện.
+
+<a id="reiyah"></a>
+### Re’iyah — רְאִיָּה
+
+“Sự ra mắt”: lễ toàn thiêu mà mỗi người nam dâng khi hành hương đến Đền Thờ vào ba kỳ lễ, theo câu “không ai được ra mắt Ta tay không”.
+
+<a id="korban"></a>
+### Lễ vật (*korban*) — קׇרְבָּן
+
+Từ chung cho lễ vật, từ gốc **קרב** (*k-r-v*, “đến gần”): lễ vật là phương tiện để người dâng “đến gần” Thiên Chúa.
+
+<a id="mechusar-kippurim"></a>
+### Mechusar kippurim — מְחֻסַּר כִּפּוּרִים
+
+“Người còn thiếu lễ chuộc”: người đã ngâm mình và chờ hết ngày để thoát khỏi một số dạng ô uế nặng (như *zav*, sản phụ, người mắc *tzara’at*), nhưng chưa dâng lễ vật cần thiết, nên chưa được ăn đồ thánh hay vào sân Đền Thờ.
+
+<a id="tumtum-androginos"></a>
+### Tumtum và androginos — טֻמְטוּם / אַנְדְּרוֹגִינוֹס
+
+Hai phạm trù của luật rabbi cho người có đặc điểm giới tính không rõ ràng: *tumtum* là người có cơ quan sinh dục bị che khuất nên không xác định được giới tính; *androginos* là người có đặc điểm của cả hai giới. Luật rabbi bàn riêng về nghĩa vụ và quyền của họ.
+
+<a id="melikah"></a>
+### Melikah — מְלִיקָה
+
+Cách giết chim làm lễ vật trên bàn thờ: tư tế dùng móng tay cắt gáy chim, không dùng dao. Chỉ được làm với lễ vật chim trong Đền Thờ, không dùng cho thịt ăn thường.
+
+<a id="kosher"></a>
+### Kosher và kashrut — כָּשֵׁר / כַּשְׁרוּת
+
+*Kosher* (Hebrew *kasher*) nghĩa là “hợp lệ, phù hợp”; *kashrut* là toàn bộ luật ăn uống Do Thái: loài vật được phép, cách giết mổ, loại bỏ máu và mỡ bị cấm, tách thịt với sữa, và các quy định về rượu, ngũ cốc mới hay nông sản của Đất Israel. Ngày nay, các tổ chức chứng nhận ghi nhãn *kosher* trên sản phẩm.
+
+**Điểm cần tránh:** *Kosher* không phải một phép lành đọc trên thức ăn, cũng không phải tiêu chuẩn vệ sinh; một con vật thuộc loài được phép vẫn không *kosher* nếu không được giết mổ và xử lý đúng luật.
+
+<a id="kashrut-practice"></a>
+### Chelev, nikkur, melichah và glatt — חֵלֶב / נִקּוּר / מְלִיחָה
+
+Các thuật ngữ trong việc chuẩn bị thịt kosher. *Chelev* là lớp mỡ cứng bao quanh nội tạng của bò, chiên và dê, bị cấm ăn; mỡ lẫn trong thịt, gọi là *shuman*, thì được phép. *Nikkur* là việc gỡ bỏ *chelev*, mạch máu và dây thần kinh tọa, đòi kỹ năng chuyên môn. *Melichah* là việc ướp muối thịt để rút máu trước khi nấu. *Glatt* (tiếng Yiddish, “trơn”) ban đầu chỉ phổi con vật không có chỗ dính, về sau thành nhãn cho tiêu chuẩn kosher chặt hơn.
+
+<a id="stam-yeinam"></a>
+### Stam yeinam và mevushal — סְתָם יֵינָם / מְבֻשָּׁל
+
+*Stam yeinam* (“rượu của họ nói chung”) là rượu của người ngoài Do Thái mà không biết đã được dâng cho thần hay chưa; các hiền sĩ cấm nó như một hàng rào quanh *yayin nesekh*. Rượu *mevushal* (“đã đun nóng”) không bị cấm khi người ngoài chạm vào, nên được dùng rộng rãi trong ngành rượu kosher hiện đại.
+
+<a id="kitniyot"></a>
+### Kitniyot — קִטְנִיּוֹת
+
+Các loại đậu, gạo, ngô và hạt khác mà cộng đồng Ashkenazi có tập quán không ăn trong lễ Pesach, vì dễ lẫn với ngũ cốc có thể thành *chametz*. Đây là tập quán, không phải luật *chametz*; nhiều cộng đồng Sephardi không giữ.
+
+<a id="mechirat-chametz"></a>
+### Mechirat chametz — מְכִירַת חָמֵץ
+
+“Bán *chametz*”: tập quán bán tạm *chametz* cho người ngoài Do Thái trước Pesach và mua lại sau lễ, để khỏi phải hủy hàng hóa có giá trị lớn. Đây là một giải pháp pháp lý phát triển trong thời trung đại và cận đại.
+
+<a id="heter-iska"></a>
+### Heter iska — הֶתֵּר עִסְקָא
+
+“Giấy phép hợp tác kinh doanh”: hình thức hợp đồng biến khoản vay thành một khoản đầu tư chung, trong đó người cấp vốn chia lợi nhuận chứ không nhận lãi, để giao dịch tài chính giữa người Do Thái không vi phạm luật cấm lãi.
+
+<a id="heter-mechirah"></a>
+### Heter mechirah — הֶתֵּר מְכִירָה
+
+“Giấy phép bán”: giải pháp từ cuối thế kỷ XIX, bán tạm đất ở Israel cho người ngoài Do Thái trong năm *shemittah* để nông dân vẫn canh tác được. Giải pháp này đến nay vẫn bị tranh luận giữa các thẩm quyền rabbi.
+
+<a id="kedushat-sheviit"></a>
+### Kedushat shevi’it — קְדֻשַּׁת שְׁבִיעִית
+
+“Sự thánh của năm thứ bảy”: địa vị riêng của nông sản mọc trong năm *shemittah*. Nó được ăn, nhưng không được buôn bán theo cách thông thường, không được làm hư hỏng, và phải được “đem ra” khi loại sản vật ấy không còn trên đồng.
+
+<a id="tzaar-baalei-chayim"></a>
+### Tza’ar ba’alei chayim — צַעַר בַּעֲלֵי חַיִּים
+
+“Nỗi khổ của sinh vật”: nguyên tắc cấm gây đau đớn không cần thiết cho động vật. Talmud (Bava Metzia 32b) tranh luận nguyên tắc này có từ Torah hay từ các hiền sĩ.
+
+<a id="miun"></a>
+### Mi’un — מֵאוּן
+
+“Sự từ chối”: cách một cô gái vị thành niên, được mẹ hay anh cho kết hôn sau khi cha qua đời, có thể tự chấm dứt cuộc hôn nhân ấy mà không cần giấy ly hôn. Đây là một biện pháp các hiền sĩ lập ra để bảo vệ trẻ em gái.
+
+<a id="taharat-hamishpachah"></a>
+### Taharat ha-mishpachah — טׇהֳרַת הַמִּשְׁפָּחָה
+
+“Sự thanh sạch của gia đình”: tên gọi hiện đại cho các luật về niddah: kiêng quan hệ vợ chồng trong thời kỳ kinh nguyệt và những ngày sau đó, rồi ngâm mình trong *mikveh*.
+
+<a id="avodat-perekh"></a>
+### Avodat perekh — עֲבוֹדַת פֶּרֶךְ
+
+“Công việc khắc nghiệt”: theo luật rabbi, công việc không có giới hạn rõ ràng hay không có mục đích thật, được giao chỉ để người lao động không được nghỉ. Torah cấm giao công việc ấy cho tôi tớ Hebrew, vì nó gợi lại ách nô lệ ở Ai Cập.
+
+<a id="minut"></a>
+### Minut — מִינוּת
+
+“Dị giáo”: trong văn học rabbi, những niềm tin hay nhóm bị coi là đi lệch khỏi Do Thái giáo; từ *min* (số nhiều *minim*) được dùng cho nhiều nhóm khác nhau tùy thời kỳ.
+
+<a id="darkhei-shalom"></a>
+### Darkhei shalom — דַּרְכֵי שָׁלוֹם
+
+“Con đường hòa bình”: nguyên tắc của các hiền sĩ, theo đó người ta giúp người nghèo không phải Do Thái, thăm người bệnh và chôn người chết của họ, để giữ quan hệ hòa bình giữa các cộng đồng.
+
+<a id="darkhei-haemori"></a>
+### Darkhei ha-Emori — דַּרְכֵי הָאֱמוֹרִי
+
+“Những con đường của người Amorite”: tên các hiền sĩ đặt cho những tập tục mê tín bị cấm, được liệt kê trong Tosefta Shabbat 6–7.
+
+<a id="beliyaal"></a>
+### Beliya’al — בְּלִיַּעַל
+
+Thường dịch là “vô lại, đồi bại”; nghĩa gốc có lẽ là “vô giá trị”. Kinh Thánh dùng cho kẻ lôi kéo thờ ngẫu tượng (Phục Truyền 13:14) và cho người nhỏ nhen không chịu cho người nghèo vay (Phục Truyền 15:9).
+
+<a id="ketovet-kaaka"></a>
+### Ketovet ka’aka — כְּתֹבֶת קַעֲקַע
+
+Cụm từ duy nhất trong Kinh Thánh (Lêvi 19:28) chỉ việc xăm hình lên da; *ketovet* là “chữ viết, dấu khắc”. Luật rabbi định nghĩa vi phạm là việc vừa rạch da vừa bôi mực.
+
+<a id="misharum"></a>
+### Mīšarum
+
+Chữ Akkadian nghĩa là “sự công chính”: các sắc lệnh của vua Babylon cổ, thường ban khi lên ngôi, xóa một số khoản nợ và giải phóng người bị làm nô lệ vì nợ. Khác với các sắc lệnh này, Torah đặt việc xóa nợ theo một chu kỳ bảy năm cố định.
+
+<a id="audi-alteram-partem"></a>
+### Audi alteram partem
+
+Câu Latin nghĩa là “hãy nghe cả bên kia”: nguyên tắc tố tụng rằng không được xét xử khi chưa nghe cả hai bên.
+
+<a id="yiddish-aramaic"></a>
+### Aramaic và Yiddish
+
+Hai ngôn ngữ khác tiếng Hebrew trong đời sống Do Thái. Aramaic là ngôn ngữ chung của Cận Đông từ thời Ba Tư, ngôn ngữ của phần lớn Talmud và của Targum. Yiddish là ngôn ngữ của người Do Thái Ashkenazi, có gốc tiếng Đức trung đại, viết bằng chữ Hebrew.
+
+<a id="holocaust-shoah"></a>
+### Holocaust và Shoah — שׁוֹאָה
+
+Cuộc diệt chủng khoảng sáu triệu người Do Thái do Đức Quốc xã và đồng minh thực hiện (1941–1945). Chữ *Holocaust* đến từ tiếng Hy Lạp *holokauston* (“thiêu toàn bộ”), bản dịch của lễ toàn thiêu *olah*; vì hàm ý hiến tế ấy, nhiều người Do Thái dùng chữ Hebrew *Shoah* (“thảm họa”).
+
+## Đơn vị đo lường và tiền tệ
+
+<a id="shekel-sela"></a>
+### Shekel và sela — שֶׁקֶל / סֶלַע
+
+*Shekel* trong Torah là đơn vị trọng lượng bạc (khoảng 11–14 g), không phải đồng tiền shekel hiện đại. Các hiền sĩ đồng nhất “shekel nơi thánh” với đồng *sela*, bằng bốn *dinar*.
+
+<a id="dinar-maah-perutah"></a>
+### Dinar, ma’ah, perutah và maneh — דִּינָר / מָעָה / פְּרוּטָה / מָנֶה
+
+Các đơn vị tiền thời Mishnah và Talmud. Một *dinar* (hay *zuz*) bằng sáu *ma’ah*; *perutah* là đồng tiền đồng nhỏ nhất, và là mức giá trị tối thiểu trong nhiều luật về tiền bạc; một *maneh* bằng một trăm *dinar*. *Maneh* cũng là đơn vị trọng lượng.
+
+<a id="length-units"></a>
+### Amah, tefach, mil và parsah — אַמָּה / טֶפַח / מִיל / פַּרְסָה
+
+Các đơn vị chiều dài. *Amah* (cubit) là chiều dài cẳng tay, khoảng 45–60 cm; *tefach* là một bàn tay, bằng một phần sáu *amah*; *mil* bằng 2.000 *amah*, khoảng 1 km; *parsah* bằng bốn *mil*.
+
+<a id="volume-units"></a>
+### Log, revi’it, kav, se’ah, hin và chomer — לֹג / רְבִיעִית / קַב / סְאָה / הִין / חֹמֶר
+
+Các đơn vị dung tích. *Log* bằng thể tích sáu quả trứng (khoảng 0,3–0,6 lít); *revi’it* là một phần tư *log*, lượng tối thiểu của nhiều luật về chất lỏng; *kav* bằng bốn *log*; *se’ah* bằng sáu *kav*; *hin* bằng mười hai *log*; *ephah* bằng ba *se’ah*; *chomer* (hay *kor*) bằng mười *ephah*. Các giá trị hiện đại quy đổi khác nhau tùy thẩm quyền.
