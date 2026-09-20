@@ -16,6 +16,8 @@ const builtinConditions: Record<string, ConditionPredicate> = {
     const toc = (props.fileData as Record<string, unknown>).toc
     return Array.isArray(toc) && toc.length > 0
   },
+  "graph-enabled": (props) => props.fileData.frontmatter?.enableGraph !== false,
+  "backlinks-enabled": (props) => props.fileData.frontmatter?.enableBacklinks !== false,
 }
 
 const customConditions = new Map<string, ConditionPredicate>()

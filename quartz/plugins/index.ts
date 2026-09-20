@@ -30,6 +30,9 @@ export function getStaticResourcesFromPlugins(ctx: BuildCtx) {
     staticResources.js.push({
       loadTime: "afterDOMReady",
       contentType: "inline",
+      // without this the script is re-run on every soft navigation, opening a
+      // fresh socket each time and never closing the old ones
+      spaPreserve: true,
       script: `
         const socket = new WebSocket('${wsUrl}')
         // reload(true) ensures resources like images and scripts are fetched again in firefox

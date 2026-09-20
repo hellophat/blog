@@ -1,3 +1,93 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Below the mobile breakpoint the right sidebar (table of contents, backlinks)
+// is laid out at the very bottom of the page, where it is unreachable in
+// practice. Turn it into a drawer instead, opened by the reader-mode button --
+// reader mode itself does nothing usable on a touch screen, since it fades the
+// sidebars and brings them back on hover. See mobileSidebar.inline.ts.
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.right {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 4;
+    width: min(85vw, 20rem);
+    height: 100dvh;
+    margin: 0;
+    padding: 4rem 1.5rem 2rem;
+    flex-direction: column;
+    gap: 1.2rem;
+    overscroll-behavior: contain;
+    background-color: var(--light);
+    border-left: 1px solid var(--lightgray);
+    visibility: hidden;
+    transform: translateX(100%);
+    transition:
+      transform 0.2s ease,
+      visibility 0.2s ease;
+
+    & > * {
+      max-height: none;
+    }
+  }
+
+  // the plugin collapses the ToC by shrinking its flex basis, which the
+  // sidebar's own `flex: 1` on every child otherwise wins over
+  .page > #quartz-body .sidebar.right > .toc:has(button.toc-header.collapsed) {
+    flex: 0 1 1.4rem;
+  }
+
+  :root[mobile-panel="open"] {
+    & .page > #quartz-body .sidebar.right {
+      visibility: visible;
+      transform: none;
+    }
+
+    & .page > #quartz-body::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 3;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    // The drawer must never hide its own toggle. The toolbar is already pinned
+    // to the top of the viewport at this width, but it paints below the
+    // drawer, so the drawer covered the button that opened it: lift it above
+    // both the drawer and the backdrop, and give it a background of its own so
+    // the drawer does not show through. The pinning is restated here rather
+    // than inherited, so a change to the base layout cannot quietly let the
+    // button scroll out of reach; sticky keeps it in flow, so opening and
+    // closing the drawer shifts nothing behind the backdrop.
+    & .page > #quartz-body .sidebar.left {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background-color: var(--light);
+    }
+  }
+
+  // the button is a drawer toggle here, not a reader-mode switch
+  .readermode.mobile-panel-toggle {
+    & > svg {
+      display: none;
+    }
+
+    &::before {
+      content: "";
+      position: absolute;
+      top: calc(50% - 10px);
+      width: 20px;
+      height: 20px;
+      background-color: var(--darkgray);
+      mask: var(--mobile-panel-icon) center / 20px 20px no-repeat;
+      -webkit-mask: var(--mobile-panel-icon) center / 20px 20px no-repeat;
+    }
+  }
+}
+
+:root {
+  --mobile-panel-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M4 6h16M4 12h16M4 18h10'/%3E%3C/svg%3E");
+}

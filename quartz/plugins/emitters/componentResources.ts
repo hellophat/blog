@@ -6,6 +6,8 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore
+import mobileSidebarScript from "../../components/scripts/mobileSidebar.inline"
 import baseStyles from "../../styles/base.scss"
 import customStyles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
@@ -83,6 +85,10 @@ async function joinScripts(scripts: string[]): Promise<string> {
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
   const cfg = ctx.cfg.configuration
+
+  // On mobile the right sidebar becomes a drawer opened by the reader-mode
+  // button; see custom.scss for the layout it drives.
+  componentResources.afterDOMLoaded.push(mobileSidebarScript)
 
   // popovers
   if (cfg.enablePopovers) {

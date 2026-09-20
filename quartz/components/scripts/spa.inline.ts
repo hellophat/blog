@@ -43,6 +43,104 @@ function notifyNav(url: FullSlug) {
 const cleanupFns: Set<(...args: any[]) => void> = new Set()
 window.addCleanup = (fn) => cleanupFns.add(fn)
 
+type ScrollPosition = { x: number; y: number }
+type SpaHistoryState = { quartzScroll?: ScrollPosition } & Record<string, unknown>
+
+const getHistoryState = (): SpaHistoryState => {
+  const state = window.history.state
+  return state !== null && typeof state === "object" ? state : {}
+}
+
+const getScrollPosition = (state: unknown): ScrollPosition | undefined => {
+  if (state === null || typeof state !== "object") return
+  const position = (state as SpaHistoryState).quartzScroll
+  if (position && Number.isFinite(position.x) && Number.isFinite(position.y)) {
+    return position
+  }
+}
+
+const saveScrollPosition = () => {
+  const state = getHistoryState()
+  window.history.replaceState(
+    { ...state, quartzScroll: { x: window.scrollX, y: window.scrollY } },
+    "",
+    window.location.href,
+  )
+}
+
+const elementForHash = (hash: string): HTMLElement | null => {
+  if (!hash) return null
+  const raw = hash.substring(1)
+  // a hand-written link can carry a stray "%", which throws here
+  let id = raw
+  try {
+    id = decodeURIComponent(raw)
+  } catch {}
+  return document.getElementById(id) ?? document.getElementById(raw)
+}
+
+// The stylesheet sets `scroll-behavior: smooth`, which would animate every
+// restoration. `behavior: "instant"` would override it, but it is a WebIDL
+// enum value older WebKit rejects with a TypeError -- and this runs inside
+// _navigate, where any throw falls through to `window.location.assign` and
+// turns a soft navigation into a full page load. Suppress the animation with
+// a temporary inline style instead, which every browser understands.
+const applyScrollPosition = (url: URL, position?: ScrollPosition) => {
+  const root = document.documentElement
+  const previousBehavior = root.style.scrollBehavior
+  root.style.scrollBehavior = "auto"
+
+  try {
+    if (position) {
+      window.scrollTo(position.x, position.y)
+    } else if (url.hash) {
+      elementForHash(url.hash)?.scrollIntoView()
+    } else {
+      window.scrollTo(0, 0)
+    }
+  } finally {
+    root.style.scrollBehavior = previousBehavior
+  }
+}
+
+// Apply the position right away so the `nav` event (and the observers it sets
+// up, notably the ToC) already sees the final viewport, then re-apply it once
+// on the next frame in case swapping stylesheets reflowed the page. The second
+// pass must not be awaited: on mobile browsers rAF is throttled during the
+// back gesture, and blocking `nav` on it leaves the page uninitialised for as
+// long as the transition lasts.
+//
+// Restoring the scroll position is a nicety; failing at it must never cost the
+// visitor a full page reload, so nothing in here is allowed to escape.
+const restoreScrollPosition = (
+  url: URL,
+  position?: ScrollPosition,
+  saveAfterRestore: boolean = false,
+) => {
+  try {
+    applyScrollPosition(url, position)
+  } catch (e) {
+    console.error(e)
+  }
+
+  window.requestAnimationFrame(() => {
+    try {
+      applyScrollPosition(url, position)
+      if (saveAfterRestore) saveScrollPosition()
+    } catch (e) {
+      console.error(e)
+    }
+  })
+}
+
+if ("scrollRestoration" in window.history) {
+  window.history.scrollRestoration = "manual"
+}
+
+if (!getScrollPosition(window.history.state)) {
+  saveScrollPosition()
+}
+
 function startLoading() {
   document.querySelector(".navigation-progress")?.remove()
   const loadingBar = document.createElement("div")
@@ -62,26 +160,118 @@ function stopLoading() {
   }
 }
 
+// History traversal re-renders a page the visitor already downloaded, so keep
+// the last few responses around. Pages here are large (hundreds of KB), and on
+// a phone re-fetching them is what makes going back feel like a fresh load.
+// Pages here run to hundreds of KB, so bound the cache by bytes as well as by
+// count: holding several of them is exactly the kind of memory pressure that
+// gets a tab discarded on a phone, which costs a full reload -- the opposite
+// of what the cache is for.
+const MAX_CACHED_PAGES = 5
+const MAX_CACHED_BYTES = 3_000_000
+const pageCache = new Map<string, string>()
+
+const cachedBytes = () => {
+  let total = 0
+  for (const contents of pageCache.values()) total += contents.length
+  return total
+}
+
+const cacheKey = (url: URL) => url.origin + url.pathname + url.search
+
+const readPageCache = (url: URL): string | undefined => {
+  const key = cacheKey(url)
+  const contents = pageCache.get(key)
+  if (contents === undefined) return
+  // refresh recency
+  pageCache.delete(key)
+  pageCache.set(key, contents)
+  return contents
+}
+
+const writePageCache = (url: URL, contents: string) => {
+  const key = cacheKey(url)
+  pageCache.delete(key)
+  pageCache.set(key, contents)
+  while (
+    pageCache.size > 1 &&
+    (pageCache.size > MAX_CACHED_PAGES || cachedBytes() > MAX_CACHED_BYTES)
+  ) {
+    pageCache.delete(pageCache.keys().next().value as string)
+  }
+}
+
+// The page the visitor landed on was never fetched by the router, so it is the
+// one page missing from the cache -- and the one they are most likely to come
+// back to. Warm it while the browser is idle.
+// Warming is a speculative download of a page the visitor already has on
+// screen. It buys an instant first back, which is worth one request on a
+// normal connection and not worth it on a metered or slow one.
+const warmingIsWorthIt = () => {
+  const connection = (
+    navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }
+  ).connection
+  if (!connection) return true
+  if (connection.saveData) return false
+  return connection.effectiveType === undefined || connection.effectiveType.includes("4g")
+}
+
+const warmPageCache = (url: URL) => {
+  if (readPageCache(url) !== undefined) return
+  if (!warmingIsWorthIt()) return
+
+  const warm = () =>
+    fetchCanonical(url)
+      .then((res) => (res.headers.get("content-type")?.startsWith("text/html") ? res.text() : ""))
+      .then((contents) => {
+        if (contents) writePageCache(url, contents)
+      })
+      .catch(() => {})
+
+  const idle = window.requestIdleCallback
+  if (typeof idle === "function") {
+    idle(warm, { timeout: 5000 })
+  } else {
+    window.setTimeout(warm, 1000)
+  }
+}
+
+// Giving up on a soft navigation costs the visitor a full page load, which on
+// a phone reads as a blank flash and a spinner in the URL bar. It used to
+// happen silently; say why, so the next report has something to go on.
+const hardNavigate = (url: URL, reason: string) => {
+  console.error(`[quartz spa] falling back to a full page load of ${url}: ${reason}`)
+  window.location.assign(url)
+}
+
 let isNavigating = false
 let p: DOMParser
-async function _navigate(url: URL, isBack: boolean = false) {
+let renderedPathname = window.location.pathname
+async function _navigate(url: URL, isBack: boolean = false, scrollPosition?: ScrollPosition) {
   isNavigating = true
-  startLoading()
   p = p || new DOMParser()
-  const contents = await fetchCanonical(url)
-    .then((res) => {
-      const contentType = res.headers.get("content-type")
-      if (contentType?.startsWith("text/html")) {
-        return res.text()
-      } else {
-        window.location.assign(url)
-      }
-    })
-    .catch(() => {
-      window.location.assign(url)
-    })
+
+  let contents = isBack ? readPageCache(url) : undefined
+  if (contents === undefined) {
+    startLoading()
+    contents = await fetchCanonical(url)
+      .then((res) => {
+        const contentType = res.headers.get("content-type")
+        if (contentType?.startsWith("text/html")) {
+          return res.text()
+        } else {
+          hardNavigate(url, `response was ${res.status} ${contentType ?? "without a content type"}`)
+          return undefined
+        }
+      })
+      .catch((e) => {
+        hardNavigate(url, `fetch failed: ${e}`)
+        return undefined
+      })
+  }
 
   if (!contents) return
+  writePageCache(url, contents)
 
   // notify about to nav
   const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
@@ -110,41 +300,35 @@ async function _navigate(url: URL, isBack: boolean = false) {
   document.querySelector(".navigation-progress")?.remove()
   micromorph(document.body, html.body)
 
-  if (!isBack && !url.hash) {
-    window.scrollTo({ top: 0 })
-  }
-
   // now, patch head, re-executing scripts
   const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")
   elementsToRemove.forEach((el) => el.remove())
   const elementsToAdd = html.head.querySelectorAll(":not([data-persist])")
   elementsToAdd.forEach((el) => document.head.appendChild(el))
 
-  // scroll to the anchor only after the head is patched: swapping stylesheets
-  // reflows the page and cancels a smooth scroll started before it
-  if (!isBack && url.hash) {
-    const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-    el?.scrollIntoView({ behavior: "instant" })
-  }
-
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    history.pushState({ quartzScroll: { x: window.scrollX, y: window.scrollY } }, "", url)
   }
 
+  renderedPathname = url.pathname
+
+  // New entries start at the top (or their anchor), while history traversal
+  // restores the position saved for that entry.
+  restoreScrollPosition(url, isBack ? scrollPosition : undefined, !isBack)
   notifyNav(getFullSlug(window))
   delete announcer.dataset.persist
 }
 
-async function navigate(url: URL, isBack: boolean = false) {
+async function navigate(url: URL, isBack: boolean = false, scrollPosition?: ScrollPosition) {
   if (isNavigating) return
   isNavigating = true
   try {
-    await _navigate(url, isBack)
+    if (!isBack) saveScrollPosition()
+    await _navigate(url, isBack, scrollPosition)
   } catch (e) {
-    console.error(e)
-    window.location.assign(url)
+    hardNavigate(url, `navigation threw: ${e}`)
   } finally {
     stopLoading()
     isNavigating = false
@@ -162,8 +346,13 @@ function createRouter() {
       event.preventDefault()
 
       if (isSamePage(url) && url.hash) {
-        const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-        el?.scrollIntoView()
+        // record where the visitor was before the jump, so going back returns
+        // them there instead of to the anchor they jumped to
+        saveScrollPosition()
+        elementForHash(url.hash)?.scrollIntoView()
+        // no stored position: the scroll is still animating, so scrollY here is
+        // the old one. Leaving it out makes history traversal fall back to the
+        // anchor in the URL, which is exactly where this entry points.
         history.pushState({}, "", url)
         return
       }
@@ -172,9 +361,15 @@ function createRouter() {
     })
 
     window.addEventListener("popstate", (event) => {
-      const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
-      navigate(new URL(window.location.toString()), true)
+      const url = new URL(window.location.toString())
+      const scrollPosition = getScrollPosition(event.state)
+
+      if (url.pathname === renderedPathname) {
+        restoreScrollPosition(url, scrollPosition)
+        return
+      }
+
+      navigate(url, true, scrollPosition)
       return
     })
   }
@@ -197,6 +392,7 @@ function createRouter() {
 
 createRouter()
 notifyNav(getFullSlug(window))
+warmPageCache(new URL(window.location.toString()))
 
 if (!customElements.get("route-announcer")) {
   const attrs = {

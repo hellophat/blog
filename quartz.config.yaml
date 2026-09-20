@@ -157,6 +157,8 @@ plugins:
     layout:
       position: right
       priority: 10
+      condition: graph-enabled
+      display: desktop-only
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -170,6 +172,7 @@ plugins:
     layout:
       position: right
       priority: 50
+      condition: backlinks-enabled
   - source: "@quartz-community/article-title"
     enabled: true
     layout:

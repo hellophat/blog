@@ -1,6 +1,8 @@
 ---
 title: Bảng thuật ngữ
 description: Giải thích các thuật ngữ Hebrew, văn bản, nghi lễ, con người và bối cảnh lịch sử được dùng trong loạt bài về 613 điều răn.
+enableGraph: false
+enableBacklinks: false
 tags:
   - Do Thái giáo
   - thuật ngữ
