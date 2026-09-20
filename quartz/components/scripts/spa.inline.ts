@@ -26,13 +26,35 @@ const isSamePage = (url: URL): boolean => {
 
 const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined => {
   if (!isElement(target)) return
-  if (target.attributes.getNamedItem("target")?.value === "_blank") return
   const a = target.closest("a")
   if (!a) return
+  if (a.target === "_blank") return
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
   return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+}
+
+const openArticleLinksInNewTabs = () => {
+  const currentUrl = new URL(window.location.href)
+
+  for (const link of document.querySelectorAll<HTMLAnchorElement>("article a[href]")) {
+    const url = new URL(link.href, currentUrl)
+    const isSameDocumentAnchor =
+      url.origin === currentUrl.origin &&
+      url.pathname === currentUrl.pathname &&
+      url.search === currentUrl.search &&
+      url.hash.length > 0
+
+    // Footnotes and heading anchors should still jump within the current page.
+    if (isSameDocumentAnchor) continue
+
+    link.target = "_blank"
+    const rel = new Set((link.rel || "").split(/\s+/).filter(Boolean))
+    rel.add("noopener")
+    rel.add("noreferrer")
+    link.rel = [...rel].join(" ")
+  }
 }
 
 function notifyNav(url: FullSlug) {
@@ -76,7 +98,22 @@ const elementForHash = (hash: string): HTMLElement | null => {
   try {
     id = decodeURIComponent(raw)
   } catch {}
-  return document.getElementById(id) ?? document.getElementById(raw)
+  const target = document.getElementById(id) ?? document.getElementById(raw)
+  if (!target) return null
+
+  // Explicit Markdown anchors such as `<a id="torah"></a>` are rendered as
+  // an empty paragraph immediately before the actual heading. Scrolling that
+  // zero-height inline anchor into view ignores the document's scroll padding
+  // and leaves the visible heading offset. Use the following heading instead.
+  if (target.tagName === "A" && target.textContent?.trim() === "") {
+    const parent = target.parentElement
+    const heading = parent?.nextElementSibling
+    if (parent?.children.length === 1 && heading?.matches("h1, h2, h3, h4, h5, h6")) {
+      return heading as HTMLElement
+    }
+  }
+
+  return target
 }
 
 // The stylesheet sets `scroll-behavior: smooth`, which would animate every
@@ -100,6 +137,58 @@ const applyScrollPosition = (url: URL, position?: ScrollPosition) => {
     }
   } finally {
     root.style.scrollBehavior = previousBehavior
+  }
+}
+
+let stopHashStabilization: (() => void) | undefined
+
+// Long pages can keep reflowing after the first animation frame while fonts,
+// images, and components settle. The accumulated shift is especially visible
+// for fragments near the bottom of the document. Keep the fragment aligned
+// briefly, but yield immediately when the visitor starts interacting.
+const stabilizeHashPosition = (url: URL, saveAfterRestore: boolean) => {
+  stopHashStabilization?.()
+
+  const article = document.querySelector("article")
+  if (!url.hash || !article || typeof ResizeObserver === "undefined") return
+
+  const controller = new AbortController()
+  let stopped = false
+  let observer: ResizeObserver | undefined
+  let timer: number | undefined
+
+  const stop = () => {
+    if (stopped) return
+    stopped = true
+    observer?.disconnect()
+    if (timer !== undefined) window.clearTimeout(timer)
+    controller.abort()
+    if (stopHashStabilization === stop) stopHashStabilization = undefined
+  }
+
+  const realign = () => {
+    if (stopped || window.location.hash !== url.hash) return stop()
+    try {
+      applyScrollPosition(url)
+      if (saveAfterRestore) saveScrollPosition()
+    } catch (e) {
+      console.error(e)
+      stop()
+    }
+  }
+
+  observer = new ResizeObserver(realign)
+  observer.observe(article)
+  timer = window.setTimeout(stop, 2500)
+  stopHashStabilization = stop
+
+  for (const event of ["pointerdown", "touchstart", "wheel", "keydown"] as const) {
+    window.addEventListener(event, stop, { capture: true, once: true, signal: controller.signal })
+  }
+
+  document.fonts?.ready.then(realign).catch(() => {})
+  if (document.readyState !== "complete") {
+    window.addEventListener("load", realign, { once: true, signal: controller.signal })
   }
 }
 
@@ -127,6 +216,7 @@ const restoreScrollPosition = (
     try {
       applyScrollPosition(url, position)
       if (saveAfterRestore) saveScrollPosition()
+      if (!position && url.hash) stabilizeHashPosition(url, saveAfterRestore)
     } catch (e) {
       console.error(e)
     }
@@ -299,6 +389,7 @@ async function _navigate(url: URL, isBack: boolean = false, scrollPosition?: Scr
 
   document.querySelector(".navigation-progress")?.remove()
   micromorph(document.body, html.body)
+  openArticleLinksInNewTabs()
 
   // now, patch head, re-executing scripts
   const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")
@@ -391,8 +482,16 @@ function createRouter() {
 }
 
 createRouter()
+openArticleLinksInNewTabs()
+const initialUrl = new URL(window.location.href)
+if (initialUrl.hash) {
+  // The browser follows the fragment before Quartz components finish laying
+  // out. Re-apply it now (and once on the next frame) so content inserted
+  // above the target cannot leave a cross-page anchor at the wrong position.
+  restoreScrollPosition(initialUrl, undefined, true)
+}
 notifyNav(getFullSlug(window))
-warmPageCache(new URL(window.location.toString()))
+warmPageCache(initialUrl)
 
 if (!customElements.get("route-announcer")) {
   const attrs = {
