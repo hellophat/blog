@@ -1,6 +1,6 @@
 ---
 title: Bảng thuật ngữ
-description: Giải thích các thuật ngữ Hebrew, văn bản, nghi lễ, con người và bối cảnh lịch sử được dùng trong loạt bài về 613 điều răn.
+description: Giải thích các thuật ngữ Hebrew, văn bản, nghi lễ, con người và bối cảnh lịch sử trong các bài về 613 điều răn, tư tưởng và lịch sử người Do Thái.
 enableGraph: false
 enableBacklinks: false
 tags:
@@ -11,7 +11,7 @@ tags:
 
 # Bảng thuật ngữ Do Thái giáo
 
-Bảng này giải thích các từ và khái niệm xuất hiện trong bài [613 điều răn](./613-commandments) và các bài [[Tìm hiểu tư tưởng|Tìm hiểu tư tưởng Do Thái]] và [[Tư tưởng|Tư tưởng Do Thái giáo]]. Các nhóm mục về bối cảnh Cận Đông cổ đại, thần linh, hiện vật khảo cổ và học giả hiện đại chủ yếu phục vụ hai bài sau. Mục tiêu không chỉ là chuyển tự tiếng Hebrew, mà còn chỉ ra những chỗ một từ tiếng Việt quen thuộc có thể khiến người đọc liên tưởng sai sang cơ cấu tôn giáo hoặc văn hóa Việt Nam.
+Bảng này giải thích các từ và khái niệm xuất hiện trong bài [613 điều răn](./613-commandments) và các bài [[Tìm hiểu tư tưởng|Tìm hiểu tư tưởng Do Thái]] và [[Tư tưởng|Tư tưởng Do Thái giáo]]. Bảng cũng phục vụ bài [Lịch sử dân tộc Do Thái: từ Đền thờ đến trang sách](Lịch%20sử%20dân%20tộc%20Do%20Thái.md). Các nhóm mục về bối cảnh Cận Đông cổ đại, thần linh, hiện vật khảo cổ và học giả hiện đại chủ yếu phục vụ hai bài sau. Mục tiêu không chỉ là chuyển tự tiếng Hebrew, mà còn chỉ ra những chỗ một từ tiếng Việt quen thuộc có thể khiến người đọc liên tưởng sai sang cơ cấu tôn giáo hoặc văn hóa Việt Nam.
 
 ## Cách đọc bảng thuật ngữ
 
@@ -43,7 +43,7 @@ Tên Hebrew của đoạn công bố tại Sinai (Xuất Hành 20; Phục Truy�
 <a id="talmud"></a>
 ### Talmud — תַּלְמוּד
 
-Một kho văn bản rabbi gồm **Mishnah** và các cuộc thảo luận gọi là **Gemara**. Có Talmud Jerusalem và Talmud Babylon; trong nhiều tài liệu, “Talmud” không kèm định ngữ thường ám chỉ bản Babylon có ảnh hưởng rộng hơn. Talmud không phải một cuốn sách do một người viết, cũng không phải phần nguyên văn của Torah.
+Một kho văn bản rabbi gồm **[Mishnah](#mishnah-term)** và các cuộc thảo luận gọi là **[Gemara](#gemara)**. Có Talmud Jerusalem và Talmud Babylon; trong nhiều tài liệu, “Talmud” không kèm định ngữ thường ám chỉ bản Babylon có ảnh hưởng rộng hơn. Talmud không phải một cuốn sách do một người viết, cũng không phải phần nguyên văn của Torah.
 
 <a id="rabbi"></a>
 ### Rabbi và truyền thống rabbi — רַבִּי
@@ -2058,7 +2058,7 @@ Các nhóm tôn giáo thời Đền Thờ thứ Hai. Người Pharisee chấp nh
 <a id="ashkenazi"></a>
 ### Ashkenazi và Ashkenaz — אַשְׁכְּנַז
 
-*Ashkenaz* là tên trung đại của vùng đất Đức; người Do Thái Ashkenazi là cộng đồng có gốc từ Trung và Đông Âu, khác với người Sephardi có gốc từ bán đảo Iberia. Hai nhóm có một số tập quán khác nhau.
+*Ashkenaz* là tên trung đại của vùng đất Đức; người Do Thái Ashkenazi là cộng đồng có gốc từ Trung và Đông Âu, khác với người [Sephardi](#sephardi) có gốc từ bán đảo Iberia. Hai nhóm có một số tập quán khác nhau.
 
 <a id="levant"></a>
 ### Cận Đông cổ đại, Levant và Nam Levant
@@ -2535,7 +2535,7 @@ Từ khó hiểu trong nghi lễ Yom Kippur (Lêvi 16), chỉ nơi con dê gánh
 <a id="mishnah-term"></a>
 ### Mishnah — מִשְׁנָה
 
-Bộ sưu tập luật truyền khẩu được Rabbi Yehudah HaNasi biên soạn khoảng năm 200 CN, chia thành sáu phần và 63 tractate. Mishnah là tầng đầu tiên của Talmud (xem Talmud và masekhet).
+Bộ sưu tập luật truyền khẩu được [Rabbi Yehudah HaNasi](#judah-ha-nasi) biên soạn khoảng năm 200 CN, chia thành sáu phần và 63 tractate. Mishnah là tầng đầu tiên của Talmud (xem Talmud và masekhet).
 
 <a id="halakhah-lemoshe-misinai"></a>
 ### Truyền thống luật từ Sinai (*halakhah le-Moshe mi-Sinai*) — הֲלָכָה לְמֹשֶׁה מִסִּינַי
@@ -2738,6 +2738,112 @@ Hai ngôn ngữ khác tiếng Hebrew trong đời sống Do Thái. Aramaic là n
 ### Holocaust và Shoah — שׁוֹאָה
 
 Cuộc diệt chủng khoảng sáu triệu người Do Thái do Đức Quốc xã và đồng minh thực hiện (1941–1945). Chữ *Holocaust* đến từ tiếng Hy Lạp *holokauston* (“thiêu toàn bộ”), bản dịch của lễ toàn thiêu *olah*; vì hàm ý hiến tế ấy, nhiều người Do Thái dùng chữ Hebrew *Shoah* (“thảm họa”).
+
+## Văn bản, thiết chế và bản sắc trong bài lịch sử
+
+<a id="gemara"></a>
+### Gemara
+
+Phần thảo luận của các hiền sĩ rabbi về [Mishnah](#mishnah-term), gồm lập luận pháp lý, giải thích, truyện kể và nhiều ý kiến khác nhau. Mishnah cùng Gemara hợp thành [Talmud](#talmud); các truyền thống Gemara khác nhau tạo nên Talmud Jerusalem và Talmud Babylon. Gemara không phải nguyên văn Torah hoặc một bộ luật chỉ ghi kết luận cuối cùng. [Nguồn: My Jewish Learning](https://www.myjewishlearning.com/article/gemara-the-essence-of-the-talmud/).
+
+<a id="judah-ha-nasi"></a>
+### Judah ha-Nasi / Yehudah ha-Nasi
+
+Hiền sĩ và người lãnh đạo cộng đồng Do Thái tại vùng đất Israel, gắn với việc biên tập [Mishnah](#mishnah-term) khoảng năm 200 CN. Tên thường được dịch sang tiếng Anh là *Judah the Prince* hoặc *Judah the Patriarch*; danh xưng *ha-Nasi* chỉ địa vị lãnh đạo. Không nên nhầm ông với tổ phụ Judah hoặc tự động đồng nhất với mọi nhân vật được gọi là “Rabbi Yehudah”. [Nguồn: My Jewish Learning, Talmud](https://www.myjewishlearning.com/article/talmud-101/).
+
+<a id="synagogue"></a>
+### Hội đường — synagogue / beit knesset
+
+Nơi cộng đồng Do Thái tập hợp để cầu nguyện, đọc và học Torah, đồng thời tổ chức những sinh hoạt chung. Hội đường đã tồn tại trước khi [Đền thờ thứ hai](#temple) bị phá hủy năm 70 CN và dần giữ vai trò lớn hơn sau đó. Hội đường không phải một Đền thờ hiến tế thu nhỏ; hai thiết chế có chức năng và lịch sử khác nhau. [Nguồn: Jeffrey Spitzer, hội đường và nhà học](https://www.myjewishlearning.com/article/the-synagogue-and-the-study-house/).
+
+<a id="beit-midrash"></a>
+### Nhà học — beit midrash
+
+Nghĩa gần với “nhà nghiên cứu/diễn giải”: nơi dành cho việc học Torah và các văn bản của truyền thống Do Thái, đặc biệt Mishnah và Talmud. Chức năng nhấn mạnh học tập và thảo luận, trong khi [hội đường](#synagogue) nhấn mạnh việc hội họp và cầu nguyện; hai chức năng có thể cùng nằm trong một cơ sở. [Nguồn: Jeffrey Spitzer](https://www.myjewishlearning.com/article/the-synagogue-and-the-study-house/).
+
+<a id="rabbinic-judaism"></a>
+### Do Thái giáo rabbi — Rabbinic Judaism
+
+Truyền thống Do Thái giáo đặt Torah thành văn trong quan hệ với truyền thống diễn giải và luật truyền khẩu, được lưu giữ qua Mishnah, Talmud và các tác phẩm về sau. Sau khi Đền thờ thứ hai bị phá hủy, truyền thống này dần mở rộng ảnh hưởng qua nhiều thế kỷ. Nó không bao gồm mọi hình thức Do Thái giáo từng tồn tại. Xem [rabbi](#rabbi) và [halakhah](#halakhah). [Nguồn: My Jewish Learning, Do Thái giáo sau Đền thờ](https://www.myjewishlearning.com/article/judaism-after-the-temple/).
+
+<a id="jewish-identity"></a>
+### Người Do Thái và bản sắc Do Thái
+
+“Người Do Thái” có thể chỉ sự thuộc về một cộng đồng lịch sử thông qua nguồn gốc, gia đình, tôn giáo, văn hóa hoặc việc cải đạo. Không phải mọi người Do Thái đều thực hành Do Thái giáo; cũng không thể quy cộng đồng này thành một nhóm huyết thống duy nhất. Tiêu chuẩn công nhận tư cách Do Thái có khác biệt giữa các truyền thống tôn giáo và những bối cảnh pháp lý. Phân biệt với công dân của [Nhà nước Israel](#israel). [Nguồn: AJC](https://www.ajc.org/news/a-short-guide-to-jewish-religion-and-culture).
+
+<a id="giyur"></a>
+### Cải đạo sang Do Thái giáo — giyur
+
+Quá trình gia nhập Do Thái giáo, thường bao gồm học tập, tiếp nhận nghĩa vụ tôn giáo và các thủ tục do cộng đồng hoặc thẩm quyền rabbi quy định. Tiêu chuẩn và sự công nhận giữa các khuynh hướng có thể khác nhau. Người cải đạo trong ngôn ngữ rabbi có thể được gọi là *ger tzedek*; không nên đồng nhất mọi [ger](#ger) trong Kinh Thánh với nghĩa này. [Nguồn: My Jewish Learning, khác biệt về cải đạo](https://www.myjewishlearning.com/article/cross-denominational-differences-regarding-conversion/).
+
+<a id="exodus-event"></a>
+### Xuất hành — Exodus
+
+Câu chuyện Israel được giải phóng khỏi cảnh nô lệ ở Ai Cập dưới sự dẫn dắt của Moses, theo Kinh Thánh Hebrew. Đây là ký ức nền tảng của giao ước và [lễ Vượt Qua](#pesach). “Xuất hành” có thể chỉ câu chuyện/biến cố hoặc sách mang tên ấy; việc phân biệt giúp tránh coi nội dung trình thuật là toàn bộ lịch sử đã được kiểm chứng. Quy mô, niên đại và cơ sở lịch sử của câu chuyện vẫn được nghiên cứu và tranh luận. [Nguồn: Bietak và Rendsburg, “Egypt and the Exodus”](https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/ch.%202%20text%20%20notes.pdf).
+
+## Cộng đồng và các khuynh hướng Do Thái giáo
+
+<a id="sephardi"></a>
+### Sephardi / Sephardim
+
+Tên gọi gắn với người Do Thái có nguồn gốc ở bán đảo Iberia và các cộng đồng hình thành qua di cư từ đó. Trong một số văn cảnh, “Sephardi” cũng chỉ truyền thống nghi lễ được nhiều cộng đồng khác sử dụng. Vì vậy, nguồn gốc gia đình và hình thức nghi lễ không luôn trùng nhau. Phân biệt với [Ashkenazi](#ashkenazi) và xem [Mizrahi](#mizrahi). [Nguồn: My Jewish Learning, Sephardi và Mizrahi](https://www.myjewishlearning.com/article/sephardi-and-mizrahi-women/).
+
+<a id="mizrahi"></a>
+### Mizrahi / Mizrahim
+
+Tên gọi bao quát nhiều cộng đồng Do Thái có nguồn gốc ở Trung Đông và Bắc Phi. Đây là một cách phân nhóm hiện đại, không phải tên tự gọi thống nhất của mọi cộng đồng ấy từ thời cổ đại. Nó có phần giao thoa với [Sephardi](#sephardi), nhất là về nghi lễ và các lịch sử di cư. [Nguồn: My Jewish Learning, Sephardi và Mizrahi](https://www.myjewishlearning.com/article/sephardi-and-mizrahi-women/).
+
+<a id="beta-israel"></a>
+### Beta Israel
+
+Tên gọi cộng đồng Do Thái ở Ethiopia, thường được dịch là “Nhà Israel”. Cộng đồng có lịch sử và truyền thống tôn giáo riêng, cần được phân biệt với các cộng đồng Ashkenazi, Sephardi hoặc Mizrahi. Không nên coi nghi lễ của mọi người Do Thái là một hệ thống đồng nhất ở mọi thời kỳ. [Nguồn: Rachel M. Solomin, các cộng đồng Do Thái](https://www.myjewishlearning.com/article/sephardic-ashkenazic-mizrahi-jews-jewish-ethnic-diversity/).
+
+<a id="hasidism"></a>
+### Hasidism / phong trào Hasidic
+
+Phong trào phục hưng tâm linh Do Thái phát triển ở Đông Âu trong thế kỷ XVIII, nhấn mạnh cầu nguyện, đời sống tâm linh và sự hướng dẫn của [rebbe](#rebbe). Phong trào có nhiều nhóm và từng gặp phản đối trong nội bộ Do Thái. Nó nằm trong thế giới Do Thái giáo Chính thống hiện nay, nhưng không đồng nghĩa với toàn bộ [Chính thống](#orthodox-judaism). [Nguồn: My Jewish Learning, lịch sử Hasidism](https://www.myjewishlearning.com/article/hasidic-movement-a-history/).
+
+<a id="rebbe"></a>
+### Rebbe
+
+Trong bối cảnh Hasidism, danh xưng của người lãnh đạo tinh thần của một cộng đồng hoặc một dòng Hasidic. Ngoài việc dạy học, rebbe còn gắn với sự hướng dẫn đời sống tâm linh của các tín đồ. Từ này có quan hệ với danh xưng [rabbi](#rabbi), nhưng trong văn cảnh ấy hai vai trò không hoàn toàn đồng nhất. [Nguồn: My Jewish Learning, Hasidism](https://www.myjewishlearning.com/article/hasidic-movement-a-history/).
+
+<a id="orthodox-judaism"></a>
+### Do Thái giáo Chính thống — Orthodox Judaism
+
+Tên gọi bao quát các khuynh hướng coi [halakhah](#halakhah) truyền thống có tính ràng buộc và nhấn mạnh việc tuân giữ. Bên trong có nhiều cách tổ chức đời sống và quan hệ với xã hội chung quanh. “Chính thống” ở đây là tên một khuynh hướng Do Thái giáo, không chỉ Chính thống giáo Đông phương của Kitô giáo. [Nguồn: My Jewish Learning, các khuynh hướng Do Thái giáo](https://www.myjewishlearning.com/article/the-jewish-denominations/).
+
+<a id="reform-judaism"></a>
+### Do Thái giáo Cải cách — Reform Judaism
+
+Khuynh hướng phát triển trong bối cảnh hiện đại ở châu Âu, chủ trương diễn giải và điều chỉnh thực hành theo những hiểu biết và điều kiện mới. Nhấn mạnh đạo đức, sự lựa chọn có hiểu biết và quan hệ giữa truyền thống với đời sống hiện đại. Tên gọi không có nghĩa mọi cộng đồng Cải cách đều có nghi lễ hoặc quan điểm giống nhau. [Nguồn: My Jewish Learning, các khuynh hướng Do Thái giáo](https://www.myjewishlearning.com/article/the-jewish-denominations/).
+
+<a id="conservative-masorti"></a>
+### Do Thái giáo Bảo thủ / Masorti — Conservative Judaism
+
+Khuynh hướng coi luật và truyền thống Do Thái có tính ràng buộc, đồng thời thừa nhận sự phát triển lịch sử và khả năng thay đổi thông qua diễn giải. Tên *Masorti* được dùng trong nhiều bối cảnh ngoài Bắc Mỹ. “Bảo thủ” ở đây là tên khuynh hướng tôn giáo, không xác định lập trường chính trị; cũng cần phân biệt với cách gọi người giữ truyền thống trong một số văn cảnh Israel. [Nguồn: My Jewish Learning, các khuynh hướng Do Thái giáo](https://www.myjewishlearning.com/article/the-jewish-denominations/).
+
+## Khái niệm và biến cố lịch sử bổ sung
+
+<a id="black-death"></a>
+### Cái Chết Đen — Black Death
+
+Tên gọi đại dịch dịch hạch ở thế kỷ XIV. Trong bối cảnh đại dịch, các lời vu cáo người Do Thái đầu độc giếng nước góp phần kích động những cuộc sát hại và trục xuất tại châu Âu. Đây là lời vu cáo, không phải lời giải thích y học về nguyên nhân dịch bệnh. [Nguồn: My Jewish Learning, trục xuất và tái tiếp nhận](https://www.myjewishlearning.com/article/expulsion-and-readmission/).
+
+<a id="zionism"></a>
+### Chủ nghĩa phục quốc Do Thái — Zionism
+
+Phong trào dân tộc hiện đại tìm kiếm quê hương và quyền tự quyết cho người Do Thái tại vùng đất gắn với lịch sử Israel, phát triển từ cuối thế kỷ XIX. Có các khuynh hướng thế tục và tôn giáo cùng nhiều bất đồng nội bộ. Zionism không đồng nghĩa với Do Thái giáo hoặc với sự ủng hộ mọi chính sách của một chính phủ Israel; phong trào đã xuất hiện trước Holocaust. [Nguồn: Eli Barnavi, Zionism](https://www.myjewishlearning.com/article/zionism/).
+
+<a id="mandatory-palestine"></a>
+### Palestine dưới quyền ủy trị Anh — Mandatory Palestine
+
+Lãnh thổ do Anh quản trị theo chế độ ủy trị sau Thế chiến thứ nhất, trước khi chế độ này kết thúc năm 1948. Đây là bối cảnh của các phong trào dân tộc Do Thái và Arab Palestine, kế hoạch phân chia của Liên Hợp Quốc năm 1947 và chiến tranh năm 1948. “Palestine” trong văn cảnh lịch sử này cần được phân biệt với các cách dùng tên gọi và địa vị chính trị ở những thời kỳ khác. [Nguồn: Liên Hợp Quốc, lịch sử vấn đề Palestine](https://www.un.org/unispal/history/).
+
+<a id="nakba"></a>
+### Nakba
+
+Từ tiếng Arab nghĩa là “thảm họa”, chỉ trải nghiệm người Palestine mất nhà cửa và quê hương qua việc chạy trốn hoặc bị trục xuất trong những biến động, chiến tranh quanh năm 1948. Thuật ngữ gắn với ký ức cộng đồng Palestine và lịch sử người tị nạn. Trong bài lịch sử Do Thái, nó giúp đặt sự thành lập Israel trong quan hệ với trải nghiệm của các cư dân khác trên cùng vùng đất. [Nguồn: Liên Hợp Quốc, giới thiệu về Nakba](https://www.un.org/unispal/about-the-nakba/).
 
 ## Đơn vị đo lường và tiền tệ
 
