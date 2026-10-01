@@ -14,7 +14,7 @@ enableToc: true
 
 Có một cách đọc rất phổ biến về Do Thái giáo: một dân tộc nhận được mặc khải về Thiên Chúa duy nhất, rồi từ đó sống theo luật của Ngài. Cách đọc ấy là cách truyền thống tự hiểu về mình, và nó có giá trị riêng. Nhưng nếu đặt câu hỏi của sử gia — *vì sao chính cộng đồng này, vào những thời điểm ấy, lại bám lấy một hình thức tôn giáo như vậy và biến nó thành trục của đời sống chung?* — thì ta phải nhìn sang những thứ khác: mưa và hạn hán, nợ nần và ruộng đất, các đạo quân [Assyria và Babylon](./glossary#assyria-babylon), những hiệp ước [chư hầu](./glossary#vassal-tribute), và các vị thần của những dân tộc láng giềng.
 
-Bài này là phần bổ sung cho [[Tìm hiểu tư tưởng|Tìm hiểu tư tưởng Do Thái: từ giao ước đến một dân tộc sống bằng luật]]. Bài trước đi theo từng nhóm luật trong [613 điều răn](./613-commandments/index). Bài này lùi lại một bước và đặt ba câu hỏi:
+Bài này là phần bổ sung cho [Tìm hiểu tư tưởng Do Thái: từ giao ước đến một dân tộc sống bằng luật](Tư%20tưởng%201.md). Bài trước đi theo từng nhóm luật trong [613 điều răn](./613-commandments/index). Bài này lùi lại một bước và đặt ba câu hỏi:
 
 1. Israel cổ đại sống trong một thế giới như thế nào, xét về lịch sử, kinh tế, văn hóa xã hội, chính trị, quốc phòng và tôn giáo?
 2. Những tình thế cấp thiết nào khiến việc **chỉ thờ YHWH** trở thành tôn giáo chính thức của người Israel–Judah, rồi của người Do Thái?
