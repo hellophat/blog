@@ -20,6 +20,10 @@ Tôn giáo là một phần quan trọng của câu trả lời. Nhưng muốn h
 
 “Từ Đền thờ đến trang sách” là trục kể chuyện của bài này. Nó chỉ một sự chuyển dịch về trung tâm của đời sống tôn giáo, chứ không phải một cuộc thay thế hoàn toàn: kinh sách đã có vai trò trước khi Đền thờ bị phá hủy, còn Jerusalem và ký ức về Đền thờ tiếp tục hiện diện sau đó.
 
+![Niên biểu chọn lọc lịch sử người Do Thái từ khoảng 1207 TCN đến năm 1948](assets/nien-bieu-do-thai.svg)
+
+*Hình 1. Các bước ngoặt chọn lọc để định hướng khi đọc; khoảng cách giữa các mốc không theo tỷ lệ thời gian. Hình được biên soạn từ niên biểu đối chiếu cuối bài và các nguồn dẫn trong từng phần. Sự chuyển dịch từ Đền thờ sang kinh sách diễn ra qua nhiều thế hệ, trong khi đời sống tại quê hương và lưu tán cùng tiếp tục.*
+
 ## 1. Một dân tộc, một tôn giáo và nhiều cách thuộc về
 
 Trong tiếng Việt, “[người Do Thái](./glossary#jewish-identity)” và “người theo Do Thái giáo” dễ được dùng như đồng nghĩa. Nhưng một người có thể là người Do Thái về nguồn gốc, văn hóa hoặc sự gắn bó với cộng đồng mà không thực hành tôn giáo. Ngược lại, [người cải đạo](./glossary#giyur) có thể gia nhập cộng đồng tôn giáo mà không có tổ tiên Do Thái. Bởi vậy, không thể xác định bản sắc này chỉ bằng đức tin hoặc huyết thống. [Nguồn: AJC, hướng dẫn về tôn giáo và văn hóa Do Thái](https://www.ajc.org/news/a-short-guide-to-jewish-religion-and-culture).
@@ -94,6 +98,10 @@ Khoảng **năm 200**, [*Mishnah*](./glossary#mishnah-term) được biên tập
 
 Talmud lưu lại nhiều ý kiến, tranh luận và cách lập luận. Nó không chỉ đưa ra một danh sách quy tắc cuối cùng. Nhờ đó, học tập trở thành việc bước vào một cuộc đối thoại giữa các thế hệ: luật được hiểu ra sao, áp dụng thế nào, và phải làm gì khi những nghĩa vụ va chạm nhau? [Nguồn: My Jewish Learning, Talmud và việc xây dựng lý luận pháp lý](https://www.myjewishlearning.com/article/talmud-is-not-a-code-of-law/).
 
+![Trang Berakhot 2a của bản in Talmud Romm, kèm giải thích về văn bản chính và các chú giải](assets/trang-talmud-berakhot.svg)
+
+*Hình 2. Trang Berakhot 2a trong bản in Romm tại Vilna, thế kỷ XIX: văn bản chính ở giữa được đặt cùng các chú giải bao quanh. Đây là một bản in muộn giúp hình dung truyền thống diễn giải, không phải bản thảo thời Talmud hình thành. Trang mở đầu bằng câu hỏi về thời điểm đọc Shema buổi tối; có thể đối chiếu [văn bản Berakhot 2a trên Sefaria](https://www.sefaria.org/Berakhot.2a). Ảnh: Widow and Brothers Romm, Vilna; nguồn e-daf.com qua [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berakhot2a.jpg), [public domain](https://creativecommons.org/publicdomain/mark/1.0/). Bản quét giữ nguyên khung, được thu nhỏ và đặt cạnh phần giải thích tiếng Việt.*
+
 ### Một đời sống tôn giáo có thể được mang theo
 
 Có thể thấy điều này qua [Shabbat](./glossary#shabbat), ngày nghỉ hằng tuần. Việc dừng lao động, quây quần bên bữa ăn, cầu nguyện và đọc Torah tạo một nhịp sống chung cho gia đình và cộng đồng. Phong tục thay đổi qua các địa phương và thời kỳ, nhưng nhịp tuần ấy có thể được duy trì ở những nơi khác nhau. [Nguồn: My Jewish Learning, Shabbat](https://www.myjewishlearning.com/article/shabbat-101/).
@@ -112,6 +120,10 @@ Có thể thấy điều này qua [Shabbat](./glossary#shabbat), ngày nghỉ h�
 | [Beta Israel](./glossary#beta-israel) | Truyền thống Do Thái ở Ethiopia |
 
 Đây là những chỉ dẫn khái quát, không phải các nhóm có ranh giới tuyệt đối. Ngoài ra còn có nhiều cộng đồng khác. Khác biệt về ngôn ngữ, món ăn, phong tục và nghi lễ cùng tồn tại với những liên hệ về kinh sách và ký ức. [Nguồn: Rachel M. Solomin, sự đa dạng của các cộng đồng Do Thái](https://www.myjewishlearning.com/article/sephardic-ashkenazic-mizrahi-jews-jewish-ethnic-diversity/).
+
+![Bản đồ chọn lọc các vùng cộng đồng Do Thái cùng một số hướng di cư Sephardi từ Iberia sau 1492](assets/cong-dong-va-di-cu-do-thai.svg)
+
+*Hình 3. Bản đồ định hướng cho bảng cộng đồng ở trên. Các tên gọi gắn với những lịch sử địa phương có giao thoa, không phải các lãnh thổ có ranh giới tuyệt đối. Mũi tên chỉ một số hướng di cư Sephardi từ Iberia tới Bắc Phi và các trung tâm Ottoman như Salonika, Istanbul từ cuối thế kỷ XV; không thể hiện tuyến đi, số lượng người di cư hay toàn bộ các điểm đến. Những vùng tiếp nhận đã có cộng đồng Do Thái từ trước. Tham khảo [tổng quan các cộng đồng Trung Đông và Bắc Phi](https://www.myjewishlearning.com/article/jews-of-the-middle-east/). Nền đường bờ biển: [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/), public domain; không dùng biên giới quốc gia hiện đại.*
 
 ### Giao lưu và sáng tạo
 

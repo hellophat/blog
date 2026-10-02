@@ -66,6 +66,12 @@ Sự phân biệt ấy cho thấy một chuyển động dài: từ lòng trung 
 
 Lời tuyên xưng *Shema* — “Hãy nghe, hỡi Israel…” — được đọc sáng và tối ([P10](./613-commandments/P10)). Torah phải được học và truyền dạy ([P11](./613-commandments/P11)), được viết thành cuộn ([P17](./613-commandments/P17)), được gắn lên trụ cửa qua *mezuzah* ([P15](./613-commandments/P15)) và được nhắc trên thân thể qua *tefillin* và *tzitzit* ([P12](./613-commandments/P12), [P13](./613-commandments/P13), [P14](./613-commandments/P14)). Căn tính vì vậy được lặp lại bằng lời, vật thể, không gian nhà ở và nhịp ngày đêm.
 
+![Ảnh phân biệt mezuzah trên trụ cửa, hai hộp tefillin và các tua chỉ tzitzit](assets/mezuzah-tefillin-tzitzit.svg)
+
+*Hình 1. Ba hình thức nhắc nhớ bằng vật thể được nhắc ở đoạn trên; đây là ảnh các ví dụ hiện đại, không phải phục dựng đồ vật Israel cổ đại. Mezuzah là cuộn kinh trong vỏ hộp, tefillin là hộp da chứa đoạn kinh đeo ở tay và đầu, tzitzit là tua chỉ ở bốn góc áo. Xem [giải thích của Chabad](https://www.chabad.org/library/article_cdo/aid/2313780/jewish/Sefer-Torah-Tefillin-Mezuzah-Tzitzit.htm).*
+
+*Nguồn ảnh từ trái sang phải: [Adrian Grycuk — mezuzah tại POLIN](https://commons.wikimedia.org/wiki/File:Mezuzah_Museum_of_the_History_of_Polish_Jews_in_Warsaw.JPG), [CC BY-SA 3.0 PL](https://creativecommons.org/licenses/by-sa/3.0/pl/); [Black Stripe — tefillin](https://commons.wikimedia.org/wiki/File:A_set_of_Tefillin.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); [TShilo12 — tzitzit](https://commons.wikimedia.org/wiki/File:Tzitzith.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Các ảnh giữ nguyên khung, được thu nhỏ và xếp cùng nhãn tiếng Việt; cụm minh họa được phát hành theo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### Luật không phải ý muốn tùy tiện của vua
 
 Khi cùng một Thiên Chúa là Đấng giải phóng nô lệ và ban luật, nghĩa vụ tôn giáo và nghĩa vụ xã hội không thể tách rời. Gian lận cân đo không chỉ là mánh khóe thương mại; nó vi phạm trật tự mà Thiên Chúa đòi hỏi ([P208](./613-commandments/P208), [N271](./613-commandments/N271), [N272](./613-commandments/N272)). Chậm trả lương không chỉ là tranh chấp hợp đồng; nó bị cấm ([P200](./613-commandments/P200), [N238](./613-commandments/N238)). Bỏ mặc người gặp nguy hiểm cũng là một vi phạm tôn giáo ([N297](./613-commandments/N297)).
@@ -100,6 +106,10 @@ Do đó có ít nhất ba cách sắp xếp:
 | Tòa án và trách nhiệm dân sự | Chứng cứ, xét xử, thiệt hại và tài sản được xử lý ra sao? | [P174](./613-commandments/P174)–[P184](./613-commandments/P184), [P224](./613-commandments/P224)–[P248](./613-commandments/P248) |
 | Liên đới và đạo đức thường nhật | Người nghèo, người làm thuê, người cải đạo và người yếu thế được bảo vệ thế nào? | [P194](./613-commandments/P194)–[P211](./613-commandments/P211), [N232](./613-commandments/N232)–[N305](./613-commandments/N305) |
 | Gia đình, vua và chiến tranh | Sinh sản, hôn nhân, kế vị và bạo lực chính trị bị giới hạn thế nào? | [P172](./613-commandments/P172)–[P193](./613-commandments/P193), [P212](./613-commandments/P212)–[P223](./613-commandments/P223), [N311](./613-commandments/N311)–[N365](./613-commandments/N365) |
+
+![Giao ước kết nối tám nhóm chức năng của luật: độc thần, thời gian, Đền Thờ, đất đai, thân thể, tư pháp, liên đới và quyền lực](assets/giao-uoc-va-cac-nhom-luat.svg)
+
+*Hình 2. Sơ đồ tổng hợp tám nhóm chức năng ở bảng trên, do bài viết biên soạn. Các đường nối thể hiện quan hệ với trục giao ước, không phải thứ bậc hay trình tự lịch sử; một điều luật có thể thuộc nhiều nhóm. Đây là khung phân tích hiện đại, không thay thế cách sắp xếp của truyền thống.*
 
 ## 4. Các nhóm luật đã làm gì cho xã hội Israel?
 

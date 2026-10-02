@@ -41,6 +41,19 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: github:quartz-community/comments
+    enabled: true
+    options:
+      provider: giscus
+      options:
+        repo: hellophat/blog
+        repoId: R_kgDOUdnYGQ
+        category: Announcements
+        categoryId: DIC_kwDOUdnYGc4DG244
+        lang: en
+    layout:
+      position: afterBody
+      priority: 10
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:

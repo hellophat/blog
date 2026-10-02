@@ -36,6 +36,10 @@ Bài này là phần bổ sung cho [Tìm hiểu tư tưởng Do Thái: từ giao
 
 ### 1. Lịch sử: một hành lang giữa các cường quốc
 
+![Sơ đồ vị trí tương đối của Israel–Judah tại Levant, giữa Ai Cập và Lưỡng Hà](assets/can-dong-co-dai.svg)
+
+*Hình 1. Sơ đồ địa lý khái quát, không theo tỷ lệ và không thể hiện biên giới chính trị. Đường đứt nét gợi hành lang liên hệ qua Levant, không phải tuyến hành quân cụ thể. Biên soạn cho bài viết; tham khảo bối cảnh khu vực trong [tài liệu Cận Đông cổ đại của The Metropolitan Museum of Art](https://resources.metmuseum.org/resources/metpublications/pdf/Art_of_the_Ancient_Near_East_A_Resource_for_Educators.pdf).*
+
 Vùng [Nam Levant](./glossary#levant) — gồm đại khái lãnh thổ Israel, Palestine, phía tây Jordan và nam Lebanon ngày nay — là một dải đất hẹp kẹp giữa Địa Trung Hải và sa mạc Syria–Arabia. Đi về phía nam là [Ai Cập](./glossary#ancient-egypt); đi về phía bắc rồi vòng sang đông là Syria và [Lưỡng Hà](./glossary#mesopotamia). Mọi đạo quân, mọi đoàn buôn nối hai trung tâm văn minh ấy đều phải đi qua đây. Vì vậy, số phận của các dân tộc nhỏ ở đây phần lớn được quyết định ở Memphis, [Nineveh](./glossary#assyria-babylon), Babylon, [Susa](./glossary#persian-empire), [Alexandria](./glossary#alexandria-leontopolis) và Rome.
 
 | Thời điểm (xấp xỉ) | Biến cố | Ý nghĩa cho tôn giáo Israel |
@@ -61,6 +65,10 @@ Bảng này cho thấy điểm quan trọng nhất: **Israel và Judah hầu nh�
 
 ### 2. Kinh tế: nông nghiệp nhờ mưa và vòng xoáy nợ
 
+![Năm bước từ mất mùa đến lao động lệ thuộc, đối chiếu với những quy định can thiệp của Torah](assets/vong-xoay-no-torah.svg)
+
+*Hình 2. Mô hình khái quát vòng xoáy nợ của hộ nông và các quy định được phân tích ở Phần III, mục 5. Các quy định có phạm vi áp dụng khác nhau; sơ đồ không hàm ý chúng luôn được thực thi hoặc đã xóa bỏ chế độ nô lệ.*
+
 **Một vùng đất sống nhờ trời.** Ai Cập có sông Nile ngập định kỳ; Lưỡng Hà có hệ thống kênh tưới từ Tigris và Euphrates. Vùng đồi Israel–Judah thì không có con sông lớn nào để tưới tiêu; mùa màng phụ thuộc gần như hoàn toàn vào mưa mùa đông. Chính Torah ý thức rõ khác biệt này: Phục Truyền 11:10–17 so sánh đất Ai Cập, nơi người ta “tưới bằng chân” như tưới vườn rau, với đất hứa, nơi đất “uống nước mưa từ trời”, và đặt mưa trực tiếp vào điều kiện của lòng trung thành với YHWH.
 
 Chi tiết kinh tế này có hệ quả tôn giáo trực tiếp. Ở Canaan, vị thần gắn với mưa, bão và mùa màng là **[Baal](./glossary#baal-anat)**. Với một nông dân vùng đồi, câu hỏi “ai cho mưa?” không phải là câu hỏi triết học mà là câu hỏi sống còn. Cuộc đối đầu giữa ngôn sứ [Elijah](./glossary#elijah) và các tư tế Baal trên núi Carmel (1 Các Vua 18) diễn ra đúng trong bối cảnh một cơn hạn hán; sách [Hosea](./glossary#eighth-century-prophets) (chương 2) tố cáo Israel đã gán lúa, rượu và dầu cho Baal thay vì cho YHWH. Cuộc tranh chấp giữa YHWH và Baal, vì thế, trước hết là tranh chấp về **ai bảo đảm sinh kế**.
@@ -81,6 +89,12 @@ Chi tiết kinh tế này có hệ quả tôn giáo trực tiếp. Ở Canaan, v
 **Xã hội dòng tộc.** Trước và cả trong thời quân chủ, lòng trung thành đầu tiên của một người Israel là với gia đình, thị tộc (*mishpachah*) và chi tộc (*shevet*). Kinh Thánh trình bày mười hai chi tộc như hậu duệ của mười hai người con [Jacob](./glossary#abraham-isaac-jacob); nhiều nhà nghiên cứu cho rằng sơ đồ gia phả ấy là cách về sau nối các nhóm có nguồn gốc khác nhau vào một câu chuyện chung. Xem [các chi tộc](./glossary#tribes).
 
 **Tôn giáo gia đình.** Khảo cổ học cho thấy đời sống tôn giáo thường ngày ở Israel–Judah khác xa hình ảnh trong các sách Kinh Thánh đã được biên tập. Người ta tìm thấy hàng trăm tượng nữ bằng đất nung (thường gọi là “tượng trụ Judah”), bàn thờ nhỏ trong nhà, các nơi thờ trên cao ([*bamot*](./glossary#bamot)) ở làng, và dấu vết của việc thờ cúng tổ tiên. Kinh Thánh cũng nhắc đến [*teraphim*](./glossary#teraphim-figurines) — tượng thần gia đình — trong nhà của Rachel (Sáng Thế 31) và cả của Michal, vợ David (1 Samuel 19). Tôn giáo gia đình này nhằm vào những mối quan tâm rất cụ thể: sinh nở an toàn, chữa bệnh, bảo vệ nhà cửa, liên lạc với người chết.
+
+![Hai ảnh hiện vật Judah: quai vò có dấu lmlk và tượng trụ nữ bằng gốm từ Lachish](assets/hien-vat-judah.svg)
+
+*Hình 3. Hai loại hiện vật đặt các phần kinh tế và phụng tự dân gian cạnh nhau. Bên trái: quai vò thời Đền Thờ thứ nhất có dấu lmlk, gắn với vương quyền Judah; ảnh tại Herodian Quarter Museum. Bên phải: tượng trụ từ Lachish, khoảng thế kỷ VIII–VII TCN, hiện vật 34.126.53 của [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/323163). Các tượng loại này được diễn giải trong bối cảnh thực hành tôn giáo dân gian, nhưng danh tính và chức năng còn tranh luận; không thể chỉ từ hình dáng mà đồng nhất chắc chắn với Asherah.*
+
+*Nguồn ảnh: [Tom Bahar — dấu lmlk](https://commons.wikimedia.org/wiki/File:LMLK_Seals_on_Jar_Handles.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); [The Met — tượng trụ Judah](https://commons.wikimedia.org/wiki/File:Nude_female_figure_(Judean_pillar_figurine)_MET_DP-42289-001.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Các ảnh giữ nguyên khung, được thu nhỏ và xếp cùng nhãn tiếng Việt; cụm minh họa được phát hành theo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 **Sự đa dạng của tôn giáo dân gian.** Hai phát hiện nổi tiếng đặc biệt quan trọng:
 

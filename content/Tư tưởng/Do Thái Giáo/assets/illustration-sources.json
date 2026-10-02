@@ -1,0 +1,86 @@
+[
+  {
+    "figure": "mezuzah-tefillin-tzitzit.svg",
+    "license": "CC BY-SA 4.0",
+    "sources": [
+      {
+        "file": "mezuzah-polin.jpg",
+        "author": "Adrian Grycuk",
+        "page": "https://commons.wikimedia.org/wiki/File:Mezuzah_Museum_of_the_History_of_Polish_Jews_in_Warsaw.JPG",
+        "license": "CC BY-SA 3.0 PL",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/"
+      },
+      {
+        "file": "tefillin.jpg",
+        "author": "Black Stripe",
+        "page": "https://commons.wikimedia.org/wiki/File:A_set_of_Tefillin.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      {
+        "file": "tzitzit.jpg",
+        "author": "TShilo12",
+        "page": "https://commons.wikimedia.org/wiki/File:Tzitzith.jpg",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    ],
+    "changes": "Ảnh giữ nguyên khung; xếp bố cục và thêm nhãn tiếng Việt. Sơ đồ/bản đồ do bài viết biên soạn."
+  },
+  {
+    "figure": "hien-vat-judah.svg",
+    "license": "CC BY-SA 4.0",
+    "sources": [
+      {
+        "file": "lmlk.jpg",
+        "author": "Tom Bahar",
+        "page": "https://commons.wikimedia.org/wiki/File:LMLK_Seals_on_Jar_Handles.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "file": "judah-figurine.jpg",
+        "author": "The Metropolitan Museum of Art",
+        "page": "https://www.metmuseum.org/art/collection/search/323163",
+        "license": "CC0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "changes": "Ảnh giữ nguyên khung; xếp bố cục và thêm nhãn tiếng Việt. Sơ đồ/bản đồ do bài viết biên soạn."
+  },
+  {
+    "figure": "trang-talmud-berakhot.svg",
+    "sources": [
+      {
+        "file": "talmud-berakhot-2a.jpg",
+        "author": "Widow and Brothers Romm, Vilna",
+        "page": "https://commons.wikimedia.org/wiki/File:Berakhot2a.jpg",
+        "license": "Public domain",
+        "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+      }
+    ],
+    "changes": "Ảnh giữ nguyên khung; xếp bố cục và thêm nhãn tiếng Việt. Sơ đồ/bản đồ do bài viết biên soạn."
+  },
+  {
+    "figure": "cong-dong-va-di-cu-do-thai.svg",
+    "sources": [
+      {
+        "author": "Natural Earth",
+        "page": "https://www.naturalearthdata.com/about/terms-of-use/",
+        "license": "Public domain",
+        "dataset": "ne_110m_land.geojson"
+      }
+    ],
+    "changes": "Ảnh giữ nguyên khung; xếp bố cục và thêm nhãn tiếng Việt. Sơ đồ/bản đồ do bài viết biên soạn."
+  },
+  {
+    "figure": "giao-uoc-va-cac-nhom-luat.svg",
+    "sources": [
+      {
+        "author": "Biên soạn cho bài viết",
+        "basis": "Tư tưởng 1, mục 3 và 4"
+      }
+    ],
+    "changes": "Ảnh giữ nguyên khung; xếp bố cục và thêm nhãn tiếng Việt. Sơ đồ/bản đồ do bài viết biên soạn."
+  }
+]
